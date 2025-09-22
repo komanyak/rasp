@@ -4,7 +4,7 @@ import json
 import subprocess
 
 
-subprocess.run(['python', 'group_parser.py'])
+subprocess.run(['/Users/alex/Desktop/rasp/rasp/.venv/bin/python', 'group_parser.py'])
 
 
 with open('groups/groups.json', encoding='utf-8') as file:
