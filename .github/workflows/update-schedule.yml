@@ -122,13 +122,10 @@ jobs:
           git push
         fi
 
-    - name: Deploy to GitHub Pages
+    - name: Trigger frontend deployment
       if: steps.check-changes.outputs.groups_changed == 'true' || steps.check-changes.outputs.schedule_changed == 'true' || steps.check-changes.outputs.force_update == 'true'
       run: |
-        cd frontend
-        npm ci
-        npm run build
-        npm run deploy
+        echo "Frontend files updated, deployment will be triggered automatically by push to main branch"
 
     - name: Summary
       run: |
