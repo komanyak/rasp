@@ -1,0 +1,147 @@
+name: Update Schedule Data
+
+on:
+  # Запуск каждый день в 6:00 UTC (9:00 МСК)
+  schedule:
+    - cron: '0 6 * * *'
+  
+  # Возможность запуска вручную
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Принудительное обновление (даже если нет изменений)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install beautifulsoup4 requests ics pytz
+
+    - name: Create backup of current data
+      run: |
+        mkdir -p backup
+        cp groups/groups.json backup/groups.json.backup || echo "No groups.json found"
+        cp -r rasp backup/rasp.backup || echo "No rasp folder found"
+
+    - name: Run schedule update script
+      run: |
+        cd /Users/alex/Desktop/rasp/rasp
+        python main.py
+      env:
+        PYTHONUNBUFFERED: 1
+
+    - name: Check for changes
+      id: check-changes
+      run: |
+        # Проверяем изменения в файлах
+        if git diff --quiet groups/groups.json; then
+          echo "groups_changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "groups_changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+        # Проверяем изменения в папке rasp
+        if git diff --quiet rasp/; then
+          echo "schedule_changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "schedule_changed=true" >> $GITHUB_OUTPUT
+        fi
+        
+        # Проверяем принудительное обновление
+        echo "force_update=${{ github.event.inputs.force_update }}" >> $GITHUB_OUTPUT
+
+    - name: Update frontend files
+      if: steps.check-changes.outputs.groups_changed == 'true' || steps.check-changes.outputs.schedule_changed == 'true' || steps.check-changes.outputs.force_update == 'true'
+      run: |
+        # Копируем обновленные файлы в frontend
+        cp groups/groups.json frontend/public/groups.json
+        mkdir -p frontend/public/rasp
+        cp rasp/*.ics frontend/public/rasp/
+        
+        # Создаем файл с информацией о последнем обновлении
+        echo '{"lastUpdated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'", "version": "'$(date +%s)'"}' > frontend/public/update-info.json
+
+    - name: Configure Git
+      if: steps.check-changes.outputs.groups_changed == 'true' || steps.check-changes.outputs.schedule_changed == 'true' || steps.check-changes.outputs.force_update == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+    - name: Commit and push changes
+      if: steps.check-changes.outputs.groups_changed == 'true' || steps.check-changes.outputs.schedule_changed == 'true' || steps.check-changes.outputs.force_update == 'true'
+      run: |
+        # Добавляем только измененные файлы
+        git add groups/groups.json
+        git add rasp/
+        git add frontend/public/groups.json
+        git add frontend/public/rasp/
+        git add frontend/public/update-info.json
+        
+        # Проверяем, есть ли что коммитить
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔄 Auto-update schedule data $(date '+%Y-%m-%d %H:%M:%S UTC')
+          
+          - Updated groups data
+          - Updated schedule files (.ics)
+          - Last update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC
+          
+          Triggered by: ${{ github.event_name }}
+          Run ID: ${{ github.run_id }}"
+          
+          git push
+        fi
+
+    - name: Deploy to GitHub Pages
+      if: steps.check-changes.outputs.groups_changed == 'true' || steps.check-changes.outputs.schedule_changed == 'true' || steps.check-changes.outputs.force_update == 'true'
+      run: |
+        cd frontend
+        npm ci
+        npm run build
+        npm run deploy
+
+    - name: Summary
+      run: |
+        echo "## 📊 Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Groups changed:** ${{ steps.check-changes.outputs.groups_changed }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Schedule changed:** ${{ steps.check-changes.outputs.schedule_changed }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Force update:** ${{ steps.check-changes.outputs.force_update }}" >> $GITHUB_STEP_SUMMARY
+        echo "**Last updated:** $(date -u '+%Y-%m-%d %H:%M:%S') UTC" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📁 Files updated:" >> $GITHUB_STEP_SUMMARY
+        echo "- groups/groups.json" >> $GITHUB_STEP_SUMMARY
+        echo "- rasp/*.ics files" >> $GITHUB_STEP_SUMMARY
+        echo "- frontend/public/groups.json" >> $GITHUB_STEP_SUMMARY
+        echo "- frontend/public/rasp/*.ics" >> $GITHUB_STEP_SUMMARY
+        echo "- frontend/public/update-info.json" >> $GITHUB_STEP_SUMMARY
