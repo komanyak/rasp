@@ -5,6 +5,7 @@ import pytz
 import requests
 import hashlib
 import random
+import os
 
 
 # Массив различных user agents для защиты от блокировки
@@ -54,13 +55,13 @@ def json_to_ics(data, path=""):
 
     keys = list(data.keys())
     group = data[keys[0]]
-    # print(group)
+    
+    # Создаем события с детерминированными UID на основе содержимого
     for day in keys[1:]:
         _time = list(data[day]["pairs"].keys())
 
         for time in _time:
             pair = data[day]["pairs"][time]
-            # print(pair)
             pair_name = list(pair.keys())[0]
             pair_start = pair[pair_name]["time_start"]
             pair_end = pair[pair_name]["time_end"]
@@ -79,13 +80,35 @@ def json_to_ics(data, path=""):
             formatted_begin = begin_utc.strftime("%Y-%m-%d %H:%M:%S")
             formatted_end = end_utc.strftime("%Y-%m-%d %H:%M:%S")
 
+            # Создаем детерминированный UID на основе содержимого события
+            uid_string = f"{group}{day}{pair_start}{pair_name}{lector}{room}"
+            uid = hashlib.md5(uid_string.encode('utf-8')).hexdigest()
+
             event = Event(name=pair_type + " " + pair_name, begin=formatted_begin, end=formatted_end,
                           description=lector,
                           location=room)
+            event.uid = uid
 
             calen.events.add(event)
-    with open(f'{path}{group}.ics', 'w', encoding='utf-8') as f:
-        f.writelines(calen.serialize_iter())
+    
+    # Генерируем новое содержимое
+    new_content = ''.join(calen.serialize_iter())
+    file_path = f'{path}{group}.ics'
+    
+    # Проверяем, нужно ли обновлять файл
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            old_content = f.read()
+        
+        # Сохраняем только если содержимое изменилось
+        if old_content == new_content:
+            return False  # Файл не изменился
+    
+    # Сохраняем файл
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    
+    return True  # Файл был создан или обновлен
 
 # data = get_schedule("М3О-107СВ-25")
 # json_to_ics(data, "rasp/")

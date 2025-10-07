@@ -16,6 +16,8 @@ if not os.path.exists("rasp"):
 
 
 success_count = 0
+updated_count = 0
+unchanged_count = 0
 error_count = 0
 total_count = 0
 
@@ -27,9 +29,14 @@ for inst in data["institute"]:
                 rasp = get_schedule(str(group))
                 if rasp is not None:
                     try:
-                        json_to_ics(rasp, "rasp/")
+                        was_updated = json_to_ics(rasp, "rasp/")
                         success_count += 1
-                        print(f"\t✅ {group}.ics\t\tSAVED\t[{success_count}/{total_count}]")
+                        if was_updated:
+                            updated_count += 1
+                            print(f"\t✅ {group}.ics\t\tUPDATED\t[{success_count}/{total_count}]")
+                        else:
+                            unchanged_count += 1
+                            print(f"\t➖ {group}.ics\t\tUNCHANGED\t[{success_count}/{total_count}]")
                     except Exception as e:
                         error_count += 1
                         print(f"\t⚠️  Ошибка создания {group}.ics: {type(e).__name__}")
@@ -41,5 +48,7 @@ print("📊 СТАТИСТИКА ОБНОВЛЕНИЯ РАСПИСАНИЙ")
 print("="*50)
 print(f"📚 Всего групп:              {total_count}")
 print(f"✅ Успешно обработано:       {success_count} ({success_count*100//total_count if total_count > 0 else 0}%)")
+print(f"   ├─ 🔄 Обновлено:          {updated_count}")
+print(f"   └─ ➖ Без изменений:       {unchanged_count}")
 print(f"❌ Не удалось получить:      {error_count} ({error_count*100//total_count if total_count > 0 else 0}%)")
 print("="*50)
