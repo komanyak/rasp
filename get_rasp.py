@@ -110,5 +110,5 @@ def json_to_ics(data, path=""):
     
     return True  # Файл был создан или обновлен
 
-# data = get_schedule("М3О-107СВ-25")
-# json_to_ics(data, "rasp/")
+data = get_schedule("М3О-107СВ-25")
+json_to_ics(data, "rasp/")
