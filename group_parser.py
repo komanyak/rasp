@@ -30,7 +30,7 @@ for i in range(1, 15):
     }
 
     link = f"https://mai.ru/education/studies/schedule/groups.php?department=%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82+%E2%84%96{i}&course=all"
-
+    print(link)
     html_doc = requests.get(link, headers=headers).text
 
     soup = BeautifulSoup(html_doc, 'html.parser')
@@ -68,7 +68,7 @@ for i in range(1, 15):
         elif form == "Мк" or form == "М" or form == "Мки":
             data_dict[first_digit]["magistracy"].append(item)
 
-        elif form == "А" or form == "Ак":
+        elif form == "А" or form == "Ак" or form == "Аа" or form == "Ап":
             data_dict[first_digit]["postgraduate"].append(item)
 
         elif form == "СВ" or form == "СВки" or form == "СВк":
