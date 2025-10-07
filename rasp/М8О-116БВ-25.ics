@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251023T060000Z
-SUMMARY:ЛК Математический анализ
-UID:1d0291ed4146fe8977ab14fc1804215f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251211T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:0e36bc4dbf81928d9bfde9dc241eae8f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251002T074500Z
-SUMMARY:ЛК Математический анализ
-UID:1daf03c1176aa15e08b73f0ea2da402c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
 DTEND:20251117T073000Z
 LOCATION:ГУК Б-652
@@ -31,19 +10,20 @@ SUMMARY:ЛР Дискретная математика
 UID:1220f1048e06e3c0643d7d7b6546839e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251009T060000Z
-SUMMARY:ЛК Математический анализ
-UID:7d3f07a4ed9dae2f0b75c49dcfc67093
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
 DTEND:20250908T073000Z
 LOCATION:ГУК Б-652
 DTSTART:20250908T060000Z
 SUMMARY:ЛР Дискретная математика
 UID:cf5a03ec528f00d2bdfaa4c0e61bc6cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250925T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20250925T060000Z
+SUMMARY:ЛК Математический анализ
+UID:6e45914315f3441c2df649ceec54be14
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T113000Z
@@ -123,6 +103,14 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:86af7ed31ff713db94494bb39a8b76e4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250918T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20250918T074500Z
+SUMMARY:ЛК Математический анализ
+UID:9a50fa3ff15d434c164bb932f7a074e3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T164500Z
 LOCATION:ГУК Б-438
 DTSTART:20251118T151500Z
@@ -136,13 +124,6 @@ LOCATION:ГУК В-228
 DTSTART:20251128T060000Z
 SUMMARY:ЛК Дискретная математика
 UID:602a29ab15586fad6cdbbf63978df7fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251225T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:291b583cf13f9a30ee05710a0f942f61
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T091500Z
@@ -174,11 +155,27 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:00cebc630ed0bf705d3044a1d7d67e81
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251030T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251030T074500Z
+SUMMARY:ЛК Математический анализ
+UID:0c992784bab8fdd7dc38360ec1b4d3f4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250916T131500Z
 LOCATION:3-131
 DTSTART:20250916T114500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:6ac0199446dc2568542bc75ca60af887
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251030T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251030T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:88ba4a80eec073060a92f3e6890bda3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каранэ Мария Магдалина Сергеевна
@@ -262,6 +259,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a30ff8985aac718744db3c956bfd8755
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20260117T131500Z
+LOCATION:3-115
+DTSTART:20260117T114500Z
+SUMMARY:Экзамен Математический анализ
+UID:747eac6f094676d25341740d5f93a94e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T091500Z
 LOCATION:--каф. 919
 DTSTART:20251015T074500Z
@@ -304,11 +309,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:ded2d48dcd2fd19820fcb8e8e81ad321
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251009T074500Z
-SUMMARY:ЛК Математический анализ
-UID:691d1db8f8ac4c3b60d0fd956a4420f0
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20260121T131500Z
+LOCATION:ГУК Б-636
+DTSTART:20260121T114500Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:51147b9ffb7f0122e77c13d8af111b49
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T091500Z
@@ -316,6 +322,30 @@ LOCATION:--каф. 919
 DTSTART:20251112T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:3262c30e3cc07d07666b6eaaadfbab2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251113T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251113T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:fde74fa5829549d98faf0f155608727a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20260117T113000Z
+LOCATION:3-115
+DTSTART:20260117T100000Z
+SUMMARY:Экзамен Математический анализ
+UID:cedaf90a4fd9d4589e5cd4585be37451
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251016T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251016T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:36ffd61706cab7dcb84040b298bdcc4c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250905T091500Z
@@ -355,13 +385,6 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:1f5a14248d245819f31ceadef7ac4f44
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251127T074500Z
-SUMMARY:ЛК Математический анализ
-UID:bdd271b152ccb7c392f1b66ca8681f1d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251204T131500Z
 LOCATION:--каф. 919
 DTSTART:20251204T114500Z
@@ -377,6 +400,14 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:1c6c5081a059bc6768538c03cf07a346
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Нефедов Виктор Николаевич
+DTEND:20260125T113000Z
+LOCATION:3-115
+DTSTART:20260125T100000Z
+SUMMARY:Экзамен Дискретная математика
+UID:c9e2de23c402332a74f0accac69722b5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T150000Z
 LOCATION:ГУК В-214
 DTSTART:20251112T133000Z
@@ -390,6 +421,14 @@ LOCATION:ГУК В-214
 DTSTART:20250903T151500Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:437c5964bb98e74fb58847daba827219
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251120T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251120T060000Z
+SUMMARY:ЛК Математический анализ
+UID:cf72db8b11c5ad1cb7dde562ffbf8b43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зайцев Валентин Евгеньевич
@@ -408,13 +447,6 @@ SUMMARY:ЛР Дискретная математика
 UID:b8e45798acc657fd7b544bf2873c1dc6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251106T060000Z
-SUMMARY:ЛК Математический анализ
-UID:982e5d5b965053cbed2abf922a02383c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250916T164500Z
 LOCATION:ГУК Б-438
 DTSTART:20250916T151500Z
@@ -428,6 +460,14 @@ LOCATION:ГУК В-228
 DTSTART:20251017T060000Z
 SUMMARY:ЛК Дискретная математика
 UID:4fc22e6faf60b1b3a97480ac87c06ca2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251009T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251009T074500Z
+SUMMARY:ЛК Математический анализ
+UID:edc9cb902d41196710ec61b0a05e43af
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T150000Z
@@ -466,6 +506,14 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:aca7a3cc525918f2a4ae4147e28a4f80
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251204T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251204T074500Z
+SUMMARY:ЛК Математический анализ
+UID:2f6976798d62493b1c38763d50c7cbc4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
 DTEND:20251114T073000Z
 LOCATION:ГУК В-228
@@ -479,13 +527,6 @@ LOCATION:ГУК В-221
 DTSTART:20251015T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:03a353c944507e021b1e269f4d2e5a6e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251218T074500Z
-SUMMARY:ЛК Математический анализ
-UID:a44f581efca21c6709aff91e26fb814d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T131500Z
@@ -568,13 +609,6 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:3ae216e502abd3e5415c1399ebedc3e1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251120T074500Z
-SUMMARY:ЛК Математический анализ
-UID:6391d1a4ce2e181d163b8cc8016a800d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251118T131500Z
 LOCATION:ГУК Б-440
 DTSTART:20251118T114500Z
@@ -601,13 +635,6 @@ LOCATION:ГУК В-221
 DTSTART:20251203T100000Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:8ffdf8d838383bf514ba3a23d677a73f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251204T074500Z
-SUMMARY:ЛК Математический анализ
-UID:2b012df42aee5dadc2fd03f04bf4ba43
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -639,32 +666,11 @@ SUMMARY:ПЗ Математический анализ
 UID:95949e242ff7206e7901524e9d2ee1a2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20250925T060000Z
-SUMMARY:ЛК Математический анализ
-UID:3a6872a2fa48a09ac340e2c15b5a7e4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251204T060000Z
-SUMMARY:ЛК Математический анализ
-UID:097ce44d7791ce278f8b17834844d1ea
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250923T113000Z
 LOCATION:ГУК Б-440
 DTSTART:20250923T100000Z
 SUMMARY:ЛР Программирование на языке Python
 UID:f633b8d4cfc843800c1cc7c758126e0e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20250918T074500Z
-SUMMARY:ЛК Математический анализ
-UID:2ed570e2ec22dcd3037c5508a911b918
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T091500Z
@@ -740,11 +746,12 @@ SUMMARY:ПЗ История России
 UID:18bcc04ff1fc38bdd603a8f5457e41eb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T073000Z
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20250904T073000Z
 LOCATION:ГУК Б-649
-DTSTART:20251218T060000Z
-SUMMARY:ЛК Математический анализ
-UID:7510a4e81805ce9a999d3d8371bb7cd1
+DTSTART:20250904T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:c187bd4e931de65c73ef5d42a682e3a9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251125T131500Z
@@ -768,18 +775,12 @@ SUMMARY:ЛК Программирование на языке Python
 UID:ca4f7918fed98ea24c5f14cd9e99eb96
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T091500Z
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251002T091500Z
 LOCATION:ГУК Б-649
-DTSTART:20250925T074500Z
+DTSTART:20251002T074500Z
 SUMMARY:ЛК Математический анализ
-UID:adfc433d277c9da26b478d6a0fd6b18f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251016T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:d733487d2ef8802566f65fdfdaff50f3
+UID:288997a4e0c640e8af2478eef1c902d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -826,6 +827,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:712b2af9324eecf0f080f778f88a6d82
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251106T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251106T074500Z
+SUMMARY:ЛК Математический анализ
+UID:e30e536c21e156209e89c34484319f7c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:--каф. 919
 DTSTART:20251203T074500Z
@@ -859,13 +868,6 @@ LOCATION:--каф. 919
 DTSTART:20251217T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:d06d4e73a9f38c81f6c3383cad8a144a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20250918T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:ce68592cbed4b5b83adb27b52fe46dc6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -904,18 +906,27 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:1f7854b54152dcca89f6cd69dc51b1f6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250911T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20250911T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f3c093aa0800aedda54323df314c4729
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251002T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251002T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:0221ae426fcc80a2e44e999f64de9426
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251105T113000Z
 LOCATION:ГУК В-221
 DTSTART:20251105T100000Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:07fa9e8a2cd97cb2b26bba982f15536b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20250911T060000Z
-SUMMARY:ЛК Математический анализ
-UID:47c3da121222756901ba63dcc18647c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -954,11 +965,12 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:fcda05e832b1ba32386e22a2dd6e8075
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:--каф. 919
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:85666b486729feeb7ed110b1f8219bd0
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251016T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251016T074500Z
+SUMMARY:ЛК Математический анализ
+UID:e0063b85eb4b709f6bf1693c83f7159a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каранэ Мария Магдалина Сергеевна
@@ -967,6 +979,13 @@ LOCATION:ГУК Б-656
 DTSTART:20251215T114500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:5d5761422cea5e4b242fe5c886272993
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф. 919
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:85666b486729feeb7ed110b1f8219bd0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T131500Z
@@ -990,6 +1009,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:3aa95d1bba63890ade3fcb8ea7b41113
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20250918T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20250918T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:7a994b3b19e065030215359d512084bf
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T131500Z
 LOCATION:Орш. Б-304
 DTSTART:20251205T114500Z
@@ -1002,6 +1029,22 @@ LOCATION:--каф. 919
 DTSTART:20250924T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:21829d821cf8d07cc8ef37e03bb30db2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251211T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251211T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:782356ce05e0bcdb5177ad8a28cb6c46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зайцев Валентин Евгеньевич
+DTEND:20260113T131500Z
+LOCATION:ГУК Б-738
+DTSTART:20260113T114500Z
+SUMMARY:Экзамен Фундаментальная информатика
+UID:60aaae5ccc75e0db1733f90f884d2877
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T131500Z
@@ -1045,6 +1088,14 @@ LOCATION:ГУК В-214
 DTSTART:20251015T151500Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:5be450af39d1b029b982371d04cd7ae6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20260121T113000Z
+LOCATION:ГУК Б-636
+DTSTART:20260121T100000Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:7eb9f7357d8709951ca899f2396211f5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T131500Z
@@ -1184,13 +1235,6 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:98f0f5ae8c40ddeee3e6fdc87599604a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250911T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20250911T074500Z
-SUMMARY:ЛК Математический анализ
-UID:d1c009eb242f14c4efc7e008186980ba
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251127T131500Z
 LOCATION:--каф. 919
 DTSTART:20251127T114500Z
@@ -1217,6 +1261,14 @@ LOCATION:ГУК В-221
 DTSTART:20251210T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:3996703f3d3f5b85a78bbbc47f8122cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251218T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251218T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7f20e8da3f992bbce32f7ad2be002700
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250909T113000Z
@@ -1269,11 +1321,12 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:bb40d1b8253ee1d5bd07a9b552876f34
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T073000Z
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251127T073000Z
 LOCATION:ГУК Б-649
-DTSTART:20251120T060000Z
-SUMMARY:ЛК Математический анализ
-UID:b78f49d0f199a9718b09cc43bb259897
+DTSTART:20251127T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:d8511742b548d3399a732f0cbcc7f0f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -1289,6 +1342,14 @@ LOCATION:Орш. В-610
 DTSTART:20251213T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:f6f724283219ee7cc70c2302aac4d6d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251120T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251120T074500Z
+SUMMARY:ЛК Математический анализ
+UID:51aa733a8e1396a45a81d34520511ce3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T131500Z
@@ -1310,6 +1371,22 @@ LOCATION:3-131
 DTSTART:20251223T100000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:623534bc9af0fec978abd6d896d4307c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251113T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251113T074500Z
+SUMMARY:ЛК Математический анализ
+UID:c3003877eb262b9f3dab95e0a46746d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251009T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251009T060000Z
+SUMMARY:ЛК Математический анализ
+UID:5831ad8e045e5534debc1fedc2a8b903
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T113000Z
@@ -1412,6 +1489,14 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:7553bc9f7be8c5b17c7e4b6023582db9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251023T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251023T074500Z
+SUMMARY:ЛК Математический анализ
+UID:0ec03a2f1fb6a6678d8249e644205982
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
 DTEND:20251024T073000Z
 LOCATION:ГУК В-228
@@ -1484,13 +1569,6 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:97fea31c5908ccdd1744eb1e6d8e883c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251030T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251030T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:389abdedfd44bb5e6c822c5b087f1df6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251119T113000Z
 LOCATION:ГУК В-221
 DTSTART:20251119T100000Z
@@ -1517,13 +1595,6 @@ LOCATION:ГУК Б-440
 DTSTART:20251202T100000Z
 SUMMARY:ЛР Программирование на языке Python
 UID:16e71b1bd8b79898891b74b808a8dfd6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251106T074500Z
-SUMMARY:ЛК Математический анализ
-UID:fdb1e62b5642ac76828a0be2968670f9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T113000Z
@@ -1574,6 +1645,14 @@ LOCATION:Орш. В-501
 DTSTART:20251025T133000Z
 SUMMARY:ЛК Общественный проект "Обучение служением"
 UID:f030476baf0a039fd1bac980bb3dd600
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251204T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251204T060000Z
+SUMMARY:ЛК Математический анализ
+UID:5d9e6ece32840e8add2363c05208271b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T091500Z
@@ -1648,13 +1727,6 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:ad811f9728dea838f018d690910b43a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20250904T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:43eb40113a9534e51096af1ab138ee14
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251014T150000Z
 LOCATION:ГУК Б-438
 DTSTART:20251014T133000Z
@@ -1668,13 +1740,6 @@ LOCATION:ГУК Б-656
 DTSTART:20251006T114500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:e585614e1415c7fed26260eeab35a4c7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251030T074500Z
-SUMMARY:ЛК Математический анализ
-UID:0a72b28118e4a7a4f1e1b43d98e15362
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каранэ Мария Магдалина Сергеевна
@@ -1691,6 +1756,14 @@ LOCATION:ГУК В-228
 DTSTART:20251010T060000Z
 SUMMARY:ЛК Дискретная математика
 UID:0aa1d1b0c108e68f8e2c5f988dd69739
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зайцев Валентин Евгеньевич
+DTEND:20260113T113000Z
+LOCATION:ГУК Б-738
+DTSTART:20260113T100000Z
+SUMMARY:Экзамен Фундаментальная информатика
+UID:cf58085a0ae9944363b633321166c6a3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T131500Z
@@ -1714,18 +1787,19 @@ SUMMARY:ПЗ Математический анализ
 UID:9f0b480ecc67fedc895eb981452a1e5f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20250904T074500Z
-SUMMARY:ЛК Математический анализ
-UID:4a3d1c87b2e5954751b32bf5f912cea9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251219T131500Z
 LOCATION:Орш. Б-304
 DTSTART:20251219T114500Z
 SUMMARY:ПЗ История России
 UID:0cfa19b1c98014fad00e2f2da801e8b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251211T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251211T074500Z
+SUMMARY:ЛК Математический анализ
+UID:9c06b0c5c148095e0fdf06ec9afd5841
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -1750,18 +1824,19 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:d94151885072a060a018ef2a074a7f1a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251218T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251218T060000Z
+SUMMARY:ЛК Математический анализ
+UID:652e5fad87c4769f75d460897301089a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251021T150000Z
 LOCATION:ГУК Б-438
 DTSTART:20251021T133000Z
 SUMMARY:ЛР Фундаментальная информатика
 UID:d1873ea5e8dacf3bfeca971a6ec0a555
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251127T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:06950dc9d66cf967bea988bc3d87b436
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T091500Z
@@ -1821,11 +1896,12 @@ SUMMARY:ПЗ Физическая культура
 UID:96703ae85b5aef5138f82b64d8df7377
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T091500Z
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251106T073000Z
 LOCATION:ГУК Б-649
-DTSTART:20251113T074500Z
+DTSTART:20251106T060000Z
 SUMMARY:ЛК Математический анализ
-UID:6f462481b6d0d5b45e24e85ea02c8415
+UID:887e243b5ea19a35df952ac5a41b9d73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каранэ Мария Магдалина Сергеевна
@@ -1869,13 +1945,6 @@ LOCATION:--каф. 919
 DTSTART:20251106T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:cc85166cb7589c5a504d0acb55166b03
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251113T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:dfc23276f1ddd7ea44f925e590cd0825
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250913T113000Z
@@ -1956,11 +2025,27 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:731f13dbbf8efe9b2804322440eb57ef
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Нефедов Виктор Николаевич
+DTEND:20260125T131500Z
+LOCATION:3-115
+DTSTART:20260125T114500Z
+SUMMARY:Экзамен Дискретная математика
+UID:daed716daa941e8c6f8aa97fd431a5e6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T113000Z
 LOCATION:Орш. А-101
 DTSTART:20251122T100000Z
 SUMMARY:ЛК История России
 UID:f9212989223d97d2dfbc0d4f790851e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250904T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20250904T074500Z
+SUMMARY:ЛК Математический анализ
+UID:ed2697ba07b5143f99c1abb45b3c1901
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251101T150000Z
@@ -1999,13 +2084,6 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:8b262e7431a08623029bbf37ccfa62cc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251211T074500Z
-SUMMARY:ЛК Математический анализ
-UID:073c6b786e3ecbe9411a7a26a06056da
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251018T091500Z
 LOCATION:Орш. В-407
 DTSTART:20251018T074500Z
@@ -2013,11 +2091,12 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:6185a0e63cf27ae9d4287927f6989a60
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251016T091500Z
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251225T073000Z
 LOCATION:ГУК Б-649
-DTSTART:20251016T074500Z
-SUMMARY:ЛК Математический анализ
-UID:086f7f2b42eb7694fff1df7386c771ce
+DTSTART:20251225T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:c29a218ff5be054f358699fd2acdc1ac
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T164500Z
@@ -2099,20 +2178,6 @@ SUMMARY:ЛК Программирование на языке Python
 UID:6129dfca846d11e9e8ff49bd69876db1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251023T074500Z
-SUMMARY:ЛК Математический анализ
-UID:8e4948973786e01f17ef2b6454a13b17
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T091500Z
-LOCATION:ГУК Б-649
-DTSTART:20251225T074500Z
-SUMMARY:ЛК Математический анализ
-UID:790a708badd494d8a770e98e306f0d79
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250927T150000Z
 LOCATION:Орш. В-501
 DTSTART:20250927T133000Z
@@ -2139,6 +2204,14 @@ LOCATION:Орш. А-101
 DTSTART:20251206T100000Z
 SUMMARY:ЛК История России
 UID:6c0236f00336752067db7f25642327ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250911T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20250911T060000Z
+SUMMARY:ЛК Математический анализ
+UID:8e54d0fd75c8206a3792e200cba05f47
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T131500Z
@@ -2184,6 +2257,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:4ac53101b5e40877ad7e354035c34045
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20250925T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20250925T074500Z
+SUMMARY:ЛК Математический анализ
+UID:5f18d1f2c67ccfdfef77c245f081379e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T150000Z
 LOCATION:ГУК Б-438
 DTSTART:20251118T133000Z
@@ -2198,6 +2279,14 @@ SUMMARY:ЛК История России
 UID:055e2a4f41b39a7d49f2afc20ea03bf2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251225T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251225T074500Z
+SUMMARY:ЛК Математический анализ
+UID:e4a93ef98e546ff6d6ba2060fdcd192c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T131500Z
 LOCATION:ГУК В-221
 DTSTART:20250910T114500Z
@@ -2210,6 +2299,14 @@ LOCATION:Орш. В-610
 DTSTART:20251206T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:54a35d59521030d7a1cee15c8dcc7117
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251127T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20251127T074500Z
+SUMMARY:ЛК Математический анализ
+UID:ba2968cc18328f144f362f32ac3f7094
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T113000Z
@@ -2239,13 +2336,6 @@ LOCATION:ГУК В-214
 DTSTART:20251224T151500Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:8554c2dd2225f0c77f61774ea1db66a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251002T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:7dd68a89efe21eddba4db407ca024706
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -2289,5 +2379,13 @@ LOCATION:3-131
 DTSTART:20251028T100000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:994951d98ad5da59f64697fbf7522e79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251023T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251023T060000Z
+SUMMARY:ЛК Математический анализ
+UID:5c46b742ad39810f2c5f9fe7cc5f8271
 END:VEVENT
 END:VCALENDAR

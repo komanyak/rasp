@@ -2,32 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251017T150000Z
+DTEND:20251222T131500Z
+LOCATION:24-600
+DTSTART:20251222T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:14db6fd65f1a1ca686c125912c19ad74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251206T091500Z
 LOCATION:Орш. В-501
-DTSTART:20251017T133000Z
-SUMMARY:ЛК История России
-UID:86e88f9f3d547bc9b69ae90e2ee2eb24
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250905T074500Z
-SUMMARY:ЛК Математический анализ
-UID:49a90845da44337930d8cd4a95f987a0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251121T100000Z
-SUMMARY:ЛК Общая физика
-UID:603978744c8f057a599bb2ab4b76677a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:Орш. В-301
-DTSTART:20250912T100000Z
-SUMMARY:ЛК Общая физика
-UID:badc0fe56828622f45812b1c23621d2d
+DTSTART:20251206T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:b0254a49b142741ac5948203984fb73d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -38,25 +25,28 @@ SUMMARY:ЛР Информатика
 UID:c9f2a4c802fdb7b7df2ea31bef8e844d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251003T133000Z
-SUMMARY:ЛК История России
-UID:19380927d09091b6e417f91c3211f2ee
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T131500Z
-LOCATION:24-600
-DTSTART:20251222T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:14db6fd65f1a1ca686c125912c19ad74
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T113000Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251004T113000Z
 LOCATION:Орш. В-205
-DTSTART:20251122T100000Z
+DTSTART:20251004T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:cd181e169a8eab1492794cb22ba0c6e6
+UID:a31738cbf083d3c4e295b771f9a12ef5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251219T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251219T074500Z
+SUMMARY:ЛК Математический анализ
+UID:c4b11802215a19773ce5d3c8f2e8fa7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251121T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251121T100000Z
+SUMMARY:ЛК Общая физика
+UID:af00b93635baa4a170020bec1238b67e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -74,26 +64,28 @@ SUMMARY:ПЗ Физическая культура
 UID:1c8a2119abb12c16798a8fc8470426ab
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251122T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251122T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:ebd8b7f9e87ae15f2b5cf397b0148e36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251031T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251031T074500Z
+SUMMARY:ЛК Математический анализ
+UID:4d5680263d92de30ac041201d6f2b8a5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251202T073000Z
 LOCATION:Орш. В-306
 DTSTART:20251202T060000Z
 SUMMARY:ПЗ Общая физика
 UID:75d6ccba04a1ace055d711303abd40dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251018T114500Z
-SUMMARY:ЛК Правоведение
-UID:897887fa8743368de61e13fe5d20a5e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251010T133000Z
-SUMMARY:ЛК История России
-UID:e05e7fabd73efd335e79a31094a3c793
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T131500Z
@@ -103,11 +95,12 @@ SUMMARY:ПЗ Физическая культура
 UID:0e7c942a6d084698a9a4a07f2600e87d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:4f4c5d5764e2e919d6b8fb9e0f6a4dfa
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251004T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251004T114500Z
+SUMMARY:ЛК Правоведение
+UID:48c5cfb975fda71876773201d53fe506
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комарова Ксения Алексеевна
@@ -118,11 +111,20 @@ SUMMARY:ПЗ Введение в авиационную и ракетно-кос
 UID:0e1ee4b56a415ee53e2944577da87105
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T113000Z
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251021T091500Z
 LOCATION:Орш. В-205
-DTSTART:20251213T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:3bab51cfd89a3449be5a8286c62006ea
+DTSTART:20251021T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:8cfc125c1f8dd35fdd15206329478288
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20250926T113000Z
+LOCATION:Орш. В-301
+DTSTART:20250926T100000Z
+SUMMARY:ЛК Общая физика
+UID:d9d4808b2b767e26936089c7024e4e94
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251108T073000Z
@@ -191,25 +193,20 @@ SUMMARY:ПЗ Физическая культура
 UID:48893e6d7d1ec485112ea8aff39db5fa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251017T074500Z
-SUMMARY:ЛК Математический анализ
-UID:7b80d23f0b7d0e45e42c323e1e304086
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T091500Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251128T150000Z
 LOCATION:Орш. В-501
-DTSTART:20250913T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:a0f96a02786bc8d05da5ff9f45169133
+DTSTART:20251128T133000Z
+SUMMARY:ЛК История России
+UID:4ce6620be0165414dc5a83b2ef04f06e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251025T113000Z
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251223T091500Z
 LOCATION:Орш. В-205
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:a45cea735adcfceb7927475194034f1e
+DTSTART:20251223T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:420761030493fe5b207030ad16b31f80
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251226T131500Z
@@ -217,13 +214,6 @@ LOCATION:Орш. Б-603
 DTSTART:20251226T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:5aca100dde8e1e37a282b65f4b85928b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250919T133000Z
-SUMMARY:ЛК История России
-UID:baab91c34f671fa2fa3fd97cd8000189
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -234,11 +224,12 @@ SUMMARY:ЛК Информатика
 UID:5668fb38c9cf901b193ac46b0c9365e8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T113000Z
-LOCATION:Орш. В-301
-DTSTART:20250926T100000Z
-SUMMARY:ЛК Общая физика
-UID:d84bee312b3274725cb320717f6921a2
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251111T073000Z
+LOCATION:Орш. В-306
+DTSTART:20251111T060000Z
+SUMMARY:ПЗ Общая физика
+UID:5fbe78f872c1895e81ce88883a24c2b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T131500Z
@@ -248,11 +239,12 @@ SUMMARY:ПЗ Физическая культура
 UID:4b4404ac14b9d68a4687292bb722c022
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251011T114500Z
-SUMMARY:ПЗ Правоведение
-UID:1d1a899ca435faa59537612f6680768b
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251101T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:cf76d360876de016e92fa73fde2d1180
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T131500Z
@@ -260,13 +252,6 @@ LOCATION:--каф. 919
 DTSTART:20250917T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:1e87cb8ddfd219e8ab840240b9b1313f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Математический анализ
-UID:3bccc86bbe1331c99f6b40e6dc86ed84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -277,21 +262,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:87cccecea33633868a9dc07dcd902794
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Озолин Владимир Викторович
-DTEND:20251111T073000Z
-LOCATION:Орш. В-306
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Общая физика
-UID:5fbe78f872c1895e81ce88883a24c2b5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250926T074500Z
-SUMMARY:ЛК Математический анализ
-UID:b59e3b4c90a16c6370b64284b77d2eab
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250929T131500Z
 LOCATION:24-600
 DTSTART:20250929T114500Z
@@ -299,18 +269,28 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:becb4b7cc2bd9bc19a1b585dd3c6ec0d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251108T114500Z
-SUMMARY:ПЗ Правоведение
-UID:05dac36451b17b7aad82679bf2e1f3cd
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251128T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251128T074500Z
+SUMMARY:ЛК Математический анализ
+UID:cbd9b70aaaad393516aff9b3a50dee72
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251024T133000Z
-SUMMARY:ЛК История России
-UID:f8ce11fa118b5a9d09751ba00809a36c
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251115T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251115T114500Z
+SUMMARY:ЛК Правоведение
+UID:47158e21e933b3178015b2ad7935c3e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20250919T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250919T074500Z
+SUMMARY:ЛК Математический анализ
+UID:84b3ec8769c37a2c163a957fe9d77094
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -329,25 +309,12 @@ SUMMARY:ЛР Информатика
 UID:a3942653538b5f9cfaf1e1022c851b8d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251111T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:14e33a8db690a9f9cf59f6fde64b25dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20250912T091500Z
 LOCATION:Орш. В-301
-DTSTART:20251114T100000Z
-SUMMARY:ЛК Общая физика
-UID:df4165c53eea05142c59700e9dea009f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251227T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:05627ec00436a7682a2afd9f94dd46dd
+DTSTART:20250912T074500Z
+SUMMARY:ЛК Математический анализ
+UID:3249d413d7a8aa3938e09ab9daee4dcd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -358,11 +325,12 @@ SUMMARY:ПЗ Общая физика
 UID:42bff71a5783616b3601f22fa55d0b61
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T091500Z
-LOCATION:Орш. В-501
-DTSTART:20250906T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:a3b4f87f951cf03a5fdc9a9f05faf4a1
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251118T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251118T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:0e487dd759d442c46b906ad66da2a2af
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T131500Z
@@ -370,13 +338,6 @@ LOCATION:Орш. Б-603
 DTSTART:20251031T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:13a0ddc18e715c6f265923acdf850ecd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250926T133000Z
-SUMMARY:ЛК История России
-UID:d9983fc97272a2a8ff299aacda4645bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -410,11 +371,20 @@ SUMMARY:ПЗ Иностранный язык
 UID:b71b57e9560f81b8cc14ac65992343d5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T150000Z
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251107T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251107T074500Z
+SUMMARY:ЛК Математический анализ
+UID:53bd07329e132e3e64f7cbecb7e2a5db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251114T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251107T133000Z
+DTSTART:20251114T133000Z
 SUMMARY:ЛК История России
-UID:4a93fde71f60cb7ef243862167ccb878
+UID:244a2ea407cdd582da5e350c3abea243
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -433,11 +403,12 @@ SUMMARY:ПЗ История России
 UID:9c2a670e100f2046d99da89e34f487f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:--каф. 919
-DTSTART:20251008T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:b7b755cec555810543d852ece5a1b73d
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20250920T131500Z
+LOCATION:Орш. А-101
+DTSTART:20250920T114500Z
+SUMMARY:ЛК Правоведение
+UID:33c266f6b649c1ac5d6a65efa2000c4c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T131500Z
@@ -445,6 +416,21 @@ LOCATION:Орш. Б-603
 DTSTART:20250926T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:1cdff7146b7d034bb24ddaf502d779e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T131500Z
+LOCATION:--каф. 919
+DTSTART:20251008T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b7b755cec555810543d852ece5a1b73d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20250923T091500Z
+LOCATION:Орш. В-205
+DTSTART:20250923T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:089567f87efd57c527af47a1378afd0f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -455,11 +441,12 @@ SUMMARY:ЛК Информатика
 UID:90d1c383298ecaa504f7e3439938cf0d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T150000Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20250912T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251212T133000Z
+DTSTART:20250912T133000Z
 SUMMARY:ЛК История России
-UID:4e3180dfbc78b2f0406110776a9507e3
+UID:62dcc1682f36b1bbd07d53e1d5f43e12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -470,33 +457,12 @@ SUMMARY:ЛК Информатика
 UID:ba4a02f3d7e9a0f64d5d9907d193db5b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251220T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:8dba82d2349902be4a674ea08ad264bd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251107T100000Z
-SUMMARY:ЛК Общая физика
-UID:40dcaef7efc4495cb0a26227de8dc6d3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Комарова Ксения Алексеевна
 DTEND:20251030T091500Z
 LOCATION:24-512
 DTSTART:20251030T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:cd4f63c4d4e639aa3b42abcc2ad09bea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:062ac9b5e99190c6743c40c4c70ba1f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -531,27 +497,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:2348adbf92b7e3ae8a3e5ddb4faabcba
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Удалова Наталия Владимировна
-DTEND:20251222T113000Z
-LOCATION:24-600
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Информатика
-UID:9a9642678e4d45cfb85a1fbb729078c5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Комарова Ксения Алексеевна
 DTEND:20251002T091500Z
 LOCATION:24-512
 DTSTART:20251002T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:fba7c339acc5f88674196961051d7472
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Математический анализ
-UID:82342f93742b7171940a711072452e3f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -562,11 +513,36 @@ SUMMARY:ЛР Информатика
 UID:9d4b963385b8f13bcc1273906715a954
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T131500Z
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251011T131500Z
 LOCATION:Орш. В-526
-DTSTART:20250927T114500Z
+DTSTART:20251011T114500Z
 SUMMARY:ПЗ Правоведение
-UID:97844105308244cbf83e9085909ff55f
+UID:8afd0e46216c1f1448a5008e7f3b6d71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251007T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251007T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:8ca426c599ded9e26930022ae6f96efc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20250919T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250919T133000Z
+SUMMARY:ЛК История России
+UID:f4781b89b9618de3fc90d5aaee76cbce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251128T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251128T100000Z
+SUMMARY:ЛК Общая физика
+UID:ca6e523a00ff57a3d906097db66af912
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комарова Ксения Алексеевна
@@ -583,20 +559,6 @@ LOCATION:Орш. В-408
 DTSTART:20251118T100000Z
 SUMMARY:ПЗ История России
 UID:955365d14f8e7ccc93316603fd42b53a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T091500Z
-LOCATION:Орш. В-205
-DTSTART:20250909T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:f426b4f037f1db4d3b3f9e940cba3700
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251014T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:e8737946ad64369d342ff02f7943b0c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -622,11 +584,43 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:3f309947beb95851a4825ccc3d8296a7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251017T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251017T074500Z
+SUMMARY:ЛК Математический анализ
+UID:506b458697f2a9af5fba2213cc5ab66c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251025T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251025T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:0f39ea67b5498e2934de9e89bd9daa1f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251105T131500Z
 LOCATION:--каф. 919
 DTSTART:20251105T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:4e2e5ed6317b804519b03ebed74c76a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251025T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251025T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:ddbfef9b27c67d1e30f3aebdc2688ece
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20250916T091500Z
+LOCATION:Орш. В-205
+DTSTART:20250916T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:40f92163a25d0a330da006e89ad4d1a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
@@ -645,13 +639,6 @@ SUMMARY:ПЗ История России
 UID:d929fe43012c5b381fcd2a0dfc1c8005
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251212T074500Z
-SUMMARY:ЛК Математический анализ
-UID:cb7909d097086b13b408bd44d14b88ec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251125T073000Z
 LOCATION:Орш. В-306
@@ -660,11 +647,12 @@ SUMMARY:ПЗ Общая физика
 UID:86c2646c698c220a480286f75bf5c52f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251212T100000Z
-SUMMARY:ЛК Общая физика
-UID:a45c53a1e49f86f2d4448975c7ac231d
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251205T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251205T133000Z
+SUMMARY:ЛК История России
+UID:2fe2e952712cbf52eb7b509bbfea3c57
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T131500Z
@@ -682,6 +670,14 @@ SUMMARY:ПЗ История России
 UID:3458ca94f1d31840dc89b5fcd24dde43
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251031T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251031T100000Z
+SUMMARY:ЛК Общая физика
+UID:84263c0b945abfbd1a9129f43a41ef71
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251208T091500Z
 LOCATION:--каф. 919
 DTSTART:20251208T074500Z
@@ -689,11 +685,11 @@ SUMMARY:ПЗ Физическая культура
 UID:f9ee25f92572b22b8557c517bb24c7ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251004T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:30b90ee75e897dbc47ca57a0882fb791
+DTEND:20251128T131500Z
+LOCATION:Орш. Б-603
+DTSTART:20251128T114500Z
+SUMMARY:ПЗ Иностранный язык
+UID:f06bde0346c92a5543552c1163cef35d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -704,6 +700,14 @@ SUMMARY:ЛК Информатика
 UID:0ad1c8134c7757ccffc435aa42d499ae
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250920T091500Z
+LOCATION:Орш. В-501
+DTSTART:20250920T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:7c58a9d26dfb8daf031ec80a70e3133e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251029T131500Z
 LOCATION:--каф. 919
 DTSTART:20251029T114500Z
@@ -711,25 +715,12 @@ SUMMARY:ПЗ Физическая культура
 UID:2dd43370183f916fbda5e5b874ec4088
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T131500Z
-LOCATION:24-600
-DTSTART:20251110T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:f348e9d7b65b25f08c2048d9917c7e1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T131500Z
-LOCATION:Орш. Б-603
-DTSTART:20251128T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f06bde0346c92a5543552c1163cef35d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:Орш. В-301
-DTSTART:20250905T100000Z
-SUMMARY:ЛК Общая физика
-UID:a422bfb1d426cca848a6db4b6459d42c
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250906T113000Z
+LOCATION:Орш. В-205
+DTSTART:20250906T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:c83baa7e93127d792e2a958a8fe54485
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T091500Z
@@ -739,18 +730,43 @@ SUMMARY:ПЗ Физическая культура
 UID:3cf0fb43168f48c14383fcf57f49dd7f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251115T114500Z
-SUMMARY:ЛК Правоведение
-UID:7be790f9b88ea7adb27aef708fae5a8a
+DTEND:20251110T131500Z
+LOCATION:24-600
+DTSTART:20251110T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:f348e9d7b65b25f08c2048d9917c7e1b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20250930T091500Z
+LOCATION:Орш. В-205
+DTSTART:20250930T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:b6040ddc2ab57f1354bd977165f38c91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
 DTEND:20251129T131500Z
 LOCATION:Орш. А-101
 DTSTART:20251129T114500Z
 SUMMARY:ЛК Правоведение
-UID:1a19df31f6d2d6f961d64aadd70bc3cc
+UID:6ce76fa10095060da35c94a03df5288a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251205T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251205T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7bbec455568089c23c2b31e03b92d423
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251125T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251125T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:562f228023b26bf2ecfe29eeaf32f351
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -761,14 +777,6 @@ SUMMARY:ЛР Информатика
 UID:c9c7ead1f049ab354c64e7a8368c2991
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Удалова Наталия Владимировна
-DTEND:20250929T113000Z
-LOCATION:24-600
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Информатика
-UID:1f9404b858f5762548c7ec098783d702
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251117T131500Z
 LOCATION:24-600
 DTSTART:20251117T114500Z
@@ -776,11 +784,27 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:2defe168b580dd068e4a9b8423f719e8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251205T074500Z
-SUMMARY:ЛК Математический анализ
-UID:0b17bb3516675d6b0759eceab82b78f5
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251108T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251108T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:4783cb9d32cd091877f44f59ff751d45
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251220T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251220T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:3bda6097d544874697e871f854df4984
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20250909T091500Z
+LOCATION:Орш. В-205
+DTSTART:20250909T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:c3d6b8e31620e03258ad9967e580d7db
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T131500Z
@@ -790,11 +814,19 @@ SUMMARY:ПЗ Иностранный язык
 UID:33eae031474d4be5f873b8fab3845ebe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T073000Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251107T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251220T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:3bda6097d544874697e871f854df4984
+DTSTART:20251107T133000Z
+SUMMARY:ЛК История России
+UID:abbbe0989c168fb5e33ef8bd6835efe3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T091500Z
+LOCATION:--каф. 919
+DTSTART:20251110T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:22068fd02e10eac7a059876a61f99297
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -805,11 +837,20 @@ SUMMARY:ЛК Информатика
 UID:2573eb2d4ac1566334b76ecefbbf972e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T091500Z
-LOCATION:--каф. 919
-DTSTART:20251110T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:22068fd02e10eac7a059876a61f99297
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20250905T113000Z
+LOCATION:Орш. В-301
+DTSTART:20250905T100000Z
+SUMMARY:ЛК Общая физика
+UID:3dc335cdb65d4317fd6c2710f34b542e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251003T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251003T074500Z
+SUMMARY:ЛК Математический анализ
+UID:3c4228910573eada7cde56d8f8061f2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -820,11 +861,12 @@ SUMMARY:ПЗ История России
 UID:bc6ede9b1e5eb99386292d2b644ea4ce
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T150000Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251227T091500Z
 LOCATION:Орш. В-501
-DTSTART:20251205T133000Z
-SUMMARY:ЛК История России
-UID:47dddb58ee9e4d0a0bec03077bbd58e4
+DTSTART:20251227T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:a12af8de3a5255424ba9824eca8f1ec2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -835,32 +877,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:70bf179d8e0bbe41e3c597169a4fa035
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251122T114500Z
-SUMMARY:ПЗ Правоведение
-UID:56ed63be0def1202a23bb7536fc24167
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251018T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251018T114500Z
+SUMMARY:ЛК Правоведение
+UID:dd654bb718ed9ee9f2ebb5566fd3984a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T091500Z
-LOCATION:Орш. В-205
-DTSTART:20250902T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:f4b802e597cc063bdf019f60a306e3d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251108T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:7c0f96e1213c432d4a45983045ac417f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:df160335cba7ab20aa2cb49529507266
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251024T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251024T133000Z
+SUMMARY:ЛК История России
+UID:df9868daa530eee6b6c08a79ae22e362
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T091500Z
@@ -868,13 +898,6 @@ LOCATION:--каф. 919
 DTSTART:20251124T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:17bb13873b68d4083dbae1055eb24ec4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251220T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:06032b788cd9befaeee97dc9577e37e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -885,25 +908,12 @@ SUMMARY:ПЗ Общая физика
 UID:4f8506dbf6cecd926f64552f06043196
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251206T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:e0a7ea8aae88d1991ff1439e9ee3fb86
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251128T074500Z
-SUMMARY:ЛК Математический анализ
-UID:bb00623879518224eaf40d54f04f7ba6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:cacc1c7ffe80a406124aea4559eead06
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251122T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251122T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:e6ea92096a6832a229ef53f895746cdd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T131500Z
@@ -918,6 +928,14 @@ LOCATION:--каф. 919
 DTSTART:20250915T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:76c54b094dc396f366aa82b4d2e20ba1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250913T113000Z
+LOCATION:Орш. В-205
+DTSTART:20250913T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e0358d1c5b9ab8807e2282db4dd077d9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T073000Z
@@ -935,11 +953,20 @@ SUMMARY:ЛР Информатика
 UID:fc7db2625ca12bd95d44be82dd5a0973
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251128T133000Z
-SUMMARY:ЛК История России
-UID:93f53e09996bec9170aaeb844b093df8
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20250912T113000Z
+LOCATION:Орш. В-301
+DTSTART:20250912T100000Z
+SUMMARY:ЛК Общая физика
+UID:5af6177f580a9dcc8b70d02b2ccd1705
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251108T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251108T114500Z
+SUMMARY:ПЗ Правоведение
+UID:23e2f229e10a0d6b5a315b70b6deaf96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
@@ -958,18 +985,12 @@ SUMMARY:ЛР Информатика
 UID:9e614fedfbe99a0da97861d517a850d5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251216T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:35b184a3a91c26b47363bce9ff7da891
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T091500Z
-LOCATION:Орш. В-205
-DTSTART:20250923T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:3ca1710d45fa77a65052e04f0ac27827
+DESCRIPTION:Удалова Наталия Владимировна
+DTEND:20251222T113000Z
+LOCATION:24-600
+DTSTART:20251222T100000Z
+SUMMARY:ЛК Информатика
+UID:9a9642678e4d45cfb85a1fbb729078c5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T131500Z
@@ -987,12 +1008,28 @@ SUMMARY:ПЗ Общая физика
 UID:22a4d01939973f5419b7ee84bd7a848d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20250927T131500Z
+LOCATION:Орш. В-526
+DTSTART:20250927T114500Z
+SUMMARY:ПЗ Правоведение
+UID:2af43f6c33e49c8b04acaea2e6cd899f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251021T113000Z
 LOCATION:Орш. В-408
 DTSTART:20251021T100000Z
 SUMMARY:ПЗ История России
 UID:6e05d35eddaf06148e18d973dfe9ada7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251213T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251213T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:3d0a8d9e8f9614eb9fca4c07a62c1b39
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T131500Z
@@ -1002,11 +1039,12 @@ SUMMARY:ПЗ Физическая культура
 UID:9a16f22f8363b4aeb526140368378a2a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251219T100000Z
-SUMMARY:ЛК Общая физика
-UID:dec8956ba0f7a168c223b08d14f0b231
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20250906T131500Z
+LOCATION:Орш. А-101
+DTSTART:20250906T114500Z
+SUMMARY:ЛК Правоведение
+UID:9308ec1d52ddc5e20716eb178cf44a01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
@@ -1017,18 +1055,36 @@ SUMMARY:ЛК Информатика
 UID:0ebd3dd7872a0dbb50ed4ea9a568fe77
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251220T114500Z
-SUMMARY:ПЗ Правоведение
-UID:0c8ab86ecc1e15248d87327bf062cd1e
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251011T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251011T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:f6deba09579270aced99abd0ebeb9b3a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T150000Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20250905T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251121T133000Z
+DTSTART:20250905T133000Z
 SUMMARY:ЛК История России
-UID:ddea4ba90522839c4de5ee821e0d2c47
+UID:3367203b0173a3b7f6593dc8e9d0b643
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251212T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251212T100000Z
+SUMMARY:ЛК Общая физика
+UID:9852f1f65dd1d64eda9ed4a4a80d4b70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251017T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251017T133000Z
+SUMMARY:ЛК История России
+UID:e8a4657dada672bcb16851232d840f4f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
@@ -1039,18 +1095,19 @@ SUMMARY:ЛР Общая физика
 UID:60e835cdf03a84f18ac50b55cc33d9c9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251018T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251018T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:cf724da343aa90f5880639b6493a1c77
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251119T131500Z
 LOCATION:--каф. 919
 DTSTART:20251119T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:b72799de96765cf644a9a987295fecad
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T131500Z
-LOCATION:Орш. А-101
-DTSTART:20250906T114500Z
-SUMMARY:ЛК Правоведение
-UID:09bea2c4310271a1dfed0258f0bfae9f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T131500Z
@@ -1060,18 +1117,12 @@ SUMMARY:ПЗ Физическая культура
 UID:dbee45f58d4ec1a2ca521c3b0a97a437
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251011T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:dc0016828ac0b4bc35de6f94cea32646
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T131500Z
-LOCATION:--каф. 919
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:5cefda5d3b0f56aa05da0502fbf5426a
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251010T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251010T100000Z
+SUMMARY:ЛК Общая физика
+UID:8a9d3c3c60dc0b66e9d74209776da086
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T131500Z
@@ -1079,6 +1130,13 @@ LOCATION:24-600
 DTSTART:20251013T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:d20341d54a16cd85b4fed7146f051845
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T131500Z
+LOCATION:--каф. 919
+DTSTART:20251112T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5cefda5d3b0f56aa05da0502fbf5426a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
@@ -1111,6 +1169,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:f8aaa684f66a78b81541d388f0716b15
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250927T091500Z
+LOCATION:Орш. В-501
+DTSTART:20250927T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:32157133ae6abf1632f11f17a0ccdbad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
 DTEND:20251013T113000Z
 LOCATION:24-600
@@ -1119,18 +1185,12 @@ SUMMARY:ЛК Информатика
 UID:d66697c6faaa02c1400b6be02ac1fd88
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T091500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251108T091500Z
 LOCATION:Орш. В-501
-DTSTART:20251122T074500Z
+DTSTART:20251108T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:c08c9c32bd2166e99526eafe65a647ba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:c473aabf3500a6406c2c35f8a5396d68
+UID:960103b14a6eb53500efbfcc5b386332
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250915T131500Z
@@ -1140,18 +1200,28 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:c1517c7291f79154f2a0a88c37bb1db7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251101T114500Z
-SUMMARY:ЛК Правоведение
-UID:35304fa0e6c190e93e64cfb617dcf378
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251219T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251219T100000Z
+SUMMARY:ЛК Общая физика
+UID:b4527252e5a8ddbcf6c04dc85e20419a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T150000Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20250926T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251114T133000Z
+DTSTART:20250926T133000Z
 SUMMARY:ЛК История России
-UID:85300a30f6e3bfa0079a95e0bc953b86
+UID:a73358fcaf3259bd6261e5ffa2881630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250927T113000Z
+LOCATION:Орш. В-205
+DTSTART:20250927T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:7deb9ed6aa0c1cf28a7d11a99789f56f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T131500Z
@@ -1159,13 +1229,6 @@ LOCATION:Орш. Б-603
 DTSTART:20251219T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:fcc0ec28b9d913781726050f83467e2a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251219T074500Z
-SUMMARY:ЛК Математический анализ
-UID:ec32cf45b05ceaeb1b089ff236a06efd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -1176,11 +1239,36 @@ SUMMARY:ПЗ Общая физика
 UID:e61922c0efc6440dd8a0fb51fa6b0848
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T091500Z
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251003T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251003T100000Z
+SUMMARY:ЛК Общая физика
+UID:5a0397cc7b8c79477d0372fe57eec542
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251114T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251114T100000Z
+SUMMARY:ЛК Общая физика
+UID:c4abf2224ae51fc2bb3f3aa3172b8fcb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251220T113000Z
 LOCATION:Орш. В-205
-DTSTART:20251202T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:fe8f8042301484a09b7f769c7c95d1cf
+DTSTART:20251220T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:0e590281b91b094fa384fed018b1f420
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251206T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251206T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:7337ee1421f1fe3492778a64d4caf9de
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T091500Z
@@ -1205,6 +1293,14 @@ SUMMARY:ЛК Информатика
 UID:f40d16c43fe4feed8163e164bc1f8746
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251202T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251202T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:0b0bfabaa364a134ebd6077d2b8f5f66
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251223T113000Z
 LOCATION:Орш. В-408
@@ -1213,32 +1309,20 @@ SUMMARY:ПЗ История России
 UID:c747cbd66b21b820cbd03715be6c8bd5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250920T091500Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251003T150000Z
 LOCATION:Орш. В-501
-DTSTART:20250920T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:8d7b2afdf307d04da6dc42c4cb3c4922
+DTSTART:20251003T133000Z
+SUMMARY:ЛК История России
+UID:b8e3cba90c4e2c11d6fd6d291149d5a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250913T131500Z
-LOCATION:Орш. В-526
-DTSTART:20250913T114500Z
-SUMMARY:ПЗ Правоведение
-UID:f91aa422b49c32eef6b696ad6f721452
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T113000Z
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251014T091500Z
 LOCATION:Орш. В-205
-DTSTART:20250927T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:e9444e40437a2a6e1d2bb21f8d710ff1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T113000Z
-LOCATION:Орш. В-205
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:a794e24518a8199fd7642fe5e2b44fc8
+DTSTART:20251014T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:d52ff8b9f39074479815d356af8f3f21
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T131500Z
@@ -1248,11 +1332,35 @@ SUMMARY:ПЗ Физическая культура
 UID:9c9872968d6d8081e3ff2f9e2ede51d9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251206T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251206T114500Z
+SUMMARY:ПЗ Правоведение
+UID:76e034374dbf5dbf9519ba23e4241297
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251017T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251017T100000Z
+SUMMARY:ЛК Общая физика
+UID:ec4206a37e43fbc7897d703131d887f0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T131500Z
 LOCATION:24-600
 DTSTART:20251006T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:f6a4be5c01a9d9b8ab9ed45e846fcb80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251024T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251024T100000Z
+SUMMARY:ЛК Общая физика
+UID:22f9a16788195756f3e08903560c0562
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1263,11 +1371,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:07e67791b0b3ba6ecfbf6fe92d4577a7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251213T114500Z
-SUMMARY:ЛК Правоведение
-UID:d80b0ae1ac29e3740fe4d112903115fd
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251111T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251111T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:d0e7e9b91337e67ef31e5f966bc25d86
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251121T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251121T133000Z
+SUMMARY:ЛК История России
+UID:819a018b8d6d9eb7b002476a4633b990
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250908T091500Z
@@ -1277,18 +1394,28 @@ SUMMARY:ПЗ Физическая культура
 UID:30eeb47f6a4c8e6abba59234febf4fb1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T113000Z
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251010T091500Z
 LOCATION:Орш. В-301
-DTSTART:20250919T100000Z
-SUMMARY:ЛК Общая физика
-UID:29b420fffde3189e87698a1d180a1afc
+DTSTART:20251010T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f73ee1fd44a944443a3f05568e913b4d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T150000Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251129T091500Z
 LOCATION:Орш. В-501
-DTSTART:20251219T133000Z
-SUMMARY:ЛК История России
-UID:5908d0b12ef131f868ca7667b40fafe8
+DTSTART:20251129T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:614cdef636d16e2149deea74687757f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251121T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251121T074500Z
+SUMMARY:ЛК Математический анализ
+UID:94a3005847bdf1f20ed5924c7882069a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T131500Z
@@ -1298,11 +1425,20 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:7eeca64446a18fbcb5fde92a79152ad9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T113000Z
-LOCATION:Орш. В-205
-DTSTART:20250906T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:338ff8fd72bb29a1e7b9bbd809374c8a
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251220T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251220T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:6182cf743a181f5ea511e61a42936508
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250913T091500Z
+LOCATION:Орш. В-501
+DTSTART:20250913T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:14e4868b33479e5b1e015ff2ad3eda32
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251222T091500Z
@@ -1310,13 +1446,6 @@ LOCATION:--каф. 919
 DTSTART:20251222T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:1b8350cbdc2b9a183da5f892197d6a41
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251101T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:43aebe451aa0d9cb912733cae714313a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -1334,26 +1463,12 @@ SUMMARY:ЛК Основы российской государственност�
 UID:bfda31951b03b9b31ef11ef589940510
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251011T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:bbccf381a46d66045d83d5de458cb68d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251025T114500Z
-SUMMARY:ПЗ Правоведение
-UID:8e90c03bf28df4852dba7a1cac3d386e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шаньков Андрей Валериевич
-DTEND:20251204T131500Z
-LOCATION:Орш. В-603
-DTSTART:20251204T114500Z
-SUMMARY:ЛР Общая физика
-UID:4089a7821c3206d3b399885a3e0dda3e
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251129T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251129T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:fb0e34dcf9f14085840438c89508583d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -1372,25 +1487,52 @@ SUMMARY:ПЗ История России
 UID:f7896e75933fcdb022e8bc5967348565
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251226T091500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251011T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251011T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:db7395705a0dfe9747276b1c3cb9ae19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251031T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251031T133000Z
+SUMMARY:ЛК История России
+UID:699359ad5283dff475639d3379222b21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251101T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251101T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:4f95e1967d0639d3cd23e07f627706e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шаньков Андрей Валериевич
+DTEND:20251204T131500Z
+LOCATION:Орш. В-603
+DTSTART:20251204T114500Z
+SUMMARY:ЛР Общая физика
+UID:4089a7821c3206d3b399885a3e0dda3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251205T113000Z
 LOCATION:Орш. В-301
-DTSTART:20251226T074500Z
+DTSTART:20251205T100000Z
+SUMMARY:ЛК Общая физика
+UID:094e0949facfda77a2a85c72a50eb3d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251212T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251212T074500Z
 SUMMARY:ЛК Математический анализ
-UID:54014778969cf7e7a3839d98529ba4a8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251227T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:bea72b19e123cd610997d2a37f7e28d0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251025T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:63211692fbda2fb0ca64bf7efe53e39f
+UID:ee5a8f4a5591bded3c01af62b68d55d4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T131500Z
@@ -1428,11 +1570,12 @@ SUMMARY:ПЗ Физическая культура
 UID:226b91a528e532143fbb8845c77edf20
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T150000Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251004T091500Z
 LOCATION:Орш. В-501
-DTSTART:20250912T133000Z
-SUMMARY:ЛК История России
-UID:b968be31efdaf807ce4c9ef16a578599
+DTSTART:20251004T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:902c8b569c7e8bf7f1775ad51bb38086
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T131500Z
@@ -1442,19 +1585,36 @@ SUMMARY:ПЗ Физическая культура
 UID:ae5b089beab45c0530877821dcedc80f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250919T074500Z
-SUMMARY:ЛК Математический анализ
-UID:569705fbb119f83354dd550a9656aa5a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
 DTEND:20251023T113000Z
 LOCATION:Орш. В-303
 DTSTART:20251023T100000Z
 SUMMARY:ЛР Общая физика
 UID:dc43c401bec3b3cd9477cff6887c860b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250906T091500Z
+LOCATION:Орш. В-501
+DTSTART:20250906T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:19a20218855b5e2171d671d96fd65603
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251115T113000Z
+LOCATION:Орш. В-205
+DTSTART:20251115T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e3cb799731f126e38a396cac456329f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251028T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251028T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:f16c534a5cbe50977eb93a480647dfcf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1480,13 +1640,6 @@ SUMMARY:ПЗ Физическая культура
 UID:7d45ecabf291d1b2d5256701dbec829a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Математический анализ
-UID:cf22989ca68bc40a20db4935f5f34f78
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251201T131500Z
 LOCATION:24-600
 DTSTART:20251201T114500Z
@@ -1509,25 +1662,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:29186f710a8c02125ec68ec19b58a4b1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250930T091500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251213T113000Z
 LOCATION:Орш. В-205
-DTSTART:20250930T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:9dbbefbfa01f9ad904153f3847275cd0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T131500Z
-LOCATION:Орш. А-101
-DTSTART:20250920T114500Z
-SUMMARY:ЛК Правоведение
-UID:e43379a668616c871a4098e87150170d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251108T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4ffd4abac14931844acc511d15384aa0
+DTSTART:20251213T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:6c8c4f79b0c9e47c0eca539a603d32b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T073000Z
@@ -1545,40 +1685,28 @@ SUMMARY:ПЗ История России
 UID:b1841773e5fa51328e71e3f221714975
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250912T074500Z
-SUMMARY:ЛК Математический анализ
-UID:594db0441b353acf650b6509bd507e98
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T091500Z
-LOCATION:Орш. В-205
-DTSTART:20250916T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:b0d6b2485e78ea6875ff93f8377e255f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T113000Z
-LOCATION:Орш. В-205
-DTSTART:20251018T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:e66f50bcaae024866b569ac44fc3f4a2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251010T100000Z
-SUMMARY:ЛК Общая физика
-UID:f5e90e98c3723ff14e578c3b5eb68e44
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шаньков Андрей Валериевич
 DTEND:20251106T113000Z
 LOCATION:Орш. В-303
 DTSTART:20251106T100000Z
 SUMMARY:ЛР Общая физика
 UID:52bf3b9e3d9359c2c02540ed09884865
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Александрович
+DTEND:20251217T113000Z
+LOCATION:3-115
+DTSTART:20251217T100000Z
+SUMMARY:ПЗ Основы российской государственности
+UID:2186079611d86e7417de882c01fda011
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251025T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251025T114500Z
+SUMMARY:ПЗ Правоведение
+UID:2582eef1016bf63c76125b45c76bb914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1597,26 +1725,11 @@ UID:787c26601ce295691ed802bdfb771680
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
-DTEND:20251217T113000Z
-LOCATION:3-115
-DTSTART:20251217T100000Z
-SUMMARY:ПЗ Основы российской государственности
-UID:2186079611d86e7417de882c01fda011
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Александрович
 DTEND:20251224T113000Z
 LOCATION:3-115
 DTSTART:20251224T100000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:e7a7f4beecd675157a1344ab11cf0b6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251003T100000Z
-SUMMARY:ЛК Общая физика
-UID:b82cce3f26101f8f7db6412f6b09322d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комарова Ксения Алексеевна
@@ -1625,13 +1738,6 @@ LOCATION:24-512
 DTSTART:20250918T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:b7e1c826e72bed0fd0bdc4542004f19f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251004T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:673a47262bf16a0305a9d3d84183ebbf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1648,6 +1754,14 @@ LOCATION:Орш. В-408
 DTSTART:20251202T100000Z
 SUMMARY:ПЗ История России
 UID:b5f1fb437fe1f5ba9d7b601694fb8353
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251107T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251107T100000Z
+SUMMARY:ЛК Общая физика
+UID:b35c3c7fe678f5d4b744b970ac1d53bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1697,13 +1811,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:6b1b3308f0fa40e97338e4a381ffd604
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251115T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:84764592ce9aad20a852050981466988
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250919T131500Z
 LOCATION:Орш. Б-603
 DTSTART:20250919T114500Z
@@ -1718,11 +1825,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:87fafd7b6b65a85d77c2723f266a898d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251028T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:21ffa953a47d1e045e4b2241ac2173ea
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251219T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251219T133000Z
+SUMMARY:ЛК История России
+UID:c66ee27c3ba07addb5354edf24febe6b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T131500Z
@@ -1732,11 +1840,20 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:95cfab0dbdd60482a78bc2159ae417b4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Математический анализ
-UID:ec17643c6da39a55d2ea30969eb0d920
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251216T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251216T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:4e6c160aa161de322cf68b1b8781cdec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251220T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251220T114500Z
+SUMMARY:ПЗ Правоведение
+UID:519781b3930882f8b3659cc9e039b6c0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T131500Z
@@ -1744,6 +1861,22 @@ LOCATION:24-600
 DTSTART:20251020T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:57f11d3f2fc86f7dd0f72c2088bfb46b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251212T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251212T133000Z
+SUMMARY:ЛК История России
+UID:bf63b9c9616f291726835c710a59c381
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251101T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251101T114500Z
+SUMMARY:ЛК Правоведение
+UID:f6168e16be1122ea15af708c838593c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1754,19 +1887,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:8dc5bf9dfef21ba76477bf75dbc28de6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251024T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251024T074500Z
+SUMMARY:ЛК Математический анализ
+UID:250a6efd05c19bd953f6a8764d7f9958
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Удалова Наталия Владимировна
 DTEND:20250915T113000Z
 LOCATION:24-600
 DTSTART:20250915T100000Z
 SUMMARY:ЛК Информатика
 UID:8894f96fc4daaeac08a481c49c7b9051
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250905T133000Z
-SUMMARY:ЛК История России
-UID:a880e38174f7ca82adac40ab13934b67
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T091500Z
@@ -1776,11 +1910,11 @@ SUMMARY:ПЗ Физическая культура
 UID:b0b3ed3504a79e0ca8a523f1bad9c149
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251024T100000Z
-SUMMARY:ЛК Общая физика
-UID:0e8d00eea18632a86d4c3cf1004751ce
+DTEND:20251114T131500Z
+LOCATION:Орш. Б-603
+DTSTART:20251114T114500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c9198e79f767a9270989f94a7307411a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1791,60 +1925,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:0708510275b3e16d8a10c3ea01204dda
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Математический анализ
-UID:ba46358483642109d513acaa98b38d18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T150000Z
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20251010T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251031T133000Z
+DTSTART:20251010T133000Z
 SUMMARY:ЛК История России
-UID:eabbb273f3145e3f1c26fd11478ae457
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T131500Z
-LOCATION:Орш. Б-603
-DTSTART:20251114T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:c9198e79f767a9270989f94a7307411a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251206T114500Z
-SUMMARY:ПЗ Правоведение
-UID:f720f17610319354a7c5a0ca9ec55872
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Общая физика
-UID:12d47e2622621ab721d2e945e9b9bf42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T091500Z
-LOCATION:Орш. В-501
-DTSTART:20250927T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:7aa34b1aefbf13f43191309896a46259
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251129T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:bd39bc0fb076f3be1e52577150e690a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251004T114500Z
-SUMMARY:ЛК Правоведение
-UID:396a46fce713f0932c6c529b01d4b6e9
+UID:25e9453b1e3e9e7733814857b236bbd8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T131500Z
@@ -1854,25 +1940,36 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:393533731ea889c9959d6b1925b4e50b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251213T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:8eb850b8f7bf35b4097e8d9255a76199
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20250926T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250926T074500Z
+SUMMARY:ЛК Математический анализ
+UID:54da28f85420e11f573e749c33891a01
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251128T100000Z
-SUMMARY:ЛК Общая физика
-UID:7138c0234057f5996cb7c8be9b7e4067
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20251209T091500Z
+LOCATION:Орш. В-205
+DTSTART:20251209T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:dc66ca6a0d20280f28008d06a697e024
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Общая физика
-UID:35240e902d0275e6d9a5fb85908bbdc6
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251122T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251122T114500Z
+SUMMARY:ПЗ Правоведение
+UID:55241ce8132f8d55324b12cfe9bc3c40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крюков Максим Юрьевич
+DTEND:20250902T091500Z
+LOCATION:Орш. В-205
+DTSTART:20250902T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:ae24625305685865068b8205c49e9e9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1883,11 +1980,12 @@ SUMMARY:ПЗ История России
 UID:0adaed53ea87d929df056d83834f389f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
 DTEND:20251018T091500Z
 LOCATION:Орш. В-501
 DTSTART:20251018T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:49562f4143616a8d37fe19a5cb4f0603
+UID:edb0e75ff7705293b70f1cb6f9f7be58
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T131500Z
@@ -1904,18 +2002,20 @@ SUMMARY:ПЗ Иностранный язык
 UID:086c0c23faf5fc75b73cc4c026473248
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251125T091500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251227T113000Z
 LOCATION:Орш. В-205
-DTSTART:20251125T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:1c4ed243ca4a78b4d97517bc06a9f114
+DTSTART:20251227T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:020ccf4921021554c3d97b8eeb5279cd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251206T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:be55723ef9c8855db70eb19ca5126e01
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20251213T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251213T114500Z
+SUMMARY:ЛК Правоведение
+UID:7c53c76afec98739e47289bd7bac2d65
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1934,13 +2034,6 @@ SUMMARY:ПЗ Общая физика
 UID:d8928d27323b41716955c82dfabc16f3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:810014259313ed8c64d2bc017c390969
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20250909T073000Z
 LOCATION:Орш. В-306
@@ -1956,11 +2049,20 @@ SUMMARY:ПЗ Физическая культура
 UID:2a27e1b983d2953d21e363394949f177
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T113000Z
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251114T091500Z
 LOCATION:Орш. В-301
-DTSTART:20251205T100000Z
-SUMMARY:ЛК Общая физика
-UID:b8939b3d0feb282a155cfc22a68951e8
+DTSTART:20251114T074500Z
+SUMMARY:ЛК Математический анализ
+UID:2f283272b5af3a70e94e0eda22a6dc15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20251115T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251115T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:4a28aabaf59780e13e09e8b2edf942d2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T073000Z
@@ -1968,6 +2070,14 @@ LOCATION:Орш. В-501
 DTSTART:20251025T060000Z
 SUMMARY:ЛК Основы российской государственности
 UID:0d4dcb1891c6bad09c1ff445160af937
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20250905T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250905T074500Z
+SUMMARY:ЛК Математический анализ
+UID:bc561369191685181b44f1de91ca5aa5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -1978,11 +2088,12 @@ SUMMARY:ПЗ Общая физика
 UID:7e0bd6e882cd14bb8128c0be65d2d7b1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:Орш. В-501
-DTSTART:20251101T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:0637920fd3508b1957c85b5764010cba
+DESCRIPTION:Воронов Олег Сергеевич
+DTEND:20250913T131500Z
+LOCATION:Орш. В-526
+DTSTART:20250913T114500Z
+SUMMARY:ПЗ Правоведение
+UID:27b2d548be04703b0e8bcc7a3767358f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -1993,18 +2104,20 @@ SUMMARY:ПЗ Общая физика
 UID:cd730a950fac207e78351e37633e0933
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T091500Z
-LOCATION:Орш. В-205
-DTSTART:20251118T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:ca6f62e980399dd49c8cd727afea3686
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20251226T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251226T074500Z
+SUMMARY:ЛК Математический анализ
+UID:48aae6b3c6c1017484a59827cfffff77
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T091500Z
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20250919T113000Z
 LOCATION:Орш. В-301
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Математический анализ
-UID:153cf672d359a646cb6e85236de38a3d
+DTSTART:20250919T100000Z
+SUMMARY:ЛК Общая физика
+UID:160330fc3fddd7fc898825886e6cf7dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -2015,11 +2128,20 @@ SUMMARY:ЛР Информатика
 UID:b1c0e654ddbb53e4dd8bb55459afb895
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251003T074500Z
-SUMMARY:ЛК Математический анализ
-UID:3ae67312de2baeb705b307393d5b248c
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
+DTEND:20250920T113000Z
+LOCATION:Орш. В-205
+DTSTART:20250920T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:a25b23434e5a08ce47a94e9924e3b026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Удалова Наталия Владимировна
+DTEND:20250929T113000Z
+LOCATION:24-600
+DTSTART:20250929T100000Z
+SUMMARY:ЛК Информатика
+UID:1f9404b858f5762548c7ec098783d702
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карамзина (Глушанкова) Виктория Игоревна
@@ -2028,12 +2150,5 @@ LOCATION:24-620
 DTSTART:20250918T100000Z
 SUMMARY:ЛР Информатика
 UID:0e640537c27f0db58366cb87c47df5db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T113000Z
-LOCATION:Орш. В-205
-DTSTART:20250913T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:639f73621229baf569cdb2eee2bc552a
 END:VEVENT
 END:VCALENDAR
