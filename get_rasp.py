@@ -4,13 +4,26 @@ from ics import Calendar, Event
 import pytz
 import requests
 import hashlib
+import random
+
+
+# Массив различных user agents для защиты от блокировки
+USER_AGENTS = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0'
+]
 
 
 def get_schedule(group):
-    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36'
-
+    # Выбираем случайный user agent для каждого запроса
     headers = {
-        'User-Agent': user_agent,
+        'User-Agent': random.choice(USER_AGENTS),
     }
     # group = group.upper()
     group_hash = hashlib.md5(group.encode('utf-8')).hexdigest()
@@ -71,5 +84,5 @@ def json_to_ics(data, path=""):
     with open(f'{path}{group}.ics', 'w', encoding='utf-8') as f:
         f.writelines(calen.serialize_iter())
 
-# data = get_schedule("М2О-101СВ-25")
+# data = get_schedule("М3О-107СВ-25")
 # json_to_ics(data, "rasp/")
