@@ -71,5 +71,5 @@ def json_to_ics(data, path=""):
     with open(f'{path}{group}.ics', 'w', encoding='utf-8') as f:
         f.writelines(calen.serialize_iter())
 
-data = get_schedule("М2О-101СВ-25")
-json_to_ics(data, "rasp/")
+# data = get_schedule("М2О-101СВ-25")
+# json_to_ics(data, "rasp/")

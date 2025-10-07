@@ -4,7 +4,7 @@ import json
 import subprocess
 
 
-subprocess.run(['python', 'group_parser.py'])
+# subprocess.run(['python3', 'group_parser.py'])
 
 
 with open('groups/groups.json', encoding='utf-8') as file:
@@ -22,6 +22,7 @@ for inst in data["institute"]:
         for category in data["institute"][inst][course]:
             for group in data["institute"][inst][course][category]:
                 rasp = get_schedule(str(group))
+                time.sleep(1)
                 if rasp is not None:
                     try:
                         json_to_ics(rasp, "rasp/")
