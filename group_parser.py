@@ -86,7 +86,7 @@ for i in range(1, 15):
 if not os.path.exists("groups"):
     os.makedirs("groups")
 
-with open(f'groups\\groups.json', 'w', encoding='utf-8') as json_file:
+with open(os.path.join('groups', 'groups.json'), 'w', encoding='utf-8') as json_file:
     json.dump(groups, json_file, ensure_ascii=False, indent=4)
 
 print(f"\n\tДанные записаны в файл 'groups.json\n\n")
