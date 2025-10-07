@@ -15,24 +15,31 @@ if not os.path.exists("rasp"):
     os.makedirs("rasp")
 
 
-count = 0
-errors = 0
+success_count = 0
+error_count = 0
+total_count = 0
+
 for inst in data["institute"]:
     for course in data["institute"][inst]:
         for category in data["institute"][inst][course]:
             for group in data["institute"][inst][course][category]:
+                total_count += 1
                 rasp = get_schedule(str(group))
                 if rasp is not None:
                     try:
                         json_to_ics(rasp, "rasp/")
-                        count += 1
-                        print(f"\t{group}.ics\t\tSAVED\t{count}")
+                        success_count += 1
+                        print(f"\t✅ {group}.ics\t\tSAVED\t[{success_count}/{total_count}]")
                     except Exception as e:
-                        errors += 1
+                        error_count += 1
                         print(f"\t⚠️  Ошибка создания {group}.ics: {type(e).__name__}")
                 else:
-                    errors += 1
+                    error_count += 1
 
-print(f"\n✅ Обработано: {count} групп")
-if errors > 0:
-    print(f"⚠️  Ошибок: {errors}")
+print("\n" + "="*50)
+print("📊 СТАТИСТИКА ОБНОВЛЕНИЯ РАСПИСАНИЙ")
+print("="*50)
+print(f"📚 Всего групп:              {total_count}")
+print(f"✅ Успешно обработано:       {success_count} ({success_count*100//total_count if total_count > 0 else 0}%)")
+print(f"❌ Не удалось получить:      {error_count} ({error_count*100//total_count if total_count > 0 else 0}%)")
+print("="*50)

@@ -33,7 +33,9 @@ jobs:
         run: python group_parser.py
       
       - name: Run main schedule updater
-        run: python main.py
+        run: |
+          echo "Запуск обновления расписаний (таймаут на группу: 3 сек)"
+          python main.py
       
       - name: Check for changes
         id: check_changes

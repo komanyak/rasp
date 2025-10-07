@@ -30,7 +30,7 @@ def get_schedule(group):
     link = "https://public.mai.ru/schedule/data/" + group_hash + ".json"
 
     try:
-        responce = requests.get(link, headers=headers, timeout=30)
+        responce = requests.get(link, headers=headers, timeout=3)
         responce.raise_for_status()
         
         if not responce.text.strip():
@@ -38,6 +38,9 @@ def get_schedule(group):
             
         data = json.loads(responce.text)
         return data
+    except requests.exceptions.Timeout:
+        print(f"\t⏱️  Таймаут при загрузке {group} (>3 сек)")
+        return None
     except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
         print(f"\t⚠️  Ошибка загрузки {group}: {type(e).__name__}")
         return None
