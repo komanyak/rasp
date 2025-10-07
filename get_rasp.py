@@ -16,9 +16,18 @@ def get_schedule(group):
     group_hash = hashlib.md5(group.encode('utf-8')).hexdigest()
     link = "https://public.mai.ru/schedule/data/" + group_hash + ".json"
 
-    responce = requests.get(link, headers=headers)
-    data = json.loads(responce.text)
-    return data
+    try:
+        responce = requests.get(link, headers=headers, timeout=30)
+        responce.raise_for_status()
+        
+        if not responce.text.strip():
+            return None
+            
+        data = json.loads(responce.text)
+        return data
+    except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
+        print(f"\t⚠️  Ошибка загрузки {group}: {type(e).__name__}")
+        return None
 
 
 def json_to_ics(data, path=""):
