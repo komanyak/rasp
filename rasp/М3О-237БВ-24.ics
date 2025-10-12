@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251128T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251128T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:37fdfffb920228bd99f6c50a6334b591
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20260124T073000Z
 LOCATION:Орш. Б-507
@@ -157,11 +150,27 @@ SUMMARY:ПЗ Физическая культура
 UID:68465196d88aff9f4eea5dc5144b7a6f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251017T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251017T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:de34d2e25c670d035482b9e8696d3563
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T131500Z
 LOCATION:--стадион
 DTSTART:20251218T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:0b740a4eb45841006dbb1b695e75e2e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251017T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251017T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:179809a77c2f54d9dd0e3181bcec0ae6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -172,19 +181,20 @@ SUMMARY:ПЗ Экология
 UID:d957a941e0299a61d0f117fc9d3930c9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250912T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20250912T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:d0bebff569cbb8d17ffe72003afac860
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20251230T091500Z
 LOCATION:Орш. А-101
 DTSTART:20251230T074500Z
 SUMMARY:ЛК Прикладные методы и алгоритмы обработки и защиты данных
 UID:0be12b468390b35fda8e27ad4312e652
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251212T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:3cdcb5b85ed5b1d408ef0ea20e999a78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -208,6 +218,14 @@ LOCATION:--каф.
 DTSTART:20251112T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:225249bea16bb242130fa36097451c3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251226T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251226T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:5a4c357f58e7d69d6dc2faf139440d44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Перкова Екатерина Петровна
@@ -240,11 +258,12 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:abdc8c841b4b0ee5ae6dd3203d9054b8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20250919T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:9eb065ad654f635f26905d0a2ca5fca0
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20250915T091500Z
+LOCATION:Орш. А-101
+DTSTART:20250915T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:9fbd3943cdcd2210726ab3e3aabd37dd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T131500Z
@@ -254,12 +273,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:04d00316c1acb03c2892074e190ad064
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251027T091500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251222T091500Z
 LOCATION:Орш. А-101
-DTSTART:20251027T074500Z
+DTSTART:20251222T074500Z
 SUMMARY:ЛК Теория инноваций
-UID:116f9a343328d1dda4c50f3095a7993a
+UID:d0b3a48c4a3de8aa727e9433b626a5b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -293,14 +312,6 @@ SUMMARY:ПЗ Физическая культура
 UID:c6d38a7fa582739899f1dbd7ecb18ea1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251222T113000Z
-LOCATION:Орш. Б-504
-DTSTART:20251222T100000Z
-SUMMARY:ЛР Теория инноваций
-UID:93eb1c5f8b9567d5f4f1a0433cae2a1c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251016T131500Z
 LOCATION:--стадион
 DTSTART:20251016T114500Z
@@ -313,21 +324,6 @@ LOCATION:--каф.
 DTSTART:20251029T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:afcd0a96cbf5597ee2e1482cc41efe31
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251124T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20251124T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:1fcaede726749f4888777eef33d3600c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20250912T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:13b5d2178c25c7fbd4c4f3b656948b87
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T113000Z
@@ -353,6 +349,14 @@ SUMMARY:ПЗ Социология
 UID:6bbe22e2a1af948fbabdd302d7213f43
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251031T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251031T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:1215c03b3a9e47540ab9e891cfdde0a0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20251111T091500Z
 LOCATION:Орш. А-101
@@ -361,19 +365,28 @@ SUMMARY:ЛК Спецглавы высшей математики
 UID:2bb6ce9bcf5eaba92bb53e7a0b1de44c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251010T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:b6b6bfb9c95950289652f4ade024a0cf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
 DTEND:20251204T091500Z
 LOCATION:Орш. А-301
 DTSTART:20251204T074500Z
 SUMMARY:ЛК Экология
 UID:f883d08de650b21a661086b3b1a79703
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251124T091500Z
+LOCATION:Орш. А-101
+DTSTART:20251124T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:78600ee8a1bb0c5a8595ccd1dc0587ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251222T113000Z
+LOCATION:Орш. Б-504
+DTSTART:20251222T100000Z
+SUMMARY:ЛР Теория инноваций
+UID:87a6f1028340bb4b1d2e3918a38121ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -398,6 +411,14 @@ LOCATION:Орш. Б-507
 DTSTART:20250922T114500Z
 SUMMARY:ЛР Прикладные методы и алгоритмы обработки и защиты данных
 UID:97dbcb340b8ecf2b5774d490e0e2184e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251208T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20251208T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:ced5a67e881b6787b49c9b0fc8f7b69c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -430,6 +451,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:e13006e4fbbb2f26b15992741cd3e829
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250926T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20250926T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:d7ace4931d9ac1cd3d4294196623ce48
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:--каф.
 DTSTART:20251203T074500Z
@@ -450,6 +479,14 @@ LOCATION:Орш. Б-507
 DTSTART:20250915T114500Z
 SUMMARY:ПЗ Спецглавы высшей математики
 UID:f988a98735b542a96f8bb80b92405a42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251121T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251121T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e98b6dceb9a1345bb4903cf6e9d6aef0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T113000Z
@@ -488,14 +525,6 @@ LOCATION:Орш. А-101
 DTSTART:20250925T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:0e6941bc5bd6f6f7df68e33157f041d9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251110T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20251110T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:13304a75a43c083269a3b72de6ef1257
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -565,13 +594,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:aba5d403eb08993d86f4981e6dd78c01
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251212T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ed016a12e821624f14ea685899514db0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20250916T091500Z
 LOCATION:Орш. А-101
@@ -601,13 +623,6 @@ LOCATION:Орш. А-101
 DTSTART:20251127T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:46429674cab96228fa1ff5b55f0a5dde
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251114T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:219732909e6dc9ea8302e4c985016c71
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -640,11 +655,12 @@ SUMMARY:ЛР Спецглавы высшей математики
 UID:42efe7e5a3d6aa2c51259aae3af01a88
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251121T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f6575ded22c5c6da890196f73f9c67cf
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251208T091500Z
+LOCATION:Орш. А-101
+DTSTART:20251208T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:7165fafea1939048ae679c1b511fb618
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -670,19 +686,12 @@ SUMMARY:ПЗ Прикладные методы и алгоритмы обраб�
 UID:618f5fc0957d0265d23bfe787e649b92
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251013T091500Z
-LOCATION:Орш. А-101
-DTSTART:20251013T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:bc6eb0239f0fc64ca4c2dd1ec60cfa9a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251114T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:8f56caf67b2e26c09f7346ba7da03c39
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20250929T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20250929T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:70a946be7c9d9f16fc86d483751f294b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -698,6 +707,14 @@ LOCATION:--стадион
 DTSTART:20251211T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:061731bf8cebc9faaa4d64bce143e363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251031T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251031T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:731f3ff23c1e1a7148f3f76c3fa21018
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -738,13 +755,6 @@ LOCATION:Орш. Б-507
 DTSTART:20251103T100000Z
 SUMMARY:ЛР Прикладные методы и алгоритмы обработки и защиты данных
 UID:98dfae4ab2ea8e8f039ddb300c7c0f01
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:edae0a7885705bc7f07b2f7a01f9ad47
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вербицкая Анна Кирилловна
@@ -809,6 +819,14 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:494a1362f9e7d2b7d5d6d69bc5a3852c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251226T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251226T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3a312741c9542e888b2463565c86a747
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T113000Z
 LOCATION:--каф.
 DTSTART:20251008T100000Z
@@ -855,6 +873,30 @@ SUMMARY:ЛК Экология
 UID:305ec7597d6ec69419b025f399698020
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251128T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251128T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:82cb44a5673178ba3676037b906405a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251013T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20251013T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:79407ae209c47fc3aadc859a6c839eec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251121T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251121T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3b8cc578a8f5a71716f13a9d15d79921
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Прудников Алексей Владимирович
 DTEND:20251118T113000Z
 LOCATION:Орш. Б-505
@@ -871,11 +913,12 @@ SUMMARY:ПЗ Экология
 UID:2730120bbf22a2cd03ee0a4972c0d78e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251219T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:3d4230a530681590d3c03b15d4157af7
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251027T091500Z
+LOCATION:Орш. А-101
+DTSTART:20251027T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:34acd6a2c3af4169d27d3f9f70ca0e58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -891,6 +934,14 @@ LOCATION:--каф.
 DTSTART:20251008T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:6da7c511df507babc35d932ddbdf76f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251114T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251114T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:058272d4d99c86106db93dc83595b18e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T073000Z
@@ -913,6 +964,14 @@ LOCATION:Орш. А-101
 DTSTART:20250920T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:f2010ea867651a795f1046c0f1a20a89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251114T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251114T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:1a63abecf27c3c045fba1cf9d16a48bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -973,26 +1032,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:9dfff7129a04106d801cd3f98aa49b73
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251208T131500Z
-LOCATION:Орш. Б-504
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Теория инноваций
-UID:4f35757d4c88eeabfc54aef31c1dd155
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250908T073000Z
 LOCATION:--стадион
 DTSTART:20250908T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:40a0ed90f084e9c40c69fb251bc332c1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251003T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:26a5b1cd6af824d677f459f1e7e31089
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прудников Алексей Владимирович
@@ -1011,18 +1055,20 @@ SUMMARY:ЛК Социология
 UID:b638a7529712d70b803dd0875c1ecefe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251205T060000Z
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250912T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20250912T074500Z
 SUMMARY:ПЗ Иностранный язык
-UID:cf2d41a1d498afba6f28728b4bcb89af
+UID:940de2b2a914a3816d1d890dbcec2e29
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20250905T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:558cc27d7f8a98643e7b505d2eb96eca
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251208T131500Z
+LOCATION:Орш. Б-504
+DTSTART:20251208T114500Z
+SUMMARY:ЛР Теория инноваций
+UID:71ab49680b2f6ddee04ff95cc4f0136d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -1093,13 +1139,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:317f8cbd8e39c36c82cda624406321f4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251003T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:1fe6355a5a4b972d1f3a4a902d1c7297
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
 DTEND:20251023T091500Z
 LOCATION:Орш. А-301
@@ -1130,20 +1169,6 @@ LOCATION:Орш. А-530
 DTSTART:20250918T060000Z
 SUMMARY:ПЗ Экология
 UID:fbbdc234027b1cb68d859d0660aa0d37
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251205T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:fc14a5edf5ec3d260a8d3fcde752868d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20250926T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:827e986b77d23c47863ea16563e3e5e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -1244,18 +1269,12 @@ SUMMARY:ЛК Прикладные методы и алгоритмы обраб�
 UID:2bcc03b265f857d61d3679515b7b43c5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251024T060000Z
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250926T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20250926T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:fa57fdafb5f3a8cbaef167321fcb35b8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251226T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:2b6b077533d7e87381ad5ee62e2618e9
+UID:a81209e971ab7281f0656515d16a8b3f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T073000Z
@@ -1265,11 +1284,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:949893c9681f5cc26bc45de73cae7fa3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20250905T074500Z
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251205T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251205T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:42861e9aa9db377cebf14c7795a17fa6
+UID:7d49f6289b0a1245555b21da28e456ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -1334,6 +1354,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:a07ef2ea5562162025aabf01a93c4874
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20250901T091500Z
+LOCATION:Орш. А-101
+DTSTART:20250901T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:65ac15d1439dfd2aa10c4903cc01f0bb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T131500Z
 LOCATION:--каф.
 DTSTART:20251008T114500Z
@@ -1378,6 +1406,14 @@ LOCATION:--каф.
 DTSTART:20250917T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:a129653bf2caca440b2ca395e3705d57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251010T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251010T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:41f9f963d7505de279d7409fcb827957
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -1446,6 +1482,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:8ccbffcc674cc8a82ee4872a02d11ecf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251128T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251128T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:43de9d13a1c62c1a4745684562a1c6f4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Перкова Екатерина Петровна
 DTEND:20251017T113000Z
 LOCATION:Орш. А-101
@@ -1468,25 +1512,12 @@ SUMMARY:ПЗ Физическая культура
 UID:932959b139654ac1c6dbc1fc75a9694a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20250919T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e7f0a515f290b5dddc93dc51f3db052a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251226T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:3097a9063dac0072ab72ecb17ecb4827
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251219T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5e2a35fd0a6bf270b0fb0dc75b4d7449
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20250915T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20250915T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:61ff9989ae2a6eb24a0269d8a1462b92
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T131500Z
@@ -1528,6 +1559,14 @@ SUMMARY:ЛК Спецглавы физики
 UID:0dd84b2d7cb97c6837e63a7ca6668b8b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251222T131500Z
+LOCATION:Орш. Б-504
+DTSTART:20251222T114500Z
+SUMMARY:ЛР Теория инноваций
+UID:d0b880975d65b3355b1c6712f7695921
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20250922T113000Z
 LOCATION:Орш. Б-507
@@ -1552,35 +1591,12 @@ SUMMARY:ПЗ Социология
 UID:204dd765f4f96935f9b66f668d9fe2a7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251222T131500Z
-LOCATION:Орш. Б-504
-DTSTART:20251222T114500Z
-SUMMARY:ЛР Теория инноваций
-UID:6e77c8b52ff4984d7ae6db2fe6f29ef3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251017T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:0bb01f579607f20927bf460a39f9dd38
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сиротин Андрей Николаевич
 DTEND:20250927T073000Z
 LOCATION:Орш. В-207
 DTSTART:20250927T060000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:53a820e77346a08662e865e55c67a7f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20250901T091500Z
-LOCATION:Орш. А-101
-DTSTART:20250901T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:d867ceadadf1268bc78fb70e26c4fe2a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T091500Z
@@ -1630,14 +1646,6 @@ SUMMARY:ЛР Структура программного обеспечения 
 UID:01a2095c8b74848b259347ec71030f15
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251027T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20251027T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:1417bc2fd0fe3365cbd43ffc67394c6a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20251020T131500Z
 LOCATION:Орш. Б-507
@@ -1669,6 +1677,14 @@ SUMMARY:ПЗ Физическая культура
 UID:0431bc703ea879b724b2421aa34e88ff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251212T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251212T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:4dbef67717a03c87a7795c1491ef41bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
 DTEND:20251009T073000Z
 LOCATION:Орш. А-530
@@ -1677,27 +1693,12 @@ SUMMARY:ПЗ Экология
 UID:1bd091b7fda21720a6e934292f7af13f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251024T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:4f630846c63eea808a7f4e31c71ff58f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
 DTEND:20251101T091500Z
 LOCATION:Орш. А-101
 DTSTART:20251101T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:5893159bbce505ec1750ba71af935375
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251208T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20251208T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:e3de34df3ef921afdedd4f585387eba1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воронин Павел Александрович (совм.)
@@ -1731,6 +1732,14 @@ SUMMARY:ЛК Социология
 UID:8e5ba79775c3146cf1d366408df22dc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251024T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251024T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:5b61c0ed3c166816f1b273b80e48bf9b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
 DTEND:20251125T073000Z
 LOCATION:Орш. А-101
@@ -1745,14 +1754,6 @@ LOCATION:Орш. А-101
 DTSTART:20250918T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:83250c222ac51a74190fb9d4eb85f920
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20250915T091500Z
-LOCATION:Орш. А-101
-DTSTART:20250915T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:a640410e06c4a84f8abadb2ecce30518
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -1816,11 +1817,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:5f9a40d6f43b51d9ee0c19a680086d8d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251121T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:bcb830b9fddfa2a28ed070d4ec6fca09
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251110T091500Z
+LOCATION:Орш. А-101
+DTSTART:20251110T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:fb7a35be60996530560eacd29be1200b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251110T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20251110T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:30e5394a9f8c0bf08720c8128088ceae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T131500Z
@@ -1857,6 +1867,14 @@ LOCATION:Орш. Б-507
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Спецглавы высшей математики
 UID:026b5ebffc29e9e62597dc52dba80f8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20250929T091500Z
+LOCATION:Орш. А-101
+DTSTART:20250929T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:7bb9f4a6eba184d9426851ef75e9a706
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прудников Алексей Владимирович
@@ -1897,22 +1915,6 @@ SUMMARY:ЛК Спецглавы физики
 UID:be05203eac53a425451f23321b1b140e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20250929T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20250929T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:b420fa03bd881822768c2ecb9d0ccfda
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251013T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20251013T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:b5c2706b7ea35edb23efdaa1f03e6dc5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250903T073000Z
 LOCATION:--каф.
 DTSTART:20250903T060000Z
@@ -1942,13 +1944,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:fd7ba4f2888f32057ca14f468b8a2966
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251107T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ce58bce4c952286b6a824ef47f959e76
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251201T073000Z
 LOCATION:--стадион
 DTSTART:20251201T060000Z
@@ -1964,11 +1959,12 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:99c2f7fd038125eb14954b0d7eb5811d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251010T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:2ad76801f17ff255163c18827db2703f
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251027T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20251027T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:5c1cf796f49c33956fb7ef7a0ee42de5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -1977,6 +1973,14 @@ LOCATION:Орш. А-101
 DTSTART:20250902T074500Z
 SUMMARY:ЛК Спецглавы высшей математики
 UID:29caff95d585f484ddbc75c163a8d7ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251219T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251219T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c971c86f7c94ef3d84cba429e37b1b09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -2002,6 +2006,38 @@ SUMMARY:ЛК Спецглавы физики
 UID:1351bd38547370b600fb42c18f45254e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251003T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251003T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c195193eb11cad8b19b8ee93cc61cf79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251107T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251107T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:06d64be1860c886e1d01d17b5683183d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251010T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251010T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:0bdd85bc52470f96a8e038ea854a8cf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250919T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20250919T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:9b364f2d7ed7813531814c758bc405e4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20251114T131500Z
 LOCATION:Орш. В-101
@@ -2010,19 +2046,19 @@ SUMMARY:ЛК Структура программного обеспечения 
 UID:22e568b578904f585139f07b4a5641fd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251212T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251212T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:9f84f2307785f5c09b857040dc2179a9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T113000Z
 LOCATION:--каф.
 DTSTART:20251217T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c1c86fdc39eee48d49343a8e85390d5d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20250915T113000Z
-LOCATION:Орш. Б-503
-DTSTART:20250915T100000Z
-SUMMARY:ПЗ Теория инноваций
-UID:d25a9571c6890263082e1b21f53b33ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -2049,12 +2085,12 @@ SUMMARY:ЛК Социология
 UID:53284afa12c863c9254e615fc05ff567
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251222T091500Z
-LOCATION:Орш. А-101
-DTSTART:20251222T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:24830385e587fcc91219e6155ab8d2f8
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251205T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251205T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:39b2a0edff6be51e0dc28ef6b56c4978
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сиротин Андрей Николаевич
@@ -2071,6 +2107,14 @@ LOCATION:Орш. А-530
 DTSTART:20250925T060000Z
 SUMMARY:ПЗ Экология
 UID:4683b506a3f9ed18c3427d7e27213e11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251003T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251003T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8917448a66c224d64d6c7e1a19433027
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -2128,27 +2172,12 @@ SUMMARY:ЛР Структура программного обеспечения 
 UID:0328c096f5332bf437e12ee7a323afa3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:b833fbac53ddde94f3c74a608aba1188
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
 DTEND:20250902T131500Z
 LOCATION:Орш. В-201
 DTSTART:20250902T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:cce2c9cdab169cf9da2f2a79dd967c9d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251208T091500Z
-LOCATION:Орш. А-101
-DTSTART:20251208T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:dfc188b9bc078ffe10d5861431e385ab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T073000Z
@@ -2166,13 +2195,6 @@ SUMMARY:Экзамен Дифференциальные уравнения
 UID:0952d86d8b799fc2549cd92e8382fae1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20250912T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:36435767d9a55c66f0580f6ba80e20b5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251105T113000Z
 LOCATION:--каф.
 DTSTART:20251105T100000Z
@@ -2180,19 +2202,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:3331a1ba13c10ec31ec9e5b259645451
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20250929T091500Z
-LOCATION:Орш. А-101
-DTSTART:20250929T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:1e72e376bd5fd14215ef0c2b65ee088b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251120T131500Z
 LOCATION:--стадион
 DTSTART:20251120T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:24c846df4be9a993c3c1c1481cd9d238
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251024T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251024T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:eff189f01062ea46a42d500331941165
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
@@ -2232,6 +2254,14 @@ LOCATION:Орш. А-101
 DTSTART:20250911T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:bfbf245d6e555f1d9596de1b3a7aa452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250919T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20250919T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:4bad9540e0c2bbd79f8cab18a560ec6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -2303,13 +2333,6 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:77432799e7d3d0a9bf22121373b6e131
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251031T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:a0787eb3eb22d771bcdfe490e2359f9d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Воронин Павел Александрович (совм.)
 DTEND:20251110T131500Z
 LOCATION:Орш. Б-507
@@ -2348,26 +2371,12 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:30d9e7ae1551c4e20780a9d83682f18f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251107T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:d4bb5cc7ef8946fb0bf7a2da518d8dfc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20250923T091500Z
 LOCATION:Орш. А-101
 DTSTART:20250923T074500Z
 SUMMARY:ЛК Прикладные методы и алгоритмы обработки и защиты данных
 UID:7dd9dbf77fc9a7d48a0bc20a7dbecfb9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T073000Z
-LOCATION:Орш. Б-604
-DTSTART:20251017T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5e6462ec203fb12e8fdbd0b3f1961de8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -2416,14 +2425,6 @@ SUMMARY:ПЗ Экология
 UID:1ade2e46016f5f4b8e8392763e33adbb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251110T091500Z
-LOCATION:Орш. А-101
-DTSTART:20251110T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:6e8e213876fe33d6a108c7ee4251cad3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
 DTEND:20251106T113000Z
 LOCATION:Орш. А-101
@@ -2463,6 +2464,14 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:6a25cfdbf5daec7f4630db3a5b0526ed
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251219T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20251219T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3580039115153361e5c3d03001821002
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА (осн.)
 DTEND:20251216T091500Z
 LOCATION:Орш. А-101
@@ -2471,19 +2480,20 @@ SUMMARY:ЛК Прикладные методы и алгоритмы обраб�
 UID:1d241ffec05b6ecc8f680dd07fe67e61
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250905T073000Z
+LOCATION:Орш. Б-605
+DTSTART:20250905T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:421aafd51ed8c44bc6b20b35d24f41ef
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
 DTEND:20251117T091500Z
 LOCATION:Орш. В-307
 DTSTART:20251117T074500Z
 SUMMARY:ПЗ Спецглавы физики
 UID:fb58cdeb6a3d8c5c45292e6e2761f187
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:Орш. Б-604
-DTSTART:20251128T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:6faab515451170272eeaf810637a354b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воронин Павел Александрович (совм.)
@@ -2509,14 +2519,6 @@ SUMMARY:ПЗ Физическая культура
 UID:43c9b0775974869f2f886a0ea9ac4bed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
-DTEND:20251124T091500Z
-LOCATION:Орш. А-101
-DTSTART:20251124T074500Z
-SUMMARY:ЛК Теория инноваций
-UID:768092f0beefc5ccd3c6e0ba6c8984a0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сиротин Андрей Николаевич
 DTEND:20250913T073000Z
 LOCATION:Орш. В-207
@@ -2531,6 +2533,14 @@ LOCATION:Орш. Б-504
 DTSTART:20251117T100000Z
 SUMMARY:ЛР Структура программного обеспечения и базы данных
 UID:c50064d547a445e7711dbe1efe52d8aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251124T113000Z
+LOCATION:Орш. Б-503
+DTSTART:20251124T100000Z
+SUMMARY:ПЗ Теория инноваций
+UID:a710e84d6f67f34be5f63bf8ed35aefc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сиротин Андрей Николаевич
@@ -2556,11 +2566,27 @@ SUMMARY:ПЗ Военная подготовка
 UID:0aa889463d6b15c50b9a16a24d5e439e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20250905T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20250905T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:54d4b2f92049897ef80d2355522c7b7e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T131500Z
 LOCATION:--стадион
 DTSTART:20251009T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:e5d9f2d5dacbab9f2ae4fe352cb69e2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Осьмина Кира Сергеевна
+DTEND:20251107T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251107T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8ee5e43d8f14561a7cebcbc3caa97ea5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА
@@ -2593,6 +2619,14 @@ LOCATION:Орш. Б-507
 DTSTART:20251229T114500Z
 SUMMARY:ЛР Спецглавы высшей математики
 UID:f04e9eb0023883e3303c6af3c5f1564e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ (осн.)
+DTEND:20251013T091500Z
+LOCATION:Орш. А-101
+DTSTART:20251013T074500Z
+SUMMARY:ЛК Теория инноваций
+UID:0961c9a1ef67b1de4875014f13fba42a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЛЕНОВА НАТАЛЬЯ ВАЛЕРЬЕВНА

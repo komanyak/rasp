@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
+DTEND:20260119T091500Z
+LOCATION:Орш. В-202
+DTSTART:20260119T074500Z
+SUMMARY:Экзамен Математический анализ
+UID:2a04788d6d6bef680e7846d1489d63c8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
 DTEND:20250904T131500Z
 LOCATION:Орш. В-301
@@ -117,12 +125,27 @@ SUMMARY:ЛК Основы менеджмента
 UID:1046c7d34a686443453cd15dcf18b364
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20250913T073000Z
+LOCATION:Орш. В-610
+DTSTART:20250913T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3521f8c0cabbac466d1630b58491a4ca
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
 DTEND:20251108T113000Z
 LOCATION:Орш. В-301
 DTSTART:20251108T100000Z
 SUMMARY:ЛК История России
 UID:0e0ac25eb67aa672b6508c455dc808ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T091500Z
+LOCATION:Орш. В-605
+DTSTART:20251110T074500Z
+SUMMARY:ЛР Общая физика
+UID:a0e5aff2c6663c72dfb25b40b2a852e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
@@ -133,21 +156,6 @@ SUMMARY:ЛК Экономическая теория
 UID:99acdb614198d6a54fcb91386cd5c139
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T091500Z
-LOCATION:Орш. В-605
-DTSTART:20251110T074500Z
-SUMMARY:ЛР Общая физика
-UID:a0e5aff2c6663c72dfb25b40b2a852e9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Медведева Кристина Михайловна
-DTEND:20251129T113000Z
-LOCATION:Орш. В-301
-DTSTART:20251129T100000Z
-SUMMARY:ЛК История России
-UID:ad6e00597ef6da43f5394a693c9bc991
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
 DTEND:20251030T131500Z
 LOCATION:Орш. В-301
@@ -156,11 +164,12 @@ SUMMARY:ЛК Экономическая теория
 UID:2c1ac93a836a201b69251c4100ae9c81
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:--каф. 919
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:604bbda3151e94de77dc31be822c6ee3
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20251129T113000Z
+LOCATION:Орш. В-301
+DTSTART:20251129T100000Z
+SUMMARY:ЛК История России
+UID:ad6e00597ef6da43f5394a693c9bc991
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
@@ -240,6 +249,22 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:319228fd344fe095b82cf7b100a73378
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20250920T073000Z
+LOCATION:Орш. В-610
+DTSTART:20250920T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:1a395c72fd76d27c29c8ae1a9f720a83
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251018T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251018T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:870c7623da712622a5154625febc8b21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
 DTEND:20250924T091500Z
 LOCATION:5-319
@@ -270,11 +295,12 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:7033c29036bd60b18f986c6cbfe4c371
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T073000Z
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251108T073000Z
 LOCATION:Орш. В-610
-DTSTART:20251220T060000Z
+DTSTART:20251108T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:078a2081e6206a4dc4fe29888c0933f8
+UID:393d2568b42b7e3752ec5575f66faaf7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
@@ -324,11 +350,12 @@ SUMMARY:ПЗ Общая физика
 UID:52bd331e2144ce4a3019d88e2db2f5ec
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T073000Z
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251025T073000Z
 LOCATION:Орш. В-610
-DTSTART:20251213T060000Z
+DTSTART:20251025T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:07f12a56c3a08bef744cdfef6b46975b
+UID:14e2c7a444e8306741fbf2aee17ccd72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -353,6 +380,14 @@ LOCATION:5-103
 DTSTART:20251128T133000Z
 SUMMARY:ПЗ Основы менеджмента
 UID:a3c4f79728bec02a0303aebfd2110b19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20250906T073000Z
+LOCATION:Орш. В-610
+DTSTART:20250906T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c68d7f427a49e295a5de55aaf2a572f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -403,12 +438,12 @@ SUMMARY:ПЗ История России
 UID:3bd30c688d351f7adcf6324071372d46
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
-DTEND:20260119T091500Z
-LOCATION:Орш. В-202
-DTSTART:20260119T074500Z
-SUMMARY:Экзамен Математический анализ
-UID:2a04788d6d6bef680e7846d1489d63c8
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251227T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251227T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ee2b75bf88341b8bc7391b7066291412
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
@@ -512,13 +547,6 @@ SUMMARY:ПЗ Физическая культура
 UID:bb2ba24dee3763dbdfe1fbd6d6c2ce16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251122T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:09b16a249927f00f10f2e20f67f9753c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251027T091500Z
 LOCATION:Орш. В-601
 DTSTART:20251027T074500Z
@@ -557,12 +585,12 @@ SUMMARY:ПЗ Математический анализ
 UID:231b27e43661c2a14ae12478a7124a85
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20260113T131500Z
-LOCATION:5-235
-DTSTART:20260113T114500Z
-SUMMARY:Экзамен Основы менеджмента
-UID:3d119f5539d4de0d983b31cb726db1fb
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251101T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251101T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:07f924e703fa84ef25b018987e6fc7ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
@@ -571,6 +599,14 @@ LOCATION:5-001
 DTSTART:20250924T100000Z
 SUMMARY:ПЗ Общественный проект "Обучение служением"
 UID:72be117726fb63c00affba3dafff7155
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20260113T131500Z
+LOCATION:5-235
+DTSTART:20260113T114500Z
+SUMMARY:Экзамен Основы менеджмента
+UID:3d119f5539d4de0d983b31cb726db1fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
@@ -645,6 +681,13 @@ SUMMARY:ЛК Основы российской государственност�
 UID:818088debd29c1d0fe86e75ee4a2d376
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251224T131500Z
+LOCATION:--каф. 919
+DTSTART:20251224T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:604bbda3151e94de77dc31be822c6ee3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
 DTEND:20251219T131500Z
 LOCATION:5-111
@@ -699,12 +742,12 @@ SUMMARY:ПЗ Математический анализ
 UID:89d77743c748af0cbe4fe2b6c1de08d4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
-DTEND:20251124T131500Z
-LOCATION:Орш. А-101
-DTSTART:20251124T114500Z
-SUMMARY:ЛК Математический анализ
-UID:457456ff282c95e57a6c0d48282a64ef
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251004T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251004T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:46654445fad378861d00dc7dfd86605d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -715,11 +758,12 @@ SUMMARY:ПЗ История России
 UID:f7427b166a53cf21960314d650ddd698
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251108T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:662cc31b0c44507a0b6aeda18ebfaebd
+DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
+DTEND:20251124T131500Z
+LOCATION:Орш. А-101
+DTSTART:20251124T114500Z
+SUMMARY:ЛК Математический анализ
+UID:457456ff282c95e57a6c0d48282a64ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -896,13 +940,6 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:3c403aa4e7f7e37bdf16fd2149f2d9f2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251206T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f7b9fc391d2c0c08588753a83f0ae01a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20250908T150000Z
 LOCATION:Орш. В-309
@@ -949,13 +986,6 @@ LOCATION:Орш. В-301
 DTSTART:20251011T100000Z
 SUMMARY:ЛК История России
 UID:f87cf6cb7afc46d927bf6c4169e27d6a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251018T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9a75da1559100cc68b4ec0495bcf9d88
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
@@ -1042,13 +1072,6 @@ LOCATION:--каф. 919
 DTSTART:20251205T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:e6539ae09859bdb2a8da26eadb18b62e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251004T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:920009bffcb19411196ac497e293b011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
@@ -1153,18 +1176,20 @@ SUMMARY:ПЗ Введение в профессию
 UID:30da57ef5d8ef086a6cc77c241c38b87
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
+DTEND:20251117T150000Z
+LOCATION:Орш. В-309
+DTSTART:20251117T133000Z
+SUMMARY:ПЗ Общая физика
+UID:39a91bc42ac9949a438809353ada2a94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
 DTEND:20251011T073000Z
 LOCATION:Орш. В-610
 DTSTART:20251011T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:7ff52308b7892d08307327912b2141b0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251101T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1c32e747a03067a0b7e9959175041752
+UID:7e4b6c6e9e137bf52a32463e79bbf563
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
@@ -1181,14 +1206,6 @@ LOCATION:5-422
 DTSTART:20251017T100000Z
 SUMMARY:ПЗ Введение в профессию
 UID:0ac8bbc214b992d3eaed8a3a22f380a7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251117T150000Z
-LOCATION:Орш. В-309
-DTSTART:20251117T133000Z
-SUMMARY:ПЗ Общая физика
-UID:39a91bc42ac9949a438809353ada2a94
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T131500Z
@@ -1220,13 +1237,6 @@ LOCATION:Орш. А-101
 DTSTART:20251208T100000Z
 SUMMARY:ЛК Общая физика
 UID:4dbf8abf8f09aed3e7d7cdc3809f45a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:Орш. В-610
-DTSTART:20250920T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:255dd4ac5c140c8d13b87bf995630755
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -1266,13 +1276,6 @@ LOCATION:Орш. А-101
 DTSTART:20250929T100000Z
 SUMMARY:ЛК Общая физика
 UID:be40a2322fa45d43d2d57357372b066f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T073000Z
-LOCATION:Орш. В-610
-DTSTART:20250913T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e395debc56f4ac1045ea99cdc5b6b0c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -1421,11 +1424,12 @@ SUMMARY:ЛК Общественный проект "Обучение служе�
 UID:94940d6cfaae07542b5e08a6d6f97a4f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T150000Z
-LOCATION:ГУК В-228
-DTSTART:20251219T133000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:e41599dc293512ef3da9dad0f6e9d74e
+DESCRIPTION:Зенкова Татьяна Анатольевна
+DTEND:20251227T091500Z
+LOCATION:Орш. В-223
+DTSTART:20251227T074500Z
+SUMMARY:ПЗ Математический анализ
+UID:3d619e4c73302e377207d1c30e7063c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -1434,14 +1438,6 @@ LOCATION:Орш. В-507
 DTSTART:20251016T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:5b6e2929e00bcefdcf6c65d47b155242
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зенкова Татьяна Анатольевна
-DTEND:20251227T091500Z
-LOCATION:Орш. В-223
-DTSTART:20251227T074500Z
-SUMMARY:ПЗ Математический анализ
-UID:3d619e4c73302e377207d1c30e7063c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
@@ -1540,11 +1536,11 @@ SUMMARY:ЛР Информационные технологии
 UID:6e932e3a4b2adc84e184736ed3c060a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251025T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251025T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:416ca92ea3d958cde455d334c5f2bf4b
+DTEND:20251203T131500Z
+LOCATION:--каф. 919
+DTSTART:20251203T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:4ffd037e7e446830331768b92048b18c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
@@ -1561,13 +1557,6 @@ LOCATION:5-319
 DTSTART:20251112T060000Z
 SUMMARY:ЛК Основы менеджмента
 UID:3825cd2de235d27a649b550050797921
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T131500Z
-LOCATION:--каф. 919
-DTSTART:20251203T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:4ffd037e7e446830331768b92048b18c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
@@ -1591,6 +1580,14 @@ LOCATION:5-111
 DTSTART:20251010T114500Z
 SUMMARY:ЛК Информационные технологии
 UID:1b86d060ea3d7c3e3ae00f40221c8e37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251129T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251129T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:6f65d4a48455108488399733a408859e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T131500Z
@@ -1637,13 +1634,6 @@ LOCATION:Орш. В-306
 DTSTART:20260123T114500Z
 SUMMARY:Экзамен Общая физика
 UID:bd6c2d6e3314557bdde10e143838725c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251115T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:aa6533c23cdb3f7ac08db1343ab95640
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
@@ -1763,11 +1753,11 @@ SUMMARY:ПЗ Введение в авиационную и ракетно-кос
 UID:6a02ffa8634e62995e8bac7182f489af
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251129T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251129T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6844fe06daff16f257262ebe28373a0e
+DTEND:20251219T150000Z
+LOCATION:ГУК В-228
+DTSTART:20251219T133000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:e41599dc293512ef3da9dad0f6e9d74e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
@@ -1786,12 +1776,36 @@ SUMMARY:ПЗ Математический анализ
 UID:4646bbfbf598d71cde1e7fed46d4563c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251115T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251115T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:16d355b502871e3b200f586f024b079a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251122T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251122T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:028373070dce58dadda988808bec45e2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
 DTEND:20251206T113000Z
 LOCATION:Орш. В-301
 DTSTART:20251206T100000Z
 SUMMARY:ЛК История России
 UID:0f48348e978a1f14b70b8829893fc0b5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20250927T073000Z
+LOCATION:Орш. В-610
+DTSTART:20250927T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c50fc7220bcd94866f627cada57d21a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Анна Михайловна
@@ -1860,6 +1874,14 @@ LOCATION:Орш. В-223
 DTSTART:20251108T074500Z
 SUMMARY:ПЗ Математический анализ
 UID:f20438f79431d208b7c70e55f86c81af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251206T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251206T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:0a0b92b12f13129ecc4badceb06ebdc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -1980,20 +2002,6 @@ SUMMARY:ПЗ Математический анализ
 UID:5efbf7da21865c8f8453aa3f5ac90db5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T073000Z
-LOCATION:Орш. В-610
-DTSTART:20250927T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:a07b06ac41ed030a64965ab3a3243b7f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T073000Z
-LOCATION:Орш. В-610
-DTSTART:20250906T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9927488758009012f110ff04997fe654
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
 DTEND:20251127T113000Z
 LOCATION:Орш. В-502
@@ -2008,6 +2016,14 @@ LOCATION:Орш. В-301
 DTSTART:20251025T100000Z
 SUMMARY:ЛК История России
 UID:f5f0c510e2412f20fc6bb248f427badc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251220T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251220T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:82aa6127f95a0c71a2a58458060acf72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -2150,6 +2166,14 @@ LOCATION:Орш. В-301
 DTSTART:20251227T100000Z
 SUMMARY:ЛК История России
 UID:004780d03ee9b6beef555a5ab61465fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Инюшева Мария Сергеевна
+DTEND:20251213T073000Z
+LOCATION:Орш. В-610
+DTSTART:20251213T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5ad984160389c91dde4b70ca2398c9e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДАНИЛИНА ИРИНА АЛЕКСАНДРОВНА
@@ -2299,13 +2323,6 @@ LOCATION:--каф. 919
 DTSTART:20250903T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:d3b825cb749157bedf22bc467ee02dd1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T073000Z
-LOCATION:Орш. В-610
-DTSTART:20251227T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:86b7ee19a51d336174aea825643e69e1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T091500Z
