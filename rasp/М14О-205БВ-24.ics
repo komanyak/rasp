@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251224T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251224T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:ed7b5693ef648f2124c776eadd1e5949
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
 DTEND:20250913T091500Z
 LOCATION:ГУК Б-350
@@ -17,12 +10,12 @@ SUMMARY:ПЗ Сопротивление материалов
 UID:8a7848cb979ad2ba6ba747560150796f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251021T131500Z
-LOCATION:Орш. А-306
-DTSTART:20251021T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:cc29dff1e39b1f3442cd7d10054636dd
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251001T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251001T100000Z
+SUMMARY:ЛК Основы психологии
+UID:5642c0b5f4e1d69ead4b8cee1f2b05b9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T091500Z
@@ -47,6 +40,13 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:24ecf945009e905d96e818ce5e356941
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251128T073000Z
+LOCATION:--стадион
+DTSTART:20251128T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6f7c34c6786f16cc34e0d44018c1c99e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20251219T091500Z
 LOCATION:Орш. А-305
@@ -69,18 +69,20 @@ SUMMARY:ПЗ Иностранный язык
 UID:281c6b597861cf992c61bf18b4bdd630
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T113000Z
-LOCATION:Орш. А-301
-DTSTART:20251210T100000Z
-SUMMARY:ЛК Основы психологии
-UID:673d12598b63f446539a66ca5fc957a0
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251022T091500Z
+LOCATION:Орш. А-318
+DTSTART:20251022T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:adfa87980bc70389422f010fcc7d91e8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T113000Z
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20250903T113000Z
 LOCATION:Орш. А-301
-DTSTART:20251029T100000Z
+DTSTART:20250903T100000Z
 SUMMARY:ЛК Основы психологии
-UID:0c6aed2aecab2ee9546e8d5708c58555
+UID:23db145a523e5be338f762ff317b605d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Виталий Николаевич
@@ -106,11 +108,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:1a0e68233d9984b696af4c99af79636a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251212T073000Z
+LOCATION:--стадион
+DTSTART:20251212T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:700522cc40354b3a77770b517abb5ee6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250919T091500Z
 LOCATION:Орш. А-318
 DTSTART:20250919T074500Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:97e62392a252590e1229b8c949f030f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251014T131500Z
+LOCATION:Орш. А-306
+DTSTART:20251014T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:de969536f6184b939296c0dfa830b77e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -178,6 +195,14 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:eedc08cf85d614a0834062d91da35de1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20250930T131500Z
+LOCATION:Орш. А-306
+DTSTART:20250930T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:a53f83742285c45920e5ab2fc9e6ecbc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Задорина Елена Николаевна
 DTEND:20251014T091500Z
 LOCATION:Орш. А-301
@@ -223,13 +248,6 @@ SUMMARY:ПЗ Теоретическая механика
 UID:34c150c6d83597596c435e8f6c24056a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T131500Z
-LOCATION:--стадион
-DTSTART:20251111T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:cd8e3d9c0a826c62157e75819c74543f
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251009T113000Z
 LOCATION:--каф.
 DTSTART:20251009T100000Z
@@ -249,6 +267,14 @@ LOCATION:--каф.
 DTSTART:20251023T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:3715f289f37196408433a7f2ce26123a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251126T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251126T100000Z
+SUMMARY:ЛК Основы психологии
+UID:fd3ca243623b4f467d2482f7587c828e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
@@ -271,6 +297,13 @@ LOCATION:Орш. А-304
 DTSTART:20250917T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:d3b18a7838c4c6c64af2e4259d937e5a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T073000Z
+LOCATION:--стадион
+DTSTART:20251226T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:47909654ff8f67e5a7cee416cf80e8ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рассказова Варвара Андреевна
@@ -303,13 +336,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:da782207a7b9c69fc4ae317f75b10806
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T150000Z
-LOCATION:Орш. А-318
-DTSTART:20250917T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:48a5931a8e04ae4aa132b64e6ce241e0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251010T113000Z
 LOCATION:Орш. А-301
@@ -332,21 +358,6 @@ LOCATION:Орш. А-301
 DTSTART:20251223T074500Z
 SUMMARY:ЛК Материаловедение
 UID:6dbf0ab554cb650ded458f20764d44ec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:--стадион
-DTSTART:20251028T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:97f93d479f25b20ac43271393d10d617
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20250909T131500Z
-LOCATION:Орш. А-306
-DTSTART:20250909T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:7bbb995e6b5412c213b07b633367a568
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T113000Z
@@ -384,13 +395,6 @@ LOCATION:Орш. А-301
 DTSTART:20250926T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:e345c82b9301b0b0f9654ff4f6f56608
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251126T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:4534b503e85ac45782fa95f8e292e232
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T113000Z
@@ -522,14 +526,6 @@ SUMMARY:ПЗ Физическая культура
 UID:aac10dd0cca03a1608fc01cdf9339cf3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251202T131500Z
-LOCATION:Орш. А-306
-DTSTART:20251202T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:59e2787dd0ee0a0d20a03cdcfd1a821d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егоров Виталий Николаевич
 DTEND:20251105T113000Z
 LOCATION:Орш. А-301
@@ -567,6 +563,14 @@ SUMMARY:ЛК Общая электротехника и электроника
 UID:dd505ed4b2ac7a15df1a6d6088be17c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251029T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251029T100000Z
+SUMMARY:ЛК Основы психологии
+UID:4e7fd2306915c5ab3e550bacd8ee8970
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T073000Z
 LOCATION:--каф.
 DTSTART:20251030T060000Z
@@ -580,6 +584,14 @@ LOCATION:Орш. А-301
 DTSTART:20251212T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:84408962f5fa1d69ab79070e967c025d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251105T091500Z
+LOCATION:Орш. А-318
+DTSTART:20251105T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:19140d7b36026e2f54da049f854b3828
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Виталий Николаевич
@@ -637,14 +649,6 @@ SUMMARY:ЛК Общая электротехника и электроника
 UID:492f4b3f6af96eeddc65709292150278
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251118T131500Z
-LOCATION:Орш. А-306
-DTSTART:20251118T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:a02e9aae7bc5004a0b1d9d3109c2926f
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251107T150000Z
 LOCATION:Орш. А-301
 DTSTART:20251107T133000Z
@@ -665,6 +669,14 @@ LOCATION:--каф.
 DTSTART:20251218T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:9167de1c94f4d49df89569980f271f24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20250910T164500Z
+LOCATION:Орш. А-318
+DTSTART:20250910T151500Z
+SUMMARY:ПЗ Основы психологии
+UID:7464342ac63b5b6c6ed189538341ce0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Виталий Николаевич
@@ -742,12 +754,20 @@ SUMMARY:ЛК Общая электротехника и электроника
 UID:d4ab6406d001665f40b30fdb7a82bc98
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251007T131500Z
-LOCATION:Орш. А-306
-DTSTART:20251007T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:8b37d013bc3ca75db0c2c41ea73c58cf
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251203T091500Z
+LOCATION:Орш. А-318
+DTSTART:20251203T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:a96cdac91472e58ae8b90019658d5148
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251008T164500Z
+LOCATION:Орш. А-318
+DTSTART:20251008T151500Z
+SUMMARY:ПЗ Основы психологии
+UID:700d63d3c7054b2b028f25bccbcdff92
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Задорина Елена Николаевна
@@ -803,13 +823,6 @@ SUMMARY:ЛК Теоретическая механика
 UID:7fc45d4fc59c846e4a875891d02a10d6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
-LOCATION:Орш. А-301
-DTSTART:20251001T100000Z
-SUMMARY:ЛК Основы психологии
-UID:bd87eac101e2c67c15aa8b0e0139fe89
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251114T113000Z
 LOCATION:Орш. А-301
@@ -824,6 +837,14 @@ LOCATION:Орш. А-301
 DTSTART:20251125T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:288787b040ea89cdf3cf3c87cdb15c53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251111T131500Z
+LOCATION:Орш. А-306
+DTSTART:20251111T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:66ee22fbc49341267d0869bf995f8215
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
@@ -849,11 +870,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:377ed74e368e190a034dc04b430e6800
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251001T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:95ed64f915b4cb9d45267448221f8955
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251125T131500Z
+LOCATION:Орш. А-306
+DTSTART:20251125T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:3c65c64823375bdaf72d786fa5d17453
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T131500Z
@@ -879,13 +901,6 @@ SUMMARY:ПЗ Материаловедение
 UID:a1f92ef41c9ef2e62b1f3ce790ee739c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251112T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:3f1bc1af9498be29d0d5d31093217d14
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БЕЛЯЕВА ЮЛИЯ АЛЕКСАНДРОВНА
 DTEND:20250922T150000Z
 LOCATION:Орш. А-301
@@ -907,6 +922,14 @@ LOCATION:ГУК Б-350
 DTSTART:20251025T074500Z
 SUMMARY:ПЗ Сопротивление материалов
 UID:8e6cd5b2997714a5cb0e319aba152b1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251119T091500Z
+LOCATION:Орш. А-318
+DTSTART:20251119T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:e3b6c7530ef6956591fbb01b0e6829cd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T091500Z
@@ -985,6 +1008,14 @@ SUMMARY:ПЗ Физическая культура
 UID:0bfeecf08b598790456ae14362e2459f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251201T164500Z
+LOCATION:Орш. А-317
+DTSTART:20251201T151500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:cd2afb1e56072ce439e10d39cbdc12fe
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T131500Z
 LOCATION:Орш. А-304
 DTSTART:20250905T114500Z
@@ -1008,6 +1039,14 @@ SUMMARY:ПЗ Материаловедение
 UID:05c4dfb03f1838949189544e1a19a8c8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251209T131500Z
+LOCATION:Орш. А-306
+DTSTART:20251209T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:c65f28e736862b19203397dd96368d22
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T113000Z
 LOCATION:--каф.
 DTSTART:20251120T100000Z
@@ -1020,13 +1059,6 @@ LOCATION:--каф.
 DTSTART:20250911T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:26c42c908b0cf4e1dd551f99d9fa63e7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T131500Z
-LOCATION:--стадион
-DTSTART:20250902T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:d7e59c2de9f3ae195c245d8c1c2027d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -1090,18 +1122,19 @@ SUMMARY:ПЗ Креативные методы исследования и из�
 UID:f009297745f2c798546d6c9cc5746a25
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251217T091500Z
+LOCATION:Орш. А-318
+DTSTART:20251217T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:1657f30feac2459fef7fe2f1209824c6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251202T073000Z
 LOCATION:--стадион
 DTSTART:20251202T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:25ed1353828bb2301a2be62379a14778
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251015T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:857a1b928b87a42c7bf1dd2ee10e37ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
@@ -1133,6 +1166,14 @@ LOCATION:Орш. А-301
 DTSTART:20250905T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:b17ca6c0b9e5126c0c4a36080923f187
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251015T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251015T100000Z
+SUMMARY:ЛК Основы психологии
+UID:f13fd76916c098a7fb8cde0a98ae824e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T091500Z
@@ -1202,14 +1243,6 @@ SUMMARY:ЛР Теоретическая механика
 UID:e8171fa5f6640b4435f8c014cb504d87
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251203T091500Z
-LOCATION:Орш. А-317
-DTSTART:20251203T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:3a22c3e9f38f0f90c2aa2a3dab8b10ac
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251017T131500Z
 LOCATION:Орш. А-304
 DTSTART:20251017T114500Z
@@ -1224,6 +1257,13 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:3758bca49d08254b6a5b42f56cf19031
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251003T073000Z
+LOCATION:--стадион
+DTSTART:20251003T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1c542e85200da88ede13d31ba4fcc318
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T091500Z
 LOCATION:Орш. А-318
 DTSTART:20250905T074500Z
@@ -1231,11 +1271,33 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:4b328fa5843c4247b55525209b985ca0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251028T131500Z
+LOCATION:Орш. А-306
+DTSTART:20251028T114500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:773187e65d5d5073c8bbcb1e1b20f12b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T073000Z
+LOCATION:--стадион
+DTSTART:20251114T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:221ceacefaff567258ef74352cbb8992
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T131500Z
 LOCATION:--каф.
 DTSTART:20251211T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:31b0c34b12e0aead1686d9b0a6f67784
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T073000Z
+LOCATION:--стадион
+DTSTART:20250905T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:d04cbfd5d3faa2eca57b491422c0e679
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Задорина Елена Николаевна
@@ -1246,11 +1308,11 @@ SUMMARY:ПЗ Материаловедение
 UID:a66573cc1b2b64f9475c914837a5d425
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T131500Z
+DTEND:20251031T073000Z
 LOCATION:--стадион
-DTSTART:20251014T114500Z
+DTSTART:20251031T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:7692c0d2ea89fbe2f251a6d99a58b4d5
+UID:9c35b5baf9865f1ffcf8d85bbd82e3d0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T131500Z
@@ -1319,19 +1381,19 @@ SUMMARY:ПЗ Физическая культура
 UID:68e56ccb87a673468c0fae66294e63de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251105T091500Z
-LOCATION:Орш. А-317
-DTSTART:20251105T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:0d21812f05cc4a048697cbb1c366c605
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251113T113000Z
 LOCATION:--каф.
 DTSTART:20251113T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:571030431b873c2f8a2d3a72438831ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20250924T164500Z
+LOCATION:Орш. А-318
+DTSTART:20250924T151500Z
+SUMMARY:ПЗ Основы психологии
+UID:b53eef0b0f9d2f783426de35b070ea94
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T073000Z
@@ -1354,13 +1416,6 @@ LOCATION:Орш. А-317
 DTSTART:20250910T133000Z
 SUMMARY:ПЗ Теоретическая механика
 UID:38f71cdbd1e6c66196ae6e2743799b22
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T131500Z
-LOCATION:--стадион
-DTSTART:20250916T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:91fb6f260de322af01b2fe2cb74faab5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -1400,11 +1455,12 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:eb56eb72a0a92a8eb895313bf1e61b8c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251223T131500Z
-LOCATION:--стадион
-DTSTART:20251223T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:c3c65c47c10be42ae7028e20ed0c0ec7
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251210T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251210T100000Z
+SUMMARY:ЛК Основы психологии
+UID:1d4290792cbb002602629567f15163cd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T113000Z
@@ -1541,13 +1597,6 @@ SUMMARY:ЛК Материаловедение
 UID:dcade9818ca3c2458fc55e30380ab7e0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T131500Z
-LOCATION:--стадион
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:a2fc7659e943f80d93c8c162e8c036da
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егоров Виталий Николаевич
 DTEND:20250924T113000Z
 LOCATION:Орш. А-301
@@ -1577,21 +1626,6 @@ SUMMARY:ПЗ Физическая культура
 UID:c4675c4b2fd52d28537fa3eb5a988afe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251210T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:02aca2e5cabdd90774ae6932bcaa204b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20250923T131500Z
-LOCATION:Орш. А-306
-DTSTART:20250923T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:2d8d8dcd4556c782fc323f2d89f5df85
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250923T113000Z
 LOCATION:Орш. А-301
 DTSTART:20250923T100000Z
@@ -1604,6 +1638,14 @@ LOCATION:--стадион
 DTSTART:20251208T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:84a8f89345a5719e5d49184f3dfd6c0b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251215T164500Z
+LOCATION:Орш. А-317
+DTSTART:20251215T151500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:39d2ac88d95623a7f4ef599ab371360b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250901T091500Z
@@ -1642,18 +1684,19 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:807b9ae5ac60833a14bb2d934a084d57
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:Орш. А-301
-DTSTART:20251015T100000Z
-SUMMARY:ЛК Основы психологии
-UID:4c197b4aef618495cbc1491221b7265d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251219T150000Z
 LOCATION:Орш. А-301
 DTSTART:20251219T133000Z
 SUMMARY:ПЗ Креативные методы исследования и изобретательства
 UID:2c66f12f53c962e1c033bd3d6a760626
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20251112T113000Z
+LOCATION:Орш. А-301
+DTSTART:20251112T100000Z
+SUMMARY:ЛК Основы психологии
+UID:6b00a923b08771355b9dac66012fcb3d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T131500Z
@@ -1698,13 +1741,6 @@ LOCATION:Орш. А-301
 DTSTART:20251021T100000Z
 SUMMARY:ЛК Креативные методы исследования и изобретательства
 UID:46d55e0eb6190c843c2881b6834f7d63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T113000Z
-LOCATION:Орш. А-301
-DTSTART:20250903T100000Z
-SUMMARY:ЛК Основы психологии
-UID:a1a98594aab16729de419cb3817aedf3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
@@ -1755,13 +1791,6 @@ LOCATION:--каф.
 DTSTART:20250904T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:2de2e1d6f9482236892319b451901713
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T150000Z
-LOCATION:Орш. А-318
-DTSTART:20251029T133000Z
-SUMMARY:ПЗ Основы психологии
-UID:474bd68f8e10c77cd623fd5a4cf651ee
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T073000Z
@@ -1860,6 +1889,13 @@ SUMMARY:ЛК Материаловедение
 UID:2c924a41b80d891bc5c0e1903c732b33
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250919T073000Z
+LOCATION:--стадион
+DTSTART:20250919T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:69f3592c6f01066a8fc5c4fdc54e4dd9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20250926T091500Z
 LOCATION:Орш. А-305
@@ -1893,11 +1929,11 @@ UID:7d5d11fe86a4b2e1fca06213fb37145e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251216T131500Z
+DTEND:20250916T131500Z
 LOCATION:Орш. А-306
-DTSTART:20251216T114500Z
+DTSTART:20250916T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
-UID:b535e614f357bc3e0f67815f9a45a254
+UID:7384a93e4065b2b1a76d40e861ae93e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -1943,6 +1979,29 @@ SUMMARY:ПЗ Креативные методы исследования и из�
 UID:483afcacbca41bc79cfeab8b8b2d6bb7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251017T073000Z
+LOCATION:--стадион
+DTSTART:20251017T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f128c4567e88b066fe7cd5b66fb9458a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20250917T113000Z
+LOCATION:Орш. А-301
+DTSTART:20250917T100000Z
+SUMMARY:ЛК Основы психологии
+UID:624af88eb4ef0887f2e78fe794839bcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыкалин Андрей Владимирович
+DTEND:20251020T164500Z
+LOCATION:Орш. А-317
+DTSTART:20251020T151500Z
+SUMMARY:ПЗ Дифференциальные уравнения
+UID:f6d23bbc62f72296ea1c6708016afc56
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БЕЛЯЕВА ЮЛИЯ АЛЕКСАНДРОВНА
 DTEND:20251215T150000Z
 LOCATION:Орш. А-301
@@ -1985,13 +2044,6 @@ LOCATION:--каф.
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:24d41c852d6b664c7665e38e0278008c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T113000Z
-LOCATION:Орш. А-301
-DTSTART:20251126T100000Z
-SUMMARY:ЛК Основы психологии
-UID:5fdd31d7b57713388d225a05aa4006a2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251216T073000Z
@@ -2060,33 +2112,11 @@ SUMMARY:ЛК Креативные методы исследования и из�
 UID:8757d3951b54ff8f29dd8378dbfb1080
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T113000Z
-LOCATION:Орш. А-301
-DTSTART:20251112T100000Z
-SUMMARY:ЛК Основы психологии
-UID:f6890c5f0005c0a0fe9a68a0dcbf9e78
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T131500Z
-LOCATION:--стадион
-DTSTART:20250930T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:efef22a5ae90eb4ead1cd4c5bfb31b25
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250919T131500Z
 LOCATION:Орш. А-304
 DTSTART:20250919T114500Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:205acbd95779202741792b5a0e11bab3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251217T091500Z
-LOCATION:Орш. А-317
-DTSTART:20251217T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:54e3ea772b6605700a65262e1b7748ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕЛЯЕВА ЮЛИЯ АЛЕКСАНДРОВНА
@@ -2188,11 +2218,11 @@ UID:0c0d45c28330dc030836d270ae07a2e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыкалин Андрей Владимирович
-DTEND:20251119T091500Z
+DTEND:20251117T164500Z
 LOCATION:Орш. А-317
-DTSTART:20251119T074500Z
+DTSTART:20251117T151500Z
 SUMMARY:ПЗ Дифференциальные уравнения
-UID:3cdb0a2408dadab7e43c7fd9b9761846
+UID:be41dfc67488ee6419c450201991f195
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T091500Z
@@ -2210,25 +2240,11 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:af3a5d1d505e7c717beddbdabfeaa2e9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251125T131500Z
-LOCATION:--стадион
-DTSTART:20251125T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:031e0ab0984a5185fc20d571ea728b6e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250911T113000Z
 LOCATION:--каф.
 DTSTART:20250911T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:1d18d16257720db4c927b7065fcb8ec4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T113000Z
-LOCATION:Орш. А-301
-DTSTART:20250917T100000Z
-SUMMARY:ЛК Основы психологии
-UID:1b756a5aec878148fc98758a05437075
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ершова Алена Юрьевна
