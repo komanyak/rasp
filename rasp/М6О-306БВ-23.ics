@@ -154,14 +154,6 @@ SUMMARY:ПЗ Занятие в группах индивидуальных тр�
 UID:b2baecae2bb1b3176d7fa2047721d900
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пичужкин Павел Викторович
-DTEND:20251103T131500Z
-LOCATION:24-400
-DTSTART:20251103T114500Z
-SUMMARY:ЛК Прикладная экология
-UID:d765d70b08cc598961a8c93245cb94ff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Майкова Наталья Всеволодовна
 DTEND:20251121T113000Z
 LOCATION:24-600
@@ -464,12 +456,11 @@ SUMMARY:ПЗ Сопротивление материалов
 UID:fe51ce32db077ab07aabb07640b3cd41
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данилин Александр Николаевич
-DTEND:20251128T131500Z
-LOCATION:24-502
-DTSTART:20251128T114500Z
-SUMMARY:ПЗ Спецглавы математики
-UID:f7a6ba734884b928187fc0a6ce1e0fb8
+DTEND:20251022T131500Z
+LOCATION:--каф.
+DTSTART:20251022T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4c092e2f67b922d6da40a03687803dee
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T131500Z
@@ -479,11 +470,20 @@ SUMMARY:ЛК Конструирование агрегатов и элемент
 UID:253c30396ec97ef1c205f2c9926359b2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251022T131500Z
-LOCATION:--каф.
-DTSTART:20251022T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4c092e2f67b922d6da40a03687803dee
+DESCRIPTION:Данилин Александр Николаевич
+DTEND:20251128T131500Z
+LOCATION:24-502
+DTSTART:20251128T114500Z
+SUMMARY:ПЗ Спецглавы математики
+UID:f7a6ba734884b928187fc0a6ce1e0fb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванников Сергей Яковлевич
+DTEND:20251101T113000Z
+LOCATION:24-400
+DTSTART:20251101T100000Z
+SUMMARY:ЛК Сопротивление материалов
+UID:fa54f8190f92db57b7dd65df84f36c88
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
@@ -1838,13 +1838,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:0f8ade65dffba5141d446ee542a50a7f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T073000Z
-LOCATION:--каф. 919
-DTSTART:20251103T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:bcee7f2cf7bdbbb60f3c7e26f5cb40b1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251022T073000Z
 LOCATION:--каф.
 DTSTART:20251022T060000Z
@@ -1865,14 +1858,6 @@ LOCATION:1-23  ангар
 DTSTART:20251227T114500Z
 SUMMARY:ЛК Конструирование агрегатов и элементов планера
 UID:12a46e9afc71ee5c3b9027b95f97fa8e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яновская Галина Самойловна
-DTEND:20251101T073000Z
-LOCATION:Орш. Б-610
-DTSTART:20251101T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c5b6a84b782fae7bca5c2c903c34a924
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Майкова Наталья Всеволодовна
@@ -2302,14 +2287,6 @@ UID:4b335ff8776152f4757952bcbfc56521
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иванников Сергей Яковлевич
-DTEND:20251103T113000Z
-LOCATION:24-400
-DTSTART:20251103T100000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:2bc6755a394a1187e67314497f672fc1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Иванников Сергей Яковлевич
 DTEND:20251110T113000Z
 LOCATION:24-400
 DTSTART:20251110T100000Z
@@ -2438,6 +2415,13 @@ LOCATION:24-502
 DTSTART:20251031T133000Z
 SUMMARY:ЛК Спецглавы математики
 UID:9fe500f8db603fd15f6d03516b83576a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T073000Z
+LOCATION:--каф. 919
+DTSTART:20251101T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:280e7235fb0211a1b4b5315dbd5b9dd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович

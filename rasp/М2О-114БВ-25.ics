@@ -95,6 +95,13 @@ SUMMARY:ЛК Основы российской государственност�
 UID:2b601afa56789c21041860c4a5626d35
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251101T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251101T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:38d9069cd7b861cb913cca9e7f9dc794
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Антюхов Илья Владимирович
 DTEND:20251113T113000Z
 LOCATION:2-004(2В)
@@ -161,13 +168,6 @@ LOCATION:Орш. В-501
 DTSTART:20251205T074500Z
 SUMMARY:ЛК История России
 UID:513cfc5363f09c1178e8d04b9af0da28
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:Орш. В-314
-DTSTART:20251101T074500Z
-SUMMARY:ЛР Общая физика
-UID:ea235cd0592d363eac5405b9f51177bd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T073000Z
@@ -504,19 +504,18 @@ SUMMARY:ПЗ Математический анализ
 UID:d55ac3f13f152374a5466935f5d5a241
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251101T113000Z
+LOCATION:Орш. В-309
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Общая физика
+UID:a8f0a0e3fabb6a154ad535d5b1b3852c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T113000Z
 LOCATION:Орш. Б-303
 DTSTART:20251205T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:c1eccca8d186a45d2916550586fa0e15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Митрохов Николай Вячеславович
-DTEND:20251206T150000Z
-LOCATION:2-151(2Г)
-DTSTART:20251206T133000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:9a50d7710e0bb911f3abd0eb8dc05935
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T113000Z
@@ -531,6 +530,14 @@ LOCATION:Орш. В-101
 DTSTART:20251201T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:2217507f22fb2c045c256c250ed7f5f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Митрохов Николай Вячеславович
+DTEND:20251206T150000Z
+LOCATION:2-151(2Г)
+DTSTART:20251206T133000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:9a50d7710e0bb911f3abd0eb8dc05935
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T113000Z
@@ -1258,13 +1265,6 @@ SUMMARY:ПЗ Математический анализ
 UID:171eec8f2cf4df87f8a14044c19d80e1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251103T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:46ab94a130ec5947024bed934b0ec0b9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250905T073000Z
 LOCATION:Орш. В-307
 DTSTART:20250905T060000Z
@@ -1657,13 +1657,6 @@ SUMMARY:ЛК Алгоритмические языки и программиро
 UID:f4cb21fd801332632cd12169cf55f4ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T091500Z
-LOCATION:Орш. В-101
-DTSTART:20251103T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:452ff1a119c887def40df9d4b736e7a4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Митрохов Николай Вячеславович
 DTEND:20251201T150000Z
 LOCATION:2-214(2В)
@@ -1852,13 +1845,6 @@ SUMMARY:ПЗ Физическая культура
 UID:f2098f53138dea90285eae67bd768705
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T113000Z
-LOCATION:Орш. В-309
-DTSTART:20251103T100000Z
-SUMMARY:ПЗ Общая физика
-UID:ab77ac1b8a1d8cbb2546e2c1f6eaa681
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251126T073000Z
 LOCATION:--каф. 919
 DTSTART:20251126T060000Z
@@ -1871,6 +1857,13 @@ LOCATION:Орш. В-301
 DTSTART:20251223T060000Z
 SUMMARY:ЛК Общая физика
 UID:7cfb4adbce3dce71317521844d2f48e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T113000Z
+LOCATION:Орш. В-201
+DTSTART:20251224T100000Z
+SUMMARY:ПЗ История России
+UID:7a983908e0f2ba4adae7daaae80253a6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251201T073000Z
@@ -1894,11 +1887,11 @@ SUMMARY:ЛК История России
 UID:f2d7b593330c652e94395b317cabe295
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T113000Z
-LOCATION:Орш. В-201
-DTSTART:20251224T100000Z
-SUMMARY:ПЗ История России
-UID:7a983908e0f2ba4adae7daaae80253a6
+DTEND:20251101T091500Z
+LOCATION:Орш. В-101
+DTSTART:20251101T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:60f79528aa2fb22663f1ce79ad48b0b3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T113000Z
@@ -1927,13 +1920,6 @@ LOCATION:--каф. 919
 DTSTART:20251211T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:1b8c5e7f13909b598bdeaff185437a7d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:Орш. В-314
-DTSTART:20251101T060000Z
-SUMMARY:ЛР Общая физика
-UID:7cf2593c0fb49b7ba71dd1cea35218fe
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T131500Z

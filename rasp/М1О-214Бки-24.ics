@@ -93,14 +93,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:9228536c3331f2db0d37f7ac07bec11f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Филиппова Александра Сергеевна
-DTEND:20251103T091500Z
-LOCATION:ГУК Б-738
-DTSTART:20251103T074500Z
-SUMMARY:ПЗ Теоретическая механика
-UID:d2d0918beb07d65bb80f3557cf2d76d7
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251128T131500Z
 LOCATION:--каф. 919
 DTSTART:20251128T114500Z
@@ -233,6 +225,14 @@ LOCATION:ГУК В-605
 DTSTART:20251208T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:f3a9a479122664beef69a4fb0f56c925
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Филиппова Александра Сергеевна
+DTEND:20251101T091500Z
+LOCATION:ГУК Б-738
+DTSTART:20251101T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:f503f6d868eb32b3a4612540b58dbd9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хвошнянская Елизавета Аркадьевна
@@ -470,13 +470,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:21ba756ec8da3c322d51d24f4d17100d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T113000Z
-LOCATION:ГУК В-605
-DTSTART:20251103T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9cad94c572c3fd9d8a64a3aa73a4f0c5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Хвошнянская Елизавета Аркадьевна
 DTEND:20251015T073000Z
 LOCATION:ГУК Б-738
@@ -666,6 +659,14 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:6b0bc7ee4f5b6088f045896ed31b931f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Филиппова Александра Сергеевна
+DTEND:20260120T073000Z
+LOCATION:ГУК Б-635
+DTSTART:20260120T060000Z
+SUMMARY:Экзамен Теоретическая механика
+UID:1fac61b80b91c1840667e7de273d18bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Михайлова Елена Юрьевна
 DTEND:20251010T113000Z
 LOCATION:ГУК Б-654
@@ -709,6 +710,14 @@ LOCATION:ГУК В-605
 DTSTART:20251201T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:8559ab925f6575f836dc362ca76ce653
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хвошнянская Елизавета Аркадьевна
+DTEND:20260124T073000Z
+LOCATION:ГУК Б-635
+DTSTART:20260124T060000Z
+SUMMARY:Экзамен Дифференциальные уравнения
+UID:18da7b7ac11ecd86938eadfb21bcee8f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251222T073000Z
@@ -949,14 +958,6 @@ LOCATION:ГУК Б-652
 DTSTART:20250924T114500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:e51a9dd9d2c72f9c4423a88d421aa841
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Филиппова Александра Сергеевна
-DTEND:20251103T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20251103T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:de39c753f236f1900243e9dd43f8c912
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T073000Z
@@ -1225,6 +1226,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:00007a6a89b4be14066fe72dc65478ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Хвошнянская Елизавета Аркадьевна
+DTEND:20260124T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260124T074500Z
+SUMMARY:Экзамен Дифференциальные уравнения
+UID:4f5243d34f26c341d6796191c9fd0824
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Михайлова Елена Юрьевна
 DTEND:20251121T113000Z
 LOCATION:ГУК Б-654
@@ -1278,6 +1287,14 @@ SUMMARY:ЛК Теоретическая механика
 UID:1498fef81311c7f202b6a533585e188d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260116T073000Z
+LOCATION:ГУК Б-635
+DTSTART:20260116T060000Z
+SUMMARY:Экзамен Теория вероятностей и математическая статистика
+UID:74d6f9ea9b54463b027c43cf9e758449
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250929T073000Z
 LOCATION:ГУК Б-333
 DTSTART:20250929T060000Z
@@ -1314,11 +1331,12 @@ SUMMARY:ЛР Системы автоматизированного проект�
 UID:ed9995e3caac984e3b9cdadc6ddeb39e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251212T131500Z
-LOCATION:--каф. 919
-DTSTART:20251212T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:a5eb6bac7dfd8ea5c92190b6b07ae2dc
+DESCRIPTION:Филиппова Александра Сергеевна
+DTEND:20251101T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20251101T114500Z
+SUMMARY:ЛК Теоретическая механика
+UID:c5818940eec5149f74573583ab5cbefa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филиппова Александра Сергеевна
@@ -1352,6 +1370,13 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:1728d2b9b32e34fa7dfb731342c04e4f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251212T131500Z
+LOCATION:--каф. 919
+DTSTART:20251212T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:a5eb6bac7dfd8ea5c92190b6b07ae2dc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хвошнянская Елизавета Аркадьевна
 DTEND:20251015T091500Z
 LOCATION:ГУК Б-738
@@ -1380,6 +1405,14 @@ LOCATION:--каф. 919
 DTSTART:20251120T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:a6773b3672ed99843717d8fc604592b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260116T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260116T074500Z
+SUMMARY:Экзамен Теория вероятностей и математическая статистика
+UID:af9a4f9ccf682d559765bbd6732c8c1c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T091500Z
@@ -1431,6 +1464,14 @@ LOCATION:3-402
 DTSTART:20251031T060000Z
 SUMMARY:ЛР Общая электротехника и электроника
 UID:b2988815a0d1b3424e10f9c83e9f3471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Филиппова Александра Сергеевна
+DTEND:20260120T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260120T074500Z
+SUMMARY:Экзамен Теоретическая механика
+UID:7cd6b3c2cd74e527f1b3c7b32beeb605
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T073000Z
@@ -1508,6 +1549,13 @@ SUMMARY:ЛР Системы автоматизированного проект�
 UID:e75787cffa31c4a5f83d9f0c7e9197bc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251101T113000Z
+LOCATION:ГУК В-605
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:25d54f01b1a2f344c83b6c6cbc2568e1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T131500Z
 LOCATION:ГУК Б-730
 DTSTART:20251106T114500Z
@@ -1531,19 +1579,19 @@ SUMMARY:ЛК Сопротивление материалов
 UID:7249a352975dafdecb9e3f92a382cf44
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T131500Z
-LOCATION:ГУК А-108
-DTSTART:20251216T114500Z
-SUMMARY:ПЗ Материаловедение
-UID:69da04842c08a2bf446cd5cdcf0c1847
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егорова Ольга Владимировна
 DTEND:20251110T091500Z
 LOCATION:ГУК Б-738
 DTSTART:20251110T074500Z
 SUMMARY:ПЗ Сопротивление материалов
 UID:24e873c763e3f2cd70b79e6a8dbafa56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T131500Z
+LOCATION:ГУК А-108
+DTSTART:20251216T114500Z
+SUMMARY:ПЗ Материаловедение
+UID:69da04842c08a2bf446cd5cdcf0c1847
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251230T113000Z
@@ -1729,13 +1777,6 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:b71fc5620d14cc2383e6573549d38f37
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T073000Z
-LOCATION:ГУК Б-333
-DTSTART:20251103T060000Z
-SUMMARY:ЛК Материаловедение
-UID:41203cde503e1c961eb10cfa3cddfabd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251110T073000Z
 LOCATION:ГУК Б-333
 DTSTART:20251110T060000Z
@@ -1743,18 +1784,18 @@ SUMMARY:ЛК Материаловедение
 UID:16588c1448f53584ae3f9bef55e98610
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T113000Z
-LOCATION:ГУК А-108
-DTSTART:20251007T100000Z
-SUMMARY:ЛР Материаловедение
-UID:e688c82f93dfceb1175c68f3a42f61fa
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251127T113000Z
 LOCATION:ГУК Б-730
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Инженерная графика
 UID:b5b8521b5c227bc219bd5483541b2490
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T113000Z
+LOCATION:ГУК А-108
+DTSTART:20251007T100000Z
+SUMMARY:ЛР Материаловедение
+UID:e688c82f93dfceb1175c68f3a42f61fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хвошнянская Елизавета Аркадьевна
@@ -1779,6 +1820,21 @@ LOCATION:ГУК Б-652
 DTSTART:20251105T114500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:fb6b479ad991c130a4e93de34e3d9abf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белов Александр Анатольевич
+DTEND:20260112T091500Z
+LOCATION:3-131
+DTSTART:20260112T074500Z
+SUMMARY:Экзамен Общая электротехника и электроника
+UID:79921bd336238743161908124fc6d1b0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T073000Z
+LOCATION:ГУК Б-333
+DTSTART:20251101T060000Z
+SUMMARY:ЛК Материаловедение
+UID:9001af1bab61f3de8cd70a5179a3d7f6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T091500Z
@@ -1977,6 +2033,14 @@ LOCATION:ГУК Б-333
 DTSTART:20251215T060000Z
 SUMMARY:ЛК Материаловедение
 UID:fd917270f20850617f02704ea474d5d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белов Александр Анатольевич
+DTEND:20260112T073000Z
+LOCATION:3-131
+DTSTART:20260112T060000Z
+SUMMARY:Экзамен Общая электротехника и электроника
+UID:49cf9a2417e2dd13fb954e914b4cf566
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250909T131500Z

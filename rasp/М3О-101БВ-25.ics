@@ -9,13 +9,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:ccfc011929bcdfb7bc258865e7c3fe40
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T150000Z
-LOCATION:Орш. В-603
-DTSTART:20251219T133000Z
-SUMMARY:ЛР Общая физика
-UID:e7369517b4823e8a168199ad2a20e1cb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20251007T150000Z
 LOCATION:Орш. В-201
@@ -32,26 +25,12 @@ SUMMARY:ЛК Информатика
 UID:1b50abed80ab619a3ce3a175639a677a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T113000Z
-LOCATION:Орш. В-306
-DTSTART:20250917T100000Z
-SUMMARY:ПЗ Общая физика
-UID:d4ded170cb6401a568545f8e5a358893
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
 DTEND:20251212T091500Z
 LOCATION:3-141
 DTSTART:20251212T074500Z
 SUMMARY:ЛР Информатика
 UID:4af81a3bdcc521f65e3b38e9831f4333
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Общая физика
-UID:d68ea71b098a2b8cd39dfd7c3c6737ce
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T113000Z
@@ -172,6 +151,14 @@ LOCATION:Орш. В-101
 DTSTART:20251016T074500Z
 SUMMARY:ЛК Основы российской государственности
 UID:168ca47c50deb1a672e9609278a77e42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251015T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251015T100000Z
+SUMMARY:ПЗ Общая физика
+UID:85ea1cf85c368791ef886669c767f981
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T091500Z
@@ -299,6 +286,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:94777b94c428a7b68f4bfcd0288b4a8c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20250924T113000Z
+LOCATION:Орш. В-306
+DTSTART:20250924T100000Z
+SUMMARY:ПЗ Общая физика
+UID:f70fdbc005a6960e46ec555eaea9da02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20250909T150000Z
 LOCATION:Орш. В-201
@@ -339,27 +334,12 @@ SUMMARY:Экзамен Математический анализ
 UID:91beea5f96b6e56dff5e8be943ae7a76
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251101T131500Z
-LOCATION:3-141
-DTSTART:20251101T114500Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:275c88e8cd6c7844586f34952da20035
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20250916T150000Z
 LOCATION:Орш. В-201
 DTSTART:20250916T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:06d57456d1334c27a3287ce520075f49
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T164500Z
-LOCATION:Орш. В-314
-DTSTART:20251205T151500Z
-SUMMARY:ЛР Общая физика
-UID:b805687477ac8b2b6937b461fd33f487
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
@@ -520,6 +500,22 @@ SUMMARY:ПЗ История России
 UID:6edc3acb11f658fd918c1464780493cb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251121T150000Z
+LOCATION:Орш. В-303
+DTSTART:20251121T133000Z
+SUMMARY:ЛР Общая физика
+UID:07ea5b3a9ab22fe13b8defeeebebdb94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251219T150000Z
+LOCATION:Орш. В-603
+DTSTART:20251219T133000Z
+SUMMARY:ЛР Общая физика
+UID:1237a1b10b716cecf7002dcfa7239291
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
 DTEND:20251201T150000Z
 LOCATION:ГУК Б-728
@@ -599,13 +595,6 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:fdbb53bf45a484842cc3155ad08f7494
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T164500Z
-LOCATION:Орш. В-303
-DTSTART:20251121T151500Z
-SUMMARY:ЛР Общая физика
-UID:fcb0ccc281aab0f948e135bdc1c6906e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251229T113000Z
 LOCATION:--каф. 919
 DTSTART:20251229T100000Z
@@ -653,11 +642,12 @@ SUMMARY:ПЗ Математический анализ
 UID:a95d3a6b97a22f9e08745cb2d7150e28
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251105T113000Z
 LOCATION:Орш. В-306
-DTSTART:20251001T100000Z
+DTSTART:20251105T100000Z
 SUMMARY:ПЗ Общая физика
-UID:347c239917d14f9d28e1fc959f232140
+UID:f431b4f33177c56652c1daeceb58e4a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЗОТОВ ВЛАДИМИР АЛЕКСАНДРОВИЧ
@@ -666,13 +656,6 @@ LOCATION:Орш. В-301
 DTSTART:20251120T100000Z
 SUMMARY:ЛК Математический анализ
 UID:cd2b37f5bfa02fc0b0f440d21de42f8f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251008T100000Z
-SUMMARY:ПЗ Общая физика
-UID:1ce62856fc1facb6618db767be453033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
@@ -689,20 +672,6 @@ LOCATION:ГУК Б-728
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:29675726883a5214cdcfa35976a684db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T164500Z
-LOCATION:Орш. В-603
-DTSTART:20251219T151500Z
-SUMMARY:ЛР Общая физика
-UID:9317c8574e02ffbe1e54fe01f87f94a8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T113000Z
-LOCATION:Орш. В-306
-DTSTART:20250924T100000Z
-SUMMARY:ПЗ Общая физика
-UID:12a867faea57d21d015d402efc13ec2b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЗОТОВ ВЛАДИМИР АЛЕКСАНДРОВИЧ
@@ -735,6 +704,14 @@ LOCATION:Орш. В-407
 DTSTART:20250909T151500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:38031bd124377680a3673699681d6d85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251203T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251203T100000Z
+SUMMARY:ПЗ Общая физика
+UID:28f2322b9da1e1e1d5e6f67c4f4b8f76
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250916T091500Z
@@ -800,6 +777,14 @@ SUMMARY:ЛК Основы российской государственност�
 UID:b80d8bd8599a17a929cafec42d16c2e8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251126T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251126T100000Z
+SUMMARY:ПЗ Общая физика
+UID:8118c03076ad3c398e7b59702ae07215
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
 DTEND:20251110T131500Z
 LOCATION:ГУК Б-728
@@ -814,6 +799,14 @@ LOCATION:Орш. В-407
 DTSTART:20250902T151500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:b29711105a9440f4353d24a35d3e532d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251219T164500Z
+LOCATION:Орш. В-603
+DTSTART:20251219T151500Z
+SUMMARY:ЛР Общая физика
+UID:3a12f2c1b2b86fa8fdf679b80c7b5c4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
@@ -832,13 +825,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:67441ef97da09e7e421dccd0fcdf42c5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251126T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251126T100000Z
-SUMMARY:ПЗ Общая физика
-UID:a5a94b05fb40b47620d6fdd7b6990681
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251125T091500Z
 LOCATION:--каф. 919
 DTSTART:20251125T074500Z
@@ -846,11 +832,12 @@ SUMMARY:ПЗ Физическая культура
 UID:83be883e230f5be76c132c791f572d1a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T150000Z
-LOCATION:Орш. В-314
-DTSTART:20251205T133000Z
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251107T164500Z
+LOCATION:Орш. В-303
+DTSTART:20251107T151500Z
 SUMMARY:ЛР Общая физика
-UID:90963bc1505571406f68ce17434be3f3
+UID:4d407ec958e66920382fed5b9521ef8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чубова Надежда Михайловна
@@ -954,13 +941,6 @@ SUMMARY:ПЗ История России
 UID:299b876b81559388cbf2e5e9038bb7fd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T113000Z
-LOCATION:Орш. В-306
-DTSTART:20250910T100000Z
-SUMMARY:ПЗ Общая физика
-UID:b7feeaa74abea4d540eaab84e1532c5c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
 DTEND:20250926T131500Z
 LOCATION:3-243
@@ -974,6 +954,22 @@ LOCATION:--каф. 919
 DTSTART:20251014T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:34c5ce4acbdf4634d9dea3c6b1e0c535
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251210T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251210T100000Z
+SUMMARY:ПЗ Общая физика
+UID:af9df1e11585a38fd632cff43a628980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251107T150000Z
+LOCATION:Орш. В-303
+DTSTART:20251107T133000Z
+SUMMARY:ЛР Общая физика
+UID:20be4a8431d56e56ef0e2d3039d086c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
@@ -1040,19 +1036,20 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:3d7202e5671d5b91f2ec97c4de20ad68
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20250910T113000Z
+LOCATION:Орш. В-306
+DTSTART:20250910T100000Z
+SUMMARY:ПЗ Общая физика
+UID:6a100d2ad6bb1cc198bc78164eb0d61d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
 DTEND:20251106T091500Z
 LOCATION:Орш. В-101
 DTSTART:20251106T074500Z
 SUMMARY:ЛК Правоведение
 UID:9af25649691c71f573a8968174ad0449
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251112T100000Z
-SUMMARY:ПЗ Общая физика
-UID:74a66a0b0e12d8b325e59a7dd6b704c4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
@@ -1118,13 +1115,6 @@ SUMMARY:ПЗ Математический анализ
 UID:ea1eeafef3ef9e53cb5bc5d4d4a4f855
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T150000Z
-LOCATION:Орш. В-303
-DTSTART:20251107T133000Z
-SUMMARY:ЛР Общая физика
-UID:6df1f30ce8547ec34833068520da5a95
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
 DTEND:20250906T091500Z
 LOCATION:3-141
@@ -1141,19 +1131,19 @@ SUMMARY:ЛК Общая физика
 UID:3487eaaac0cfb19131418cedbe75f38d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251001T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251001T100000Z
+SUMMARY:ПЗ Общая физика
+UID:317fb5e3247b56de177b21752a9e9e15
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251013T113000Z
 LOCATION:--каф. 919
 DTSTART:20251013T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:750ad70321a995b2d31f058384260000
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251101T113000Z
-LOCATION:3-141
-DTSTART:20251101T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:08f4e87fc5ba98a7ab9ef3e13d5f434b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
@@ -1314,26 +1304,12 @@ SUMMARY:ЛК Общая физика
 UID:8482fc37a224060cbff352d440a3be6f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T164500Z
-LOCATION:Орш. В-303
-DTSTART:20251107T151500Z
-SUMMARY:ЛР Общая физика
-UID:999ec4f36d7ac9c899732c1bd1da97e0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
 DTEND:20251031T091500Z
 LOCATION:3-141
 DTSTART:20251031T074500Z
 SUMMARY:ЛР Информатика
 UID:b947bd7c160ebfbd4679f4f88e3f9edb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251119T100000Z
-SUMMARY:ПЗ Общая физика
-UID:502a0ed632f2dcfc700da11acbccf854
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -1462,12 +1438,12 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:dbedafa2c4e1c94c75d97462ec39f634
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251103T131500Z
-LOCATION:ГУК Б-728
-DTSTART:20251103T114500Z
-SUMMARY:ПЗ Инженерная и компьютерная графика
-UID:12d4d47525e80407dbe7ab9d87913b18
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251022T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251022T100000Z
+SUMMARY:ПЗ Общая физика
+UID:42aab09dcd9d922ac1004f6e12fe9344
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251021T091500Z
@@ -1572,6 +1548,14 @@ SUMMARY:ПЗ История России
 UID:1fd965fa1ba343bc15880cf6adfea6b1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251121T164500Z
+LOCATION:Орш. В-303
+DTSTART:20251121T151500Z
+SUMMARY:ЛР Общая физика
+UID:dd4733e187a2bb24ebcf70d17a566f80
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
 DTEND:20251218T091500Z
 LOCATION:Орш. В-101
@@ -1620,13 +1604,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:1c5e2cad22df38a33d3b2f40a43b0082
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251022T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251022T100000Z
-SUMMARY:ПЗ Общая физика
-UID:8d12e73b9c4b0d0419105e5304c71464
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чубова Надежда Михайловна
 DTEND:20250903T091500Z
 LOCATION:Орш. В-301
@@ -1659,13 +1636,6 @@ SUMMARY:ПЗ Математический анализ
 UID:48699a24320e0b1293e15ff03f7e05d5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T113000Z
-LOCATION:--каф. 919
-DTSTART:20251103T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:82d1750f324afd46df2222273e391f08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЗОТОВ ВЛАДИМИР АЛЕКСАНДРОВИЧ
 DTEND:20251112T131500Z
 LOCATION:Орш. В-202
@@ -1696,6 +1666,13 @@ SUMMARY:ЛР Информатика
 UID:b3a4d293049ea8317f185bd7471b813d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251101T113000Z
+LOCATION:--каф. 919
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:c0e44364324a19c4c81f8a7952b03bbf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
 DTEND:20251120T091500Z
 LOCATION:Орш. В-101
@@ -1720,13 +1697,6 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:1978e683dd54cbeac563be614865f8db
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251210T100000Z
-SUMMARY:ПЗ Общая физика
-UID:e1f31e1e2f9aa9277824245d3fcfd3dd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БЕЛЯКОВ ДМИТРИЙ ВАЛЕРЬЕВИЧ
 DTEND:20251126T073000Z
 LOCATION:Орш. В-101
@@ -1749,6 +1719,14 @@ LOCATION:Орш. В-407
 DTSTART:20251014T151500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:a29dd310387660f5f8df83fce802f240
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251008T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251008T100000Z
+SUMMARY:ПЗ Общая физика
+UID:5a9cffa238fad2a9b3f5dcaaa1932642
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
@@ -1911,6 +1889,14 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:0a447bd75ee51a4cf8f7a232a4fddc30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251101T131500Z
+LOCATION:ГУК Б-728
+DTSTART:20251101T114500Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:8b725a8b793bc56d1ac1a125cdb628d0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251117T113000Z
 LOCATION:--каф. 919
 DTSTART:20251117T100000Z
@@ -1932,6 +1918,14 @@ LOCATION:Орш. В-202
 DTSTART:20251217T114500Z
 SUMMARY:ПЗ Математический анализ
 UID:382158cc8ba97713115bff4d68cb3c7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251205T150000Z
+LOCATION:Орш. В-314
+DTSTART:20251205T133000Z
+SUMMARY:ЛР Общая физика
+UID:00c5cba61203398ad942e1d5a2d452d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
@@ -2035,6 +2029,14 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:b8ebfcce2d50b1bfc7784e5643c4c4c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251119T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251119T100000Z
+SUMMARY:ПЗ Общая физика
+UID:9b90e681f32d53f86967251329988132
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
 DTEND:20251004T131500Z
 LOCATION:3-141
@@ -2121,26 +2123,12 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:61eb45761a01f90c089b250bd1005feb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251203T100000Z
-SUMMARY:ПЗ Общая физика
-UID:46fef2824a9cfe9ca9c7b5fe49696a89
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20251023T073000Z
 LOCATION:Орш. В-301
 DTSTART:20251023T060000Z
 SUMMARY:ЛК История России
 UID:9006044856034e56f57c54f0f0f739ab
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T113000Z
-LOCATION:Орш. В-306
-DTSTART:20251105T100000Z
-SUMMARY:ПЗ Общая физика
-UID:a1ad7948722dc503ae5616815dd36680
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
@@ -2190,6 +2178,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:6db471abb6be956a27e669e15c071655
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251205T164500Z
+LOCATION:Орш. В-314
+DTSTART:20251205T151500Z
+SUMMARY:ЛР Общая физика
+UID:fd5daa65e8d30d982ac2b1d9e51df0ed
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T131500Z
 LOCATION:Орш. Б-603
 DTSTART:20251211T114500Z
@@ -2205,11 +2201,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:201c87519aabb70f0a28a3fb68377d3e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T113000Z
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251112T113000Z
 LOCATION:Орш. В-306
-DTSTART:20251029T100000Z
+DTSTART:20251112T100000Z
 SUMMARY:ПЗ Общая физика
-UID:86b94906556ff1406cdf541df1c1e69b
+UID:0368ff9db4c68f605b7b422ed437189e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
@@ -2348,13 +2345,6 @@ LOCATION:ГУК Б-728
 DTSTART:20251117T133000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:3b5ce4247d88e2993d9c08a232c46ef5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T150000Z
-LOCATION:Орш. В-303
-DTSTART:20251121T133000Z
-SUMMARY:ЛР Общая физика
-UID:64fb071e19bbea400d571e833934d278
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -2513,6 +2503,14 @@ SUMMARY:ПЗ История России
 UID:7ba63c5a07d591a0e457a53fa04346ee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20250917T113000Z
+LOCATION:Орш. В-306
+DTSTART:20250917T100000Z
+SUMMARY:ПЗ Общая физика
+UID:b4208a1015daa67cf1155c16f78de099
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
 DTEND:20251209T164500Z
 LOCATION:Орш. В-407
@@ -2543,6 +2541,14 @@ LOCATION:ГУК Б-728
 DTSTART:20251208T114500Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:5fdbfdbbe09c3a3e295ef541d468e426
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронов Иван Сергеевич
+DTEND:20251029T113000Z
+LOCATION:Орш. В-306
+DTSTART:20251029T100000Z
+SUMMARY:ПЗ Общая физика
+UID:f19d5863d7cc2780acd83275b4caf7d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чубова Надежда Михайловна
