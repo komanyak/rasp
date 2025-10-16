@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251101T131500Z
-LOCATION:2-25(2Б)
-DTSTART:20251101T114500Z
-SUMMARY:ЛР Схемы и компоновки ВРД
-UID:f40aba42be584d72588c9792530370fb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Волощенко Антон Владимирович
 DTEND:20251003T091500Z
 LOCATION:2-25(2Б)
@@ -98,18 +91,19 @@ SUMMARY:ЛК Конструкция и проектирование ракетн
 UID:4750b755c3881982c407d4e93cf5c560
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:2-25(2Б)
-DTSTART:20251101T100000Z
-SUMMARY:ЛР Схемы и компоновки ВРД
-UID:35bcc1776d59fd2c86a38d3972932049
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251129T073000Z
 LOCATION:2-24(2Б)
 DTSTART:20251129T060000Z
 SUMMARY:ЛР Динамика и прочность ВРД
 UID:22eaf900050bbde0baf7fad2504bbcfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонтьев Михаил Константинович
+DTEND:20251212T073000Z
+LOCATION:2-25(2Б)
+DTSTART:20251212T060000Z
+SUMMARY:ЛК Динамика и прочность ВРД
+UID:a9f0ee66438644b0315ebee2cc0e6b45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонтьев Михаил Константинович
@@ -128,14 +122,6 @@ SUMMARY:ЛК Методы математического моделирован�
 UID:5ae0196dc1525921bb2e90ee27ae2dd7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Леонтьев Михаил Константинович
-DTEND:20251212T073000Z
-LOCATION:2-25(2Б)
-DTSTART:20251212T060000Z
-SUMMARY:ЛК Динамика и прочность ВРД
-UID:a9f0ee66438644b0315ebee2cc0e6b45
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Абашев Виктор Михайлович
 DTEND:20251111T091500Z
 LOCATION:2-23(2Б)
@@ -149,13 +135,6 @@ LOCATION:--каф.
 DTSTART:20251203T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:25d6561637151d4212734146ba02eea6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:2-24(2Б)
-DTSTART:20251101T074500Z
-SUMMARY:ЛР Динамика и прочность ВРД
-UID:0a607f183d4f53b2ce35a0a78f0eacb9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T164500Z
@@ -1867,13 +1846,6 @@ LOCATION:--каф.
 DTSTART:20251119T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e525853c12d6986b30a7eddec9c97a4e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:2-24(2Б)
-DTSTART:20251101T060000Z
-SUMMARY:ЛР Динамика и прочность ВРД
-UID:5291f1e6f438715ce29f6a306427436f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T164500Z
