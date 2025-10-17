@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260124T073000Z
+LOCATION:3-143
+DTSTART:20260124T060000Z
+SUMMARY:Экзамен Электроника
+UID:38c20c7b6ccdeb30243c21ceeee76419
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коробков Кирилл Андреевич
 DTEND:20251225T150000Z
 LOCATION:3-143
@@ -16,6 +23,14 @@ LOCATION:24-413
 DTSTART:20251024T060000Z
 SUMMARY:ПЗ Случайные процессы
 UID:c744a0dc2b1173f038ee29f8e62444f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макаренкова Надежда Алексеевна
+DTEND:20260112T131500Z
+LOCATION:3-241
+DTSTART:20260112T114500Z
+SUMMARY:Экзамен Основы теории управления
+UID:7ab6f6714181ac7d73083299c9e1ed28
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T073000Z
@@ -79,14 +94,6 @@ SUMMARY:ЛК Элементы систем управления ЛА
 UID:a2c0fef310ed4f22df18876919b8f5c5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Макаренкова Надежда Алексеевна
-DTEND:20260120T113000Z
-LOCATION:3-241
-DTSTART:20260120T100000Z
-SUMMARY:Экзамен Основы теории управления
-UID:89d661b80935f6bbba675a32d31411a9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:СОТНИКОВА ЕЛЕНА ВАСИЛЬЕВНА
 DTEND:20251113T113000Z
 LOCATION:3-431
@@ -130,6 +137,14 @@ LOCATION:--каф. 919
 DTSTART:20250930T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:ca284cfc8649e16c0135893a9657b045
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макаренкова Надежда Алексеевна
+DTEND:20260112T113000Z
+LOCATION:3-241
+DTSTART:20260112T100000Z
+SUMMARY:Экзамен Основы теории управления
+UID:f2b5656901709289bc4ff9be07227636
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
@@ -251,6 +266,13 @@ LOCATION:--каф.
 DTSTART:20251203T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1d8aa1c1e54cd2ed7909ab8ee203aecc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260124T091500Z
+LOCATION:3-143
+DTSTART:20260124T074500Z
+SUMMARY:Экзамен Электроника
+UID:417bac8c76d53eb2f66b53a6ed81e817
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СОТНИКОВА ЕЛЕНА ВАСИЛЬЕВНА
@@ -992,14 +1014,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:314d6c00fece0586fe6dde6787750cfd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шлеенкин Лев Алексеевич
-DTEND:20260112T073000Z
-LOCATION:3-151
-DTSTART:20260112T060000Z
-SUMMARY:Экзамен Элементы систем управления ЛА
-UID:b090ef3cafee96aa518bd153ce5620ad
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251029T073000Z
 LOCATION:--каф.
 DTSTART:20251029T060000Z
@@ -1384,13 +1398,6 @@ SUMMARY:ЛК Гироскопические приборы
 UID:b72be1a02ae94c6978decae83d51be3a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260124T113000Z
-LOCATION:3-143
-DTSTART:20260124T100000Z
-SUMMARY:Экзамен Электроника
-UID:ff80219d815db81531fc04386832557f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коробков Кирилл Андреевич
 DTEND:20251225T164500Z
 LOCATION:3-143
@@ -1435,14 +1442,6 @@ LOCATION:--каф.
 DTSTART:20250903T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:a6fb8a65f60d3346eb4499b5aaccedf7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Макаренкова Надежда Алексеевна
-DTEND:20260120T131500Z
-LOCATION:3-241
-DTSTART:20260120T114500Z
-SUMMARY:Экзамен Основы теории управления
-UID:717a5b64e98b56766b61992a754cadfa
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T131500Z
@@ -1866,6 +1865,14 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:413025f883aa997f00fc0d0c2a08387f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шлеенкин Лев Алексеевич
+DTEND:20260120T091500Z
+LOCATION:3-151
+DTSTART:20260120T074500Z
+SUMMARY:Экзамен Элементы систем управления ЛА
+UID:44ca7988504e680ddc138161d5bb282f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251125T131500Z
 LOCATION:ГУК А-404
 DTSTART:20251125T114500Z
@@ -1879,6 +1886,14 @@ LOCATION:3-256
 DTSTART:20251225T100000Z
 SUMMARY:ЛР Гироскопические приборы
 UID:8db91cd1bfc800488f00d0b90eb4678b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шлеенкин Лев Алексеевич
+DTEND:20260120T073000Z
+LOCATION:3-151
+DTSTART:20260120T060000Z
+SUMMARY:Экзамен Элементы систем управления ЛА
+UID:a3da48adf99e7c289de45508e608a4c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
@@ -2356,13 +2371,6 @@ SUMMARY:ЛР Электроника
 UID:57fb3cfd05de395b612af76c40571d02
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260124T131500Z
-LOCATION:3-143
-DTSTART:20260124T114500Z
-SUMMARY:Экзамен Электроника
-UID:0f7fb744aa38100d2be244f3dca7d30b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
 DTEND:20250902T091500Z
 LOCATION:3-437
@@ -2383,14 +2391,6 @@ LOCATION:--каф.
 DTSTART:20251217T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e9299cc6322c9612d649122b4898c84f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шлеенкин Лев Алексеевич
-DTEND:20260112T091500Z
-LOCATION:3-151
-DTSTART:20260112T074500Z
-SUMMARY:Экзамен Элементы систем управления ЛА
-UID:007cfa6b4cf6b5f9319c0040a61c914d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матюшенко Роман Викторович
