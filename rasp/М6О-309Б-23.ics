@@ -2,42 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251009T091500Z
-LOCATION:24-721
-DTSTART:20251009T074500Z
-SUMMARY:ЛР Системы моделирования
-UID:7ec55c0af438d8dc32339d968fa3ac85
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:--каф.
-DTSTART:20250905T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:87674340e823abf57c6d75a5b0ac280f
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250923T091500Z
 LOCATION:--каф. 919
 DTSTART:20250923T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:f2ff5cad161d99d693ab4c9a5c90c7bf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251008T073000Z
-LOCATION:24-717
-DTSTART:20251008T060000Z
-SUMMARY:ЛР Программирование
-UID:22c4c7d0f51715628fb8d907b415c3cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251111T150000Z
-LOCATION:24-419
-DTSTART:20251111T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:7f977cd1615a1171d86bcbc5b4391c8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
@@ -56,28 +25,6 @@ SUMMARY:ЛК Программирование
 UID:79bcecad653a1d92255f649c8b164488
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:--каф.
-DTSTART:20251024T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f3c8a475a6818c97e2b94840705cd511
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251030T091500Z
-LOCATION:9-404
-DTSTART:20251030T074500Z
-SUMMARY:ЛК Русский язык и культура речи
-UID:68dbaeeee9112bb092f41c94bb6f0cad
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T131500Z
-LOCATION:--каф.
-DTSTART:20251003T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8fca1d0285b869d555a14527995edf56
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250918T131500Z
 LOCATION:--каф. 919
 DTSTART:20250918T114500Z
@@ -91,6 +38,562 @@ LOCATION:24-413
 DTSTART:20251210T114500Z
 SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
 UID:6ff4f09d7ae0ce5691f4107b7af1107e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251023T113000Z
+LOCATION:24-419
+DTSTART:20251023T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:024522600c08f940235551a8622ce0e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251023T073000Z
+LOCATION:24-721
+DTSTART:20251023T060000Z
+SUMMARY:ЛР Системы моделирования
+UID:592c2d8a579e807e5bd3ea98a52d658a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T073000Z
+LOCATION:--каф.
+DTSTART:20251205T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5054030baa499fd430721da80c3b9bd1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251210T113000Z
+LOCATION:ГУК А-210
+DTSTART:20251210T100000Z
+SUMMARY:ПЗ Русский язык и культура речи
+UID:09ecdd9e26ec7ef872a5bb939bfe4ebc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250910T131500Z
+LOCATION:24-721
+DTSTART:20250910T114500Z
+SUMMARY:ЛР Операционные системы
+UID:974dbf1ca477c8856d0f2dcc3ca1ec72
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T091500Z
+LOCATION:--каф.
+DTSTART:20251017T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a9431ebd012642b182eb447b1fc01b11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250923T131500Z
+LOCATION:24-711
+DTSTART:20250923T114500Z
+SUMMARY:ЛК Операционные системы
+UID:a9917d325822b3d9dc6973c4f1e9c028
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251208T091500Z
+LOCATION:24-717
+DTSTART:20251208T074500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:87adc87ece1323fdb8736648d6b73f06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251021T113000Z
+LOCATION:24-711
+DTSTART:20251021T100000Z
+SUMMARY:ЛК Программирование
+UID:fb43b6a9b013f50973ab8a05be0998d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Падалко Сергей Николаевич
+DTEND:20251118T150000Z
+LOCATION:24-711
+DTSTART:20251118T133000Z
+SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
+UID:3090ae4da5da5bd700a792697916fb00
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T091500Z
+LOCATION:--каф. 919
+DTSTART:20251014T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:94edca64107c76c85ca5913de0089ebc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T131500Z
+LOCATION:--каф. 919
+DTSTART:20250904T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:cbba1ed039352de131eb26cd440dd9ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251125T113000Z
+LOCATION:24-711
+DTSTART:20251125T100000Z
+SUMMARY:ЛК Программирование
+UID:3d767a1d049fe8fa9551beae67e3f7cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250924T091500Z
+LOCATION:24-717
+DTSTART:20250924T074500Z
+SUMMARY:ЛР Программирование
+UID:7e661dba5c458b02a17d555cdd93f010
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251119T131500Z
+LOCATION:24-721
+DTSTART:20251119T114500Z
+SUMMARY:ЛР Операционные системы
+UID:de0c7000846811b146c906a75a9a6fa1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T131500Z
+LOCATION:--каф. 919
+DTSTART:20251023T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:18ca6d4bc4e62c8f53bca2e61b7167f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20251006T073000Z
+LOCATION:24-711
+DTSTART:20251006T060000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:bd658c22d540520ec58d70eeeebc4e87
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20260123T073000Z
+LOCATION:24-709
+DTSTART:20260123T060000Z
+SUMMARY:Экзамен Программирование
+UID:dacf4441a70994468d37e6b3820d8cdd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20250904T091500Z
+LOCATION:9-404
+DTSTART:20250904T074500Z
+SUMMARY:ЛК Русский язык и культура речи
+UID:1046a5b88da53febd986f88d3f26c95c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251103T091500Z
+LOCATION:24-711
+DTSTART:20251103T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:cf6293892430313a73aeaf19fdd9b757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251014T150000Z
+LOCATION:24-419
+DTSTART:20251014T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:696c105f6f10f50a72b22ec8b8ed48ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:--каф. 919
+DTSTART:20251106T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c13cf1be105d3c0bef6351b8732ec339
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20250908T091500Z
+LOCATION:24-711
+DTSTART:20250908T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:b199d76b0df73a1887d7b59fb1af4a70
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T131500Z
+LOCATION:--каф.
+DTSTART:20251219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b6636b334648c9b8d3d43725a00695b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251211T113000Z
+LOCATION:24-419
+DTSTART:20251211T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:2f7bd625a5dcdc849e6d8e3079977154
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T073000Z
+LOCATION:--каф.
+DTSTART:20251003T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a694a05b860c73f356bfecf22c7066c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251113T113000Z
+LOCATION:24-419
+DTSTART:20251113T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:5f001b188e8c31dbc5b1c46c4ae2eb46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20250925T113000Z
+LOCATION:24-419
+DTSTART:20250925T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:06af08e9d44771fdffbc50169c783d42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251203T131500Z
+LOCATION:24-721
+DTSTART:20251203T114500Z
+SUMMARY:ЛР Операционные системы
+UID:3735a22e26b6e378d3952c8b728e2c76
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251111T113000Z
+LOCATION:24-711
+DTSTART:20251111T100000Z
+SUMMARY:ЛК Программирование
+UID:35d4d077945addff84ef7848c730c6fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20250925T073000Z
+LOCATION:24-721
+DTSTART:20250925T060000Z
+SUMMARY:ЛР Системы моделирования
+UID:15ce0b685c471bcb0ef53929ce9975d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251202T131500Z
+LOCATION:24-711
+DTSTART:20251202T114500Z
+SUMMARY:ЛК Операционные системы
+UID:3ca2f15b492895c6eed70de58d28b14a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20250911T113000Z
+LOCATION:24-419
+DTSTART:20250911T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:f95703215da9f334859f932fd9f415bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251110T073000Z
+LOCATION:24-717
+DTSTART:20251110T060000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:874d2fc73294468292803a4a4807d184
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251013T131500Z
+LOCATION:24-721
+DTSTART:20251013T114500Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:3afd1ae5e2461a1e989af85709fc298b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251217T073000Z
+LOCATION:24-717
+DTSTART:20251217T060000Z
+SUMMARY:ЛР Программирование
+UID:ee717fff760fdbeb5eb6d7582eb22ad2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251006T131500Z
+LOCATION:24-717
+DTSTART:20251006T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:4248fab279752a1e6f1ff6fb86a8e111
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T131500Z
+LOCATION:--каф. 919
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e674f4200d91727d4a3b1d681103b5ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20250911T091500Z
+LOCATION:24-721
+DTSTART:20250911T074500Z
+SUMMARY:ЛР Системы моделирования
+UID:b92dd91a2ec929a59219b4139a4b8514
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251022T073000Z
+LOCATION:24-717
+DTSTART:20251022T060000Z
+SUMMARY:ЛР Программирование
+UID:8fe2f29be80896ad6579bad997b24e49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251014T131500Z
+LOCATION:24-711
+DTSTART:20251014T114500Z
+SUMMARY:ЛК Операционные системы
+UID:f7a93a359e41c5ee7728ee02530ee239
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251212T091500Z
+LOCATION:--каф.
+DTSTART:20251212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7cd8eb2b37c6f3b0539df6399719cb8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251002T073000Z
+LOCATION:24-711
+DTSTART:20251002T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:4cc4725d8fd97e83cdaffdac3f68a002
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T131500Z
+LOCATION:--каф.
+DTSTART:20251107T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:060cea494c4f70cbd9049cf32d2f29ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251117T091500Z
+LOCATION:24-711
+DTSTART:20251117T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:08e62a08cdb3ced8386222969fe43147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251106T091500Z
+LOCATION:24-717
+DTSTART:20251106T074500Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:00e34ac32897c53e1d36a49653441a71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T091500Z
+LOCATION:--каф.
+DTSTART:20251114T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:435d2aaf77408ec61d9eb95155cc0c23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251124T073000Z
+LOCATION:24-717
+DTSTART:20251124T060000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:55bd82a8f8fb96e37dcb5b59f9d6a99c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20250908T073000Z
+LOCATION:24-711
+DTSTART:20250908T060000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:ffa85589a58e551493cd01442c724744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251022T091500Z
+LOCATION:24-717
+DTSTART:20251022T074500Z
+SUMMARY:ЛР Программирование
+UID:a7590eaa4557f9b678cb8b95000fb160
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T113000Z
+LOCATION:--каф.
+DTSTART:20251003T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7b82403592fa527f695b0f528a2f50cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T091500Z
+LOCATION:--каф.
+DTSTART:20251121T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f86cc772242e90adeb5b499870e504a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Падалко Сергей Николаевич
+DTEND:20251007T150000Z
+LOCATION:24-711
+DTSTART:20251007T133000Z
+SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
+UID:47f02b947f25a5c777ead14a8a03db0b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T073000Z
+LOCATION:--каф.
+DTSTART:20251017T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1a4e220eaefc5582718c89ea230ed287
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суворова Анна Борисовна
+DTEND:20251029T131500Z
+LOCATION:24-413
+DTSTART:20251029T114500Z
+SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
+UID:a6d7aee1da386ade42fa8e6a7a891777
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T091500Z
+LOCATION:--каф. 919
+DTSTART:20251202T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:79e01709e4bc00c9151d9692db046973
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T131500Z
+LOCATION:--каф.
+DTSTART:20251031T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:df59cf2b74cf44199bf9df0f43a0a5a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251224T150000Z
+LOCATION:24-711
+DTSTART:20251224T133000Z
+SUMMARY:ПЗ Программирование
+UID:d6fd2fff00d5a4783f24fbe5163e468c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251020T131500Z
+LOCATION:24-717
+DTSTART:20251020T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:e6280222209a1ba5666492960f7aa293
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251020T113000Z
+LOCATION:24-717
+DTSTART:20251020T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:264c885a25e9d7d4c5de101a85b56861
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T091500Z
+LOCATION:--каф. 919
+DTSTART:20251111T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:3b63b01f388238f2ea5db6c54b37a4b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251028T150000Z
+LOCATION:24-419
+DTSTART:20251028T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:5c0a3980cd5119de70d903a184d4d91a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251015T150000Z
+LOCATION:24-711
+DTSTART:20251015T133000Z
+SUMMARY:ПЗ Программирование
+UID:9702b3865bee81d7ced368643bd5e17a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251202T113000Z
+LOCATION:24-711
+DTSTART:20251202T100000Z
+SUMMARY:ЛК Программирование
+UID:b47ed99654903c63eb1d0c7fdf13eafe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251124T113000Z
+LOCATION:24-721
+DTSTART:20251124T100000Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:eb185c717a9677eb3089c87cef1df308
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251106T073000Z
+LOCATION:24-717
+DTSTART:20251106T060000Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:bc40287629120256bda6621e16eb1806
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251022T113000Z
+LOCATION:24-721
+DTSTART:20251022T100000Z
+SUMMARY:ЛР Операционные системы
+UID:6a47e69b34f5828eac4d30abc19755aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250917T150000Z
+LOCATION:24-711
+DTSTART:20250917T133000Z
+SUMMARY:ПЗ Программирование
+UID:2788a6ed1770854ad872352931863721
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20250908T131500Z
+LOCATION:24-717
+DTSTART:20250908T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:c84d205291ec817cecf8759280acb386
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251008T073000Z
+LOCATION:24-717
+DTSTART:20251008T060000Z
+SUMMARY:ЛР Программирование
+UID:22c4c7d0f51715628fb8d907b415c3cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T113000Z
+LOCATION:--каф.
+DTSTART:20251024T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f3c8a475a6818c97e2b94840705cd511
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T131500Z
+LOCATION:--каф.
+DTSTART:20251003T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8fca1d0285b869d555a14527995edf56
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T091500Z
@@ -125,6 +628,614 @@ UID:5da1ae2b848e31ee68dc46f9e516f082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20260123T091500Z
+LOCATION:24-709
+DTSTART:20260123T074500Z
+SUMMARY:Экзамен Программирование
+UID:7997dfa6f9d67cde84221014d812a5bc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T091500Z
+LOCATION:--каф.
+DTSTART:20251010T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f7d11220394998ce5dee1842efada676
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251014T113000Z
+LOCATION:24-711
+DTSTART:20251014T100000Z
+SUMMARY:ЛК Программирование
+UID:584f79a9f2bb762efec0d7af95c82f87
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251215T113000Z
+LOCATION:24-717
+DTSTART:20251215T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:d32ad95a80762343ddeaa98b926203b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251015T113000Z
+LOCATION:ГУК А-210
+DTSTART:20251015T100000Z
+SUMMARY:ПЗ Русский язык и культура речи
+UID:70641728153a84b3577b4f0b83747c3e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251230T091500Z
+LOCATION:--каф. 919
+DTSTART:20251230T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:873558026b1a1c59f2177c76c2fda9fb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251209T091500Z
+LOCATION:--каф. 919
+DTSTART:20251209T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:0d1a862429a578d1451533cdee84da6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251029T113000Z
+LOCATION:ГУК А-210
+DTSTART:20251029T100000Z
+SUMMARY:ПЗ Русский язык и культура речи
+UID:ee02ff385299d9cdff6157f29c2a8e79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251007T131500Z
+LOCATION:24-711
+DTSTART:20251007T114500Z
+SUMMARY:ЛК Операционные системы
+UID:9533e1a96624dfc07bb10ac6673e1090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суворова Анна Борисовна
+DTEND:20251001T131500Z
+LOCATION:24-413
+DTSTART:20251001T114500Z
+SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
+UID:5818cab74321e9327ca340a5bb4d1879
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T073000Z
+LOCATION:--каф.
+DTSTART:20251226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2463ce57eb667ce619fd685585469af0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251105T091500Z
+LOCATION:24-717
+DTSTART:20251105T074500Z
+SUMMARY:ЛР Программирование
+UID:b1c4ff6ada7ac544b9005df36d7ce3cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T091500Z
+LOCATION:--каф.
+DTSTART:20251128T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fb012d8535ab85da3db8f858a9870424
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T113000Z
+LOCATION:--каф.
+DTSTART:20251031T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cbc4aacf4555a92fd72d7bf6d08b4b66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20250922T073000Z
+LOCATION:24-711
+DTSTART:20250922T060000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:c98131d16d25b954c6ea271fd3c843b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T091500Z
+LOCATION:--каф. 919
+DTSTART:20251028T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4f85873737eb9269aece5c08754a1392
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20250903T113000Z
+LOCATION:ГУК А-210
+DTSTART:20250903T100000Z
+SUMMARY:ПЗ Русский язык и культура речи
+UID:51c037ff6d9c097e98c1dc7ea7765495
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250923T113000Z
+LOCATION:24-711
+DTSTART:20250923T100000Z
+SUMMARY:ЛК Программирование
+UID:b68bd94c9b8d9975f798e0a450f5a3fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Падалко Сергей Николаевич
+DTEND:20250923T150000Z
+LOCATION:24-711
+DTSTART:20250923T133000Z
+SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
+UID:053a10a516327827b9bee6276c0d3cff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T113000Z
+LOCATION:--каф.
+DTSTART:20250912T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ef5229eb2ceb5f764bb81c557fe92722
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251103T131500Z
+LOCATION:24-717
+DTSTART:20251103T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:915bda5b984b27c598df80595ac46b8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250924T131500Z
+LOCATION:24-721
+DTSTART:20250924T114500Z
+SUMMARY:ЛР Операционные системы
+UID:8e09a6ac9f2aa6ec26d4042cce6b597c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251022T131500Z
+LOCATION:24-721
+DTSTART:20251022T114500Z
+SUMMARY:ЛР Операционные системы
+UID:fa16ef77368e15f5f38500d42ae5f249
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T073000Z
+LOCATION:--каф.
+DTSTART:20251031T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:83450fabf3e7e7c0c1281bb7d7dae463
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251209T131500Z
+LOCATION:24-711
+DTSTART:20251209T114500Z
+SUMMARY:ЛК Операционные системы
+UID:5614cb9b73e016abe37c6c21763c5db2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T113000Z
+LOCATION:--каф.
+DTSTART:20251219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9dde719f141420b255d5424aaf14958d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20250930T150000Z
+LOCATION:24-419
+DTSTART:20250930T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:c80ae454e788870bd7571416c1f2f2fb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T131500Z
+LOCATION:--каф.
+DTSTART:20251024T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5f5abcf680cf9e4085a132e43d6ad33a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251203T091500Z
+LOCATION:24-717
+DTSTART:20251203T074500Z
+SUMMARY:ЛР Программирование
+UID:226cfff1d153d1ac02618d404ec417fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250930T131500Z
+LOCATION:24-711
+DTSTART:20250930T114500Z
+SUMMARY:ЛК Операционные системы
+UID:91753d4cf577fa5cc62210556c81fede
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251029T150000Z
+LOCATION:24-711
+DTSTART:20251029T133000Z
+SUMMARY:ПЗ Программирование
+UID:c0fd8dfc4c29a96f966026058dfe7ba9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T073000Z
+LOCATION:--каф.
+DTSTART:20251128T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:52d204fcc2732f16a2de0862d5977c13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251120T091500Z
+LOCATION:24-717
+DTSTART:20251120T074500Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:75877a913525ae91cddd36c9a069ca60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251110T131500Z
+LOCATION:24-721
+DTSTART:20251110T114500Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:d38fc67dba65b153c3413760292d76e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250909T091500Z
+LOCATION:--каф. 919
+DTSTART:20250909T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:738ea9d52dae193ee4214bb89d653bc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251208T131500Z
+LOCATION:24-721
+DTSTART:20251208T114500Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:c9ff8c2b1942dde4f6e130684f1184e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251119T113000Z
+LOCATION:24-721
+DTSTART:20251119T100000Z
+SUMMARY:ЛР Операционные системы
+UID:c91ef7903867c6f661903efc3def63f8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251110T113000Z
+LOCATION:24-721
+DTSTART:20251110T100000Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:10a37fbdfc6d7c2028a3740ad30cbe96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251211T091500Z
+LOCATION:9-404
+DTSTART:20251211T074500Z
+SUMMARY:ЛК Русский язык и культура речи
+UID:68b036b623ff3921a7d265c6908bbb8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251119T073000Z
+LOCATION:24-717
+DTSTART:20251119T060000Z
+SUMMARY:ЛР Программирование
+UID:1b9d15287f6090b0c0f817047ababef2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T131500Z
+LOCATION:--каф. 919
+DTSTART:20250911T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b10294a39c9b1fa9a043be99e0eeb3a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T131500Z
+LOCATION:--каф. 919
+DTSTART:20251218T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c51025c504885242ca739132bd1fba9b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251211T073000Z
+LOCATION:24-711
+DTSTART:20251211T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:6b41deb186f26e492919d9c338f94d67
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T091500Z
+LOCATION:--каф. 919
+DTSTART:20251007T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:303adc7990df32440491f917439fc0cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T091500Z
+LOCATION:--каф. 919
+DTSTART:20251021T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:91af47586417fa4b289882cf92058c4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251113T073000Z
+LOCATION:24-711
+DTSTART:20251113T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:e22e5068f8f097c47fe492f812639cfc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251118T131500Z
+LOCATION:24-711
+DTSTART:20251118T114500Z
+SUMMARY:ЛК Операционные системы
+UID:087396c106c1cc3fa5c33ad4c047ffa5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251016T113000Z
+LOCATION:24-419
+DTSTART:20251016T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:f57fbcd2c1e7487c9384c10a6eac0746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251030T073000Z
+LOCATION:24-711
+DTSTART:20251030T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:9207c1002eee20a54feb48e9535a62d6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T113000Z
+LOCATION:--каф.
+DTSTART:20251114T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:09e3f98e9f187a8374a2f56030caa09a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251009T073000Z
+LOCATION:24-721
+DTSTART:20251009T060000Z
+SUMMARY:ЛР Системы моделирования
+UID:1c5d20da7ff19728d032fa6f2c943b9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T073000Z
+LOCATION:--каф.
+DTSTART:20250926T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:346434cb3396d750a2f48de6b47677d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251008T113000Z
+LOCATION:24-721
+DTSTART:20251008T100000Z
+SUMMARY:ЛР Операционные системы
+UID:f146ca352ea7f62d9dcca6c9ea0b9eb7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251016T073000Z
+LOCATION:24-711
+DTSTART:20251016T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:91a4dc37df3c1ca0670329e9a29fa91b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T131500Z
+LOCATION:--каф.
+DTSTART:20251205T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ce5a74c5247751c8a328cf9a6ca65c8c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T091500Z
+LOCATION:--каф.
+DTSTART:20251226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a8a1506192ff1fba0ddb8f313714370a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251217T131500Z
+LOCATION:24-721
+DTSTART:20251217T114500Z
+SUMMARY:ЛР Операционные системы
+UID:56b9314582858a0606ab0dff2fafa0bd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T091500Z
+LOCATION:--каф.
+DTSTART:20250912T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3670391a6e236afe51d75332a5de9928
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251111T131500Z
+LOCATION:24-711
+DTSTART:20251111T114500Z
+SUMMARY:ЛК Операционные системы
+UID:3f27b7199b62320f7c6752e31162b3f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T131500Z
+LOCATION:--каф. 919
+DTSTART:20250925T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7d8fc0f7dd0c5488502fcb73741dc99a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T131500Z
+LOCATION:--каф.
+DTSTART:20250919T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:34177aea7d23bb249dd3b42d687b13de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T131500Z
+LOCATION:--каф. 919
+DTSTART:20251009T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:915f132128ddc04ed6fe1044076a460c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T131500Z
+LOCATION:--каф.
+DTSTART:20250905T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0d0d635523d1c7007c9b24aa5170e993
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251222T091500Z
+LOCATION:24-717
+DTSTART:20251222T074500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:2b8baa502e630110301426fb97bf3fd4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251013T113000Z
+LOCATION:24-721
+DTSTART:20251013T100000Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:2164075cd7a755c003d55ddaeea9d4e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251215T091500Z
+LOCATION:24-711
+DTSTART:20251215T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:3a16a6ac91ed28e946e6ca06eeb20bf0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T131500Z
+LOCATION:--каф.
+DTSTART:20251010T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e24babbcb22aa65c8df715c928916c45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250924T073000Z
+LOCATION:24-717
+DTSTART:20250924T060000Z
+SUMMARY:ЛР Программирование
+UID:641c5ac643072f858d25044162f04d50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251028T113000Z
+LOCATION:24-711
+DTSTART:20251028T100000Z
+SUMMARY:ЛК Программирование
+UID:6160589589283ac1248c2afdb5ced11a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251125T091500Z
+LOCATION:--каф. 919
+DTSTART:20251125T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6da1e5534670bff88911e76c48a9cdcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251009T113000Z
+LOCATION:24-419
+DTSTART:20251009T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:344441696192e058d9e7c129938fa030
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T131500Z
+LOCATION:--каф. 919
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d109d107e33d680aacb30319c78ba010
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251222T073000Z
+LOCATION:24-717
+DTSTART:20251222T060000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:6a33110636d4a4300ddd4b8c8ba630e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T073000Z
+LOCATION:--каф.
+DTSTART:20251114T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a4c72c8d00bae1c6f842b35657bde8b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20250904T113000Z
+LOCATION:24-419
+DTSTART:20250904T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:2f56d7533b21ec689cc68367b8df8c21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T091500Z
+LOCATION:--каф.
+DTSTART:20251107T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:48183dd72a99d0b67c334ac13c3ef895
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20251009T091500Z
+LOCATION:24-721
+DTSTART:20251009T074500Z
+SUMMARY:ЛР Системы моделирования
+UID:7ec55c0af438d8dc32339d968fa3ac85
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T113000Z
+LOCATION:--каф.
+DTSTART:20250905T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:87674340e823abf57c6d75a5b0ac280f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251111T150000Z
+LOCATION:24-419
+DTSTART:20251111T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:7f977cd1615a1171d86bcbc5b4391c8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251030T091500Z
+LOCATION:9-404
+DTSTART:20251030T074500Z
+SUMMARY:ЛК Русский язык и культура речи
+UID:68dbaeeee9112bb092f41c94bb6f0cad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250930T113000Z
 LOCATION:24-711
 DTSTART:20250930T100000Z
@@ -133,50 +1244,11 @@ UID:8f5b8609f353809997520baead51a3c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251023T113000Z
-LOCATION:24-419
-DTSTART:20251023T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:024522600c08f940235551a8622ce0e2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251023T073000Z
-LOCATION:24-721
-DTSTART:20251023T060000Z
-SUMMARY:ЛР Системы моделирования
-UID:592c2d8a579e807e5bd3ea98a52d658a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
 DTEND:20251204T073000Z
 LOCATION:24-717
 DTSTART:20251204T060000Z
 SUMMARY:ЛР CAD/CAE-системы
 UID:8462ff088c67fbc9950ea6ff6db3c982
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251112T150000Z
-LOCATION:24-711
-DTSTART:20251112T133000Z
-SUMMARY:ПЗ Программирование
-UID:fa66ca7df24134b68be78f9b401415fd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T073000Z
-LOCATION:--каф.
-DTSTART:20251205T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5054030baa499fd430721da80c3b9bd1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251210T113000Z
-LOCATION:ГУК А-210
-DTSTART:20251210T100000Z
-SUMMARY:ПЗ Русский язык и культура речи
-UID:09ecdd9e26ec7ef872a5bb939bfe4ebc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -203,35 +1275,12 @@ SUMMARY:ЛК Математические основы компьютерной 
 UID:3ced2c012a832fcc221b5f688de431e2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20250918T073000Z
-LOCATION:24-711
-DTSTART:20250918T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:5682ea90218e915a21b8222083987c9a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
 DTEND:20251126T113000Z
 LOCATION:ГУК А-210
 DTSTART:20251126T100000Z
 SUMMARY:ПЗ Русский язык и культура речи
 UID:22672c75b016d8f62939522693b9632f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:--каф.
-DTSTART:20251010T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f7d11220394998ce5dee1842efada676
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251014T113000Z
-LOCATION:24-711
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Программирование
-UID:584f79a9f2bb762efec0d7af95c82f87
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -242,111 +1291,11 @@ SUMMARY:ЛК Программирование
 UID:e38cc962768021ae9fdab6423af29086
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T113000Z
-LOCATION:--каф.
-DTSTART:20250919T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e5a422b64134ce15d2817131dc6ebb49
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T091500Z
-LOCATION:--каф. 919
-DTSTART:20251216T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:b35afe9033926a1895d29a5f09180e3f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250910T131500Z
-LOCATION:24-721
-DTSTART:20250910T114500Z
-SUMMARY:ЛР Операционные системы
-UID:974dbf1ca477c8856d0f2dcc3ca1ec72
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251022T113000Z
-LOCATION:24-721
-DTSTART:20251022T100000Z
-SUMMARY:ЛР Операционные системы
-UID:6a47e69b34f5828eac4d30abc19755aa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:--каф.
-DTSTART:20251017T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a9431ebd012642b182eb447b1fc01b11
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251105T113000Z
-LOCATION:24-721
-DTSTART:20251105T100000Z
-SUMMARY:ЛР Операционные системы
-UID:7557df13e2bc390c949aec0f80c21688
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250923T131500Z
-LOCATION:24-711
-DTSTART:20250923T114500Z
-SUMMARY:ЛК Операционные системы
-UID:a9917d325822b3d9dc6973c4f1e9c028
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251208T091500Z
-LOCATION:24-717
-DTSTART:20251208T074500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:87adc87ece1323fdb8736648d6b73f06
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251024T073000Z
 LOCATION:--каф.
 DTSTART:20251024T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:b52d8eb543b6617700b371d33b9a7e27
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251125T131500Z
-LOCATION:24-711
-DTSTART:20251125T114500Z
-SUMMARY:ЛК Операционные системы
-UID:659d48597cbaafe87d45512b8ebe430b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251021T113000Z
-LOCATION:24-711
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Программирование
-UID:fb43b6a9b013f50973ab8a05be0998d2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Падалко Сергей Николаевич
-DTEND:20251118T150000Z
-LOCATION:24-711
-DTSTART:20251118T133000Z
-SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
-UID:3090ae4da5da5bd700a792697916fb00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суворова Анна Борисовна
-DTEND:20250917T131500Z
-LOCATION:24-413
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
-UID:7ccb79b1801109febd9c527751a1c90d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T073000Z
-LOCATION:--каф.
-DTSTART:20251107T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c4cc6d24eec02e2b42d9ee4e27c18f04
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T113000Z
@@ -356,12 +1305,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:ef6974a1ac3e8999a8683376b557085b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251215T113000Z
-LOCATION:24-717
-DTSTART:20251215T100000Z
-SUMMARY:ЛР Информационные технологии
-UID:d32ad95a80762343ddeaa98b926203b8
+DTEND:20251107T073000Z
+LOCATION:--каф.
+DTSTART:20251107T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c4cc6d24eec02e2b42d9ee4e27c18f04
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T073000Z
@@ -371,72 +1319,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:083b793ed12c09a52f5e7a6477c94eb1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251015T113000Z
-LOCATION:ГУК А-210
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Русский язык и культура речи
-UID:70641728153a84b3577b4f0b83747c3e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Денисова Анастасия Николаевна
 DTEND:20251208T073000Z
 LOCATION:24-717
 DTSTART:20251208T060000Z
 SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
 UID:2b4b087e7184b127d66a0d2b7a6f3e4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251230T091500Z
-LOCATION:--каф. 919
-DTSTART:20251230T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:873558026b1a1c59f2177c76c2fda9fb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T091500Z
-LOCATION:--каф. 919
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:0d1a862429a578d1451533cdee84da6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T091500Z
-LOCATION:--каф. 919
-DTSTART:20251014T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:94edca64107c76c85ca5913de0089ebc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251029T113000Z
-LOCATION:ГУК А-210
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Русский язык и культура речи
-UID:ee02ff385299d9cdff6157f29c2a8e79
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T131500Z
-LOCATION:--каф. 919
-DTSTART:20250904T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:cbba1ed039352de131eb26cd440dd9ba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251007T131500Z
-LOCATION:24-711
-DTSTART:20251007T114500Z
-SUMMARY:ЛК Операционные системы
-UID:9533e1a96624dfc07bb10ac6673e1090
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251125T113000Z
-LOCATION:24-711
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Программирование
-UID:3d767a1d049fe8fa9551beae67e3f7cb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T113000Z
@@ -454,30 +1342,6 @@ SUMMARY:ЛК Информационно-аналитические систем�
 UID:9c5d1f3c594867698097be9e354f1ff4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250924T091500Z
-LOCATION:24-717
-DTSTART:20250924T074500Z
-SUMMARY:ЛР Программирование
-UID:7e661dba5c458b02a17d555cdd93f010
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251119T131500Z
-LOCATION:24-721
-DTSTART:20251119T114500Z
-SUMMARY:ЛР Операционные системы
-UID:de0c7000846811b146c906a75a9a6fa1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251007T113000Z
-LOCATION:24-711
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Программирование
-UID:fe809d99cc2235ebe07664e2257d97e5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мартынов Евгений Александрович
 DTEND:20250925T091500Z
 LOCATION:24-721
@@ -486,42 +1350,11 @@ SUMMARY:ЛР Системы моделирования
 UID:23556ab31a82b42805fee9cd21848cdb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Суворова Анна Борисовна
-DTEND:20251001T131500Z
-LOCATION:24-413
-DTSTART:20251001T114500Z
-SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
-UID:5818cab74321e9327ca340a5bb4d1879
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251204T113000Z
-LOCATION:24-419
-DTSTART:20251204T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:066382a96234b58457172e15b5c30a0d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251120T131500Z
 LOCATION:--каф. 919
 DTSTART:20251120T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:b87f953603e15b0a9489a925134922c1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T073000Z
-LOCATION:--каф.
-DTSTART:20251226T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2463ce57eb667ce619fd685585469af0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251105T091500Z
-LOCATION:24-717
-DTSTART:20251105T074500Z
-SUMMARY:ЛР Программирование
-UID:b1c4ff6ada7ac544b9005df36d7ce3cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
@@ -532,40 +1365,11 @@ SUMMARY:ЛК Русский язык и культура речи
 UID:3b0e200b9fe83793d4afc61214b77434
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250930T091500Z
-LOCATION:--каф. 919
-DTSTART:20250930T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:2600d4a794f20f4eaa7356aedd4218f2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251017T113000Z
 LOCATION:--каф.
 DTSTART:20251017T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:35b119e7972b76886b0fca14a7a53d17
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:--каф.
-DTSTART:20251128T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fb012d8535ab85da3db8f858a9870424
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:--каф.
-DTSTART:20251031T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:cbc4aacf4555a92fd72d7bf6d08b4b66
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20250922T073000Z
-LOCATION:24-711
-DTSTART:20250922T060000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:c98131d16d25b954c6ea271fd3c843b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -576,33 +1380,11 @@ SUMMARY:ЛК Операционные системы
 UID:209c62dd93733225fdb4645271e78cc4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:--каф. 919
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:18ca6d4bc4e62c8f53bca2e61b7167f6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251204T131500Z
 LOCATION:--каф. 919
 DTSTART:20251204T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:af30428cfa2d0642cc086e79412cefa2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T091500Z
-LOCATION:--каф. 919
-DTSTART:20251028T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4f85873737eb9269aece5c08754a1392
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20250903T113000Z
-LOCATION:ГУК А-210
-DTSTART:20250903T100000Z
-SUMMARY:ПЗ Русский язык и культура речи
-UID:51c037ff6d9c097e98c1dc7ea7765495
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондрашов Юрий Николаевич
@@ -613,105 +1395,11 @@ SUMMARY:ЛК Информационно-аналитические систем�
 UID:e6d3aa487c6aa6285c7d518c88fa697d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Падалко Сергей Николаевич
-DTEND:20251021T150000Z
-LOCATION:24-711
-DTSTART:20251021T133000Z
-SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
-UID:1acf6f2e6e409a255c0eb3b1a19a21bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250923T113000Z
-LOCATION:24-711
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Программирование
-UID:b68bd94c9b8d9975f798e0a450f5a3fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Падалко Сергей Николаевич
-DTEND:20250923T150000Z
-LOCATION:24-711
-DTSTART:20250923T133000Z
-SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
-UID:053a10a516327827b9bee6276c0d3cff
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251003T091500Z
 LOCATION:--каф.
 DTSTART:20251003T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:42e15f100f69e5be50b553cf13568d60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20251006T073000Z
-LOCATION:24-711
-DTSTART:20251006T060000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:bd658c22d540520ec58d70eeeebc4e87
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250916T131500Z
-LOCATION:24-711
-DTSTART:20250916T114500Z
-SUMMARY:ЛК Операционные системы
-UID:cdaa1f4f06292f822962602aecfe8907
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20260123T073000Z
-LOCATION:24-709
-DTSTART:20260123T060000Z
-SUMMARY:Экзамен Программирование
-UID:dacf4441a70994468d37e6b3820d8cdd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20250922T131500Z
-LOCATION:24-717
-DTSTART:20250922T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:f8a42fc004e98136da274c33c550b420
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20250904T091500Z
-LOCATION:9-404
-DTSTART:20250904T074500Z
-SUMMARY:ЛК Русский язык и культура речи
-UID:1046a5b88da53febd986f88d3f26c95c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T131500Z
-LOCATION:--каф.
-DTSTART:20250926T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:bc20fc23f67d691b0d3c82fb8367efb7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251014T150000Z
-LOCATION:24-419
-DTSTART:20251014T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:696c105f6f10f50a72b22ec8b8ed48ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20260123T091500Z
-LOCATION:24-709
-DTSTART:20260123T074500Z
-SUMMARY:Экзамен Программирование
-UID:7997dfa6f9d67cde84221014d812a5bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:--каф.
-DTSTART:20250912T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ef5229eb2ceb5f764bb81c557fe92722
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
@@ -722,36 +1410,12 @@ SUMMARY:ЛР Математические основы компьютерной 
 UID:5fbea202e010b8cbf15135e3c527ff49
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251209T150000Z
-LOCATION:24-419
-DTSTART:20251209T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:563f6e4cf6b9d09fd2fae2b590aaa728
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250902T131500Z
-LOCATION:24-711
-DTSTART:20250902T114500Z
-SUMMARY:ЛК Операционные системы
-UID:f52017941e6c1cd59bec6c07f5ac6126
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
 DTEND:20251201T131500Z
 LOCATION:24-717
 DTSTART:20251201T114500Z
 SUMMARY:ЛР Информационные технологии
 UID:ec37905767a12461dd63283eb4e8851e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251216T131500Z
-LOCATION:24-711
-DTSTART:20251216T114500Z
-SUMMARY:ЛК Операционные системы
-UID:4ee5227da80169be188958f9e3d8fcbd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
@@ -763,56 +1427,11 @@ UID:8d08282ef507fba895d2c3b4842c85cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250924T131500Z
-LOCATION:24-721
-DTSTART:20250924T114500Z
-SUMMARY:ЛР Операционные системы
-UID:8e09a6ac9f2aa6ec26d4042cce6b597c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:--каф. 919
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:c13cf1be105d3c0bef6351b8732ec339
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251022T131500Z
-LOCATION:24-721
-DTSTART:20251022T114500Z
-SUMMARY:ЛР Операционные системы
-UID:fa16ef77368e15f5f38500d42ae5f249
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:--каф.
-DTSTART:20251031T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f5dd255fe7eb0bde56733ae4f7c6606b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20250908T091500Z
-LOCATION:24-711
-DTSTART:20250908T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:b199d76b0df73a1887d7b59fb1af4a70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250910T113000Z
 LOCATION:24-721
 DTSTART:20250910T100000Z
 SUMMARY:ЛР Операционные системы
 UID:35950d59dc7068f4c99ae129531b8e6d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T073000Z
-LOCATION:--каф.
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:83450fabf3e7e7c0c1281bb7d7dae463
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
@@ -823,34 +1442,12 @@ SUMMARY:ЛР Информационные технологии
 UID:ed021cad7f312ab0e9f252c63f4b2b28
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:--каф.
-DTSTART:20251205T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:52291fb22b8f0852c318340e8fccecca
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20251028T131500Z
 LOCATION:24-711
 DTSTART:20251028T114500Z
 SUMMARY:ЛК Операционные системы
 UID:1762f51a745529cae60b2ca59d020f31
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:--каф.
-DTSTART:20251121T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:eb983aa09f2799532de5311a45de6a30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251209T131500Z
-LOCATION:24-711
-DTSTART:20251209T114500Z
-SUMMARY:ЛК Операционные системы
-UID:5614cb9b73e016abe37c6c21763c5db2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250916T091500Z
@@ -868,36 +1465,6 @@ SUMMARY:ЛР Операционные системы
 UID:9113aeb28092210c8ac2429b69ba0c77
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:--каф.
-DTSTART:20251219T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9dde719f141420b255d5424aaf14958d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20250930T150000Z
-LOCATION:24-419
-DTSTART:20250930T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:c80ae454e788870bd7571416c1f2f2fb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251117T113000Z
-LOCATION:24-717
-DTSTART:20251117T100000Z
-SUMMARY:ЛР Информационные технологии
-UID:adafeb9c5db3f12e49b2b9e372d01348
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T131500Z
-LOCATION:--каф.
-DTSTART:20251128T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:136e92f12e64aa7040c4719141fe2a1e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250903T150000Z
 LOCATION:24-711
@@ -906,41 +1473,11 @@ SUMMARY:ПЗ Программирование
 UID:3a4eaf6510383b801c981188d920e84e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T131500Z
-LOCATION:--каф.
-DTSTART:20251024T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5f5abcf680cf9e4085a132e43d6ad33a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251121T131500Z
 LOCATION:--каф.
 DTSTART:20251121T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:87e0e27b6b8ae2e1ebbc691e5c567892
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T131500Z
-LOCATION:--каф. 919
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:c19b42a711471690ef08cbe1b252bb5c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251203T091500Z
-LOCATION:24-717
-DTSTART:20251203T074500Z
-SUMMARY:ЛР Программирование
-UID:226cfff1d153d1ac02618d404ec417fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251027T131500Z
-LOCATION:24-721
-DTSTART:20251027T114500Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:5e6842d5eab01b78f5aa400b4f49f138
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартынов Евгений Александрович
@@ -951,51 +1488,6 @@ SUMMARY:ЛК Системы моделирования
 UID:ad4e84c48b7e828caeaedf46e4831769
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T131500Z
-LOCATION:--каф.
-DTSTART:20251219T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b6636b334648c9b8d3d43725a00695b2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251218T073000Z
-LOCATION:24-717
-DTSTART:20251218T060000Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:6b0485291cd83a9c66ae7ad3a6661a03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250930T131500Z
-LOCATION:24-711
-DTSTART:20250930T114500Z
-SUMMARY:ЛК Операционные системы
-UID:91753d4cf577fa5cc62210556c81fede
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251119T091500Z
-LOCATION:24-717
-DTSTART:20251119T074500Z
-SUMMARY:ЛР Программирование
-UID:3db357017567141085f447fd19c2a965
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:--каф. 919
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:ea010a735ffe21ca02cf82aeb5633ac7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:--каф.
-DTSTART:20251128T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7ca8580d7d731eec254d493bc0b10cd9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250909T113000Z
 LOCATION:24-711
@@ -1004,27 +1496,11 @@ SUMMARY:ЛК Программирование
 UID:e0028fd165511ce7538b9c85559ae54c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251211T113000Z
-LOCATION:24-419
-DTSTART:20251211T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:2f7bd625a5dcdc849e6d8e3079977154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251106T113000Z
-LOCATION:24-419
-DTSTART:20251106T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:06b0efb0dae56653ee3db474a16defd5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T073000Z
+DTEND:20251212T131500Z
 LOCATION:--каф.
-DTSTART:20251003T060000Z
+DTSTART:20251212T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:a694a05b860c73f356bfecf22c7066c1
+UID:9144290dc15ae56e16b1569bda2ac11d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251114T131500Z
@@ -1032,13 +1508,6 @@ LOCATION:--каф.
 DTSTART:20251114T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:9af5af616369f80d26952570521e55d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T131500Z
-LOCATION:--каф.
-DTSTART:20251212T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9144290dc15ae56e16b1569bda2ac11d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
@@ -1049,14 +1518,6 @@ SUMMARY:ЛК Математические основы компьютерной 
 UID:1551ffcabd80428b627f19a897fa123f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20260119T091500Z
-LOCATION:24-709
-DTSTART:20260119T074500Z
-SUMMARY:Экзамен Операционные системы
-UID:62f80be606ed3ef3bb1727d1af3e9800
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Падалко Сергей Николаевич
 DTEND:20251202T150000Z
 LOCATION:24-711
@@ -1065,105 +1526,11 @@ SUMMARY:ЛК Системный анализ этапов жизненного �
 UID:8d1b398f81e66dfde1d7b18e49a0110c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251029T150000Z
-LOCATION:24-711
-DTSTART:20251029T133000Z
-SUMMARY:ПЗ Программирование
-UID:c0fd8dfc4c29a96f966026058dfe7ba9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251113T113000Z
-LOCATION:24-419
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:5f001b188e8c31dbc5b1c46c4ae2eb46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20250925T113000Z
-LOCATION:24-419
-DTSTART:20250925T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:06af08e9d44771fdffbc50169c783d42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T073000Z
-LOCATION:--каф.
-DTSTART:20251128T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:52d204fcc2732f16a2de0862d5977c13
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251120T091500Z
-LOCATION:24-717
-DTSTART:20251120T074500Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:75877a913525ae91cddd36c9a069ca60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251110T131500Z
-LOCATION:24-721
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:d38fc67dba65b153c3413760292d76e9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251111T113000Z
-LOCATION:24-711
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Программирование
-UID:35d4d077945addff84ef7848c730c6fd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T091500Z
-LOCATION:--каф. 919
-DTSTART:20250909T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:738ea9d52dae193ee4214bb89d653bc0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251121T073000Z
 LOCATION:--каф.
 DTSTART:20251121T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:65a14eec851074a731f70eeb2a2feaf5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251203T131500Z
-LOCATION:24-721
-DTSTART:20251203T114500Z
-SUMMARY:ЛР Операционные системы
-UID:3735a22e26b6e378d3952c8b728e2c76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251119T113000Z
-LOCATION:24-721
-DTSTART:20251119T100000Z
-SUMMARY:ЛР Операционные системы
-UID:c91ef7903867c6f661903efc3def63f8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20250925T073000Z
-LOCATION:24-721
-DTSTART:20250925T060000Z
-SUMMARY:ЛР Системы моделирования
-UID:15ce0b685c471bcb0ef53929ce9975d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251110T113000Z
-LOCATION:24-721
-DTSTART:20251110T100000Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:10a37fbdfc6d7c2028a3740ad30cbe96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
@@ -1174,54 +1541,6 @@ SUMMARY:ЛК Информационные технологии
 UID:ffd78cc6c6feac19d98c07dd258af688
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251208T131500Z
-LOCATION:24-721
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:c9ff8c2b1942dde4f6e130684f1184e6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251202T131500Z
-LOCATION:24-711
-DTSTART:20251202T114500Z
-SUMMARY:ЛК Операционные системы
-UID:3ca2f15b492895c6eed70de58d28b14a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251211T091500Z
-LOCATION:9-404
-DTSTART:20251211T074500Z
-SUMMARY:ЛК Русский язык и культура речи
-UID:68b036b623ff3921a7d265c6908bbb8b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251119T073000Z
-LOCATION:24-717
-DTSTART:20251119T060000Z
-SUMMARY:ЛР Программирование
-UID:1b9d15287f6090b0c0f817047ababef2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251124T091500Z
-LOCATION:24-717
-DTSTART:20251124T074500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:e844d44309e0f1c8762e3880b9252ec6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251217T091500Z
-LOCATION:24-717
-DTSTART:20251217T074500Z
-SUMMARY:ЛР Программирование
-UID:6068aa4747026d82f2e55a9340a424a9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250905T091500Z
 LOCATION:--каф.
 DTSTART:20250905T074500Z
@@ -1229,57 +1548,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:800e3a9e19dca8b820ad9b19b1eadfe3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20250911T113000Z
-LOCATION:24-419
-DTSTART:20250911T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:f95703215da9f334859f932fd9f415bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T131500Z
-LOCATION:--каф. 919
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:b10294a39c9b1fa9a043be99e0eeb3a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T131500Z
-LOCATION:--каф. 919
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:c51025c504885242ca739132bd1fba9b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суворова Анна Борисовна
-DTEND:20251112T131500Z
-LOCATION:24-413
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
-UID:d11fd9675e7f1cf74135a5427e77ce0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251110T073000Z
-LOCATION:24-717
-DTSTART:20251110T060000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:874d2fc73294468292803a4a4807d184
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251211T073000Z
-LOCATION:24-711
-DTSTART:20251211T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:6b41deb186f26e492919d9c338f94d67
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T091500Z
-LOCATION:--каф. 919
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:303adc7990df32440491f917439fc0cd
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20260119T073000Z
+LOCATION:24-709
+DTSTART:20260119T060000Z
+SUMMARY:Экзамен Операционные системы
+UID:304069f34551c6fe84ed76c3c5fb0aa6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Падалко Сергей Николаевич
@@ -1288,6 +1562,14 @@ LOCATION:24-711
 DTSTART:20251216T133000Z
 SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
 UID:cfb8245c779069bf3c85c07cee6d8cdf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20260115T073000Z
+LOCATION:24-709
+DTSTART:20260115T060000Z
+SUMMARY:Экзамен Математические основы компьютерной графики
+UID:a3f773591a7101720b4e372ff20f4cfb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
@@ -1299,80 +1581,11 @@ UID:06f3c95d1b479a4b1a99551e4e2d226a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251013T131500Z
-LOCATION:24-721
-DTSTART:20251013T114500Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:3afd1ae5e2461a1e989af85709fc298b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
 DTEND:20251225T113000Z
 LOCATION:24-419
 DTSTART:20251225T100000Z
 SUMMARY:ЛК Математические основы компьютерной графики
 UID:28601b603a275e56d196b6f9591fe5f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251217T073000Z
-LOCATION:24-717
-DTSTART:20251217T060000Z
-SUMMARY:ЛР Программирование
-UID:ee717fff760fdbeb5eb6d7582eb22ad2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20260115T073000Z
-LOCATION:24-709
-DTSTART:20260115T060000Z
-SUMMARY:Экзамен Математические основы компьютерной графики
-UID:a3f773591a7101720b4e372ff20f4cfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251006T131500Z
-LOCATION:24-717
-DTSTART:20251006T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:4248fab279752a1e6f1ff6fb86a8e111
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T131500Z
-LOCATION:--каф. 919
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:e674f4200d91727d4a3b1d681103b5ee
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T091500Z
-LOCATION:--каф. 919
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4f3dafd9720128087096908bc17ca858
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251204T091500Z
-LOCATION:24-717
-DTSTART:20251204T074500Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:8a0855d0702014d64a759ea3c410cd2a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T091500Z
-LOCATION:--каф. 919
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:91af47586417fa4b289882cf92058c4d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251113T073000Z
-LOCATION:24-711
-DTSTART:20251113T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:e22e5068f8f097c47fe492f812639cfc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -1384,35 +1597,11 @@ UID:af07223974c7361638dc0e2e16e531d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251118T131500Z
-LOCATION:24-711
-DTSTART:20251118T114500Z
-SUMMARY:ЛК Операционные системы
-UID:087396c106c1cc3fa5c33ad4c047ffa5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250924T113000Z
 LOCATION:24-721
 DTSTART:20250924T100000Z
 SUMMARY:ЛР Операционные системы
 UID:dcfaf0b1b340ed6006ca675c64a2a081
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251016T113000Z
-LOCATION:24-419
-DTSTART:20251016T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:f57fbcd2c1e7487c9384c10a6eac0746
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251030T073000Z
-LOCATION:24-711
-DTSTART:20251030T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:9207c1002eee20a54feb48e9535a62d6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250905T073000Z
@@ -1422,58 +1611,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:2991359dfdebc12a878a0248f240c6db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20250911T091500Z
-LOCATION:24-721
-DTSTART:20250911T074500Z
-SUMMARY:ЛР Системы моделирования
-UID:b92dd91a2ec929a59219b4139a4b8514
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суворова Анна Борисовна
 DTEND:20251126T131500Z
 LOCATION:24-413
 DTSTART:20251126T114500Z
 SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
 UID:ad48a9b532f8e2601b76727dcaddfc20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251022T073000Z
-LOCATION:24-717
-DTSTART:20251022T060000Z
-SUMMARY:ЛР Программирование
-UID:8fe2f29be80896ad6579bad997b24e49
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:--каф.
-DTSTART:20251114T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:09e3f98e9f187a8374a2f56030caa09a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251009T073000Z
-LOCATION:24-721
-DTSTART:20251009T060000Z
-SUMMARY:ЛР Системы моделирования
-UID:1c5d20da7ff19728d032fa6f2c943b9a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251014T131500Z
-LOCATION:24-711
-DTSTART:20251014T114500Z
-SUMMARY:ЛК Операционные системы
-UID:f7a93a359e41c5ee7728ee02530ee239
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T073000Z
-LOCATION:--каф.
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:346434cb3396d750a2f48de6b47677d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -1492,51 +1635,12 @@ SUMMARY:ЛР Информационно-аналитические систем�
 UID:1d9d5ef7987f73f2000da3bd7410056b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251118T113000Z
-LOCATION:24-711
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Программирование
-UID:3d3b96d52156df7345d3859e72b82468
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кондрашов Юрий Николаевич
 DTEND:20251215T073000Z
 LOCATION:24-711
 DTSTART:20251215T060000Z
 SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
 UID:ced7f50deed7c82281590d16e6ed9e8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251020T091500Z
-LOCATION:24-711
-DTSTART:20251020T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:06e7d081f438af6fb96973e2d3bb544e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T091500Z
-LOCATION:--каф.
-DTSTART:20251212T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7cd8eb2b37c6f3b0539df6399719cb8f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251008T091500Z
-LOCATION:24-717
-DTSTART:20251008T074500Z
-SUMMARY:ЛР Программирование
-UID:4762e3fb39b05b0b70668d77070d05ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251223T131500Z
-LOCATION:24-711
-DTSTART:20251223T114500Z
-SUMMARY:ЛК Операционные системы
-UID:23378af45465aaeac28b53806ff7d65e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251205T091500Z
@@ -1546,34 +1650,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:815ce33081d4b5f6c1303c521eb81dc6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20260115T091500Z
-LOCATION:24-709
-DTSTART:20260115T074500Z
-SUMMARY:Экзамен Математические основы компьютерной графики
-UID:ebff4da97133ff29fcb022ea9907e109
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250912T131500Z
 LOCATION:--каф.
 DTSTART:20250912T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:aacb6a7bfee4f5436017df1e1ff2003b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251008T113000Z
-LOCATION:24-721
-DTSTART:20251008T100000Z
-SUMMARY:ЛР Операционные системы
-UID:f146ca352ea7f62d9dcca6c9ea0b9eb7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T073000Z
-LOCATION:--каф.
-DTSTART:20251010T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:314f49d4f541b038e5d491e304ec9902
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
@@ -1584,22 +1665,6 @@ SUMMARY:ЛК Русский язык и культура речи
 UID:d44b0a43c695480c9b194424aafb5358
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251203T073000Z
-LOCATION:24-717
-DTSTART:20251203T060000Z
-SUMMARY:ЛР Программирование
-UID:cc93dd4b2e7cf200ff299bdb8a89461f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251016T073000Z
-LOCATION:24-711
-DTSTART:20251016T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:91a4dc37df3c1ca0670329e9a29fa91b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мартынов Евгений Александрович
 DTEND:20251225T073000Z
 LOCATION:24-711
@@ -1608,89 +1673,12 @@ SUMMARY:ЛК Системы моделирования
 UID:4aacd9df793e45ca0114d46c1ccea7b9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T131500Z
-LOCATION:--каф.
-DTSTART:20251205T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ce5a74c5247751c8a328cf9a6ca65c8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20260119T073000Z
-LOCATION:24-709
-DTSTART:20260119T060000Z
-SUMMARY:Экзамен Операционные системы
-UID:304069f34551c6fe84ed76c3c5fb0aa6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
 DTEND:20251006T113000Z
 LOCATION:24-717
 DTSTART:20251006T100000Z
 SUMMARY:ЛР Информационные технологии
 UID:187d8a62ccb5d60d2188abec3f6f6304
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251105T131500Z
-LOCATION:24-721
-DTSTART:20251105T114500Z
-SUMMARY:ЛР Операционные системы
-UID:ffb2411d8428900be9a7a60ba015e962
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T091500Z
-LOCATION:--каф.
-DTSTART:20251226T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a8a1506192ff1fba0ddb8f313714370a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251125T150000Z
-LOCATION:24-419
-DTSTART:20251125T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:c001479918d3dc6c029d08a35d92c006
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20251002T073000Z
-LOCATION:24-711
-DTSTART:20251002T060000Z
-SUMMARY:ЛК Системы моделирования
-UID:4cc4725d8fd97e83cdaffdac3f68a002
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T131500Z
-LOCATION:--каф.
-DTSTART:20251107T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:060cea494c4f70cbd9049cf32d2f29ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251217T131500Z
-LOCATION:24-721
-DTSTART:20251217T114500Z
-SUMMARY:ЛР Операционные системы
-UID:56b9314582858a0606ab0dff2fafa0bd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251117T091500Z
-LOCATION:24-711
-DTSTART:20251117T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:08e62a08cdb3ced8386222969fe43147
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251124T131500Z
-LOCATION:24-721
-DTSTART:20251124T114500Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:904bd4bbbc46a0b27a85d968e8f6fd90
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T073000Z
@@ -1708,45 +1696,6 @@ UID:b4e1311e7d46f07cdd2a2a88d1d0e1b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251106T091500Z
-LOCATION:24-717
-DTSTART:20251106T074500Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:00e34ac32897c53e1d36a49653441a71
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20250918T113000Z
-LOCATION:24-419
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:761150a0ac83e1e6f81d45a81d98c13e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251215T131500Z
-LOCATION:24-717
-DTSTART:20251215T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:976dc495e71b3227e285fa11ba4e7c4c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:--каф.
-DTSTART:20251114T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:435d2aaf77408ec61d9eb95155cc0c23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251124T073000Z
-LOCATION:24-717
-DTSTART:20251124T060000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:55bd82a8f8fb96e37dcb5b59f9d6a99c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
 DTEND:20251218T091500Z
 LOCATION:24-717
 DTSTART:20251218T074500Z
@@ -1761,42 +1710,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:2b8fd8fe8c8caa11a1dfa983b339e707
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:--каф.
-DTSTART:20250912T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3670391a6e236afe51d75332a5de9928
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
 DTEND:20250910T091500Z
 LOCATION:24-717
 DTSTART:20250910T074500Z
 SUMMARY:ПЗ Программирование
 UID:3fe7e21bb4c3167632b894aef50114f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:--каф.
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:49471f05f962a6b3da64719c996d37b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251120T073000Z
-LOCATION:24-717
-DTSTART:20251120T060000Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:0ae70e8a19267011deb0aac8a7714d25
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20250908T073000Z
-LOCATION:24-711
-DTSTART:20250908T060000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:ffa85589a58e551493cd01442c724744
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
@@ -1812,14 +1731,6 @@ LOCATION:--каф.
 DTSTART:20250919T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:8bb073d383a30f1c7dbaa12e244d6113
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251022T091500Z
-LOCATION:24-717
-DTSTART:20251022T074500Z
-SUMMARY:ЛР Программирование
-UID:a7590eaa4557f9b678cb8b95000fb160
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суворова Анна Борисовна
@@ -1838,37 +1749,6 @@ SUMMARY:ЛР Математические основы компьютерной 
 UID:8178172972dc51f57fd0b18d998f0bfe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:--каф.
-DTSTART:20251003T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7b82403592fa527f695b0f528a2f50cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартынов Евгений Александрович
-DTEND:20250911T073000Z
-LOCATION:24-721
-DTSTART:20250911T060000Z
-SUMMARY:ЛР Системы моделирования
-UID:64f4b4576c6c300a97d974b898b32c03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251105T073000Z
-LOCATION:24-717
-DTSTART:20251105T060000Z
-SUMMARY:ЛР Программирование
-UID:d3f088f98afaec6c2d3adffddfd1c215
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251111T131500Z
-LOCATION:24-711
-DTSTART:20251111T114500Z
-SUMMARY:ЛК Операционные системы
-UID:3f27b7199b62320f7c6752e31162b3f7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Широкова Ирина Олеговна
 DTEND:20251127T091500Z
 LOCATION:9-404
@@ -1877,47 +1757,12 @@ SUMMARY:ЛК Русский язык и культура речи
 UID:baf6d878f555532bf952d4d2c58aa81c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T131500Z
-LOCATION:--каф. 919
-DTSTART:20250925T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7d8fc0f7dd0c5488502fcb73741dc99a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T131500Z
-LOCATION:--каф.
-DTSTART:20250919T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:34177aea7d23bb249dd3b42d687b13de
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:--каф. 919
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:915f132128ddc04ed6fe1044076a460c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T091500Z
-LOCATION:--каф.
-DTSTART:20251121T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f86cc772242e90adeb5b499870e504a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Падалко Сергей Николаевич
-DTEND:20251007T150000Z
-LOCATION:24-711
-DTSTART:20251007T133000Z
-SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
-UID:47f02b947f25a5c777ead14a8a03db0b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T073000Z
-LOCATION:--каф.
-DTSTART:20251017T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1a4e220eaefc5582718c89ea230ed287
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20250911T073000Z
+LOCATION:24-721
+DTSTART:20250911T060000Z
+SUMMARY:ЛР Системы моделирования
+UID:64f4b4576c6c300a97d974b898b32c03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Сергей Анатольевич
@@ -1943,56 +1788,11 @@ SUMMARY:ПЗ Русский язык и культура речи
 UID:5e45b1c657c0f5126434d5f149c7a46e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20250918T091500Z
-LOCATION:9-404
-DTSTART:20250918T074500Z
-SUMMARY:ЛК Русский язык и культура речи
-UID:c17da3267519ca31ad903c951a8f8074
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251226T131500Z
 LOCATION:--каф.
 DTSTART:20251226T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1de6c65cd1e5db03b436c8404d3c6307
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251201T091500Z
-LOCATION:24-711
-DTSTART:20251201T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:7234fd22dcdddfd011dbd5eb2ccd881f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суворова Анна Борисовна
-DTEND:20251029T131500Z
-LOCATION:24-413
-DTSTART:20251029T114500Z
-SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
-UID:a6d7aee1da386ade42fa8e6a7a891777
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T131500Z
-LOCATION:--каф.
-DTSTART:20250905T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0d0d635523d1c7007c9b24aa5170e993
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T091500Z
-LOCATION:--каф. 919
-DTSTART:20251202T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:79e01709e4bc00c9151d9692db046973
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T131500Z
-LOCATION:--каф.
-DTSTART:20251031T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:df59cf2b74cf44199bf9df0f43a0a5a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -2001,14 +1801,6 @@ LOCATION:24-711
 DTSTART:20251126T133000Z
 SUMMARY:ПЗ Программирование
 UID:3aa78dab06ead9671b1d70e95da299cb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251222T091500Z
-LOCATION:24-717
-DTSTART:20251222T074500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:2b8baa502e630110301426fb97bf3fd4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T113000Z
@@ -2033,59 +1825,6 @@ SUMMARY:ЛК Математические основы компьютерной 
 UID:305073a58d412cc052c19cf24e9cee96
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:--каф. 919
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:bb72d4d48b6b4fb090c3f800c52539db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251013T113000Z
-LOCATION:24-721
-DTSTART:20251013T100000Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:2164075cd7a755c003d55ddaeea9d4e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T073000Z
-LOCATION:--каф.
-DTSTART:20251219T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c990a8cc0052bd3b05d2240b276c06c9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251215T091500Z
-LOCATION:24-711
-DTSTART:20251215T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:3a16a6ac91ed28e946e6ca06eeb20bf0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251020T131500Z
-LOCATION:24-717
-DTSTART:20251020T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:e6280222209a1ba5666492960f7aa293
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251224T150000Z
-LOCATION:24-711
-DTSTART:20251224T133000Z
-SUMMARY:ПЗ Программирование
-UID:d6fd2fff00d5a4783f24fbe5163e468c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T131500Z
-LOCATION:--каф.
-DTSTART:20251010T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e24babbcb22aa65c8df715c928916c45
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
 DTEND:20250908T113000Z
 LOCATION:24-717
@@ -2095,11 +1834,481 @@ UID:76afd0301e5a329196745be532ff6ab7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20251020T113000Z
+DTEND:20250922T091500Z
+LOCATION:24-711
+DTSTART:20250922T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:487a59fa8905004cfc68c9d4acada27c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251021T131500Z
+LOCATION:24-711
+DTSTART:20251021T114500Z
+SUMMARY:ЛК Операционные системы
+UID:c937c60f72dab85f8f44335d9ec072a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20251113T091500Z
+LOCATION:9-404
+DTSTART:20251113T074500Z
+SUMMARY:ЛК Русский язык и культура речи
+UID:890021b7ea03c2122199c003c9248f57
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T131500Z
+LOCATION:--каф. 919
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:59a87f3971ba72f71bd59c95360d483a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20250922T113000Z
 LOCATION:24-717
-DTSTART:20251020T100000Z
+DTSTART:20250922T100000Z
 SUMMARY:ЛР Информационные технологии
-UID:264c885a25e9d7d4c5de101a85b56861
+UID:30775c6d8ca6b6636c180a9ef7a13c2b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T131500Z
+LOCATION:--каф.
+DTSTART:20251017T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf38fb79015db7355220071bf005ebbb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20251103T073000Z
+LOCATION:24-711
+DTSTART:20251103T060000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:9eafb096d784f21cdd93f36ae62db453
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251112T150000Z
+LOCATION:24-711
+DTSTART:20251112T133000Z
+SUMMARY:ПЗ Программирование
+UID:fa66ca7df24134b68be78f9b401415fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T091500Z
+LOCATION:--каф. 919
+DTSTART:20251216T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b35afe9033926a1895d29a5f09180e3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартынов Евгений Александрович
+DTEND:20250918T073000Z
+LOCATION:24-711
+DTSTART:20250918T060000Z
+SUMMARY:ЛК Системы моделирования
+UID:5682ea90218e915a21b8222083987c9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T113000Z
+LOCATION:--каф.
+DTSTART:20250919T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e5a422b64134ce15d2817131dc6ebb49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251105T113000Z
+LOCATION:24-721
+DTSTART:20251105T100000Z
+SUMMARY:ЛР Операционные системы
+UID:7557df13e2bc390c949aec0f80c21688
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251125T131500Z
+LOCATION:24-711
+DTSTART:20251125T114500Z
+SUMMARY:ЛК Операционные системы
+UID:659d48597cbaafe87d45512b8ebe430b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суворова Анна Борисовна
+DTEND:20250917T131500Z
+LOCATION:24-413
+DTSTART:20250917T114500Z
+SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
+UID:7ccb79b1801109febd9c527751a1c90d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251007T113000Z
+LOCATION:24-711
+DTSTART:20251007T100000Z
+SUMMARY:ЛК Программирование
+UID:fe809d99cc2235ebe07664e2257d97e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251204T113000Z
+LOCATION:24-419
+DTSTART:20251204T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:066382a96234b58457172e15b5c30a0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250930T091500Z
+LOCATION:--каф. 919
+DTSTART:20250930T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2600d4a794f20f4eaa7356aedd4218f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251103T113000Z
+LOCATION:24-717
+DTSTART:20251103T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:d2149f155019a67e22f310d4d7734c00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Падалко Сергей Николаевич
+DTEND:20251021T150000Z
+LOCATION:24-711
+DTSTART:20251021T133000Z
+SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
+UID:1acf6f2e6e409a255c0eb3b1a19a21bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250916T131500Z
+LOCATION:24-711
+DTSTART:20250916T114500Z
+SUMMARY:ЛК Операционные системы
+UID:cdaa1f4f06292f822962602aecfe8907
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20250922T131500Z
+LOCATION:24-717
+DTSTART:20250922T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:f8a42fc004e98136da274c33c550b420
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T131500Z
+LOCATION:--каф.
+DTSTART:20250926T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bc20fc23f67d691b0d3c82fb8367efb7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251209T150000Z
+LOCATION:24-419
+DTSTART:20251209T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:563f6e4cf6b9d09fd2fae2b590aaa728
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20250902T131500Z
+LOCATION:24-711
+DTSTART:20250902T114500Z
+SUMMARY:ЛК Операционные системы
+UID:f52017941e6c1cd59bec6c07f5ac6126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251216T131500Z
+LOCATION:24-711
+DTSTART:20251216T114500Z
+SUMMARY:ЛК Операционные системы
+UID:4ee5227da80169be188958f9e3d8fcbd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T091500Z
+LOCATION:--каф.
+DTSTART:20251031T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f5dd255fe7eb0bde56733ae4f7c6606b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T113000Z
+LOCATION:--каф.
+DTSTART:20251205T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:52291fb22b8f0852c318340e8fccecca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T113000Z
+LOCATION:--каф.
+DTSTART:20251121T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:eb983aa09f2799532de5311a45de6a30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251117T113000Z
+LOCATION:24-717
+DTSTART:20251117T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:adafeb9c5db3f12e49b2b9e372d01348
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T131500Z
+LOCATION:--каф.
+DTSTART:20251128T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:136e92f12e64aa7040c4719141fe2a1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T131500Z
+LOCATION:--каф. 919
+DTSTART:20251016T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c19b42a711471690ef08cbe1b252bb5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251027T131500Z
+LOCATION:24-721
+DTSTART:20251027T114500Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:5e6842d5eab01b78f5aa400b4f49f138
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251218T073000Z
+LOCATION:24-717
+DTSTART:20251218T060000Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:6b0485291cd83a9c66ae7ad3a6661a03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251119T091500Z
+LOCATION:24-717
+DTSTART:20251119T074500Z
+SUMMARY:ЛР Программирование
+UID:3db357017567141085f447fd19c2a965
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф. 919
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:ea010a735ffe21ca02cf82aeb5633ac7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T113000Z
+LOCATION:--каф.
+DTSTART:20251128T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7ca8580d7d731eec254d493bc0b10cd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251106T113000Z
+LOCATION:24-419
+DTSTART:20251106T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:06b0efb0dae56653ee3db474a16defd5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20260119T091500Z
+LOCATION:24-709
+DTSTART:20260119T074500Z
+SUMMARY:Экзамен Операционные системы
+UID:62f80be606ed3ef3bb1727d1af3e9800
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20251124T091500Z
+LOCATION:24-717
+DTSTART:20251124T074500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
+UID:e844d44309e0f1c8762e3880b9252ec6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251217T091500Z
+LOCATION:24-717
+DTSTART:20251217T074500Z
+SUMMARY:ЛР Программирование
+UID:6068aa4747026d82f2e55a9340a424a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суворова Анна Борисовна
+DTEND:20251112T131500Z
+LOCATION:24-413
+DTSTART:20251112T114500Z
+SUMMARY:ПЗ Системный анализ этапов жизненного цикла изделий
+UID:d11fd9675e7f1cf74135a5427e77ce0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251223T091500Z
+LOCATION:--каф. 919
+DTSTART:20251223T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4f3dafd9720128087096908bc17ca858
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251204T091500Z
+LOCATION:24-717
+DTSTART:20251204T074500Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:8a0855d0702014d64a759ea3c410cd2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251118T113000Z
+LOCATION:24-711
+DTSTART:20251118T100000Z
+SUMMARY:ЛК Программирование
+UID:3d3b96d52156df7345d3859e72b82468
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251020T091500Z
+LOCATION:24-711
+DTSTART:20251020T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:06e7d081f438af6fb96973e2d3bb544e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251008T091500Z
+LOCATION:24-717
+DTSTART:20251008T074500Z
+SUMMARY:ЛР Программирование
+UID:4762e3fb39b05b0b70668d77070d05ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251223T131500Z
+LOCATION:24-711
+DTSTART:20251223T114500Z
+SUMMARY:ЛК Операционные системы
+UID:23378af45465aaeac28b53806ff7d65e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20260115T091500Z
+LOCATION:24-709
+DTSTART:20260115T074500Z
+SUMMARY:Экзамен Математические основы компьютерной графики
+UID:ebff4da97133ff29fcb022ea9907e109
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T073000Z
+LOCATION:--каф.
+DTSTART:20251010T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:314f49d4f541b038e5d491e304ec9902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251203T073000Z
+LOCATION:24-717
+DTSTART:20251203T060000Z
+SUMMARY:ЛР Программирование
+UID:cc93dd4b2e7cf200ff299bdb8a89461f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251105T131500Z
+LOCATION:24-721
+DTSTART:20251105T114500Z
+SUMMARY:ЛР Операционные системы
+UID:ffb2411d8428900be9a7a60ba015e962
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251125T150000Z
+LOCATION:24-419
+DTSTART:20251125T133000Z
+SUMMARY:ЛК CAD/CAE-системы
+UID:c001479918d3dc6c029d08a35d92c006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251124T131500Z
+LOCATION:24-721
+DTSTART:20251124T114500Z
+SUMMARY:ЛР Математические основы компьютерной графики
+UID:904bd4bbbc46a0b27a85d968e8f6fd90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20250918T113000Z
+LOCATION:24-419
+DTSTART:20250918T100000Z
+SUMMARY:ЛК Математические основы компьютерной графики
+UID:761150a0ac83e1e6f81d45a81d98c13e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251215T131500Z
+LOCATION:24-717
+DTSTART:20251215T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:976dc495e71b3227e285fa11ba4e7c4c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T113000Z
+LOCATION:--каф.
+DTSTART:20251226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:49471f05f962a6b3da64719c996d37b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Сергей Анатольевич
+DTEND:20251120T073000Z
+LOCATION:24-717
+DTSTART:20251120T060000Z
+SUMMARY:ЛР CAD/CAE-системы
+UID:0ae70e8a19267011deb0aac8a7714d25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терентьев Максим Николаевич
+DTEND:20251105T073000Z
+LOCATION:24-717
+DTSTART:20251105T060000Z
+SUMMARY:ЛР Программирование
+UID:d3f088f98afaec6c2d3adffddfd1c215
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широкова Ирина Олеговна
+DTEND:20250918T091500Z
+LOCATION:9-404
+DTSTART:20250918T074500Z
+SUMMARY:ЛК Русский язык и культура речи
+UID:c17da3267519ca31ad903c951a8f8074
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воробьева Валентина Васильевна
+DTEND:20251201T091500Z
+LOCATION:24-711
+DTSTART:20251201T074500Z
+SUMMARY:ЛК Информационные технологии
+UID:7234fd22dcdddfd011dbd5eb2ccd881f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T131500Z
+LOCATION:--каф. 919
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:bb72d4d48b6b4fb090c3f800c52539db
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T073000Z
+LOCATION:--каф.
+DTSTART:20251219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c990a8cc0052bd3b05d2240b276c06c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич
@@ -2125,66 +2334,11 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:7472d3f8bd30217ebff729b8b92fe5ed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20250922T091500Z
-LOCATION:24-711
-DTSTART:20250922T074500Z
-SUMMARY:ЛК Информационные технологии
-UID:487a59fa8905004cfc68c9d4acada27c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250919T091500Z
 LOCATION:--каф.
 DTSTART:20250919T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:cc3876f00b094b6d66497a4518dee144
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250924T073000Z
-LOCATION:24-717
-DTSTART:20250924T060000Z
-SUMMARY:ЛР Программирование
-UID:641c5ac643072f858d25044162f04d50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251028T150000Z
-LOCATION:24-419
-DTSTART:20251028T133000Z
-SUMMARY:ЛК CAD/CAE-системы
-UID:5c0a3980cd5119de70d903a184d4d91a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251021T131500Z
-LOCATION:24-711
-DTSTART:20251021T114500Z
-SUMMARY:ЛК Операционные системы
-UID:c937c60f72dab85f8f44335d9ec072a1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T091500Z
-LOCATION:--каф. 919
-DTSTART:20251111T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:3b63b01f388238f2ea5db6c54b37a4b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251028T113000Z
-LOCATION:24-711
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Программирование
-UID:6160589589283ac1248c2afdb5ced11a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251015T150000Z
-LOCATION:24-711
-DTSTART:20251015T133000Z
-SUMMARY:ПЗ Программирование
-UID:9702b3865bee81d7ced368643bd5e17a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартынов Евгений Александрович
@@ -2195,94 +2349,11 @@ SUMMARY:ЛК Системы моделирования
 UID:df215b335bc8a2ce58c5785a878ca7a7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20251202T113000Z
-LOCATION:24-711
-DTSTART:20251202T100000Z
-SUMMARY:ЛК Программирование
-UID:b47ed99654903c63eb1d0c7fdf13eafe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широкова Ирина Олеговна
-DTEND:20251113T091500Z
-LOCATION:9-404
-DTSTART:20251113T074500Z
-SUMMARY:ЛК Русский язык и культура речи
-UID:890021b7ea03c2122199c003c9248f57
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T091500Z
-LOCATION:--каф. 919
-DTSTART:20251125T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:6da1e5534670bff88911e76c48a9cdcc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251009T113000Z
-LOCATION:24-419
-DTSTART:20251009T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:344441696192e058d9e7c129938fa030
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T131500Z
-LOCATION:--каф. 919
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:d109d107e33d680aacb30319c78ba010
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251124T113000Z
-LOCATION:24-721
-DTSTART:20251124T100000Z
-SUMMARY:ЛР Математические основы компьютерной графики
-UID:eb185c717a9677eb3089c87cef1df308
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251024T091500Z
 LOCATION:--каф.
 DTSTART:20251024T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7c106734c679c840131ef68183e77212
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20251222T073000Z
-LOCATION:24-717
-DTSTART:20251222T060000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки жизненного цикла изделий
-UID:6a33110636d4a4300ddd4b8c8ba630e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T073000Z
-LOCATION:--каф.
-DTSTART:20251114T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a4c72c8d00bae1c6f842b35657bde8b2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:--каф. 919
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:59a87f3971ba72f71bd59c95360d483a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20250922T113000Z
-LOCATION:24-717
-DTSTART:20250922T100000Z
-SUMMARY:ЛР Информационные технологии
-UID:30775c6d8ca6b6636c180a9ef7a13c2b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T131500Z
-LOCATION:--каф.
-DTSTART:20251017T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cf38fb79015db7355220071bf005ebbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Падалко Сергей Николаевич
@@ -2291,45 +2362,6 @@ LOCATION:24-711
 DTSTART:20250909T133000Z
 SUMMARY:ЛК Системный анализ этапов жизненного цикла изделий
 UID:8c82a796d6f1f82ae25e22cf495cfabb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20251106T073000Z
-LOCATION:24-717
-DTSTART:20251106T060000Z
-SUMMARY:ЛР CAD/CAE-системы
-UID:bc40287629120256bda6621e16eb1806
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Сергей Анатольевич
-DTEND:20250904T113000Z
-LOCATION:24-419
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Математические основы компьютерной графики
-UID:2f56d7533b21ec689cc68367b8df8c21
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:--каф.
-DTSTART:20251107T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:48183dd72a99d0b67c334ac13c3ef895
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терентьев Максим Николаевич
-DTEND:20250917T150000Z
-LOCATION:24-711
-DTSTART:20250917T133000Z
-SUMMARY:ПЗ Программирование
-UID:2788a6ed1770854ad872352931863721
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воробьева Валентина Васильевна
-DTEND:20250908T131500Z
-LOCATION:24-717
-DTSTART:20250908T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:c84d205291ec817cecf8759280acb386
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьев Максим Николаевич

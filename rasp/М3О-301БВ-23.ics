@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250925T091500Z
-LOCATION:24-210.3
-DTSTART:20250925T074500Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:0222fc2d15803a65527807d750a7450a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251203T113000Z
 LOCATION:--каф.
 DTSTART:20251203T100000Z
@@ -75,6 +68,13 @@ LOCATION:3-437
 DTSTART:20251125T074500Z
 SUMMARY:ЛК Элементы систем управления ЛА
 UID:d3c370e47076f0a686ab48fc8936dfdd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T073000Z
+LOCATION:--каф. 919
+DTSTART:20251103T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:bc1282998633cc8413397f4b99465999
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
@@ -145,20 +145,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:23524c1d5c178251c1af8131af48bf93
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:24-210.3
-DTSTART:20251106T060000Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:ef1dff5450b42ae4103c9217e200e375
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T073000Z
-LOCATION:24-210.3
-DTSTART:20250911T060000Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:f492c4604672fc0c07d686a968fbf5c7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
 DTEND:20251024T131500Z
 LOCATION:ГАК-307
@@ -188,13 +174,6 @@ LOCATION:ГАК-307
 DTSTART:20251219T100000Z
 SUMMARY:ЛК Основы теории управления
 UID:b6d0e55ca49203e883d61dfefd08b09b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T091500Z
-LOCATION:24-210.3
-DTSTART:20250911T074500Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:dad9d92d4661a1e03c5e3233af836a0f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
@@ -722,6 +701,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:6197ae2ab77a451bebb2061c1367ef52
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20251103T113000Z
+LOCATION:3-404
+DTSTART:20251103T100000Z
+SUMMARY:ЛК Основы конструирования приборов
+UID:a4c480219d788355fd14244873abe365
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250909T131500Z
 LOCATION:ГУК А-401
 DTSTART:20250909T114500Z
@@ -753,13 +740,6 @@ SUMMARY:ЛК Основы конструирования приборов
 UID:f9d7b14427ce6bcb56ac35f3601c0d0a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:24-210.3
-DTSTART:20251023T074500Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:52cbbc1fa7ca0dab2726475ebb2a8852
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251011T091500Z
 LOCATION:ГУК Б-649
 DTSTART:20251011T074500Z
@@ -773,6 +753,14 @@ LOCATION:3-143
 DTSTART:20250925T114500Z
 SUMMARY:ЛР Технологии программирования
 UID:e0bb4a8c65e29eae7d3af682774a6ec6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20250911T091500Z
+LOCATION:24-210.3
+DTSTART:20250911T074500Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:632d97f7933f1ba4f2d499d27fc1b0c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
@@ -1123,6 +1111,14 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:bcbf2c5542567f8353d2935195bcd0a5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20250925T073000Z
+LOCATION:24-210.3
+DTSTART:20250925T060000Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:f587ea8bd0c81ba4e01cd0f6289d9760
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коробков Кирилл Андреевич
 DTEND:20251204T131500Z
 LOCATION:3-143
@@ -1137,13 +1133,6 @@ LOCATION:3-437
 DTSTART:20250902T074500Z
 SUMMARY:ЛК Элементы систем управления ЛА
 UID:d82ceb4bc8258fd03b7465cdf8936f54
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T091500Z
-LOCATION:24-210.3
-DTSTART:20251009T074500Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:43f3b2ab763f7b2bdff68832325ee23a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матюшенко Роман Викторович
@@ -1217,6 +1206,14 @@ LOCATION:--каф. 919
 DTSTART:20251110T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:6dca631d547ffb621aa1f1d5b091fab3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20251103T131500Z
+LOCATION:3-245
+DTSTART:20251103T114500Z
+SUMMARY:ПЗ УИРС
+UID:9673d3826f0e3bf48ed949ee76593382
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
@@ -1379,6 +1376,14 @@ SUMMARY:ЛК Экология
 UID:deb701d4282375c0041bea5094d4bda2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251106T073000Z
+LOCATION:24-210.3
+DTSTART:20251106T060000Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:f9b0d0e1860909dbb5ba446df1785b5b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T073000Z
 LOCATION:--каф.
 DTSTART:20250903T060000Z
@@ -1538,6 +1543,14 @@ LOCATION:ГАК-307
 DTSTART:20251010T114500Z
 SUMMARY:ЛК Гироскопические приборы
 UID:f56c1e7e621872d4e39576dff955c09d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20250925T091500Z
+LOCATION:24-210.3
+DTSTART:20250925T074500Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:ab293c651d698c3435b29ccaca28c325
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250913T091500Z
@@ -1738,11 +1751,12 @@ SUMMARY:ЛК Элементы систем управления ЛА
 UID:c88d03ff3c2592e8d525c500aa362515
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T073000Z
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251009T073000Z
 LOCATION:24-210.3
-DTSTART:20250925T060000Z
+DTSTART:20251009T060000Z
 SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:32e506b63d6e8f49553b439766106de1
+UID:ee04efb5a4e92a877d0c1a81f38afbee
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250915T073000Z
@@ -1765,6 +1779,14 @@ LOCATION:3-437
 DTSTART:20251021T074500Z
 SUMMARY:ЛК Элементы систем управления ЛА
 UID:b77068666a08e8a18c3a73e74e5ef800
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251009T091500Z
+LOCATION:24-210.3
+DTSTART:20251009T074500Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:de0dd97dfbb70dd944d0b3d4ee25d701
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T113000Z
@@ -1828,13 +1850,6 @@ SUMMARY:ЛК Основы конструирования приборов
 UID:89d130d848e98af7aef59f5f60540114
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:24-210.3
-DTSTART:20251023T060000Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:3d50a3b92a93169fef7afcfa10c58dbd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250924T113000Z
 LOCATION:--каф.
 DTSTART:20250924T100000Z
@@ -1848,13 +1863,6 @@ LOCATION:3-342
 DTSTART:20260120T060000Z
 SUMMARY:Экзамен Основы конструирования приборов
 UID:a5588c077cefe017272f02428de5b31f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:24-210.3
-DTSTART:20251106T074500Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:d872d3484f46d402c95f184f4bf08e1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макаренкова Надежда Алексеевна
@@ -1992,6 +2000,14 @@ SUMMARY:ЛР Основы конструирования приборов
 UID:4f4f6746702a2f2bde8f9e3031b3accc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20250911T073000Z
+LOCATION:24-210.3
+DTSTART:20250911T060000Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:37a92e0123a5c6b5286d89ad95d9b0df
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шеломанов Дмитрий Алексеевич
 DTEND:20251226T131500Z
 LOCATION:ГАК-307
@@ -2050,6 +2066,14 @@ LOCATION:--каф.
 DTSTART:20251224T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:7b92ed921fe77c1bd55b31ccf8d4c327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251023T091500Z
+LOCATION:24-210.3
+DTSTART:20251023T074500Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:3ec5d9c05a1e9c03bb1702a9e08904f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макаренкова Надежда Алексеевна
@@ -2168,6 +2192,14 @@ LOCATION:ГУК А-401
 DTSTART:20251007T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:903762aa28e677aa02a0caabb45f2602
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251106T091500Z
+LOCATION:24-210.3
+DTSTART:20251106T074500Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:50e1433d67752c23a2c34abd0443ccf7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макаренкова Надежда Алексеевна
@@ -2361,6 +2393,14 @@ SUMMARY:ЛР Технологии программирования
 UID:5b56f144fe8787cef2101dab4494f6eb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Макаренкова Надежда Алексеевна
+DTEND:20251103T091500Z
+LOCATION:ГАК-307
+DTSTART:20251103T074500Z
+SUMMARY:ЛК Основы теории управления
+UID:8fdbd1b86f821d414a3b0052c2f241e8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шлеенкин Лев Алексеевич
 DTEND:20250930T091500Z
 LOCATION:3-437
@@ -2377,12 +2417,12 @@ SUMMARY:ЛК Элементы систем управления ЛА
 UID:3c3adf6b594b70f0c8b670b621c31760
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шлеенкин Лев Алексеевич
-DTEND:20251202T091500Z
-LOCATION:3-437
-DTSTART:20251202T074500Z
-SUMMARY:ЛК Элементы систем управления ЛА
-UID:6894d1f2de38fcd107f60c2a306e11ea
+DESCRIPTION:Петров Даниил Дмитриевич
+DTEND:20251023T073000Z
+LOCATION:24-210.3
+DTSTART:20251023T060000Z
+SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
+UID:592a848ce9022e1528b3ad5b93dffcce
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251125T073000Z
@@ -2390,6 +2430,14 @@ LOCATION:--каф. 919
 DTSTART:20251125T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:5741f0c6469b24e97bd345d47a0b34c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шлеенкин Лев Алексеевич
+DTEND:20251202T091500Z
+LOCATION:3-437
+DTSTART:20251202T074500Z
+SUMMARY:ЛК Элементы систем управления ЛА
+UID:6894d1f2de38fcd107f60c2a306e11ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шеломанов Дмитрий Алексеевич
@@ -2445,13 +2493,6 @@ LOCATION:3-245
 DTSTART:20250908T114500Z
 SUMMARY:ПЗ УИРС
 UID:762632e51d7bd2d890b3eafb395f63a0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T073000Z
-LOCATION:24-210.3
-DTSTART:20251009T060000Z
-SUMMARY:ЛР Основы прикладной гидро- и аэродинамики
-UID:985aa1289de37ec62bb638097b9d5658
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T073000Z
