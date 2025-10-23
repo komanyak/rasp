@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251227T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251227T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:2ce118e7abc64d7f1df5754b0039dd4d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250913T091500Z
 LOCATION:1-33
 DTSTART:20250913T074500Z
@@ -61,18 +54,19 @@ SUMMARY:ПЗ Русский язык и культура речи
 UID:55dd4ad61300017410c73615a4433382
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250920T113000Z
-LOCATION:2-417(2А)
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:0c8987a09281d07e316f45ace2c50c87
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251119T131500Z
 LOCATION:7-401
 DTSTART:20251119T114500Z
 SUMMARY:ЛК История России
 UID:1b4fc78f5dce8626e70d6c00851cf754
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251117T073000Z
+LOCATION:5-101
+DTSTART:20251117T060000Z
+SUMMARY:ЛК Правоведение
+UID:2c31389c2691bff55d2e23b977f54739
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T073000Z
@@ -166,6 +160,14 @@ SUMMARY:ПЗ История России
 UID:8b49996d6f4a4bc32d7d1fe9e2cc8951
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250908T073000Z
+LOCATION:5-101
+DTSTART:20250908T060000Z
+SUMMARY:ЛК Правоведение
+UID:4cb47805e22bb96f515ee51771378fa4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T073000Z
 LOCATION:2-404(2А)
 DTSTART:20251024T060000Z
@@ -180,11 +182,12 @@ SUMMARY:ПЗ Основы теории коммуникации
 UID:68105b38753ae22ca1c56ebbdc34f088
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251201T073000Z
-LOCATION:5-101
-DTSTART:20251201T060000Z
-SUMMARY:ЛК Правоведение
-UID:a822fb7a634cc2a8ae4893ae0c881e85
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251115T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251115T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:2bb982adca5e16eeafe179fe6919a804
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251226T073000Z
@@ -350,6 +353,14 @@ SUMMARY:ПЗ Физическая культура
 UID:206a0c13fcab833ba954e2a2e792b82e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251101T113000Z
+LOCATION:2-317(2А)
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:bcb851429c806ab568d1adacbf5148f7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кокутина Александра Сергеевна
 DTEND:20250925T113000Z
 LOCATION:7-210
@@ -455,6 +466,22 @@ SUMMARY:ЛК Основы российской государственност�
 UID:6db6d57e6bcf25b4294778acc7c08699
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251018T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251018T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:8182f8fb83343018028f744317dbfd3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251103T073000Z
+LOCATION:5-101
+DTSTART:20251103T060000Z
+SUMMARY:ЛК Правоведение
+UID:c89f7bcee6fe7934dc53dc26e2e160ce
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251226T091500Z
 LOCATION:2-402(2А)
 DTSTART:20251226T074500Z
@@ -504,6 +531,14 @@ LOCATION:--каф. 919
 DTSTART:20251126T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:066368f3db0ee11a424bc841a8eb6105
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251215T073000Z
+LOCATION:5-101
+DTSTART:20251215T060000Z
+SUMMARY:ЛК Правоведение
+UID:6de479a9e06006e119ca574161a7d37d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T113000Z
@@ -567,12 +602,28 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:5ceed03939421796d74734b00b8b90c9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251006T073000Z
+LOCATION:5-101
+DTSTART:20251006T060000Z
+SUMMARY:ЛК Правоведение
+UID:35e207c067d4e3bb4b4708a601a7f78c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кокутина Александра Сергеевна
 DTEND:20251023T113000Z
 LOCATION:7-210
 DTSTART:20251023T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:a93ee539a9e2ccbfc619ac00869f06c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251129T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251129T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:842489a01bd28bb3c1e2db868d73f620
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гуляев Виталий Владимирович
@@ -669,11 +720,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:0a70b7953b98d2cd7547a60e43a262c0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250922T073000Z
-LOCATION:5-101
-DTSTART:20250922T060000Z
-SUMMARY:ЛК Правоведение
-UID:289822a7c766c1c76583c40ab8b81f14
+DESCRIPTION:Кокутина Александра Сергеевна
+DTEND:20251127T113000Z
+LOCATION:7-210
+DTSTART:20251127T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b66fd7a5a40378a1d529ddeec76628ae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T091500Z
@@ -681,14 +733,6 @@ LOCATION:2-402(2А)
 DTSTART:20251031T074500Z
 SUMMARY:ПЗ Русский язык и культура речи
 UID:1e8b743eb7543dcb4820e00699b8aded
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кокутина Александра Сергеевна
-DTEND:20251127T113000Z
-LOCATION:7-210
-DTSTART:20251127T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:b66fd7a5a40378a1d529ddeec76628ae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T091500Z
@@ -714,11 +758,12 @@ SUMMARY:ЛК История и современное состояние оте�
 UID:c844484c0bcc8b3851ef9b2d87950513
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T073000Z
-LOCATION:5-101
-DTSTART:20251006T060000Z
-SUMMARY:ЛК Правоведение
-UID:366d0013be49b12eff155ddb16493907
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20251129T091500Z
+LOCATION:2-308(2А)
+DTSTART:20251129T074500Z
+SUMMARY:ПЗ Компьютерные технологии и информатика
+UID:fe65f52c9932fb0dc3234cddbe802d6f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T113000Z
@@ -726,14 +771,6 @@ LOCATION:7-215
 DTSTART:20251003T100000Z
 SUMMARY:ПЗ История России
 UID:7271278815c4d590170a8f3be18c3a38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гуляев Виталий Владимирович
-DTEND:20251129T091500Z
-LOCATION:2-308(2А)
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Компьютерные технологии и информатика
-UID:fe65f52c9932fb0dc3234cddbe802d6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кушваха Хуршуд Неждат кызы
@@ -750,6 +787,14 @@ LOCATION:2-308(2А)
 DTSTART:20251018T060000Z
 SUMMARY:ПЗ Компьютерные технологии и информатика
 UID:b1a4a6865ab3bd4939ec30e8b4779514
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20251101T073000Z
+LOCATION:2-308(2А)
+DTSTART:20251101T060000Z
+SUMMARY:ПЗ Компьютерные технологии и информатика
+UID:92cf7d61261bef397a72c98cc14a76ac
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T113000Z
@@ -794,6 +839,14 @@ LOCATION:2-402(2А)
 DTSTART:20251212T074500Z
 SUMMARY:ПЗ Русский язык и культура речи
 UID:17eb959de2b6a6d6c3fc349e422d84ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251213T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251213T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:2d7a3c1a90350ab751517906e36359a6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T073000Z
@@ -890,6 +943,14 @@ LOCATION:7-211
 DTSTART:20251218T060000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:7c233bc5375ad526b8d14a30cf087705
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20250906T113000Z
+LOCATION:2-417(2А)
+DTSTART:20250906T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:41998e2b3e75c5b3078196713a72a4b1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T091500Z
@@ -997,13 +1058,6 @@ SUMMARY:ЛК Основы теории коммуникации
 UID:5200661888b6142afa8c9c29edf795db
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251215T073000Z
-LOCATION:5-101
-DTSTART:20251215T060000Z
-SUMMARY:ЛК Правоведение
-UID:87106f2d57e187b788cd64bf1884c243
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251219T091500Z
 LOCATION:2-402(2А)
 DTSTART:20251219T074500Z
@@ -1070,13 +1124,6 @@ SUMMARY:ЛК Основы российской государственност�
 UID:5b71ca8b2037cb037873c632c983012f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251129T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:75cba217137239e1c688306d08139fbb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кушваха Хуршуд Неждат кызы
 DTEND:20251007T131500Z
 LOCATION:5-111
@@ -1114,12 +1161,12 @@ SUMMARY:ПЗ Основы теории коммуникации
 UID:5276cd58dd13e30b1f219e02653535cd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кокутина Александра Сергеевна
-DTEND:20251113T113000Z
-LOCATION:7-210
-DTSTART:20251113T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:3577482d4023b325c1a5c7415804f704
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251020T073000Z
+LOCATION:5-101
+DTSTART:20251020T060000Z
+SUMMARY:ЛК Правоведение
+UID:d0d7d98215926277d8502b9a3b55fae2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T091500Z
@@ -1145,11 +1192,12 @@ SUMMARY:ПЗ История и современное состояние оте�
 UID:a36d3782d434bcda6cac1e5d8af6cb63
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T150000Z
-LOCATION:2-314(2В)
-DTSTART:20251217T133000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:7a2337935ed5437d0b2f7ae38a0dc5fe
+DESCRIPTION:Кокутина Александра Сергеевна
+DTEND:20251113T113000Z
+LOCATION:7-210
+DTSTART:20251113T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3577482d4023b325c1a5c7415804f704
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T091500Z
@@ -1181,11 +1229,19 @@ SUMMARY:ЛК Русский язык и культура речи
 UID:2861d1d6b909fe9d526c5f1ea4971ddd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T113000Z
-LOCATION:--каф. 919
-DTSTART:20251224T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:2980ac8e5fab3c4244440d6af2d3ac76
+DTEND:20251217T150000Z
+LOCATION:2-314(2В)
+DTSTART:20251217T133000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:7a2337935ed5437d0b2f7ae38a0dc5fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20251101T091500Z
+LOCATION:2-308(2А)
+DTSTART:20251101T074500Z
+SUMMARY:ПЗ Компьютерные технологии и информатика
+UID:9fe95028fa7cb17a1ea23e73ed317bad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кушваха Хуршуд Неждат кызы
@@ -1241,6 +1297,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:498582a80c853a41e4dc87dee27fde9c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250922T073000Z
+LOCATION:5-101
+DTSTART:20250922T060000Z
+SUMMARY:ЛК Правоведение
+UID:90122f1e72c7acfc220c9ef16a73eb14
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T091500Z
 LOCATION:--каф. 919
 DTSTART:20251006T074500Z
@@ -1253,13 +1317,6 @@ LOCATION:--каф. 919
 DTSTART:20250903T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:eea53f36326409d8cff9587497beb3ee
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:1253bc70ac0cdd82a7e92cdf654e7d24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
@@ -1304,13 +1361,6 @@ LOCATION:--каф. 919
 DTSTART:20250929T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:d66c3f1ee5c747f8fcc72e6123e6ceb9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251018T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:a63121389951da1e0eff29ba13fb710c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251117T091500Z
@@ -1367,13 +1417,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:f0bea10055ece431ef47f09623cdcefa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T113000Z
-LOCATION:2-417(2А)
-DTSTART:20250906T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:8a7a4539a1d7aa8169e1812de1e63dad
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кушваха Хуршуд Неждат кызы
 DTEND:20251111T150000Z
 LOCATION:5-111
@@ -1397,18 +1440,11 @@ SUMMARY:ПЗ Физическая культура
 UID:a5b98f8c2d3deaf0d62b890f7049c4ce
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250908T073000Z
-LOCATION:5-101
-DTSTART:20250908T060000Z
-SUMMARY:ЛК Правоведение
-UID:cf50f40b2d861b05a879acf062c25778
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251004T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:9673eeb4bb9c97360c5cdfcfcfead45d
+DTEND:20251224T113000Z
+LOCATION:--каф. 919
+DTSTART:20251224T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:2980ac8e5fab3c4244440d6af2d3ac76
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251114T091500Z
@@ -1423,13 +1459,6 @@ LOCATION:7-401
 DTSTART:20250917T114500Z
 SUMMARY:ЛК История России
 UID:4d42972018903aa70ca84f0525e5ef06
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T113000Z
-LOCATION:2-417(2А)
-DTSTART:20251213T100000Z
-SUMMARY:ПЗ Введение в специальность
-UID:01fae7ebc05316d2640a73d111b41c08
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T091500Z
@@ -1558,6 +1587,14 @@ UID:7e44dc9e381a5d3f295889adba935bb6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20250920T113000Z
+LOCATION:2-417(2А)
+DTSTART:20250920T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:8b06635bf07d5bdf1193aed116189574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
 DTEND:20251127T091500Z
 LOCATION:2-404(2А)
 DTSTART:20251127T074500Z
@@ -1580,13 +1617,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:0921bb86b0163cd996f378f89f05b2dd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T073000Z
-LOCATION:5-101
-DTSTART:20251117T060000Z
-SUMMARY:ЛК Правоведение
-UID:e5f680813e16cedb5a81be1c854a4fc6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гуляев Виталий Владимирович
 DTEND:20251129T073000Z
 LOCATION:2-308(2А)
@@ -1602,12 +1632,27 @@ SUMMARY:ПЗ Основы теории коммуникации
 UID:5071cf8760d8be5fedbb6c04818460b4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251103T091500Z
+LOCATION:--каф. 919
+DTSTART:20251103T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:722035aaac816f75384e8163f959fb8c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тараненко Анна Владимировна
 DTEND:20251202T150000Z
 LOCATION:2-301(2В)
 DTSTART:20251202T133000Z
 SUMMARY:ЛК Введение в специальность
 UID:8d1e8be5254e80b7522002a6f3f3608a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251227T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251227T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:fffe7bee72e1a7d0a1325d4958a4d52d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Маркина Анастасия Дмитриевна
@@ -1706,6 +1751,14 @@ LOCATION:7-215
 DTSTART:20251219T100000Z
 SUMMARY:ПЗ История России
 UID:c577468ced287d7da9e9498e73e207ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маркина Анастасия Дмитриевна
+DTEND:20251004T113000Z
+LOCATION:2-417(2А)
+DTSTART:20251004T100000Z
+SUMMARY:ПЗ Введение в специальность
+UID:a2709e9621611ecb3e9501f41eb1df08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кокутина Александра Сергеевна
@@ -1853,6 +1906,14 @@ SUMMARY:ЛК Основы теории коммуникации
 UID:00ada69879234d5d64673e1753448d68
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251201T073000Z
+LOCATION:5-101
+DTSTART:20251201T060000Z
+SUMMARY:ЛК Правоведение
+UID:5bd1139bf95917f4a0a10552c4f4bf73
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T091500Z
 LOCATION:7-401
 DTSTART:20251015T074500Z
@@ -1873,13 +1934,6 @@ LOCATION:2-301(2В)
 DTSTART:20250909T133000Z
 SUMMARY:ЛК Введение в специальность
 UID:fc5d37127ff3383342f2bf60eb953ecb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T073000Z
-LOCATION:5-101
-DTSTART:20251020T060000Z
-SUMMARY:ЛК Правоведение
-UID:17cb099cab9ca8d90160ceac3123170d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кокутина Александра Сергеевна

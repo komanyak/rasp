@@ -2,11 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251129T113000Z
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20250913T113000Z
 LOCATION:Орш. А-101
-DTSTART:20251129T100000Z
+DTSTART:20250913T100000Z
 SUMMARY:ЛК История России
-UID:226b3b0d7eaf7becb17d11b8aafbe522
+UID:635e16ef1e3618270231afb67d614fe8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251220T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251220T100000Z
+SUMMARY:ЛК История России
+UID:58a56809e5f4a99fffa94508ee5922e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -36,13 +45,6 @@ LOCATION:--каф. 919
 DTSTART:20250925T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:04d24ffeeff974c7dcc4a990765bcace
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251004T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:4f8820f0a66cb32d0262f98f2a8c6f47
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T113000Z
@@ -75,13 +77,6 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:fce51428302c9dfb14d2c1de78fca031
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251108T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:daac13ea57ad12c74c2ca8d9f8c89b3e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251209T113000Z
 LOCATION:ГУК Б-440
 DTSTART:20251209T100000Z
@@ -96,11 +91,12 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:9370e8d9aa049c27110ee97bd6de6886
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T113000Z
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251129T113000Z
 LOCATION:Орш. А-101
-DTSTART:20250906T100000Z
+DTSTART:20251129T100000Z
 SUMMARY:ЛК История России
-UID:47aa9654203d436752916e09af5ea342
+UID:ab5fcd1ae6776027bcb1cbc133721876
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T150000Z
@@ -118,6 +114,14 @@ SUMMARY:ЛР Дискретная математика
 UID:71fb3ccf4844d8590cf38acab8064644
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20250920T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250920T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:8501de33a4aa5ed2692e844e55f118ef
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251105T113000Z
 LOCATION:ГУК В-221
 DTSTART:20251105T100000Z
@@ -125,11 +129,12 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:544c7334607655f9188cbc4867e9faa9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T113000Z
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251011T113000Z
 LOCATION:Орш. А-101
-DTSTART:20251213T100000Z
+DTSTART:20251011T100000Z
 SUMMARY:ЛК История России
-UID:c96ae85d78a4d42d5d75a5d4d155aa40
+UID:e7fc80a86d8b78dbeeff5f7470f6428f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251021T164500Z
@@ -145,6 +150,13 @@ LOCATION:ГУК Б-656
 DTSTART:20251107T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:5fa6bda042fa9d39f64a47a34701946a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T113000Z
+LOCATION:ГУК Б-452
+DTSTART:20251103T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:a85f9400d00f195650227f32ec0af675
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -192,6 +204,14 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:8c34f1cf852b75ee4c0448d532e906b9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251025T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251025T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:e739de97fe35f78e24fad6dbe5f1f89b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250930T150000Z
 LOCATION:ГУК Б-440
 DTSTART:20250930T133000Z
@@ -212,13 +232,6 @@ LOCATION:ГУК Б-652
 DTSTART:20251222T060000Z
 SUMMARY:ЛР Дискретная математика
 UID:a0c1eaeb46d8b377a514044dffcc7ee8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251025T100000Z
-SUMMARY:ЛК История России
-UID:c1601147a11fc44b01d835ea2afd39aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зайцев Валентин Евгеньевич
@@ -251,13 +264,6 @@ SUMMARY:ЛК Математический анализ
 UID:7a47d54d176036b6773a17142a2e4c82
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T113000Z
-LOCATION:Орш. А-101
-DTSTART:20250927T100000Z
-SUMMARY:ЛК История России
-UID:7cb8bbf4789d9ab5dce43df1e0d9d675
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251204T113000Z
 LOCATION:ГУК Б-656
 DTSTART:20251204T100000Z
@@ -271,13 +277,6 @@ LOCATION:ГУК Б-656
 DTSTART:20250919T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:2437e3c299569fbb50f428c0a7645a75
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251018T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:07d691c38fb48844f9c428681f44774c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -376,13 +375,6 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:f048df00446132b1258f34098ca0dc5d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250913T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250913T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:1a3048493c7f22f029e0972472353f0a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250912T091500Z
 LOCATION:ГУК В-228
 DTSTART:20250912T074500Z
@@ -412,13 +404,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:92da2c2e8d20d826162c87155a7b1e46
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251115T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:f9cc43480765f99ae42b3d66e107d7f1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251210T150000Z
 LOCATION:ГУК В-214
 DTSTART:20251210T133000Z
@@ -438,6 +423,22 @@ LOCATION:--каф. 919
 DTSTART:20250904T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:5441bb8b70b2604a5c5b1ea0e6dc5bcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20250920T113000Z
+LOCATION:Орш. А-101
+DTSTART:20250920T100000Z
+SUMMARY:ЛК История России
+UID:af1fea6eaecc9a620abde3954ab8bada
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251115T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251115T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:3ccd521587b9427b98953eb276012240
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -474,6 +475,14 @@ LOCATION:--каф. 919
 DTSTART:20251030T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:89161eb8adf54a439ccab04b61398f30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20250913T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250913T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:819fa98147ec4504c8285425b32d70cb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T113000Z
@@ -623,6 +632,14 @@ SUMMARY:ЛК Математический анализ
 UID:c744f537adb405318184531a74ed455b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251122T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251122T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:9f71d34a4ae24340ddab524962542312
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T131500Z
 LOCATION:--каф. 919
 DTSTART:20251211T114500Z
@@ -673,11 +690,27 @@ SUMMARY:ПЗ Иностранный язык
 UID:235a16a6bddc6b9518e9ab9bb72bb502
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251206T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251206T100000Z
+SUMMARY:ЛК История России
+UID:c15ba5a4f979039ac926857176ce686d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250913T131500Z
 LOCATION:Орш. В-610
 DTSTART:20250913T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:257113f13e2688e92903c43efc5d2b91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251018T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251018T100000Z
+SUMMARY:ЛК История России
+UID:7ec37d06a7737ccfc9393d1af4d0a0e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T113000Z
@@ -692,13 +725,6 @@ LOCATION:ГУК Б-656
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:c68a3b3b643e0f52c8791af3504fde4c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250906T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:2ffc4e783926c8f2acadb9708f893aad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -732,13 +758,6 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:f302a6ee013fdc0dc06ac245ab006725
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251101T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:0f4e0a59d47422eb7f2814d4b6dc18c6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251205T091500Z
 LOCATION:ГУК В-228
 DTSTART:20251205T074500Z
@@ -753,25 +772,19 @@ SUMMARY:ПЗ Физическая культура
 UID:a1cada54f1d32eeaea86e76d1fa76df3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251011T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251011T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:730dc81e7b7ca59c146bc5a7f88a37d8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T091500Z
 LOCATION:--каф. 919
 DTSTART:20251112T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:c0b21f6c1e0ceef169880f35347137e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250927T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:677047d86c85649b0d91bba0a6f8ce3c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251206T100000Z
-SUMMARY:ЛК История России
-UID:16d2f5e570a354fe80b6c6cc3d1d3b65
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T091500Z
@@ -818,25 +831,11 @@ SUMMARY:ПЗ Математический анализ
 UID:79e914beececc22ec299d6a82f0d0a7c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251108T100000Z
-SUMMARY:ЛК История России
-UID:4a94654bdf9f2657aa8c4d753857a81e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251001T113000Z
 LOCATION:ГУК В-221
 DTSTART:20251001T100000Z
 SUMMARY:ЛК Фундаментальная информатика
 UID:61fddfa9d5e3e9858f8c7faa29536ec0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251011T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:355c83e2c76d80c6d86d01a3290ee47a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251101T131500Z
@@ -892,18 +891,19 @@ SUMMARY:ПЗ Математический анализ
 UID:37247e4c322913cd281d7fee7595e07b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251025T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251025T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:c5ce3480babdf2f7ff6ded4adc4b5c16
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251117T150000Z
 LOCATION:Орш. В-406
 DTSTART:20251117T133000Z
 SUMMARY:ПЗ История России
 UID:cd6e2188c52ea30597daeb44d1096f5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251101T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251101T100000Z
+SUMMARY:ЛК История России
+UID:05ec3b653e3fc6afa9384f5767c94b95
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T131500Z
@@ -956,13 +956,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:1e69311d24e54d0d111816845944cf88
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251227T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251227T100000Z
-SUMMARY:ЛК История России
-UID:e18ba784f91790a5f382f5d0fbb5c46b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250917T150000Z
 LOCATION:ГУК В-214
 DTSTART:20250917T133000Z
@@ -1007,13 +1000,6 @@ SUMMARY:ЛК Математический анализ
 UID:72c2fa95ea7c0a791b095561bed44b1a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251018T100000Z
-SUMMARY:ЛК История России
-UID:7fa09b410d17b38f53854bf90c15ad24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
 DTEND:20251024T113000Z
 LOCATION:ГУК Б-656
@@ -1055,6 +1041,14 @@ LOCATION:ГУК Б-440
 DTSTART:20251125T114500Z
 SUMMARY:ЛР Программирование на языке Python
 UID:e39c0be1409679d08843c0bb8f0e82bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251025T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251025T100000Z
+SUMMARY:ЛК История России
+UID:c33962c87b9ed478d3a7273c65b707b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T091500Z
@@ -1181,13 +1175,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:c95187548fd60cc253a8bc1520fa3a23
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251101T100000Z
-SUMMARY:ЛК История России
-UID:2f1539d3a5e4edd08dffb3c2aa91a2d7
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251129T164500Z
 LOCATION:Орш. В-407
 DTSTART:20251129T151500Z
@@ -1289,6 +1276,14 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:9927f281cfa3eb2ac13d01f0346939d7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251108T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251108T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:eacdd77dae2fe84cffcabc680726e43a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251018T131500Z
 LOCATION:Орш. В-610
 DTSTART:20251018T114500Z
@@ -1324,6 +1319,14 @@ LOCATION:ГУК Б-652
 DTSTART:20260112T060000Z
 SUMMARY:Экзамен Фундаментальная информатика
 UID:5849a6874f56f9ab9ea67675a9a9836d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251101T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251101T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:1ffe1e104e6e5820a5f6a512d3c6100a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -1384,6 +1387,14 @@ SUMMARY:ПЗ Физическая культура
 UID:c1033b5adcfe4364871643dd42eec120
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251108T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251108T100000Z
+SUMMARY:ЛК История России
+UID:8a7504500ed1f690394cb9a0815c9e82
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T131500Z
 LOCATION:--каф. 919
 DTSTART:20251106T114500Z
@@ -1398,6 +1409,22 @@ SUMMARY:ЛК Программирование на языке Python
 UID:08489757401356f895dd8e3f47463f29
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251227T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251227T100000Z
+SUMMARY:ЛК История России
+UID:0e87c4cd48c2b3c25a86241ff41c30a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251213T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251213T100000Z
+SUMMARY:ЛК История России
+UID:0f2aefc709b0775942345136f7c218d5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251124T150000Z
 LOCATION:Орш. В-406
 DTSTART:20251124T133000Z
@@ -1410,13 +1437,6 @@ LOCATION:--каф. 919
 DTSTART:20251029T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:3b9f410d43ad3d3df4e330652e3d3dbd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T113000Z
-LOCATION:Орш. А-101
-DTSTART:20250913T100000Z
-SUMMARY:ЛК История России
-UID:9ae892b8834467ad0470b98a588b0716
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T164500Z
@@ -1438,13 +1458,6 @@ LOCATION:Орш. В-610
 DTSTART:20251220T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:43df38f81b9332a2548acf7be81ef35b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251115T100000Z
-SUMMARY:ЛК История России
-UID:78a80325a86992fd5c1b50fd65128e91
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T113000Z
@@ -1542,6 +1555,14 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:96456c1b8121343accba22506b552e43
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251115T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251115T100000Z
+SUMMARY:ЛК История России
+UID:861fa595a4b47e0422c7eb583e39903e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251111T164500Z
 LOCATION:ГУК Б-440
 DTSTART:20251111T151500Z
@@ -1570,13 +1591,6 @@ LOCATION:ГУК Б-649
 DTSTART:20251225T060000Z
 SUMMARY:ЛК Основы российской государственности
 UID:f3d30135bb40e1e86972bd127401debc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251011T100000Z
-SUMMARY:ЛК История России
-UID:67aac15c7d7e39fba0fe36a84f04d771
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T131500Z
@@ -1609,6 +1623,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:a257a6edaac83f39b53f9e18c23bd876
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Нефедов Виктор Николаевич
+DTEND:20251208T091500Z
+LOCATION:ГУК Б-652
+DTSTART:20251208T074500Z
+SUMMARY:ЛР Дискретная математика
+UID:0f73cef484da1cf36b9b1005bfb7dcf2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251028T150000Z
 LOCATION:ГУК Б-440
 DTSTART:20251028T133000Z
@@ -1623,14 +1645,6 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:3e47dee9dea8e6001d2162e223c2a493
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родников Александр Владимирович
-DTEND:20251120T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20251120T060000Z
-SUMMARY:ЛК Математический анализ
-UID:097fc81b9dc363b0c0e03988060470d2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251007T150000Z
 LOCATION:ГУК Б-440
 DTSTART:20251007T133000Z
@@ -1638,12 +1652,12 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:f5aeee6ca5ae6430e624ea74f805408a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Нефедов Виктор Николаевич
-DTEND:20251208T091500Z
-LOCATION:ГУК Б-652
-DTSTART:20251208T074500Z
-SUMMARY:ЛР Дискретная математика
-UID:0f73cef484da1cf36b9b1005bfb7dcf2
+DESCRIPTION:Родников Александр Владимирович
+DTEND:20251120T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20251120T060000Z
+SUMMARY:ЛК Математический анализ
+UID:097fc81b9dc363b0c0e03988060470d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -1677,13 +1691,6 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:fff71e9356d594a4c59bf54bae065a02
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251004T100000Z
-SUMMARY:ЛК История России
-UID:434af5484c5bcaf089af2d1686eba8b2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Зайцев Валентин Евгеньевич
 DTEND:20251001T164500Z
 LOCATION:ГУК В-214
@@ -1714,6 +1721,14 @@ SUMMARY:ЛК Дискретная математика
 UID:18160cc62f62f0a1e0472c3f312e0b10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251018T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251018T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:9c5199ed72e1f8e0fdbb931d60ca1341
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T113000Z
 LOCATION:ГУК В-221
 DTSTART:20250903T100000Z
@@ -1734,6 +1749,14 @@ LOCATION:--каф. 919
 DTSTART:20250917T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:2572d712a12f855406ab25707df7f8ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20250906T113000Z
+LOCATION:Орш. А-101
+DTSTART:20250906T100000Z
+SUMMARY:ЛК История России
+UID:8cf75823a153983e5c75c2ac38f26930
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T113000Z
@@ -1771,6 +1794,14 @@ LOCATION:ГУК Б-656
 DTSTART:20260116T074500Z
 SUMMARY:Экзамен Математический анализ
 UID:8f82ae3815ec6a9c6c3b6b1c30f374c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251004T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251004T100000Z
+SUMMARY:ЛК История России
+UID:670b318241c525506c845f1bedb538b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -1986,11 +2017,12 @@ SUMMARY:Экзамен Линейная алгебра и аналитическ
 UID:2e675db51477459c5b30c95d39d01ce1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251220T100000Z
-SUMMARY:ЛК История России
-UID:9ee40ef04aa72ae5a1fcce3c036a957e
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20250906T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250906T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:638cc39b251591f231243420db83ff62
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251222T113000Z
@@ -2007,11 +2039,35 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:ea9899c09cdc76a1c8d42ddc8aa64606
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20251004T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251004T133000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:529582c1629c71253be3865b4350dacf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20250927T113000Z
+LOCATION:Орш. А-101
+DTSTART:20250927T100000Z
+SUMMARY:ЛК История России
+UID:6b2532ffdbc2ffa65711acd831e0bcbc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251022T091500Z
 LOCATION:--каф. 919
 DTSTART:20251022T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:7ca14ca542cfeb2110ece92ef93159fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыш Андрей Николаевич
+DTEND:20251122T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251122T100000Z
+SUMMARY:ЛК История России
+UID:274bbbabafc966b3c59b54f58195f187
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T131500Z
@@ -2191,13 +2247,6 @@ SUMMARY:ЛК Математический анализ
 UID:724cb92572c175629815907294f91fed
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251122T133000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:19a517c734bbbcc08190a1c26fc81be1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Зайцев Валентин Евгеньевич
 DTEND:20251224T164500Z
 LOCATION:ГУК В-214
@@ -2221,11 +2270,12 @@ SUMMARY:ЛК Математический анализ
 UID:d3973044e3aa317d272c294511a428b7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250920T150000Z
+DESCRIPTION:Солонюк Александр Анатольевич
+DTEND:20250927T150000Z
 LOCATION:Орш. В-501
-DTSTART:20250920T133000Z
+DTSTART:20250927T133000Z
 SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:31ba0f8874f925037c86e048c4c09423
+UID:4404bfcefcf2b3d5b282439cd18ee2fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Нефедов Виктор Николаевич
@@ -2257,13 +2307,6 @@ LOCATION:ГУК Б-652
 DTSTART:20251222T074500Z
 SUMMARY:ЛР Дискретная математика
 UID:bafcf689ac53dfd1783dca22f7466ee2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251122T100000Z
-SUMMARY:ЛК История России
-UID:ab955f05f8151229d6205933601a962a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251223T131500Z
@@ -2373,12 +2416,5 @@ LOCATION:Орш. В-610
 DTSTART:20251227T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:1ecd03c7a8d7a62617cdd0d473ebfe53
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T113000Z
-LOCATION:Орш. А-101
-DTSTART:20250920T100000Z
-SUMMARY:ЛК История России
-UID:7052b4645e005f6ae962f905030b3f25
 END:VEVENT
 END:VCALENDAR

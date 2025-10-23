@@ -48,14 +48,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:bee880383693044ba297ecd8eb2967e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251006T091500Z
-LOCATION:3-115
-DTSTART:20251006T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:c760e7283b030cca07cdac5a75838912
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Антуфьев Борис Андреевич
 DTEND:20251117T131500Z
 LOCATION:ГУК Б-460
@@ -150,22 +142,6 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:41066c1156723640d5b739e5a3a396f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251124T091500Z
-LOCATION:3-115
-DTSTART:20251124T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:e44246ed342f4aad3f4f77e6e3f5062a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251201T091500Z
-LOCATION:3-115
-DTSTART:20251201T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:52bac771ed2c866a48de7f558fa5ad6b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250927T091500Z
 LOCATION:--каф.
 DTSTART:20250927T074500Z
@@ -179,6 +155,14 @@ LOCATION:3-232
 DTSTART:20250902T133000Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:cdced29e9ae910d037aeea6d54884baf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251201T091500Z
+LOCATION:3-115
+DTSTART:20251201T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:d1c9a65501df7acc6cb70bf4872134ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T073000Z
@@ -201,14 +185,6 @@ LOCATION:ГУК Б-649
 DTSTART:20251216T074500Z
 SUMMARY:ЛК Теоретическая механика
 UID:801d58eeb3878020d627ac689f101101
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251020T091500Z
-LOCATION:3-115
-DTSTART:20251020T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:20b1819498241f29a545c83d9e643ef0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
@@ -247,14 +223,6 @@ LOCATION:ГУК А-722
 DTSTART:20251001T114500Z
 SUMMARY:ПЗ Инженерная графика
 UID:d7edc1220f78b252902f892556105edf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251110T091500Z
-LOCATION:3-115
-DTSTART:20251110T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:cedbe5f6286c580bb4bc0af4cdad4919
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T131500Z
@@ -362,6 +330,13 @@ SUMMARY:ПЗ Физическая культура
 UID:7ddb214d96a9e728bb97a7934972c51d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251103T113000Z
+LOCATION:--каф. 919
+DTSTART:20251103T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:28091e6512e5a873ee399ab2c745affb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251124T113000Z
 LOCATION:--каф. 919
 DTSTART:20251124T100000Z
@@ -392,11 +367,12 @@ SUMMARY:ЛК Материаловедение
 UID:d316e3613628bed99b62b41c9f9f56b0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:--каф.
-DTSTART:20251220T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:be2a5f29460bdf0adb850ee90d3056db
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251103T091500Z
+LOCATION:3-115
+DTSTART:20251103T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:d4b567dd48ab824c95f7c05613ab7425
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251213T073000Z
@@ -404,6 +380,13 @@ LOCATION:--каф.
 DTSTART:20251213T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:7f7ef12d5d80aeaef1aacad7530feb13
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251220T113000Z
+LOCATION:--каф.
+DTSTART:20251220T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:be2a5f29460bdf0adb850ee90d3056db
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250905T073000Z
@@ -496,6 +479,14 @@ SUMMARY:ПЗ Инженерная графика
 UID:11df2af5a7dd4287607b2694814e3045
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251020T091500Z
+LOCATION:3-115
+DTSTART:20251020T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:f10e04e746a5128691facab4e9117b22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
 DTEND:20251015T073000Z
 LOCATION:ГУК А-108
@@ -525,6 +516,14 @@ LOCATION:ГУК Б-460
 DTSTART:20250901T133000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:38fc407702cda25598d93fe5be738108
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20250929T091500Z
+LOCATION:3-115
+DTSTART:20250929T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:865c700b49654135f6304949119ce5dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
@@ -571,6 +570,14 @@ LOCATION:--каф.
 DTSTART:20250920T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b9f093450ec8aff7bb9bac6f7718b3ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20250922T091500Z
+LOCATION:3-115
+DTSTART:20250922T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a6943355640cc4e3ef614aa02e623893
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
@@ -706,14 +713,6 @@ SUMMARY:ПЗ Физическая культура
 UID:fe082a05a47d24cee18bca8f86ca7804
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251208T091500Z
-LOCATION:3-115
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8707efb723a1542dce7f637a8dbea7d8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Антуфьев Борис Андреевич
 DTEND:20251014T131500Z
 LOCATION:ГУК Б-656
@@ -804,19 +803,19 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:efcfce88f9cecd00174da0989fc876d9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251006T091500Z
+LOCATION:3-115
+DTSTART:20251006T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a76945090a8bf96dcb0d93c31ad18e67
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T131500Z
 LOCATION:ГУК А-722
 DTSTART:20251112T114500Z
 SUMMARY:ПЗ Инженерная графика
 UID:cc75226b4a925cca9cc87e38c55586a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20250922T091500Z
-LOCATION:3-115
-DTSTART:20250922T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:47e09f6c3782152da838359eb89e3db2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
@@ -886,14 +885,6 @@ LOCATION:ГУК А-722
 DTSTART:20251224T114500Z
 SUMMARY:ПЗ Инженерная графика
 UID:0c9073345b1d7f5ff3b2009a0e698b7f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251027T091500Z
-LOCATION:3-115
-DTSTART:20251027T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:3816ff57fb6b51fc06f9547c86a5363f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антуфьев Борис Андреевич
@@ -1074,14 +1065,6 @@ LOCATION:ГУК Б-649
 DTSTART:20251202T074500Z
 SUMMARY:ЛК Теоретическая механика
 UID:f65fd7449d3066b08bddfa05fb18ff05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20250915T091500Z
-LOCATION:3-115
-DTSTART:20250915T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:01d9a627c301ec03a6409e29822c18d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рудненко Александр Васильевич
@@ -1288,6 +1271,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:9b9a45b128620d25f3f65a66775d8d82
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251215T091500Z
+LOCATION:3-115
+DTSTART:20251215T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4004ac20117d7fa5ce4a058c37347b5e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
 DTEND:20251003T150000Z
 LOCATION:3-127
@@ -1303,11 +1294,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:f69e038fee37e2a89b7c3fca2d9e0ded
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251227T131500Z
+DTEND:20251101T131500Z
 LOCATION:--каф.
-DTSTART:20251227T114500Z
+DTSTART:20251101T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:5781818af3331544703ecd1d74285feb
+UID:6aa748c2b46fa8d346709343cad8adb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антуфьев Борис Андреевич
+DTEND:20251103T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20251103T114500Z
+SUMMARY:ЛК Сопротивление материалов
+UID:0a35ea98051ca7f0139111b8409acfd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
@@ -1316,6 +1315,13 @@ LOCATION:Орш. В-406
 DTSTART:20251226T060000Z
 SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:0d68d24dac72a265a139c120ffd6cf04
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251227T131500Z
+LOCATION:--каф.
+DTSTART:20251227T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5781818af3331544703ecd1d74285feb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
@@ -1387,6 +1393,13 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:f2c8d3d27d06523aa9141bafecb3bdea
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251101T091500Z
+LOCATION:--каф.
+DTSTART:20251101T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1c8849241ff287cbc9e5cd40baf9571f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T113000Z
 LOCATION:Орш. А-507
 DTSTART:20251107T100000Z
@@ -1406,6 +1419,14 @@ LOCATION:--каф. 919
 DTSTART:20251023T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:372e52c0448ce195d928d85f5f1d7670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251117T091500Z
+LOCATION:3-115
+DTSTART:20251117T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:b91ab4d3bf8943b52aed1285ac9c93d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чуркина Татьяна Евгеньевна
@@ -1445,14 +1466,6 @@ LOCATION:7-207
 DTSTART:20250905T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:e257a0c50033d7af33fc3a500c3fd7d2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251103T091500Z
-LOCATION:3-115
-DTSTART:20251103T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d944076e0aa87db41e80b2590e7e6d6f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T091500Z
@@ -1530,6 +1543,14 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:ddd35b5be0cbe527575a4cc12cbd6345
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251110T091500Z
+LOCATION:3-115
+DTSTART:20251110T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:10669028da452a37f29d3ce2927b3054
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T131500Z
 LOCATION:--каф. 919
 DTSTART:20251016T114500Z
@@ -1537,11 +1558,27 @@ SUMMARY:ПЗ Физическая культура
 UID:3c7faebfe127e15ea6e26c54fe08087b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251208T091500Z
+LOCATION:3-115
+DTSTART:20251208T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:799e32268f84f169da3d12a0a5a3dbe9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250919T091500Z
 LOCATION:7-207
 DTSTART:20250919T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:68958d486bae3c0ea0e639abae630eb7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251124T091500Z
+LOCATION:3-115
+DTSTART:20251124T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:9a8c7a091053a321a97a42790bd2e477
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
@@ -1669,20 +1706,20 @@ SUMMARY:ПЗ Инженерная графика
 UID:f07f0bbf22cb38a4d066cb3becfef6b9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кутина Елена Валентиновна
-DTEND:20251121T091500Z
-LOCATION:Орш. А-301
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Материаловедение
-UID:cede622e54c10956fd76d15783897f87
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Антуфьев Борис Андреевич
 DTEND:20251208T131500Z
 LOCATION:ГУК Б-460
 DTSTART:20251208T114500Z
 SUMMARY:ЛК Сопротивление материалов
 UID:706c359a02e638360f621cbddc4cec2b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кутина Елена Валентиновна
+DTEND:20251121T091500Z
+LOCATION:Орш. А-301
+DTSTART:20251121T074500Z
+SUMMARY:ЛК Материаловедение
+UID:cede622e54c10956fd76d15783897f87
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T113000Z
@@ -1733,14 +1770,6 @@ LOCATION:--каф. 919
 DTSTART:20251020T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:0f627f88a3dc63958875747f1d0cfd41
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251117T091500Z
-LOCATION:3-115
-DTSTART:20251117T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:9009978f2dc6ccec3b3e2c3901b3dcd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
@@ -1796,6 +1825,14 @@ LOCATION:Орш. Б-306
 DTSTART:20251219T060000Z
 SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:0dd9eba83087ff6ab87c1a3d03b46ff4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20250915T091500Z
+LOCATION:3-115
+DTSTART:20250915T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:53adcd3d6cb82ed163ce584eb8b24894
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антуфьев Борис Андреевич
@@ -1897,19 +1934,18 @@ SUMMARY:ЛР Материаловедение
 UID:4810603f5dc97d134ea03a7f67cf0379
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251229T091500Z
-LOCATION:3-115
-DTSTART:20251229T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:6dc7082f0f5462f4dcc835a01056aeee
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251030T131500Z
 LOCATION:--каф. 919
 DTSTART:20251030T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:c090dba66cff34b6ba075c4cfed60250
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T073000Z
+LOCATION:--каф.
+DTSTART:20251101T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:023f084d832e5eefec40aca20f4e1e6e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
@@ -1926,6 +1962,14 @@ LOCATION:ГУК Б-460
 DTSTART:20251117T151500Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:7274001512ab550e0fe3ff6af98c4b53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251229T091500Z
+LOCATION:3-115
+DTSTART:20251229T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:3283657714f10a4265990fc9fa2725a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Савин Александр Александрович
@@ -1950,20 +1994,20 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:36e2337a69cef9c73d750b1edc831e7a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20250929T091500Z
-LOCATION:3-115
-DTSTART:20250929T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:31f9784db94246b0bd70f010d7a7724e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Семенихин Константин Владимирович
 DTEND:20250909T113000Z
 LOCATION:ГУК Б-656
 DTSTART:20250909T100000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:d95ad1e89dc78fa8f26cd63c583a1688
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251013T091500Z
+LOCATION:3-115
+DTSTART:20251013T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4b9960198917142fc78c55abbe8e6880
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T091500Z
@@ -2061,14 +2105,6 @@ LOCATION:--каф.
 DTSTART:20251011T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:3ce00a857b9ddc7d2aa13b37da04030c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251222T091500Z
-LOCATION:3-115
-DTSTART:20251222T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8e8b6d52b930598ec243ec2612359d13
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T113000Z
@@ -2257,6 +2293,14 @@ SUMMARY:ПЗ Физическая культура
 UID:3f33ac097344e6fbdb89751dd25ea2b8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251027T091500Z
+LOCATION:3-115
+DTSTART:20251027T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:836bcb1a7cf64f0a8c29547746127b49
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250906T113000Z
 LOCATION:--каф.
 DTSTART:20250906T100000Z
@@ -2277,14 +2321,6 @@ LOCATION:1-РЦ ПЛА 2 этаж
 DTSTART:20251008T060000Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:7f563d1e9b7d60eb9cbd1cd722bbe92d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251215T091500Z
-LOCATION:3-115
-DTSTART:20251215T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:ffee44535b354ee42fa1bf730d3f5e68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутина Елена Валентиновна
@@ -2391,19 +2427,18 @@ SUMMARY:ЛР Материаловедение
 UID:d62546140bff76fbbd9bfe7dec29863e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна
-DTEND:20251013T091500Z
-LOCATION:3-115
-DTSTART:20251013T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:eab43d4194bc6f049133d014abfd3e1b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250927T131500Z
 LOCATION:--каф.
 DTSTART:20250927T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:abf897197ca9e9784d66ad7dfdd22c8b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T113000Z
+LOCATION:--каф.
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2dd59bf434fc076f45cc089b3618913b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сторчевой Владимир Федорович
@@ -2526,6 +2561,14 @@ LOCATION:3-232
 DTSTART:20251021T133000Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:6f28c5e0a2a1eec9027fe40433d78402
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20251222T091500Z
+LOCATION:3-115
+DTSTART:20251222T074500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:591962d3cff91ed26069534a58b239ec
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T073000Z
