@@ -166,14 +166,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:f66ac3d987b397c52f968c37e74b4a97
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Жарков Максим Витальевич
-DTEND:20251027T131500Z
-LOCATION:3-314
-DTSTART:20251027T114500Z
-SUMMARY:ПЗ Основы теории пилотажно-навигационных систем
-UID:6992c84a1d90721e7028b9acf2658eaa
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251127T131500Z
 LOCATION:--каф.
 DTSTART:20251127T114500Z
@@ -565,6 +557,14 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:a032640546ae98594bf2db6457aa20cf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Жарков Максим Витальевич
+DTEND:20251125T150000Z
+LOCATION:3-344
+DTSTART:20251125T133000Z
+SUMMARY:ПЗ Основы теории пилотажно-навигационных систем
+UID:b9f8680378236f395873c30f85ea57b2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кушнир Дмитрий Михайлович
 DTEND:20251129T073000Z
 LOCATION:3-241
@@ -580,20 +580,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:f25ad1e6314b92f0e663f9b6a622f795
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Коробков Кирилл Андреевич
-DTEND:20251212T131500Z
-LOCATION:3-441
-DTSTART:20251212T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:2af13e62eebb8c1da667f245c8f080bf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мулин Павел Викторович
 DTEND:20251201T073000Z
 LOCATION:3-245
 DTSTART:20251201T060000Z
 SUMMARY:ЛР Моделирование систем
 UID:5c1773773f87100c8341cfd65f5600fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробков Кирилл Андреевич
+DTEND:20251212T131500Z
+LOCATION:3-441
+DTSTART:20251212T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:2af13e62eebb8c1da667f245c8f080bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -1597,12 +1597,12 @@ SUMMARY:ЛК Основы теории пилотажно-навигационн
 UID:e4c18f5ed8276bcac325b7b7a8a22726
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Жарков Максим Витальевич
-DTEND:20251031T113000Z
-LOCATION:ГУК Б-649
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Основы теории пилотажно-навигационных систем
-UID:73a6dfe1d71ae7b7e373011ca093f150
+DESCRIPTION:Белоногов Виктор Дмитриевич
+DTEND:20251219T073000Z
+LOCATION:3-243
+DTSTART:20251219T060000Z
+SUMMARY:ЛР Математические основы и вычислительные алгоритмы теории автоматического управления
+UID:5220b1057639c4f49c30e50a92939fc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоногов Виктор Дмитриевич
@@ -1619,14 +1619,6 @@ LOCATION:3-243
 DTSTART:20251103T100000Z
 SUMMARY:ЛК Математические основы и вычислительные алгоритмы теории автоматического управления
 UID:be492612bff7ae64490f8d52c6bad928
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоногов Виктор Дмитриевич
-DTEND:20251219T073000Z
-LOCATION:3-243
-DTSTART:20251219T060000Z
-SUMMARY:ЛР Математические основы и вычислительные алгоритмы теории автоматического управления
-UID:5220b1057639c4f49c30e50a92939fc9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T073000Z
@@ -1684,6 +1676,14 @@ UID:872af4fac0ee6d806702007cbb4ee81a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Жарков Максим Витальевич
+DTEND:20251115T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20251115T100000Z
+SUMMARY:ЛК Основы теории пилотажно-навигационных систем
+UID:c38f96ba8945d74c15ad8a61613b122d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Жарков Максим Витальевич
 DTEND:20260112T131500Z
 LOCATION:3-344
 DTSTART:20260112T114500Z
@@ -1692,19 +1692,19 @@ UID:40d31e12ea4d3dd913290007c35f0ef1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20260124T073000Z
-LOCATION:3-141
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Системы автоматического управления воздушными летательными аппаратами
-UID:b9e0f649b0006f3936ab5add3451a4b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
 DTEND:20251003T164500Z
 LOCATION:3-141
 DTSTART:20251003T151500Z
 SUMMARY:ЛР Системы автоматического управления воздушными летательными аппаратами
 UID:1a19cd8bfd23ff1f7b2c518eec21fb43
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20260124T073000Z
+LOCATION:3-141
+DTSTART:20260124T060000Z
+SUMMARY:Экзамен Системы автоматического управления воздушными летательными аппаратами
+UID:b9e0f649b0006f3936ab5add3451a4b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мелюков Сергей Александрович
@@ -2194,6 +2194,14 @@ LOCATION:--каф.
 DTSTART:20251204T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:cf6deb73043c3886e67f8d1b6f887c22
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Жарков Максим Витальевич
+DTEND:20251115T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20251115T114500Z
+SUMMARY:ЛК Основы теории пилотажно-навигационных систем
+UID:b99409aa13bc85a7d110dfad91f61e77
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T073000Z
