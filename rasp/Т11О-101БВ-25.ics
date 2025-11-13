@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251015T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251015T133000Z
-SUMMARY:ПЗ Общая физика
-UID:1a78a5c47bdf234fdab86e2c9ac6494b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251108T091500Z
 LOCATION:Орш. В-307
@@ -50,22 +42,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:5d8ec85125b8a72aeddc246b9b36c013
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20260124T073000Z
-LOCATION:Орш. Б-303
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Математический анализ
-UID:b3559147c05d28be10e2bd5a6d4b69e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251022T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251022T133000Z
-SUMMARY:ПЗ Общая физика
-UID:8b02eb0217716be8b2f7506dceebfedc
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250924T091500Z
 LOCATION:--стадион
 DTSTART:20250924T074500Z
@@ -86,6 +62,14 @@ LOCATION:Орш. В-611
 DTSTART:20251208T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:2272586db1ccd7373a10c9f280d464af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251124T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251124T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:f0f9dcd3fe75ad0e525eec10db5da5bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -112,14 +96,6 @@ SUMMARY:ЛК Информатика
 UID:7bc7e02af562d3f927d87eba1f5f706d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251224T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:88ed051ed1aec91ebf305aec9204a057
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251108T073000Z
 LOCATION:Орш. В-401
@@ -134,14 +110,6 @@ LOCATION:Орш. А-101
 DTSTART:20251218T114500Z
 SUMMARY:ЛК История России
 UID:889ef0b523eb084acd984653a0c8a5de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250929T150000Z
-LOCATION:Орш. А-101
-DTSTART:20250929T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:379cb536e046ab0d1126ea3bbc04d1f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Инюшева Мария Сергеевна
@@ -160,14 +128,6 @@ SUMMARY:ЛК Информатика
 UID:5c9541e88a6e1dbeb4c5d4fa6c595704
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250915T150000Z
-LOCATION:Орш. А-101
-DTSTART:20250915T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:58e34e7fcc4f385bdfd512510ced675e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20251205T150000Z
 LOCATION:Орш. А-525
@@ -176,11 +136,27 @@ SUMMARY:ПЗ Информатика
 UID:786af0098f41ee5a0ee7c08511b1587c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260124T073000Z
+LOCATION:Орш. Б-303
+DTSTART:20260124T060000Z
+SUMMARY:Экзамен Математический анализ
+UID:66847f0411f5c50502589e7f0688eccc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251223T164500Z
 LOCATION:Орш. В-608
 DTSTART:20251223T151500Z
 SUMMARY:ЛР Химия
 UID:85a042fd2026b7ab7601644e959d5fe2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250918T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250918T074500Z
+SUMMARY:ЛК Математический анализ
+UID:060703c2929f409e12cf3da6f9c9f156
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -197,22 +173,6 @@ LOCATION:Орш. В-501
 DTSTART:20250904T133000Z
 SUMMARY:ЛК Основы российской государственности
 UID:84b90af8c3c53d5a9697bdaaac8a4e9f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251203T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251203T133000Z
-SUMMARY:ПЗ Общая физика
-UID:78989fbaa019018938f4393ee0b1b1b8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250904T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250904T074500Z
-SUMMARY:ЛК Математический анализ
-UID:94a2b4a11c2cb8343ff43bbd49de6179
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -238,12 +198,12 @@ SUMMARY:ЛК Начертательная геометрия и инженерн
 UID:3b9be73180aa855f75902d6ad6ca99c4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251015T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251015T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:f1091b6f94face3c6520c89e1d66fd6e
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250915T150000Z
+LOCATION:Орш. А-101
+DTSTART:20250915T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:ad934eb1fe2c727f20878cb7c2a9db61
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251230T131500Z
@@ -251,6 +211,14 @@ LOCATION:Орш. Б-303
 DTSTART:20251230T114500Z
 SUMMARY:ЛК Начертательная геометрия и инженерная графика
 UID:835b5c8ef0c68bf92185b39fce32d218
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251201T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251201T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:4e56adda561acf1b09695944c02a88b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -261,11 +229,27 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:5c450c38727e55a78e83b56fd45ba78d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251105T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251105T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:25f645d89e1ecdfc4b44deb609f4da0d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T150000Z
 LOCATION:Орш. Б-303
 DTSTART:20251118T133000Z
 SUMMARY:ПЗ Начертательная геометрия и инженерная графика
 UID:bdc8b279bbc10a2966431f05ba800120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251119T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251119T133000Z
+SUMMARY:ПЗ Общая физика
+UID:26dcaba4b391b90cb7862b8265bd29b9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T113000Z
@@ -306,35 +290,19 @@ SUMMARY:ЛК Общая физика
 UID:ff8faa153553807f046d64b473e6bed9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251126T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251126T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:a973f4f6f54fcff0ffed74c9b5891ed5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251111T091500Z
 LOCATION:ГАК-320
 DTSTART:20251111T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:df0c9f362006c3887b4a999a7247376c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251217T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251217T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:79129afcf7ed1694528a8c71c87d9cbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251126T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251126T133000Z
-SUMMARY:ПЗ Общая физика
-UID:2e48c433cdb234977b17a550c5c4d176
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250903T131500Z
-LOCATION:Орш. В-223
-DTSTART:20250903T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:5b707e17df522f1486fe3faad248a495
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T113000Z
@@ -368,14 +336,6 @@ SUMMARY:ПЗ Экономическая теория
 UID:ebb5da2f407e921e219ad71398e2487e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250910T131500Z
-LOCATION:Орш. В-223
-DTSTART:20250910T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:b2f11f72a6b9226a8394065eb91c2b32
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВЫСК НАТАЛИЯ ДМИТРИЕВНА
 DTEND:20250904T113000Z
 LOCATION:Орш. В-204
@@ -392,12 +352,12 @@ SUMMARY:ПЗ Математический анализ
 UID:8d355b4c38dd09f805c4e56652ae563a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251106T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251106T074500Z
-SUMMARY:ЛК Математический анализ
-UID:48aabf90cf2b781e8bf89fe089e98334
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250922T150000Z
+LOCATION:Орш. А-101
+DTSTART:20250922T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:3dfecc867477c476dd69c801a1b0ea71
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251213T113000Z
@@ -437,14 +397,6 @@ SUMMARY:ЛК Химия
 UID:ae42a9b0fc946748312dc53e19b20281
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251029T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251029T133000Z
-SUMMARY:ПЗ Общая физика
-UID:c4e7834a3995f85efca5ba300f5a57b0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20250919T131500Z
 LOCATION:Орш. А-523
@@ -460,12 +412,36 @@ SUMMARY:ПЗ Физическая культура
 UID:06e7d70ac340f51e76c78e43791e1c22
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251002T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251002T074500Z
+SUMMARY:ЛК Математический анализ
+UID:72a35a4680d7bf10106b863f238c29e3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузьмина Татьяна Дмитриевна
 DTEND:20251103T113000Z
 LOCATION:Орш. В-601
 DTSTART:20251103T100000Z
 SUMMARY:ЛР Общая физика
 UID:e2e6ffdcd4db62f1913ff96bc4c0acbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20250917T150000Z
+LOCATION:Орш. В-306
+DTSTART:20250917T133000Z
+SUMMARY:ПЗ Общая физика
+UID:6e13f8a7a6d6326480a2255c230510e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251020T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251020T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:7d8d5875b73852dd5aca5a0f13da615f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Инюшева Мария Сергеевна
@@ -497,14 +473,6 @@ SUMMARY:ПЗ Физическая культура
 UID:ed95ae703211dc43a0f4e60682eca233
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251225T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251225T074500Z
-SUMMARY:ЛК Математический анализ
-UID:d8abc4bc7a338edc9b36c1c576467939
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВЫСК НАТАЛИЯ ДМИТРИЕВНА
 DTEND:20251120T113000Z
 LOCATION:Орш. В-204
@@ -527,6 +495,14 @@ LOCATION:Орш. В-204
 DTSTART:20250911T100000Z
 SUMMARY:ПЗ Математический анализ
 UID:a75a14173ca21efe3891dea86dfe66ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250908T150000Z
+LOCATION:Орш. А-101
+DTSTART:20250908T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:8fffc3c06e1ab38edd3c0a73a629a5fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -552,6 +528,14 @@ SUMMARY:ЛК Химия
 UID:cc2aaf3110dd1053a4c1cf911604749c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251013T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251013T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:805aab487b15b99a04f367add472936d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251227T113000Z
 LOCATION:--стадион
 DTSTART:20251227T100000Z
@@ -565,6 +549,14 @@ LOCATION:Орш. А-101
 DTSTART:20251211T114500Z
 SUMMARY:ЛК История России
 UID:34cf16a5b61085a561484a39d8163ed4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251119T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251119T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:a337bce144d58c0162e99517f77ed8d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
@@ -583,20 +575,20 @@ SUMMARY:ПЗ Информатика
 UID:f9183247081c683074a0e622a57c6e0b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251113T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251113T074500Z
-SUMMARY:ЛК Математический анализ
-UID:0cf1fd5f0348f9c39b692dfdfcd673b0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20251030T131500Z
 LOCATION:Орш. А-101
 DTSTART:20251030T114500Z
 SUMMARY:ЛК История России
 UID:63b0fe96a5cd6a19120f6161a150996f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251022T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251022T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e3b0ea7f382623d5f006e0bbb3248d82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -613,6 +605,14 @@ LOCATION:Орш. В-204
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Математический анализ
 UID:71aa65296034ce00dd0ed0f68c3782ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251210T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251210T133000Z
+SUMMARY:ПЗ Общая физика
+UID:f33ae9d246129195c42b777d00d8b6d0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -653,12 +653,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:86659f89c9a9652b8e1baa99b544b11b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251030T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251030T074500Z
-SUMMARY:ЛК Математический анализ
-UID:f955f49c7d8be360f1a32b28aeef232c
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251126T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251126T133000Z
+SUMMARY:ПЗ Общая физика
+UID:c397f4935e780d29dcccd4faad96ade4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -677,14 +677,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:f61d25a5ff0f7fe748a788700abc15db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251229T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251229T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:0f15b75ff34fd2c40948266c17d03b84
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250930T091500Z
 LOCATION:ГАК-320
 DTSTART:20250930T074500Z
@@ -697,6 +689,14 @@ LOCATION:Орш. Б-303
 DTSTART:20251007T133000Z
 SUMMARY:ПЗ Начертательная геометрия и инженерная графика
 UID:4c88995f7c18e8a9687ce79ff671e5bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251113T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251113T074500Z
+SUMMARY:ЛК Математический анализ
+UID:ffde1bbec273dc096f5d056f7cb6760a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251021T091500Z
@@ -737,19 +737,19 @@ SUMMARY:ПЗ Информатика
 UID:f43754a754be42ef07b37fd552a049b6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251106T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251106T074500Z
+SUMMARY:ЛК Математический анализ
+UID:c391aaa75aba3f4862a5488808457bf9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T091500Z
 LOCATION:1-23  ангар
 DTSTART:20251118T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:202cf13f1055d1f4fff4c05320596954
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250911T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250911T074500Z
-SUMMARY:ЛК Математический анализ
-UID:0bab245bd63e46d535b23a0c9eb659e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
@@ -784,12 +784,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:74230c285c289806de2e318ab8e60061
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251204T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251204T074500Z
-SUMMARY:ЛК Математический анализ
-UID:1b65935ef444e12ee708b4d02ac545a5
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251015T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251015T133000Z
+SUMMARY:ПЗ Общая физика
+UID:4eaa0ece7aae70a188333b2f738675ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -823,12 +823,12 @@ SUMMARY:ПЗ Математический анализ
 UID:3a9916271e482996b84ab42e0646060c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250925T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250925T074500Z
-SUMMARY:ЛК Математический анализ
-UID:7b6f90c8c0554d25024c475efcbafce5
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251029T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251029T133000Z
+SUMMARY:ПЗ Общая физика
+UID:15faa1dc86da82e413256fd28ccc992d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T091500Z
@@ -854,20 +854,20 @@ SUMMARY:ЛК Информатика
 UID:51f5d48d8bec7ef0a7b4658180491522
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260116T073000Z
+LOCATION:Орш. Б-303
+DTSTART:20260116T060000Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:9c1cbfb1ce5352f3814029482eb251a7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20250919T113000Z
 LOCATION:Орш. А-509
 DTSTART:20250919T100000Z
 SUMMARY:ПЗ Начертательная геометрия и инженерная графика
 UID:ee52c4cb7fc6708a9acaf00cec06f352
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251211T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251211T074500Z
-SUMMARY:ЛК Математический анализ
-UID:00bfadc26494c98be059ad670d0066f1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T091500Z
@@ -908,28 +908,20 @@ SUMMARY:ПЗ Химия
 UID:0f3dbad70665bf18438f72a8e88660e4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251117T150000Z
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251211T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251211T074500Z
+SUMMARY:ЛК Математический анализ
+UID:799ae790fb17d6e648287b500f2f831e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251229T150000Z
 LOCATION:Орш. А-101
-DTSTART:20251117T133000Z
+DTSTART:20251229T133000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4113af1577187290a2e7c9b30487a9e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251218T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251218T074500Z
-SUMMARY:ЛК Математический анализ
-UID:fdc32af1c94d6c6c59823b0b23bd66cc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251002T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251002T074500Z
-SUMMARY:ЛК Математический анализ
-UID:755bd03ece650cb755fcf79ab7025f3e
+UID:510aa7ace49557e4116906602af0fd01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -956,14 +948,6 @@ SUMMARY:ПЗ История России
 UID:42990756e7a66e4340365edaed191109
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251124T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251124T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:a66a36714a6840b2ddfc985f510f334a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251001T091500Z
 LOCATION:--стадион
 DTSTART:20251001T074500Z
@@ -978,12 +962,28 @@ SUMMARY:ПЗ Физическая культура
 UID:26f6798853e9e23e57ddea72de7aea33
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251008T131500Z
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251117T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251117T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:452074eda8b1e30a5ba24650828e8a1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251001T131500Z
 LOCATION:Орш. В-223
-DTSTART:20251008T114500Z
+DTSTART:20251001T114500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:f8493d2df2afaead6327b8a6c0057dd5
+UID:6d2af31c971265404fcd39863f1aa580
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251110T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251110T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:787a837ff82c9e37fde90e1154ffadb5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T150000Z
@@ -1025,14 +1025,6 @@ SUMMARY:ПЗ Математический анализ
 UID:3db330c7911dee1a325239b42cb997af
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20250924T150000Z
-LOCATION:Орш. В-306
-DTSTART:20250924T133000Z
-SUMMARY:ПЗ Общая физика
-UID:499ce485e1b847617696b5bc7a199d80
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250920T113000Z
 LOCATION:--стадион
 DTSTART:20250920T100000Z
@@ -1040,28 +1032,36 @@ SUMMARY:ПЗ Физическая культура
 UID:562055bd4d096237032d7b96d39c333a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20250917T150000Z
-LOCATION:Орш. В-306
-DTSTART:20250917T133000Z
-SUMMARY:ПЗ Общая физика
-UID:85aad5c901774cca5760aa3a76933fb2
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251120T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251120T074500Z
+SUMMARY:ЛК Математический анализ
+UID:268906f6925df495a95f15fcd5bc6eb6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251112T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:a39ae0041da974412d7d1fc70cc7ac7c
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251105T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251105T133000Z
+SUMMARY:ПЗ Общая физика
+UID:99d454143b8ee55f141d668da6b27366
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251112T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251112T133000Z
-SUMMARY:ПЗ Общая физика
-UID:20e67708123239e667c3151ede2975b9
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251204T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251204T074500Z
+SUMMARY:ЛК Математический анализ
+UID:467deb7bdde64f0ca7c0646e8983358a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251215T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251215T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:c958e7916d8698cc99885248fe487f16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -1070,6 +1070,14 @@ LOCATION:Орш. А-525
 DTSTART:20251010T133000Z
 SUMMARY:ПЗ Информатика
 UID:672ecedfafe12f40da7141be3d5076ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20250924T150000Z
+LOCATION:Орш. В-306
+DTSTART:20250924T133000Z
+SUMMARY:ПЗ Общая физика
+UID:7b610404e0cb267913e5b0a8a381c352
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -1093,14 +1101,6 @@ LOCATION:1-23  ангар
 DTSTART:20251216T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:957c71744588c1bcb5395e10efea9088
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251027T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251027T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:5a4867be609dfd87ecb7a6fa753c1506
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Инюшева Мария Сергеевна
@@ -1135,19 +1135,19 @@ SUMMARY:ПЗ Экономическая теория
 UID:f9af2406d01fb832ac384fc5a9146109
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251016T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251016T074500Z
-SUMMARY:ЛК Математический анализ
-UID:562364d6bb21eaae4ddacca56ed5f63a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250927T113000Z
 LOCATION:--стадион
 DTSTART:20250927T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:53289981c02b022e6a720d0f729b4300
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250924T131500Z
+LOCATION:Орш. В-223
+DTSTART:20250924T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e0ea408e26e7d1132480e241695fe228
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T091500Z
@@ -1180,30 +1180,6 @@ SUMMARY:ЛК Экономическая теория
 UID:8741e34cff275d6c331c828e6932399c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251001T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251001T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:045ff067d6c10afc3e0f8ab84371df41
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251210T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251210T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:f3b48f3677efe61d7efce205c255d103
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250918T091500Z
-LOCATION:Орш. В-301
-DTSTART:20250918T074500Z
-SUMMARY:ЛК Математический анализ
-UID:2e5dcc410c33095a2f97ad8f4db9f485
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250930T164500Z
 LOCATION:Орш. В-608
 DTSTART:20250930T151500Z
@@ -1227,28 +1203,12 @@ SUMMARY:ЛК История России
 UID:ffb7dea235ba040dcee90f6432eb7cf8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251215T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251215T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:6370f03d06487ac3ff20356c0267a3a4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251115T091500Z
 LOCATION:Орш. В-307
 DTSTART:20251115T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:09a2ce93d92c8877558a3c7a01c48502
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251001T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251001T133000Z
-SUMMARY:ПЗ Общая физика
-UID:fef75d252b1da48950ebc066ec125bd3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T131500Z
@@ -1319,28 +1279,20 @@ SUMMARY:ПЗ Физическая культура
 UID:95b9ad181ec92cc44b2fcb51da13a7fc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251029T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251029T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:62dfa288effaa538fc95a19b0f4df7ce
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251110T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251110T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4da43bd169f66eeae8fd9d69cce00e6a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20250926T150000Z
 LOCATION:Орш. А-525
 DTSTART:20250926T133000Z
 SUMMARY:ПЗ Информатика
 UID:35a97f854aee9d2e49461af3427f53b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251225T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251225T074500Z
+SUMMARY:ЛК Математический анализ
+UID:2d356c7afdd87f3ec220a0cb35f1f3b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
@@ -1382,20 +1334,20 @@ SUMMARY:ЛК История России
 UID:f99b972448fb219c6e0ec2e3f61b167a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251126T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251126T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:1bd81a07675db53c23480306b3680bbc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20251003T131500Z
 LOCATION:Орш. А-523
 DTSTART:20251003T114500Z
 SUMMARY:ЛК Информатика
 UID:7d94c02897d67b98d07b042d96ae9737
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250911T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250911T074500Z
+SUMMARY:ЛК Математический анализ
+UID:d38a9656da9788462ff5adddd848cea1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -1422,6 +1374,14 @@ SUMMARY:ЛК Информатика
 UID:816a73e666b0e37b6bf632c9629b2bb6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251112T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251112T133000Z
+SUMMARY:ПЗ Общая физика
+UID:f282b43088bf2164493719aba88840e1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251028T150000Z
 LOCATION:Орш. В-608
 DTSTART:20251028T133000Z
@@ -1429,12 +1389,12 @@ SUMMARY:ПЗ Химия
 UID:8fae1b45ccd65562f307d30266110dba
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251009T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251009T074500Z
-SUMMARY:ЛК Математический анализ
-UID:d76d09d6ea4d85f7661a16c1c33d4c05
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251029T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251029T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:37648ac879f5e2e44e17bba07a4edff1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
@@ -1443,6 +1403,14 @@ LOCATION:Орш. В-101
 DTSTART:20251205T114500Z
 SUMMARY:ЛК Экономическая теория
 UID:10b78bcb287657e05d3cfd45434b1020
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250904T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250904T074500Z
+SUMMARY:ЛК Математический анализ
+UID:ff8cc363a3e929b15bfdd970464bb829
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T164500Z
@@ -1489,14 +1457,6 @@ LOCATION:--стадион
 DTSTART:20251011T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:bcec9fdfec46d3a57f80c6b09fd7293c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251013T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251013T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:e7eb1e72ea1247bd6fe1991d768640b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T113000Z
@@ -1560,20 +1520,20 @@ SUMMARY:ПЗ Информатика
 UID:3c60d98d1f69dc839f12214e3a7d91db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251222T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251222T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:ae745a07671e2f33f56c6196059d172c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251212T150000Z
 LOCATION:Орш. В-506
 DTSTART:20251212T133000Z
 SUMMARY:ПЗ Экономическая теория
 UID:a03bea06150794f07f5bb4740092fb91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
+DTEND:20251226T113000Z
+LOCATION:Орш. А-525
+DTSTART:20251226T100000Z
+SUMMARY:ПЗ Информатика
+UID:59ec13609d2ea182ad0a337e2c68061a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T091500Z
@@ -1583,20 +1543,12 @@ SUMMARY:ПЗ Физическая культура
 UID:a506a6db63fe1e3bdbe7111b26f2e99f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250922T150000Z
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251208T150000Z
 LOCATION:Орш. А-101
-DTSTART:20250922T133000Z
+DTSTART:20251208T133000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:ca1d859b45323dd86833531f4721af1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
-DTEND:20251226T113000Z
-LOCATION:Орш. А-525
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Информатика
-UID:59ec13609d2ea182ad0a337e2c68061a
+UID:78cc6a1c8b7cfafca50dcc3100fce123
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВЫСК НАТАЛИЯ ДМИТРИЕВНА
@@ -1615,14 +1567,6 @@ SUMMARY:ПЗ История России
 UID:13b4efcb1bffd607c0a1d02cc2f29c0d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251210T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251210T133000Z
-SUMMARY:ПЗ Общая физика
-UID:307030b826bc497a5a9908247ce803e3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
 DTEND:20251107T164500Z
 LOCATION:Орш. А-525
@@ -1637,6 +1581,14 @@ LOCATION:Орш. В-307
 DTSTART:20250913T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:e800cbbb762beac29535eb54a6b9156e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251027T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251027T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:5d4df21917faff3ded1a6ece053c154f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250916T164500Z
@@ -1661,6 +1613,14 @@ SUMMARY:ЛК Химия
 UID:a7c04b6cf4ab309f0e010f94fdbaab57
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251001T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251001T133000Z
+SUMMARY:ПЗ Общая физика
+UID:a119ee0f53a4369ce97800ae52c75b5d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
 DTEND:20251119T113000Z
 LOCATION:Орш. А-101
@@ -1674,22 +1634,6 @@ LOCATION:Орш. В-608
 DTSTART:20251223T133000Z
 SUMMARY:ЛР Химия
 UID:d4a84dd06d1d9d992def1dfb754b0a2e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251020T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251020T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:41edb54eb0cc2cbf71b44df6855a2d24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251120T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251120T074500Z
-SUMMARY:ЛК Математический анализ
-UID:5496f252b77fd846ead846b72b13bd64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузьмина Татьяна Дмитриевна
@@ -1708,20 +1652,12 @@ SUMMARY:ЛК Экономическая теория
 UID:85e59bc54a35cdd6898bbb03b28bd5e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251127T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251127T074500Z
-SUMMARY:ЛК Математический анализ
-UID:e2cd54547fdc45c59681dfcbeeb504a7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20260116T073000Z
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260116T091500Z
 LOCATION:Орш. Б-303
-DTSTART:20260116T060000Z
+DTSTART:20260116T074500Z
 SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:279ada1e3f12b73f0588915a5392bcf2
+UID:10b8c61a27db66927010f39a37ac9302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -1730,6 +1666,14 @@ LOCATION:Орш. А-523
 DTSTART:20251114T114500Z
 SUMMARY:ЛК Информатика
 UID:025b03e178046568e572d2f2bf12f084
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251112T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251112T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:07f4beacfcb14b75424d75a9bb32a64b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T091500Z
@@ -1761,12 +1705,12 @@ SUMMARY:ПЗ История России
 UID:b2a7d86bd93cc73639faa11bbff721f9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20260116T091500Z
-LOCATION:Орш. Б-303
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:bb487f08e2523d01bd58d1c8943b4c1d
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251008T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251008T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:6187b58f0c7c7033067c9c916e31ab2d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -1784,12 +1728,20 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:07c18d6349354fce590b15024accdbfc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251119T150000Z
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251008T150000Z
 LOCATION:Орш. В-306
-DTSTART:20251119T133000Z
+DTSTART:20251008T133000Z
 SUMMARY:ПЗ Общая физика
-UID:e1be1b606d9fcbdf883e28bbd70a2176
+UID:a06d77f972def17676def56cd8b388fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251006T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251006T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:a3a0fb65c41c06e83fe2abf1c3c1486f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
@@ -1815,12 +1767,12 @@ SUMMARY:ЛК История России
 UID:176f1a4fddb3fd1b42da351358d3c116
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251022T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251022T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:2c88c0fae50da63361a856f99bec2db2
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251009T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251009T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7d948a36703998c44a9ee310e00254a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -1836,6 +1788,14 @@ LOCATION:Орш. Б-303
 DTSTART:20251021T114500Z
 SUMMARY:ЛК Начертательная геометрия и инженерная графика
 UID:11ffaec9a070e8352deee28f36039adc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250925T091500Z
+LOCATION:Орш. В-301
+DTSTART:20250925T074500Z
+SUMMARY:ЛК Математический анализ
+UID:8ab686ae32a565815a08e71a3ccacf40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -1854,14 +1814,6 @@ SUMMARY:Экзамен Общая физика
 UID:c89c09163ef7649fba1d6b11f2692000
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250908T150000Z
-LOCATION:Орш. А-101
-DTSTART:20250908T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:7efdce4d91053189570686553b78ce7a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251114T150000Z
 LOCATION:Орш. В-506
@@ -1875,6 +1827,14 @@ LOCATION:Орш. В-608
 DTSTART:20251014T133000Z
 SUMMARY:ПЗ Химия
 UID:6d2a591768a5031552155a936120b111
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251222T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251222T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:1724d5f16cdb7a68428788e320256c72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1899,6 +1859,14 @@ LOCATION:Орш. В-307
 DTSTART:20251213T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:c42254c6df9e6513ed154674dc9fa8cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251203T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251203T133000Z
+SUMMARY:ПЗ Общая физика
+UID:3cbf970db33ff92fb1e86e33efea5f22
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T091500Z
@@ -1930,19 +1898,19 @@ SUMMARY:ПЗ Математический анализ
 UID:732e7d93076c7622285683ea5c7e2e4d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250903T131500Z
+LOCATION:Орш. В-223
+DTSTART:20250903T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:97f04553b7b60c26ffbbb7c3fe61db39
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251209T091500Z
 LOCATION:ГАК-320
 DTSTART:20251209T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:4891c245349ca6f30f090d0e065440bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250924T131500Z
-LOCATION:Орш. В-223
-DTSTART:20250924T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:c358166582b3826c9cb5199c9554ee8d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251108T113000Z
@@ -1952,19 +1920,19 @@ SUMMARY:ПЗ Физическая культура
 UID:0dbf2dddc7f5068be11adcaa28363935
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251218T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251218T074500Z
+SUMMARY:ЛК Математический анализ
+UID:9bb467834b9fd733f5a7adf12b76901d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250923T091500Z
 LOCATION:1-23  ангар
 DTSTART:20250923T074500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:020a95a651afbab50e41de7e61be810e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251208T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251208T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:12f35de64213d629f1f65d4ae95d0f2e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250906T113000Z
@@ -1982,12 +1950,28 @@ SUMMARY:ПЗ История России
 UID:fb0c0bf8375f6a27ce8b062c3cf00407
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250910T131500Z
+LOCATION:Орш. В-223
+DTSTART:20250910T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:6d5a715a6c9d62758debb3329480d139
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251129T091500Z
 LOCATION:Орш. В-307
 DTSTART:20251129T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:d0e1d4c37265f5d6023c0f0b71b5efec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251127T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251127T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7b5a783829dc3ac355a0b87df4b5204e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
@@ -2037,6 +2021,22 @@ SUMMARY:ПЗ Иностранный язык
 UID:ed38a898e9586f5740eba1945d5cb7ec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251210T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251210T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e1c500aafa2e79d99d3e19b2a40a21f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250917T131500Z
+LOCATION:Орш. В-223
+DTSTART:20250917T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:0a3679e85c4735b959b4742d0c13ff6b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251220T091500Z
 LOCATION:Орш. В-307
@@ -2077,14 +2077,6 @@ SUMMARY:ПЗ Начертательная геометрия и инженерн
 UID:7f75133f1e2c3acbcd01afe7e4e517f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251008T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251008T133000Z
-SUMMARY:ПЗ Общая физика
-UID:53fbc7eadbf9b1d76998d4ff3680de89
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
 DTEND:20251126T113000Z
 LOCATION:Орш. А-101
@@ -2093,12 +2085,20 @@ SUMMARY:ЛК Общая физика
 UID:7b501074de187287ddc473059636a378
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20260124T091500Z
-LOCATION:Орш. Б-303
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Математический анализ
-UID:278f1e5b127ff014eab70ee4109d0c77
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251015T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251015T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:0c22ca2f11a07f6b5d4b4c17dc20af89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251224T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251224T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:c5a35fefe923054f5b4c6072e9cc0478
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -2159,12 +2159,20 @@ SUMMARY:ЛК Общая физика
 UID:b3f691685e858d42e1f41d4b923a661d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251119T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251119T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:bf91b2fe320f54a2211a4e7f24e5c249
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251030T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251030T074500Z
+SUMMARY:ЛК Математический анализ
+UID:51b5d7ea0d5cdc484b41f40c49d43df9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251023T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251023T074500Z
+SUMMARY:ЛК Математический анализ
+UID:30dd0681424214e31b7c4fbe2fc04543
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -2191,14 +2199,6 @@ SUMMARY:ПЗ Информатика
 UID:85595c904f71d5521db4aa83c0d2f5a4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20250917T131500Z
-LOCATION:Орш. В-223
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:78cf0f3341f3685e98554f2a00b7416f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251121T131500Z
 LOCATION:Орш. В-101
@@ -2220,6 +2220,14 @@ LOCATION:Орш. Б-303
 DTSTART:20251216T133000Z
 SUMMARY:ПЗ Начертательная геометрия и инженерная графика
 UID:4ff2cd954e87657d7f837c54c52b640a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20250929T150000Z
+LOCATION:Орш. А-101
+DTSTART:20250929T133000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:338191cde616bfedaffcda5ff1474817
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T131500Z
@@ -2244,19 +2252,12 @@ SUMMARY:ЛР Химия
 UID:9adea3a435f6a7d2b415e943511a3516
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251203T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251203T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:9eda8422615e2d06b4c41d6133980b41
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:Орш. А-101
-DTSTART:20251121T100000Z
-SUMMARY:ЛК Химия
-UID:0800689d5b3767b6b18dde816c1a90b5
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251022T150000Z
+LOCATION:Орш. В-306
+DTSTART:20251022T133000Z
+SUMMARY:ПЗ Общая физика
+UID:7112fcd247b9584621cea3f89105eb08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
@@ -2265,6 +2266,13 @@ LOCATION:Орш. А-101
 DTSTART:20250924T100000Z
 SUMMARY:ЛК Общая физика
 UID:26ac2a3cca80b9784099c167a86ff1fb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T113000Z
+LOCATION:Орш. А-101
+DTSTART:20251121T100000Z
+SUMMARY:ЛК Химия
+UID:0800689d5b3767b6b18dde816c1a90b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Инюшева Мария Сергеевна
@@ -2297,6 +2305,14 @@ SUMMARY:ПЗ Начертательная геометрия и инженерн
 UID:9494119ef811869976cd075e965fd2d7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260124T091500Z
+LOCATION:Орш. Б-303
+DTSTART:20260124T074500Z
+SUMMARY:Экзамен Математический анализ
+UID:45fe8788e0bc229e9420a98b39835dc3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251125T164500Z
 LOCATION:Орш. В-608
 DTSTART:20251125T151500Z
@@ -2310,14 +2326,6 @@ LOCATION:Орш. А-101
 DTSTART:20251016T114500Z
 SUMMARY:ЛК История России
 UID:a2ce6b89f8373424dae1f1283ecfd3c2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251023T091500Z
-LOCATION:Орш. В-301
-DTSTART:20251023T074500Z
-SUMMARY:ЛК Математический анализ
-UID:c2474cb33433b18268a68427bc10f8e3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251029T091500Z
@@ -2343,14 +2351,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:411bcbe0fca853772c1b8c96d997cb03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20251105T150000Z
-LOCATION:Орш. В-306
-DTSTART:20251105T133000Z
-SUMMARY:ПЗ Общая физика
-UID:79c98f9933371ab9d4afadad6d048b59
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251220T113000Z
 LOCATION:--стадион
 DTSTART:20251220T100000Z
@@ -2365,14 +2365,6 @@ SUMMARY:ПЗ Физическая культура
 UID:a3e61ff292120fa604b8ab706966a562
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251006T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251006T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:e0ee78bc2d8b37e9b50add7620419b72
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251018T091500Z
 LOCATION:Орш. В-307
@@ -2381,12 +2373,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:aae4a7eb4908f7aa1dbea227df4190d2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251201T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251201T133000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4a5cdd7e98bdda68a3aeb9d0528c9c89
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251217T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251217T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:5074b6a37d6ff33a8a55cf7ed5f80b50
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЖУКОВ ЕВГЕНИЙ ЮРЬЕВИЧ
@@ -2436,6 +2428,14 @@ SUMMARY:ПЗ Химия
 UID:56fba03e4ba823ffbb7b195f0b7404bd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20250910T150000Z
+LOCATION:Орш. В-306
+DTSTART:20250910T133000Z
+SUMMARY:ПЗ Общая физика
+UID:f410dde0a56e0435fac1bc784e978cae
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251209T150000Z
 LOCATION:Орш. В-608
 DTSTART:20251209T133000Z
@@ -2451,6 +2451,14 @@ SUMMARY:ПЗ История России
 UID:59a6f99c8d9aa76a242865947097f676
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251203T131500Z
+LOCATION:Орш. В-223
+DTSTART:20251203T114500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:b473814a2d1effd34ce23ff2b020ce5e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T113000Z
 LOCATION:Орш. А-101
 DTSTART:20251010T100000Z
@@ -2458,19 +2466,11 @@ SUMMARY:ЛК Химия
 UID:e734bc6758499ece0d72ebd2f5d148ce
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
-DTEND:20250910T150000Z
-LOCATION:Орш. В-306
-DTSTART:20250910T133000Z
-SUMMARY:ПЗ Общая физика
-UID:2a72ac84622e09d7adab5fa8c940460f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ
-DTEND:20251105T131500Z
-LOCATION:Орш. В-223
-DTSTART:20251105T114500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:02ac9551ba261490e3af7495f3468869
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20251016T091500Z
+LOCATION:Орш. В-301
+DTSTART:20251016T074500Z
+SUMMARY:ЛК Математический анализ
+UID:d10e6bcc92565504c241ce16b6144438
 END:VEVENT
 END:VCALENDAR
