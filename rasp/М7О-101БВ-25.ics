@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251117T150000Z
-LOCATION:Орш. В-408
-DTSTART:20251117T133000Z
-SUMMARY:ПЗ История России
-UID:5aadb2fc4d3bac07aa7e8af5be4ae0a1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20250903T091500Z
 LOCATION:24-600
 DTSTART:20250903T074500Z
 SUMMARY:ЛК Информатика
 UID:136945c816d5eec5a3eb3fae59f1fe09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251210T113000Z
-LOCATION:24-600
-DTSTART:20251210T100000Z
-SUMMARY:ЛК Правоведение
-UID:0c5f28dbf224aef4df6a5b70e6f51692
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -143,14 +127,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:76de4b0f9a78991c5312995c46384eed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251215T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251215T114500Z
-SUMMARY:ПЗ История России
-UID:e38aa0bcd015a1aade2e7bf632f0ba16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
 DTEND:20251024T131500Z
 LOCATION:Орш. В-501
@@ -189,14 +165,6 @@ LOCATION:24-600
 DTSTART:20251210T074500Z
 SUMMARY:ЛК Информатика
 UID:a7ecc01c1991c750e306c31ec1df149a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251027T113000Z
-LOCATION:3-413
-DTSTART:20251027T100000Z
-SUMMARY:ПЗ Правоведение
-UID:7795199475a8ef86c7edccf7abddb3dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -262,12 +230,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:80534b9301dfaa0f3b07645b38a3e5f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251126T113000Z
-LOCATION:24-600
-DTSTART:20251126T100000Z
-SUMMARY:ЛК Правоведение
-UID:4adfe56c0975643f92dd5775ac91dc2d
+DESCRIPTION:Стельмахов Денис Александрович
+DTEND:20251129T131500Z
+LOCATION:Орш. В-507
+DTSTART:20251129T114500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:8bf301612604b20a92e3e0767059e251
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
@@ -278,12 +246,12 @@ SUMMARY:ПЗ Общая физика
 UID:b5635bb883cb30db2aaf30cb9a9c0b3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Стельмахов Денис Александрович
-DTEND:20251129T131500Z
-LOCATION:Орш. В-507
-DTSTART:20251129T114500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:8bf301612604b20a92e3e0767059e251
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251020T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251020T114500Z
+SUMMARY:ПЗ История России
+UID:54299fa6260f2f3559ec5f52cdb88e48
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T091500Z
@@ -331,14 +299,6 @@ SUMMARY:ЛК Информатика
 UID:03df10e2f8e3f5830968d3ea2d019a37
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251201T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251201T114500Z
-SUMMARY:ПЗ История России
-UID:347349f2d1a5305d5a1d8fab033ce3e2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20251126T091500Z
 LOCATION:24-600
@@ -379,14 +339,6 @@ SUMMARY:ПЗ Общая физика
 UID:89ed67df2aad590babdddd8cc5cf1a62
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251015T113000Z
-LOCATION:24-600
-DTSTART:20251015T100000Z
-SUMMARY:ЛК Правоведение
-UID:f62e62e276e99e929eedb5aeb4f80316
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
 DTEND:20251025T113000Z
 LOCATION:Орш. В-501
@@ -395,11 +347,27 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:121642c4fbf592cea82eab73c1ed8c5d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251112T113000Z
+LOCATION:24-600
+DTSTART:20251112T100000Z
+SUMMARY:ЛК Правоведение
+UID:f7fc68c8c37622e651c48e64bb244396
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T131500Z
 LOCATION:--каф. 919
 DTSTART:20250903T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:df32c5edd97d0106ad311ef4e659dd6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251103T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251103T114500Z
+SUMMARY:ПЗ История России
+UID:6487864c2c35d87075a9f89aff81d7c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -449,28 +417,12 @@ SUMMARY:ПЗ Физическая культура
 UID:1a4969ee1d3b70dc1a5396703bd3bd19
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251006T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251006T114500Z
-SUMMARY:ПЗ История России
-UID:6c5c0ee50158168ae46fa66b1f0a2669
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
 DTEND:20251011T091500Z
 LOCATION:Орш. В-209
 DTSTART:20251011T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:948d8a00da539df2754d2368a3d4e9df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251001T113000Z
-LOCATION:24-600
-DTSTART:20251001T100000Z
-SUMMARY:ЛК Правоведение
-UID:b50846d2207e4b5431bb0ddf6b8cdd63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -481,12 +433,12 @@ SUMMARY:ПЗ Введение в авиационную и ракетно-кос
 UID:1d0445f24ce782058242a08ee548d32d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Побережский Сергей Юрьевич
-DTEND:20251023T073000Z
-LOCATION:Орш. В-314
-DTSTART:20251023T060000Z
-SUMMARY:ЛР Общая физика
-UID:ef62e4274b0879b03dfc3c73bf4937e7
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20251217T073000Z
+LOCATION:24-600
+DTSTART:20251217T060000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:becd0c6bfd83648d3b102b4100129c5d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -497,12 +449,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:1cc8dda83718c573501651c7aa3e7907
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Макарин Михаил Александрович
-DTEND:20251217T073000Z
-LOCATION:24-600
-DTSTART:20251217T060000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:becd0c6bfd83648d3b102b4100129c5d
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20251023T073000Z
+LOCATION:Орш. В-314
+DTSTART:20251023T060000Z
+SUMMARY:ЛР Общая физика
+UID:ef62e4274b0879b03dfc3c73bf4937e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251227T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251227T060000Z
+SUMMARY:ЛК Основы российской государственности
+UID:cd1ffd59d3eac13a7cdd9ee917ad4a5a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T131500Z
@@ -518,6 +478,14 @@ LOCATION:24-625
 DTSTART:20251127T060000Z
 SUMMARY:ЛР Информатика
 UID:ccd81248f94f8c24bdc3f5db95840491
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20250929T113000Z
+LOCATION:3-413
+DTSTART:20250929T100000Z
+SUMMARY:ПЗ Правоведение
+UID:fe5543572377e7dc314eac0d1634b719
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -663,6 +631,22 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:b187c02139cf980c533ba69a1de2724a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251208T113000Z
+LOCATION:3-413
+DTSTART:20251208T100000Z
+SUMMARY:ПЗ Правоведение
+UID:9184d0cc83960aa74edfa7154913653b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251020T150000Z
+LOCATION:Орш. В-408
+DTSTART:20251020T133000Z
+SUMMARY:ПЗ История России
+UID:73de818388c7c773e2432c0442bad663
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250910T073000Z
 LOCATION:24-600
@@ -686,12 +670,12 @@ SUMMARY:ЛК Информатика
 UID:392ba7308b184a18ae98bced58b2717d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20250917T113000Z
-LOCATION:24-600
-DTSTART:20250917T100000Z
-SUMMARY:ЛК Правоведение
-UID:cc95312e3e87316279687bdd78c59810
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251027T113000Z
+LOCATION:3-413
+DTSTART:20251027T100000Z
+SUMMARY:ПЗ Правоведение
+UID:66bde83d97dda4d3703d9679d6665eb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -700,14 +684,6 @@ LOCATION:24-656
 DTSTART:20251110T114500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:b4cdec21305cc337b1e63fa7e14d09f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251124T113000Z
-LOCATION:3-413
-DTSTART:20251124T100000Z
-SUMMARY:ПЗ Правоведение
-UID:c642992ce037ae03958a15bfa9af21dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -748,6 +724,22 @@ LOCATION:24-625
 DTSTART:20250918T074500Z
 SUMMARY:ЛР Информатика
 UID:a483c1ef8821261bfef680c6919ffb19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251201T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251201T114500Z
+SUMMARY:ПЗ История России
+UID:f56b98bed29e9b9d50eb2cf086cb1978
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251215T150000Z
+LOCATION:Орш. В-408
+DTSTART:20251215T133000Z
+SUMMARY:ПЗ История России
+UID:bb613bb8d4c3c441a27ea803a8eaece4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T131500Z
@@ -820,20 +812,20 @@ SUMMARY:ПЗ Математический анализ
 UID:e40d4f57b8feb8fbfaa4cf0718569477
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251006T150000Z
+LOCATION:Орш. В-408
+DTSTART:20251006T133000Z
+SUMMARY:ПЗ История России
+UID:208699e7b4347c2efbe51d695ab32422
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
 DTEND:20251025T091500Z
 LOCATION:Орш. В-209
 DTSTART:20251025T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:49a090957bb60b4826061aaf404495b5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецова Екатерина Львовна
-DTEND:20251202T073000Z
-LOCATION:Орш. В-204
-DTSTART:20251202T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:878691671d1ab02b539b26a0b3c75d39
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -844,20 +836,28 @@ SUMMARY:ПЗ Иностранный язык
 UID:6e2e037f7a27989a3cf2a47cab5a239d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251117T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251117T114500Z
+SUMMARY:ПЗ История России
+UID:74008be2559f8274e2b89b64e67b8b1b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецова Екатерина Львовна
+DTEND:20251202T073000Z
+LOCATION:Орш. В-204
+DTSTART:20251202T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:878691671d1ab02b539b26a0b3c75d39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
 DTEND:20251004T091500Z
 LOCATION:Орш. В-209
 DTSTART:20251004T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:bc6135f225c125ed8f026548654944b7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251117T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251117T114500Z
-SUMMARY:ПЗ История России
-UID:ba38247fa828c51f4920e8d953f32afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -882,14 +882,6 @@ LOCATION:24-600
 DTSTART:20250917T060000Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:adde2cefeb9e08878cc39d2ef787e291
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20250922T150000Z
-LOCATION:Орш. В-408
-DTSTART:20250922T133000Z
-SUMMARY:ПЗ История России
-UID:eb9d7aa6a5a93fb59ba49e170558f9ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -1066,12 +1058,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:b80555c73bcbb587f2220f28689446da
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251222T113000Z
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251013T113000Z
 LOCATION:3-413
-DTSTART:20251222T100000Z
+DTSTART:20251013T100000Z
 SUMMARY:ПЗ Правоведение
-UID:bb9c53e058feab522ba5cb0dab09a0b5
+UID:3b351e139d80f7cf7ae950f30f744269
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -1098,6 +1090,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:b2e975d9ed47b89406ef6f6f0be937e0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251201T150000Z
+LOCATION:Орш. В-408
+DTSTART:20251201T133000Z
+SUMMARY:ПЗ История России
+UID:2e48b99497102b46daef456892c7b01e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
 DTEND:20251219T131500Z
 LOCATION:Орш. В-501
@@ -1106,20 +1106,20 @@ SUMMARY:ЛК История России
 UID:04fdf3e9fba8c8a85e0058f95592a158
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20250915T113000Z
+LOCATION:3-413
+DTSTART:20250915T100000Z
+SUMMARY:ПЗ Правоведение
+UID:3492be48ef15b5232b479e2a961ade77
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
 DTEND:20251114T150000Z
 LOCATION:Орш. В-610
 DTSTART:20251114T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:68e2eb5ad9d80a6d91b14ac8e00a30b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251201T150000Z
-LOCATION:Орш. В-408
-DTSTART:20251201T133000Z
-SUMMARY:ПЗ История России
-UID:bcf4ce714e5b11b96b229e64d7c3f220
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T091500Z
@@ -1168,20 +1168,20 @@ SUMMARY:ЛК Общая физика
 UID:0f12fda924f9f9253b290114fd0cd7f0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251029T113000Z
+LOCATION:24-600
+DTSTART:20251029T100000Z
+SUMMARY:ЛК Правоведение
+UID:5f2160a2f99ac831889f3e41a4a86c09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20260117T091500Z
 LOCATION:Орш. В-209
 DTSTART:20260117T074500Z
 SUMMARY:Экзамен Математический анализ
 UID:1e29537c8e3f5ab0d04c998064346675
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20250915T113000Z
-LOCATION:3-413
-DTSTART:20250915T100000Z
-SUMMARY:ПЗ Правоведение
-UID:024fe40b32927fd25de48175232684f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -1229,6 +1229,14 @@ LOCATION:24-656
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:5f00444b4309d7c3aa80d1dddf10a4ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251015T113000Z
+LOCATION:24-600
+DTSTART:20251015T100000Z
+SUMMARY:ЛК Правоведение
+UID:ea110ae7ab21cc1685b0ac73cda1bf3f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T131500Z
@@ -1301,12 +1309,12 @@ SUMMARY:ЛК Информатика
 UID:048b05880899f0c0195f1ea7defd0fde
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251227T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251227T060000Z
-SUMMARY:ЛК Основы российской государственности
-UID:cd1ffd59d3eac13a7cdd9ee917ad4a5a
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251210T113000Z
+LOCATION:24-600
+DTSTART:20251210T100000Z
+SUMMARY:ЛК Правоведение
+UID:e11580cc2d9277b243fdd1540f3ee5f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -1341,6 +1349,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:1496b54847bb2acd3fc21e210e6c388b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20250903T113000Z
+LOCATION:24-600
+DTSTART:20250903T100000Z
+SUMMARY:ЛК Правоведение
+UID:4c7ace9e653f85422fc89905cd6838c3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
 DTEND:20251031T131500Z
 LOCATION:Орш. В-501
@@ -1349,12 +1365,12 @@ SUMMARY:ЛК История России
 UID:34000881c5e28f2126fc3865b2678882
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Макарин Михаил Александрович
-DTEND:20260121T073000Z
-LOCATION:24-654
-DTSTART:20260121T060000Z
-SUMMARY:Экзамен Введение в авиационную и ракетно-космическую технику
-UID:bcf87f5f9aa9dd342d2879a1cd2399d4
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251124T113000Z
+LOCATION:3-413
+DTSTART:20251124T100000Z
+SUMMARY:ПЗ Правоведение
+UID:1cd811e37b3a39b71b65ea543604368b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
@@ -1372,12 +1388,12 @@ SUMMARY:ПЗ Физическая культура
 UID:8730fa589d2026ccd7cda928ba9d389b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Козлова Нина Михайловна
-DTEND:20251113T073000Z
-LOCATION:24-625
-DTSTART:20251113T060000Z
-SUMMARY:ЛР Информатика
-UID:f0c1bcd160ed4b1237cf2416721646ba
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251006T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251006T114500Z
+SUMMARY:ПЗ История России
+UID:846ca360c8cfcd56ac0ac586d772fe04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
@@ -1388,20 +1404,20 @@ SUMMARY:ПЗ Общая физика
 UID:672f2e028d4d3113a7ffe0d29e2cffb5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Козлова Нина Михайловна
+DTEND:20251113T073000Z
+LOCATION:24-625
+DTSTART:20251113T060000Z
+SUMMARY:ЛР Информатика
+UID:f0c1bcd160ed4b1237cf2416721646ba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
 DTEND:20251216T091500Z
 LOCATION:Орш. В-306
 DTSTART:20251216T074500Z
 SUMMARY:ПЗ Общая физика
 UID:2364c3759331c5636be8daf00e70ba7e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251224T113000Z
-LOCATION:24-600
-DTSTART:20251224T100000Z
-SUMMARY:ЛК Правоведение
-UID:86e228b9ef2733f90b973d180c7571e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
@@ -1420,12 +1436,12 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:d5a8a9b58876bcce474293e0ad73e273
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20250929T113000Z
-LOCATION:3-413
-DTSTART:20250929T100000Z
-SUMMARY:ПЗ Правоведение
-UID:3b9f74dfcdf1060c5fd56fcef27d15bf
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20251119T073000Z
+LOCATION:24-600
+DTSTART:20251119T060000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:9ecc6748fc97004c60d5927b86ef8012
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -1444,12 +1460,12 @@ SUMMARY:ЛР Общая физика
 UID:ac3e3d381f2fb6d1a7473b408e248b6d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Макарин Михаил Александрович
-DTEND:20251119T073000Z
-LOCATION:24-600
-DTSTART:20251119T060000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:9ecc6748fc97004c60d5927b86ef8012
+DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
+DTEND:20251121T150000Z
+LOCATION:Орш. В-610
+DTSTART:20251121T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a401735b232702ca02dd0aa2b7c16878
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
@@ -1506,20 +1522,20 @@ SUMMARY:ПЗ Физическая культура
 UID:f82f5fc6fc7a119335b8c652e6281497
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251208T113000Z
-LOCATION:3-413
-DTSTART:20251208T100000Z
-SUMMARY:ПЗ Правоведение
-UID:ff3e72f7ae2670c89b0a16bdd41a3816
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
 DTEND:20260113T073000Z
 LOCATION:Орш. В-307
 DTSTART:20260113T060000Z
 SUMMARY:Экзамен Общая физика
 UID:849266868263de2bba8a24fcb0fbb843
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251117T150000Z
+LOCATION:Орш. В-408
+DTSTART:20251117T133000Z
+SUMMARY:ПЗ История России
+UID:19c787153c44bae0d0d34baaf35ac225
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -1538,14 +1554,6 @@ SUMMARY:Экзамен Введение в авиационную и ракет�
 UID:f15916627da6639cdb5e928a8a56ba95
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251013T113000Z
-LOCATION:3-413
-DTSTART:20251013T100000Z
-SUMMARY:ПЗ Правоведение
-UID:9ac1da1da69a69f7c360e431ad6c2f86
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20251226T091500Z
 LOCATION:Орш. В-101
@@ -1562,36 +1570,12 @@ SUMMARY:ЛК Общая физика
 UID:46cbe07fb7f2cdf0dcaaa79388dee4dc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251020T150000Z
-LOCATION:Орш. В-408
-DTSTART:20251020T133000Z
-SUMMARY:ПЗ История России
-UID:aedeb470d2411bfd181162cf2b8a21cd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20251105T073000Z
 LOCATION:24-600
 DTSTART:20251105T060000Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:36dfe397dcaf49c405c42d3285bc424c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251020T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251020T114500Z
-SUMMARY:ПЗ История России
-UID:def82151e9777df784eaaebeda2bf08c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецова Екатерина Львовна
-DTEND:20251007T073000Z
-LOCATION:Орш. В-204
-DTSTART:20251007T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:e717aa9100e202c3ab3a70eb25ae7e9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
@@ -1602,12 +1586,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:2d523d5fe72fe9add1dc5486d7ddd399
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251029T113000Z
-LOCATION:24-600
-DTSTART:20251029T100000Z
-SUMMARY:ЛК Правоведение
-UID:0bb7723c421fb963747646b84b4068b4
+DESCRIPTION:Кузнецова Екатерина Львовна
+DTEND:20251007T073000Z
+LOCATION:Орш. В-204
+DTSTART:20251007T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:e717aa9100e202c3ab3a70eb25ae7e9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -1649,6 +1633,14 @@ SUMMARY:ЛР Общая физика
 UID:26f5b3c19f0adeaf5d38d9f5ad231a9b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251001T113000Z
+LOCATION:24-600
+DTSTART:20251001T100000Z
+SUMMARY:ЛК Правоведение
+UID:8133c13425d078be064dbb7f9b35cad7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20251015T073000Z
 LOCATION:24-600
@@ -1665,28 +1657,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:c9c47c8e6ae2d4196f49a5c9a2c065f5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251224T113000Z
+LOCATION:24-600
+DTSTART:20251224T100000Z
+SUMMARY:ЛК Правоведение
+UID:7897178cbec8d2b6b301f30d3dcf165d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Стельмахов Денис Александрович
 DTEND:20251227T131500Z
 LOCATION:Орш. В-507
 DTSTART:20251227T114500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:58b07bc32d6dddf4bf243914a5918481
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251215T150000Z
-LOCATION:Орш. В-408
-DTSTART:20251215T133000Z
-SUMMARY:ПЗ История России
-UID:f1818a9fb2b67a1564293093d5b7503c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251006T150000Z
-LOCATION:Орш. В-408
-DTSTART:20251006T133000Z
-SUMMARY:ПЗ История России
-UID:6a5df823cc275ba548cb954ac7ad5541
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -1776,20 +1760,20 @@ SUMMARY:ЛК Математический анализ
 UID:46cc0554f7796e0b0c02d0116eed320f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20250917T113000Z
+LOCATION:24-600
+DTSTART:20250917T100000Z
+SUMMARY:ЛК Правоведение
+UID:03ce6c85fdac4f5eeeee781f990dc27d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20251217T091500Z
 LOCATION:24-600
 DTSTART:20251217T074500Z
 SUMMARY:ЛК Информатика
 UID:4de16e69d78bce4a204c4e79b0d07c77
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20250903T113000Z
-LOCATION:24-600
-DTSTART:20250903T100000Z
-SUMMARY:ЛК Правоведение
-UID:a5d5fd80161a9f03a794861802339b04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -1831,6 +1815,14 @@ SUMMARY:ПЗ Физическая культура
 UID:a9d32696eb855df6e4f4fd23800e06ad
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251222T113000Z
+LOCATION:3-413
+DTSTART:20251222T100000Z
+SUMMARY:ПЗ Правоведение
+UID:f4b9df46ad2563a186f0baef37e41dc3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20260117T073000Z
 LOCATION:Орш. В-209
@@ -1854,12 +1846,12 @@ SUMMARY:ПЗ Физическая культура
 UID:9e70e804c54c58c454b6b581f1f47c8c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
 DTEND:20251110T113000Z
 LOCATION:3-413
 DTSTART:20251110T100000Z
 SUMMARY:ПЗ Правоведение
-UID:2b3496dd5198fb875672d66440390343
+UID:820ef15f1e8709110276ce2a5a6f369e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -1886,12 +1878,12 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:c0f06abbffa7703d664c38762d7b988f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
-DTEND:20251121T150000Z
-LOCATION:Орш. В-610
-DTSTART:20251121T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:a401735b232702ca02dd0aa2b7c16878
+DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
+DTEND:20251126T113000Z
+LOCATION:24-600
+DTSTART:20251126T100000Z
+SUMMARY:ЛК Правоведение
+UID:4865ecb698533345d6bce63453e93160
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -1932,6 +1924,14 @@ LOCATION:Орш. В-101
 DTSTART:20251114T074500Z
 SUMMARY:ЛК Математический анализ
 UID:d2d4e5e000086d291c34cb5a4e1a526c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260121T073000Z
+LOCATION:24-654
+DTSTART:20260121T060000Z
+SUMMARY:Экзамен Введение в авиационную и ракетно-космическую технику
+UID:bcf87f5f9aa9dd342d2879a1cd2399d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -1981,20 +1981,20 @@ SUMMARY:ЛК Основы российской государственност�
 UID:3a984743b0b6d8daedc5cadb73b05b58
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20250922T150000Z
+LOCATION:Орш. В-408
+DTSTART:20250922T133000Z
+SUMMARY:ПЗ История России
+UID:5d69cdb7de0caf0ca430f1b557ef1990
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20251009T091500Z
 LOCATION:Орш. В-303
 DTSTART:20251009T074500Z
 SUMMARY:ЛР Общая физика
 UID:f8f5140bc09c4dbd5099cf374a588f20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
-DTEND:20251202T091500Z
-LOCATION:Орш. В-306
-DTSTART:20251202T074500Z
-SUMMARY:ПЗ Общая физика
-UID:576049e4ab7ac2b0e0457d4f694d24b8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T091500Z
@@ -2020,6 +2020,14 @@ SUMMARY:ЛК История России
 UID:f74d15f69587bee10b1a2fc18426689c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ (осн.)
+DTEND:20251202T091500Z
+LOCATION:Орш. В-306
+DTSTART:20251202T074500Z
+SUMMARY:ПЗ Общая физика
+UID:576049e4ab7ac2b0e0457d4f694d24b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20251205T091500Z
 LOCATION:Орш. В-101
@@ -2034,6 +2042,14 @@ LOCATION:Орш. В-101
 DTSTART:20251010T074500Z
 SUMMARY:ЛК Математический анализ
 UID:35112b73938ebe3cece647bf92c22a7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20251215T131500Z
+LOCATION:Орш. В-408
+DTSTART:20251215T114500Z
+SUMMARY:ПЗ История России
+UID:e34541b64e33b25cd33e238d880a8f13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -2075,14 +2091,6 @@ SUMMARY:ЛР Информатика
 UID:8af162bcc603ae9c7297311861823889
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20250922T131500Z
-LOCATION:Орш. В-408
-DTSTART:20250922T114500Z
-SUMMARY:ПЗ История России
-UID:68a6a9a265993a4f3d7ccab0c9d9434d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
 DTEND:20251113T091500Z
 LOCATION:24-625
@@ -2099,12 +2107,12 @@ SUMMARY:ПЗ Математический анализ
 UID:517756faf4f9387563ea964929827e47
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич
-DTEND:20251103T131500Z
-LOCATION:Орш. В-408
-DTSTART:20251103T114500Z
-SUMMARY:ПЗ История России
-UID:1081a2c383267febd14235d8eba6b55d
+DESCRIPTION:Плотникова Вера Исламовна
+DTEND:20251220T113000Z
+LOCATION:Орш. В-501
+DTSTART:20251220T100000Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:be0d71af5f13a2dc96a465c0f98978b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -2131,12 +2139,12 @@ SUMMARY:ПЗ Общая физика
 UID:30009b67349fed71679902c6f0984286
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Плотникова Вера Исламовна
-DTEND:20251220T113000Z
-LOCATION:Орш. В-501
-DTSTART:20251220T100000Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:be0d71af5f13a2dc96a465c0f98978b6
+DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
+DTEND:20250922T131500Z
+LOCATION:Орш. В-408
+DTSTART:20250922T114500Z
+SUMMARY:ПЗ История России
+UID:b62e77c0a922a10098fd626fed09c98a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
@@ -2200,14 +2208,6 @@ LOCATION:Орш. В-101
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Математический анализ
 UID:722bb626f92d63c625b82bec4cb03982
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ (осн.)
-DTEND:20251112T113000Z
-LOCATION:24-600
-DTSTART:20251112T100000Z
-SUMMARY:ЛК Правоведение
-UID:2d739272c5815db73626f0cdbc510bf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
