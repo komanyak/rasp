@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251022T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251022T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:b53a7119a30febe35bc6605b0bcb3b22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20251230T131500Z
 LOCATION:5-232
@@ -23,14 +31,6 @@ LOCATION:5-107А
 DTSTART:20251014T074500Z
 SUMMARY:ПЗ Ресурсосберегающие технологии
 UID:47527ccc25467a8dfe75a926fcc3ee1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250910T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250910T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:0ff707241c68175b3cd79cefd08a5a33
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
@@ -99,6 +99,14 @@ LOCATION:5-104
 DTSTART:20251003T114500Z
 SUMMARY:ПЗ Основы менеджмента
 UID:8ec5c3a41f134746efcc24e5e8b9cb5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251105T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251105T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:966206bab6044a426ec36f679546d807
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T131500Z
@@ -178,18 +186,27 @@ SUMMARY:ЛК Общая физика
 UID:d767868d8a90359662dc872d5d8c61eb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251001T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251001T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:3c861250d5a3e278af2d7152b57ac258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251119T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251119T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:177aeb7aa9c61a09ac8d4f1e38627cfe
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251212T091500Z
 LOCATION:--каф. 919
 DTSTART:20251212T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:955c379f9c5640ee5ab0b45a774a7f32
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T091500Z
-LOCATION:Орш. Б-605
-DTSTART:20251227T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:c1f2f2da54d96646a2665d3d18912247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -200,20 +217,19 @@ SUMMARY:ПЗ Основы менеджмента
 UID:cacb522d616b213f654f30a5cf7ec797
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251227T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20251227T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c1f2f2da54d96646a2665d3d18912247
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
 DTEND:20251213T113000Z
 LOCATION:Орш. В-101
 DTSTART:20251213T100000Z
 SUMMARY:ЛК История России
 UID:c530e40a2bcaa120163b4c26b1004121
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250917T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250917T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:d793b32e8490665a95a80d5a3051feb0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -224,11 +240,27 @@ SUMMARY:ЛК Основы менеджмента
 UID:5ba757305fb6afd340e6171ce54a0d9d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Калачанов Вячеслав Дмитриевич
+DTEND:20251202T131500Z
+LOCATION:5-232
+DTSTART:20251202T114500Z
+SUMMARY:ЛР Информационные технологии
+UID:0a06b1ffd6dceeddc117b0c9f21ee15d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250916T131500Z
 LOCATION:1-9 ангар
 DTSTART:20250916T114500Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:3434b054e9592b67d2ad6a300a42cbf5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250910T113000Z
+LOCATION:Орш. В-505
+DTSTART:20250910T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:1c098933c26014124b36fa95619d2d22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -245,14 +277,6 @@ LOCATION:5-104
 DTSTART:20251128T114500Z
 SUMMARY:ПЗ Основы менеджмента
 UID:c4e71cc162ce979ac40cbfb7373903df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калачанов Вячеслав Дмитриевич
-DTEND:20251202T131500Z
-LOCATION:5-232
-DTSTART:20251202T114500Z
-SUMMARY:ЛР Информационные технологии
-UID:0a06b1ffd6dceeddc117b0c9f21ee15d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T091500Z
@@ -407,6 +431,14 @@ SUMMARY:ПЗ Введение в профессию
 UID:74291d6d47b0b5e85d27f2a857cf0b62
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250903T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250903T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:008234a62080ae49a97f5dfe306c8d1a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Балыш Андрей Николаевич
 DTEND:20251008T131500Z
 LOCATION:Орш. В-512
@@ -459,6 +491,14 @@ LOCATION:Орш. А-101
 DTSTART:20251020T100000Z
 SUMMARY:ЛК Общая физика
 UID:e75208416504719ed54933f723f3587b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251112T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251112T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:7ba17359cf04189dd48e771f09fb1719
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -584,6 +624,14 @@ SUMMARY:ПЗ Физическая культура
 UID:1b6a90bdd56331260c7ae8baa3607df1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251008T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251008T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:3bd4ca46cc7ddba9c67d2c52e201ef24
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткачева Ирина Михайловна
 DTEND:20251208T131500Z
 LOCATION:Орш. В-501
@@ -608,14 +656,6 @@ SUMMARY:ЛК Информационные технологии
 UID:2d9c0fa690bc4a66f6058d755dd61b2d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250924T113000Z
-LOCATION:Орш. В-505
-DTSTART:20250924T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:41476be639e7f4a827706eafd868c218
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
 DTEND:20250923T150000Z
 LOCATION:5-101
@@ -624,12 +664,12 @@ SUMMARY:ЛК Общественный проект "Обучение служе�
 UID:2ce7eaf638f3304397bf8bdcb2042d68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251112T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251112T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:62373cc66692329ad457a4adc7abdc8f
+DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
+DTEND:20251223T091500Z
+LOCATION:5-107А
+DTSTART:20251223T074500Z
+SUMMARY:ПЗ Ресурсосберегающие технологии
+UID:ce778caabbf62eed7df6ce68ac913ce1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Балыш Андрей Николаевич
@@ -638,14 +678,6 @@ LOCATION:Орш. В-512
 DTSTART:20251119T114500Z
 SUMMARY:ПЗ История России
 UID:52608a82c94ec0cc31d88cefbb565adb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
-DTEND:20251223T091500Z
-LOCATION:5-107А
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Ресурсосберегающие технологии
-UID:ce778caabbf62eed7df6ce68ac913ce1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачева Ирина Михайловна
@@ -672,12 +704,12 @@ SUMMARY:ПЗ История России
 UID:f8df184aa65c1c5449cbad49d97a1c2d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калачанов Вячеслав Дмитриевич
-DTEND:20251216T113000Z
-LOCATION:5-232
-DTSTART:20251216T100000Z
-SUMMARY:ЛР Информационные технологии
-UID:72d4ef82519b7ed6187b7c5788238146
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251126T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251126T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:954e2ffadd132b671b3e20772aa45c5b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -701,6 +733,14 @@ LOCATION:--каф. 919
 DTSTART:20251121T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:b667e0814cfe43fea3e7c289e203c82e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калачанов Вячеслав Дмитриевич
+DTEND:20251216T113000Z
+LOCATION:5-232
+DTSTART:20251216T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:72d4ef82519b7ed6187b7c5788238146
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T131500Z
@@ -749,14 +789,6 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:e94109950e1555be2efeaf181ea5e1f4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250924T150000Z
-LOCATION:Орш. В-501
-DTSTART:20250924T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:5529464d736d461a097fef6403f46ec0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ткачева Ирина Михайловна
 DTEND:20250915T131500Z
 LOCATION:Орш. В-501
@@ -788,6 +820,14 @@ SUMMARY:ПЗ Введение в профессию
 UID:b43d128fa25662b3fa331b952bff4c0f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251029T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251029T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:e5c7e10b31c0bca3f3e79ee839e8dce7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
 DTEND:20251127T091500Z
 LOCATION:5-405
@@ -796,12 +836,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:e9ab878cad5ccdd5a530cfd07a1e37be
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
 DTEND:20250917T113000Z
 LOCATION:Орш. В-505
 DTSTART:20250917T100000Z
 SUMMARY:ПЗ Экономическая теория
-UID:667156b6593c197b25822b19fa0f8c6a
+UID:d43cca809d88aeba8aa495b36501327d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -810,6 +850,14 @@ LOCATION:Орш. В-501
 DTSTART:20251222T100000Z
 SUMMARY:ЛК Основы российской государственности
 UID:c1d3d969b00ac742bed121d2f0b4b5c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251001T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251001T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:26582e7d4caa5db7448708c0fec16ea0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -835,14 +883,6 @@ SUMMARY:ПЗ Физическая культура
 UID:2dd1066c62e10e2aa0a9ca1bcf966140
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251105T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251105T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:f6944187617e227feb45901a5d0cb3b2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251027T073000Z
 LOCATION:Орш. В-605
 DTSTART:20251027T060000Z
@@ -866,12 +906,20 @@ SUMMARY:ЛК Информационные технологии
 UID:86d63c45c6adea251e340db893590b54
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251119T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251119T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:f999e2a168edb933cf01975ee02c31cf
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251015T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251015T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:febc70270358886c9f6f6cad8e3ddc31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
+DTEND:20251205T131500Z
+LOCATION:5-101
+DTSTART:20251205T114500Z
+SUMMARY:ЛК Ресурсосберегающие технологии
+UID:10fc8b34d1ec6bb989b83871a9c2478c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -882,12 +930,12 @@ SUMMARY:ЛК Общественный проект "Обучение служе�
 UID:6da1e089fd05a624d580af43f6438419
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
-DTEND:20251205T131500Z
-LOCATION:5-101
-DTSTART:20251205T114500Z
-SUMMARY:ЛК Ресурсосберегающие технологии
-UID:10fc8b34d1ec6bb989b83871a9c2478c
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251029T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251029T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:d424debadca565aaf591fe5c3e67ff4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -943,14 +991,6 @@ LOCATION:Орш. В-501
 DTSTART:20251124T100000Z
 SUMMARY:ЛК Основы российской государственности
 UID:9f8fc93db7bc030ff69e20f261113ee2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250910T113000Z
-LOCATION:Орш. В-505
-DTSTART:20250910T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:d7d1af15bb7cec30fa48fa0a68b7d848
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Горелов Борис Алексеевич
@@ -1052,6 +1092,14 @@ SUMMARY:ЛК Основы российской государственност�
 UID:68a00a554052766abd727f63ce23500f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251015T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251015T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:f95ab073b7d8a9c7d97d85ff0dc16fa9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T150000Z
 LOCATION:ГУК В-228
 DTSTART:20251024T133000Z
@@ -1065,14 +1113,6 @@ LOCATION:5-101
 DTSTART:20251211T100000Z
 SUMMARY:ЛК Основы менеджмента
 UID:30d91002c739e6502983ccd1da76af27
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251105T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251105T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:a7255407ba880df633b835c4e9c75e3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -1128,14 +1168,6 @@ LOCATION:5-101
 DTSTART:20251016T100000Z
 SUMMARY:ЛК Основы менеджмента
 UID:29dbc7df2b58f0a8b2bdbb0569a8e741
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251008T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251008T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:90e0a15c36c051a37f5c36b920db3811
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -1199,20 +1231,20 @@ SUMMARY:ПЗ Введение в профессию
 UID:5ada54b20d4ed74885a30c70980ed440
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251112T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251112T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:1d1506241f2af76e1fd258a388a04129
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткачева Ирина Михайловна
 DTEND:20250922T131500Z
 LOCATION:Орш. В-501
 DTSTART:20250922T114500Z
 SUMMARY:ЛК Математический анализ
 UID:baca3367a18f5a3db2aedf5d1b2dcb32
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251022T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251022T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:b46a9c186bea11cc1d543c175d643356
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250905T091500Z
@@ -1307,12 +1339,12 @@ SUMMARY:ЛК Общая физика
 UID:4951be7ade329d8f0b73eeb897f5d4cf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251119T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251119T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:874b62725fdf270c22ef2e630e210cef
+DESCRIPTION:Латушко Никита Николаевич
+DTEND:20251206T113000Z
+LOCATION:Орш. В-101
+DTSTART:20251206T100000Z
+SUMMARY:ЛК История России
+UID:93880338e60ac0e223d2aaa670e86ffd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
@@ -1321,14 +1353,6 @@ LOCATION:Орш. В-101
 DTSTART:20250906T100000Z
 SUMMARY:ЛК История России
 UID:e0166674d9443585f5a4f5553aa05b4a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латушко Никита Николаевич
-DTEND:20251206T113000Z
-LOCATION:Орш. В-101
-DTSTART:20251206T100000Z
-SUMMARY:ЛК История России
-UID:93880338e60ac0e223d2aaa670e86ffd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -1511,6 +1535,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:aed181afb665ce2f50f24f7b1022929a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251105T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251105T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:6c42a066c1d7de8b9d77dfbee462a165
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251027T091500Z
 LOCATION:Орш. В-605
 DTSTART:20251027T074500Z
@@ -1541,14 +1573,6 @@ SUMMARY:ЛК Ресурсосберегающие технологии
 UID:37376eee422fc15e086da5eb8a285842
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251029T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:32dd1342603bf11a6ced883ae5cde764
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Горелов Борис Алексеевич
 DTEND:20251205T113000Z
 LOCATION:5-303
@@ -1557,12 +1581,12 @@ SUMMARY:ПЗ Введение в профессию
 UID:d0a67dfd2c00b6796c59845d6d46ce86
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20250903T150000Z
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250910T150000Z
 LOCATION:Орш. В-501
-DTSTART:20250903T133000Z
+DTSTART:20250910T133000Z
 SUMMARY:ЛК Экономическая теория
-UID:b045138e5e01947f0c5b32c7face5c8d
+UID:27f5ce04b6d4ecde57b0a9d98a7188cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -1571,14 +1595,6 @@ LOCATION:Орш. В-209
 DTSTART:20250906T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:9fcab7f744ed682ccf8a4ddca9d54d76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251112T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251112T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:6528bb10ac4f1ada4401df2ec2380485
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
@@ -1620,20 +1636,12 @@ SUMMARY:ЛК Введение в профессию
 UID:60a750deb26eb56ae93a85dbc88f0bda
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251008T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251008T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:b976e0e226dc0aa28214d986e03a4363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251001T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251001T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:3cb05c03378b5448a530d4b2475c5ff6
+DESCRIPTION:Ткачева Ирина Михайловна
+DTEND:20251222T131500Z
+LOCATION:Орш. В-501
+DTSTART:20251222T114500Z
+SUMMARY:ЛК Математический анализ
+UID:6d9554824a0839f119903f1bf3e4925d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1642,14 +1650,6 @@ LOCATION:Орш. В-319
 DTSTART:20251006T133000Z
 SUMMARY:ПЗ Общая физика
 UID:b21028749e58860d660dd93d5598821c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251022T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251022T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:1745895981a498c533500a11be44a4ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
@@ -1676,12 +1676,12 @@ SUMMARY:ЛК Основы менеджмента
 UID:3dc9b4a2e7c12b25ee646aba1c6fe837
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачева Ирина Михайловна
-DTEND:20251222T131500Z
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250917T150000Z
 LOCATION:Орш. В-501
-DTSTART:20251222T114500Z
-SUMMARY:ЛК Математический анализ
-UID:6d9554824a0839f119903f1bf3e4925d
+DTSTART:20250917T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:bac374c8f9398bd927f40d72e9c6853f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T131500Z
@@ -1713,6 +1713,14 @@ LOCATION:ГУК Б-632
 DTSTART:20250909T114500Z
 SUMMARY:ПЗ Общественный проект "Обучение служением"
 UID:88c8e6433818b034cd1049d16f48bc7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250924T150000Z
+LOCATION:Орш. В-501
+DTSTART:20250924T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:2439e048f897d2a96d1a944836488484
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -1854,20 +1862,20 @@ SUMMARY:ПЗ Основы менеджмента
 UID:13578a816057ee4ffdb8e0caef6721f8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251119T150000Z
+LOCATION:Орш. В-501
+DTSTART:20251119T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:df608375c47fb465aaf8dfcb49960a51
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
 DTEND:20251208T113000Z
 LOCATION:Орш. В-501
 DTSTART:20251208T100000Z
 SUMMARY:ЛК Основы российской государственности
 UID:1e06c7f03db7573b2c9805c4725de5e6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латушко Никита Николаевич
-DTEND:20251220T113000Z
-LOCATION:Орш. В-101
-DTSTART:20251220T100000Z
-SUMMARY:ЛК История России
-UID:c9a482d355aab4825fff173c5536c646
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -1878,12 +1886,12 @@ SUMMARY:ПЗ Математический анализ
 UID:75e0a52b602651a854e8ab9841f6b48a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251029T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251029T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:904320748c81fbd805251a06be923e56
+DESCRIPTION:Латушко Никита Николаевич
+DTEND:20251220T113000Z
+LOCATION:Орш. В-101
+DTSTART:20251220T100000Z
+SUMMARY:ЛК История России
+UID:c9a482d355aab4825fff173c5536c646
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
@@ -1942,6 +1950,14 @@ SUMMARY:ПЗ Математический анализ
 UID:a536af8c5409be2751b83bb85ed64ec9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251022T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251022T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:fe91c133027b1234623da9513652ee02
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20251118T113000Z
 LOCATION:5-232
@@ -1958,14 +1974,6 @@ SUMMARY:ЛР Информационные технологии
 UID:4066842884c56fa90f3fb508106d6687
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
-DTEND:20251209T091500Z
-LOCATION:5-107А
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Ресурсосберегающие технологии
-UID:97d0b1a1e3eca4981e9fce8e59dbc58a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250918T131500Z
 LOCATION:--каф. 919
 DTSTART:20250918T114500Z
@@ -1974,11 +1982,11 @@ UID:9e858250fd779c890e7524935dd35b90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
-DTEND:20251219T131500Z
-LOCATION:5-101
-DTSTART:20251219T114500Z
-SUMMARY:ЛК Ресурсосберегающие технологии
-UID:5f83046870fba9c40a0e9f8d0c3a861d
+DTEND:20251209T091500Z
+LOCATION:5-107А
+DTSTART:20251209T074500Z
+SUMMARY:ПЗ Ресурсосберегающие технологии
+UID:97d0b1a1e3eca4981e9fce8e59dbc58a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T091500Z
@@ -1994,6 +2002,14 @@ LOCATION:5-107А
 DTSTART:20251111T074500Z
 SUMMARY:ПЗ Ресурсосберегающие технологии
 UID:d488c5d9362c699f8d85bb45969e84ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
+DTEND:20251219T131500Z
+LOCATION:5-101
+DTSTART:20251219T114500Z
+SUMMARY:ЛК Ресурсосберегающие технологии
+UID:5f83046870fba9c40a0e9f8d0c3a861d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латушко Никита Николаевич
@@ -2083,12 +2099,12 @@ SUMMARY:ПЗ Математический анализ
 UID:6a6bdcc1b17923a7943b7daf174b4db7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251015T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:a2ca26a082fa03431ea393fe6f944288
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20251008T113000Z
+LOCATION:Орш. В-505
+DTSTART:20251008T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:58d9e88e413d9f54b3ff739eb1d8cbec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -2107,12 +2123,12 @@ SUMMARY:ЛК Информационные технологии
 UID:0ea09e760a97d7bd5a4d2ea8707e6a82
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачева Ирина Михайловна
-DTEND:20251215T131500Z
-LOCATION:Орш. В-501
-DTSTART:20251215T114500Z
-SUMMARY:ЛК Математический анализ
-UID:02c6c13da0d8b8e532bb4e99a91606b9
+DESCRIPTION:МОСОЛОВА ВЕРА ВЛАДИМИРОВНА (осн.)
+DTEND:20250924T113000Z
+LOCATION:Орш. В-505
+DTSTART:20250924T100000Z
+SUMMARY:ПЗ Экономическая теория
+UID:5eac6e2b5e86390b965d11e565eb7e87
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T073000Z
@@ -2138,11 +2154,12 @@ SUMMARY:ЛК Введение в профессию
 UID:17ad919add86241e5cfd5d68e5bc4483
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251226T091500Z
-LOCATION:--каф. 919
-DTSTART:20251226T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:d344caa80442945d97003f8bf14a5a4b
+DESCRIPTION:Ткачева Ирина Михайловна
+DTEND:20251215T131500Z
+LOCATION:Орш. В-501
+DTSTART:20251215T114500Z
+SUMMARY:ЛК Математический анализ
+UID:02c6c13da0d8b8e532bb4e99a91606b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА (осн.)
@@ -2160,12 +2177,11 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:c6bc7da71d771a0736873a9379786609
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калачанов Вячеслав Дмитриевич
-DTEND:20251230T113000Z
-LOCATION:5-232
-DTSTART:20251230T100000Z
-SUMMARY:ЛР Информационные технологии
-UID:c07d768bbf1c24feedb32228216b89f5
+DTEND:20251226T091500Z
+LOCATION:--каф. 919
+DTSTART:20251226T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:d344caa80442945d97003f8bf14a5a4b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T131500Z
@@ -2180,6 +2196,14 @@ LOCATION:--каф. 919
 DTSTART:20251010T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:ba7a39c357c67e379dfd13d7ccbc8d7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калачанов Вячеслав Дмитриевич
+DTEND:20251230T113000Z
+LOCATION:5-232
+DTSTART:20251230T100000Z
+SUMMARY:ЛР Информационные технологии
+UID:c07d768bbf1c24feedb32228216b89f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА (осн.)
@@ -2202,14 +2226,6 @@ LOCATION:Орш. В-305
 DTSTART:20250929T074500Z
 SUMMARY:ЛР Общая физика
 UID:7f6dd9a3b766a45b0bf7225d0f7cbc7f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251126T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251126T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:026647e996f15915ede95f04d6e901cf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -2311,22 +2327,6 @@ LOCATION:Орш. В-501
 DTSTART:20251124T114500Z
 SUMMARY:ЛК Математический анализ
 UID:7ea04242a07d654d4617e3efad077260
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251015T113000Z
-LOCATION:Орш. В-505
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Экономическая теория
-UID:456a22e3dcc24ba178429775adfbc556
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛАСТОЧКИНА ВЕРА ВЛАДИМИРОВНА
-DTEND:20251001T150000Z
-LOCATION:Орш. В-501
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:9244f2e0e1c0f1187a12324ec72d749e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачева Ирина Михайловна
