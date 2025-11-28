@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251105T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251105T133000Z
+SUMMARY:ПЗ История России
+UID:97a89cd8d67151c3520e5bda086ba424
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T113000Z
 LOCATION:--каф. 919
 DTSTART:20251112T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:b96f604a09fc2afac2556c855dfe3db3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251114T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251114T114500Z
-SUMMARY:ЛР Информатика
-UID:e9368233f2513ee2095aedc244d208a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -54,11 +54,27 @@ SUMMARY:ЛК Информатика
 UID:9e6e233c8d6a55635dbb6b655992d054
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251015T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251015T133000Z
+SUMMARY:ПЗ История России
+UID:12afea8b35e1912bf3056229a52f87b3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260124T131500Z
 LOCATION:ГУК Б-330Б
 DTSTART:20260124T114500Z
 SUMMARY:Экзамен Дискретная математика и математическая логика
 UID:703d14113af4999d9eda72e9318bff28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251003T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251003T114500Z
+SUMMARY:ЛР Информатика
+UID:8c0b01e47e3e21b4c3648c86a13f5852
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T091500Z
@@ -74,22 +90,6 @@ LOCATION:ГУК В-221
 DTSTART:20251003T060000Z
 SUMMARY:ЛК Математический анализ
 UID:911299e76b5c04efabb69d62c3e4f67f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251127T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Правоведение
-UID:fbc9253a6d0a52b61ae649c9d170e774
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251008T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251008T133000Z
-SUMMARY:ПЗ История России
-UID:e9bc8a92fca90bf73cca63e4641c8a21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
@@ -199,12 +199,12 @@ SUMMARY:ЛК Основы российской государственност�
 UID:2ff247b5e62df98e4f694a6b6be62e29
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251031T113000Z
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251226T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20251031T100000Z
+DTSTART:20251226T114500Z
 SUMMARY:ЛР Информатика
-UID:33fd3f673be1a970707a9f5c4ea2e198
+UID:5141e09ccb04b76d0867c42ec2529289
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
@@ -238,14 +238,6 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:4d4657642ac5d00760626c37fdf8028d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251113T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Правоведение
-UID:a54868dfd7b0bb650bf9eb48fc56ac64
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251229T091500Z
 LOCATION:--каф. 919
 DTSTART:20251229T074500Z
@@ -261,28 +253,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:cfa6489d7849763cc0b5332193cfc31f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251002T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Правоведение
-UID:799eac514a1a1360967b6be1605400ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251013T113000Z
-LOCATION:ГУК Б-328
-DTSTART:20251013T100000Z
-SUMMARY:ПЗ Информатика
-UID:4cbc3480bd8df70900c4f111545c3d09
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20250922T150000Z
-LOCATION:3-413а
-DTSTART:20250922T133000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:141b5fe35f28e9083b9102e75f0939a8
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251212T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251212T114500Z
+SUMMARY:ЛР Информатика
+UID:a880e82b2af105e87036039e9f50f49d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T091500Z
@@ -292,12 +268,12 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:e7d650853874be784e92671869c8f5b6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251027T113000Z
-LOCATION:ГУК Б-328
-DTSTART:20251027T100000Z
-SUMMARY:ПЗ Информатика
-UID:670a6439e1311c0d21fd161307065315
+DESCRIPTION:Земсков Андрей Владимирович
+DTEND:20250922T150000Z
+LOCATION:3-413а
+DTSTART:20250922T133000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:141b5fe35f28e9083b9102e75f0939a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
@@ -316,12 +292,12 @@ SUMMARY:ЛК Математический анализ
 UID:b65de027e5c2a327dde3bb20cdedf710
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251226T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251226T114500Z
-SUMMARY:ЛР Информатика
-UID:4155048fb230a6a7e024542e57eb19d6
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251008T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251008T133000Z
+SUMMARY:ПЗ История России
+UID:1cf334f1dbe039a439d67a03be6300fb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T113000Z
@@ -329,14 +305,6 @@ LOCATION:Орш. Б-600
 DTSTART:20251113T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:7ee6c60878a2f9b63c32d42576acdf14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251031T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251031T114500Z
-SUMMARY:ЛР Информатика
-UID:05e2af3e380932ef3fc7e1613a841f8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -352,6 +320,14 @@ LOCATION:Орш. Б-600
 DTSTART:20251211T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:79efd579141af74f377ea4a80636af32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251128T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251128T114500Z
+SUMMARY:ЛР Информатика
+UID:9624d348141aa55d3cff278f1d8580a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -381,14 +357,6 @@ LOCATION:--каф. 919
 DTSTART:20251029T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:6c738b017726f863d8fb63d9201b8a17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251106T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251106T060000Z
-SUMMARY:ЛК Правоведение
-UID:a363d783435ce74c82562afd0d93b928
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -476,22 +444,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:f7e4797e0fd0e15c510e7c64f34c4734
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20250929T113000Z
-LOCATION:ГУК Б-328
-DTSTART:20250929T100000Z
-SUMMARY:ПЗ Информатика
-UID:5069bd6951f22ce0d8546792031c48e5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251211T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Правоведение
-UID:8c48854f3c69993b9a61dc3ff200c0b5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251121T113000Z
 LOCATION:ГУК Б-330Б
 DTSTART:20251121T100000Z
@@ -529,14 +481,6 @@ SUMMARY:ПЗ Физическая культура
 UID:f03cfce584967463bd07feae7994c269
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251030T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Правоведение
-UID:6193ea5863ad92bb32a07c35399bc720
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20250903T091500Z
 LOCATION:3-407
@@ -545,12 +489,11 @@ SUMMARY:ПЗ Математический анализ
 UID:51ca1ca21569e2cda6e8f2a5c572109f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251126T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251126T133000Z
-SUMMARY:ПЗ История России
-UID:ead6808ae4e0c93155039d6f7701f1fa
+DTEND:20251129T091500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251129T074500Z
+SUMMARY:ЛР Дискретная математика и математическая логика
+UID:88024933af7e812da7666d7ad0ca6248
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T113000Z
@@ -574,49 +517,11 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:7302636d92ca90be8ecf609ab9c76cdb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251029T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251029T133000Z
-SUMMARY:ПЗ История России
-UID:edffacbb96aec146c8ca029309e664a1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251129T074500Z
-SUMMARY:ЛР Дискретная математика и математическая логика
-UID:88024933af7e812da7666d7ad0ca6248
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251015T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251015T133000Z
-SUMMARY:ПЗ История России
-UID:902f47fa778d481d5cbc9ca022631af2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251204T113000Z
 LOCATION:Орш. Б-600
 DTSTART:20251204T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:0f9672cc3359cd81ee29c8489848e762
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251205T100000Z
-SUMMARY:ЛР Введение в профессиональную деятельность
-UID:d199d3ec1fbc60f269ac6f7d4a242e86
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251212T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251212T114500Z
-SUMMARY:ЛР Информатика
-UID:7f136b76211567765d5b6fe2eef1cc04
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T091500Z
@@ -631,6 +536,13 @@ LOCATION:ГУК Б-330Б
 DTSTART:20251227T074500Z
 SUMMARY:ЛР Дискретная математика и математическая логика
 UID:97c3936e9abef7c3ac0a78838407f845
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251205T100000Z
+SUMMARY:ЛР Введение в профессиональную деятельность
+UID:d199d3ec1fbc60f269ac6f7d4a242e86
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T113000Z
@@ -656,6 +568,14 @@ SUMMARY:ЛК Информатика
 UID:5875d3b6ca37a37f36c0b635e4464f2c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251204T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251204T060000Z
+SUMMARY:ЛК Правоведение
+UID:fe2588de99ddd9056f49fd60b4a20445
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
 DTEND:20251211T091500Z
 LOCATION:Орш. В-501
@@ -678,6 +598,14 @@ LOCATION:Орш. В-501
 DTSTART:20251225T074500Z
 SUMMARY:ЛК История России
 UID:cf09875748697a6bc78ea541004fa722
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251112T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251112T133000Z
+SUMMARY:ПЗ История России
+UID:e29efa6e2fef8c754b8a09307a4158a7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251213T073000Z
@@ -715,6 +643,14 @@ LOCATION:3-407
 DTSTART:20251001T074500Z
 SUMMARY:ПЗ Математический анализ
 UID:deb3b90047a32f1c656aef2f9cf64b8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251017T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251017T100000Z
+SUMMARY:ЛР Информатика
+UID:c8496c52495df2778831f44ef651a3dd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T131500Z
@@ -760,6 +696,22 @@ SUMMARY:ПЗ Физическая культура
 UID:9bfa5b798ea7baeb951b505066be4f10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251114T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251114T100000Z
+SUMMARY:ЛР Информатика
+UID:be9073fab0f5d5c373ba833e0b397ba2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251023T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251023T060000Z
+SUMMARY:ЛК Правоведение
+UID:52b99e8978abc8d8001f357eb0b1e356
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
 DTEND:20250905T073000Z
 LOCATION:ГУК В-221
@@ -781,14 +733,6 @@ LOCATION:3-413а
 DTSTART:20250908T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:88ae998f218a8a6a0e8fc60b067ec161
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20250925T073000Z
-LOCATION:Орш. В-501
-DTSTART:20250925T060000Z
-SUMMARY:ЛК Правоведение
-UID:695c50717e4955b142ce9d794411c0bd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T113000Z
@@ -821,20 +765,20 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:1a938d5c794a39cbb768652592865cc2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251119T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251119T133000Z
-SUMMARY:ПЗ История России
-UID:9da1cd6d12daf69a9bfe78b98de2eac7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
 DTEND:20251124T150000Z
 LOCATION:3-413а
 DTSTART:20251124T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:72a595025a24ba909e4e2d1d9866d142
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Земсков Андрей Владимирович
+DTEND:20251229T150000Z
+LOCATION:3-413а
+DTSTART:20251229T133000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:692bf56b424e6a1b3ce68dc90910e28f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T131500Z
@@ -844,12 +788,12 @@ SUMMARY:ЛР Введение в профессиональную деятель
 UID:57e61269c150d1a718c8b48c7b45dd09
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251229T150000Z
-LOCATION:3-413а
-DTSTART:20251229T133000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:692bf56b424e6a1b3ce68dc90910e28f
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251031T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251031T100000Z
+SUMMARY:ЛР Информатика
+UID:8ae5858e26fc717282129709947961af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -875,12 +819,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:7b4ce61b901c52f013ae490ebac9d123
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Давыдов Сергей Андреевич
-DTEND:20251216T131500Z
-LOCATION:ГУК В-221
-DTSTART:20251216T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:287b526225ccc0eb7097310450928fb8
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251203T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251203T133000Z
+SUMMARY:ПЗ История России
+UID:0803b4e3c43190bcf1df88eda6af1850
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малашкин Анатолий Владимирович
@@ -891,11 +835,27 @@ SUMMARY:ЛК Информатика
 UID:d27c94f4beb1827ba0642b98e6183a4a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20251216T131500Z
+LOCATION:ГУК В-221
+DTSTART:20251216T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:287b526225ccc0eb7097310450928fb8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20250905T074500Z
 SUMMARY:ЛК Дискретная математика и математическая логика
 UID:75091c183936f125d28b0d8f539d2c71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251030T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Правоведение
+UID:cbc879f797c94dbd35da562e2c5e2142
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T091500Z
@@ -918,6 +878,22 @@ LOCATION:ГУК В-221
 DTSTART:20250902T114500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:25d787e5fb6f582615440fd1d9976b0b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251119T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251119T133000Z
+SUMMARY:ПЗ История России
+UID:073402cc783ffa372eb62f12cba8f738
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20250911T073000Z
+LOCATION:Орш. В-501
+DTSTART:20250911T060000Z
+SUMMARY:ЛК Правоведение
+UID:5d80fda6de58b2d142e393534e73109a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Давыдов Сергей Андреевич
@@ -944,12 +920,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:6fe43150f2c30e81e97af77310160b58
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251023T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251023T060000Z
-SUMMARY:ЛК Правоведение
-UID:c31498c8b9f88bab5fdc0870756efcc4
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251126T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251126T133000Z
+SUMMARY:ПЗ История России
+UID:729af0b108b1d43882ec909206494e64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -960,12 +936,12 @@ SUMMARY:ЛК История России
 UID:9bba5da49b4059d80faa9bfa9bc49c02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251203T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251203T133000Z
-SUMMARY:ПЗ История России
-UID:7899fa3713248d567fb66f2467b944a8
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251212T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251212T100000Z
+SUMMARY:ЛР Информатика
+UID:d3b51a273decc2caa4bfc70edd25463d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
@@ -983,14 +959,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:74c2064620b1b0c696bf8d2013243809
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251212T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251212T100000Z
-SUMMARY:ЛР Информатика
-UID:8fac1ea6d9614f5b8de6585f70ca6680
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260124T113000Z
 LOCATION:ГУК Б-330Б
 DTSTART:20260124T100000Z
@@ -998,11 +966,20 @@ SUMMARY:Экзамен Дискретная математика и матема
 UID:85dda1b819d26b7f69f10a83790811e2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T113000Z
-LOCATION:Орш. Б-600
-DTSTART:20251127T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:287f98ff9652f948bf9c7949f5d7a120
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20250918T131500Z
+LOCATION:Орш. В-526
+DTSTART:20250918T114500Z
+SUMMARY:ПЗ Правоведение
+UID:0bb33aedce8c78a1c6ec5641a67d81e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20250929T113000Z
+LOCATION:ГУК Б-328
+DTSTART:20250929T100000Z
+SUMMARY:ПЗ Информатика
+UID:c299fd00ec24405cebcc40896c231ed4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T091500Z
@@ -1012,12 +989,11 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:b0603cc04fd017f1b19237bfca504b98
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251128T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251128T060000Z
-SUMMARY:ЛК Математический анализ
-UID:a6bcc1e008db354796f835bb71540db4
+DTEND:20251127T113000Z
+LOCATION:Орш. Б-600
+DTSTART:20251127T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:287f98ff9652f948bf9c7949f5d7a120
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T113000Z
@@ -1025,6 +1001,14 @@ LOCATION:Орш. Б-600
 DTSTART:20251016T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:5403ae8edc3112e89a5d7719a6f63a35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Земсков Андрей Владимирович
+DTEND:20251128T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251128T060000Z
+SUMMARY:ЛК Математический анализ
+UID:a6bcc1e008db354796f835bb71540db4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T073000Z
@@ -1042,12 +1026,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:26d86a6d70675b63aefc761b529ba38b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251226T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251226T100000Z
-SUMMARY:ЛР Информатика
-UID:5d3ee3fda0dd61cb2f0cdf14d3dcaed7
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251210T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251210T133000Z
+SUMMARY:ПЗ История России
+UID:ed5fe784ba5d519737d5e57408dd88e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
@@ -1056,6 +1040,14 @@ LOCATION:ГУК Б-638
 DTSTART:20260112T060000Z
 SUMMARY:Экзамен Математический анализ
 UID:d55b969db3ceb36b24bb5b5d7a14b080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251029T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251029T133000Z
+SUMMARY:ПЗ История России
+UID:2acdf0234084735e765e956b55e90820
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -1094,14 +1086,6 @@ LOCATION:ГУК Б-444
 DTSTART:20251003T074500Z
 SUMMARY:ЛК Дискретная математика и математическая логика
 UID:3846878ddd32f84fb003ce9c3127abd6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251204T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251204T060000Z
-SUMMARY:ЛК Правоведение
-UID:bb780a9e3a29d6a0daed5cae3db1bfaf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T073000Z
@@ -1148,22 +1132,6 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:69f2873c7c9c4a70d92d3ea5650f3f4a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251225T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Правоведение
-UID:e7e583c2c203a95ac8e27c42ee0d91f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251017T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251017T114500Z
-SUMMARY:ЛР Информатика
-UID:7b322797d8c36f96e58b7e1c3e0cc90b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251010T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20251010T074500Z
@@ -1185,14 +1153,6 @@ LOCATION:3-413а
 DTSTART:20251201T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:bbe3ab9bd8e9e7d586e9fdcc1b41c2bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251128T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251128T114500Z
-SUMMARY:ЛР Информатика
-UID:f631fdedba6e09ca230a2a661d14a8ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -1265,14 +1225,6 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:5fd006bc0b9927c4cbd8b5fb7cedda93
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251218T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251218T060000Z
-SUMMARY:ЛК Правоведение
-UID:608df293845dfbc158636f912e60f7b5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Малашкин Анатолий Владимирович
 DTEND:20250923T113000Z
 LOCATION:3-109
@@ -1281,20 +1233,20 @@ SUMMARY:ЛК Информатика
 UID:fba996004716d766136764998703f773
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251009T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251009T060000Z
+SUMMARY:ЛК Правоведение
+UID:b3bf59d7e3e04b29312f0ac12d6c86f2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
 DTEND:20251013T150000Z
 LOCATION:3-413а
 DTSTART:20251013T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:27b71f13856cefe6a9f35d1e09742117
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251224T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251224T133000Z
-SUMMARY:ПЗ История России
-UID:0a7ff9c041103969919c4b11dda969e8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251014T091500Z
@@ -1309,14 +1261,6 @@ LOCATION:ГУК Б-444
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Дискретная математика и математическая логика
 UID:ee93ed2a2611064ca2faf5f423341cd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251022T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251022T133000Z
-SUMMARY:ПЗ История России
-UID:93d86679522b13d3743d0c8239456f8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -1357,6 +1301,14 @@ SUMMARY:ЛК История России
 UID:70b87967d23c9ef7c47c5bbdaaa68ad5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251013T113000Z
+LOCATION:ГУК Б-328
+DTSTART:20251013T100000Z
+SUMMARY:ПЗ Информатика
+UID:801382c5513c9d3e6170065583d4dacc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251004T073000Z
 LOCATION:ГУК Б-330Б
 DTSTART:20251004T060000Z
@@ -1385,14 +1337,6 @@ LOCATION:3-407
 DTSTART:20251224T074500Z
 SUMMARY:ПЗ Математический анализ
 UID:61b9d08fe41a204be147b56d50943aee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251120T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251120T060000Z
-SUMMARY:ЛК Правоведение
-UID:a3f82f75da94910f7e8dadd8199472c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -1447,14 +1391,6 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:82f25261cf5f7a736b389c80b9ebfda2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251110T113000Z
-LOCATION:ГУК Б-328
-DTSTART:20251110T100000Z
-SUMMARY:ПЗ Информатика
-UID:4b60032be5b3a8d9d2be8416f3412d24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Малашкин Анатолий Владимирович
 DTEND:20251216T113000Z
 LOCATION:3-109
@@ -1475,6 +1411,14 @@ LOCATION:--каф. 919
 DTSTART:20251015T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:c9c584564577eed943e99e1f7d903911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251110T113000Z
+LOCATION:ГУК Б-328
+DTSTART:20251110T100000Z
+SUMMARY:ПЗ Информатика
+UID:d16fa56976c0f60af19e3f045a3842e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T113000Z
@@ -1499,14 +1443,6 @@ SUMMARY:ЛР Введение в профессиональную деятель
 UID:537af77d09c2f138e663c63b6c314122
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251128T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251128T100000Z
-SUMMARY:ЛР Информатика
-UID:92fa45a02b4f6f5b9a98f1cacdaac440
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250920T073000Z
 LOCATION:ГУК Б-330Б
 DTSTART:20250920T060000Z
@@ -1529,14 +1465,6 @@ SUMMARY:ЛК Информатика
 UID:a6661815157a9c557a5abaca804963d3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251112T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251112T133000Z
-SUMMARY:ПЗ История России
-UID:2f8c945dfe306fd17f3ef69a1f98fdf9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250908T091500Z
 LOCATION:--каф. 919
 DTSTART:20250908T074500Z
@@ -1551,20 +1479,20 @@ SUMMARY:ЛК Дискретная математика и математичес
 UID:c12aa04503ff17121c3540fdba73f288
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20250911T073000Z
-LOCATION:Орш. В-501
-DTSTART:20250911T060000Z
-SUMMARY:ЛК Правоведение
-UID:11af24ddd10fb19330f61cd2bab80296
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251225T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Правоведение
+UID:c22ac2f064a2714cafc950f3963c9cec
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251017T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251017T100000Z
-SUMMARY:ЛР Информатика
-UID:ec5da39826e3cde0b2aac527f7ee4057
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251022T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251022T133000Z
+SUMMARY:ПЗ История России
+UID:a867dc49de974e5c0a780916d4eecf4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -1698,14 +1626,6 @@ SUMMARY:ЛК Математический анализ
 UID:ab00d927671e6e24dfff5174609cb32f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251217T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251217T133000Z
-SUMMARY:ПЗ История России
-UID:ef5f9cb99615e0bc0867061fb01f0028
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251210T113000Z
 LOCATION:--каф. 919
 DTSTART:20251210T100000Z
@@ -1720,6 +1640,14 @@ SUMMARY:ПЗ Дискретная математика и математичес
 UID:c5c6e24d6333c8a3646f04a770e2f8cd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251218T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251218T060000Z
+SUMMARY:ЛК Правоведение
+UID:9a2f30b1d7b16c71c54b21515c2ed8b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
 DTEND:20251002T091500Z
 LOCATION:Орш. В-501
@@ -1728,20 +1656,12 @@ SUMMARY:ЛК История России
 UID:8a330640c7f268514bcb0c606460c800
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20250915T113000Z
-LOCATION:ГУК Б-328
-DTSTART:20250915T100000Z
-SUMMARY:ПЗ Информатика
-UID:b5f359ed5ae79b287321942e3d5bbad4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251003T113000Z
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251017T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20251003T100000Z
+DTSTART:20251017T114500Z
 SUMMARY:ЛР Информатика
-UID:15d78de0267d4520c511aab18c70c255
+UID:b9d6d63d362db23b4cd498420176d030
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T091500Z
@@ -1749,6 +1669,14 @@ LOCATION:ГУК Б-444
 DTSTART:20251107T074500Z
 SUMMARY:ЛК Введение в профессиональную деятельность
 UID:791ad80336aa5f77989a6e093ac1a9b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251211T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Правоведение
+UID:1d396668ba1821f66d3042506c504de7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T113000Z
@@ -1763,6 +1691,14 @@ LOCATION:Орш. Б-600
 DTSTART:20250911T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:987c060189c8561854cab6fc77c64388
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251113T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Правоведение
+UID:4f9005149ab010c6cc63be2b4f7861bd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T091500Z
@@ -1780,12 +1716,12 @@ SUMMARY:ЛК Математический анализ
 UID:b2c782fb73de7a3a808421d0da22f2ed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шкарубо Сергей Николаевич
-DTEND:20251218T091500Z
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251120T073000Z
 LOCATION:Орш. В-501
-DTSTART:20251218T074500Z
-SUMMARY:ЛК История России
-UID:22607e6254addd816afc0df70e49f85e
+DTSTART:20251120T060000Z
+SUMMARY:ЛК Правоведение
+UID:b60581722c8ce20ce3048e5248414f4b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T113000Z
@@ -1808,6 +1744,14 @@ LOCATION:3-405
 DTSTART:20250924T060000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:03626980a0ec559eaa4838a4e5a2ddb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шкарубо Сергей Николаевич
+DTEND:20251218T091500Z
+LOCATION:Орш. В-501
+DTSTART:20251218T074500Z
+SUMMARY:ЛК История России
+UID:22607e6254addd816afc0df70e49f85e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
@@ -1840,20 +1784,20 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:298573b87bd188489aee03fdcb1c72a0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251016T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251016T114500Z
+SUMMARY:ПЗ Правоведение
+UID:0e61430ded2d2d0fc47d949c929b0bbf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
 DTEND:20251204T091500Z
 LOCATION:Орш. В-501
 DTSTART:20251204T074500Z
 SUMMARY:ЛК История России
 UID:c51aeb3d88a57f05b109f24f70fbe104
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251114T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251114T100000Z
-SUMMARY:ЛР Информатика
-UID:d1b2de505f3076475dd0fe2d98eab305
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251201T091500Z
@@ -1879,14 +1823,6 @@ SUMMARY:ЛК Информатика
 UID:f6b2a317ae6738db40a8684c6da48c62
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251016T131500Z
-LOCATION:Орш. В-526
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Правоведение
-UID:fb4be28e1a99c253ae550c01712f7da7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Земсков Андрей Владимирович
 DTEND:20251117T150000Z
 LOCATION:3-413а
@@ -1901,14 +1837,6 @@ LOCATION:3-413а
 DTSTART:20250929T133000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:8dae5526e1cc8b8afd10fcc4f5f4b5f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251105T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251105T133000Z
-SUMMARY:ПЗ История России
-UID:bd0e0a547fdb8d0e47f3193279d96580
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -1956,11 +1884,27 @@ SUMMARY:ПЗ Физическая культура
 UID:7e0e35cbaba788af2a9d4bb2426a36fe
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251217T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251217T133000Z
+SUMMARY:ПЗ История России
+UID:6414d0d65c35faaa02c429deae378a2f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251220T073000Z
 LOCATION:3-243
 DTSTART:20251220T060000Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:4e090cf5cf15a245125205c45270d700
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251106T073000Z
+LOCATION:Орш. В-501
+DTSTART:20251106T060000Z
+SUMMARY:ЛК Правоведение
+UID:1046532101bbe4ad8c5eab531f960f27
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T091500Z
@@ -1994,12 +1938,12 @@ SUMMARY:ЛК Математический анализ
 UID:73a118703b9946d2e88b47a236cdd2c0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20251009T073000Z
-LOCATION:Орш. В-501
-DTSTART:20251009T060000Z
-SUMMARY:ЛК Правоведение
-UID:74a1a7970f99833def8ed3cda9525c71
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20250915T113000Z
+LOCATION:ГУК Б-328
+DTSTART:20250915T100000Z
+SUMMARY:ПЗ Информатика
+UID:783f63ce6cc9721a31b3f515ed500629
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Давыдов Сергей Андреевич
@@ -2010,14 +1954,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a681683ddb017bbdf721801a1acfad02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251212T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251212T060000Z
-SUMMARY:ЛК Математический анализ
-UID:5c67a09978021087aee2396cb86f7566
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Малашкин Анатолий Владимирович
 DTEND:20250916T113000Z
 LOCATION:ГУК Б-444
@@ -2026,11 +1962,20 @@ SUMMARY:ЛК Информатика
 UID:fa05119501dfc5b693a5ad3288d74ae1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251227T073000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251227T060000Z
-SUMMARY:ЛР Дискретная математика и математическая логика
-UID:dffee2caedac607f6944e4da1bdceffc
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251027T113000Z
+LOCATION:ГУК Б-328
+DTSTART:20251027T100000Z
+SUMMARY:ПЗ Информатика
+UID:84d9de075808f3d786f6d3adcf9b5670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Земсков Андрей Владимирович
+DTEND:20251212T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251212T060000Z
+SUMMARY:ЛК Математический анализ
+UID:5c67a09978021087aee2396cb86f7566
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T091500Z
@@ -2062,6 +2007,14 @@ SUMMARY:ПЗ Физическая культура
 UID:ece36e008f8308b99a2e0d92cfc71e3e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шляхтунов Михаил Андреевич
+DTEND:20251224T150000Z
+LOCATION:Орш. В-502
+DTSTART:20251224T133000Z
+SUMMARY:ПЗ История России
+UID:d2d4e0c69daea498564c213d39a5b788
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Давыдов Сергей Андреевич
 DTEND:20251007T131500Z
 LOCATION:ГУК В-221
@@ -2078,12 +2031,19 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:5d487eb703edfae0f7875af43d850c0b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
-DTEND:20251210T150000Z
-LOCATION:Орш. В-502
-DTSTART:20251210T133000Z
-SUMMARY:ПЗ История России
-UID:f9453fda2b8bb15f933526fefffdb03d
+DTEND:20251227T073000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251227T060000Z
+SUMMARY:ЛР Дискретная математика и математическая логика
+UID:dffee2caedac607f6944e4da1bdceffc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20250925T073000Z
+LOCATION:Орш. В-501
+DTSTART:20250925T060000Z
+SUMMARY:ЛК Правоведение
+UID:8a1e1880fc3c614c4aa155a683319a2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Давыдов Сергей Андреевич
@@ -2092,14 +2052,6 @@ LOCATION:ГУК Б-638
 DTSTART:20260116T100000Z
 SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
 UID:376750408d1df31885ef073cf2316ff3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гаева Александра Петровна
-DTEND:20251003T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20251003T114500Z
-SUMMARY:ЛР Информатика
-UID:26f240c8145146f147693fe0a31a6273
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малашкин Анатолий Владимирович
@@ -2117,12 +2069,44 @@ SUMMARY:ПЗ Физическая культура
 UID:c3556c10a02b04ea72dacb9f7c61776e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251114T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251114T114500Z
+SUMMARY:ЛР Информатика
+UID:93af8294b83c417547f7f2d424d63ed7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251002T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Правоведение
+UID:b2633489d39b491e5dc4bad711a1f6a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251003T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251003T100000Z
+SUMMARY:ЛР Информатика
+UID:c4120df141de6e44d1b59b5f3e81e811
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сафронов Иван Александрович
 DTEND:20251029T073000Z
 LOCATION:3-405
 DTSTART:20251029T060000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:2ed63862deaa896ee8554d9e94aff1b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251226T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251226T100000Z
+SUMMARY:ЛР Информатика
+UID:1c398c0cc8b8c894aa392787445dd58a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -2171,12 +2155,11 @@ SUMMARY:ЛК Основы российской государственност�
 UID:94a19555eed208c9c6803f7b7122e0fa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ (осн.)
-DTEND:20250918T131500Z
-LOCATION:Орш. В-526
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Правоведение
-UID:7c5d2b745b87735b7b2507895de04819
+DTEND:20251106T113000Z
+LOCATION:Орш. Б-600
+DTSTART:20251106T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:cc2ee83b57f322407dfb81224f9566cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Давыдов Сергей Андреевич
@@ -2187,11 +2170,12 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:ed15c92de08b00a58a9368911467bbba
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T113000Z
-LOCATION:Орш. Б-600
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:cc2ee83b57f322407dfb81224f9566cb
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251128T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251128T100000Z
+SUMMARY:ЛР Информатика
+UID:6ed074cb27e84d3fa3c4a13d5d6e6163
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T113000Z
@@ -2217,11 +2201,27 @@ SUMMARY:ЛК Математический анализ
 UID:80cd4c7cc15d1b255b55f747816ee2c6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дыбалева Александра Петровна
+DTEND:20251031T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20251031T114500Z
+SUMMARY:ЛР Информатика
+UID:a284addeb2560702654e255fb7c79687
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T113000Z
 LOCATION:Орш. Б-600
 DTSTART:20251120T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:082b0f290e28b15aa3e0e932a107fb90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20251127T131500Z
+LOCATION:Орш. В-526
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Правоведение
+UID:9705c118876dcfb81e66292b85694752
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T113000Z

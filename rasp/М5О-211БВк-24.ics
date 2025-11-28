@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251007T073000Z
-LOCATION:5-420
-DTSTART:20251007T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:6ce9f8c98a310b1e4f8248f44a15dd8e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20250929T150000Z
 LOCATION:5-303
@@ -33,6 +25,14 @@ SUMMARY:ЛР Финансы
 UID:d5ce26d4d586fb8330fdddad7fd31641
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251115T113000Z
+LOCATION:5-235
+DTSTART:20251115T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:12c807a32959ac2256d1ef6dfe39ba2b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251124T150000Z
 LOCATION:5-303
@@ -46,6 +46,14 @@ LOCATION:Орш. А-406
 DTSTART:20250924T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:66b6307b89d791946b1f13670450f825
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251213T091500Z
+LOCATION:5-235
+DTSTART:20251213T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:213a059da7f6169c3ad3b25727df00ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -87,14 +95,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:de8a445a23002292bd0c6e3cd67ae089
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250903T091500Z
-LOCATION:5-111
-DTSTART:20250903T074500Z
-SUMMARY:ЛК Маркетинг
-UID:fb63d7e14af1a5a456b96737b25c2e96
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251015T073000Z
 LOCATION:--каф. 919
 DTSTART:20251015T060000Z
@@ -108,6 +108,22 @@ LOCATION:5-301В
 DTSTART:20251017T060000Z
 SUMMARY:ЛР Финансы
 UID:15ac20995c8f1ac874eccaf80b22681b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260116T073000Z
+LOCATION:5-423
+DTSTART:20260116T060000Z
+SUMMARY:Экзамен Основы системы государственного и муниципального управления
+UID:9b03c385f2441dd73d8353e42c11ce37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251129T091500Z
+LOCATION:5-235
+DTSTART:20251129T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:1ccca39011d1534f36b9495e9738f2bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -209,12 +225,12 @@ SUMMARY:ПЗ Физическая культура
 UID:7f393c238e992e2be66199283a3b90b8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251216T073000Z
-LOCATION:5-420
-DTSTART:20251216T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:f60dc8cad131adbea3764fdc4d824806
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251112T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251112T133000Z
+SUMMARY:ЛК Маркетинг
+UID:7a1d8111eae9d99e70b7c440bbe94185
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -240,22 +256,6 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:3b10859f09643a3c9d779e422d5b08ba
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251018T091500Z
-LOCATION:5-235
-DTSTART:20251018T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:ef94a482ad2e3b8d2def7d41b8aaaac3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251227T113000Z
-LOCATION:5-235
-DTSTART:20251227T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:212fb66c44bc0148830175c2d9db0fc1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251009T113000Z
 LOCATION:--каф.
 DTSTART:20251009T100000Z
@@ -268,6 +268,14 @@ LOCATION:--каф.
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:3770a7c67ed0da063a2349fe9b7add80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251007T073000Z
+LOCATION:5-420
+DTSTART:20251007T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:bfd8e70102f2f37086663667446a0423
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -302,14 +310,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:2e097ab7c1fbc5bf5a9269b383da660b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251008T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251008T133000Z
-SUMMARY:ЛК Маркетинг
-UID:d925ca8435e865245de5b1d1975e15cc
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251022T073000Z
 LOCATION:--каф. 919
 DTSTART:20251022T060000Z
@@ -322,6 +322,14 @@ LOCATION:--каф.
 DTSTART:20251002T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:25feb6ef78185f38fbd38a6c17282951
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251018T091500Z
+LOCATION:5-235
+DTSTART:20251018T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:9d446b9179981b05e1d31e42065ccefd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T113000Z
@@ -337,6 +345,14 @@ LOCATION:Орш. А-406
 DTSTART:20251217T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:4c130684aad9925071dae2f13f50d87a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251217T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251217T133000Z
+SUMMARY:ЛК Маркетинг
+UID:10c497d9036b12a7d8ec88d4d6e175e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -361,12 +377,28 @@ SUMMARY:ПЗ Физическая культура
 UID:43feddd38d259ad8967108d3bfd2d9ad
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251227T113000Z
+LOCATION:5-235
+DTSTART:20251227T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:8eb4419a5d244e98912c7058d3c5e901
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20250901T150000Z
 LOCATION:5-303
 DTSTART:20250901T133000Z
 SUMMARY:ЛК Финансы
 UID:080d2ad11d439b91209b5617503b7a17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251015T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251015T133000Z
+SUMMARY:ЛК Маркетинг
+UID:6f162f6195ba2b4a78018a292e72d426
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -421,14 +453,6 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:989b27e0ecb6d4cc7196de2620461e99
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20250909T091500Z
-LOCATION:5-420
-DTSTART:20250909T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:2470415900d139df053d77305006b728
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20251014T091500Z
 LOCATION:5-101
@@ -437,19 +461,19 @@ SUMMARY:ЛК Основы логистики
 UID:377be26bde9e12764fab7cf62429da3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251007T091500Z
-LOCATION:5-420
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:73d46d3ae5b06822cf8fb733554f2b7b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250925T091500Z
 LOCATION:--каф.
 DTSTART:20250925T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b08348efa2dda0b2fdc0bc62a59d50ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250924T091500Z
+LOCATION:5-111
+DTSTART:20250924T074500Z
+SUMMARY:ЛК Маркетинг
+UID:7657b09b9d8487f1b7a42c754aa7bc4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -541,6 +565,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:88805ac939ad6f397baeaad2824c7459
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250923T073000Z
+LOCATION:5-420
+DTSTART:20250923T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:756e530b85baef518929c6aedd40368a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20250913T131500Z
 LOCATION:5-122
@@ -604,14 +636,6 @@ SUMMARY:ЛК Финансы
 UID:7184029c6b1ea2c62e216f7afa49bffa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251217T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251217T133000Z
-SUMMARY:ЛК Маркетинг
-UID:0f471b384042fedae62980c6ed3656dd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
 DTEND:20251219T113000Z
 LOCATION:5-422
@@ -626,6 +650,22 @@ LOCATION:5-303
 DTSTART:20251208T133000Z
 SUMMARY:ЛК Финансы
 UID:5dbfdef5c78bcaf3420817d528b1f5e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна
+DTEND:20260120T073000Z
+LOCATION:5-404
+DTSTART:20260120T060000Z
+SUMMARY:Экзамен Теория вероятностей и математическая статистика
+UID:f7266501392fcdee5d02b8fa3add2731
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260116T091500Z
+LOCATION:5-423
+DTSTART:20260116T074500Z
+SUMMARY:Экзамен Основы системы государственного и муниципального управления
+UID:a7cb0949286af2e4bdd078b74107d95c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T131500Z
@@ -669,6 +709,14 @@ LOCATION:--каф.
 DTSTART:20250918T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7000c92a0e1804e1765776f6d5bc35ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251021T073000Z
+LOCATION:5-420
+DTSTART:20251021T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:b0201475a178b7db0d2b930ddfeacf28
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T091500Z
@@ -732,6 +780,14 @@ SUMMARY:ПЗ Физическая культура
 UID:0c1cb9678f44166cecb057eb2e33899c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250909T073000Z
+LOCATION:5-420
+DTSTART:20250909T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:99bd5ff3aadbbaaac3f2060d9f47187b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251027T131500Z
 LOCATION:ГАК-307
@@ -740,12 +796,12 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:d62003a7fdc578f8000225f694f6823f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250910T091500Z
-LOCATION:5-111
-DTSTART:20250910T074500Z
-SUMMARY:ЛК Маркетинг
-UID:d3178157a5d65fc1c8e5281e32d6cec8
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251004T113000Z
+LOCATION:5-235
+DTSTART:20251004T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:41a4b59f8623d3a6c5d5ec3ee08d1a4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -754,6 +810,14 @@ LOCATION:5-422
 DTSTART:20250912T100000Z
 SUMMARY:ПЗ Социология
 UID:034f8be623cdab5a0c4e7980c6635763
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250917T091500Z
+LOCATION:5-111
+DTSTART:20250917T074500Z
+SUMMARY:ЛК Маркетинг
+UID:ac3154b0f8287302f598a158105a5ac2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T113000Z
@@ -771,12 +835,12 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:ea375d906859ecc4b6b37c3443d63eea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251018T113000Z
-LOCATION:5-235
-DTSTART:20251018T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:e2dfdfcfca3e3b8ee20698c1efbfa042
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251202T073000Z
+LOCATION:5-420
+DTSTART:20251202T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:c2384ff60cbbdb0a600e464ec351a768
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -787,28 +851,12 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:9a4406c5284726ff0575accb3800f6af
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251101T113000Z
-LOCATION:5-235
-DTSTART:20251101T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:c5cec41f8a849b45f8d533b70b932922
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
 DTEND:20251022T113000Z
 LOCATION:Орш. А-406
 DTSTART:20251022T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:40fd67a43f4827a269cc6f6ff5b73b97
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20260124T131500Z
-LOCATION:5-235
-DTSTART:20260124T114500Z
-SUMMARY:Экзамен Маркетинг
-UID:2c013eb91428a34ddf8e6e0814d16c99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -835,6 +883,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:83090d46f44e0f4ca9756c19384834ea
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251008T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251008T133000Z
+SUMMARY:ЛК Маркетинг
+UID:09b271f2e085f8d933fc4363aa1ca082
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T073000Z
 LOCATION:--каф. 919
 DTSTART:20251126T060000Z
@@ -847,6 +903,14 @@ LOCATION:--каф.
 DTSTART:20251225T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:fddffba8b33dabf8282c0e6866cbe3b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250920T113000Z
+LOCATION:5-235
+DTSTART:20250920T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:3c69a1e67ed1243c2e87ea875e7c9b89
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T091500Z
@@ -878,6 +942,14 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:aab4b981c3f77098aa5b7fa73974cc80
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250909T091500Z
+LOCATION:5-420
+DTSTART:20250909T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:686faae7e511e13fd7591225a8467940
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251013T073000Z
 LOCATION:--каф. 919
 DTSTART:20251013T060000Z
@@ -900,22 +972,6 @@ SUMMARY:ПЗ Физическая культура
 UID:008864f63aa40dc134339b952c169731
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251126T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251126T133000Z
-SUMMARY:ЛК Маркетинг
-UID:5dfea6153e1e061800c1f8c308abde1e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251213T113000Z
-LOCATION:5-235
-DTSTART:20251213T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:6082c5c5d3a72736825a08518d374ef8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251121T091500Z
 LOCATION:ГАК-307
 DTSTART:20251121T074500Z
@@ -935,30 +991,6 @@ LOCATION:ГАК-307
 DTSTART:20251205T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:ec2ce072eed74fa6476e77791bfe6bbd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20260124T113000Z
-LOCATION:5-235
-DTSTART:20260124T100000Z
-SUMMARY:Экзамен Маркетинг
-UID:a737cacadcf34bf0c30c0d49a5bbe619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251202T091500Z
-LOCATION:5-420
-DTSTART:20251202T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:adcffb528985fa2d856dfd3d907ed8f9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Галина Юрьевна (осн.)
-DTEND:20260120T073000Z
-LOCATION:5-404
-DTSTART:20260120T060000Z
-SUMMARY:Экзамен Теория вероятностей и математическая статистика
-UID:d9a73da525d49601c663fa3fc54a8c83
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T113000Z
@@ -1013,6 +1045,14 @@ SUMMARY:ЛК Конструирование и технологии высоко
 UID:c18329db1bf73f151fd03ef830457548
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251105T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251105T133000Z
+SUMMARY:ЛК Маркетинг
+UID:38ad70255affe0198f87d543d443542d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T131500Z
 LOCATION:5-425
 DTSTART:20251107T114500Z
@@ -1034,14 +1074,6 @@ LOCATION:5-002
 DTSTART:20251021T100000Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:f269ce1d6570ed0b6034f0045de9ad8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250920T113000Z
-LOCATION:5-235
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:e4f687580b1ab247f4ee6e7dacad873b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T164500Z
@@ -1072,6 +1104,14 @@ LOCATION:--каф.
 DTSTART:20251113T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1d722c105300da7b8d4d9f5bc6b81a33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251018T113000Z
+LOCATION:5-235
+DTSTART:20251018T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:b2e5a30801e2d4a1ca61db22eca9a2c7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T113000Z
@@ -1121,6 +1161,14 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:d17c7428ae26300a0fa50c36f6317e27
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251022T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251022T133000Z
+SUMMARY:ЛК Маркетинг
+UID:54b19b505f866d1dc4938a1789a58ab0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
 DTEND:20251020T131500Z
 LOCATION:ГАК-307
@@ -1134,6 +1182,14 @@ LOCATION:--каф. 919
 DTSTART:20251217T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:2b0a5ac86cf9e1a08ba863754eedaef0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20250923T091500Z
+LOCATION:5-420
+DTSTART:20250923T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:14fc1645121de8ca6fef3df572bddf89
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T131500Z
@@ -1172,14 +1228,6 @@ SUMMARY:ПЗ Физическая культура
 UID:384f70568f00eb73b5235e31b769ade7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250917T091500Z
-LOCATION:5-111
-DTSTART:20250917T074500Z
-SUMMARY:ЛК Маркетинг
-UID:319e79d8c4d7123e95d53eaf27adba0c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20251111T091500Z
 LOCATION:5-101
@@ -1203,12 +1251,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:b0e23fe4c17fb71deb684ae4fc20120c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251230T091500Z
-LOCATION:5-420
-DTSTART:20251230T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:14d20608853ef3543167aedcf209234f
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260124T113000Z
+LOCATION:5-235
+DTSTART:20260124T100000Z
+SUMMARY:Экзамен Маркетинг
+UID:a0396871671038724c49b9ac954d72e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -1232,6 +1280,14 @@ LOCATION:--каф. 919
 DTSTART:20250903T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:0312e239680dc28fd01f98d23a6bbe96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251203T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251203T133000Z
+SUMMARY:ЛК Маркетинг
+UID:375aa92af042dc681024af3d0957d65e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T131500Z
@@ -1322,14 +1378,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:a909d5b2b82c515574be9159cf639d40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251001T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Маркетинг
-UID:2502a7c14b44671a42e5b2d6db29385c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251113T073000Z
 LOCATION:--каф.
 DTSTART:20251113T060000Z
@@ -1337,12 +1385,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:f588b8f25bafd3877c2968e2b2799330
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251112T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251112T133000Z
-SUMMARY:ЛК Маркетинг
-UID:6a9c891d4bba61d71c6c1da37a2e9625
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251213T113000Z
+LOCATION:5-235
+DTSTART:20251213T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:fac06e0147e923162e64ac0e9f334ef8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T113000Z
@@ -1350,14 +1398,6 @@ LOCATION:--каф.
 DTSTART:20250925T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:2c2e0e69bc8d0b8830113a99a8acdac2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20250923T073000Z
-LOCATION:5-420
-DTSTART:20250923T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:da86f468bc1923673b797ee3c2431089
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T073000Z
@@ -1412,19 +1452,27 @@ SUMMARY:ПЗ Физическая культура
 UID:9b90cea7c5551d226990f988192d8318
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна
+DTEND:20260120T091500Z
+LOCATION:5-404
+DTSTART:20260120T074500Z
+SUMMARY:Экзамен Теория вероятностей и математическая статистика
+UID:32263f161b5122c0f4dd7d79bc7251bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251118T073000Z
+LOCATION:5-420
+DTSTART:20251118T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:7927c9192f9cd88754993b220eab9635
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250915T073000Z
 LOCATION:--каф. 919
 DTSTART:20250915T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:b9cc9f85bb28fc1101b05882bee48d93
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251004T113000Z
-LOCATION:5-235
-DTSTART:20251004T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:4c68f356cc93f83822919b3aa7477f98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -1457,14 +1505,6 @@ SUMMARY:ЛР Конструирование и технологии высоко
 UID:1d1d315b2e22f57235a45d8abe51e0b2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251021T073000Z
-LOCATION:5-420
-DTSTART:20251021T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:d60cb8529a5a22ddc4ec822fd44a5569
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251110T073000Z
 LOCATION:--каф. 919
 DTSTART:20251110T060000Z
@@ -1478,6 +1518,14 @@ LOCATION:ГАК-307
 DTSTART:20250922T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:e2eb7d39cf42394eeff59b5cc4e4af92
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251021T091500Z
+LOCATION:5-420
+DTSTART:20251021T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:7a5e090db1b22d9210a2816a1428caad
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251222T073000Z
@@ -1541,36 +1589,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:30750b0d2b82b53989b3811f5c877ad1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20250909T073000Z
-LOCATION:5-420
-DTSTART:20250909T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:cb607841795dbcc0a2daef5dea7401a8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20251128T131500Z
 LOCATION:5-322
 DTSTART:20251128T114500Z
 SUMMARY:ПЗ Основы логистики
 UID:daa695af04e7b45e7a02d3f9e6e4edf1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251021T091500Z
-LOCATION:5-420
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:6a419b13374492c111fefa0743976cec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250924T091500Z
-LOCATION:5-111
-DTSTART:20250924T074500Z
-SUMMARY:ЛК Маркетинг
-UID:024cc5ffeab8f893e72df9ce6fbb7e60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1616,14 +1640,6 @@ LOCATION:ГАК-307
 DTSTART:20251103T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:b2ad254bc55621499ae721f7b1c473a8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251213T091500Z
-LOCATION:5-235
-DTSTART:20251213T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:80e60fe02a99209435419b88ddf38888
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -1673,6 +1689,14 @@ SUMMARY:ЛК Финансы
 UID:149cb37b761ada03bc98ca049579f1a6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251119T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251119T133000Z
+SUMMARY:ЛК Маркетинг
+UID:790b1773e4bb0e4fe2f5201c8145ecae
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T150000Z
 LOCATION:ГУК В-221
 DTSTART:20251205T133000Z
@@ -1680,12 +1704,12 @@ SUMMARY:ЛК Конструирование и технологии высоко
 UID:8c54f422817eae707fb7f6c0b9b95fdc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20250923T091500Z
-LOCATION:5-420
-DTSTART:20250923T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:e4530914570728a92c850491f5fdaeee
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251210T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251210T133000Z
+SUMMARY:ЛК Маркетинг
+UID:a1e53062971379b71f0ca35d885e4038
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
@@ -1720,35 +1744,11 @@ SUMMARY:ЛК Организационное поведение
 UID:e58524ec5ecfd82d6863dea41a417f7e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251004T091500Z
-LOCATION:5-235
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:2a23896297b00e780c29046bab12b48b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251227T091500Z
-LOCATION:5-235
-DTSTART:20251227T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:9fa8973aa1dc35fd7d1a9792d710eedd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251203T073000Z
 LOCATION:--каф. 919
 DTSTART:20251203T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:3ddf6bf1afb7f4a9b8a5d4838001e4ea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251216T091500Z
-LOCATION:5-420
-DTSTART:20251216T074500Z
-SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:021f067d47784371fe49cc547f6dd420
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T131500Z
@@ -1758,27 +1758,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:71f09604f950f52a23e3a25d6134484e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251101T091500Z
-LOCATION:5-235
-DTSTART:20251101T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:ff6f3c9d912518678ba7610708af53f4
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251211T073000Z
 LOCATION:--каф.
 DTSTART:20251211T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:37f3e013004bec21cb19708c4869b0a5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251129T091500Z
-LOCATION:5-235
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:7917f5068e77344f3e3f3e24deaa930f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T131500Z
@@ -1796,12 +1780,20 @@ SUMMARY:ЛК Финансы
 UID:697cf44b8d8ccefb5c5afe9a19291740
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251203T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251203T133000Z
-SUMMARY:ЛК Маркетинг
-UID:e622fb67a5f5059649db36f42a6b15b3
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251101T113000Z
+LOCATION:5-235
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:ab02ecfd406fd30decb71d4b303a6f6d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251227T091500Z
+LOCATION:5-235
+DTSTART:20251227T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:4867341c370ccddc532ec8cdcc7d7c6b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -1835,6 +1827,14 @@ SUMMARY:ЛК Основы логистики
 UID:1e7543db8b7dc1c4fa26e0f8a9d43b39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251118T091500Z
+LOCATION:5-420
+DTSTART:20251118T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:93f13cc4f361dc865f2b2fc34f5bf4c1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T150000Z
 LOCATION:Орш. А-406
 DTSTART:20250903T133000Z
@@ -1847,6 +1847,14 @@ LOCATION:ГУК В-221
 DTSTART:20250912T133000Z
 SUMMARY:ЛК Конструирование и технологии высокотехнологичной промышленности
 UID:4ec28f0100b42e523397b910fa941ea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251129T113000Z
+LOCATION:5-235
+DTSTART:20251129T100000Z
+SUMMARY:ПЗ Маркетинг
+UID:aef65b7ea5511ccc70926e24e0e6b6da
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251029T073000Z
@@ -1868,22 +1876,6 @@ LOCATION:--каф.
 DTSTART:20251023T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:31115f63a661175676f11dcdc56795c2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20250920T091500Z
-LOCATION:5-235
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:23efd8c6c278a6cb12cbb44aad9badbb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251230T073000Z
-LOCATION:5-420
-DTSTART:20251230T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:c0aaf4cb5817d69cf7eb325eb434b0c5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T073000Z
@@ -1937,6 +1929,14 @@ SUMMARY:ПЗ Организационное поведение
 UID:8c9915f1fdb2821e684b916bf2a6a5d4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250910T091500Z
+LOCATION:5-111
+DTSTART:20250910T074500Z
+SUMMARY:ЛК Маркетинг
+UID:f81fc6949e5a533a91fa523f04dbf65f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T073000Z
 LOCATION:--каф.
 DTSTART:20251016T060000Z
@@ -1950,6 +1950,14 @@ LOCATION:5-303
 DTSTART:20251110T133000Z
 SUMMARY:ЛК Финансы
 UID:87e9032a03faea0a9f54e8ff73aff880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251004T091500Z
+LOCATION:5-235
+DTSTART:20251004T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:7f3f9881b0ed904608489aa6f7f95ff1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T073000Z
@@ -1980,12 +1988,28 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:968d007be351e38910de1de8b620c53b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251118T091500Z
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251230T073000Z
 LOCATION:5-420
-DTSTART:20251118T074500Z
+DTSTART:20251230T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:34108fa9c5e0e2ab2f68d3ba439284f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251216T091500Z
+LOCATION:5-420
+DTSTART:20251216T074500Z
 SUMMARY:ПЗ Основы системы государственного и муниципального управления
-UID:ce14dcf039263188f661c155863644ad
+UID:a8abc25806301ffe4910f5a9cdb1e321
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251029T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251029T133000Z
+SUMMARY:ЛК Маркетинг
+UID:f1dad634682dd4777493a15fc96893ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -2009,6 +2033,22 @@ LOCATION:--каф. 919
 DTSTART:20251215T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:729e9023beab9c357f0e1b2b6299c81c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251007T091500Z
+LOCATION:5-420
+DTSTART:20251007T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:f68526fa4cd87d234f7f3a5e75dffb25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260124T131500Z
+LOCATION:5-235
+DTSTART:20260124T114500Z
+SUMMARY:Экзамен Маркетинг
+UID:620930dd7a424621bfb3548fde2e4971
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T150000Z
@@ -2040,14 +2080,6 @@ LOCATION:5-101
 DTSTART:20251014T060000Z
 SUMMARY:ЛК Организационное поведение
 UID:45a137bb013f86b3800efc255717fc59
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251210T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251210T133000Z
-SUMMARY:ЛК Маркетинг
-UID:6a2b56a4f5be859ef2b27b5ec36d460b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЫБАКОВА ЛЮДМИЛА ВИКТОРОВНА
@@ -2088,20 +2120,20 @@ SUMMARY:ПЗ Физическая культура
 UID:48941303d0cad7ed7beadbc0988b3d3b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251029T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251029T133000Z
-SUMMARY:ЛК Маркетинг
-UID:9a99eb84397411622b0fc85e74fe78ba
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20251212T113000Z
 LOCATION:5-404
 DTSTART:20251212T100000Z
 SUMMARY:ПЗ Организационное поведение
 UID:ce1d881c2af66875e42e77c6a6ff3eef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250920T091500Z
+LOCATION:5-235
+DTSTART:20250920T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:58cafbab93964f1f9197ec3a0f30883f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T091500Z
@@ -2117,6 +2149,14 @@ LOCATION:5-122
 DTSTART:20251011T100000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:b3b73fd8f28720f3c7b248f796a791aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251001T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251001T133000Z
+SUMMARY:ЛК Маркетинг
+UID:1cf4a87beff19adcba1a6dd5d930501d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T073000Z
@@ -2177,6 +2217,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:4aeefbfb104e4940b5c542a509c4d324
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251115T091500Z
+LOCATION:5-235
+DTSTART:20251115T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:58dafaecf05cf1ef465bef3e0c497752
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251114T091500Z
 LOCATION:5-301В
@@ -2191,14 +2239,6 @@ LOCATION:5-322
 DTSTART:20250919T114500Z
 SUMMARY:ПЗ Основы логистики
 UID:ae458e4f38cd248ba516df5612e18eda
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251015T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Маркетинг
-UID:c168e5c0747661fd1c8308f9fb321dc3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T131500Z
@@ -2267,14 +2307,6 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:c72a847a6f4a7ff9e92d2daa9c156388
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251202T073000Z
-LOCATION:5-420
-DTSTART:20251202T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:c08cbafc36c86c7ac516a314206d9345
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
 DTEND:20251024T113000Z
 LOCATION:5-422
@@ -2291,28 +2323,12 @@ SUMMARY:ЛР Финансы
 UID:bd1c7f3ceff8d01d589ff082d68f23a0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251115T113000Z
-LOCATION:5-235
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:c17f1bf64ef99cf3bec3d1b4cc397db6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20260116T073000Z
-LOCATION:5-423
-DTSTART:20260116T060000Z
-SUMMARY:Экзамен Основы системы государственного и муниципального управления
-UID:01b5efdd8927315e8ef74eb7c9601502
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20260116T091500Z
-LOCATION:5-423
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Основы системы государственного и муниципального управления
-UID:9258493f3ce9e865d5487c1bcd142741
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251126T150000Z
+LOCATION:Орш. А-101
+DTSTART:20251126T133000Z
+SUMMARY:ЛК Маркетинг
+UID:23e96df06958eefecd720bec47b633fa
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T073000Z
@@ -2360,12 +2376,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:86ecdf41f5fa8a105d958ffbe85770eb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА (осн.)
-DTEND:20251118T073000Z
-LOCATION:5-420
-DTSTART:20251118T060000Z
-SUMMARY:ЛК Основы системы государственного и муниципального управления
-UID:497f05da76bf2d094d76aa14ae5e1ec8
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20251101T091500Z
+LOCATION:5-235
+DTSTART:20251101T074500Z
+SUMMARY:ПЗ Маркетинг
+UID:5689803bcddafbae79edd0728414caa0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -2436,6 +2452,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:4aac04229a205b053fd92d362e75f5a9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251216T073000Z
+LOCATION:5-420
+DTSTART:20251216T060000Z
+SUMMARY:ЛК Основы системы государственного и муниципального управления
+UID:21acb389736a04d081de5f1f759d3446
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251118T131500Z
 LOCATION:5-002
@@ -2481,14 +2505,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:fd54de182f35bb2f1d9e0238b45998f0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251115T091500Z
-LOCATION:5-235
-DTSTART:20251115T074500Z
-SUMMARY:ПЗ Маркетинг
-UID:1fd219072ce33c6ec886ea77bca12081
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251216T113000Z
 LOCATION:5-002
@@ -2512,35 +2528,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:9f0f1fbc532169aaa2bf53a0744385fa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Денискина Галина Юрьевна (осн.)
-DTEND:20260120T091500Z
-LOCATION:5-404
-DTSTART:20260120T074500Z
-SUMMARY:Экзамен Теория вероятностей и математическая статистика
-UID:9154235b5a85853191f51e81a83b7e26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251022T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251022T133000Z
-SUMMARY:ЛК Маркетинг
-UID:eb0037992b804fccecf7a18d9dcb21db
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250912T091500Z
 LOCATION:ГАК-307
 DTSTART:20250912T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:80a99e0849ce668a1b822d9ac2fe0eab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251105T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251105T133000Z
-SUMMARY:ЛК Маркетинг
-UID:73d6519fc07186c3a0b149f67bd9334b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251108T131500Z
@@ -2550,12 +2542,12 @@ SUMMARY:ЛР Конструирование и технологии высоко
 UID:31a05919d5c99f077ed47af7520e1a50
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251129T113000Z
-LOCATION:5-235
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Маркетинг
-UID:6733ccdcdfbc36a7feafd28a8c440016
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251202T091500Z
+LOCATION:5-420
+DTSTART:20251202T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:f18b2a2c818f12d8a53d460bc8725c71
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T073000Z
@@ -2565,19 +2557,19 @@ SUMMARY:ПЗ Физическая культура
 UID:6d48f1ed2e0c81dde667fb5b9fb53938
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20251230T091500Z
+LOCATION:5-420
+DTSTART:20251230T074500Z
+SUMMARY:ПЗ Основы системы государственного и муниципального управления
+UID:a79f32725a717bef149e59150a0c12b5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251220T113000Z
 LOCATION:1-16
 DTSTART:20251220T100000Z
 SUMMARY:ЛР Конструирование и технологии высокотехнологичной промышленности
 UID:89c1ada3a6e9ba899447defe8d24add5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА (осн.)
-DTEND:20251119T150000Z
-LOCATION:Орш. А-101
-DTSTART:20251119T133000Z
-SUMMARY:ЛК Маркетинг
-UID:3ecf094839b8c175082a127e71bb437b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -2586,5 +2578,13 @@ LOCATION:ГАК-307
 DTSTART:20251229T114500Z
 SUMMARY:ЛК Социология
 UID:c9d1052aa12d3500bc697760da93221a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20250903T091500Z
+LOCATION:5-111
+DTSTART:20250903T074500Z
+SUMMARY:ЛК Маркетинг
+UID:b6090059f8e411257331a87039520d45
 END:VEVENT
 END:VCALENDAR

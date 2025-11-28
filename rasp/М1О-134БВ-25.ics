@@ -26,18 +26,19 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:1b32d4379ec0ef713789af3c22ea94d1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T113000Z
-LOCATION:ГУК А-710
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:d10a872ea506cd2ba46a8615a6ef77fa
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251218T131500Z
 LOCATION:--каф. 919
 DTSTART:20251218T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:2b6c47582cab8374169d577450b75873
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251112T131500Z
+LOCATION:ГУК А-710
+DTSTART:20251112T114500Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:31da46d0ea3cb6d335df78a0733903c0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -83,8 +84,8 @@ DESCRIPTION:Диденко Анна Александровна
 DTEND:20251016T113000Z
 LOCATION:7-401
 DTSTART:20251016T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:24422b534a14f1f194496cea8cd7cf58
+SUMMARY:ЛК Прикладная геометрия
+UID:6a6bca4ac9f9ae19a77c6d24f286d909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ушаков Иван Владимирович
@@ -199,14 +200,6 @@ SUMMARY:ПЗ Математический анализ
 UID:cad21a971061d2d44aa455e840008551
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волкова Нина Петровна
-DTEND:20251205T131500Z
-LOCATION:Орш. А-426
-DTSTART:20251205T114500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:a1eae26a8f0485c8c4a1d66c7cf0b296
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
 DTEND:20251219T091500Z
 LOCATION:Орш. В-208
@@ -250,6 +243,13 @@ LOCATION:1-33
 DTSTART:20251217T074500Z
 SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
 UID:b9a8191a3d882c0c17b12651fa3c2a02
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T113000Z
+LOCATION:7-401
+DTSTART:20251204T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:c397307d9b2ba6bd392d6cc9b0cff699
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагаринов Михаил Борисович
@@ -330,6 +330,22 @@ SUMMARY:ПЗ Начертательная геометрия
 UID:e2b5a7a7290c4ae225aa26380ee77ace
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250917T131500Z
+LOCATION:ГУК А-710
+DTSTART:20250917T114500Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:c867d1533d4eac3f89efae2904267a62
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251126T131500Z
+LOCATION:ГУК А-710
+DTSTART:20251126T114500Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:9c19303c3d31a77adbc9bb69349dc9a9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T091500Z
 LOCATION:ГУК В-221
 DTSTART:20250911T074500Z
@@ -350,14 +366,6 @@ LOCATION:--каф. 919
 DTSTART:20251027T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:8e2e6ef059ed9af0495b430496227be9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251218T113000Z
-LOCATION:7-401
-DTSTART:20251218T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:b593103b29bc374ac350685de841659a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250929T131500Z
@@ -390,19 +398,18 @@ SUMMARY:ПЗ Физическая культура
 UID:56f702babd679b290bac9a0ade400a43
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251127T113000Z
-LOCATION:7-401
-DTSTART:20251127T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:e4b68797c53e9bdc04727b7888e0a4ba
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251204T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251204T060000Z
 SUMMARY:ЛК Алгоритмические языки и программирование
 UID:10bd3e1e7984671b609919177b65944c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T113000Z
+LOCATION:7-401
+DTSTART:20251030T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:dc2420e392003defaa56b84c2f145674
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T131500Z
@@ -440,6 +447,14 @@ LOCATION:Орш. В-301
 DTSTART:20250915T133000Z
 SUMMARY:ЛК Общая физика
 UID:eea5115f5e2aa5626b2c728139eef67f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250904T113000Z
+LOCATION:7-401
+DTSTART:20250904T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:2845de8a538fc63fbec33f231824cf29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -519,14 +534,6 @@ SUMMARY:ПЗ История России
 UID:d6ee9dad396ff43e8243e6d909fe1185
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251113T113000Z
-LOCATION:7-401
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:80897002110da54e89fbdda79ab0f626
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250904T073000Z
 LOCATION:ГУК В-221
 DTSTART:20250904T060000Z
@@ -535,11 +542,11 @@ UID:f6a4edfd7fec39bc8e8bf1158d08cf68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
-DTEND:20251030T113000Z
+DTEND:20251023T113000Z
 LOCATION:7-401
-DTSTART:20251030T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:f8aa383abfc47883ee04144ed144333c
+DTSTART:20251023T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:e88588a89872e4f5a6e91074887cefea
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T091500Z
@@ -557,6 +564,14 @@ SUMMARY:ПЗ Математический анализ
 UID:010bcb708af634cc364930e7db46dae2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251015T113000Z
+LOCATION:ГУК А-710
+DTSTART:20251015T100000Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:dcf1c1b64100f3b3b9c7d3e2a4bf99f9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T131500Z
 LOCATION:--каф. 919
 DTSTART:20250925T114500Z
@@ -569,6 +584,13 @@ LOCATION:--каф. 919
 DTSTART:20250929T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:0a0451f772a531af43d68e76cc2d00b0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T113000Z
+LOCATION:7-401
+DTSTART:20251120T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:34262a0a8799d44f476d18b006f36c1f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T073000Z
@@ -586,20 +608,20 @@ SUMMARY:ЛР Общая физика
 UID:110f9f4d811dda5485b8c1ae9a0c0aab
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20250925T113000Z
-LOCATION:7-401
-DTSTART:20250925T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:73b5c1465c494f56d845af4e929d27b4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
 DTEND:20251216T091500Z
 LOCATION:Орш. В-101
 DTSTART:20251216T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:74ceb63b1626455989beb2391b89da04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251001T113000Z
+LOCATION:ГУК А-710
+DTSTART:20251001T100000Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:64dbd5f04c44fc906cf5b98a22676390
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T091500Z
@@ -647,11 +669,11 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:66c64d85a034c0b301fcb65f250c5a16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:ГУК А-710
-DTSTART:20251015T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:1f062cfaec9fde47ee11bf713896cd26
+DTEND:20251215T091500Z
+LOCATION:--каф. 919
+DTSTART:20251215T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:6c6f5f6283f88a9d70a409499dad5cab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
@@ -660,13 +682,6 @@ LOCATION:Орш. В-501
 DTSTART:20251121T060000Z
 SUMMARY:ЛК Основы российской государственности
 UID:c5cdadf854656bdc4d0a70968ececfba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T091500Z
-LOCATION:--каф. 919
-DTSTART:20251215T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:6c6f5f6283f88a9d70a409499dad5cab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251224T113000Z
@@ -692,13 +707,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:7006c25eb1e7e57dd23336a00e50e96c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:ГУК А-710
-DTSTART:20251210T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:2c2d77c03a28e330aee30df6e1c1aa47
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
 DTEND:20251111T091500Z
 LOCATION:Орш. В-101
@@ -715,11 +723,20 @@ SUMMARY:ЛР Общая физика
 UID:81b320fe62e36463fc52bbf463ef863e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251126T131500Z
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250911T113000Z
+LOCATION:7-401
+DTSTART:20250911T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:32c8e6527f4995ae8edb81beaf0a0b38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251001T131500Z
 LOCATION:ГУК А-710
-DTSTART:20251126T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:66532d3e57be593f74c83b597bd6ad94
+DTSTART:20251001T114500Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:88818b7b35ef503edce7a01a4bec6e55
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T091500Z
@@ -790,6 +807,14 @@ SUMMARY:ЛК Основы российской государственност�
 UID:6e415eab5bb5d5091aeff4894f2f5bd0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251210T131500Z
+LOCATION:ГУК А-710
+DTSTART:20251210T114500Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:c0e913a893d58c1b1054a5a3162bd01e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Студников Павел Евгеньевич
 DTEND:20251229T164500Z
 LOCATION:Орш. В-501
@@ -806,28 +831,12 @@ SUMMARY:ЛК Основы российской государственност�
 UID:e98f1885acbd0cab7c05666498eb2da3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251211T113000Z
-LOCATION:7-401
-DTSTART:20251211T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:8136f5c324c397789f1e6f04da2ba240
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
 DTEND:20250902T091500Z
 LOCATION:Орш. В-101
 DTSTART:20250902T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:4a41808a452b9889f374159523bdb958
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20250904T113000Z
-LOCATION:7-401
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:6d637541cefd538ad9d276c0162d5127
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T073000Z
@@ -899,6 +908,22 @@ SUMMARY:ЛК История России
 UID:18e90c1cb77f6ee3c8bf37b113462858
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250925T113000Z
+LOCATION:7-401
+DTSTART:20250925T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:97d02c4ca4a241b7f75922bee8b9a45e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251002T113000Z
+LOCATION:7-401
+DTSTART:20251002T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:dd28bb5f39e4ddea5af55703fd90901d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251127T060000Z
@@ -913,22 +938,6 @@ SUMMARY:ПЗ Физическая культура
 UID:899aa83f4721f5f861dfada15317e36a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Студников Павел Евгеньевич
-DTEND:20251215T164500Z
-LOCATION:Орш. В-501
-DTSTART:20251215T151500Z
-SUMMARY:ЛК История России
-UID:bce70372bfd66fcaa113cac711420dee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волкова Нина Петровна
-DTEND:20251219T131500Z
-LOCATION:Орш. А-426
-DTSTART:20251219T114500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:8169442a039e4a0dbc6822f2b2bb6dca
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Цысарь Ксения Михайловна
 DTEND:20250926T113000Z
 LOCATION:Орш. В-326
@@ -938,11 +947,11 @@ UID:7a78a0f06b0ef0580144b753e0156dce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Студников Павел Евгеньевич
-DTEND:20251222T164500Z
+DTEND:20251215T164500Z
 LOCATION:Орш. В-501
-DTSTART:20251222T151500Z
+DTSTART:20251215T151500Z
 SUMMARY:ЛК История России
-UID:84615b5e5024ee3e541a6cc1363ae192
+UID:bce70372bfd66fcaa113cac711420dee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
@@ -969,6 +978,22 @@ SUMMARY:ЛР Общая физика
 UID:b816a6bd9c5bdd5c4446a9cb39cf01ae
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Волкова Нина Петровна
+DTEND:20251219T131500Z
+LOCATION:Орш. А-426
+DTSTART:20251219T114500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:8169442a039e4a0dbc6822f2b2bb6dca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Студников Павел Евгеньевич
+DTEND:20251222T164500Z
+LOCATION:Орш. В-501
+DTSTART:20251222T151500Z
+SUMMARY:ЛК История России
+UID:84615b5e5024ee3e541a6cc1363ae192
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
 DTEND:20251226T091500Z
 LOCATION:Орш. В-208
@@ -991,14 +1016,6 @@ LOCATION:Орш. А-426
 DTSTART:20251003T114500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:1c5b1ae212dab35aa8cc04f74c0f6631
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251023T113000Z
-LOCATION:7-401
-DTSTART:20251023T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:efc70227b955f7a5f164b16809cfce37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Соколовский Даниил Сергеевич
@@ -1078,11 +1095,27 @@ SUMMARY:ПЗ Математический анализ
 UID:d308fca00a0414353142d670ca5569c1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251015T131500Z
+LOCATION:ГУК А-710
+DTSTART:20251015T114500Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:8f50a7c3863e38401160ce62dc7ecb71
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T131500Z
 LOCATION:Орш. В-209
 DTSTART:20251006T114500Z
 SUMMARY:ПЗ История России
 UID:5da9d6f0bf469f872e258eb189e7dc21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250917T113000Z
+LOCATION:ГУК А-710
+DTSTART:20250917T100000Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:29406d64ce3b8339ceb816df8846987a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волкова Нина Петровна
@@ -1183,6 +1216,13 @@ SUMMARY:ПЗ Общая физика
 UID:6094dd0f89aaf59818990ccb72b4b730
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251113T113000Z
+LOCATION:7-401
+DTSTART:20251113T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:0eafbf279a43dc2b9f08e260baddddf3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T091500Z
 LOCATION:ГУК В-221
 DTSTART:20251120T074500Z
@@ -1221,11 +1261,12 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:ddf5fe5dccdf5de36103ad58212026e4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T131500Z
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251029T131500Z
 LOCATION:ГУК А-710
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:99bfd8d1778b2b832f70c1f50059f2e5
+DTSTART:20251029T114500Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:bede05565e73f79bb18c311bf5fe8a2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
@@ -1266,14 +1307,6 @@ SUMMARY:ЛР Алгоритмические языки и программиро
 UID:fc8929032edf20ee0c0584dfce8be956
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251106T113000Z
-LOCATION:7-401
-DTSTART:20251106T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:bded36af5295af9ff9833db73b875e4c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251110T131500Z
 LOCATION:Орш. В-209
 DTSTART:20251110T114500Z
@@ -1281,11 +1314,11 @@ SUMMARY:ПЗ История России
 UID:e6615ac36054e5b8698d2ee9856056f5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
-LOCATION:ГУК А-710
-DTSTART:20251001T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:9003a8c4cb471981f0f34af2ed403046
+DTEND:20251224T091500Z
+LOCATION:1-34
+DTSTART:20251224T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:e9b4c1c3e8813a3d649796ce0ae021b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T073000Z
@@ -1293,13 +1326,6 @@ LOCATION:1-34
 DTSTART:20251210T060000Z
 SUMMARY:ЛР Алгоритмические языки и программирование
 UID:542e0557bd11e9660dd7656e31b18442
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:1-34
-DTSTART:20251224T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:e9b4c1c3e8813a3d649796ce0ae021b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цысарь Ксения Михайловна
@@ -1333,11 +1359,11 @@ UID:da06b7ee9c6a69d66ce89a985d8d9469
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
-DTEND:20251002T113000Z
-LOCATION:7-401
-DTSTART:20251002T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:e6f06eb70eb7a68eb3163e4578835c27
+DTEND:20251224T131500Z
+LOCATION:ГУК А-710
+DTSTART:20251224T114500Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:1faa114d0b5508b9e068fbf8f727f39d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T131500Z
@@ -1347,11 +1373,12 @@ SUMMARY:ПЗ Физическая культура
 UID:c020eb09ae4ebf319910ebcc8448c9f2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T131500Z
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20251029T113000Z
 LOCATION:ГУК А-710
-DTSTART:20251029T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:765d869bcd75d0e56991b94d2b9e7961
+DTSTART:20251029T100000Z
+SUMMARY:ПЗ Прикладная геометрия
+UID:bdbe936447931616ca9f13069ce7ef69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Екатерина Львовна
@@ -1377,12 +1404,11 @@ SUMMARY:ПЗ Физическая культура
 UID:2da61754c308493c20af94ff28fc2d11
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251009T113000Z
-LOCATION:7-401
-DTSTART:20251009T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:18509f20b3fcf35159fb7f48ef53ffcd
+DTEND:20251208T091500Z
+LOCATION:--каф. 919
+DTSTART:20251208T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:422c47d2ff867382264c0f5bc11beffb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T091500Z
@@ -1390,13 +1416,6 @@ LOCATION:ГУК В-221
 DTSTART:20250904T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:bc890c52966c9212cd5116e0437796bd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T091500Z
-LOCATION:--каф. 919
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:422c47d2ff867382264c0f5bc11beffb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T131500Z
@@ -1421,13 +1440,6 @@ SUMMARY:ПЗ Общая физика
 UID:e663d747ac88b8814100aaa227a96e23
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:ГУК А-710
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:d1c801ca1233731ea4885f77755e2ea8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251002T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251002T060000Z
@@ -1440,6 +1452,13 @@ LOCATION:1-33
 DTSTART:20251105T074500Z
 SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
 UID:dd736fce4c24ba24a4fb59c0d3c8ff99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T131500Z
+LOCATION:--каф. 919
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:d622e2253f56c6be8c85284a057e8797
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Соколовский Даниил Сергеевич
@@ -1466,11 +1485,11 @@ SUMMARY:ПЗ Общая физика
 UID:25c578f33eb3eeac41a6609ca600a98c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:--каф. 919
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:d622e2253f56c6be8c85284a057e8797
+DTEND:20251127T113000Z
+LOCATION:7-401
+DTSTART:20251127T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:8a80d62c509dce4f952c49279b077f38
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T113000Z
@@ -1554,13 +1573,6 @@ LOCATION:Орш. Б-306
 DTSTART:20260113T060000Z
 SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
 UID:00f6d024c276345e31475b0a4b11fc04
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T131500Z
-LOCATION:ГУК А-710
-DTSTART:20251001T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:bc36325a1379715c77eaa3a1c53ef679
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -1837,6 +1849,14 @@ SUMMARY:Экзамен Общая физика
 UID:9f8da6e023f62a997999cbf55af4ff7d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20250918T113000Z
+LOCATION:7-401
+DTSTART:20250918T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:d135fea9bd3849eb905f9208ba1c0da8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Цысарь Ксения Михайловна
 DTEND:20251128T113000Z
 LOCATION:Орш. В-326
@@ -1877,12 +1897,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:73f18e92fd16fc170d7b6cea51bf17e7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20250911T113000Z
-LOCATION:7-401
-DTSTART:20250911T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:2bc2a791a98ffbf9d0ef93bef42428a5
+DESCRIPTION:Кузнецова Екатерина Львовна
+DTEND:20251205T091500Z
+LOCATION:Орш. В-208
+DTSTART:20251205T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:64c9f26f20194200a0cc4f759a52e399
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T091500Z
@@ -1890,14 +1910,6 @@ LOCATION:--каф. 919
 DTSTART:20250922T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:0f7eb085389406113bee9bea46c27b60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецова Екатерина Львовна
-DTEND:20251205T091500Z
-LOCATION:Орш. В-208
-DTSTART:20251205T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:64c9f26f20194200a0cc4f759a52e399
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -2077,14 +2089,6 @@ SUMMARY:ПЗ Физическая культура
 UID:8f5f4b798c72e9c986206d58d7b4016f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251120T113000Z
-LOCATION:7-401
-DTSTART:20251120T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:22c6126f31d0ab586cdfa5ffa6f55fcd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
 DTEND:20251209T131500Z
 LOCATION:Орш. В-101
@@ -2093,26 +2097,12 @@ SUMMARY:ЛК Математический анализ
 UID:18307e16171d1c89fecb5a161bba7b2d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:ГУК А-710
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:b41709fe864706eb9c5ceb17836f5b00
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Волкова Нина Петровна
 DTEND:20251128T131500Z
 LOCATION:Орш. А-426
 DTSTART:20251128T114500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:082c115e88d5a0293114dc5e597daa63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T113000Z
-LOCATION:ГУК А-710
-DTSTART:20250917T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:9476e993c5c985583698459bf6484829
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -2130,11 +2120,11 @@ SUMMARY:ПЗ Физическая культура
 UID:736ffea3624420acaeab436ec48e1fd9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:ГУК А-710
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:8c8ed2bbfbb7b1f36503457cdaa1255d
+DTEND:20251106T113000Z
+LOCATION:7-401
+DTSTART:20251106T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:9ce44e6fb86758bc914efda7770d0ef5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Студников Павел Евгеньевич
@@ -2154,11 +2144,11 @@ UID:81d6ea2bb77f42ebc922853d8a964e77
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Диденко Анна Александровна
-DTEND:20250918T113000Z
+DTEND:20251009T113000Z
 LOCATION:7-401
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:b41558c4c1596263d36ada78474d49d0
+DTSTART:20251009T100000Z
+SUMMARY:ЛК Прикладная геометрия
+UID:c6f10e1acaf185b61faec70958efc354
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Студников Павел Евгеньевич
@@ -2231,12 +2221,12 @@ SUMMARY:ПЗ Физическая культура
 UID:2d32bdc41b85d39caede1eda8598db0b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Диденко Анна Александровна
-DTEND:20251204T113000Z
-LOCATION:7-401
-DTSTART:20251204T100000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:027c3dd042815e5ba60b663d63deeac5
+DESCRIPTION:Волкова Нина Петровна
+DTEND:20251205T131500Z
+LOCATION:Орш. А-426
+DTSTART:20251205T114500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:a1eae26a8f0485c8c4a1d66c7cf0b296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
