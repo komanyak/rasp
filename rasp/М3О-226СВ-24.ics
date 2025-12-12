@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251129T073000Z
+DTEND:20251011T091500Z
 LOCATION:3-311
-DTSTART:20251129T060000Z
-SUMMARY:ЛР Теория принятия решений
-UID:395612baf02c0e0878dd6ecbea7d1c42
+DTSTART:20251011T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:2eb84d7ae5f49e590e113a08778a0017
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251216T183000Z
@@ -21,13 +21,6 @@ LOCATION:--каф.
 DTSTART:20251208T170000Z
 SUMMARY:ЛР Методы моделирования
 UID:6e97714d66e9bb340e1bf087e44f87a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T073000Z
-LOCATION:3-311
-DTSTART:20250913T060000Z
-SUMMARY:ЛК Теория принятия решений
-UID:ff91a635256fc2d4cca0d99a431ba948
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T164500Z
@@ -51,18 +44,18 @@ SUMMARY:ПЗ Системная интеграция промышленного 
 UID:225eab81b3b0f9525484deb7aff6011e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251206T073000Z
+LOCATION:3-311
+DTSTART:20251206T060000Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:9ae449cc827fb889c02f04793675bf57
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250923T183000Z
 LOCATION:--каф.
 DTSTART:20250923T170000Z
 SUMMARY:ПЗ Системная интеграция промышленного интернета вещей
 UID:c4c0806054b94064be927aa9a3bbabc1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:3-311
-DTSTART:20251018T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:2350bb1fb9ce986c76e9cdf8f14536c4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251223T164500Z
@@ -79,13 +72,6 @@ SUMMARY:ЛК Современные методы построения матем
 UID:8ff4ca10cc4d428631c6cf6a03cb389e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T091500Z
-LOCATION:3-311
-DTSTART:20251018T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:209d67b78db7ffd31af8929e4a1eb732
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250916T183000Z
 LOCATION:--каф.
 DTSTART:20250916T170000Z
@@ -98,6 +84,13 @@ LOCATION:3-311
 DTSTART:20250918T151500Z
 SUMMARY:ПЗ Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:51ea91497891ec93b4bca64a11bb92a4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251004T073000Z
+LOCATION:3-311
+DTSTART:20251004T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:9c5506fdd086eacb2e0a5c3875209ebf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T183000Z
@@ -121,6 +114,13 @@ SUMMARY:ЛК Современные методы построения матем
 UID:09e05989c00865bd4212f987d8b54155
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250927T073000Z
+LOCATION:3-311
+DTSTART:20250927T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:2473d9f604e6cbcda6ef85b1d831d75f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T183000Z
 LOCATION:--каф.
 DTSTART:20251118T170000Z
@@ -135,11 +135,11 @@ SUMMARY:ЛР Системная интеграция промышленного 
 UID:81d6d7e5a1a90940fc0acd7fcf0cbbec
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T091500Z
+DTEND:20251018T091500Z
 LOCATION:3-311
-DTSTART:20251108T074500Z
-SUMMARY:ЛР Теория принятия решений
-UID:f10e29e4374fb7f7afca3ba09bcd205f
+DTSTART:20251018T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:23956d2b4c56e618cf173d234a0808f0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T183000Z
@@ -154,6 +154,13 @@ LOCATION:--каф.
 DTSTART:20251027T170000Z
 SUMMARY:ЛР Методы моделирования
 UID:e939fa6e4ff81c72d339d6bbc0e69b53
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250913T073000Z
+LOCATION:3-311
+DTSTART:20250913T060000Z
+SUMMARY:ЛК Интеллектуальный анализ данных
+UID:b5f00c97e0f63c223c1ef981e8af9e34
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T183000Z
@@ -177,25 +184,11 @@ SUMMARY:ЛР Современные методы построения матем
 UID:f1614d8b38ea1570602280df439bb24f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251208T164500Z
-LOCATION:--каф.
-DTSTART:20251208T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:95ba4071d5cb1f49cbf6693ada8991e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T091500Z
+DTEND:20251018T073000Z
 LOCATION:3-311
-DTSTART:20250906T074500Z
-SUMMARY:ЛК Теория принятия решений
-UID:17a97c110fe5d6f298e23ac2b98be954
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T091500Z
-LOCATION:3-311
-DTSTART:20250913T074500Z
-SUMMARY:ЛК Теория принятия решений
-UID:46ae791a3535743dfd2b91fedde8b3a3
+DTSTART:20251018T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:954d75b54a3d6598f4c67e3571fd7322
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T183000Z
@@ -212,11 +205,11 @@ SUMMARY:ЛР Методы моделирования
 UID:9c5a7b439f14c12e81ed852d75de3c2f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T073000Z
-LOCATION:3-311
-DTSTART:20251011T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:35a925b5bf6035c2208e4af286985adf
+DTEND:20251208T164500Z
+LOCATION:--каф.
+DTSTART:20251208T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:95ba4071d5cb1f49cbf6693ada8991e9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T183000Z
@@ -240,6 +233,20 @@ SUMMARY:ПЗ Современные методы построения матем
 UID:ef135219d5eec130b032e3062523e547
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251004T091500Z
+LOCATION:3-311
+DTSTART:20251004T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:c541ca7dce473dc38018c9e91c285422
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T091500Z
+LOCATION:3-311
+DTSTART:20250920T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:397004376f3f9b858cb2b0e6e9138045
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251028T183000Z
 LOCATION:--каф.
 DTSTART:20251028T170000Z
@@ -261,18 +268,11 @@ SUMMARY:ПЗ Системная интеграция промышленного 
 UID:71b301fb260f2ab67b73f9b9e2581e83
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
+DTEND:20251108T091500Z
 LOCATION:3-311
-DTSTART:20251115T074500Z
-SUMMARY:ЛР Теория принятия решений
-UID:b2c77e40e1a3d21db99ec0e52a9de446
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T091500Z
-LOCATION:3-311
-DTSTART:20251122T074500Z
-SUMMARY:ЛР Теория принятия решений
-UID:05efc3f5b609737b66a6ec7c14089d48
+DTSTART:20251108T074500Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:7b2dfc450884a361685e78b3c2316639
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T183000Z
@@ -324,6 +324,13 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:ff6c6f164667c8e123bc7c0025b3742f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251129T091500Z
+LOCATION:3-311
+DTSTART:20251129T074500Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:e46373f244b0542b0786d010626fef3d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250916T164500Z
 LOCATION:--каф.
 DTSTART:20250916T151500Z
@@ -359,6 +366,20 @@ SUMMARY:ЛР Современные методы построения матем
 UID:e423e6746b549ad6d5943795d14b935f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251206T091500Z
+LOCATION:3-311
+DTSTART:20251206T074500Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:0f582feb027874aaea2ddf92e9945aa9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T091500Z
+LOCATION:3-311
+DTSTART:20251122T074500Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:893a24853057a389f2ad84fe19275777
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T164500Z
 LOCATION:3-311
 DTSTART:20251009T151500Z
@@ -387,11 +408,11 @@ SUMMARY:ЛК Системная интеграция промышленного 
 UID:0b25d0fa4050e178041ce64b8882171b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T073000Z
+DTEND:20250913T091500Z
 LOCATION:3-311
-DTSTART:20251122T060000Z
-SUMMARY:ЛР Теория принятия решений
-UID:2485292764bd3d761251df3c94bcdf4e
+DTSTART:20250913T074500Z
+SUMMARY:ЛК Интеллектуальный анализ данных
+UID:93bb423ac7e69323c9d89e2d8a6e274f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T183000Z
@@ -399,13 +420,6 @@ LOCATION:3-311
 DTSTART:20250925T170000Z
 SUMMARY:ПЗ Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:c4a519a10c193b352986b1b73eed926b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:3-311
-DTSTART:20250920T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:883490aba02f391a0277f0e76b445fd4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T164500Z
@@ -436,11 +450,25 @@ SUMMARY:ЛР Методы моделирования
 UID:9e232923c641491cc63ca455000a0906
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251011T073000Z
+LOCATION:3-311
+DTSTART:20251011T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:eb6eaa0e869ede7a9746c6eee0c7f14b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T164500Z
 LOCATION:3-305
 DTSTART:20251024T151500Z
 SUMMARY:ПЗ Проектно-исследовательская деятельность
 UID:cec01e139b18b7516a9eb0c26dc076f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T091500Z
+LOCATION:3-311
+DTSTART:20251101T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:99f59d385d6e1cbfd5c44bb4df886ce0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T164500Z
@@ -450,18 +478,18 @@ SUMMARY:ПЗ Системная интеграция промышленного 
 UID:5be6cebecc07d5f423458de70c44fa9c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251115T091500Z
+LOCATION:3-311
+DTSTART:20251115T074500Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:fb60efab764077e33ee1ecb312668de1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250923T164500Z
 LOCATION:--каф.
 DTSTART:20250923T151500Z
 SUMMARY:ПЗ Системная интеграция промышленного интернета вещей
 UID:19a61cfdd388d810f866d1765f98a8a4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:3-311
-DTSTART:20251206T074500Z
-SUMMARY:ЛР Теория принятия решений
-UID:54dc00c86af04caaa2ca17795b9e7da9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T164500Z
@@ -471,11 +499,25 @@ SUMMARY:ПЗ Современные методы построения матем
 UID:05af9e118d1bede2716a9b4b1e608200
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251129T073000Z
+LOCATION:3-311
+DTSTART:20251129T060000Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:0a22ad6e12b7cc1b692a3ec6b586c5ed
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251117T183000Z
 LOCATION:--каф.
 DTSTART:20251117T170000Z
 SUMMARY:ЛР Методы моделирования
 UID:ef06fc3914d95607407bd7c8d8fc4159
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T073000Z
+LOCATION:3-311
+DTSTART:20250920T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:a8a1131d27d8e5dbae88ae6ed895ab5d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T183000Z
@@ -492,11 +534,11 @@ SUMMARY:ПЗ Методы моделирования
 UID:42e39ac51f098d34e73e30c636f91fd1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250920T091500Z
+DTEND:20251113T183000Z
 LOCATION:3-311
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:f69ea1cec44ade6419877c088748f4ca
+DTSTART:20251113T170000Z
+SUMMARY:ЛР Современные методы построения математических моделей на основе искусственных нейронных сетей
+UID:a8b6d7c1344e8ca83fee0c957012ec65
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T164500Z
@@ -506,25 +548,11 @@ SUMMARY:ЛР Методы моделирования
 UID:164cd2ef9dcdc6685cf10ee195159915
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T183000Z
-LOCATION:3-311
-DTSTART:20251113T170000Z
-SUMMARY:ЛР Современные методы построения математических моделей на основе искусственных нейронных сетей
-UID:a8b6d7c1344e8ca83fee0c957012ec65
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251120T183000Z
 LOCATION:3-311
 DTSTART:20251120T170000Z
 SUMMARY:ЛР Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:03a643d1a0ca67b015d2f0ef9022f600
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:3-311
-DTSTART:20251129T074500Z
-SUMMARY:ЛР Теория принятия решений
-UID:8c5344ee60570188062213888fb218e5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250902T183000Z
@@ -534,11 +562,11 @@ SUMMARY:ЛК Системная интеграция промышленного 
 UID:05235bf3dd60aa7da2274eff6d04a656
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T073000Z
+DTEND:20251025T073000Z
 LOCATION:3-311
-DTSTART:20251101T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:7035078003be3abf536f29abcc7dc465
+DTSTART:20251025T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:fb5c6c5e33c043544b148229fe06a6bc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T183000Z
@@ -546,6 +574,13 @@ LOCATION:3-311
 DTSTART:20251106T170000Z
 SUMMARY:ЛР Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:4133aa7d02cafd13f32377d4fed12d56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250906T073000Z
+LOCATION:3-311
+DTSTART:20250906T060000Z
+SUMMARY:ЛК Интеллектуальный анализ данных
+UID:46186085753e5a93968c254f86bf5fbe
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T164500Z
@@ -560,13 +595,6 @@ LOCATION:--каф.
 DTSTART:20251202T170000Z
 SUMMARY:ЛР Системная интеграция промышленного интернета вещей
 UID:cca9e7faff3f1a8afe03699fdef1d1c2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:3-311
-DTSTART:20251101T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:6da6d712ba7bb2395353b881efe9bc0a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T164500Z
@@ -611,13 +639,6 @@ SUMMARY:ЛР Системная интеграция промышленного 
 UID:f85b0823dc6760b27c5ef9d0a41f4e1d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T073000Z
-LOCATION:3-311
-DTSTART:20251206T060000Z
-SUMMARY:ЛР Теория принятия решений
-UID:2c84e49caaa4eefc940c81038213a835
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251016T164500Z
 LOCATION:3-311
 DTSTART:20251016T151500Z
@@ -651,6 +672,20 @@ LOCATION:--каф.
 DTSTART:20251216T151500Z
 SUMMARY:ЛР Системная интеграция промышленного интернета вещей
 UID:90b1d8c83c04a16e6dd9de9149fc388e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251025T091500Z
+LOCATION:3-311
+DTSTART:20251025T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:d01e155b98816b62ca470d054847735c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250906T091500Z
+LOCATION:3-311
+DTSTART:20250906T074500Z
+SUMMARY:ЛК Интеллектуальный анализ данных
+UID:7b4f9ff22d891f36b89d8d3122974fb0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251007T183000Z
@@ -709,20 +744,6 @@ SUMMARY:ПЗ Методы моделирования
 UID:3c51ef9057c3801bb1de8ed478a21847
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T073000Z
-LOCATION:3-311
-DTSTART:20250906T060000Z
-SUMMARY:ЛК Теория принятия решений
-UID:c8e91eba1f8c6c955fdb0f9b110e944a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T073000Z
-LOCATION:3-311
-DTSTART:20251025T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:24155d95178317d58fa8153668acf71d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251201T164500Z
 LOCATION:--каф.
 DTSTART:20251201T151500Z
@@ -758,13 +779,6 @@ SUMMARY:ЛК Системная интеграция промышленного 
 UID:86dbd276c4cc589743e806a69995beb2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T073000Z
-LOCATION:3-311
-DTSTART:20250927T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:ce73ffe9f9f7d7ce2195db88f098f5d6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250926T183000Z
 LOCATION:3-305
 DTSTART:20250926T170000Z
@@ -772,18 +786,18 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:ed9918318170190b2d86ab80e89e0f23
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T091500Z
+DTEND:20251115T073000Z
 LOCATION:3-311
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:44abb08e6a2979f2103f4b9c27270ce6
+DTSTART:20251115T060000Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:7b747c348e8b3bc7a42067c6047d3189
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T091500Z
+DTEND:20251108T073000Z
 LOCATION:3-311
-DTSTART:20250927T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:623243b7a5304a8cab8b7397fbd59b1c
+DTSTART:20251108T060000Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:0e7275199f39f49f2b9c1a7cbd93813c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T183000Z
@@ -793,18 +807,18 @@ SUMMARY:ПЗ Методы моделирования
 UID:da1ab53f39abefb02bab976c88708958
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251122T073000Z
+LOCATION:3-311
+DTSTART:20251122T060000Z
+SUMMARY:ЛР Интеллектуальный анализ данных
+UID:436d61329ae27bd7d5d11e9b7a70f59f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T183000Z
 LOCATION:3-311
 DTSTART:20251023T170000Z
 SUMMARY:ПЗ Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:d10d26e06be7151b201d7591458dce71
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:3-311
-DTSTART:20251025T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:70381fe17d5d08b146227a25e7332160
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T164500Z
@@ -821,11 +835,11 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:baf99899784ce0bc8685f2f7477e03af
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T073000Z
+DTEND:20250927T091500Z
 LOCATION:3-311
-DTSTART:20251115T060000Z
-SUMMARY:ЛР Теория принятия решений
-UID:2fa7048d90a201e980c89540236e22a2
+DTSTART:20250927T074500Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:76907f7876a61c01bea6b3c1cb15ecab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T164500Z
@@ -833,13 +847,6 @@ LOCATION:--каф.
 DTSTART:20250922T151500Z
 SUMMARY:ЛК Методы моделирования
 UID:32554e381cddb394cf3e24543805c10a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:3-311
-DTSTART:20251004T060000Z
-SUMMARY:ПЗ Теория принятия решений
-UID:d2ae1a836a1612d744f9a599f08add76
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T164500Z
@@ -898,20 +905,6 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:8643df45c1cc335aba46d250f3f49a96
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:3-311
-DTSTART:20251108T060000Z
-SUMMARY:ЛР Теория принятия решений
-UID:0733a5aebeddc0392595d3411d1a9760
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T091500Z
-LOCATION:3-311
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Теория принятия решений
-UID:7c22bd41f03ca6b3097bf8f440ea1e80
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251030T183000Z
 LOCATION:3-311
 DTSTART:20251030T170000Z
@@ -924,6 +917,13 @@ LOCATION:3-311
 DTSTART:20251002T170000Z
 SUMMARY:ПЗ Современные методы построения математических моделей на основе искусственных нейронных сетей
 UID:867ae6d4c75ac1fa2bb9af03f7f3a75c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T073000Z
+LOCATION:3-311
+DTSTART:20251101T060000Z
+SUMMARY:ПЗ Интеллектуальный анализ данных
+UID:0cca67d6c5182cb14f11f5c8aac44406
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251223T183000Z
