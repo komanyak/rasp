@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250925T164500Z
-LOCATION:--каф.
-DTSTART:20250925T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:5a7f5942349a192702fa06ff561daee9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250913T091500Z
 LOCATION:--каф.
 DTSTART:20250913T074500Z
 SUMMARY:ПЗ Мониторинг проектной деятельности
 UID:c87ba98b799204494bd61bd65a287c7c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T164500Z
+LOCATION:--каф.
+DTSTART:20251106T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:de4841b4623f48aa35b40331c3686c91
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251101T113000Z
@@ -31,13 +31,6 @@ SUMMARY:ПЗ Психология и педагогика
 UID:04b6c39a3e236090750e5cdd54563bcb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T164500Z
-LOCATION:--каф.
-DTSTART:20251009T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:e9054a57ed973d8e9cf0f37308920e7c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260112T164500Z
 LOCATION:--каф.
 DTSTART:20260112T151500Z
@@ -50,6 +43,20 @@ LOCATION:--каф.
 DTSTART:20251125T151500Z
 SUMMARY:ЛК Технологии разработки программного обеспечения
 UID:1d002c62daf2f7ac6dbd4b62100f07dc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T150000Z
+LOCATION:--каф.
+DTSTART:20251016T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:f6abf2298fbd02818a36a04ac4fb12e6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T150000Z
+LOCATION:--каф.
+DTSTART:20250904T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:4b20cd3648b244e3bd17c522a1aa997f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T164500Z
@@ -66,11 +73,11 @@ SUMMARY:ПЗ Гибкие методологии разработки
 UID:b392699439d5669dcbd7d2ed10ded702
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251002T150000Z
-LOCATION:--каф.
-DTSTART:20251002T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:f7ebe4411518b36772d944eba13ff556
+DTEND:20251008T164500Z
+LOCATION:Орш. Б-610
+DTSTART:20251008T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:1940a627ddbc04b7883a417b9da41ee0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T131500Z
@@ -80,25 +87,18 @@ SUMMARY:ПЗ Гибкие методологии разработки
 UID:8dd2cb683f39447c0f4e13f2dd4a8526
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T164500Z
-LOCATION:Орш. Б-610
-DTSTART:20251008T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:1940a627ddbc04b7883a417b9da41ee0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T150000Z
-LOCATION:--каф.
-DTSTART:20251127T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:ff0f829af9e7c169a3cbf55b1c52765d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251216T164500Z
 LOCATION:--каф.
 DTSTART:20251216T151500Z
 SUMMARY:ЛР Математика для DataScience
 UID:002284d1ac21dbb32693a6f696179c83
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T150000Z
+LOCATION:--каф.
+DTSTART:20250925T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:63c533f7fa2012c7f337d0a0336a2381
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260116T113000Z
@@ -122,13 +122,6 @@ SUMMARY:ПЗ Технологии разработки программного 
 UID:a6f5fa5a61f7eecc7ad9564ef6b20fb2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T150000Z
-LOCATION:--каф.
-DTSTART:20251120T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:4fb07bae379d53a6b0d5e36df5daecb6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251203T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20251203T151500Z
@@ -136,11 +129,11 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:643bcda5223c950246774003a687909f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T164500Z
+DTEND:20251009T164500Z
 LOCATION:--каф.
-DTSTART:20251204T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:b2bb6eecf62ffeedea3c97f3a55e15c3
+DTSTART:20251009T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:f72408120dcf3aea8c31e384f4984f76
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T113000Z
@@ -165,6 +158,13 @@ SUMMARY:ЛК Технологии разработки программного 
 UID:c496ab29cc65c760801f8aa54b22c690
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251002T150000Z
+LOCATION:--каф.
+DTSTART:20251002T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:bb38db137172ec45e4b860fe320c59fd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251209T150000Z
 LOCATION:--каф.
 DTSTART:20251209T133000Z
@@ -177,6 +177,13 @@ LOCATION:ГУК Б-444
 DTSTART:20250926T133000Z
 SUMMARY:ЛК Гибкие методологии разработки
 UID:294e4e64843c0a2d08a82a9970a3037a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T164500Z
+LOCATION:--каф.
+DTSTART:20250911T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:8ad4ecbf9a471f6f95ee1c9f0a5d3258
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T091500Z
@@ -214,6 +221,13 @@ SUMMARY:ПЗ Гибкие методологии разработки
 UID:54fb253359634dc0de448bec6d075900
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250925T164500Z
+LOCATION:--каф.
+DTSTART:20250925T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:eff369a7de7ffa0afd9e5a27103c54f9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251213T113000Z
 LOCATION:--каф.
 DTSTART:20251213T100000Z
@@ -228,11 +242,25 @@ SUMMARY:Экзамен Математика для DataScience
 UID:608cd070539cdb7cf261d516256dfe95
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251204T164500Z
+LOCATION:--каф.
+DTSTART:20251204T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:f5b95c89307f14e90ebae3c334644024
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250902T150000Z
 LOCATION:--каф.
 DTSTART:20250902T133000Z
 SUMMARY:ЛК Математика для DataScience
 UID:18f7cac8570f7d112931a6f755e627c8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T150000Z
+LOCATION:--каф.
+DTSTART:20251021T133000Z
+SUMMARY:ЛР Математика для DataScience
+UID:c08ab674c03f7902c22f92766d5e6b8d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T131500Z
@@ -249,11 +277,18 @@ SUMMARY:ЛР Рекомендательные системы
 UID:5555c97b22ff27f1b15c033f7a4200ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251021T150000Z
+DTEND:20251023T164500Z
 LOCATION:--каф.
-DTSTART:20251021T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:c08ab674c03f7902c22f92766d5e6b8d
+DTSTART:20251023T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:16d4e9aa4bbb94ce58b80481403afee6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T150000Z
+LOCATION:--каф.
+DTSTART:20251113T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:6b68b462224ae33dda52f1e17de575bf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T164500Z
@@ -291,13 +326,6 @@ SUMMARY:ЛК Технологии разработки программного 
 UID:775308e1009e53bd47654ef360376d53
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251016T150000Z
-LOCATION:--каф.
-DTSTART:20251016T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:3fe8ea4beaffc4a6a329731109f6646b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
 DTEND:20251112T131500Z
 LOCATION:ГУК А-208
@@ -320,13 +348,6 @@ SUMMARY:ЛК Рекомендательные системы
 UID:b814e5ff4fabc16d49785de53003c0f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T164500Z
-LOCATION:--каф.
-DTSTART:20251218T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:1e26d578c920bea0c748c3c3eeb75194
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251113T113000Z
 LOCATION:--каф.
 DTSTART:20251113T100000Z
@@ -341,32 +362,18 @@ SUMMARY:ЛР Базы данных и язык структурированны�
 UID:9c5381efd1f056f52758d69ecf4a2c47
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T150000Z
-LOCATION:--каф.
-DTSTART:20251106T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:6de9ee178f41d6fbf3dc5590962fcffe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T150000Z
-LOCATION:--каф.
-DTSTART:20250918T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:6f24f919306a4f38dbbfcd1a956c7886
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T150000Z
-LOCATION:--каф.
-DTSTART:20251218T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:01ae258db98630f00d46668172d47dba
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251227T113000Z
 LOCATION:--каф.
 DTSTART:20251227T100000Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
 UID:e968c4d50537751c4ed6d97ac95f03cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T150000Z
+LOCATION:--каф.
+DTSTART:20250911T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:7b29a446b6b5b3bd04895b026aee1363
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T164500Z
@@ -464,25 +471,11 @@ SUMMARY:ЛР Базы данных и язык структурированны�
 UID:eb5dbcc9dc80d475f8075b53cdf7a4fa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251030T150000Z
-LOCATION:--каф.
-DTSTART:20251030T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:2f26a86b074186b9c4ab08bba98eb24c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251113T164500Z
 LOCATION:--каф.
 DTSTART:20251113T151500Z
 SUMMARY:ЛК Рекомендательные системы
 UID:ffea09e59b6676a4d693cdb56cb1128d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T131500Z
-LOCATION:--каф.
-DTSTART:20250912T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:c4f82889ccf1838ae25293fb335e7508
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251114T150000Z
@@ -492,11 +485,25 @@ SUMMARY:ЛК Гибкие методологии разработки
 UID:99405601d8aa8c1d85427fe590b3ea09
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250912T131500Z
+LOCATION:--каф.
+DTSTART:20250912T114500Z
+SUMMARY:ПЗ Гибкие методологии разработки
+UID:c4f82889ccf1838ae25293fb335e7508
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251115T113000Z
 LOCATION:--каф.
 DTSTART:20251115T100000Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
 UID:8caa67039985e0153c119bc1d5ad5609
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T113000Z
+LOCATION:--каф.
+DTSTART:20251122T100000Z
+SUMMARY:ЛК Базы данных и язык структурированных запросов
+UID:9ae626372fd59ef9a730e2881dd3ebd6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T113000Z
@@ -534,11 +541,11 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:68656066f4bb50008b69a5f794538c5e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T113000Z
+DTEND:20251204T150000Z
 LOCATION:--каф.
-DTSTART:20251122T100000Z
-SUMMARY:ЛК Базы данных и язык структурированных запросов
-UID:9ae626372fd59ef9a730e2881dd3ebd6
+DTSTART:20251204T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:d09d8af7e4549410ad132778a994fe9c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T150000Z
@@ -553,13 +560,6 @@ LOCATION:--каф.
 DTSTART:20251016T151500Z
 SUMMARY:ЛК Рекомендательные системы
 UID:4f68ae3d9401c79448637af831cc8493
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T150000Z
-LOCATION:--каф.
-DTSTART:20250925T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:491b3727332ba2d25bef12c1947906f8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T131500Z
@@ -577,11 +577,11 @@ SUMMARY:ЛК Психология и педагогика
 UID:e14d11b0d07a93b852e0ed87d9a3b6bc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T164500Z
+DTEND:20251106T150000Z
 LOCATION:--каф.
-DTSTART:20251106T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:068489b6a0dbcd2afa594eaa54b64a83
+DTSTART:20251106T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:8ae61635a3f3c8942d21250634876051
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T113000Z
@@ -611,6 +611,13 @@ LOCATION:ГУК Б-649
 DTSTART:20251126T133000Z
 SUMMARY:ЛК Психология и педагогика
 UID:ae30fcd122d61923da54dc9505191f59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T150000Z
+LOCATION:--каф.
+DTSTART:20251127T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:12ceb8e5a7b2ccef5bd61c07cec65145
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T150000Z
@@ -653,6 +660,13 @@ LOCATION:--каф.
 DTSTART:20251115T114500Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
 UID:c442b8ab163f4b94815202d639e693df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T150000Z
+LOCATION:--каф.
+DTSTART:20250918T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:1f830c2d20e0df3c185c52aec573dab7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T164500Z
@@ -719,6 +733,13 @@ SUMMARY:ПЗ Технологии разработки программного 
 UID:0f6e04627f3afc474d8de15ef5435669
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251030T150000Z
+LOCATION:--каф.
+DTSTART:20251030T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:a78079166ec0ac0bde4ce496fee6ebec
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T150000Z
 LOCATION:ГУК Б-444
 DTSTART:20251121T133000Z
@@ -733,13 +754,6 @@ SUMMARY:ПЗ Мониторинг проектной деятельности
 UID:ab577742748d735b3f0b5e088df2288a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T164500Z
-LOCATION:--каф.
-DTSTART:20251023T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:6b7637a486185495d6d38f09c330e57d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251024T150000Z
 LOCATION:ГУК Б-444
 DTSTART:20251024T133000Z
@@ -747,18 +761,25 @@ SUMMARY:ЛК Гибкие методологии разработки
 UID:efea0f00e7e29adef84ae4b5297156bd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251023T150000Z
+LOCATION:--каф.
+DTSTART:20251023T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:b0751e09fb2c4dc092dd4f70a658e474
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T164500Z
 LOCATION:--каф.
 DTSTART:20251120T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:49d97fe3bcf3e4917e2ff0e9e07768f7
+SUMMARY:ЛР Программирование на С++
+UID:78b2018941fdf551b3edfaca654cbc28
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250911T150000Z
+DTEND:20251218T164500Z
 LOCATION:--каф.
-DTSTART:20250911T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:c47593d8aeb8f3b501a22c117c8195a1
+DTSTART:20251218T151500Z
+SUMMARY:ЛР Программирование на С++
+UID:611107b1ba70830fa29aa3a7a5a2d6cc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T150000Z
@@ -768,25 +789,11 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:fa98575dd5503ed07de5624769aa4a1f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T150000Z
-LOCATION:--каф.
-DTSTART:20251023T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:8d537939ea0ce06cc13b5dea69f4c739
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250930T113000Z
 LOCATION:--каф.
 DTSTART:20250930T100000Z
 SUMMARY:ПЗ Технологии разработки программного обеспечения
 UID:c5404fe21eea37514a38f4aa29ac7880
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T150000Z
-LOCATION:--каф.
-DTSTART:20251211T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:34746d0349e72625c29245c71bb6a68a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T113000Z
@@ -817,18 +824,25 @@ SUMMARY:ЛР Рекомендательные системы
 UID:3e267a85331c7dc7df5934acff143585
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251120T150000Z
+LOCATION:--каф.
+DTSTART:20251120T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:291d5f741dfe8fd7b097b79f17840a45
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T150000Z
+LOCATION:--каф.
+DTSTART:20251218T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:4f9cbc703d8283acb92cd6f369697674
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250930T164500Z
 LOCATION:--каф.
 DTSTART:20250930T151500Z
 SUMMARY:ЛК Технологии разработки программного обеспечения
 UID:13055774a6fd86342c621aba9a89686d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T150000Z
-LOCATION:--каф.
-DTSTART:20250904T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:0363e935f3e9b817938c117897d9e415
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T150000Z
@@ -845,18 +859,18 @@ SUMMARY:ЛР Математика для DataScience
 UID:510f5a8aecc9f75052b864f2b5a586f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T164500Z
-LOCATION:--каф.
-DTSTART:20250904T151500Z
-SUMMARY:ЛК Рекомендательные системы
-UID:71639ab1207635030b717d92e3695b15
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251011T113000Z
 LOCATION:--каф.
 DTSTART:20251011T100000Z
 SUMMARY:ЛК Базы данных и язык структурированных запросов
 UID:141f0aba6e677a46706568391cd4d6e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T164500Z
+LOCATION:--каф.
+DTSTART:20250904T151500Z
+SUMMARY:ЛК Рекомендательные системы
+UID:71639ab1207635030b717d92e3695b15
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T131500Z
@@ -907,13 +921,6 @@ LOCATION:ГУК Б-649
 DTSTART:20251015T133000Z
 SUMMARY:ЛК Психология и педагогика
 UID:3bb8ea3f8a57b9af0ad518ea2abf7816
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T150000Z
-LOCATION:--каф.
-DTSTART:20251204T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:fa1338b38175b96be9d697a2ac7044e5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251014T131500Z
@@ -987,6 +994,13 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:38851e0ddb9cde4d6632e6bf38ca220c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251009T150000Z
+LOCATION:--каф.
+DTSTART:20251009T133000Z
+SUMMARY:ЛР Программирование на С++
+UID:865b0fddc1e675c1cf07d85d24bb3672
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T131500Z
 LOCATION:--каф.
 DTSTART:20251024T114500Z
@@ -1006,6 +1020,13 @@ LOCATION:--каф.
 DTSTART:20251202T151500Z
 SUMMARY:ЛР Математика для DataScience
 UID:ae3cc0e7df739ac681ed15fbe0c00d8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T150000Z
+LOCATION:--каф.
+DTSTART:20251211T133000Z
+SUMMARY:ЛК Программирование на С++
+UID:9b7d1d585acd742f930ad347060a39ae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T131500Z
@@ -1044,19 +1065,19 @@ SUMMARY:ЛК Гибкие методологии разработки
 UID:9fdefeeedc93091667909decccd65601
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T164500Z
-LOCATION:--каф.
-DTSTART:20251007T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:b68d844419e3f8f93471f6aeef2661ff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
 DTEND:20251015T131500Z
 LOCATION:ГУК А-208
 DTSTART:20251015T114500Z
 SUMMARY:ПЗ Психология и педагогика
 UID:c6249d5b203a983ac00d7af88cbfb0f2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T164500Z
+LOCATION:--каф.
+DTSTART:20251007T151500Z
+SUMMARY:ЛР Математика для DataScience
+UID:b68d844419e3f8f93471f6aeef2661ff
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T131500Z
@@ -1078,13 +1099,6 @@ LOCATION:ГУК Б-444
 DTSTART:20250912T133000Z
 SUMMARY:ЛК Гибкие методологии разработки
 UID:9e5a2811ae1d34507e6bc66594516cd9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T150000Z
-LOCATION:--каф.
-DTSTART:20251113T133000Z
-SUMMARY:ЛК Библиотеки и фреймворки Python
-UID:292a317d534b21465cbca7d59a5ce42e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T091500Z
@@ -1135,20 +1149,6 @@ LOCATION:--каф.
 DTSTART:20251129T114500Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
 UID:9c9a5d50725d1d5562c52de40274aeaa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T150000Z
-LOCATION:--каф.
-DTSTART:20251009T133000Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:eaae452821a6035177d36622670c2c57
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T164500Z
-LOCATION:--каф.
-DTSTART:20250911T151500Z
-SUMMARY:ЛР Библиотеки и фреймворки Python
-UID:3052561c823df395ec1f89b2aec26b20
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T150000Z

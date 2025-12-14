@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251027T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251027T151500Z
+SUMMARY:ЛК История России
+UID:ebd33914ac84c3297fb515429eabfaf0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
 DTEND:20251219T091500Z
 LOCATION:Орш. В-202
 DTSTART:20251219T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:f5535944d8c11a449d47d930afeb03f9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251222T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251222T151500Z
-SUMMARY:ЛК История России
-UID:702f27328cf929f4bb558344f7129543
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T091500Z
@@ -126,12 +126,20 @@ SUMMARY:ЛР Алгоритмические языки и программиро
 UID:df58b4c49d134a0fbdd197ad9a5c383b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251110T164500Z
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20250929T164500Z
 LOCATION:Орш. В-301
-DTSTART:20251110T151500Z
+DTSTART:20250929T151500Z
 SUMMARY:ЛК История России
-UID:e0f96ab22f8ea97a49e03de8dd81c6db
+UID:d44d0fabdba1f4c1e37dc8f6bc38724b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Озолин Владимир Викторович
+DTEND:20251119T131500Z
+LOCATION:Орш. В-603
+DTSTART:20251119T114500Z
+SUMMARY:ЛР Общая физика
+UID:883f77733ee96a50f00fbae729c31ce5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАВЛОВ ВИТАЛИЙ ЮРЬЕВИЧ
@@ -163,22 +171,6 @@ LOCATION:--каф. 919
 DTSTART:20251117T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:c0e747731cfa39fa28794ea9097146ce
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Озолин Владимир Викторович
-DTEND:20251119T131500Z
-LOCATION:Орш. В-603
-DTSTART:20251119T114500Z
-SUMMARY:ЛР Общая физика
-UID:883f77733ee96a50f00fbae729c31ce5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251208T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251208T151500Z
-SUMMARY:ЛК История России
-UID:8b8ab426444b3dab2afc69a4f4c06e10
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T131500Z
@@ -220,14 +212,6 @@ SUMMARY:ЛР Общая физика
 UID:ba7dd1ed1e1ba6d2dae9bcfa4a616b7a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20250908T164500Z
-LOCATION:Орш. В-301
-DTSTART:20250908T151500Z
-SUMMARY:ЛК История России
-UID:fcb35af9d16009eb8366b12be82d5ae3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
 DTEND:20251107T113000Z
 LOCATION:Орш. В-407
@@ -242,6 +226,14 @@ LOCATION:Орш. В-301
 DTSTART:20251111T114500Z
 SUMMARY:ЛК Математический анализ
 UID:ed93f26e19ff8f05939552572b94c781
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20250908T164500Z
+LOCATION:Орш. В-301
+DTSTART:20250908T151500Z
+SUMMARY:ЛК История России
+UID:90b7b0e5613b76fb2728cfd8fb953564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Корзун Федор Александрович
@@ -267,12 +259,11 @@ SUMMARY:ПЗ История России
 UID:085f419b6563179c82b05846486a83cc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251006T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251006T151500Z
-SUMMARY:ЛК История России
-UID:dbe6962f2ff4c93f26b3d74969f8de84
+DTEND:20251113T091500Z
+LOCATION:ГУК А-710
+DTSTART:20251113T074500Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:35b571b1ccaba5d6e36b8f93ae457234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -281,13 +272,6 @@ LOCATION:Орш. В-202
 DTSTART:20250919T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:45cffbafaa4916ce08fa06ff37906d07
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T091500Z
-LOCATION:ГУК А-710
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:35b571b1ccaba5d6e36b8f93ae457234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАВЛОВ ВИТАЛИЙ ЮРЬЕВИЧ
@@ -487,6 +471,14 @@ SUMMARY:ЛР Алгоритмические языки и программиро
 UID:6b4bc4ecf6e132562079d41a2aa49fb8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251124T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251124T151500Z
+SUMMARY:ЛК История России
+UID:fe9a445cdeff7a63939b17c59a4dbe1c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
 DTEND:20251125T091500Z
 LOCATION:Орш. В-501
@@ -551,6 +543,14 @@ SUMMARY:ЛР Алгоритмические языки и программиро
 UID:e85e8b8fc786d996fdf27c02063d071d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251201T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251201T151500Z
+SUMMARY:ЛК История России
+UID:b886011cf355581cb17be1669c0f72c0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T091500Z
 LOCATION:--каф. 919
 DTSTART:20250922T074500Z
@@ -574,27 +574,11 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:68c8003d68a383e4a6a4574bbfd39d9a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251201T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251201T151500Z
-SUMMARY:ЛК История России
-UID:03d01003c28af663a0003502c6b8ceab
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251208T091500Z
 LOCATION:--каф. 919
 DTSTART:20251208T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:a452b5fec74f71da85360011857b382d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251020T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251020T151500Z
-SUMMARY:ЛК История России
-UID:4689aa9bf93ef1c1a9732638a84a53e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -613,12 +597,12 @@ SUMMARY:ЛК Математический анализ
 UID:f600c541b961e049d5b24f36441721de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ПАВЛОВ ВИТАЛИЙ ЮРЬЕВИЧ
-DTEND:20260116T164500Z
-LOCATION:Орш. Б-302
-DTSTART:20260116T151500Z
-SUMMARY:Экзамен Общая физика
-UID:6a3af2c45cc02ab27839f18f959367bc
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251222T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251222T151500Z
+SUMMARY:ЛК История России
+UID:ba143447a1187aed37a0493a791e5e54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
@@ -635,6 +619,14 @@ LOCATION:Орш. Б-603
 DTSTART:20251215T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:5b5a760847b2184b2612d9583c80bbd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАВЛОВ ВИТАЛИЙ ЮРЬЕВИЧ
+DTEND:20260116T164500Z
+LOCATION:Орш. Б-302
+DTSTART:20260116T151500Z
+SUMMARY:Экзамен Общая физика
+UID:6a3af2c45cc02ab27839f18f959367bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Соколовский Даниил Сергеевич
@@ -667,6 +659,14 @@ LOCATION:Орш. В-101
 DTSTART:20251006T133000Z
 SUMMARY:ЛК Общая физика
 UID:5fdc23dd1db263293f2ba423862cfc90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251215T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251215T151500Z
+SUMMARY:ЛК История России
+UID:33cbe0a5de13ead2c02ed54bc37906d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -828,6 +828,14 @@ SUMMARY:ЛК Математический анализ
 UID:efcf0e8783d629ead627a73a4dfd95f1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251013T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251013T151500Z
+SUMMARY:ЛК История России
+UID:8bebad6691db9996f21eb901fc349a61
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
 DTEND:20251226T113000Z
 LOCATION:Орш. В-407
@@ -850,14 +858,6 @@ LOCATION:Орш. В-501
 DTSTART:20251021T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:a68c3c6191dd75c36b73ec28ee4aa720
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251013T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251013T151500Z
-SUMMARY:ЛК История России
-UID:f3d54b12531ecf9fd466db31aa23d80c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
@@ -907,14 +907,6 @@ SUMMARY:Экзамен Математический анализ
 UID:f07993ccfd23d3f444027e50b74e1e60
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20250915T164500Z
-LOCATION:Орш. В-301
-DTSTART:20250915T151500Z
-SUMMARY:ЛК История России
-UID:f71381b23de61ae88d1dcf6454cf34be
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251225T131500Z
 LOCATION:--каф. 919
 DTSTART:20251225T114500Z
@@ -946,12 +938,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:f49237358ae1ab26978f4e3a06bb90de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20250929T164500Z
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251229T164500Z
 LOCATION:Орш. В-301
-DTSTART:20250929T151500Z
+DTSTART:20251229T151500Z
 SUMMARY:ЛК История России
-UID:d6f9481831aa43b8ab22943710e44ad5
+UID:9e84f8eeab5f7f301fb16e3e699421fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Корзун Федор Александрович
@@ -1007,6 +999,14 @@ LOCATION:7-413
 DTSTART:20251218T100000Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:b49c0ac3f4c86b0ff7f110b442df4cbf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20250915T164500Z
+LOCATION:Орш. В-301
+DTSTART:20250915T151500Z
+SUMMARY:ЛК История России
+UID:abf5f40edd50c21af1945ef46599e140
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Корзун Федор Александрович
@@ -1084,14 +1084,6 @@ LOCATION:Орш. Б-603
 DTSTART:20251117T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:b0fb9af2b23031f16de6a04c5c89df72
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251215T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251215T151500Z
-SUMMARY:ЛК История России
-UID:e49a9c48bba1e72f7f7bc0ba7c6013e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
@@ -1235,14 +1227,6 @@ SUMMARY:ЛК Общая физика
 UID:97e0b3d661e96da6a1f86e043ea79151
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251124T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251124T151500Z
-SUMMARY:ЛК История России
-UID:4354041c7327e16f69d840fc83078d90
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Корзун Федор Александрович
 DTEND:20251210T164500Z
 LOCATION:4-306
@@ -1251,11 +1235,12 @@ SUMMARY:ЛР Алгоритмические языки и программиро
 UID:f562b5959ab3cf62bbc0db8f13bf2fd5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251222T091500Z
-LOCATION:--каф. 919
-DTSTART:20251222T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:ecccecc1e9183fb0591fe32d34ef2c63
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251208T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251208T151500Z
+SUMMARY:ЛК История России
+UID:d6e840861077d804cc13c59edcd6d088
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T091500Z
@@ -1263,6 +1248,21 @@ LOCATION:ГУК А-710
 DTSTART:20251002T074500Z
 SUMMARY:ПЗ Начертательная геометрия
 UID:cccadb8e07bb01e4802f2523819fd6da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251117T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251117T151500Z
+SUMMARY:ЛК История России
+UID:18f7b839f3e70b161e8592c220dcce1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T091500Z
+LOCATION:--каф. 919
+DTSTART:20251222T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:ecccecc1e9183fb0591fe32d34ef2c63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
@@ -1342,14 +1342,6 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:1ee296c5feed9f0164656a00552ca507
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251229T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251229T151500Z
-SUMMARY:ЛК История России
-UID:0d15db85c7d667c3898d1174a1e37d3c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тяглик Алексей Сергеевич
 DTEND:20251113T113000Z
 LOCATION:7-413
@@ -1417,14 +1409,6 @@ LOCATION:--каф. 919
 DTSTART:20251013T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:c751d44247961bd999853af231a57060
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20250922T164500Z
-LOCATION:Орш. В-301
-DTSTART:20250922T151500Z
-SUMMARY:ЛК История России
-UID:d66aafc8a21e0812be0d54d966854d2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Корзун Федор Александрович
@@ -1756,20 +1740,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:6e22f063eb39d363a9be4eb767666112
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251020T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251020T151500Z
+SUMMARY:ЛК История России
+UID:aa13ad828b02029ed746f205ab848f2e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАВЛОВ ВИТАЛИЙ ЮРЬЕВИЧ
 DTEND:20250922T150000Z
 LOCATION:Орш. В-101
 DTSTART:20250922T133000Z
 SUMMARY:ЛК Общая физика
 UID:cc7a56337d6727e0b9142ae6c93f9073
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251027T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251027T151500Z
-SUMMARY:ЛК История России
-UID:9d5898f622f250955df72d462ee05a63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -1842,6 +1826,14 @@ SUMMARY:ЛР Введение в авиационную и ракетно-кос
 UID:e6d7912bf2433c8e50178bbf3978d32d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20250922T164500Z
+LOCATION:Орш. В-301
+DTSTART:20250922T151500Z
+SUMMARY:ЛК История России
+UID:7c9b43ba6356e1da62e92f43a30e9aba
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T091500Z
 LOCATION:ГУК А-710
 DTSTART:20251127T074500Z
@@ -1870,6 +1862,14 @@ LOCATION:Орш. В-101
 DTSTART:20251201T133000Z
 SUMMARY:ЛК Общая физика
 UID:019e7e11d604c4dc894880b393a11894
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251006T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251006T151500Z
+SUMMARY:ЛК История России
+UID:c8000fab3e747c3cfa811ff9d30c8a51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОЛГАНОВ СЕРГЕЙ ВИТАЛЬЕВИЧ
@@ -2018,14 +2018,6 @@ SUMMARY:ЛК Общая физика
 UID:bf47bb0e67c2d92d449ca3430ec97612
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА
-DTEND:20251117T164500Z
-LOCATION:Орш. В-301
-DTSTART:20251117T151500Z
-SUMMARY:ЛК История России
-UID:95c2e3b4f1099f8cb050ae9c650eaab7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тяглик Алексей Сергеевич
 DTEND:20251120T073000Z
 LOCATION:4-306
@@ -2145,12 +2137,12 @@ SUMMARY:ПЗ Физическая культура
 UID:7b10245e04b6a6a94bbf5eb0b3a11379
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Соколовский Даниил Сергеевич
-DTEND:20251222T131500Z
-LOCATION:Орш. Б-603
-DTSTART:20251222T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:0ad5a7bf0efece93f93eb2b84f4268b3
+DESCRIPTION:КОСЫХ ОКСАНА ИВАНОВНА (осн.)
+DTEND:20251110T164500Z
+LOCATION:Орш. В-301
+DTSTART:20251110T151500Z
+SUMMARY:ЛК История России
+UID:a47b2386d171f07d363f16c9facada11
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T131500Z
@@ -2158,6 +2150,14 @@ LOCATION:--каф. 919
 DTSTART:20251204T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:4973351a69b7f4fbbb1f499d879298f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколовский Даниил Сергеевич
+DTEND:20251222T131500Z
+LOCATION:Орш. Б-603
+DTSTART:20251222T114500Z
+SUMMARY:ПЗ Иностранный язык
+UID:0ad5a7bf0efece93f93eb2b84f4268b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Проданик Владислав Александрович
