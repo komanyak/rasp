@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251203T150000Z
+LOCATION:--каф.
+DTSTART:20251203T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:a9372dc6493bfee5bf890924199c9bd1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткаченко Сергей Анатольевич
 DTEND:20251210T131500Z
 LOCATION:--каф.
@@ -61,6 +69,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:943c23254eb2c62343d63394e252f34f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251222T113000Z
+LOCATION:4-100
+DTSTART:20251222T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:4c8f4a4a35c0482fc4b4d363d29f0caf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ресинец Анатолий Иванович
 DTEND:20250924T131500Z
 LOCATION:--каф.
@@ -96,14 +112,6 @@ LOCATION:--каф.
 DTSTART:20251022T060000Z
 SUMMARY:ЛК Строительная механика конструкций вертолета
 UID:98755ed5dc5d96460aa2816f3cb62145
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251124T113000Z
-LOCATION:4-100
-DTSTART:20251124T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:1a8d1dd135c937fe7d682144920f49c5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T073000Z
@@ -159,22 +167,6 @@ SUMMARY:ЛК Конструкция вертолета
 UID:be5c74df4dc09ae05430c1a8467e30fa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20250917T150000Z
-LOCATION:--каф.
-DTSTART:20250917T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:82af6f39f7c20c7b894df11f7226c6b4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20250924T150000Z
-LOCATION:--каф.
-DTSTART:20250924T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:c6ab0fffec974240a941b983a40e6048
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251205T091500Z
 LOCATION:7-416
 DTSTART:20251205T074500Z
@@ -228,6 +220,14 @@ SUMMARY:ЛК Психология и педагогика
 UID:ca6cf2087378884e698195be3e3757fa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251029T150000Z
+LOCATION:--каф.
+DTSTART:20251029T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:cd883838b43ddd85a782366e6272758a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Парненков Алексей Евгеньевич
 DTEND:20250916T150000Z
 LOCATION:--каф.
@@ -260,14 +260,6 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:436d9f27fe3671ff1fee92c101d20335
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20260119T091500Z
-LOCATION:7-326
-DTSTART:20260119T074500Z
-SUMMARY:Экзамен Аэродинамика
-UID:88cb62be0bae876738761d7e4ee19fe9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Киреев Алексей Алексеевич
 DTEND:20251013T091500Z
 LOCATION:24-554
@@ -289,14 +281,6 @@ LOCATION:7-416
 DTSTART:20251114T114500Z
 SUMMARY:ЛК Теория машин и механизмов
 UID:e493e76506cb0bdbed6e9663b8a0808f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251126T150000Z
-LOCATION:--каф.
-DTSTART:20251126T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:36ae35eb6a38e8854b6a0cbc3b12923e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T073000Z
@@ -322,12 +306,28 @@ SUMMARY:ЛР Конструкция вертолета
 UID:43ad26128b9cc457e96edca71385b10c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20260119T113000Z
+LOCATION:7-326
+DTSTART:20260119T100000Z
+SUMMARY:Экзамен Аэродинамика
+UID:65fdafeef5ad423e1c54134759088235
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
 DTEND:20250919T131500Z
 LOCATION:7-416
 DTSTART:20250919T114500Z
 SUMMARY:ЛК Теория машин и механизмов
 UID:6832bf9d37f6757f5e51a0539f0db9d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251210T150000Z
+LOCATION:--каф.
+DTSTART:20251210T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:64fd2489cc1a9e4b7e59c53333687a35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250927T073000Z
@@ -412,19 +412,19 @@ SUMMARY:ЛК Психология и педагогика
 UID:46750e2bdc089df04a203d14e6d27b5c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251210T150000Z
-LOCATION:--каф.
-DTSTART:20251210T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:8e6049823d7871ca31bc73b030632b98
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250913T091500Z
 LOCATION:--каф.
 DTSTART:20250913T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:29180fb5f1bfa36d5270972ea8a19fd1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251208T113000Z
+LOCATION:4-100
+DTSTART:20251208T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:479b7a4fd27c1497587353769f58c3c2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T073000Z
@@ -448,6 +448,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:d7141ef6b12e883bfc49b62165dc3e45
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251001T150000Z
+LOCATION:--каф.
+DTSTART:20251001T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:4afd16c55f4a9fb719ae3c0dcf3400ca
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
 DTEND:20251003T131500Z
 LOCATION:7-416
@@ -461,14 +469,6 @@ LOCATION:7-416
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Прикладная экология
 UID:b95f0f63fc55bb8c1422ff11ae7d7e60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251124T131500Z
-LOCATION:4-100
-DTSTART:20251124T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:417d32eb76a2047d1dd764b97cd1c67f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250929T113000Z
@@ -486,20 +486,12 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:b7c0ed12a3b18700a0e87fc667f36e52
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251022T150000Z
-LOCATION:--каф.
-DTSTART:20251022T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:915c2ef3c54d72aed1695afaa69c7a4d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251119T150000Z
-LOCATION:--каф.
-DTSTART:20251119T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:b634e896a18b7ab10891f55079f40c7d
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251110T113000Z
+LOCATION:4-100
+DTSTART:20251110T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:7c68d26377ec738a060edc471b70bb74
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T131500Z
@@ -544,6 +536,14 @@ LOCATION:--каф.
 DTSTART:20251213T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:2f19d8e0fdae366289229830fee99fd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251124T131500Z
+LOCATION:4-100
+DTSTART:20251124T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:b8ca82135b6c570af574bd58c01c63d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -592,19 +592,19 @@ SUMMARY:ПЗ Строительная механика конструкций в
 UID:4e959cb806034d40eafb86839513c65f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251208T131500Z
+LOCATION:4-100
+DTSTART:20251208T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:cfe42204acdb0c679493ab0cbc405dd4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251129T091500Z
 LOCATION:--каф.
 DTSTART:20251129T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1cdf3bcd81a86bea545a329c21ae94c9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251208T113000Z
-LOCATION:4-100
-DTSTART:20251208T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:3314b67f4bf4b200d0f72277d51be406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Сергей Анатольевич
@@ -634,14 +634,6 @@ LOCATION:7-416
 DTSTART:20251128T074500Z
 SUMMARY:ЛК Прикладная экология
 UID:f0043bf0efd7cf84de5cceea9e64221f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251208T131500Z
-LOCATION:4-100
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:4cc03eaceb8d33936e3043b5c975a0e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ресинец Анатолий Иванович
@@ -699,6 +691,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:4d48f374db548b2c6c0427b51001cf64
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251126T150000Z
+LOCATION:--каф.
+DTSTART:20251126T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:1302ef038b0045af416862135ab351ab
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ресинец Анатолий Иванович
 DTEND:20250908T113000Z
 LOCATION:7-325
@@ -735,6 +735,14 @@ SUMMARY:ЛК Строительная механика конструкций в
 UID:7c080f7192940603010b033f53d84269
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20260119T091500Z
+LOCATION:7-326
+DTSTART:20260119T074500Z
+SUMMARY:Экзамен Аэродинамика
+UID:13a05095d648298f5ac37ca20a788841
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250929T073000Z
 LOCATION:--каф. 919
 DTSTART:20250929T060000Z
@@ -747,22 +755,6 @@ LOCATION:--каф.
 DTSTART:20251206T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c09d5ead62ead4d4cb189b06d359c789
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251008T150000Z
-LOCATION:--каф.
-DTSTART:20251008T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:9765a649cf942664ed0a1d11e7afc1d2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251222T131500Z
-LOCATION:4-100
-DTSTART:20251222T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:c22dfa1046c1bd80b68296d5cf240af6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T073000Z
@@ -794,14 +786,6 @@ SUMMARY:ЛР Теория машин и механизмов
 UID:2cf4114c4069d3ac79bd022aefc139e9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20250903T150000Z
-LOCATION:--каф.
-DTSTART:20250903T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:bf545d64d66ce3eeff9ea0374ad6dc0d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251101T073000Z
 LOCATION:--каф.
 DTSTART:20251101T060000Z
@@ -815,6 +799,14 @@ LOCATION:24-554
 DTSTART:20251124T074500Z
 SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
 UID:3524a70b420abb8e5b7cf02242206f2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251110T131500Z
+LOCATION:4-100
+DTSTART:20251110T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:0d8610753ef2abb7bc71801cddeea79d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T091500Z
@@ -882,27 +874,19 @@ SUMMARY:ПЗ Иностранный язык
 UID:5dee9033cdb510fcf433e2dd2a4470eb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251217T150000Z
-LOCATION:--каф.
-DTSTART:20251217T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:ad3a524dcbf4fe21a9f102b79d257dc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20260119T113000Z
-LOCATION:7-326
-DTSTART:20260119T100000Z
-SUMMARY:Экзамен Аэродинамика
-UID:30c85fa6612ff32006c725bbc8e23524
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251018T073000Z
 LOCATION:--каф.
 DTSTART:20251018T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:da6bb89b2fc2dabb5a39c0a679b307ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251222T131500Z
+LOCATION:4-100
+DTSTART:20251222T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:d1fb18da5254a55853e788e4eaab7be6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
@@ -945,19 +929,19 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:5f811d49b0386c7e1ec8b72dd3872928
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251105T150000Z
-LOCATION:--каф.
-DTSTART:20251105T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:8072013ae093f6632892c76a9c7010ae
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250926T091500Z
 LOCATION:7-416
 DTSTART:20250926T074500Z
 SUMMARY:ЛК Прикладная экология
 UID:3d6471c70f727594c3624ddf93d847fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251119T150000Z
+LOCATION:--каф.
+DTSTART:20251119T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:5e9695536a6f1ed6d82f9a883d9d2afc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T091500Z
@@ -1028,12 +1012,28 @@ SUMMARY:ПЗ Военная подготовка
 UID:35cb6291ce3f022772dc2cf8de66a780
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251008T150000Z
+LOCATION:--каф.
+DTSTART:20251008T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:d66ec4172cdef9087e20d6b790e647b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20250903T150000Z
+LOCATION:--каф.
+DTSTART:20250903T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:ab781eab765ae5a64ab331fc0d47f504
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
 DTEND:20250910T150000Z
 LOCATION:--каф.
 DTSTART:20250910T133000Z
 SUMMARY:ЛК Аэродинамика
-UID:7818ba605d5a31908c611e3c8764704d
+UID:83fd4b7a90f78a2829a042c5e5a587a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Парненков Алексей Евгеньевич
@@ -1147,6 +1147,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:f1bd6390bc369517f803ad75ebe9e356
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20250917T150000Z
+LOCATION:--каф.
+DTSTART:20250917T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:f64fcdc04cb8fc7d953b60687448d289
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T091500Z
 LOCATION:--каф.
 DTSTART:20251008T074500Z
@@ -1197,6 +1205,14 @@ LOCATION:7-416
 DTSTART:20251226T074500Z
 SUMMARY:ЛК Прикладная экология
 UID:8239eb7be8d676cb0ded7afadb53205d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251105T150000Z
+LOCATION:--каф.
+DTSTART:20251105T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:1c8d15595053f9758e005d9ee426ba56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
@@ -1261,12 +1277,19 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:b5cfd62306847a4d8f89e3bddddd7399
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251112T150000Z
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251015T150000Z
 LOCATION:--каф.
-DTSTART:20251112T133000Z
+DTSTART:20251015T133000Z
 SUMMARY:ЛК Аэродинамика
-UID:4ca4abf813ca7607503b2aa2f6d2aa64
+UID:76cf93c108745c808ea4ef8baa32213f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251212T091500Z
+LOCATION:7-416
+DTSTART:20251212T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:61cedf55490d790cd73fbe4a0e353939
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Парненков Алексей Евгеньевич
@@ -1275,13 +1298,6 @@ LOCATION:--каф.
 DTSTART:20251014T133000Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:602f227e41221e41d5d4cdf37ac68abf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T091500Z
-LOCATION:7-416
-DTSTART:20251212T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:61cedf55490d790cd73fbe4a0e353939
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T073000Z
@@ -1396,6 +1412,14 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:8cdfa7f42c1c7e856e0194bfe8e727c1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251022T150000Z
+LOCATION:--каф.
+DTSTART:20251022T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:3a058049e6c3cc3810b8beec4be3993c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Латыпов Эдгар Рашитович
 DTEND:20251201T150000Z
 LOCATION:5-232
@@ -1439,14 +1463,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:64b03c4e38e915de3f44a6e599447651
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251110T131500Z
-LOCATION:4-100
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:92de2272862a2c2e623b77b0a028a338
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251108T131500Z
 LOCATION:--каф.
 DTSTART:20251108T114500Z
@@ -1474,6 +1490,14 @@ LOCATION:--каф. 919
 DTSTART:20250919T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:50f8ea6fddea00d9e4e6260ae27610c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20250924T150000Z
+LOCATION:--каф.
+DTSTART:20250924T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:b09ca90feeaf261b65e7ca23f01d1efd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T073000Z
@@ -1509,14 +1533,6 @@ LOCATION:--каф.
 DTSTART:20251029T074500Z
 SUMMARY:ЛК Строительная механика конструкций вертолета
 UID:9c94f53c76bcb90732288ddd317396be
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251203T150000Z
-LOCATION:--каф.
-DTSTART:20251203T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:894c6547689a8cd52cc4a7ac5db9ac73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
@@ -1558,20 +1574,20 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:dfe522004db5f735bfacd7ef59212ec8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251224T150000Z
+LOCATION:--каф.
+DTSTART:20251224T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:840465f8be7a99c82ad31881d927994d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
 DTEND:20251107T113000Z
 LOCATION:7-416
 DTSTART:20251107T100000Z
 SUMMARY:ПЗ Психология и педагогика
 UID:1cd629f87cf309de15083b42515fd770
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251110T113000Z
-LOCATION:4-100
-DTSTART:20251110T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:1309432d305fdddcacbd6fb8aea29295
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T091500Z
@@ -1830,14 +1846,6 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:31034decfba4a9007089c658d9062b13
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251001T150000Z
-LOCATION:--каф.
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:6176d687bfe01f8dc731b479d033ea06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чуксина Оксана Владимировна
 DTEND:20251226T150000Z
 LOCATION:ГУК Б-729
@@ -1860,6 +1868,14 @@ LOCATION:7-416
 DTSTART:20251003T100000Z
 SUMMARY:ЛК Психология и педагогика
 UID:de600e9c14f174c13fb6c3412309d7e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251112T150000Z
+LOCATION:--каф.
+DTSTART:20251112T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:822a18df663d6d5240211c95615edd0f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
@@ -2027,6 +2043,14 @@ SUMMARY:ПЗ Основы менеджмента
 UID:a9d0e3cd91fe28275c59ad78d29e368f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251217T150000Z
+LOCATION:--каф.
+DTSTART:20251217T133000Z
+SUMMARY:ЛК Аэродинамика
+UID:9599d180b0bfaefa977725b67cc4abfe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
 DTEND:20250926T113000Z
 LOCATION:7-416
@@ -2103,14 +2127,6 @@ SUMMARY:ЛР Теория машин и механизмов
 UID:cb30b2d64f72d58b9a452b89948ddea4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251029T150000Z
-LOCATION:--каф.
-DTSTART:20251029T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:914d1beb662a3d9e28f8d8f38c4c32c2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251108T091500Z
 LOCATION:--каф.
 DTSTART:20251108T074500Z
@@ -2145,22 +2161,6 @@ LOCATION:ГУК Б-662
 DTSTART:20251215T114500Z
 SUMMARY:ЛР Теория машин и механизмов
 UID:d5dbd773d3f277f35c9962d2393f922b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251222T113000Z
-LOCATION:4-100
-DTSTART:20251222T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:619f6bc6be71791724c3be9a0b997c82
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251224T150000Z
-LOCATION:--каф.
-DTSTART:20251224T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:8ee0a5c4f044e588462af03b9dff1891
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Сергей Анатольевич
@@ -2284,19 +2284,19 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:9eb268bfc54a244e7980ca0206b837a5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Красавин Егор Эдуардович
-DTEND:20251015T150000Z
-LOCATION:--каф.
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:14314683b0c25d0c0592f00f8101c345
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251108T073000Z
 LOCATION:--каф.
 DTSTART:20251108T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:b793ab54cb8a2e4b107ba1be1d35eba3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красавин Егор Эдуардович (осн.)
+DTEND:20251124T113000Z
+LOCATION:4-100
+DTSTART:20251124T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:8200d6c33df04812ebb19291632f5d4f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T131500Z
