@@ -2,18 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250922T164500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250922T151500Z
-SUMMARY:ЛР Системы механического оборудования
-UID:422f5701a07b0c2bb8a5a6a3967acab8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251023T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:75799d457f9573cc37ce33c4e0ee1979
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260225T113000Z
+LOCATION:7-510
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Управление качеством
+UID:6aab10b8fd7009e267125cf0586d290b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T164500Z
@@ -23,12 +17,12 @@ SUMMARY:ЛР Системы механического оборудования
 UID:d9f78275f26b4e53c80b4b48ba3fa175
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251017T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251017T060000Z
-SUMMARY:ЛК Силовая установка
-UID:59d5275bb32180fb391383db8181a883
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260319T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260319T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:fb76b81ab482267c0fa82ece849c7a2a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T091500Z
@@ -38,19 +32,12 @@ SUMMARY:ПЗ Технология производства самолетов (�
 UID:c4213992c62800ae537d8ecb41626a06
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250915T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250915T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:e61fca0b32f8be95eb50a81a0082872a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20250930T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20250930T060000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:4d11f7aab21787aa3ce28a9f1694f7b3
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260416T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:2ec603d47155b5e245f8950ab37a7e81
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -60,35 +47,6 @@ SUMMARY:ЛР Моделирование инженерных задач
 UID:be0ba7e441057a17fd83227e8571a83d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251218T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:aa7d8add35a033902bb821d41a5b1bf6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251031T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251031T060000Z
-SUMMARY:ЛК Силовая установка
-UID:fec077cc20e42eff4e44c4c0df4f2741
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251224T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:1c0ba6784381bda00b4a993f631b9e9e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251225T114500Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:508eaf5935e29a4fbe1bb3ea37b6eee8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250917T091500Z
 LOCATION:ГУК В-704-и
 DTSTART:20250917T074500Z
@@ -96,20 +54,20 @@ SUMMARY:ЛК Моделирование инженерных задач
 UID:346acb77d0ff0ae5284b0a9285f4f8bc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251030T073000Z
-LOCATION:3-269
-DTSTART:20251030T060000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:7ea962ed93016239f9cbacfab03594e4
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260326T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260326T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:afdf5c45922f389e303172199896e7ae
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250902T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250902T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:02acc8ecc570a938c9ba84eb464e5273
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260514T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260514T114500Z
+SUMMARY:ЛР Проектирование самолетов
+UID:dfcaf19a8b86e5774532f06123a73677
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T073000Z
@@ -117,14 +75,6 @@ LOCATION:ГУК В-702-и
 DTSTART:20251220T060000Z
 SUMMARY:ЛР Технология производства самолетов (вертолетов)
 UID:d2ee13f10bbd9233c4adb55e3d8cf449
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251014T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251014T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:efac0dc28bbb16772cf85960a4b2ef9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -151,94 +101,12 @@ SUMMARY:ЛР Системы приборного оборудования
 UID:15a408b691694e816e71b859f1c10294
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251017T113000Z
-LOCATION:3-258
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:deccbc0e2d40ce18b4ef8f9ced39d5f8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251017T131500Z
-LOCATION:3-258
-DTSTART:20251017T114500Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:fd19147d233406aaf133ebfed83932c0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251105T074500Z
-SUMMARY:ЛР Моделирование инженерных задач
-UID:4fda265030a86e36fc1493e6e291c40f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:5f58c2f4d6a5419343e34202d098d24a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251023T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:0ddccfbd6ec279ebc5e9b22a275ee70f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
 DTEND:20251021T131500Z
 LOCATION:ГУК В-701-и
 DTSTART:20251021T114500Z
 SUMMARY:ПЗ Социология
 UID:1e13499a0ec1e733324f10909aff3869
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251208T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:55074ba444e645cfd2db3e6b030d6e4d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251004T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:fbf2410f3bfd0aa257eb40c815660c58
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250929T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:6e4927ab05ba2ba406e0b366f1a86e40
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251007T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251007T114500Z
-SUMMARY:ПЗ Социология
-UID:34384d7054896bd433039c04303d7c3d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251028T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251028T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:95331ef8782bd80112946a75b1a67b79
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251031T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:6102a530fb956cf852e3b5f87c7df4ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -249,13 +117,6 @@ SUMMARY:ЛК Силовая установка
 UID:f634e1c88338f5f8f3b127a22afdbaf0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250908T164500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250908T151500Z
-SUMMARY:ЛР Системы механического оборудования
-UID:29b4e159396fb98f3825c3ff295a5416
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250908T131500Z
 LOCATION:ГУК В-702-и
 DTSTART:20250908T114500Z
@@ -263,34 +124,12 @@ SUMMARY:ЛК Системы механического оборудования
 UID:c8aac176d3f0cf1f696207f8997121eb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251029T074500Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:1b99005643b0216bf2463bf1e7f4c170
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251211T091500Z
-LOCATION:3-269
-DTSTART:20251211T074500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:2abacd0ed3997a4443d57889e2c13795
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251216T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251216T114500Z
-SUMMARY:ПЗ Социология
-UID:c92208fa84168fddb1a0e23671c0bb3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T150000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251225T133000Z
-SUMMARY:ПЗ Конструирование агрегатов планера
-UID:d41a2f480e66721d3f66b11bc99adee4
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260507T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260507T060000Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:adbe3fc2ab048049559e7363a6119309
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250908T150000Z
@@ -300,69 +139,11 @@ SUMMARY:ЛР Системы механического оборудования
 UID:25ec6785cd22c978fbe614c769bc2414
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250906T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:ef59a3117b150bb1e4bddff7f771b221
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250930T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:fd674d00a0d2e84e1d2d38b2c94dcb8d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250922T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:3a83246b7fc629f2b94d82c989fcc128
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:5c04ca8e2e7376724daafda0619f36e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251230T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251230T100000Z
-SUMMARY:ЛК Социология
-UID:c13edfe8487fe439b83ec566dd2aab55
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T150000Z
-LOCATION:ГУК В-702-и
-DTSTART:20250922T133000Z
-SUMMARY:ЛР Системы механического оборудования
-UID:0c032350c42b2fee4ed3cd03362e953c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251016T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:068e77c9d57e5f5acab83338e87b2363
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250903T091500Z
 LOCATION:ГУК В-704-и
 DTSTART:20250903T074500Z
 SUMMARY:ЛК Моделирование инженерных задач
 UID:c1cc55ca10334b6293bcac5f3bc774c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251015T074500Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:c062fc4b2253044959706f4053248c33
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -373,179 +154,12 @@ SUMMARY:ЛР Сертификация авиационной техники
 UID:6681fe8efb964fa177d6e1ccbc58ba97
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250915T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20250915T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:6ef8284ace91372e53e94e80872d03c1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251127T091500Z
-LOCATION:3-269
-DTSTART:20251127T074500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:8313f056cc7a97468759ed22a1a58864
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T164500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251117T151500Z
-SUMMARY:ЛР Системы механического оборудования
-UID:7a3867fa12143a7f9e859a323796c077
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:343f9f3ed411a8f99bfa9b6e3acad5ac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251222T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:4ff2ea07bc9998fe2e6f191652abeaff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
 DTEND:20251118T113000Z
 LOCATION:ГУК В-701-и
 DTSTART:20251118T100000Z
 SUMMARY:ЛК Социология
 UID:9adbf0bfc9ee56f571e0567a31f691e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251010T113000Z
-LOCATION:2-215(2В)
-DTSTART:20251010T100000Z
-SUMMARY:ЛР Силовая установка
-UID:2de3b384d5a9befc5fe17c26ecf9b754
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251021T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Социология
-UID:da3b9166df2771d96b8066d54cc35ff6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251111T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251111T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:40a5d60183f6385a06bb594eed49be5c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251111T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:2e2487a93766e5a91409955f5c7c3466
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251120T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:5d3b1471def9afdb88d31428b94916f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250930T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250930T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:30a706648e88fdf9e925b00d9584481d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251105T060000Z
-SUMMARY:ЛР Моделирование инженерных задач
-UID:0bf670cf0e023d0f91ac0a16bafcd92c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251223T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251223T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:f28348059598d9942b0dfa8ef3c9d655
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251010T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251010T060000Z
-SUMMARY:ЛК Силовая установка
-UID:c6d68d8bb9e39964a8ae13fce4aac2af
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251111T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:752ce96c2103792c949b0097dc024951
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251211T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:774ad8745f9e747575da6c36abba2b5f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251028T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:8862ae5ae170b278bf32a9a863c1f14d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251024T131500Z
-LOCATION:2-215(2В)
-DTSTART:20251024T114500Z
-SUMMARY:ЛР Силовая установка
-UID:aeea1b24af289543e8c27cef0f51ce23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251106T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:b9b4dc1fc94b9e018c5d2188356a25cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251219T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251219T114500Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:3668fcae63a89b1d1959f56240c1893f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Духновский Денис Аскольдович
-DTEND:20260115T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20260115T100000Z
-SUMMARY:Экзамен Конструирование агрегатов планера
-UID:ffa03391b7658629a14a5ead75ebdbb2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T150000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251117T133000Z
-SUMMARY:ЛР Системы механического оборудования
-UID:4887791538247ff4ba9aee4cd3932995
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T131500Z
@@ -555,33 +169,11 @@ SUMMARY:ЛК Конструирование агрегатов планера
 UID:4844b1b9a1479d8210f8dae3eed6a635
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T150000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251006T133000Z
-SUMMARY:ЛР Системы механического оборудования
-UID:c89627dae18174f44390e9fa9d8c8064
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250904T131500Z
 LOCATION:ГУК В-705-и
 DTSTART:20250904T114500Z
 SUMMARY:ЛК Конструирование агрегатов планера
 UID:1a4eceac3bee8f90219e41ffdd3d751c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251119T060000Z
-SUMMARY:ЛР Моделирование инженерных задач
-UID:5980ad53543eafa4b742be8877f66def
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251209T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251209T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:1a1a307f5bf3fe6b763a3424c0a24ed9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T073000Z
@@ -591,27 +183,11 @@ SUMMARY:ЛК Моделирование инженерных задач
 UID:60ce329210adae93bf8fa8d1d2ce6049
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20250926T113000Z
-LOCATION:2-215(2В)
-DTSTART:20250926T100000Z
-SUMMARY:ЛР Силовая установка
-UID:f79b2f83debc22be733d7b1c5f17ac6a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251218T113000Z
 LOCATION:ГУК В-705-и
 DTSTART:20251218T100000Z
 SUMMARY:ЛР Конструирование агрегатов планера
 UID:0d1521915575009839b4a04c91184a05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251205T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251205T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:ede48ce6da8f2bd22cfe82348dbbe9df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -622,21 +198,6 @@ SUMMARY:ПЗ Основы менеджмента
 UID:bb072adc8758f41c0d105c678ecda635
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251115T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:6a588b744f11557f5de13489719b2118
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251219T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251219T060000Z
-SUMMARY:ЛК Силовая установка
-UID:46acb7bbd0695e3d83b9c15ae3c3e4e5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
 DTEND:20251017T091500Z
 LOCATION:ГУК В-705-и
@@ -645,12 +206,20 @@ SUMMARY:ЛК Сертификация авиационной техники
 UID:4c5f2811a3d37f651d7b240d6a1df666
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251107T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251107T114500Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:ef026fd5c930c4e83df4caba69f8a0ec
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260326T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:234a8036823330aaa41387806df21845
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260422T113000Z
+LOCATION:7-510
+DTSTART:20260422T100000Z
+SUMMARY:ЛР Управление качеством
+UID:19a9d1df5389adab6caa59edd204e6bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -669,33 +238,11 @@ SUMMARY:ЛК Электротехника и электроника
 UID:6f7e2703e4a564a3d5bd3c0835d1c656
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251001T074500Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:84932ab5fe3a31931334a4dc078ad91f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251107T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251107T060000Z
-SUMMARY:ЛК Силовая установка
-UID:e34283f5cfdd3ce5efd45f61230adede
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251015T073000Z
 LOCATION:ГУК В-704-и
 DTSTART:20251015T060000Z
 SUMMARY:ЛК Моделирование инженерных задач
 UID:63e1df9105311e66423366a16f8e527f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251208T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:2c66c18677538e2f795ebcfdbbed47fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -706,41 +253,11 @@ SUMMARY:ЛК Электротехника и электроника
 UID:77649d100434a3982d08603d71a2dbd0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251007T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Социология
-UID:459fd96f3dbf9d5cc475b5e091c9fc55
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251215T131500Z
 LOCATION:ГУК В-702-и
 DTSTART:20251215T114500Z
 SUMMARY:ЛК Системы механического оборудования
 UID:f914762d5dce15947fdcff6a67e689eb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20250903T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:8b60f67ff57df31f6b8eb520530f41f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251107T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251107T100000Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:ff1acd7f1acb7d2ef7479e2c7d6b4245
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:dee2f3482feb16f01944d171ff686fbe
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T131500Z
@@ -757,80 +274,19 @@ SUMMARY:ЛК Моделирование инженерных задач
 UID:4b8f7670f44988fef45d0a0e00c68b24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20250923T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Социология
-UID:c5c5842ad1ee7e5bb8b8ff8cba7bece2
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260303T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260303T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:7e6f512ba0d41141ef9848b28fa9dbe5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20250912T131500Z
-LOCATION:2-215(2В)
-DTSTART:20250912T114500Z
-SUMMARY:ЛР Силовая установка
-UID:a3836fde5df076408ce16b555a677f45
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251114T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251114T060000Z
-SUMMARY:ЛК Силовая установка
-UID:15c31c0d3f3710105dae3fd8be3ab54c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T131500Z
+DTEND:20251211T131500Z
 LOCATION:ГУК В-705-и
-DTSTART:20250911T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:df103350548b21f3fb1125b4906ec3a8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T164500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251201T151500Z
-SUMMARY:ЛР Системы механического оборудования
-UID:64119f9eeeeaacac7155576ab6e212c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251125T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251125T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:a7888c312327f8cc6fabb85a2e049873
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251126T074500Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:710474a3723d5975e35e9bc709a6397c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20251118T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251118T114500Z
-SUMMARY:ПЗ Социология
-UID:ea05ff439f2f94f1477a1fe8a6c80dcb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:618b8a3dadb65e6db6464a5e4931f710
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20250916T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250916T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:1b40c1fd1cda8a6247abc15a34ad9685
+DTSTART:20251211T114500Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:6855b426f7bea5e1897670b506635dec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
@@ -841,71 +297,12 @@ SUMMARY:ЛК Социология
 UID:dd7228266d0a284068a268558427446c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251211T114500Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:6855b426f7bea5e1897670b506635dec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20251224T074500Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:3c95141532ae891756abe5be9763ebb5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251016T114500Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:a97abc62260b52a03bacf6db9a01512a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251024T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251024T060000Z
-SUMMARY:ЛК Силовая установка
-UID:54cb8ca789735d0d2594f594590c0363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251003T131500Z
-LOCATION:3-258
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:76ef0b5fdefb202edc0447192d5042fa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251121T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251121T100000Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:7b783a0ce1849ad359aecbf8f0a48662
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251114T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:23f81d407d1d796b7194ff2764efee72
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T073000Z
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260310T091500Z
 LOCATION:ГУК В-702-и
-DTSTART:20251122T060000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:23f86ecf8c860fdaca6c9f1a44b80855
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251225T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:79866217283ee61490cb9838459ad0cb
+DTSTART:20260310T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:b84279be367859ccb5d47334609173c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -916,49 +313,20 @@ SUMMARY:ЛК Силовая установка
 UID:0232096813cb53710e6621642607becf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251003T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251003T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:d03b8c24835ecc0007d513a81ee0bae4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251226T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251226T060000Z
-SUMMARY:ЛК Силовая установка
-UID:1a88f7d70a33c7577249847925a0ea27
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251127T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:3d4e603d9c74d5f663feb2ef10248b98
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T073000Z
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260331T073000Z
 LOCATION:ГУК В-702-и
-DTSTART:20251129T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:3beacddda7ef73166cce445a542574f9
+DTSTART:20260331T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:7bf92de0de2523e31b60bc1b2873bfeb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251205T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251205T100000Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:ac21528f7604ea6a2cdb51d7fc754ba1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20250906T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:fba41c96ce82fc3e9cb28a7a42aa7da4
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260424T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260424T114500Z
+SUMMARY:ЛР НИРС
+UID:bc9b52b8714cb2fa2acba5802ab889ec
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T131500Z
@@ -968,19 +336,20 @@ SUMMARY:ЛК Конструирование агрегатов планера
 UID:b638527eba8919088839eff546c3b1d1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251122T074500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:49f04ea8b23a2abf9ab022a7ea67aa92
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260306T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260306T114500Z
+SUMMARY:ЛК НИРС
+UID:8de55b98e0bbd0f8c55cc47c5871e03e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250905T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20250905T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:182b93a4bf0073009f7ace05edbb036a
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260408T131500Z
+LOCATION:7-510
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Управление качеством
+UID:2698bc08330425ec2eaab17a9a960d87
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
@@ -991,27 +360,12 @@ SUMMARY:ЛК Социология
 UID:410197088e5ed0537ea01a690f1ed378
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20250905T073000Z
-LOCATION:2-214(2В)
-DTSTART:20250905T060000Z
-SUMMARY:ЛК Силовая установка
-UID:f4667511e2a6259216a9b3cc17f03739
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кошелев Борис Валентинович
 DTEND:20251114T113000Z
 LOCATION:3-258
 DTSTART:20251114T100000Z
 SUMMARY:ЛР Системы приборного оборудования
 UID:843699f9fabceeba7079d353a3222669
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251106T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:41f21cb8a3e3de947941a55f25b80b7a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251108T091500Z
@@ -1021,34 +375,12 @@ SUMMARY:ЛР Технология производства самолетов (�
 UID:25ba2aa84570a89a9fee5439e3e79f01
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:f1ba247c825677e8bb479ade8eec7ab8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20250920T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:14055c0b5dcc064e2ec630d2c607362b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251209T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:d12102aa25d8db1eeaa7b33611076de8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250926T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20250926T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:40ff390e9c9ac475c8d63c748b64e16a
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260219T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:e03721c77258778ef1b6b9d5438798f2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T150000Z
@@ -1058,34 +390,12 @@ SUMMARY:ЛР Системы механического оборудования
 UID:95297b3c212db56e9b88c34a56da993a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251031T131500Z
-LOCATION:3-258
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:a84e6e80a3afd13c6db7b42e51377410
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251227T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:0f35cd6578ae6bf8eca9d12f0e5cb153
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20250923T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250923T114500Z
-SUMMARY:ПЗ Социология
-UID:caf7c47c07c99083b2d293148fca8a98
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251124T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:176a823e6e18c6fe15661a7720f5b039
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260226T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:367e8eb784d2f5ea34debd05ba648456
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1104,48 +414,20 @@ SUMMARY:ЛК Электротехника и электроника
 UID:d3f43935b9a35d91fe7a0090a6aec4a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:327d8a0b184ddb95b2fb3f1663eda986
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260311T113000Z
+LOCATION:7-510
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Управление качеством
+UID:55277afd29569b274ab119a004d5c864
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:8dd883838bac1b70bc075fae01a3b954
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20250911T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:5bc20433c9ba33f44a629fd123542e9a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251125T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:dc184abbe11e3a6aba002a291ffd0a6c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251203T060000Z
-SUMMARY:ЛР Моделирование инженерных задач
-UID:b491960a0aadbda56dd52fab50d59ec7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20250930T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250930T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:2e5d748964f61545e1bd1f9fcce815d5
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260326T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260326T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:e82c309d579c53efe1df5945f6fc6fe6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -1171,26 +453,12 @@ SUMMARY:ЛР Системы приборного оборудования
 UID:9c18bd244c6e44161a0c961668910ba2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251112T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:059eed4d58e741a9564d303b947fdcaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251120T091500Z
-LOCATION:3-314
-DTSTART:20251120T074500Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:77f9c57e912793417e2e0af237360055
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251204T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:2691e22f525be53681a583bca746bdf0
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260226T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260226T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:0ff6d6f5972e86488ed5d5f1ea99eedc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -1201,28 +469,12 @@ SUMMARY:ЛК Основы менеджмента
 UID:be34de1b9b48039d007c30858ccc79e7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251121T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:f9a7058a5004a43355fd4c988a867fe8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20250916T073000Z
 LOCATION:ГУК В-701-и
 DTSTART:20250916T060000Z
 SUMMARY:ПЗ Электротехника и электроника
 UID:d7147285816f0e71b28623a0a1c45865
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251107T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:27263f2dbaf80907efb203c16ece54a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -1233,18 +485,12 @@ SUMMARY:ЛР Силовая установка
 UID:df55a481cf6f8d6d19d1d97adc96efdb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251027T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:e2c06d91eb8646800208e81186027a03
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20250925T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:748e899040fcad8bcef7997852e7f4b4
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260409T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260409T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:584c5274235892efc9208a4862b005e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -1255,19 +501,12 @@ SUMMARY:ЛК Силовая установка
 UID:35f85032d8d11cff16922673fdb0506e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251009T100000Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:b72be4820b3c2e3726a5b372f6f51435
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250916T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:cf682a6fdc1e81c13af1b301e5d8184c
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260423T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260423T114500Z
+SUMMARY:ЛР Проектирование самолетов
+UID:4f1fe594fee05d4b9b6053064eeaf540
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1278,57 +517,12 @@ SUMMARY:ЛК Сертификация авиационной техники
 UID:f0d60b32f68ac0d66d237e97380efa4a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251009T114500Z
-SUMMARY:ЛР Конструирование агрегатов планера
-UID:25cda8529168aa9287ee558415d8e984
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251021T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251021T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:e90ec7230a25a07452a4d5a4ee926737
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
 DTEND:20251230T131500Z
 LOCATION:ГУК В-701-и
 DTSTART:20251230T114500Z
 SUMMARY:ПЗ Социология
 UID:d08d7b49571f0b72f1aab80fb9f8236f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251010T131500Z
-LOCATION:2-215(2В)
-DTSTART:20251010T114500Z
-SUMMARY:ЛР Силовая установка
-UID:704ec31842c3e255100cd629ddd88a7e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T131500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251006T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:b1b7b62c60e6581ab4a35c70d92b6339
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:c4e58b774e4faa432291c995c863aadf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251030T091500Z
-LOCATION:3-269
-DTSTART:20251030T074500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:a5b5d43601b3577f12be21f637cc65b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1339,27 +533,28 @@ SUMMARY:ЛК Сертификация авиационной техники
 UID:ecaf41c14f8dda606eb0019640ccaebd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251125T073000Z
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260213T150000Z
 LOCATION:ГУК В-701-и
-DTSTART:20251125T060000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:38a1722f3b6c93cab2aad3d432411264
+DTSTART:20260213T133000Z
+SUMMARY:ЛК НИРС
+UID:664fe443fac013192dc14561c9827ac3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20250905T113000Z
-LOCATION:3-258
-DTSTART:20250905T100000Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:27a472de4491bb810e9e857bcb98bdbd
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260311T131500Z
+LOCATION:7-510
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Управление качеством
+UID:7c1b0d12cbec7e85050121b34ec9ed59
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251108T060000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:d3a90219f11971b306a5c02b82e66bd3
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260526T073000Z
+LOCATION:1-2 ангар
+DTSTART:20260526T060000Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:bd825cdb84bba611fc1018b054d0b67c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кошелев Борис Валентинович
@@ -1370,41 +565,28 @@ SUMMARY:ЛК Системы приборного оборудования
 UID:7e708c567a69f8d5b20a63f810fe8a5d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251029T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:d5caa4834b4bb6ed822bb64fb235f23a
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260312T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260312T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:0e415686e9319657c4cc08f5617a7a20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251024T113000Z
-LOCATION:2-215(2В)
-DTSTART:20251024T100000Z
-SUMMARY:ЛР Силовая установка
-UID:9af5d6170669bf1e094aebe275ed2b6c
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260310T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260310T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:2572dcb6a307841fe4db424f1647dc58
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251001T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:e875239275598f2282c63edeb6c32f8d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251226T113000Z
-LOCATION:3-258
-DTSTART:20251226T100000Z
-SUMMARY:ЛР Системы приборного оборудования
-UID:13db574bb9f9388cba15d13d799e3eda
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251127T114500Z
-SUMMARY:ЛК Конструирование агрегатов планера
-UID:4992c6a2b21b834897fef38779b65517
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260520T131500Z
+LOCATION:7-510
+DTSTART:20260520T114500Z
+SUMMARY:ЛР Управление качеством
+UID:635aef91be24b2649df0b2642fd6e956
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251020T131500Z
@@ -1414,27 +596,20 @@ SUMMARY:ЛК Системы механического оборудования
 UID:4fabb13723d83de0b09be5c23368c027
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20250926T073000Z
-LOCATION:2-214(2В)
-DTSTART:20250926T060000Z
-SUMMARY:ЛК Силовая установка
-UID:1f60243744f16d7b7e386a0f47f9fcc9
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260417T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260417T133000Z
+SUMMARY:ЛР НИРС
+UID:93431694f5edba45216c91d724c646ac
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251110T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:d2e043298072c136aed8c7a37df14c71
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251010T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:8d750de830b3dc7052607f0b629d5fdf
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260219T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260219T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:ffa1500c7c0d98cf61503a9ed2677089
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251201T131500Z
@@ -1444,12 +619,12 @@ SUMMARY:ЛК Системы механического оборудования
 UID:5bd7db89bba5f8c2cc07bfc35e9d6166
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251205T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251205T060000Z
-SUMMARY:ЛК Силовая установка
-UID:65a35c1f4541516565506e1b35cb0ad8
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260212T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:a1abcdeb05819dfdace1d10add7d6dfa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -1458,14 +633,6 @@ LOCATION:ГУК В-701-и
 DTSTART:20251007T074500Z
 SUMMARY:ЛК Электротехника и электроника
 UID:8fc67057fdd75aae5e3a81a8bd8585c9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251014T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20251014T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:8789c821173a2d058124983381d8bcf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кошелев Борис Валентинович
@@ -1484,35 +651,12 @@ SUMMARY:ЛК Сертификация авиационной техники
 UID:63da91a4509ffd4be747d0a31e1ea9b4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251113T073000Z
-LOCATION:3-269
-DTSTART:20251113T060000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:8681e22043c50c7d7c1be1cc3cc77695
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251113T091500Z
-LOCATION:3-269
-DTSTART:20251113T074500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:22a84fab788b9ffb25e6af334e1486ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251121T131500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251121T114500Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:109ae0fc7fc516f8b1ad4046556c2b66
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T091500Z
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260414T091500Z
 LOCATION:ГУК В-702-и
-DTSTART:20251220T074500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:dd0987338b519997c4776aa87449186d
+DTSTART:20260414T074500Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:0691f4942f103b7bca2dc6c5f2c877af
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T113000Z
@@ -1522,56 +666,19 @@ SUMMARY:ЛР Конструирование агрегатов планера
 UID:e272ca02494b9d0e8d0517eeac7f6a5b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260313T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260313T114500Z
+SUMMARY:ЛК НИРС
+UID:f35abbc9b47827436a6b27dc8a4c1bf6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T073000Z
 LOCATION:ГУК В-704-и
 DTSTART:20251217T060000Z
 SUMMARY:ЛР Моделирование инженерных задач
 UID:f9de2c4c277e75a31e830d4766db4bbf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Южанин Максим Александрович
-DTEND:20250909T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250909T114500Z
-SUMMARY:ПЗ Социология
-UID:0a3d90bc63615406ed3b0c6fc700a608
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20250909T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250909T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:4769baaf990f4d82c17838a79b47b090
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20250923T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250923T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:4417a397132c96bb8c483e3d747be585
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251210T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:a8aece1855952e442b3dfac1541237a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:289bceab162f2430687c708cd4111628
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251018T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:44a198ba2f7923fc15b95b81cf91eba3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -1589,47 +696,621 @@ SUMMARY:ЛР Моделирование инженерных задач
 UID:62cbdb52bc528386fd5f9ebee0346714
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251213T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:610b4c04e69a67709b70d95c35a296ad
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251003T113000Z
+LOCATION:3-258
+DTSTART:20251003T100000Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:75cc635091d2280dd376979a50753d10
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251206T074500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:b76039c8346e9625cbe35e15e468fa05
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260219T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260219T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:47624aa60df0c5e43e0064b6fdf1280e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251126T073000Z
-LOCATION:ГУК В-704-и
-DTSTART:20251126T060000Z
-SUMMARY:ЛК Моделирование инженерных задач
-UID:8bbfd635441d0bcd3e466d567a569b32
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260602T091500Z
+LOCATION:1-2 ангар
+DTSTART:20260602T074500Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:a0089054df8080fa28e676bf5fab975d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251013T131500Z
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251014T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251014T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:90daaa03e615600b4a5a02bca013747e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251219T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251219T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:c3cac104ef4e799d729ef21a157d18bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T131500Z
 LOCATION:ГУК В-702-и
-DTSTART:20251013T114500Z
+DTSTART:20251117T114500Z
 SUMMARY:ЛК Системы механического оборудования
-UID:d5fad415a221c1721d70f528bc7f22d9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T091500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251213T074500Z
-SUMMARY:ПЗ Технология производства самолетов (вертолетов)
-UID:1dba9c76cfaa3ee5994de95e66fd6d56
+UID:38e3567dab373112fa3aceb68aed5604
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20250905T131500Z
+DTEND:20251114T131500Z
 LOCATION:3-258
-DTSTART:20250905T114500Z
+DTSTART:20251114T114500Z
+SUMMARY:ЛР Системы приборного оборудования
+UID:acf1a5c7560b2401815ecc2eae3ea34e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ордоньез Лазарев Анатолий Экторович
+DTEND:20260119T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260119T100000Z
+SUMMARY:Экзамен Системы механического оборудования
+UID:363d5633cda03ec360b63709c37414f4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251124T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:e0d2ab0d4518409ec66f36065cebb8b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251121T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251121T060000Z
+SUMMARY:ЛК Силовая установка
+UID:051a87c7f1ef67513db5b213304984db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251017T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251017T060000Z
+SUMMARY:ЛК Силовая установка
+UID:59d5275bb32180fb391383db8181a883
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250915T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:e61fca0b32f8be95eb50a81a0082872a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251218T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:aa7d8add35a033902bb821d41a5b1bf6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251225T114500Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:508eaf5935e29a4fbe1bb3ea37b6eee8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260327T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260327T114500Z
+SUMMARY:ЛК НИРС
+UID:211ff02808a1ec5e35af94643abc2b02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250902T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250902T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:02acc8ecc570a938c9ba84eb464e5273
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251014T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251014T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:efac0dc28bbb16772cf85960a4b2ef9b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260217T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260217T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:cd4a24c9878e4a696116baead4a2ef42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251017T131500Z
+LOCATION:3-258
+DTSTART:20251017T114500Z
 SUMMARY:ЛК Системы приборного оборудования
-UID:1a51d8523015b9029f0fd0099c550755
+UID:fd19147d233406aaf133ebfed83932c0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251105T074500Z
+SUMMARY:ЛР Моделирование инженерных задач
+UID:4fda265030a86e36fc1493e6e291c40f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251222T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:5f58c2f4d6a5419343e34202d098d24a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260220T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260220T114500Z
+SUMMARY:ЛК НИРС
+UID:780fff51b9afb50c5607104d0144e0d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260408T113000Z
+LOCATION:7-510
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Управление качеством
+UID:b9c89b714022cc20a9aadd275e3ac79b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260522T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260522T133000Z
+SUMMARY:ЛР НИРС
+UID:b293e2a9aa39529d74d57a8206896a1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251004T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251004T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:fbf2410f3bfd0aa257eb40c815660c58
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260515T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260515T114500Z
+SUMMARY:ЛР НИРС
+UID:c19e9fa711431773860d73d3667fdcdf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250906T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250906T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:ef59a3117b150bb1e4bddff7f771b221
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260520T113000Z
+LOCATION:7-510
+DTSTART:20260520T100000Z
+SUMMARY:ЛР Управление качеством
+UID:a4a6e44cdac1c542f29c9b58aea73bd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250922T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250922T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:3a83246b7fc629f2b94d82c989fcc128
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20250918T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:5c04ca8e2e7376724daafda0619f36e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260410T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260410T133000Z
+SUMMARY:ЛК НИРС
+UID:e2224760d704a4739fdcd1dce3832ac0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T164500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251117T151500Z
+SUMMARY:ЛР Системы механического оборудования
+UID:7a3867fa12143a7f9e859a323796c077
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251013T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:343f9f3ed411a8f99bfa9b6e3acad5ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251223T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251223T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:f28348059598d9942b0dfa8ef3c9d655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251111T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251111T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:2e2487a93766e5a91409955f5c7c3466
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251024T131500Z
+LOCATION:2-215(2В)
+DTSTART:20251024T114500Z
+SUMMARY:ЛР Силовая установка
+UID:aeea1b24af289543e8c27cef0f51ce23
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251119T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251119T060000Z
+SUMMARY:ЛР Моделирование инженерных задач
+UID:5980ad53543eafa4b742be8877f66def
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251209T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251209T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:1a1a307f5bf3fe6b763a3424c0a24ed9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260416T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260416T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:16bd92c567e5b9e91e611065993ce87e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260224T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260224T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:fa8c31ce88bbf72013dd1a19bc1406b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260602T073000Z
+LOCATION:1-2 ангар
+DTSTART:20260602T060000Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:813c4ba232ea4809bcce44bda607258c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260409T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:465c26f3a17691e6e5c0509dc080ce7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260303T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260303T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:21b1c9d4cf3beaef7153bf7e1390d6b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251107T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251107T100000Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:ff1acd7f1acb7d2ef7479e2c7d6b4245
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260213T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260213T114500Z
+SUMMARY:ЛК НИРС
+UID:ee98f782268c1280b930d001e9a3002c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260526T091500Z
+LOCATION:1-2 ангар
+DTSTART:20260526T074500Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:057b70b0d3780ab7a3092dcf84edc1e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20250916T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250916T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:1b40c1fd1cda8a6247abc15a34ad9685
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260402T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:16374d5473be77505416667e5ea550b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251114T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251114T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:23f81d407d1d796b7194ff2764efee72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260305T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:d49574c4db14ef73082347d5f427935b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251226T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251226T060000Z
+SUMMARY:ЛК Силовая установка
+UID:1a88f7d70a33c7577249847925a0ea27
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260410T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260410T114500Z
+SUMMARY:ЛК НИРС
+UID:07277a7d0848a1c34cdf2f24ce913eba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250906T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20250906T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:fba41c96ce82fc3e9cb28a7a42aa7da4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260331T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260331T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:5150445cef963c352ca172ea2c297671
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251106T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:41f21cb8a3e3de947941a55f25b80b7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20250926T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20250926T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:40ff390e9c9ac475c8d63c748b64e16a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251227T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251227T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:0f35cd6578ae6bf8eca9d12f0e5cb153
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260327T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260327T133000Z
+SUMMARY:ЛК НИРС
+UID:f343860c54722a77c91134bac269421a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20250923T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250923T114500Z
+SUMMARY:ПЗ Социология
+UID:caf7c47c07c99083b2d293148fca8a98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251027T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:327d8a0b184ddb95b2fb3f1663eda986
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251004T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251004T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:8dd883838bac1b70bc075fae01a3b954
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260312T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:7324f329c87cab476ae19501da30eecb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251125T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251125T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:dc184abbe11e3a6aba002a291ffd0a6c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251204T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:2691e22f525be53681a583bca746bdf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260430T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260430T100000Z
+SUMMARY:ЛР Проектирование самолетов
+UID:0aa4ed0d8c55ef415f21a6f8ccfb9307
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251121T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251121T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:f9a7058a5004a43355fd4c988a867fe8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251009T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:b72be4820b3c2e3726a5b372f6f51435
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251009T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:25cda8529168aa9287ee558415d8e984
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251010T131500Z
+LOCATION:2-215(2В)
+DTSTART:20251010T114500Z
+SUMMARY:ЛР Силовая установка
+UID:704ec31842c3e255100cd629ddd88a7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260514T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260514T074500Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:d4d35e7eceed9f8178a9f640416015b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260521T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260521T060000Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:f474a46449fbc2b18bbf335422d7f807
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260320T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260320T114500Z
+SUMMARY:ЛК НИРС
+UID:c49a8fad592cb2857486da8db6e7a8a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251226T113000Z
+LOCATION:3-258
+DTSTART:20251226T100000Z
+SUMMARY:ЛР Системы приборного оборудования
+UID:13db574bb9f9388cba15d13d799e3eda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20250926T073000Z
+LOCATION:2-214(2В)
+DTSTART:20250926T060000Z
+SUMMARY:ЛК Силовая установка
+UID:1f60243744f16d7b7e386a0f47f9fcc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260521T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260521T114500Z
+SUMMARY:ЛР Проектирование самолетов
+UID:19381169a2e3cd79801a46a4af27d683
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251014T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251014T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:8789c821173a2d058124983381d8bcf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260319T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260319T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:4708f924d2f8b909fbdeca06a37b91de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20250923T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250923T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:4417a397132c96bb8c483e3d747be585
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260423T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260423T074500Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:bf977511bba706a3efedf612f9f69fc7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251018T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251018T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:44a198ba2f7923fc15b95b81cf91eba3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -1647,12 +1328,43 @@ SUMMARY:ЛР Системы механического оборудования
 UID:ac0bf493daf12ecf737652bf993a93ed
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260402T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260402T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:ab16c9c555ee0774117a3bad363f69f1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
 DTEND:20251024T091500Z
 LOCATION:ГУК В-705-и
 DTSTART:20251024T074500Z
 SUMMARY:ЛК Сертификация авиационной техники
 UID:f8f7946afec0452d63f0971d9c3f34e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260506T113000Z
+LOCATION:7-510
+DTSTART:20260506T100000Z
+SUMMARY:ЛР Управление качеством
+UID:e44118280535eb4b5506af6c2cd8f039
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251110T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:d8dd53d464829fe699cdfe2cf9d87e45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260225T131500Z
+LOCATION:7-510
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Управление качеством
+UID:ff3d0da21833269538ee73e18726e4a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1663,6 +1375,718 @@ SUMMARY:ЛК Сертификация авиационной техники
 UID:e41ce0c33d56c53e2d9f61ebae84cfee
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250922T164500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250922T151500Z
+SUMMARY:ЛР Системы механического оборудования
+UID:422f5701a07b0c2bb8a5a6a3967acab8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251023T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:75799d457f9573cc37ce33c4e0ee1979
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260521T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260521T074500Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:56fa444c5db738064790691b2c7a38bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260430T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260430T074500Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:e92082c8dc016aa90486e3c5df0d688f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251031T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251031T060000Z
+SUMMARY:ЛК Силовая установка
+UID:fec077cc20e42eff4e44c4c0df4f2741
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260224T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260224T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:dc25ffabd41b7c771cb31c54f4bfa318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251030T073000Z
+LOCATION:3-269
+DTSTART:20251030T060000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:7ea962ed93016239f9cbacfab03594e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260423T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260423T100000Z
+SUMMARY:ЛР Проектирование самолетов
+UID:caecd96337b464728ec46ae9783bb624
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251007T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251007T114500Z
+SUMMARY:ПЗ Социология
+UID:34384d7054896bd433039c04303d7c3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260423T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260423T060000Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:2c3cf87d35ace40abb0c8ddb2848547c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260407T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260407T060000Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:e522d004b64e39ff5c214960f016ee56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251211T091500Z
+LOCATION:3-269
+DTSTART:20251211T074500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:2abacd0ed3997a4443d57889e2c13795
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251216T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251216T114500Z
+SUMMARY:ПЗ Социология
+UID:c92208fa84168fddb1a0e23671c0bb3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260324T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260324T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:a53eb857a6a9ecd216d495dc67c27290
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250930T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20250930T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:fd674d00a0d2e84e1d2d38b2c94dcb8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251230T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251230T100000Z
+SUMMARY:ЛК Социология
+UID:c13edfe8487fe439b83ec566dd2aab55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260226T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260226T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:29e229d0b94aad91cb4ee8a5ea4f8d66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251016T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:068e77c9d57e5f5acab83338e87b2363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251127T091500Z
+LOCATION:3-269
+DTSTART:20251127T074500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:8313f056cc7a97468759ed22a1a58864
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260603T113000Z
+LOCATION:7-510
+DTSTART:20260603T100000Z
+SUMMARY:ЛР Управление качеством
+UID:78c761d1e40a14c6354d8904f00d5415
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251224T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:1c0ba6784381bda00b4a993f631b9e9e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251010T113000Z
+LOCATION:2-215(2В)
+DTSTART:20251010T100000Z
+SUMMARY:ЛР Силовая установка
+UID:2de3b384d5a9befc5fe17c26ecf9b754
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251111T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251111T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:40a5d60183f6385a06bb594eed49be5c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251120T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:5d3b1471def9afdb88d31428b94916f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250930T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250930T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:30a706648e88fdf9e925b00d9584481d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251010T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251010T060000Z
+SUMMARY:ЛК Силовая установка
+UID:c6d68d8bb9e39964a8ae13fce4aac2af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251111T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251111T060000Z
+SUMMARY:ПЗ Электротехника и электроника
+UID:752ce96c2103792c949b0097dc024951
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260313T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260313T133000Z
+SUMMARY:ЛК НИРС
+UID:56d95dd10d63f57d6e41b45805575e5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251028T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251028T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:8862ae5ae170b278bf32a9a863c1f14d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251219T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251219T114500Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:3668fcae63a89b1d1959f56240c1893f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T150000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251117T133000Z
+SUMMARY:ЛР Системы механического оборудования
+UID:4887791538247ff4ba9aee4cd3932995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260320T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260320T133000Z
+SUMMARY:ЛК НИРС
+UID:a7c38b79b11ce3a18e93f3fed05449d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20250926T113000Z
+LOCATION:2-215(2В)
+DTSTART:20250926T100000Z
+SUMMARY:ЛР Силовая установка
+UID:f79b2f83debc22be733d7b1c5f17ac6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251205T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251205T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:ede48ce6da8f2bd22cfe82348dbbe9df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251208T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251208T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:2c66c18677538e2f795ebcfdbbed47fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251001T074500Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:84932ab5fe3a31931334a4dc078ad91f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250903T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20250903T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:8b60f67ff57df31f6b8eb520530f41f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260430T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260430T060000Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:718ac553cb13a506452dd236c49caaa4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20250923T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20250923T100000Z
+SUMMARY:ЛК Социология
+UID:c5c5842ad1ee7e5bb8b8ff8cba7bece2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260317T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260317T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:7c21e0f47bd0a91004d6edfc459e28c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T164500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251201T151500Z
+SUMMARY:ЛР Системы механического оборудования
+UID:64119f9eeeeaacac7155576ab6e212c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251125T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251125T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:a7888c312327f8cc6fabb85a2e049873
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251118T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251118T114500Z
+SUMMARY:ПЗ Социология
+UID:ea05ff439f2f94f1477a1fe8a6c80dcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251129T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251129T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:618b8a3dadb65e6db6464a5e4931f710
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251224T074500Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:3c95141532ae891756abe5be9763ebb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260210T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260210T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:52f3aaf9f6f27f067d7e22f82c160706
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260305T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260305T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:6c6f81fe0cc0122fcc87e2ae95774789
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251003T131500Z
+LOCATION:3-258
+DTSTART:20251003T114500Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:76ef0b5fdefb202edc0447192d5042fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260210T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260210T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:edf9835baac7c50f142a5ca3e104bfcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251225T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:79866217283ee61490cb9838459ad0cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251129T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251129T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:3beacddda7ef73166cce445a542574f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20250905T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20250905T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:182b93a4bf0073009f7ace05edbb036a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260421T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260421T074500Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:053eb15091b98a6a4ff1b5f78acf69e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20250905T073000Z
+LOCATION:2-214(2В)
+DTSTART:20250905T060000Z
+SUMMARY:ЛК Силовая установка
+UID:f4667511e2a6259216a9b3cc17f03739
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260326T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:6effd4c1ed92f10a86e9fcfc393bf094
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260220T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260220T133000Z
+SUMMARY:ЛК НИРС
+UID:856138225f2ea9db47fca3ae7f550679
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251209T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251209T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:d12102aa25d8db1eeaa7b33611076de8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260416T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260416T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:861f32f13b11dade56276fd943a7f34d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260305T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260305T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:0ebabc12e48c1930999572848a5eeaaa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20250911T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:5bc20433c9ba33f44a629fd123542e9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251203T060000Z
+SUMMARY:ЛР Моделирование инженерных задач
+UID:b491960a0aadbda56dd52fab50d59ec7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260312T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260312T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:9648dbcbae209f8ae9a3a6a1704a5560
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20250930T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250930T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:2e5d748964f61545e1bd1f9fcce815d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251112T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:059eed4d58e741a9564d303b947fdcaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251120T091500Z
+LOCATION:3-314
+DTSTART:20251120T074500Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:77f9c57e912793417e2e0af237360055
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250916T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20250916T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:cf682a6fdc1e81c13af1b301e5d8184c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251021T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251021T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:e90ec7230a25a07452a4d5a4ee926737
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260227T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260227T114500Z
+SUMMARY:ЛК НИРС
+UID:e4f4422a554a61e359dceb7ede55d3cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260424T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260424T133000Z
+SUMMARY:ЛР НИРС
+UID:2ab03cd976b422cd56ec010138079f29
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260417T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260417T114500Z
+SUMMARY:ЛР НИРС
+UID:80cb85a4d592a1e3705a80e9b00aa7f0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251006T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:b1b7b62c60e6581ab4a35c70d92b6339
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260519T073000Z
+LOCATION:1-2 ангар
+DTSTART:20260519T060000Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:d24f32c5b30f9fedd41f810569210789
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20250904T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:c4e58b774e4faa432291c995c863aadf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260416T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260416T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:c0ff8c675b31b68360ce7cde8f438f31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20250905T113000Z
+LOCATION:3-258
+DTSTART:20250905T100000Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:27a472de4491bb810e9e857bcb98bdbd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260325T150000Z
+LOCATION:7-510
+DTSTART:20260325T133000Z
+SUMMARY:ПЗ Управление качеством
+UID:75b81fbaaf1d54d0a81ca12c640f7991
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251024T113000Z
+LOCATION:2-215(2В)
+DTSTART:20251024T100000Z
+SUMMARY:ЛР Силовая установка
+UID:9af5d6170669bf1e094aebe275ed2b6c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251001T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:e875239275598f2282c63edeb6c32f8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251010T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251010T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:8d750de830b3dc7052607f0b629d5fdf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251121T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251121T114500Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:109ae0fc7fc516f8b1ad4046556c2b66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260312T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260312T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:8cb852507d3e24addfc18233737fd2a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20250909T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250909T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:4769baaf990f4d82c17838a79b47b090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260507T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260507T100000Z
+SUMMARY:ЛР Проектирование самолетов
+UID:a5842ccf5f4463678987102553a2972d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260428T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:470e23896cf662f65d12778045abad0e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20250929T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:289bceab162f2430687c708cd4111628
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260507T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260507T114500Z
+SUMMARY:ЛР Проектирование самолетов
+UID:dc21ae5bef4ff21509200f73eb071675
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251206T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251206T074500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:b76039c8346e9625cbe35e15e468fa05
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251126T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:8bbfd635441d0bcd3e466d567a569b32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251213T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251213T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:1dba9c76cfaa3ee5994de95e66fd6d56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260217T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260217T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:fe99edd77d51da46454e0cfaad3c50ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20250905T131500Z
+LOCATION:3-258
+DTSTART:20250905T114500Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:1a51d8523015b9029f0fd0099c550755
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260514T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260514T100000Z
+SUMMARY:ЛР Проектирование самолетов
+UID:892e8051b33920ee2a64d66adecdfcaa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20251211T073000Z
 LOCATION:3-269
@@ -1671,20 +2095,766 @@ SUMMARY:ЛР Электротехника и электроника
 UID:67a755caef4183ed4dd6654a06ed1b34
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251003T113000Z
-LOCATION:3-258
-DTSTART:20251003T100000Z
-SUMMARY:ЛК Системы приборного оборудования
-UID:75cc635091d2280dd376979a50753d10
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260402T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260402T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:8e50f8debe596bd3c541856976af1bc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251219T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251219T100000Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:f7605739b5f34dcda6198f0f3056f46d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251028T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251028T060000Z
+SUMMARY:ПЗ Электротехника и электроника
+UID:e79939e819840d9b15c305a6f249ad37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251014T113000Z
+DTEND:20250916T131500Z
 LOCATION:ГУК В-701-и
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:90daaa03e615600b4a5a02bca013747e
+DTSTART:20250916T114500Z
+SUMMARY:ПЗ Основы менеджмента
+UID:a9ce84c087e24f39455b31e22a6345cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T164500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251020T151500Z
+SUMMARY:ЛР Системы механического оборудования
+UID:b04c37484bf30f97d044bf9bf538a863
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260409T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:0654aee071e483c599d9565aa57f1372
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260522T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260522T114500Z
+SUMMARY:ЛР НИРС
+UID:dfad2806d45eed9c7881fa2617bbe011
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251206T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251206T060000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:115558ad1ebb2529e026cbd7459928df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260325T131500Z
+LOCATION:7-510
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Управление качеством
+UID:cbf9e9d3c438c16339674b5765822aaf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20250930T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20250930T060000Z
+SUMMARY:ПЗ Электротехника и электроника
+UID:4d11f7aab21787aa3ce28a9f1694f7b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260519T091500Z
+LOCATION:1-2 ангар
+DTSTART:20260519T074500Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:0927d6234035c19b9c31c8ef2ed8952a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260211T113000Z
+LOCATION:7-510
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Управление качеством
+UID:d318a702c74d639b154794f68e5d7554
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260409T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260409T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:39d7d742281729e89d9d58909e4d9f7d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260403T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20260403T114500Z
+SUMMARY:ЛК НИРС
+UID:a7214b58577a786d1264a47c554dba7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260319T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:4a9a302659b198ff5f784f484f82007b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251017T113000Z
+LOCATION:3-258
+DTSTART:20251017T100000Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:deccbc0e2d40ce18b4ef8f9ced39d5f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251023T100000Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:0ddccfbd6ec279ebc5e9b22a275ee70f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260324T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260324T060000Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:04f6917642fade44d91492f5f7337ac6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251208T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251208T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:55074ba444e645cfd2db3e6b030d6e4d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250929T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:6e4927ab05ba2ba406e0b366f1a86e40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251028T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20251028T074500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:95331ef8782bd80112946a75b1a67b79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251031T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251031T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:6102a530fb956cf852e3b5f87c7df4ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250908T164500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250908T151500Z
+SUMMARY:ЛР Системы механического оборудования
+UID:29b4e159396fb98f3825c3ff295a5416
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260219T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260219T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:939bb0e8b7aa4c4fd42ec7cd89fcbc13
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251029T074500Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:1b99005643b0216bf2463bf1e7f4c170
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T150000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251225T133000Z
+SUMMARY:ПЗ Конструирование агрегатов планера
+UID:d41a2f480e66721d3f66b11bc99adee4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260428T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260428T074500Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:ffffa3759deb81a8ecdd8caa294f8515
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250922T150000Z
+LOCATION:ГУК В-702-и
+DTSTART:20250922T133000Z
+SUMMARY:ЛР Системы механического оборудования
+UID:0c032350c42b2fee4ed3cd03362e953c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260319T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260319T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:0f2afecd7ecec17fdd34fb00daf0eb18
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251015T074500Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:c062fc4b2253044959706f4053248c33
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20250915T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:6ef8284ace91372e53e94e80872d03c1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251222T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:4ff2ea07bc9998fe2e6f191652abeaff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251021T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251021T100000Z
+SUMMARY:ЛК Социология
+UID:da3b9166df2771d96b8066d54cc35ff6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251227T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251227T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:3288aea96d5084551126d37e8bb4a499
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251105T060000Z
+SUMMARY:ЛР Моделирование инженерных задач
+UID:0bf670cf0e023d0f91ac0a16bafcd92c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Духновский Денис Аскольдович
+DTEND:20260115T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260115T100000Z
+SUMMARY:Экзамен Конструирование агрегатов планера
+UID:ffa03391b7658629a14a5ead75ebdbb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251211T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:774ad8745f9e747575da6c36abba2b5f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251106T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:b9b4dc1fc94b9e018c5d2188356a25cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T150000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251006T133000Z
+SUMMARY:ЛР Системы механического оборудования
+UID:c89627dae18174f44390e9fa9d8c8064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251219T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251219T060000Z
+SUMMARY:ЛК Силовая установка
+UID:46acb7bbd0695e3d83b9c15ae3c3e4e5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251115T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251115T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:6a588b744f11557f5de13489719b2118
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251107T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251107T114500Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:ef026fd5c930c4e83df4caba69f8a0ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260317T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20260317T074500Z
+SUMMARY:ЛК Эксплуатационная технологичность и надежность
+UID:a155d2436581413c1840feb3e73c15ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251107T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251107T060000Z
+SUMMARY:ЛК Силовая установка
+UID:e34283f5cfdd3ce5efd45f61230adede
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20251007T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251007T100000Z
+SUMMARY:ЛК Социология
+UID:459fd96f3dbf9d5cc475b5e091c9fc55
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20250920T074500Z
+SUMMARY:ПЗ Технология производства самолетов (вертолетов)
+UID:dee2f3482feb16f01944d171ff686fbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20250912T131500Z
+LOCATION:2-215(2В)
+DTSTART:20250912T114500Z
+SUMMARY:ЛР Силовая установка
+UID:a3836fde5df076408ce16b555a677f45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251114T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251114T060000Z
+SUMMARY:ЛК Силовая установка
+UID:15c31c0d3f3710105dae3fd8be3ab54c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20250911T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:df103350548b21f3fb1125b4906ec3a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20251126T074500Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:710474a3723d5975e35e9bc709a6397c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260306T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260306T133000Z
+SUMMARY:ЛК НИРС
+UID:a56a82ed8396e10994929cfc301d2a80
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251016T114500Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:a97abc62260b52a03bacf6db9a01512a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251024T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251024T060000Z
+SUMMARY:ЛК Силовая установка
+UID:54cb8ca789735d0d2594f594590c0363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251121T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251121T100000Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:7b783a0ce1849ad359aecbf8f0a48662
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251122T060000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:23f86ecf8c860fdaca6c9f1a44b80855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260512T073000Z
+LOCATION:1-2 ангар
+DTSTART:20260512T060000Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:fdc6261703d4b04ab824d84b13844ac2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251003T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251003T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:d03b8c24835ecc0007d513a81ee0bae4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251127T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:3d4e603d9c74d5f663feb2ef10248b98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251205T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251205T100000Z
+SUMMARY:ЛР Сертификация авиационной техники
+UID:ac21528f7604ea6a2cdb51d7fc754ba1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260305T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260305T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:754d6ec90c32d3c4ce22fb7bb1bace32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251122T074500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:49f04ea8b23a2abf9ab022a7ea67aa92
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260521T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260521T100000Z
+SUMMARY:ЛР Проектирование самолетов
+UID:23befa6d28b8b2f7127309df1d23933b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T113000Z
+LOCATION:ГУК В-705-и
+DTSTART:20251113T100000Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:f1ba247c825677e8bb479ade8eec7ab8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20250920T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:14055c0b5dcc064e2ec630d2c607362b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20251031T131500Z
+LOCATION:3-258
+DTSTART:20251031T114500Z
+SUMMARY:ЛК Системы приборного оборудования
+UID:a84e6e80a3afd13c6db7b42e51377410
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260212T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260212T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:0a6e8345264156022bbf8da773482307
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260421T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20260421T060000Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:19a5888e72b58ae6c8397916e47aa5c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260422T131500Z
+LOCATION:7-510
+DTSTART:20260422T114500Z
+SUMMARY:ЛР Управление качеством
+UID:319724824690753babfcc8aa7567ac1f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251124T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:176a823e6e18c6fe15661a7720f5b039
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260325T113000Z
+LOCATION:7-510
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Управление качеством
+UID:61fe97cc141d584c7380c71778693a4c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260515T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260515T133000Z
+SUMMARY:ЛР НИРС
+UID:0cf7db24563d548f7da4f175815d1c7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251107T091500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251107T074500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:27263f2dbaf80907efb203c16ece54a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251027T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:e2c06d91eb8646800208e81186027a03
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20250925T114500Z
+SUMMARY:ЛР Конструирование агрегатов планера
+UID:748e899040fcad8bcef7997852e7f4b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260506T131500Z
+LOCATION:7-510
+DTSTART:20260506T114500Z
+SUMMARY:ЛР Управление качеством
+UID:90817296b605057a32ca4ce925a8fa3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260211T131500Z
+LOCATION:7-510
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Управление качеством
+UID:b327ec7b8b0da85856b416bc70c75658
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251030T091500Z
+LOCATION:3-269
+DTSTART:20251030T074500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:a5b5d43601b3577f12be21f637cc65b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260212T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260212T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:9c3a102be2eaeb56b9943f73940b912c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251125T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20251125T060000Z
+SUMMARY:ПЗ Электротехника и электроника
+UID:38a1722f3b6c93cab2aad3d432411264
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251108T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251108T060000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:d3a90219f11971b306a5c02b82e66bd3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260512T091500Z
+LOCATION:1-2 ангар
+DTSTART:20260512T074500Z
+SUMMARY:ЛР Эксплуатационная технологичность и надежность
+UID:3a35bd9d2268480e7a3205077a9b3475
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251029T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:d5caa4834b4bb6ed822bb64fb235f23a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260402T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260402T060000Z
+SUMMARY:ЛК Конструирование шасси и СУ
+UID:45fcd2e7eacd19e925c56dd5db3cc00d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T131500Z
+LOCATION:ГУК В-705-и
+DTSTART:20251127T114500Z
+SUMMARY:ЛК Конструирование агрегатов планера
+UID:4992c6a2b21b834897fef38779b65517
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260507T091500Z
+LOCATION:1-23  ангар
+DTSTART:20260507T074500Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:c8ca167eaa6cbef76840f1d93befc4fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T113000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251110T100000Z
+SUMMARY:ЛК Системы механического оборудования
+UID:d2e043298072c136aed8c7a37df14c71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковтунов Сергей Сергеевич
+DTEND:20260514T073000Z
+LOCATION:1-23  ангар
+DTSTART:20260514T060000Z
+SUMMARY:ЛР Конструирование шасси и СУ
+UID:208e41f1cce77f50281012e33d03797e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родионов Алексей Васильевич
+DTEND:20251205T073000Z
+LOCATION:2-214(2В)
+DTSTART:20251205T060000Z
+SUMMARY:ЛК Силовая установка
+UID:65a35c1f4541516565506e1b35cb0ad8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251113T073000Z
+LOCATION:3-269
+DTSTART:20251113T060000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:8681e22043c50c7d7c1be1cc3cc77695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Галина Юрьевна (осн.)
+DTEND:20260603T131500Z
+LOCATION:7-510
+DTSTART:20260603T114500Z
+SUMMARY:ЛР Управление качеством
+UID:e95b1a8d7c97c42ddaef16e875ff4724
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20251113T091500Z
+LOCATION:3-269
+DTSTART:20251113T074500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:22a84fab788b9ffb25e6af334e1486ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251220T091500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251220T074500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:dd0987338b519997c4776aa87449186d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260430T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260430T114500Z
+SUMMARY:ЛР Проектирование самолетов
+UID:5955648a370a078436ac81f5fe0a5da4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Южанин Максим Александрович
+DTEND:20250909T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20250909T114500Z
+SUMMARY:ПЗ Социология
+UID:0a3d90bc63615406ed3b0c6fc700a608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260226T131500Z
+LOCATION:1-23  ангар
+DTSTART:20260226T114500Z
+SUMMARY:ЛК Проектирование самолетов
+UID:5441ae484bf8d0940a11da572fae6309
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T073000Z
+LOCATION:ГУК В-704-и
+DTSTART:20251210T060000Z
+SUMMARY:ЛК Моделирование инженерных задач
+UID:a8aece1855952e442b3dfac1541237a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260227T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260227T133000Z
+SUMMARY:ЛК НИРС
+UID:32850f04be93c050fb3ba0a05a75ae67
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251213T073000Z
+LOCATION:ГУК В-702-и
+DTSTART:20251213T060000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:610b4c04e69a67709b70d95c35a296ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T131500Z
+LOCATION:ГУК В-702-и
+DTSTART:20251013T114500Z
+SUMMARY:ЛК Системы механического оборудования
+UID:d5fad415a221c1721d70f528bc7f22d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Птицына Анастасия Дмитриевна
+DTEND:20260403T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20260403T133000Z
+SUMMARY:ЛК НИРС
+UID:2450f7a34edc50cae44d4c5c8a6f4608
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T131500Z
@@ -1700,13 +2870,6 @@ LOCATION:3-258
 DTSTART:20251226T114500Z
 SUMMARY:ЛР Системы приборного оборудования
 UID:cab806d6bd48138e44ef25afd901ecc6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251227T060000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:3288aea96d5084551126d37e8bb4a499
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T131500Z
@@ -1738,27 +2901,11 @@ SUMMARY:ЛК Конструирование агрегатов планера
 UID:1ee43ec144555b2245164eecee2bd3d6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251219T113000Z
-LOCATION:ГУК В-705-и
-DTSTART:20251219T100000Z
-SUMMARY:ЛР Сертификация авиационной техники
-UID:f7605739b5f34dcda6198f0f3056f46d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:ГУК В-704-и
 DTSTART:20251203T074500Z
 SUMMARY:ЛР Моделирование инженерных задач
 UID:ba00bb6ff5cfdfe72daa8ed842a2f199
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251219T091500Z
-LOCATION:ГУК В-705-и
-DTSTART:20251219T074500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:c3cac104ef4e799d729ef21a157d18bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Южанин Максим Александрович
@@ -1776,34 +2923,12 @@ SUMMARY:ЛК Моделирование инженерных задач
 UID:6e0b3ff48519147694b8d0753236efd4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251028T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20251028T060000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:e79939e819840d9b15c305a6f249ad37
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250916T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20250916T114500Z
-SUMMARY:ПЗ Основы менеджмента
-UID:a9ce84c087e24f39455b31e22a6345cd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T131500Z
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260407T091500Z
 LOCATION:ГУК В-702-и
-DTSTART:20251110T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:d8dd53d464829fe699cdfe2cf9d87e45
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T164500Z
-LOCATION:ГУК В-702-и
-DTSTART:20251020T151500Z
-SUMMARY:ЛР Системы механического оборудования
-UID:b04c37484bf30f97d044bf9bf538a863
+DTSTART:20260407T074500Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:31278c2414308bd8dc5f8eabc2935c9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -1814,27 +2939,20 @@ SUMMARY:ЛК Силовая установка
 UID:bc116e5ec451902129dd7e35a6f6d9d1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20251114T131500Z
-LOCATION:3-258
-DTSTART:20251114T114500Z
-SUMMARY:ЛР Системы приборного оборудования
-UID:acf1a5c7560b2401815ecc2eae3ea34e
+DESCRIPTION:Коваль Станислав Михайлович
+DTEND:20260212T113000Z
+LOCATION:1-23  ангар
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Проектирование самолетов
+UID:4d3ed633bf84cb7f59dec9a85cb918b5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T131500Z
+DESCRIPTION:Константинов Илья Алексеевич
+DTEND:20260414T073000Z
 LOCATION:ГУК В-702-и
-DTSTART:20251117T114500Z
-SUMMARY:ЛК Системы механического оборудования
-UID:38e3567dab373112fa3aceb68aed5604
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ордоньез Лазарев Анатолий Экторович
-DTEND:20260119T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20260119T100000Z
-SUMMARY:Экзамен Системы механического оборудования
-UID:363d5633cda03ec360b63709c37414f4
+DTSTART:20260414T060000Z
+SUMMARY:ПЗ Эксплуатационная технологичность и надежность
+UID:622dab7cee8c2d0c810b8061f2e94dd3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родионов Алексей Васильевич
@@ -1843,13 +2961,6 @@ LOCATION:2-215(2В)
 DTSTART:20250926T114500Z
 SUMMARY:ЛР Силовая установка
 UID:b3802d2063e2050ca8080bd9726e9dd8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T113000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Системы механического оборудования
-UID:e0d2ab0d4518409ec66f36065cebb8b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -1868,25 +2979,10 @@ SUMMARY:ЛК Социология
 UID:6a23570174521638d52af95daa673db8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T073000Z
-LOCATION:ГУК В-702-и
-DTSTART:20251206T060000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:115558ad1ebb2529e026cbd7459928df
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251018T091500Z
 LOCATION:ГУК В-702-и
 DTSTART:20251018T074500Z
 SUMMARY:ПЗ Технология производства самолетов (вертолетов)
 UID:42eeb896f668114351971505484ecf35
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родионов Алексей Васильевич
-DTEND:20251121T073000Z
-LOCATION:2-214(2В)
-DTSTART:20251121T060000Z
-SUMMARY:ЛК Силовая установка
-UID:051a87c7f1ef67513db5b213304984db
 END:VEVENT
 END:VCALENDAR

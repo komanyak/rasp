@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260306T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260306T074500Z
+SUMMARY:ПЗ Общая физика
+UID:94871c17a874c670c37c6984d1e049bb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T113000Z
 LOCATION:Орш. А-101
 DTSTART:20251024T100000Z
@@ -14,6 +21,14 @@ LOCATION:--стадион
 DTSTART:20251224T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:22da41f5ee75390476fff50c5f70c52e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260407T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260407T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:0a78ca97a5213ffdebafde1338502721
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -30,6 +45,13 @@ LOCATION:Орш. В-301
 DTSTART:20251030T074500Z
 SUMMARY:ЛК Математический анализ
 UID:9dbf6ccae5bc34b982c6d1e637a5e816
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260313T074500Z
+SUMMARY:ПЗ Общая физика
+UID:83ee99b64409e881dfb0e98c0e0e39e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -54,6 +76,29 @@ LOCATION:Орш. В-601
 DTSTART:20251209T151500Z
 SUMMARY:ЛР Общая физика
 UID:496265b3a1c3cf7e3d17c56b46ff302f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260317T091500Z
+LOCATION:Орш. В-301
+DTSTART:20260317T074500Z
+SUMMARY:ЛК Химия
+UID:fc459538b1152fafe3405bded4746ce4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260218T113000Z
+LOCATION:5-001
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Правоведение
+UID:cfd21d39d42ae9de48f0e3bb7db8f9ac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:78f9b4ea9971dba3a1f60dd006ca7836
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T113000Z
@@ -87,6 +132,14 @@ SUMMARY:ЛР Информатика
 UID:d404eef90ac1132c74086c91b31d3b1b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260317T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260317T100000Z
+SUMMARY:ПЗ История России
+UID:66336be7d2c242aed78a392acc993967
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
 DTEND:20251030T113000Z
 LOCATION:Орш. В-201
@@ -103,6 +156,46 @@ SUMMARY:ЛК Экономическая теория
 UID:d635f275b4bd2fabc73affa4649a3b33
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260228T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Философия
+UID:c563dd73b351c54aab6797e07e11ad72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260508T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260508T060000Z
+SUMMARY:ЛК Общая физика
+UID:dfd4d132df94d9018eae2b2de38099ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260224T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260224T100000Z
+SUMMARY:ПЗ Философия
+UID:8a36662a4ad45609effcdcb486dc618c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260429T113000Z
+LOCATION:5-001
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Правоведение
+UID:1391dfdaaab592f21f5c40dfd79483b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260328T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Философия
+UID:093602b15b31795e1b59776e135e8abe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20260120T113000Z
 LOCATION:Орш. А-218
@@ -111,12 +204,28 @@ SUMMARY:Экзамен Информатика
 UID:8a66b0a9d48b2c7b6da0644dc866cf28
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260417T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260417T060000Z
+SUMMARY:ЛК Общая физика
+UID:c7a375f0ca76281c2ba5491d4222fe32
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
 DTEND:20251023T113000Z
 LOCATION:Орш. В-201
 DTSTART:20251023T100000Z
 SUMMARY:ПЗ Математический анализ
 UID:b41216353cc502fe5b5e1e954e8dd9d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260303T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260303T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:cd01c5611e54b8356f69593ae3fdd205
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -149,6 +258,14 @@ SUMMARY:ЛР Информатика
 UID:34239f3b8d354e137c47735a1fdba2bb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260526T091500Z
+LOCATION:Орш. В-619
+DTSTART:20260526T074500Z
+SUMMARY:ПЗ Химия
+UID:80df46bee4fdf048a65c7a77dc8580bb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20250912T091500Z
 LOCATION:Орш. В-506
@@ -165,6 +282,13 @@ SUMMARY:ЛК Математический анализ
 UID:3d85d15ec20ede15ed7946acf1eae310
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a27554de1c5154643551828ab245ffcc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251018T091500Z
 LOCATION:Орш. В-313
@@ -173,11 +297,41 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:8f9c4349ff79616227c7dc4598088c2b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260404T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260404T100000Z
+SUMMARY:ЛК История России
+UID:27b7ea43fb11d9e22275daf8b388cad5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260409T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:1d9121eeebb35005ed593030303a14d7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251110T131500Z
 LOCATION:Орш. А-527
 DTSTART:20251110T114500Z
 SUMMARY:ПЗ Начертательная геометрия
 UID:30f6a72473f40d07f009ff104b7755cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260417T074500Z
+SUMMARY:ПЗ Общая физика
+UID:376a9699427d7e593d9799b2428eb43a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:Орш. В-606
+DTSTART:20260422T100000Z
+SUMMARY:ЛР Общая физика
+UID:51154eaced0faa879a612d0017e14902
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
@@ -211,6 +365,30 @@ SUMMARY:ЛК Информатика
 UID:e5f1b214faa5fc5475cf57ce96fce181
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260514T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260514T114500Z
+SUMMARY:ЛК Математический анализ
+UID:0fdb0904e054f60324c5a41fe1db1e2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260321T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260321T074500Z
+SUMMARY:ЛК Философия
+UID:7018d4f100d222b6b0bad23f5d08cdb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260312T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260312T114500Z
+SUMMARY:ЛК Математический анализ
+UID:ed77c082f1df023237158b78a90336fd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20251020T113000Z
 LOCATION:Орш. А-223
@@ -219,12 +397,43 @@ SUMMARY:ЛР Информатика
 UID:2dc5217d089a23e30e1faa599feb7288
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260505T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260505T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:3db4c85dcb40878e6a4c0d24245f88c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260327T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260327T060000Z
+SUMMARY:ЛК Общая физика
+UID:3ef9bee276171e359543ea393149ed3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260310T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260310T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:1123ee00e57649ccc38814f29f754740
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20250903T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20250903T100000Z
 SUMMARY:ЛК Общая физика
 UID:464bd1ce5f5e6c2f3df60da163b2115d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T131500Z
+LOCATION:--стадион
+DTSTART:20260403T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:05872430378766cc24a63edc6873197b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T113000Z
@@ -242,6 +451,22 @@ SUMMARY:ЛК Математический анализ
 UID:e9d2b7e839eba7bfc062d1579a6d5285
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260224T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260224T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:3666c8e8b1d9c603bd66cba81d8f44ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260511T150000Z
+LOCATION:Орш. В-608
+DTSTART:20260511T133000Z
+SUMMARY:ЛР Химия
+UID:684ec093e591c7ea3a9bffafce8ade28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20251023T131500Z
 LOCATION:Орш. А-101
@@ -250,12 +475,28 @@ SUMMARY:ЛК История России
 UID:4c74800741f25036b4c57688e98507a6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260407T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260407T100000Z
+SUMMARY:ПЗ История России
+UID:c2dbac363676ef7b00a04b3a77faab39
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20251007T113000Z
 LOCATION:Орш. Б-303
 DTSTART:20251007T100000Z
 SUMMARY:ЛК Информатика
 UID:3fc2523c1975eafb8c41317a83fb7049
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260418T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260418T074500Z
+SUMMARY:ЛК Философия
+UID:8119d1d5fd8dd92edcb5b363c595fa0b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250927T113000Z
@@ -273,12 +514,35 @@ SUMMARY:ПЗ Общая физика
 UID:13792a94547e2a20701aebdb0c006fdc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260324T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260324T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:c5145c5e06d85bd799a543d46d819419
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260321T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260321T100000Z
+SUMMARY:ЛК История России
+UID:cd3eba48550358b81ff992c9a0c47c64
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20251204T131500Z
 LOCATION:Орш. А-101
 DTSTART:20251204T114500Z
 SUMMARY:ЛК История России
 UID:4eb05d5b40c61a78d0e7c4dca4ff21dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:--стадион
+DTSTART:20260320T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ec9f154c5a65cb147fe70fa334a30f92
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T113000Z
@@ -296,11 +560,25 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:433816e43b23a10760133d88857ce881
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:--стадион
+DTSTART:20260220T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b5ba46430d8f822bfc34d3a77e7c43bd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251031T131500Z
 LOCATION:Орш. В-608
 DTSTART:20251031T114500Z
 SUMMARY:ПЗ Химия
 UID:737341ba5307a00746ae88f8a01fd9d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260220T074500Z
+SUMMARY:ПЗ Общая физика
+UID:bcab9d0747a81aefc5d128e37fad3284
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T113000Z
@@ -326,6 +604,22 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:146972113294e80c92961ccb3528aa31
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260402T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:b2528c28b9c44aff61a6ab06ea6bfd7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260604T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260604T074500Z
+SUMMARY:ПЗ Введение в медицинскую технику
+UID:bad9cb62cf844ba885bde23c9ba0d094
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20251127T131500Z
 LOCATION:Орш. А-101
@@ -340,6 +634,14 @@ LOCATION:Орш. В-101
 DTSTART:20251219T114500Z
 SUMMARY:ЛК Экономическая теория
 UID:5ccdfb9abe426ce4da1f3dee02a141b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260307T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260307T100000Z
+SUMMARY:ЛК История России
+UID:95394e1a6bfdc9fcba2f55a8ad1ce02b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -358,6 +660,13 @@ SUMMARY:ЛР Информатика
 UID:d3de9301b299b876338a3fdf3114eb32
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260530T073000Z
+LOCATION:--стадион
+DTSTART:20260530T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4c691d7e9ce8820dd0f7706d6440518b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
 DTEND:20251117T164500Z
 LOCATION:Орш. Б-610
@@ -371,6 +680,21 @@ LOCATION:Орш. В-608
 DTSTART:20250919T114500Z
 SUMMARY:ПЗ Химия
 UID:6ab40b5aece23a908d73891ea9657404
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260515T074500Z
+SUMMARY:ПЗ Общая физика
+UID:98700c468e9429b5207e34c3622e35d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260414T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260414T100000Z
+SUMMARY:ПЗ История России
+UID:f7410485525968378a2d741a9647a101
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -389,11 +713,65 @@ SUMMARY:ПЗ Иностранный язык
 UID:88c1d2bb54100417ad145fed95ff82af
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260403T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260403T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:70f517b1215aff4848777e20cc7c2ee8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260212T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260212T114500Z
+SUMMARY:ЛК Математический анализ
+UID:53cb511fa847306651a735af13be339b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260519T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260519T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:1d6fe8868e58d3009f44703bf0cd98d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260305T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260305T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:59a2a704013093729050977d253a202c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260411T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Философия
+UID:5f1fde6adf920f58a3af93eaa7d2dfd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c1bf358b3753bbe7a7e54a325557bc61
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251021T150000Z
 LOCATION:Орш. А-223
 DTSTART:20251021T133000Z
 SUMMARY:ЛР Информатика
 UID:815514c379bcfa8ebd87aea11965da4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:--стадион
+DTSTART:20260424T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:3e582ef2c3641adef3cd414bb79fa41d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -404,12 +782,28 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:36108b021ba718de2df518a530863949
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260402T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260402T114500Z
+SUMMARY:ЛК Математический анализ
+UID:89a732b421208525b369a434811bf08e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251205T131500Z
 LOCATION:Орш. В-101
 DTSTART:20251205T114500Z
 SUMMARY:ЛК Экономическая теория
 UID:971c3914ac784fc9188af25aed539daa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260212T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260212T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:3d57f4c967d66e93eaa48d372027d8fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -444,6 +838,14 @@ SUMMARY:ПЗ Общая физика
 UID:d315a5968f566035451d05cff1523236
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260508T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:1f2569a2f8c337ecb151fbec66d930b0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20251111T164500Z
 LOCATION:Орш. В-303
@@ -452,11 +854,34 @@ SUMMARY:ЛР Общая физика
 UID:1d3f9d278703821870c04160f1a3e6e6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c7fc68a7fabf552371499488dab1be16
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251115T113000Z
 LOCATION:--стадион
 DTSTART:20251115T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:a14ae54a547c7c006c5927c37d7b834e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260404T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260404T074500Z
+SUMMARY:ЛК Философия
+UID:6dfc9ef30a721fb5f6cfe0dd38a3a919
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260522T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260522T060000Z
+SUMMARY:ЛК Общая физика
+UID:0a6d90ae58b484632598bf552fcee116
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -491,6 +916,14 @@ SUMMARY:ЛК История России
 UID:1b7d3aa87b9eaa5e4071c981ab0f5632
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260413T164500Z
+LOCATION:Орш. В-608
+DTSTART:20260413T151500Z
+SUMMARY:ЛР Химия
+UID:69f5e61e2aaa782efd31a668cf14f9b9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
 DTEND:20251101T073000Z
 LOCATION:Орш. В-402
@@ -520,6 +953,14 @@ LOCATION:Орш. А-223
 DTSTART:20250923T114500Z
 SUMMARY:ЛР Информатика
 UID:8cc5779a7476fc287d70982618a253f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260318T091500Z
+LOCATION:5-101
+DTSTART:20260318T074500Z
+SUMMARY:ЛК Правоведение
+UID:8f4ce3b349bf448d5189f62edf660c35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T091500Z
@@ -553,6 +994,14 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:eb28b6123cb868a4eda76422e731dcff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260218T091500Z
+LOCATION:5-101
+DTSTART:20260218T074500Z
+SUMMARY:ЛК Правоведение
+UID:15f6702f488d103ce3daed962b657f98
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250917T091500Z
 LOCATION:--стадион
 DTSTART:20250917T074500Z
@@ -580,6 +1029,13 @@ LOCATION:1-23  ангар
 DTSTART:20251202T060000Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:450900197051083276c6a0add26d2fd4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260424T074500Z
+SUMMARY:ПЗ Общая физика
+UID:9cce96a5cf932fb50eb4bd64c72ddca0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -613,6 +1069,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:032813b463499e131ce1c91e8c9af853
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260603T091500Z
+LOCATION:Орш. В-211
+DTSTART:20260603T074500Z
+SUMMARY:ЛР Теоретическая механика
+UID:170e1eb3e1cf5d9fcb4fb9b685abc2a6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20251021T113000Z
 LOCATION:Орш. Б-303
@@ -627,6 +1091,22 @@ LOCATION:Орш. В-313
 DTSTART:20251227T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:bd07877780ed2fbe52d5d8496d6359b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260303T091500Z
+LOCATION:Орш. В-301
+DTSTART:20260303T074500Z
+SUMMARY:ЛК Химия
+UID:58147b5111e41a0c55ea5a8b0a8f8974
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260304T091500Z
+LOCATION:5-101
+DTSTART:20260304T074500Z
+SUMMARY:ЛК Правоведение
+UID:86e7412d07f004126ac1c4285a5d9037
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -660,6 +1140,21 @@ SUMMARY:ПЗ Физическая культура
 UID:2b274f327fc1a420e35e8d48e3dfda17
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:--стадион
+DTSTART:20260417T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:acb5042eb6a73426e837c055d5423442
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260417T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260417T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:aa0f25e08c804f6a5acd3cc048d53564
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
 DTEND:20251004T073000Z
 LOCATION:Орш. В-402
@@ -691,6 +1186,21 @@ SUMMARY:ПЗ История России
 UID:2253aa74a574c7109e15bb611e828e77
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260210T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260210T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:fe6ddcba3714ca755addbd12be2f929a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:--стадион
+DTSTART:20260515T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:64169d519958dc69d5d86ad0dbaf9062
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251010T091500Z
 LOCATION:Орш. В-506
@@ -714,6 +1224,22 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:46fb13091fcb75f069a866a278db8e0e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260415T113000Z
+LOCATION:5-001
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Правоведение
+UID:a97b383611bb621d0ddfae3641192197
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260519T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260519T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:1684181648a86f9632316919a18bf4b6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20250925T131500Z
 LOCATION:Орш. А-101
@@ -730,12 +1256,28 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a2759c11960f0ebcd7975ddc87b4f45c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260421T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260421T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:c70f8a5040363e9f775b3c91f19b3716
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20251001T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20251001T100000Z
 SUMMARY:ЛК Общая физика
 UID:df37f01ebfac2283b0fd1508f99fea20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260214T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Философия
+UID:cfaa20925f2dbd38317e78552421e562
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -784,12 +1326,28 @@ SUMMARY:ЛР Информатика
 UID:1dc60c9c960ca55ebf66b7f8e7e1dc0e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260421T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260421T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:b03b064dab821ba93b0495eab80166e7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20251202T131500Z
 LOCATION:Орш. А-223
 DTSTART:20251202T114500Z
 SUMMARY:ЛР Информатика
 UID:95647eb1dbb17bf1137bd41a1bffd22c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260328T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260328T100000Z
+SUMMARY:ЛК История России
+UID:118899d8897dced791478c950e16bb20
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T113000Z
@@ -799,12 +1357,43 @@ SUMMARY:ПЗ Химия
 UID:36aa88d12ef5cc781df424ffef3b63c1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260319T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260319T114500Z
+SUMMARY:ЛК Математический анализ
+UID:44d390e8bab3e0c7ba489c49dccb83c7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:Орш. В-314
+DTSTART:20260506T114500Z
+SUMMARY:ЛР Общая физика
+UID:908eb0492d31ef0e2a436f6ea1c9c221
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260527T091500Z
+LOCATION:5-101
+DTSTART:20260527T074500Z
+SUMMARY:ЛК Правоведение
+UID:39d3edb4fb0594cebb885f62e3d3c141
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20250926T131500Z
 LOCATION:Орш. В-101
 DTSTART:20250926T114500Z
 SUMMARY:ЛК Экономическая теория
 UID:10ec4175b1a2ef94b8a99bba3a6ed375
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260227T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260227T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:1ef897b2f3f8e6483af1a416417fd8fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -877,12 +1466,83 @@ SUMMARY:ПЗ Химия
 UID:cee1c196350343b0fd5d551a16f83d13
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260226T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260226T114500Z
+SUMMARY:ЛК Математический анализ
+UID:200af1cc1f2aef6778226b95ec1bd0a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260522T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:7796b0fbb1b5516952f0948d2656480f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260414T091500Z
+LOCATION:Орш. В-619
+DTSTART:20260414T074500Z
+SUMMARY:ПЗ Химия
+UID:c37eed1f7f1a0963bceab5e327597663
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260303T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260303T100000Z
+SUMMARY:ПЗ Философия
+UID:452e84fc77a88a124b589730e1794bec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260415T091500Z
+LOCATION:5-101
+DTSTART:20260415T074500Z
+SUMMARY:ЛК Правоведение
+UID:51a1e2a267d0b7544844a4549e5726dc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251213T091500Z
 LOCATION:Орш. В-313
 DTSTART:20251213T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:2413aff46a3a4d556f4e28f449835e70
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:Орш. В-314
+DTSTART:20260506T100000Z
+SUMMARY:ЛР Общая физика
+UID:ee2776d1e3c1e6c2a5ad045c6ac039fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260228T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260228T100000Z
+SUMMARY:ЛК История России
+UID:cd10a256ec788fdca03480ab8e77a29d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260507T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260507T114500Z
+SUMMARY:ЛК Математический анализ
+UID:1a3f55cf6eb16a434ede8a21791c584e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260529T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260529T060000Z
+SUMMARY:ЛК Общая физика
+UID:4ffb84550e635681fd0d594f38c1587a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T113000Z
@@ -915,6 +1575,14 @@ SUMMARY:ПЗ Начертательная геометрия
 UID:7aed14f976fd56e6ba3cdd1ff9b0fb71
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260307T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260307T074500Z
+SUMMARY:ЛК Философия
+UID:1f63b58a3d3eeee8ac1b3c27ea0d7f8e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
 DTEND:20251119T131500Z
 LOCATION:Орш. В-207
@@ -929,6 +1597,13 @@ LOCATION:Орш. Б-304
 DTSTART:20250924T100000Z
 SUMMARY:ЛК Общая физика
 UID:af132bb77b60a3f80badf22e0249eaf2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T073000Z
+LOCATION:--стадион
+DTSTART:20260425T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:75e6542e6a995488816dedf0765a6d1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
@@ -947,6 +1622,29 @@ SUMMARY:ЛК История России
 UID:bc7b6e91e3881cbd20824096175c3a5e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:--стадион
+DTSTART:20260313T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:4a1043c34a67ed741b2e074f7b5fa005
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260314T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260314T100000Z
+SUMMARY:ЛК История России
+UID:5e4d26e34ae63343a5afb9b5579a893c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260512T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260512T100000Z
+SUMMARY:ПЗ История России
+UID:698970ba09f5be7638c82ae81b475a83
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бабайцева Мария Владимировна
 DTEND:20251119T150000Z
 LOCATION:Орш. В-309
@@ -962,12 +1660,28 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:5108e456cdad8b1e87641798bea6753d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260331T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260331T100000Z
+SUMMARY:ПЗ История России
+UID:e7ad6aa642e057e825cf081aaf19b09a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
 DTEND:20251001T131500Z
 LOCATION:Орш. В-207
 DTSTART:20251001T114500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:c0ff5a72f3ef55d2913b3e0d19775ffc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260219T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260219T114500Z
+SUMMARY:ЛК Математический анализ
+UID:7793e3aa1f7e65781cb6f6c3dbe2464f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1032,11 +1746,27 @@ SUMMARY:ПЗ Иностранный язык
 UID:ad18c48c92763633c3a4823356d70995
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260516T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260516T100000Z
+SUMMARY:ЛК История России
+UID:5a7d7511c54d6a4ccc44a250f39bfb3e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T091500Z
 LOCATION:--стадион
 DTSTART:20251112T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:aeb2ebabee6dc2c7425329ad9c65ae7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260312T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:1c0ee414087280211189d08262f330bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1047,12 +1777,28 @@ SUMMARY:ЛК Общая физика
 UID:a997841af170228f024a148894fdbc56
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260210T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260210T100000Z
+SUMMARY:ПЗ Философия
+UID:5c1c6b8f9f3ae3324adf4f1d49f5d842
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
 DTEND:20250908T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20250908T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:2bf30ca146f23228bbe19d303a9a7b26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260221T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260221T100000Z
+SUMMARY:ЛК История России
+UID:09663e8a4e54f45264cadc5e30e49bdc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1071,12 +1817,73 @@ SUMMARY:ЛР Информатика
 UID:df7c043e7a42340f2329e1b991fc9343
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260318T113000Z
+LOCATION:5-001
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Правоведение
+UID:66bc8cafdac790fc7e8f8fead9bc66a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:Орш. В-606
+DTSTART:20260422T114500Z
+SUMMARY:ЛР Общая физика
+UID:38ebaaf18b9354f912134976c663d91b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260424T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260424T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:e908bee20a1b8201f30407f3b8256e91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260520T091500Z
+LOCATION:Орш. В-211
+DTSTART:20260520T074500Z
+SUMMARY:ЛР Теоретическая механика
+UID:7889425abac6bf18a8c2ad298f8499fe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20250926T091500Z
 LOCATION:Орш. В-506
 DTSTART:20250926T074500Z
 SUMMARY:ПЗ Экономическая теория
 UID:b5effdc3de3400969b530863c9562eb4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T073000Z
+LOCATION:--стадион
+DTSTART:20260606T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ae2441fde63901e955489563204f1c3a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:09454b7d93cf2f818e5a0b9e787d1eb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260331T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:690826fb1fb30040a63a796e8538a6ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260226T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260226T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:86bd7042f2f19c0ad4086ea7e8d40f2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -1095,6 +1902,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a98d923387dfab41027907652acbdb26
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260219T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:9976e93b09855e9385ad56647e4f5336
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
 DTEND:20251002T150000Z
 LOCATION:Орш. В-501
@@ -1110,11 +1925,26 @@ SUMMARY:ЛР Информатика
 UID:14f89e08c0e15c288dbcd4563d27f74e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:Орш. В-606
+DTSTART:20260408T100000Z
+SUMMARY:ЛР Общая физика
+UID:c36ac49ab003b0de09dde4b777d4b379
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T131500Z
 LOCATION:Орш. В-608
 DTSTART:20251003T114500Z
 SUMMARY:ПЗ Химия
 UID:45aa305cfca6dcc65995be23348cb8c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260220T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260220T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:18aed1fa83abed00642c9df3250c0f8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -1125,12 +1955,49 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:20c7fcd73820e0fa292089e31fef85ac
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:--стадион
+DTSTART:20260410T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5d31ea799b22a49805683870c429ccb9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c524eeaaf90813b47e418b77b3aea702
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
 DTEND:20250904T150000Z
 LOCATION:Орш. В-501
 DTSTART:20250904T133000Z
 SUMMARY:ЛК Основы российской государственности
 UID:d711816faa663e80b9952da23b22ed4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260519T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260519T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:10772e580d8224a3906bf8a71c39c3b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260508T074500Z
+SUMMARY:ПЗ Общая физика
+UID:4c294112ff36eb08292d741d79aa440a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260409T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260409T114500Z
+SUMMARY:ЛК Математический анализ
+UID:7160640b3096dfa21311f6cf19f7d9b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бабайцева Мария Владимировна
@@ -1148,6 +2015,13 @@ SUMMARY:ЛК Начертательная геометрия
 UID:2e4f6da5d2a74a1ed5804bab86bf2a3b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260221T073000Z
+LOCATION:--стадион
+DTSTART:20260221T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1ea09faf744389fb661bc737d47e0471
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
 DTEND:20251204T091500Z
 LOCATION:Орш. В-301
@@ -1156,12 +2030,52 @@ SUMMARY:ЛК Математический анализ
 UID:0b4777b3c83c909fa5f87e76e2b5b48b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260320T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260320T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:637b1ce3cba1225d8e8c3837b8f5946c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260418T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260418T100000Z
+SUMMARY:ЛК История России
+UID:a3708f35f77b5c4e1399ab3af1a1e5f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260507T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260507T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:f11f00c4465cf0e5344bbfccc153dc89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260513T091500Z
+LOCATION:5-101
+DTSTART:20260513T074500Z
+SUMMARY:ЛК Правоведение
+UID:b4f25bd600349d9123801b7c26fe6242
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20250927T091500Z
 LOCATION:Орш. В-313
 DTSTART:20250927T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:4c74f35b247fb873baab42ad5899e654
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260324T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260324T100000Z
+SUMMARY:ПЗ История России
+UID:d7a106bc2f02a894236ce004327992c3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251114T113000Z
@@ -1179,12 +2093,35 @@ SUMMARY:ЛК Информатика
 UID:8f45cd9cf9513fcb85289f9cc6fbef2d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260428T091500Z
+LOCATION:Орш. В-619
+DTSTART:20260428T074500Z
+SUMMARY:ПЗ Химия
+UID:bffd9eefa1fb9cbf5fde2de11da49117
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T073000Z
+LOCATION:--стадион
+DTSTART:20260516T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:84e56718448e6e47c965d2f9b8fd28ad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
 DTEND:20251020T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20251020T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:2d2fd4ea8e34c041acde51f0bfdcf35c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260514T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Введение в медицинскую технику
+UID:e8150ea5a1bcaa6c4a89b7ec7750fb5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1203,12 +2140,34 @@ SUMMARY:ЛК Математический анализ
 UID:e7dd5a493551540c103b77a1737d3d26
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:Орш. В-601
+DTSTART:20260325T114500Z
+SUMMARY:ЛР Общая физика
+UID:4345c4a66bd6553caedc92676367cf15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260213T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260213T060000Z
+SUMMARY:ЛК Общая физика
+UID:b5ad0c2b98aa659366944ddaa9914923
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20251008T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20251008T100000Z
 SUMMARY:ЛК Общая физика
 UID:96b4fd0d37f0f1f34809c0cf89cea2f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4943cfd87ea13da6c00225fd7ef903b8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T113000Z
@@ -1234,6 +2193,14 @@ SUMMARY:ЛК История России
 UID:5fdd0e4d380e2bc95add19b1f0d98ba2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260424T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260424T060000Z
+SUMMARY:ЛК Общая физика
+UID:d06bfc4815309aea566c17978cce3c50
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20250908T113000Z
 LOCATION:Орш. А-223
@@ -1248,6 +2215,14 @@ LOCATION:Орш. А-223
 DTSTART:20251215T114500Z
 SUMMARY:ЛР Информатика
 UID:579c248b903d4d080fc4f46e795f0659
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260502T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260502T100000Z
+SUMMARY:ЛК История России
+UID:91379302a822aaaed07ef35a05a9cecb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251216T073000Z
@@ -1273,12 +2248,43 @@ SUMMARY:ЛР Информатика
 UID:cbf2f64790858eccd2b15006133db6ae
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260416T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:8fad74cb7f5e4ee42af07e7752b05e2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260505T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260505T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:a5ad460a2b09d760ce9f6ac9a8c3dc2b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бабайцева Мария Владимировна
 DTEND:20251022T150000Z
 LOCATION:Орш. В-309
 DTSTART:20251022T133000Z
 SUMMARY:ПЗ Общая физика
 UID:e59d429a0f37b6d191b3917895ab1885
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260604T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260604T114500Z
+SUMMARY:ЛК Математический анализ
+UID:9a1bc7cd23bc545329a59c86ed980d81
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T131500Z
+LOCATION:--стадион
+DTSTART:20260605T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:f0e8cd321854273a82b74ad16692c8b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1289,12 +2295,27 @@ SUMMARY:ЛК Общая физика
 UID:844893636ee60225967b0f1c52500404
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260317T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260317T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:bd6bcbd0ee03363006c416e9bb7f9a82
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20260112T073000Z
 LOCATION:Орш. В-208
 DTSTART:20260112T060000Z
 SUMMARY:Экзамен Общая физика
 UID:7556dde4c1198f8a28633b85e75d5237
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T073000Z
+LOCATION:--стадион
+DTSTART:20260411T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f8c96f978e68952f8912432509d463f4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251014T091500Z
@@ -1304,11 +2325,27 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:b4d8e0697aad5d9db9e04a31dbbdb871
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260423T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:02ea83dc4c2d125d307b042e24f7587c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251025T113000Z
 LOCATION:--стадион
 DTSTART:20251025T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:543f621b4dc20bdc40779e8fd263ca8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260305T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:be5276e653aa7ef52ae331169dc8de7a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T091500Z
@@ -1356,6 +2393,22 @@ LOCATION:Орш. Б-610
 DTSTART:20250922T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:65866b36aa159d5b5721de346094b28b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260210T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260210T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:29e19e3e88c114f11dc90a399d3eab57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260514T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260514T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:54bbd2e18c7acedff42cc2f33c526d56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -1410,6 +2463,22 @@ SUMMARY:ПЗ Физическая культура
 UID:c8f2bda44624834e9f484abf44913b6d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260421T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260421T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:19bac202758a27e3f64de2cab31ba32d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260530T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260530T100000Z
+SUMMARY:ЛК История России
+UID:dbb76439b2c6bd86be892f5151bf7396
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бабайцева Мария Владимировна
 DTEND:20251008T150000Z
 LOCATION:Орш. В-309
@@ -1434,11 +2503,42 @@ SUMMARY:ЛК Математический анализ
 UID:5ef944551cf8255af2acb200dee5758f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260502T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260502T074500Z
+SUMMARY:ЛК Философия
+UID:dce25a41dd44b1fac7aab97770197159
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a9e13a6d45e0a65b1de53ca98df5bc03
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251213T113000Z
 LOCATION:--стадион
 DTSTART:20251213T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:410590b8bd3186235f3c349a144b0b67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260331T091500Z
+LOCATION:Орш. В-301
+DTSTART:20260331T074500Z
+SUMMARY:ЛК Химия
+UID:6d34b08f336d33ab481960a251d2f978
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260427T150000Z
+LOCATION:Орш. В-608
+DTSTART:20260427T133000Z
+SUMMARY:ЛР Химия
+UID:da6c24ff5317ad584eb445a4da62af5b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T091500Z
@@ -1454,6 +2554,14 @@ LOCATION:Орш. В-506
 DTSTART:20251024T074500Z
 SUMMARY:ПЗ Экономическая теория
 UID:0f1b4f264c635689d10a1689f81f7827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260429T091500Z
+LOCATION:5-101
+DTSTART:20260429T074500Z
+SUMMARY:ЛК Правоведение
+UID:4296224af5f0c9bdd238e9670f63b324
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -1480,12 +2588,65 @@ SUMMARY:Экзамен Линейная алгебра и аналитическ
 UID:b34002373a6598ae2676799a2e20231e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260526T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260526T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:60f8be0cf8e656af6ba9623d4a32d26a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20250909T131500Z
 LOCATION:Орш. А-223
 DTSTART:20250909T114500Z
 SUMMARY:ЛР Информатика
 UID:5f7dca39b0fb4d9a58860d9b9fb82e17
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T073000Z
+LOCATION:--стадион
+DTSTART:20260404T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1ebcc8d9fced3c7de4ee7e16ae86b301
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e266911d3d998d5450055131442cec5e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260410T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260410T060000Z
+SUMMARY:ЛК Общая физика
+UID:4c885be7bec0d1acb7acfc6964d71a77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260528T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260528T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:a8ed1fc3bf524902ad742fee55c27c16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T073000Z
+LOCATION:--стадион
+DTSTART:20260228T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f02d28fa18c3b79902b7725207d770fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260313T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:812f0625a20775c2b295ec96dbe44001
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1502,6 +2663,21 @@ LOCATION:Орш. Б-610
 DTSTART:20251215T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:53e142d7a4c717e7bc7063783d5971fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T131500Z
+LOCATION:--стадион
+DTSTART:20260508T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:f71d1c64d8924515051fe2f909c5e7f8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260421T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260421T100000Z
+SUMMARY:ПЗ История России
+UID:c4a1a2d52c2a65f2db61d8e517d989a1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T113000Z
@@ -1534,6 +2710,13 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:4df8789688150b05d0aa8408bb3d6b09
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:06f740982a15dbd42112f0682842aefd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
 DTEND:20251119T113000Z
 LOCATION:Орш. Б-304
@@ -1548,6 +2731,21 @@ LOCATION:Орш. Б-610
 DTSTART:20251027T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:17e3b59c5257bab45c60ea5dcf906053
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:Орш. В-601
+DTSTART:20260325T100000Z
+SUMMARY:ЛР Общая физика
+UID:c152a07e5743ed6bd7d792bf73139179
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260521T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260521T114500Z
+SUMMARY:ЛК Математический анализ
+UID:1a60cb1d83fa83c39ff0769ff0da4a45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Медведева Кристина Михайловна
@@ -1588,6 +2786,13 @@ SUMMARY:ЛР Информатика
 UID:60258fdd5b1b8c63005cc62708480d69
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:--стадион
+DTSTART:20260328T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:58a2e6fc10db78da2a439357cc8063d1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251219T113000Z
 LOCATION:Орш. А-101
 DTSTART:20251219T100000Z
@@ -1600,6 +2805,14 @@ LOCATION:Орш. А-101
 DTSTART:20250902T114500Z
 SUMMARY:ЛК Начертательная геометрия
 UID:dccd2ffcff423d5fb419f74f357b6990
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260213T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260213T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:fafbffa0d373ee12952234ccff513866
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1648,12 +2861,28 @@ SUMMARY:ЛК Общая физика
 UID:b580af62c08ac0971315b025961b81f8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260425T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Философия
+UID:ed02465953de5bfdec9d4cce9872b178
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20251216T131500Z
 LOCATION:Орш. А-223
 DTSTART:20251216T114500Z
 SUMMARY:ЛР Информатика
 UID:f48e533ba2fa92bcaa2e2565ddc8af50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260528T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260528T114500Z
+SUMMARY:ЛК Математический анализ
+UID:8e4076b8bf2e095382162706284afffc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1664,12 +2893,36 @@ SUMMARY:ЛК Математический анализ
 UID:e4d55fbbe6e910cddaee08b17517ff70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260326T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260326T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:d171d05923ff0245cfce3773676cbf92
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251205T091500Z
 LOCATION:Орш. В-506
 DTSTART:20251205T074500Z
 SUMMARY:ПЗ Экономическая теория
 UID:007db5a44e3681c4c3cf101162c48ce4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260520T073000Z
+LOCATION:Орш. В-211
+DTSTART:20260520T060000Z
+SUMMARY:ЛР Теоретическая механика
+UID:22df5ef29e08234499150974608e2193
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260306T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260306T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:84afe20715cac5b7e31fed98b4618182
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -1686,6 +2939,14 @@ LOCATION:Орш. В-301
 DTSTART:20251016T074500Z
 SUMMARY:ЛК Математический анализ
 UID:76b61d8c0474d9af45f62eea9f71f13c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260310T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260310T100000Z
+SUMMARY:ПЗ История России
+UID:c0a650e28643acc8f79480427d6c4ba5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1728,6 +2989,28 @@ UID:ae4e849e06992468b839729bfe0cb6c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260319T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:056017fedf6311c24ec6021438409224
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260410T074500Z
+SUMMARY:ПЗ Общая физика
+UID:7b7a2c1b44728e6b960d42cf2bb1b6cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260320T074500Z
+SUMMARY:ПЗ Общая физика
+UID:539bdfbedd57b2b13ae4d2d6f24e24f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20251202T113000Z
 LOCATION:Орш. Б-303
 DTSTART:20251202T100000Z
@@ -1751,12 +3034,67 @@ SUMMARY:ЛР Общая физика
 UID:2d4549aef82c31034dea13e3ecc432c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260602T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260602T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:9cfba5b2fc6b2f65fd641f3b07276f56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260428T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260428T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:9f7137f5223f9488347b9ec3eaf28e5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e4fd0ee10556af1bd0168876bb71a7a1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
 DTEND:20251204T113000Z
 LOCATION:Орш. В-201
 DTSTART:20251204T100000Z
 SUMMARY:ПЗ Математический анализ
 UID:6bd7398c1a96ec99438c859c797a0974
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260430T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260430T114500Z
+SUMMARY:ЛК Математический анализ
+UID:e0e44f7d41e782e8aed157338e060971
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260306T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260306T060000Z
+SUMMARY:ЛК Общая физика
+UID:839af8f68fd7229b301914ed7227ba07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260212T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:a06babaf20c31b67847943c582c51adf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260327T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260327T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:f9eaac44af32a671f768350702d1113a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1774,12 +3112,51 @@ SUMMARY:ПЗ Физическая культура
 UID:3d534c74e07f19c12072ed1d978c6309
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260307T073000Z
+LOCATION:--стадион
+DTSTART:20260307T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:83c6a1769fcbac39f3c10589ccce22cc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20251201T131500Z
 LOCATION:Орш. А-223
 DTSTART:20251201T114500Z
 SUMMARY:ЛР Информатика
 UID:694009a39465638817a6323077a7e8c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260221T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260221T074500Z
+SUMMARY:ЛК Философия
+UID:58abcc4d504b2b20962e438f1c92a10e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260312T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260312T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:41db8059d6453d59b77f59427b520cb9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260305T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260305T114500Z
+SUMMARY:ЛК Математический анализ
+UID:0599693b8378238875166786c1506120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260324T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260324T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:388ccac1175db0a67c7cdd14ca211471
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1798,6 +3175,22 @@ SUMMARY:ЛК Общая физика
 UID:905765ce7e8b626829503f8578c2eac2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260310T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260310T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:039b660a4963065e58c729727034b40f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260512T091500Z
+LOCATION:Орш. В-619
+DTSTART:20260512T074500Z
+SUMMARY:ПЗ Химия
+UID:0772ac56dfc1db3910b86519de87e97a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20251118T113000Z
 LOCATION:Орш. Б-303
@@ -1812,6 +3205,36 @@ LOCATION:Орш. В-402
 DTSTART:20251206T060000Z
 SUMMARY:ПЗ История России
 UID:d72e9623669aa7c5efb2e71e8e57a521
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T073000Z
+LOCATION:--стадион
+DTSTART:20260502T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:08d5afe1b6420619054a9e1a81e7ccb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260423T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260423T114500Z
+SUMMARY:ЛК Математический анализ
+UID:aab6568a0f92a31a8e109da19ae8158f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260512T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:463d4a5144baaedc46401c6a9ded65ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:45059140e70a5f8f2a8fd9d09d746955
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1837,12 +3260,35 @@ SUMMARY:ЛК Математический анализ
 UID:ad079fd4375f59f45b7469a6d21d18e1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260314T073000Z
+LOCATION:--стадион
+DTSTART:20260314T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:03ea12d1fc67094f4df8e28fcce02f69
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260326T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:461d52160d8887814c25c4009d5b8e6e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251011T091500Z
 LOCATION:Орш. В-313
 DTSTART:20251011T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:a6ef623c5b252541c8402ab7e56729d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260217T091500Z
+LOCATION:Орш. В-301
+DTSTART:20260217T074500Z
+SUMMARY:ЛК Химия
+UID:0d9287d3818153f7b9906cff20b2f31f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -1877,6 +3323,30 @@ SUMMARY:Экзамен Линейная алгебра и аналитическ
 UID:51837d9c6b85679715fba1235989c941
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260413T150000Z
+LOCATION:Орш. В-608
+DTSTART:20260413T133000Z
+SUMMARY:ЛР Химия
+UID:509a23075e1d91da854c0014a585a7a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260314T091500Z
+LOCATION:Орш. А-101
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Философия
+UID:3b4b9a4947be8c82f4afd2933dcc44d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260313T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260313T060000Z
+SUMMARY:ЛК Общая физика
+UID:11c5b608d1bee7d6d55c9911ff047d54
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251028T091500Z
 LOCATION:ГАК-320
 DTSTART:20251028T074500Z
@@ -1892,11 +3362,27 @@ SUMMARY:ПЗ Математический анализ
 UID:3a9e2d08aefecf94b92c69da2ad2dcd2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260519T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260519T100000Z
+SUMMARY:ПЗ История России
+UID:0ab2e977965a3a137526077b8b21e6e8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251124T131500Z
 LOCATION:Орш. А-527
 DTSTART:20251124T114500Z
 SUMMARY:ПЗ Начертательная геометрия
 UID:f93ad456267a3b42941a919b5acc278d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260423T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260423T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:b899355de709f8b731ec6516e81bd084
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -1938,11 +3424,35 @@ SUMMARY:ЛК Математический анализ
 UID:8cc198dbd92976629f899f0b2c02874c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260409T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260409T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:2c91117266e569fb74c81158a040bb01
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250923T073000Z
 LOCATION:1-23  ангар
 DTSTART:20250923T060000Z
 SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
 UID:b8647440c130b82237665ecf16052fd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260526T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260526T100000Z
+SUMMARY:ПЗ История России
+UID:59d3be573736a7156149ba9896e6dd51
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260401T091500Z
+LOCATION:5-101
+DTSTART:20260401T074500Z
+SUMMARY:ЛК Правоведение
+UID:b0d77b44339d0adce9e1aaddb5254ae0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -1953,11 +3463,65 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:79f711c17928301576d10bf0a78dbdb7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:Орш. В-606
+DTSTART:20260408T114500Z
+SUMMARY:ЛР Общая физика
+UID:fb883e577a0220933ea480322d9e73f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Безклубая Светлана Александровна
+DTEND:20260217T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260217T100000Z
+SUMMARY:ПЗ Философия
+UID:1a9b04357ad26cc592bec1066cae1ff9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260525T150000Z
+LOCATION:Орш. В-608
+DTSTART:20260525T133000Z
+SUMMARY:ЛР Химия
+UID:461ea1db225ea73f829512b1db7eb715
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260210T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260210T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:e03953b073d34c895ef6f35420b9ef9b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260227T074500Z
+SUMMARY:ПЗ Общая физика
+UID:c92bd849ebdb621ce2653aa65ce256a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260505T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260505T100000Z
+SUMMARY:ПЗ История России
+UID:dd5310e9e4cad9634f9b86285ce9b457
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251114T131500Z
 LOCATION:Орш. В-608
 DTSTART:20251114T114500Z
 SUMMARY:ЛР Химия
 UID:6ee24aaaddb8301fdafb95af140dff54
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260603T073000Z
+LOCATION:Орш. В-211
+DTSTART:20260603T060000Z
+SUMMARY:ЛР Теоретическая механика
+UID:97d937795db2bbac84cffe49c7333eb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -1968,12 +3532,35 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:ed258208e49bff0b87f95b7c436bba44
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260511T164500Z
+LOCATION:Орш. В-608
+DTSTART:20260511T151500Z
+SUMMARY:ЛР Химия
+UID:8bbbd37c830ce398213f0a6f31d24d8a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20251111T150000Z
 LOCATION:Орш. В-303
 DTSTART:20251111T133000Z
 SUMMARY:ЛР Общая физика
 UID:ee0ed967dafe7ff459fe785ef333820c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260407T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260407T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:d077a27b2fb1b69bb1f8012e85e3affb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T131500Z
+LOCATION:--стадион
+DTSTART:20260522T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9518408ad88cb10f1bd39b3cf1705be6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -2035,6 +3622,22 @@ SUMMARY:ПЗ Физическая культура
 UID:255ff0c2c2472e429b68688a66045db7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260326T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260326T114500Z
+SUMMARY:ЛК Математический анализ
+UID:ae62550f472e5a7a28763bf1dad01e13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260401T113000Z
+LOCATION:5-001
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Правоведение
+UID:c3beb3547efa859620d97f51e72d0204
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T091500Z
 LOCATION:--стадион
 DTSTART:20250903T074500Z
@@ -2055,6 +3658,28 @@ LOCATION:Орш. В-402
 DTSTART:20251108T060000Z
 SUMMARY:ПЗ История России
 UID:28e402b7b3ca52aacbea76db8596f577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260523T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260523T100000Z
+SUMMARY:ЛК История России
+UID:eed06873e543c845c08fa45a10b89465
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:--стадион
+DTSTART:20260327T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:a6d2cc5c2b551039b6bba3be996e96ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260213T074500Z
+SUMMARY:ПЗ Общая физика
+UID:7571d58b085c2f0447d43de5c7591f0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
@@ -2080,6 +3705,14 @@ SUMMARY:ПЗ Физическая культура
 UID:4d6e2fc42b149ad47f7a72509bf93492
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260416T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260416T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:35c370db4dfd6740b54812359bf8b47a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251216T150000Z
 LOCATION:Орш. А-223
 DTSTART:20251216T133000Z
@@ -2093,6 +3726,21 @@ LOCATION:Орш. В-201
 DTSTART:20251211T100000Z
 SUMMARY:ПЗ Математический анализ
 UID:7ffc2cb8ba15342093b8e51f49f60463
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
+DTEND:20260416T131500Z
+LOCATION:Орш. А-101
+DTSTART:20260416T114500Z
+SUMMARY:ЛК Математический анализ
+UID:76ac8d88bb545eacc49dbe35570c7a84
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260327T074500Z
+SUMMARY:ПЗ Общая физика
+UID:1e34f6fb2297310758e8284707780765
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T131500Z
@@ -2123,6 +3771,22 @@ SUMMARY:ПЗ Физическая культура
 UID:eece7bba80672d128d72a04f4af3f0ed
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260217T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:44b72df51458486f1a80624325ad6bbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260324T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260324T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:473a4e04f0c0cd8e9ce976a6b7576825
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251206T113000Z
 LOCATION:--стадион
 DTSTART:20251206T100000Z
@@ -2138,6 +3802,21 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:495b36e125ac9361d9054689550c550f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260418T073000Z
+LOCATION:--стадион
+DTSTART:20260418T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:0e2f3a490128e790d8bd19321e471563
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260304T113000Z
+LOCATION:5-001
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Правоведение
+UID:225ba506959268bfb0fe8139fb99d28f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20250922T113000Z
 LOCATION:Орш. А-223
@@ -2146,11 +3825,34 @@ SUMMARY:ЛР Информатика
 UID:f2785743b9bd1ac3474990e258eaaa83
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ecdf36b1eb9a84605bc49964d2465714
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260320T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260320T060000Z
+SUMMARY:ЛК Общая физика
+UID:547f77dad9901cddd20df1c44858404d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251013T131500Z
 LOCATION:Орш. А-527
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Начертательная геометрия
 UID:e5a0df339d70739efcfce73f562ada1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260214T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260214T100000Z
+SUMMARY:ЛК История России
+UID:cd8a72647cdc6eac31d374783df7ba66
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -2181,6 +3883,14 @@ LOCATION:Орш. В-309
 DTSTART:20251112T133000Z
 SUMMARY:ПЗ Общая физика
 UID:82120e74be1ea57a12762f809ab83103
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260425T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260425T100000Z
+SUMMARY:ЛК История России
+UID:ab22c95475b60c27edf210e739998687
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -2214,12 +3924,49 @@ SUMMARY:ПЗ Математический анализ
 UID:081017d24dad3db99a91cb36dc52ddd5
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:585a5987db79297b32fda04f4db96703
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260226T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:350440b33db134906cc5707b223ae7be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T131500Z
+LOCATION:--стадион
+DTSTART:20260529T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:256cb2f86123c394afb498da87518e6d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бабайцева Мария Владимировна
 DTEND:20251015T150000Z
 LOCATION:Орш. В-309
 DTSTART:20251015T133000Z
 SUMMARY:ПЗ Общая физика
 UID:267f0d5411cb2a0bf97c2529dbf846e5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:--стадион
+DTSTART:20260306T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ad9f13903b546bb4316ae7021a97f413
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260525T164500Z
+LOCATION:Орш. В-608
+DTSTART:20260525T151500Z
+SUMMARY:ЛР Химия
+UID:0672b444a3da0c024c831af339f07133
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -2245,6 +3992,20 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:900b815f115ce88dcf2adafc84550d4a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:--стадион
+DTSTART:20260227T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ccf861ceb20b6ae7350162e3cce74cf2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T073000Z
+LOCATION:--стадион
+DTSTART:20260523T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:13774bb7dde1294535a8648f6a28b22a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251119T091500Z
 LOCATION:--стадион
 DTSTART:20251119T074500Z
@@ -2266,6 +4027,22 @@ LOCATION:Орш. Б-303
 DTSTART:20251216T100000Z
 SUMMARY:ЛК Информатика
 UID:01994aa705d3ffd9fa1341676de630b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260414T131500Z
+LOCATION:Орш. А-319
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:281b1df8cddfd4600ee9904bc711bcf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260515T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260515T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:a30ca64ed85e5e0f0c5c5576e461dec5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ ЮРИЙ АЛЬБЕРТОВИЧ (осн.)
@@ -2292,12 +4069,27 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:4cc208f12a134eb96cad77edaa0e74cf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260403T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260403T060000Z
+SUMMARY:ЛК Общая физика
+UID:e7f79652011255c77e32da5a5b1e2935
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251121T091500Z
 LOCATION:Орш. В-506
 DTSTART:20251121T074500Z
 SUMMARY:ПЗ Экономическая теория
 UID:144a02319594abedb157043e9cc4db99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4fd25abe81b61f6ba51ce9d9bc916c7a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Вадим Леонидович
@@ -2308,6 +4100,22 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:33c395308ed3ddf0663c4502cd1ebbcd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260515T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260515T060000Z
+SUMMARY:ЛК Общая физика
+UID:ddeaeefc3b205b01bd1a52d53cb193f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260529T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260529T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:2dc2008de3afb3744dfa5b2fc080c81b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20251121T131500Z
 LOCATION:Орш. В-101
@@ -2316,11 +4124,51 @@ SUMMARY:ЛК Экономическая теория
 UID:d701206200a0e8276a8b4c32c232fb16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260430T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:45442ba5ed97683274e9d06c0cf95a72
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251101T113000Z
 LOCATION:--стадион
 DTSTART:20251101T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:e3f777d2d75950882ac9435f1cc828d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260521T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Введение в медицинскую технику
+UID:a9ab6906952dcbc9db834678761a246b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260521T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260521T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:cfd7c99fce76bb7319ec0e92fa2e46d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260319T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260319T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:ebbc4beb065aea7550876c878a4a7fb3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260410T113000Z
+LOCATION:Орш. Б-303
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:08444b6f2f4328f3029d73e79d8ae0cd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T113000Z
@@ -2346,6 +4194,13 @@ SUMMARY:ЛК Основы российской государственност�
 UID:fcdc868a8035fcce5f18d6809d799e1f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:Орш. А-406
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:61f2dc4b12d29341719b15bba173334c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
 DTEND:20250912T131500Z
 LOCATION:Орш. В-101
@@ -2360,6 +4215,21 @@ LOCATION:Орш. В-301
 DTSTART:20251002T074500Z
 SUMMARY:ЛК Математический анализ
 UID:d5f2f5a03cdbfbd038a5651c54c4dd37
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:--стадион
+DTSTART:20260214T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:48a2f212608915feeb74a6b92df898ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Медведева Кристина Михайловна
+DTEND:20260428T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260428T100000Z
+SUMMARY:ПЗ История России
+UID:8458c543e432fa6f9dd91e2475c5bcb0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T131500Z
@@ -2377,12 +4247,52 @@ SUMMARY:ЛК Математический анализ
 UID:bed79a228d2106f7906dd865ad3233df
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
+DTEND:20260427T164500Z
+LOCATION:Орш. В-608
+DTSTART:20260427T151500Z
+SUMMARY:ЛР Химия
+UID:65487d14195e20726e59a2e3549e8bbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛИБЕРЗОН МАРК РАХМИЛЬЕВИЧ
+DTEND:20260224T091500Z
+LOCATION:Орш. А-301
+DTSTART:20260224T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:be10107482b43ea5e041860ab11ea39c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260527T113000Z
+LOCATION:5-001
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Правоведение
+UID:b9c99ceab646fa5583803d7c2dd05efe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
 DTEND:20260120T131500Z
 LOCATION:Орш. А-218
 DTSTART:20260120T114500Z
 SUMMARY:Экзамен Информатика
 UID:b0fea504cf8fd520cb98529a2e4466a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
+DTEND:20260513T113000Z
+LOCATION:5-001
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Правоведение
+UID:7384da77b540417da90c67c0dedef7d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260220T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260220T060000Z
+SUMMARY:ЛК Общая физика
+UID:18a87f317661036568a3a53e8aa6b437
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
@@ -2393,12 +4303,36 @@ SUMMARY:ПЗ Иностранный язык
 UID:4dd0d021d21f125cb1af427d0e848a73
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260402T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260402T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:a535eff5a1a4abb4c793c6e0ca0cb5e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Анисова Екатерина Николаевна
 DTEND:20251229T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20251229T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:e96c5fd3044c135528a2a92808a0ae6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Побережский Сергей Юрьевич
+DTEND:20260227T073000Z
+LOCATION:Орш. В-301
+DTSTART:20260227T060000Z
+SUMMARY:ЛК Общая физика
+UID:922a29ccc372bad4147b0b53426df6f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260507T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Введение в медицинскую технику
+UID:45aa9281d832963109271e582f4b18dd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T091500Z
@@ -2422,6 +4356,36 @@ SUMMARY:ЛК Начертательная геометрия
 UID:51636535321d3c758cda4887707f84e4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260505T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260505T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:c88b8448404fdf3906183bf7a68eb9ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T073000Z
+LOCATION:--стадион
+DTSTART:20260321T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1d0bf890466fbcd6a3eb7a135def58be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:--стадион
+DTSTART:20260213T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:0e62d912ffe0cf20103625368dc44119
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гимаева Наталья Радиковна
+DTEND:20260219T150000Z
+LOCATION:Орш. В-202
+DTSTART:20260219T133000Z
+SUMMARY:ПЗ Математический анализ
+UID:5eab2d8e1aff14494edbc52088e3fab3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20251125T150000Z
 LOCATION:Орш. В-314
@@ -2436,6 +4400,13 @@ LOCATION:Орш. Б-304
 DTSTART:20251210T100000Z
 SUMMARY:ЛК Общая физика
 UID:df150a398163428faf62967e80ad8677
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T091500Z
+LOCATION:Орш. В-326
+DTSTART:20260403T074500Z
+SUMMARY:ПЗ Общая физика
+UID:a9b4469c2864e2d07a38c0894601847e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T113000Z
@@ -2453,11 +4424,27 @@ SUMMARY:ЛК Общая физика
 UID:cbbf80adb8136fadb8bcb0c610bc2541
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260310T150000Z
+LOCATION:Орш. Б-303
+DTSTART:20260310T133000Z
+SUMMARY:ПЗ Инженерная графика
+UID:52557d741ed34872ee4b37d0d60a7fe1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T113000Z
 LOCATION:Орш. А-101
 DTSTART:20251010T100000Z
 SUMMARY:ЛК Химия
 UID:738d7b9c6804485b14c7f21b792266f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260224T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260224T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:58901d70b6e52a73c5cda5291430bf13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -2466,6 +4453,22 @@ LOCATION:Орш. В-313
 DTSTART:20251108T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:da530b66f56bfd85f92fa63708e407d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алипова Ольга Александровна
+DTEND:20260407T131500Z
+LOCATION:Орш. Б-303
+DTSTART:20260407T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:db001c1e28c8c682f02e3ca6dbba7db9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260411T113000Z
+LOCATION:Орш. В-101
+DTSTART:20260411T100000Z
+SUMMARY:ЛК История России
+UID:dca24f9553faf5f2394d4a0f4866bf2c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T073000Z
@@ -2481,6 +4484,14 @@ LOCATION:Орш. А-101
 DTSTART:20251030T114500Z
 SUMMARY:ЛК История России
 UID:3eeb3e099ba8e36ee6a3d82f325bc2a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НЕЙМАН АЛЕКСАНДР ПЕТРОВИЧ
+DTEND:20260528T091500Z
+LOCATION:Орш. А-218
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Введение в медицинскую технику
+UID:ccd09dda0c4f42d276ac71b7582135ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШАЛИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ

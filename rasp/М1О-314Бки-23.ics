@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250924T091500Z
-LOCATION:--каф. 919
-DTSTART:20250924T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:209b30d1f139160fd3458d0f60538c39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T131500Z
-LOCATION:ГУК Б-340
-DTSTART:20251010T114500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:7e321ffaef1acf0c9d576fdbd15f5fb8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
 DTEND:20250901T131500Z
 LOCATION:7-411
@@ -24,33 +10,19 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:b23b713be2bff9674b0c946e2d3c3a6a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260401T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260401T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:4704ded765432fc190f4ab8c695962d5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T073000Z
 LOCATION:ГАК-320
 DTSTART:20251204T060000Z
 SUMMARY:ЛК Технология конструкционных материалов
 UID:bab1f3b77cb439dcb407937d7a30bb1a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T113000Z
-LOCATION:7-408
-DTSTART:20251020T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:dcda4fc41f7fec57987eda553a46a70e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20250910T113000Z
-LOCATION:5-401б
-DTSTART:20250910T100000Z
-SUMMARY:ЛК Культурология
-UID:d2c9287f331109baa52a76e397ff9110
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T091500Z
-LOCATION:--каф. 919
-DTSTART:20251008T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7faaa87e554950798391338a1a723a4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -61,55 +33,11 @@ SUMMARY:ПЗ Основы менеджмента
 UID:9355162f40cf7dab8c2b1aac91a5901e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T073000Z
-LOCATION:ГАК-320
-DTSTART:20250904T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:a1c860a1e61cc3a70e7224b638291f99
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20251031T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:d8aa5998318aea22cbb5a02d40f84658
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Демидова Ольга Львовна
-DTEND:20260120T073000Z
-LOCATION:ГУК А-610
-DTSTART:20260120T060000Z
-SUMMARY:Экзамен Численные методы
-UID:a7656b906b0c07aafdd2239389a02709
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T091500Z
-LOCATION:7-404
-DTSTART:20251222T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:534de6f479a08f72b2fdae02395d39d9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:ГУК Б-340
-DTSTART:20251010T100000Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:8671ff467721d8609d481920b10e5d01
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:4-100
-DTSTART:20251114T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:a5e10420637b864f365c6b8d68aff51b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251211T131500Z
-LOCATION:7-404
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Строительная механика и прочность самолета
-UID:ede96d1d4af81ef06195e18c598d4ac7
+DTEND:20260408T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260408T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:13a50a0cecd208562ba7c27ae903eaf5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T131500Z
@@ -119,11 +47,18 @@ SUMMARY:ПЗ Численные методы
 UID:56e916db49380c79940189f4da8019ad
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251201T113000Z
-LOCATION:7-408
-DTSTART:20251201T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:5fe3dfc8bdd43684a7f41fb36f3ebb3f
+DTEND:20260311T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260311T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:a48f672c875611dfc6bd6941d7f8012b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T131500Z
+LOCATION:--каф. 919
+DTSTART:20260324T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:049011acc95cd20ac5fbe334dd0f5fee
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T073000Z
@@ -140,40 +75,26 @@ SUMMARY:ПЗ Численные методы
 UID:02bc80cc5aed766c0c518833fa960ed9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T073000Z
-LOCATION:--каф. 919
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:e8be7e2dec3cd5c93231a0e436c796ca
+DTEND:20260313T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260313T114500Z
+SUMMARY:ЛР Конструкция самолетов
+UID:3bffe0cedac6c637853a04596209fe29
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20250918T113000Z
-LOCATION:7-404
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:244a5cf0c0201b1cc9c0498b1440546f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T091500Z
-LOCATION:7-416
-DTSTART:20250926T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:49923f7dc20586b2a564581ba8b31957
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:24-310
-DTSTART:20251121T100000Z
-SUMMARY:ЛР Строительная механика и прочность самолета
-UID:1cbebd309533039194c957333c200d72
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T150000Z
-LOCATION:7-325
-DTSTART:20251223T133000Z
+DTEND:20260325T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260325T074500Z
 SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:3e86523be89d061a7e3cc7e65607cd83
+UID:eb4f89d420cc15c61e5c9e749f4f62a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260217T073000Z
+LOCATION:7-408
+DTSTART:20260217T060000Z
+SUMMARY:ЛК Силовая установка
+UID:8aeb20e06cf2bedda93239b1ad9efce2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T091500Z
@@ -181,14 +102,6 @@ LOCATION:7-404
 DTSTART:20251027T074500Z
 SUMMARY:ЛК Детали машин и основы конструирования
 UID:b3100f391b7646d4cae22642a47b7533
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251210T113000Z
-LOCATION:5-101
-DTSTART:20251210T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:b1eac2abee06f615587343b4e8cfdb3d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T091500Z
@@ -206,32 +119,11 @@ SUMMARY:ЛК Строительная механика и прочность с�
 UID:be314cb02e4fb56b05826a1a71e25ab7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T073000Z
-LOCATION:--каф. 919
-DTSTART:20251128T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7c31166463f20e94e1691aed187cab22
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251219T073000Z
 LOCATION:--каф. 919
 DTSTART:20251219T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:50c42a432df4a92607eeba8f6decfb5c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T073000Z
-LOCATION:ГАК-320
-DTSTART:20250925T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:723bcf55d83a3eb97bf8d13843bfe220
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T150000Z
-LOCATION:7-325
-DTSTART:20250916T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:db2c94758f5aa839424bb3afbac29fed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -242,6 +134,14 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:768341c53cadc9478449231894d1db0e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260318T131500Z
+LOCATION:2-215(2В)
+DTSTART:20260318T114500Z
+SUMMARY:ЛР Силовая установка
+UID:a428ad28f22602655494a7299607fe4e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Демидова Ольга Львовна
 DTEND:20260120T091500Z
 LOCATION:ГУК А-610
@@ -250,54 +150,27 @@ SUMMARY:Экзамен Численные методы
 UID:a7c53df4832724a6c2bc24007040a4de
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251103T113000Z
-LOCATION:7-408
-DTSTART:20251103T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:e8c6abf5612eb361cd820e2a84b01f68
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260429T131500Z
+LOCATION:1-2 ангар
+DTSTART:20260429T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:5724761daf76a65f551812b2faf2e57a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T091500Z
+DTEND:20260227T091500Z
 LOCATION:7-404
-DTSTART:20251117T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:3c454ebc290d266d1576d12804544554
+DTSTART:20260227T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:c977fe7055ad693aa1d20876e3f44d12
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T091500Z
-LOCATION:--каф. 919
-DTSTART:20250910T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:d1e972cd5b137e86177e189ba5e41fc3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250924T150000Z
-LOCATION:5-405
-DTSTART:20250924T133000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:28dc874e2aac40272bd4091e9c62c2bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:ГАК-320
-DTSTART:20251106T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:5e3010acb3027834e1f93ea100548514
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T131500Z
-LOCATION:ГУК А-711
-DTSTART:20250924T114500Z
-SUMMARY:ПЗ Численные методы
-UID:79056b4f601b5fb4fa48923212f5bfed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T113000Z
-LOCATION:7-408
-DTSTART:20250908T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:3b5fe9be31bb32c6a1b0bd7ad0b3d1a3
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260316T091500Z
+LOCATION:5-404
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:71887263b2f34e458ddcf9a3f0937ce8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T073000Z
@@ -312,13 +185,6 @@ LOCATION:--каф. 919
 DTSTART:20251017T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:245b696950761ab0a61b293904d0d849
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T091500Z
-LOCATION:7-404
-DTSTART:20251006T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:7d2509828bade337fafac75d793ef6db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -343,19 +209,12 @@ SUMMARY:ЛР Технология конструкционных материа�
 UID:5898d5c0ff62eedcdb9d8216da65e43f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T113000Z
-LOCATION:7-408
-DTSTART:20251117T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:5ef08a18b3911fc48d2a318a6e8415c7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251002T131500Z
-LOCATION:7-404
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Строительная механика и прочность самолета
-UID:4784fe41a0c94618ddf405002814a1d8
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260323T091500Z
+LOCATION:5-404
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:6c9ece84b2a72ab99f36616aae2b280f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250905T091500Z
@@ -365,6 +224,936 @@ SUMMARY:ЛК Прикладная экология
 UID:faf4b88a9d263a1fd1c99261e87b1090
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260520T131500Z
+LOCATION:5-122
+DTSTART:20260520T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:b92b52b238f7ca4cad5fb523f48ce94f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260402T113000Z
+LOCATION:7-404
+DTSTART:20260402T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:c4e201535c759942bafcc65549ed5aad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T091500Z
+LOCATION:7-416
+DTSTART:20251031T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:dd6c3605e07e487836c3cf787928cebf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260513T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260513T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:ae6b4be267f86bd1f5b5a3351945dd63
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260420T113000Z
+LOCATION:5-323
+DTSTART:20260420T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:3bd5ba4e12c927112920ff4f0344230a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260407T073000Z
+LOCATION:7-408
+DTSTART:20260407T060000Z
+SUMMARY:ЛК Силовая установка
+UID:f8841037893a83656341ecb3d16b24d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260401T131500Z
+LOCATION:2-215(2В)
+DTSTART:20260401T114500Z
+SUMMARY:ЛР Силовая установка
+UID:61d49f7c39c192dee036b39dee667b6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260602T073000Z
+LOCATION:7-408
+DTSTART:20260602T060000Z
+SUMMARY:ЛК Силовая установка
+UID:aef50657ead2a5fb59e8b91153b92f65
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260211T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:7e06103a698b99b3e1c5a2ad0101d377
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T073000Z
+LOCATION:--каф. 919
+DTSTART:20251226T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:61bb96250ac0ed20c8914d06f711cb3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260414T113000Z
+LOCATION:7-408
+DTSTART:20260414T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:9a6d5c0ba78c35490c1d8000c05974c3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T150000Z
+LOCATION:7-325
+DTSTART:20251028T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:0cf146d8d20ad8143668aacb1a6fa078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260421T073000Z
+LOCATION:7-408
+DTSTART:20260421T060000Z
+SUMMARY:ЛК Силовая установка
+UID:48e95e735ef2d4d5fd0321cfab9bdefa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T073000Z
+LOCATION:ГАК-320
+DTSTART:20250918T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:56062c5e712c4d5cdb2027d6653ea3f4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T131500Z
+LOCATION:24-310
+DTSTART:20251205T114500Z
+SUMMARY:ЛР Строительная механика и прочность самолета
+UID:18b448202ab7a650da7240925034fe95
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T073000Z
+LOCATION:7-404
+DTSTART:20260213T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:ed112336c45cd6bb1ef55e244c054aae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251113T131500Z
+LOCATION:7-404
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Строительная механика и прочность самолета
+UID:d43a83df3469ae16354e4303c71dbf1b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T091500Z
+LOCATION:--каф. 919
+DTSTART:20250917T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:a773e0521eac0a5cfd54d43d31d251a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20250924T113000Z
+LOCATION:5-401б
+DTSTART:20250924T100000Z
+SUMMARY:ЛК Культурология
+UID:38a01d53052c4891897089aff8d964f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260219T091500Z
+LOCATION:7-408
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:f6acee9a917a88fb315344d3283c4362
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251112T114500Z
+SUMMARY:ПЗ Численные методы
+UID:a24da975ac17c41c1a8e1874967b660a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260424T100000Z
+SUMMARY:ЛР Конструкция самолетов
+UID:64fe274076f1f0fddacb85001bea424a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф. 919
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6a73540a3445a852354e95b180d6a190
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260331T113000Z
+LOCATION:7-408
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:99dba669924a080af0af88d3b1f9fdd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T073000Z
+LOCATION:7-404
+DTSTART:20260227T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:c7ef8c5cbbd3ef20d9405fd8191c112c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T113000Z
+LOCATION:7-408
+DTSTART:20251222T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:6531d279e17a1c7e5b1847728ccd4175
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260413T073000Z
+LOCATION:ГАК-320
+DTSTART:20260413T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:7c4094d054579e7078336329602c20d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T091500Z
+LOCATION:7-416
+DTSTART:20250919T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:ab1ab9df205cd5cdd0e3d63b7268cc0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260303T091500Z
+LOCATION:7-408
+DTSTART:20260303T074500Z
+SUMMARY:ЛК Динамика полета
+UID:bc16f2466123c097fde7c1895ce35a19
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T131500Z
+LOCATION:--каф. 919
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:cfd594ccc8a23634492e01d7e164c9b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260323T113000Z
+LOCATION:5-323
+DTSTART:20260323T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:e48c8ca5feb9709e79bc3861fef77950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251204T113000Z
+LOCATION:7-404
+DTSTART:20251204T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:1126d368a7b07c487697b397c2066577
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260327T114500Z
+SUMMARY:ЛР Конструкция самолетов
+UID:bc1570eeeb325ac6cf8fbceb9f202568
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260303T113000Z
+LOCATION:7-408
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:547130b2b2eb58c6205bd355d50fb2aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T091500Z
+LOCATION:7-416
+DTSTART:20251010T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:6bd2e9735d686ee8f418da09b55aadb8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T091500Z
+LOCATION:7-416
+DTSTART:20251017T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:6d098ef969c2fbc508cbead0f14a5ff7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260313T100000Z
+SUMMARY:ЛР Конструкция самолетов
+UID:a132da74abbdce3b867e7bd295281d5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260311T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:987135fba5d32f4b5d20fe74f35c166c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T131500Z
+LOCATION:--каф. 919
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2ce4ccd959486b0fd9eca8f97c649282
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260317T091500Z
+LOCATION:7-408
+DTSTART:20260317T074500Z
+SUMMARY:ЛК Динамика полета
+UID:084b154282f0a840010c217577c7bebd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251126T150000Z
+LOCATION:5-401б
+DTSTART:20251126T133000Z
+SUMMARY:ПЗ Культурология
+UID:7edabd6ce9d94afddab9ab6dfc231bae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T164500Z
+LOCATION:7-325
+DTSTART:20251028T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:41381b5d607904a74d4f3cd7d987d2c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251127T113000Z
+LOCATION:7-404
+DTSTART:20251127T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:cb445148d212b8d5ae07b63e0ee40124
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260421T091500Z
+LOCATION:7-408
+DTSTART:20260421T074500Z
+SUMMARY:ЛК Динамика полета
+UID:ad57976c16a97d6d0db16263429c0886
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20250915T131500Z
+LOCATION:7-411
+DTSTART:20250915T114500Z
+SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:3f54506c74995a57b263141d28516f2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250903T113000Z
+LOCATION:5-101
+DTSTART:20250903T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:f309313696be81af092b70ea009ad0ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T113000Z
+LOCATION:7-408
+DTSTART:20250929T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:e4c9912649cbc493863fa5b1d82786d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251001T113000Z
+LOCATION:5-101
+DTSTART:20251001T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:406fb70de3cabec21b821fc5c67944d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250901T113000Z
+LOCATION:7-408
+DTSTART:20250901T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:f18a9433fe14d4c6f9b83184ad16124f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T073000Z
+LOCATION:ГАК-320
+DTSTART:20250911T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:359a56e521a35ccc853fc4df7230cbfd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250923T091500Z
+LOCATION:ГУК Б-729
+DTSTART:20250923T074500Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:7e348fc8f27298255ac5e6c71bee33a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T091500Z
+LOCATION:ГАК-320
+DTSTART:20251211T074500Z
+SUMMARY:ЛК Численные методы
+UID:b16c7983ecdd880cc780c4b39f4091b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260306T113000Z
+LOCATION:24-525
+DTSTART:20260306T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:e50d221e802a39e1f1a2ad1b09a4c566
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф. 919
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:44795f58e8de17217c94cf0cc1947f3f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф. 919
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:17c94125f730238d19fa51b8145608e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T131500Z
+LOCATION:--каф. 919
+DTSTART:20260224T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:46616f1900339db1798526c020513194
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260304T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260304T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:aef50578e2a399fd0bdc958748c8a998
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260526T091500Z
+LOCATION:7-408
+DTSTART:20260526T074500Z
+SUMMARY:ЛК Динамика полета
+UID:81982d76c0de35a5765562b197405231
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260224T113000Z
+LOCATION:7-408
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:49b7969b67e7a13efd59f2d5599689de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T073000Z
+LOCATION:ГУК Б-729
+DTSTART:20251202T060000Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:e4dea5e7298ada3d8c71c4b0fe011cde
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260318T113000Z
+LOCATION:2-215(2В)
+DTSTART:20260318T100000Z
+SUMMARY:ЛР Силовая установка
+UID:03b2118b0a61909f7754b66943c2914c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250902T150000Z
+LOCATION:7-325
+DTSTART:20250902T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:2cb99b74be4e97b400ce711fec54f56f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20250904T113000Z
+LOCATION:7-404
+DTSTART:20250904T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:40bf60f09a331b4f7abfcb5a9025d819
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T131500Z
+LOCATION:4-100
+DTSTART:20251114T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:6e556033f192548018634f1c0fe21114
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260212T091500Z
+LOCATION:7-408
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:c65af429f5e91786d473df933a890c70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260527T113000Z
+LOCATION:1-2 ангар
+DTSTART:20260527T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:0b635048043da969b514eb9ad84c5cac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T073000Z
+LOCATION:ГАК-320
+DTSTART:20251009T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:fefd141e74a15a47f163dcc337659d04
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T073000Z
+LOCATION:ГАК-320
+DTSTART:20251120T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:1edf59453e3b026da53e1b5aa3c26ad1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251001T150000Z
+LOCATION:5-401б
+DTSTART:20251001T133000Z
+SUMMARY:ПЗ Культурология
+UID:7c155fea7e80437ee43f00c1365d0d1b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251212T073000Z
+LOCATION:--каф. 919
+DTSTART:20251212T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:f4b4e0e69b171c202cb5c16aed846596
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T131500Z
+LOCATION:--каф. 919
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e9f02a85afaf7b32bc8db5fa596a5706
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260507T113000Z
+LOCATION:7-404
+DTSTART:20260507T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:862b352be86b317421b7fe4635235ba2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260326T091500Z
+LOCATION:7-408
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:39d142434be7bf49c60dd7720851ff85
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260410T114500Z
+SUMMARY:ЛР Конструкция самолетов
+UID:ba04694508032a43c2bc4caf955606ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T131500Z
+LOCATION:--каф. 919
+DTSTART:20260519T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:124cf1cdcea94e9ebea1e1ec01c94358
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуереш Джахид
+DTEND:20260116T073000Z
+LOCATION:7-406
+DTSTART:20260116T060000Z
+SUMMARY:Экзамен Аэродинамика
+UID:19e5a66c64e0307611bdf548fee4daa9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251015T150000Z
+LOCATION:5-401б
+DTSTART:20251015T133000Z
+SUMMARY:ПЗ Культурология
+UID:a78fc494fa071ac4b199081e31ab9020
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260512T073000Z
+LOCATION:7-408
+DTSTART:20260512T060000Z
+SUMMARY:ЛК Силовая установка
+UID:5ca8116a7ef2d774d375f2c5119ca6a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T131500Z
+LOCATION:--каф. 919
+DTSTART:20260526T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:19bf86418d3d7f86881aa9ce5bca117f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260324T113000Z
+LOCATION:7-408
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ed3a3117c71b64126c88c4799a0949b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф. 919
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:693e0a424551de72e3fef480ae19a7ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260331T073000Z
+LOCATION:7-408
+DTSTART:20260331T060000Z
+SUMMARY:ЛК Силовая установка
+UID:18cf2c7809b9d8553458bad0292492ff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T091500Z
+LOCATION:ГАК-320
+DTSTART:20251113T074500Z
+SUMMARY:ЛК Численные методы
+UID:43222ae04238fc2f2e498a77ff206961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260224T073000Z
+LOCATION:7-408
+DTSTART:20260224T060000Z
+SUMMARY:ЛК Силовая установка
+UID:efb0ed2f2511a5137eaf951b71b5946c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T113000Z
+LOCATION:7-408
+DTSTART:20250915T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:3a6c326868193222a187209d7c162a72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260427T073000Z
+LOCATION:ГАК-320
+DTSTART:20260427T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:256d5160c490813985c4985bd5f9b00b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T091500Z
+LOCATION:7-404
+DTSTART:20250929T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:5de55371867d1fb73bfa6bb897091f3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260513T131500Z
+LOCATION:1-2 ангар
+DTSTART:20260513T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:11a7c08565d8efbacd465155ef1c5b9e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260325T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260325T100000Z
+SUMMARY:ЛР Технология производства самолетов
+UID:c85f26584ec689718fe89560ab3c92aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T091500Z
+LOCATION:--каф. 919
+DTSTART:20251210T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:01035fc566b839879c9c93dc2d7769c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251008T113000Z
+LOCATION:5-401б
+DTSTART:20251008T100000Z
+SUMMARY:ЛК Культурология
+UID:4a67b01963379a9528bcbfc5c6436643
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260602T091500Z
+LOCATION:7-408
+DTSTART:20260602T074500Z
+SUMMARY:ЛК Динамика полета
+UID:a766d8eb576a2701c94a582195dd2b55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260409T113000Z
+LOCATION:7-404
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:0f3d9aa0266d90c050029b5e7e1e18eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260210T073000Z
+LOCATION:7-408
+DTSTART:20260210T060000Z
+SUMMARY:ЛК Силовая установка
+UID:75d0bfa424219034cc5381d4d8d425bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251203T150000Z
+LOCATION:5-405
+DTSTART:20251203T133000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:33d4b7439183ee88b6f5c8dae4906d71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251008T114500Z
+SUMMARY:ПЗ Численные методы
+UID:43f04a014e7d95b6e6566a75f00a5e50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260302T073000Z
+LOCATION:ГАК-320
+DTSTART:20260302T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:7c754351d2d0a9351b2b5ec65223610c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T091500Z
+LOCATION:7-416
+DTSTART:20250912T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:33dd193db71353f2e0ac66d1ee6a5c02
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T091500Z
+LOCATION:7-416
+DTSTART:20251128T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:611a33ed99f392c7180cd212936754f5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260225T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:6391632e9168c57e41199297f6c6b830
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251030T131500Z
+LOCATION:7-404
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Строительная механика и прочность самолета
+UID:d4ff6b6dce8fd96c3ed950d51cca3e9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251209T150000Z
+LOCATION:7-325
+DTSTART:20251209T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:406accc454d7d3b0124ce9c84b485986
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260520T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:d07f7defb611141c8e182d56ae1ef027
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T073000Z
+LOCATION:7-404
+DTSTART:20260410T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:5e8ae228a84ce415e37928a35a1c933b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260420T073000Z
+LOCATION:ГАК-320
+DTSTART:20260420T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:d6948fcd3cb34828e8add9362e610210
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T113000Z
+LOCATION:ГУК Б-646
+DTSTART:20251031T100000Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:d8aa5998318aea22cbb5a02d40f84658
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T091500Z
+LOCATION:7-404
+DTSTART:20251222T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:534de6f479a08f72b2fdae02395d39d9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T113000Z
+LOCATION:4-100
+DTSTART:20251114T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:a5e10420637b864f365c6b8d68aff51b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260506T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:1f62b4a729352aeb1c9bdecaf2c59cfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260306T131500Z
+LOCATION:24-525
+DTSTART:20260306T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:62eb34a5192fa17f6c7fe73bff032212
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260518T073000Z
+LOCATION:ГАК-320
+DTSTART:20260518T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:ed4186c7f609a2fed8011d2fcea9ae2a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T073000Z
+LOCATION:--каф. 919
+DTSTART:20250926T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e8be7e2dec3cd5c93231a0e436c796ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T113000Z
+LOCATION:24-310
+DTSTART:20251121T100000Z
+SUMMARY:ЛР Строительная механика и прочность самолета
+UID:1cbebd309533039194c957333c200d72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260515T113000Z
+LOCATION:24-525
+DTSTART:20260515T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:d69bc52625a5bf282acbc8a775bfc964
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251223T150000Z
+LOCATION:7-325
+DTSTART:20251223T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:3e86523be89d061a7e3cc7e65607cd83
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250916T150000Z
+LOCATION:7-325
+DTSTART:20250916T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:db2c94758f5aa839424bb3afbac29fed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260320T131500Z
+LOCATION:24-525
+DTSTART:20260320T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:6f57d3a9943cabf68d2a27cc5a87691b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260414T073000Z
+LOCATION:7-408
+DTSTART:20260414T060000Z
+SUMMARY:ЛК Силовая установка
+UID:f5477d56a15e37620325e8ea72a2d38a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250908T113000Z
+LOCATION:7-408
+DTSTART:20250908T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:3b5fe9be31bb32c6a1b0bd7ad0b3d1a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T091500Z
+LOCATION:7-404
+DTSTART:20251006T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:7d2509828bade337fafac75d793ef6db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260515T131500Z
+LOCATION:24-525
+DTSTART:20260515T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:008fe8ac311383a112916dd9b5be2619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260430T113000Z
+LOCATION:7-404
+DTSTART:20260430T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:eadc51b5d9ac2d16ab3b2114f2377b2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260409T091500Z
+LOCATION:7-408
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:295d8d2b1fbc2d6aea3d171e0f9ab20e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260318T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260318T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:d74128a6fc408a80881bdb43f9e6d993
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T113000Z
 LOCATION:7-408
 DTSTART:20250922T100000Z
@@ -372,18 +1161,12 @@ SUMMARY:ЛК Аэродинамика
 UID:ee3cecd6f282673a91d7a465d8eacd32
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:7-416
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:fc1123a8868f202b77b56112ff464c4e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:24-310
-DTSTART:20251219T100000Z
-SUMMARY:ЛР Строительная механика и прочность самолета
-UID:6021a11a4d3c0b5f84cd0e900ac687f9
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260416T113000Z
+LOCATION:7-404
+DTSTART:20260416T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:b4aba74b2228324d11e55586b9841235
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -394,18 +1177,1075 @@ SUMMARY:ПЗ Строительная механика и прочность с�
 UID:6b5277855e989b540063b1c4bafea31e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:7-416
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:dd6c3605e07e487836c3cf787928cebf
+DTEND:20251014T164500Z
+LOCATION:7-325
+DTSTART:20251014T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:4a8931d775b6fee233f46eeb385facb2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T131500Z
+DTEND:20260313T073000Z
+LOCATION:7-404
+DTSTART:20260313T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:2c3763acc61899331eeb7e0ab967f5ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T073000Z
+LOCATION:ГАК-320
+DTSTART:20251211T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:6f2e57899d9375c258723e0f261ccb9f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260415T113000Z
+LOCATION:1-2 ангар
+DTSTART:20260415T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:84a8c715430c39a5115dc072c3f207c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251002T113000Z
+LOCATION:7-404
+DTSTART:20251002T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:36b48084cbf5cf25a561faba4e5a0a8a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T091500Z
+LOCATION:--каф. 919
+DTSTART:20251022T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9c0637e31fb84cc755d7bacf1d8b4188
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T091500Z
+LOCATION:7-404
+DTSTART:20260508T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:db786c17a03bde301c3d5aef1657218d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260211T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:1bace0807c5d60997bf9f61001b6d1bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T091500Z
+LOCATION:7-404
+DTSTART:20260320T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:2285263f401826a95d1ba19348d5375a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T113000Z
+LOCATION:7-408
+DTSTART:20251006T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:2cf048e054aa77df9d91092005c4125f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T073000Z
+LOCATION:ГАК-320
+DTSTART:20251002T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:cb44515ca71ce0f83889451606c9805a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T150000Z
+LOCATION:7-325
+DTSTART:20251111T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:3391196543dbf3c0b648decb379051dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260319T113000Z
+LOCATION:7-404
+DTSTART:20260319T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:6a718594a6b03f26b58d5abbf4d307fb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T113000Z
 LOCATION:ГУК Б-646
-DTSTART:20251003T114500Z
+DTSTART:20251003T100000Z
 SUMMARY:ЛР Детали машин и основы конструирования
-UID:207ff7a242d90f51f1d8dd77b6abbc1e
+UID:6686c0ff4739addd3cc0cd3930aa6514
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251009T091500Z
+LOCATION:7-404
+DTSTART:20251009T074500Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:e846e51af47cedef01b79058bf3029a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T073000Z
+LOCATION:ГАК-320
+DTSTART:20251113T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:92aa0848ca4ae83bbb5d59151f81d2a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T091500Z
+LOCATION:--каф. 919
+DTSTART:20251217T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6ef595a2f3a77dafb1c637996bcc1b33
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251208T091500Z
+LOCATION:7-404
+DTSTART:20251208T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:b82dd1f142fa230a7c8021fb92f4c956
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260421T113000Z
+LOCATION:7-408
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:29808af15609887b6cb835788cd72ff7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260422T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:2a8d4c4a29bd4118628373b3ddc6d868
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260401T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260401T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:6f77fbce89815f79eb85f91684660c79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260209T091500Z
+LOCATION:5-404
+DTSTART:20260209T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:1f2dace0aeff33a8c26d523369bea7ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260305T091500Z
+LOCATION:7-408
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:84f3fcce5d5ec11ac65b1d5e4d29b3ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251225T131500Z
+LOCATION:7-404
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Строительная механика и прочность самолета
+UID:00b0476a3b4366a510ffa941eb9c29ae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251125T150000Z
+LOCATION:7-325
+DTSTART:20251125T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:a192ebe27a6196a8c31d8193d733cab5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260429T113000Z
+LOCATION:1-2 ангар
+DTSTART:20260429T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:866e718fcdf5a62e12b44b326307ae96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондратенко Леонид Анатольевич
+DTEND:20260112T131500Z
+LOCATION:ГУК Б-648
+DTSTART:20260112T114500Z
+SUMMARY:Экзамен Детали машин и основы конструирования
+UID:d88c7f2780c9395a976d0581a96cfb1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T131500Z
+LOCATION:--каф. 919
+DTSTART:20260210T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:28e7f41b7fc0c775393e34d6b3b63c78
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф. 919
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:39f7c1db74541502326b5ae1f913ff89
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T131500Z
+LOCATION:ГУК Б-646
+DTSTART:20251017T114500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:0508a9884ba0f080cde30fecd733a3df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250901T091500Z
+LOCATION:7-404
+DTSTART:20250901T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:12abca2d31603198bb820392557e18ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T091500Z
+LOCATION:7-416
+DTSTART:20251226T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:e964d02fe007d66646989692ab38d6e8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T131500Z
+LOCATION:--каф. 919
+DTSTART:20260602T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:3416144d51254a7be270fa1a454cb8aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260403T131500Z
+LOCATION:24-525
+DTSTART:20260403T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:2e4a082b05dca2c3958268b8e7a3cd1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260415T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260415T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:3f4f4f7a28586d9dd2d6b265a3ba082d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251105T150000Z
+LOCATION:5-405
+DTSTART:20251105T133000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:15a843ffc86edc77bed2be9c93e71ac7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф. 919
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2073e29150d2ca48c20ccd1b46cf55d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260428T113000Z
+LOCATION:7-408
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:4c2952433c9df4a55c92068d5ce9001b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T091500Z
+LOCATION:7-404
+DTSTART:20251110T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:7b31faef8d7dd354f61e77a097cf06dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T131500Z
+LOCATION:ГУК А-711
+DTSTART:20250917T114500Z
+SUMMARY:ПЗ Численные методы
+UID:d7dc246881d6be0cf8f08d489b97b7f8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260225T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260225T100000Z
+SUMMARY:ЛР Технология производства самолетов
+UID:8f28aa41d787395256d1ce64a79d267b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260415T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260415T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:2dd693d4734b4f5f65a3536930d99066
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260312T091500Z
+LOCATION:7-408
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:b3c7fdf2573aeebf688b387f6e97be4b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250909T073000Z
+LOCATION:ГУК Б-729
+DTSTART:20250909T060000Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:40edc76442dd78010afc177427aba417
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260327T100000Z
+SUMMARY:ЛР Конструкция самолетов
+UID:f1ead0e769315fa8d52f06bebc489244
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260407T113000Z
+LOCATION:7-408
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:67806420a9b012e2255b6ec521d264c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260429T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260429T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:b8c8615d492feb406851494db8ede889
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260527T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260527T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:7efc1562e42ab37b8928f5ac0c3f7675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20250911T113000Z
+LOCATION:7-404
+DTSTART:20250911T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:411d769776e919f344be24dd0ecd1829
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260519T091500Z
+LOCATION:7-408
+DTSTART:20260519T074500Z
+SUMMARY:ЛК Динамика полета
+UID:f170121dcfc203b60af4cdb0bcfa12a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260310T091500Z
+LOCATION:7-408
+DTSTART:20260310T074500Z
+SUMMARY:ЛК Динамика полета
+UID:f592fd19a1b244a7ca9e1b87f91839cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260422T131500Z
+LOCATION:5-122
+DTSTART:20260422T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:6f93ae1189b94834592bb7767862f1e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251113T113000Z
+LOCATION:7-404
+DTSTART:20251113T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:3964371d95192ff8e351b2fc8a5d7e49
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T091500Z
+LOCATION:7-404
+DTSTART:20260410T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:743db0e42233034a322b1cd0970287dc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T073000Z
+LOCATION:7-404
+DTSTART:20260424T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:5bd2ccacbc40c1f50e79f559f36fa390
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260504T091500Z
+LOCATION:5-404
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:81af55a79498178d8a5355cee7dd7df3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T091500Z
+LOCATION:7-404
+DTSTART:20251020T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:bc52ae7076e78f502459100d282e111f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251112T113000Z
+LOCATION:5-101
+DTSTART:20251112T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:18e6f9416feb1fc82c0f1051e864707f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251008T150000Z
+LOCATION:5-405
+DTSTART:20251008T133000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:e1806f21a530cad6ce8d819cb7dbe807
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260311T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260311T114500Z
+SUMMARY:ЛР Технология производства самолетов
+UID:6cc3dc434c33cc9f2ca9becac9c53323
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260601T091500Z
+LOCATION:5-404
+DTSTART:20260601T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:44342728086950d784f06762060c346e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф. 919
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:8f4ffe9690eeb24538aa8a5afe056630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260218T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260218T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:7fcd82d52d1e9d04dd29ae0fccb97cd2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф. 919
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:f18d77b4c14d5bf817c249fb41e12471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260505T113000Z
+LOCATION:7-408
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:62a0becb83fd3fb500ed574ac42fd553
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260424T114500Z
+SUMMARY:ЛР Конструкция самолетов
+UID:d5cb1d3a39ae8bf0b8a3ddb67bcfe1f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260226T113000Z
+LOCATION:7-404
+DTSTART:20260226T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:98696eda99738788fd899a5d2447146e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T131500Z
+LOCATION:--каф. 919
+DTSTART:20260303T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7df1909bf6e653834f2b6fd139bdc1ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260330T073000Z
+LOCATION:ГАК-320
+DTSTART:20260330T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:1da2abd44770aed31401f93f71c1016c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260406T113000Z
+LOCATION:5-323
+DTSTART:20260406T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:a9b7db545c3a2b0177bdc02b04a06f9d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T073000Z
+LOCATION:7-404
+DTSTART:20260508T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:464334ff319d8133f957119bd14a042d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251204T091500Z
+LOCATION:7-404
+DTSTART:20251204T074500Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:18474355cf99564f1bddc982ca205cc7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251210T150000Z
+LOCATION:5-401б
+DTSTART:20251210T133000Z
+SUMMARY:ПЗ Культурология
+UID:df2912ce8dbb2d20795d02d9b88eaafa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260414T091500Z
+LOCATION:7-408
+DTSTART:20260414T074500Z
+SUMMARY:ЛК Динамика полета
+UID:a507dcbff55f527c14f053363b73bf0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251224T113000Z
+LOCATION:5-101
+DTSTART:20251224T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:6d755b2a09fc0c6170e37b0ec35be62e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T131500Z
+LOCATION:4-100
+DTSTART:20251128T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:4a4d2f3eed658d148aeffba4c7a8468a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260305T113000Z
+LOCATION:7-404
+DTSTART:20260305T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:f4602e1847483c3fb48b4ef089254eb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф. 919
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4b2963cef2e8944f353082e95290c0f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T091500Z
+LOCATION:--каф. 919
+DTSTART:20251126T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:58ab684538f6c6bfcd467058ae75576d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260521T113000Z
+LOCATION:7-404
+DTSTART:20260521T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:5efaf92f95ca7b2eea64c9965ac45a2b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T113000Z
+LOCATION:7-408
+DTSTART:20251110T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:d889b81a567d1208264d4183d2cb7cbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251022T150000Z
+LOCATION:5-405
+DTSTART:20251022T133000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:e8d9369770f554a61a8504f063e8845f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T091500Z
+LOCATION:7-416
+DTSTART:20251024T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:de84e9268b7f0e29f336026bb82af6e6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T073000Z
+LOCATION:--каф. 919
+DTSTART:20251107T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4d0ff9abe1d0b7b1c58fb461d5704be2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T091500Z
+LOCATION:7-416
+DTSTART:20251121T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:626e636f62dde5dbfb1ea10192ba0ead
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251126T113000Z
+LOCATION:5-101
+DTSTART:20251126T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:a5b461d21fae7a606ab0cd9f118bfb26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260401T113000Z
+LOCATION:2-215(2В)
+DTSTART:20260401T100000Z
+SUMMARY:ЛР Силовая установка
+UID:12b33d9ae842f07cec0093c4f7bbcbfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251030T113000Z
+LOCATION:7-404
+DTSTART:20251030T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:07f56810e4627f51781bd1196c58ce0b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T091500Z
+LOCATION:ГАК-320
+DTSTART:20251030T074500Z
+SUMMARY:ЛК Численные методы
+UID:26ea323e913ed3821325440ed31dbcf8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T091500Z
+LOCATION:7-416
+DTSTART:20251107T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:0e0eee89b74c454f011d34d87f5939a4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T131500Z
+LOCATION:--каф. 919
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b59f145ff287468ad224bb318f9425d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T091500Z
+LOCATION:--каф. 919
+DTSTART:20251112T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6024ac493bdb81acb7e09e4fc75b79f5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250903T131500Z
+LOCATION:ГУК А-711
+DTSTART:20250903T114500Z
+SUMMARY:ПЗ Численные методы
+UID:4df8066b7dd42f1e8bc7603444d3b3d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260603T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:d9c46bf4446d21b5ee6f29600a75d7cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260408T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260408T100000Z
+SUMMARY:ЛР Технология производства самолетов
+UID:35a07acaa271e116fb09f68085d1d48a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T091500Z
+LOCATION:--каф. 919
+DTSTART:20251224T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e5b7c1058435253ada79fcd5305f4f4f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260423T113000Z
+LOCATION:7-404
+DTSTART:20260423T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:8a0f3ad04c38ee24c8a867f0f9d36c81
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260604T091500Z
+LOCATION:7-408
+DTSTART:20260604T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:17ba262ee5a6cb884faa119b4abdb1bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T131500Z
+LOCATION:ГУК Б-340
+DTSTART:20250926T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:b937d985494227c38d545391063987e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260520T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:6e86b140ab15ba0a1b38049fcb8a03c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260604T113000Z
+LOCATION:7-404
+DTSTART:20260604T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:897d20ee899f35dd58caedbd29155822
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T131500Z
+LOCATION:ГУК Б-646
+DTSTART:20250919T114500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:0385663df62d426bfc43a78597c724ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T091500Z
+LOCATION:7-404
+DTSTART:20260306T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:927b3a955a7d692bda82fb88cfb6318f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260218T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260218T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:53707268f41ada7c19e2e552bf90d5c7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250930T150000Z
+LOCATION:7-325
+DTSTART:20250930T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:d08f7109e7e24c1776e62899d0442dc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251120T113000Z
+LOCATION:7-404
+DTSTART:20251120T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:47daa5428a30dae8d4d82c0e491a0f82
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260422T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:b3799fa77c9b113fa4353c7897276e87
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251224T150000Z
+LOCATION:5-401б
+DTSTART:20251224T133000Z
+SUMMARY:ПЗ Культурология
+UID:ae07f32e5abf1bdf6307a03045185980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260603T131500Z
+LOCATION:5-122
+DTSTART:20260603T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:828b07c8b87ebbce894b11aa09066e99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T131500Z
+LOCATION:24-310
+DTSTART:20251121T114500Z
+SUMMARY:ЛР Строительная механика и прочность самолета
+UID:39e78de881f8cd34f240a7e55fd27911
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T073000Z
+LOCATION:ГУК Б-729
+DTSTART:20251021T060000Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:2bf7dee1a661dbae788c9c04bc948bdb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260413T091500Z
+LOCATION:5-404
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:cf511264852ad38a7ede2380802566de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T091500Z
+LOCATION:7-404
+DTSTART:20251201T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:4ef07196c297066c768ae242e1996518
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T091500Z
+LOCATION:ГАК-320
+DTSTART:20251127T074500Z
+SUMMARY:ЛК Численные методы
+UID:0b18b07f83f8c31548243b822a20e1f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T091500Z
+LOCATION:ГУК Б-729
+DTSTART:20251007T074500Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:bb9a139b4fa3821cbf949c424c859a42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондратенко Леонид Анатольевич
+DTEND:20260112T113000Z
+LOCATION:ГУК Б-648
+DTSTART:20260112T100000Z
+SUMMARY:Экзамен Детали машин и основы конструирования
+UID:7d188b2364952759b18c0264ca874a31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20251027T131500Z
+LOCATION:7-411
+DTSTART:20251027T114500Z
+SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:3af4c4d494080e734ad66a8f7dd89253
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T091500Z
+LOCATION:--каф. 919
+DTSTART:20250924T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:209b30d1f139160fd3458d0f60538c39
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T131500Z
+LOCATION:ГУК Б-340
+DTSTART:20251010T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:7e321ffaef1acf0c9d576fdbd15f5fb8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T073000Z
+LOCATION:--каф. 919
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d8394e245179a4f48f46cdb3d9dc4e16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T113000Z
+LOCATION:7-408
+DTSTART:20251020T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:dcda4fc41f7fec57987eda553a46a70e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T091500Z
+LOCATION:--каф. 919
+DTSTART:20251008T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7faaa87e554950798391338a1a723a4d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T073000Z
+LOCATION:ГАК-320
+DTSTART:20250904T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:a1c860a1e61cc3a70e7224b638291f99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260527T131500Z
+LOCATION:1-2 ангар
+DTSTART:20260527T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:5cad241f03f11628271b00b86e05025d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251211T131500Z
+LOCATION:7-404
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Строительная механика и прочность самолета
+UID:ede96d1d4af81ef06195e18c598d4ac7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260525T091500Z
+LOCATION:5-404
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:5ee3d0c7a5f203e511d1a96e4d700ced
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260218T131500Z
+LOCATION:2-215(2В)
+DTSTART:20260218T114500Z
+SUMMARY:ЛР Силовая установка
+UID:77f6ffc222fd75fe7fd86d0a9ace3a18
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T113000Z
+LOCATION:7-408
+DTSTART:20251201T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:5fe3dfc8bdd43684a7f41fb36f3ebb3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260511T073000Z
+LOCATION:ГАК-320
+DTSTART:20260511T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:c4dc1a7d76bea305e0021e7a7f9b663e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260317T113000Z
+LOCATION:7-408
+DTSTART:20260317T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:d856a4b6b2e97cc94a08e36d264802c6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T091500Z
+LOCATION:7-416
+DTSTART:20250926T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:49923f7dc20586b2a564581ba8b31957
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260406T091500Z
+LOCATION:5-404
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:f95f4c7bba688fe576878c324d8d1189
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260415T131500Z
+LOCATION:1-2 ангар
+DTSTART:20260415T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:d86ea1076c2fed6618d4ef4aecc407dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260225T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:730b80ffb70d1dc287b9969c22b1c98e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260304T131500Z
+LOCATION:2-215(2В)
+DTSTART:20260304T114500Z
+SUMMARY:ЛР Силовая установка
+UID:e9ee48cec5b06660dab80ad32a46cb09
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T073000Z
+LOCATION:ГАК-320
+DTSTART:20250925T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:723bcf55d83a3eb97bf8d13843bfe220
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T073000Z
+LOCATION:7-404
+DTSTART:20260306T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:8192ca97869ae5fc9630103ccb671b96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260212T113000Z
+LOCATION:7-404
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:e7084e06e3616ee1de62e518f819d821
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T091500Z
+LOCATION:7-404
+DTSTART:20251117T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:3c454ebc290d266d1576d12804544554
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250910T091500Z
+LOCATION:--каф. 919
+DTSTART:20250910T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d1e972cd5b137e86177e189ba5e41fc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20250924T150000Z
+LOCATION:5-405
+DTSTART:20250924T133000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:28dc874e2aac40272bd4091e9c62c2bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260528T091500Z
+LOCATION:7-408
+DTSTART:20260528T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:eb08e9624a2d3200a42ae85f5cfc8b51
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260504T113000Z
+LOCATION:5-323
+DTSTART:20260504T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:6755684622de57428d6b3bbfc6cfbfde
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T091500Z
@@ -413,13 +2253,6 @@ LOCATION:7-404
 DTSTART:20251103T074500Z
 SUMMARY:ЛК Детали машин и основы конструирования
 UID:58299dfc3a12e2dea72a930b411dac79
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T164500Z
-LOCATION:7-325
-DTSTART:20251014T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:4a8931d775b6fee233f46eeb385facb2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T131500Z
@@ -437,18 +2270,19 @@ SUMMARY:ПЗ Строительная механика и прочность с�
 UID:c054a9d96abf9b499d30b54ef77a7772
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T073000Z
-LOCATION:ГАК-320
-DTSTART:20251211T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:6f2e57899d9375c258723e0f261ccb9f
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251212T091500Z
 LOCATION:7-416
 DTSTART:20251212T074500Z
 SUMMARY:ЛК Прикладная экология
 UID:888045a29063e3504ca0e281b621e2a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260216T091500Z
+LOCATION:5-404
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:de1df8bee0d40965f787f28f076c24f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -459,61 +2293,11 @@ SUMMARY:ПЗ Строительная механика и прочность с�
 UID:47ca9cacbce25526ccf3f991bb904f9c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251002T113000Z
-LOCATION:7-404
-DTSTART:20251002T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:36b48084cbf5cf25a561faba4e5a0a8a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250919T113000Z
 LOCATION:ГУК Б-646
 DTSTART:20250919T100000Z
 SUMMARY:ЛР Детали машин и основы конструирования
 UID:780883e166e80cdd0b42d49c52a80e0e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T091500Z
-LOCATION:--каф. 919
-DTSTART:20251022T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:9c0637e31fb84cc755d7bacf1d8b4188
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:ГАК-320
-DTSTART:20251023T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:35910d18d0383962f7886a4e0c11a8b7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T091500Z
-LOCATION:7-404
-DTSTART:20250922T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:b8fb0b3bc560d582ff673aec167f73c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:--каф. 919
-DTSTART:20251001T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:394a3d9c3d64e2e3d9c1cfd58989141e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T113000Z
-LOCATION:7-408
-DTSTART:20251006T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:2cf048e054aa77df9d91092005c4125f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T073000Z
-LOCATION:ГАК-320
-DTSTART:20251002T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:cb44515ca71ce0f83889451606c9805a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T091500Z
@@ -523,18 +2307,11 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:a8a71744a877fbe219b9afca50f87799
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:4-100
-DTSTART:20251226T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:35df6f1c4bec8127bac6ba87b9f30f81
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T150000Z
-LOCATION:7-325
-DTSTART:20251111T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:3391196543dbf3c0b648decb379051dd
+DTEND:20260417T091500Z
+LOCATION:7-404
+DTSTART:20260417T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:c8df5accea3ce7d9a9c9b81d9d6bc4c1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250915T091500Z
@@ -542,13 +2319,6 @@ LOCATION:7-404
 DTSTART:20250915T074500Z
 SUMMARY:ЛК Детали машин и основы конструирования
 UID:8bfdae02b6c55a1c8d1bba5a0e44b70e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20251003T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:6686c0ff4739addd3cc0cd3930aa6514
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -559,19 +2329,12 @@ SUMMARY:ЛК Строительная механика и прочность с�
 UID:d6c80f01ea24d8a4c2d32e102c8ece74
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251009T091500Z
-LOCATION:7-404
-DTSTART:20251009T074500Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:e846e51af47cedef01b79058bf3029a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251126T114500Z
-SUMMARY:ПЗ Численные методы
-UID:b181ffb18d71ea5a0242b27d4d2fb285
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251203T113000Z
+LOCATION:5-401б
+DTSTART:20251203T100000Z
+SUMMARY:ЛК Культурология
+UID:29b9f7c85f2de12fbbb1a45359779d7f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T113000Z
@@ -581,41 +2344,19 @@ SUMMARY:ЛР Детали машин и основы конструирован�
 UID:65e66bd2268264b28fa47b97625d9e42
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251203T113000Z
-LOCATION:5-401б
-DTSTART:20251203T100000Z
-SUMMARY:ЛК Культурология
-UID:29b9f7c85f2de12fbbb1a45359779d7f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Численные методы
-UID:afd7c6e273daecd295b1ff3b20ccd237
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T150000Z
-LOCATION:7-325
-DTSTART:20251028T133000Z
+DTEND:20260506T091500Z
+LOCATION:1-10 ангар
+DTSTART:20260506T074500Z
 SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:0cf146d8d20ad8143668aacb1a6fa078
+UID:ea49d05794c900f2fb14fbd225a25eed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251015T113000Z
-LOCATION:5-101
-DTSTART:20251015T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:17c5521e75cbc47ae39be77f7198057e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:ГАК-320
-DTSTART:20251113T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:92aa0848ca4ae83bbb5d59151f81d2a8
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260428T073000Z
+LOCATION:7-408
+DTSTART:20260428T060000Z
+SUMMARY:ЛК Силовая установка
+UID:8b23031004e32f141faa83c0879e5b1e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T091500Z
@@ -625,20 +2366,11 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:8ef4979acb2d25a3a639ba74b8954aae
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251225T113000Z
+DTEND:20260213T091500Z
 LOCATION:7-404
-DTSTART:20251225T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:7575efacb819dbcf5b566c37609288c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251103T131500Z
-LOCATION:7-411
-DTSTART:20251103T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:d42be06c9743522b35cd18e1466e7eb8
+DTSTART:20260213T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:8728a2d73ee12c2ff98be9af700bae91
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T131500Z
@@ -646,20 +2378,6 @@ LOCATION:ГУК А-711
 DTSTART:20251203T114500Z
 SUMMARY:ПЗ Численные методы
 UID:013eb051fb85ccfb94e8e2b7b5cc0cb6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T091500Z
-LOCATION:--каф. 919
-DTSTART:20251217T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:6ef595a2f3a77dafb1c637996bcc1b33
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T073000Z
-LOCATION:ГАК-320
-DTSTART:20250918T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:56062c5e712c4d5cdb2027d6653ea3f4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T091500Z
@@ -692,11 +2410,12 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:d57936c5b824deb7bfb1ceaeb95a15c2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251208T091500Z
-LOCATION:7-404
-DTSTART:20251208T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:b82dd1f142fa230a7c8021fb92f4c956
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260504T073000Z
+LOCATION:ГАК-320
+DTSTART:20260504T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:d87924fb4516320ff8a102e95d75f775
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -729,18 +2448,20 @@ SUMMARY:ПЗ Нормативно-правовое сопровождение э
 UID:9bdfe0340f810f96c939401dfecf2ffc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T131500Z
-LOCATION:24-310
-DTSTART:20251205T114500Z
-SUMMARY:ЛР Строительная механика и прочность самолета
-UID:18b448202ab7a650da7240925034fe95
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260603T113000Z
+LOCATION:5-122
+DTSTART:20260603T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:b71106a6b4d4ffed8e966aec582d7adf
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T131500Z
-LOCATION:24-310
-DTSTART:20251219T114500Z
-SUMMARY:ЛР Строительная механика и прочность самолета
-UID:0257cd9f95df7c636124133e6d965046
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260430T091500Z
+LOCATION:7-408
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:4295f387bfaa2abefe7997c4e2bfb42e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T091500Z
@@ -750,79 +2471,34 @@ SUMMARY:ЛК Детали машин и основы конструирован�
 UID:59a94f1b631a77744f24b98fbddf7f1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251113T131500Z
-LOCATION:7-404
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Строительная механика и прочность самолета
-UID:d43a83df3469ae16354e4303c71dbf1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T091500Z
+DTEND:20260317T131500Z
 LOCATION:--каф. 919
-DTSTART:20250917T074500Z
+DTSTART:20260317T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:a773e0521eac0a5cfd54d43d31d251a3
+UID:551a1fbefb5dee457a15004cfbd31908
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T113000Z
+DTEND:20260325T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260325T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:7f08886ad4794c390751aaf39dc29788
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260505T073000Z
 LOCATION:7-408
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:fd3f63b7a217287ef2f05b9cc4fa7de9
+DTSTART:20260505T060000Z
+SUMMARY:ЛК Силовая установка
+UID:57e4666c669b53b3137e9ccb989f8c1f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T091500Z
-LOCATION:--каф. 919
-DTSTART:20251119T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:6fe414a76c0e135693f9f8e7797af2ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251225T131500Z
-LOCATION:7-404
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Строительная механика и прочность самолета
-UID:00b0476a3b4366a510ffa941eb9c29ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20250924T113000Z
-LOCATION:5-401б
-DTSTART:20250924T100000Z
-SUMMARY:ЛК Культурология
-UID:38a01d53052c4891897089aff8d964f3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251023T113000Z
-LOCATION:7-404
-DTSTART:20251023T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:17e14cb5aed9ea378dc9cba024419f02
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T150000Z
-LOCATION:7-325
-DTSTART:20251125T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:a192ebe27a6196a8c31d8193d733cab5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондратенко Леонид Анатольевич
-DTEND:20260112T131500Z
-LOCATION:ГУК Б-648
-DTSTART:20260112T114500Z
-SUMMARY:Экзамен Детали машин и основы конструирования
-UID:d88c7f2780c9395a976d0581a96cfb1e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T164500Z
-LOCATION:7-325
-DTSTART:20250902T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:9dcb3b5da86cb128ac52573b2152fd47
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260428T091500Z
+LOCATION:7-408
+DTSTART:20260428T074500Z
+SUMMARY:ЛК Динамика полета
+UID:a73744650fc76eebcdf86cd19b6d37d6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T164500Z
@@ -832,12 +2508,12 @@ SUMMARY:ЛР Информационная поддержка жизненног�
 UID:2b68539b674f2213e3ec7eb6899af3c6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251106T091500Z
-LOCATION:7-404
-DTSTART:20251106T074500Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:cdcbcd6d504edffd06e0ee8b9cd6907c
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260210T113000Z
+LOCATION:7-408
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:006af92dff32926fc2269dabd98bffbc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T113000Z
@@ -847,25 +2523,12 @@ SUMMARY:ЛР Технология конструкционных материа�
 UID:4f60c1a1c2a34d48419de837642fe99c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Численные методы
-UID:a24da975ac17c41c1a8e1874967b660a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T150000Z
-LOCATION:7-325
-DTSTART:20251209T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:406accc454d7d3b0124ce9c84b485986
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T091500Z
-LOCATION:ГУК Б-729
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:f2b374ea0ad32768c63bd406353abdcd
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260601T073000Z
+LOCATION:ГАК-320
+DTSTART:20260601T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:247b21463536380e9d1596029342df73
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T131500Z
@@ -882,18 +2545,931 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:823531fee875f08209047b1959bacf2b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251017T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20251017T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:0508a9884ba0f080cde30fecd733a3df
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20250917T150000Z
+LOCATION:5-401б
+DTSTART:20250917T133000Z
+SUMMARY:ПЗ Культурология
+UID:ad8b77126c77b80a46760fdd44aea6c8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250901T091500Z
+DTEND:20251105T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251105T114500Z
+SUMMARY:ПЗ Численные методы
+UID:56c8dacdabcc06e376db9ed70a85915b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260603T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:fddf4081269a8ff3c71057ea26d8e3aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260226T091500Z
+LOCATION:7-408
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:9c6bfcff9944408965b477eee502921e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф. 919
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:de86750197cf6d4df9f611d1ab9dcd47
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251223T164500Z
+LOCATION:7-325
+DTSTART:20251223T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:1e7ab8b5ebdcdb8d7544aab570a47620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260224T091500Z
+LOCATION:7-408
+DTSTART:20260224T074500Z
+SUMMARY:ЛК Динамика полета
+UID:7e26fbccbe3ea247c1996eb4c72d8c2c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251105T113000Z
+LOCATION:5-401б
+DTSTART:20251105T100000Z
+SUMMARY:ЛК Культурология
+UID:29bf53e685dae3e78689f38280e05bf8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T113000Z
+LOCATION:7-408
+DTSTART:20251013T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:d1ada807ad4bb2ac215bd2c96b973870
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251211T113000Z
 LOCATION:7-404
-DTSTART:20250901T074500Z
+DTSTART:20251211T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:c7c3ed76a6618b797b9a2b7744bf0d06
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T113000Z
+LOCATION:7-408
+DTSTART:20251124T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:77224a005b1c7ec43d790d10cff63cf1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260311T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260311T100000Z
+SUMMARY:ЛР Технология производства самолетов
+UID:6bbd4e0fff6fec5a02acecdc540a2a38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260304T113000Z
+LOCATION:2-215(2В)
+DTSTART:20260304T100000Z
+SUMMARY:ЛР Силовая установка
+UID:1ef830300735e9048b257bbfa73a92a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251209T164500Z
+LOCATION:7-325
+DTSTART:20251209T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:8ce0b6a385dc359141b0cb0df3c4af3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуереш Джахид
+DTEND:20260116T091500Z
+LOCATION:7-406
+DTSTART:20260116T074500Z
+SUMMARY:Экзамен Аэродинамика
+UID:130d2805e299ca86d0233592f12cc868
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T073000Z
+LOCATION:--каф. 919
+DTSTART:20251010T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:5562627e7530791bdfbff981d111a94f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T073000Z
+LOCATION:--каф. 919
+DTSTART:20251031T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b52d6985eaf3f95dca237e98981736eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260330T091500Z
+LOCATION:5-404
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:db04448d0231e4b86a1ce68f16f7833c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260513T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260513T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:e8ad6e1352de20c423bfdc52debd741f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260320T113000Z
+LOCATION:24-525
+DTSTART:20260320T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:1754d12bb02107b6d81c8e6a296ba834
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T073000Z
+LOCATION:7-404
+DTSTART:20260327T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:2f6dd379d788d578f16abe90094e4a47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20251217T113000Z
+LOCATION:5-401б
+DTSTART:20251217T100000Z
+SUMMARY:ЛК Культурология
+UID:306b429c7638c3d9b5f213d1459ae837
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260521T091500Z
+LOCATION:7-408
+DTSTART:20260521T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:a75c5d7ee0d826b29cb2b3911bb257cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251212T113000Z
+LOCATION:4-100
+DTSTART:20251212T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:3eb93c4cb1109abe61f79710b09cac32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T131500Z
+LOCATION:ГУК Б-646
+DTSTART:20251031T114500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:b5f6a1f6c4469e064762bfdd42ef3f9b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260303T073000Z
+LOCATION:7-408
+DTSTART:20260303T060000Z
+SUMMARY:ЛК Силовая установка
+UID:e1d0755901fbba9bacb98f6e0e7a5244
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T150000Z
+LOCATION:7-325
+DTSTART:20251014T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:de516fc81ed956535fc0824a47072b6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260420T091500Z
+LOCATION:5-404
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:db6f6c5264932a2ee0e0369d98f77c9f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T091500Z
+LOCATION:--каф. 919
+DTSTART:20251105T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:dc369238c3c5de86b9baf2e60bd2fcf2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251210T114500Z
+SUMMARY:ПЗ Численные методы
+UID:8d26bacef50d8c2164d9180bd429fe96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260209T073000Z
+LOCATION:ГАК-320
+DTSTART:20260209T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:687863186704b8765e42b151d8694644
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251217T114500Z
+SUMMARY:ПЗ Численные методы
+UID:72c15dccb441a89050af9caf3c9509a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20250925T113000Z
+LOCATION:7-404
+DTSTART:20250925T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:4e0a96389b9b8562caf7707e1b37e692
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф. 919
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:174f5ee4746483a556c108af1d3f22ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251218T091500Z
+LOCATION:7-404
+DTSTART:20251218T074500Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:8d52637a7b8758ace66a4705de24c674
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260316T073000Z
+LOCATION:ГАК-320
+DTSTART:20260316T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:5579841e84183deca522f73c55c81499
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260402T091500Z
+LOCATION:7-408
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:7c0f75c25a4cbd09e1070bdd683a4e60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260520T113000Z
+LOCATION:5-122
+DTSTART:20260520T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:dcb51f4a24495d361bbf789a8349d6ac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251212T131500Z
+LOCATION:4-100
+DTSTART:20251212T114500Z
+SUMMARY:ЛР Аэродинамика
+UID:8730f68bbcee564efeb1073ee77ad892
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T164500Z
+LOCATION:7-325
+DTSTART:20251111T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:414e84e8350d848339c0fbbacda2c8fa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T131500Z
+LOCATION:--каф. 919
+DTSTART:20260310T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9200fc010b7d6775c7bd37b098990ba6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260427T091500Z
+LOCATION:5-404
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:206e5f451edaf44dc37bf33cbb8fa4bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260601T113000Z
+LOCATION:5-323
+DTSTART:20260601T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:d634f7de334dcd9482cbac87910442b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T073000Z
+LOCATION:ГАК-320
+DTSTART:20251218T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:ed591ab277bc9ff2fa51841aae7ac715
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:1-10 ангар
+DTSTART:20260408T060000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:8242fcabc1bc14f58a8ba45af21185ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250910T131500Z
+LOCATION:ГУК А-711
+DTSTART:20250910T114500Z
+SUMMARY:ПЗ Численные методы
+UID:0a312d8662c9edff9467babbf4868cc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260407T091500Z
+LOCATION:7-408
+DTSTART:20260407T074500Z
+SUMMARY:ЛК Динамика полета
+UID:f7dc479cce3cf2501a1f4d06269dcb1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260416T091500Z
+LOCATION:7-408
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:dc0aca0f756b430573fa3828924900e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251215T091500Z
+LOCATION:7-404
+DTSTART:20251215T074500Z
 SUMMARY:ЛК Детали машин и основы конструирования
-UID:12abca2d31603198bb820392557e18ef
+UID:dfb3aabe1cb17e324de2c6155b213287
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260324T091500Z
+LOCATION:7-408
+DTSTART:20260324T074500Z
+SUMMARY:ЛК Динамика полета
+UID:cf1d5e132a6e563aedfea8538e6e6a0a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260209T113000Z
+LOCATION:5-323
+DTSTART:20260209T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:6cd5dc17f0bd1beec356b0c0e926113b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260219T113000Z
+LOCATION:7-404
+DTSTART:20260219T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:08a0893271dfd0beecf3c45a261999bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251218T113000Z
+LOCATION:7-404
+DTSTART:20251218T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:7677fa9cb03d571498df1dcd2216386b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T131500Z
+LOCATION:--каф. 919
+DTSTART:20260421T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:cb2b97a50543a861bef1e1d2292b444a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260518T113000Z
+LOCATION:5-323
+DTSTART:20260518T100000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:a77b525550043d295136f8f688e0bc2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260514T091500Z
+LOCATION:7-408
+DTSTART:20260514T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:46ce4ea774d69a0213d7b551a9d062d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T073000Z
+LOCATION:ГАК-320
+DTSTART:20251127T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:bcfd9876828d82787d9566fd4084dc30
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T113000Z
+LOCATION:4-100
+DTSTART:20251128T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:824720a4755b037da8fca773bbc68499
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251016T113000Z
+LOCATION:7-404
+DTSTART:20251016T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:e4f0f10e3ee2c1c2cdab05e62912c800
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260403T113000Z
+LOCATION:24-525
+DTSTART:20260403T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:f9b33b951ced7e591234214cdbff1fc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T091500Z
+LOCATION:7-416
+DTSTART:20251205T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:845d9eb06b8f474d894dbfa2fad6c5e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20250929T131500Z
+LOCATION:7-411
+DTSTART:20250929T114500Z
+SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:2d330ed2ca7e95513ff96b5fb99448e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260506T131500Z
+LOCATION:5-122
+DTSTART:20260506T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:c638df68bc7263bb1f9ed5bef76ecbbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20250910T113000Z
+LOCATION:5-401б
+DTSTART:20250910T100000Z
+SUMMARY:ЛК Культурология
+UID:d2c9287f331109baa52a76e397ff9110
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Демидова Ольга Львовна
+DTEND:20260120T073000Z
+LOCATION:ГУК А-610
+DTSTART:20260120T060000Z
+SUMMARY:Экзамен Численные методы
+UID:a7656b906b0c07aafdd2239389a02709
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T073000Z
+LOCATION:7-404
+DTSTART:20260403T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:5154afd61f82c90e81ffc5cb425e7244
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T113000Z
+LOCATION:ГУК Б-340
+DTSTART:20251010T100000Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:8671ff467721d8609d481920b10e5d01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20250918T113000Z
+LOCATION:7-404
+DTSTART:20250918T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:244a5cf0c0201b1cc9c0498b1440546f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260423T091500Z
+LOCATION:7-408
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:dfc6e02ac8ef6b46f2f415b20611befe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251210T113000Z
+LOCATION:5-101
+DTSTART:20251210T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:b1eac2abee06f615587343b4e8cfdb3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260525T073000Z
+LOCATION:ГАК-320
+DTSTART:20260525T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:a7f985537eafa154c2ec9ff21401148c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:7-404
+DTSTART:20260327T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:018ddcbc460383322a3047cc78aae206
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T073000Z
+LOCATION:--каф. 919
+DTSTART:20251128T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7c31166463f20e94e1691aed187cab22
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260302T091500Z
+LOCATION:5-404
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:11be122523d2920e86e57bdce1c48201
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260331T091500Z
+LOCATION:7-408
+DTSTART:20260331T074500Z
+SUMMARY:ЛК Динамика полета
+UID:f2e9f082f5374db40f27ebecec0bdea1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T091500Z
+LOCATION:7-404
+DTSTART:20260424T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:07fd37aaa0ce81c1547ff6c65299884f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T113000Z
+LOCATION:7-408
+DTSTART:20251103T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:e8c6abf5612eb361cd820e2a84b01f68
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260304T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260304T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:3b73a4f5f3c13bf94de4a33712f583c7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T073000Z
+LOCATION:ГАК-320
+DTSTART:20251106T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:5e3010acb3027834e1f93ea100548514
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T131500Z
+LOCATION:ГУК А-711
+DTSTART:20250924T114500Z
+SUMMARY:ПЗ Численные методы
+UID:79056b4f601b5fb4fa48923212f5bfed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T113000Z
+LOCATION:7-408
+DTSTART:20251117T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:5ef08a18b3911fc48d2a318a6e8415c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251002T131500Z
+LOCATION:7-404
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Строительная механика и прочность самолета
+UID:4784fe41a0c94618ddf405002814a1d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T113000Z
+LOCATION:24-310
+DTSTART:20251219T100000Z
+SUMMARY:ЛР Строительная механика и прочность самолета
+UID:6021a11a4d3c0b5f84cd0e900ac687f9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T091500Z
+LOCATION:7-416
+DTSTART:20251114T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:fc1123a8868f202b77b56112ff464c4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260512T091500Z
+LOCATION:7-408
+DTSTART:20260512T074500Z
+SUMMARY:ЛК Динамика полета
+UID:26651a3ba979efb4d6fa679bb63abbb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260417T113000Z
+LOCATION:24-525
+DTSTART:20260417T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:12430d3eee6639788d9807c2af5d1e0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T131500Z
+LOCATION:ГУК Б-646
+DTSTART:20251003T114500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:207ff7a242d90f51f1d8dd77b6abbc1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T091500Z
+LOCATION:7-404
+DTSTART:20260220T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:d6d7d8ab861aed8b9f741c696031d833
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T073000Z
+LOCATION:7-404
+DTSTART:20260220T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:794472df62189d2d0c0567b2e71d7f1b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T073000Z
+LOCATION:ГАК-320
+DTSTART:20251023T060000Z
+SUMMARY:ЛК Технология конструкционных материалов
+UID:35910d18d0383962f7886a4e0c11a8b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260526T073000Z
+LOCATION:7-408
+DTSTART:20260526T060000Z
+SUMMARY:ЛК Силовая установка
+UID:90e91e06a38a4950500c12432800edd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260527T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260527T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:98a792507dc43207d8f89ee775e82ad2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250922T091500Z
+LOCATION:7-404
+DTSTART:20250922T074500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:b8fb0b3bc560d582ff673aec167f73c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260507T091500Z
+LOCATION:7-408
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:fa93110a3ea99bd2fdc2bc97f5925dd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260218T113000Z
+LOCATION:2-215(2В)
+DTSTART:20260218T100000Z
+SUMMARY:ЛР Силовая установка
+UID:1581be742edfed9dd8fe4ff6278fa516
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T131500Z
+LOCATION:--каф. 919
+DTSTART:20260505T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d5d601ff5a0ee57d63abb52e6577e3ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T091500Z
+LOCATION:--каф. 919
+DTSTART:20251001T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:394a3d9c3d64e2e3d9c1cfd58989141e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260513T113000Z
+LOCATION:1-2 ангар
+DTSTART:20260513T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов агрегатов самолетов
+UID:a44edadeaed3f47b908c21568f827780
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T113000Z
+LOCATION:4-100
+DTSTART:20251226T100000Z
+SUMMARY:ЛР Аэродинамика
+UID:35df6f1c4bec8127bac6ba87b9f30f81
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251126T114500Z
+SUMMARY:ПЗ Численные методы
+UID:b181ffb18d71ea5a0242b27d4d2fb285
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T131500Z
+LOCATION:ГУК А-711
+DTSTART:20251224T114500Z
+SUMMARY:ПЗ Численные методы
+UID:afd7c6e273daecd295b1ff3b20ccd237
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251225T113000Z
+LOCATION:7-404
+DTSTART:20251225T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:7575efacb819dbcf5b566c37609288c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260506T113000Z
+LOCATION:5-122
+DTSTART:20260506T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:052f365c2fc3a3485eb55827851f48bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мезина Наталья Андреевна
+DTEND:20251015T113000Z
+LOCATION:5-101
+DTSTART:20251015T100000Z
+SUMMARY:ЛК Основы менеджмента
+UID:17c5521e75cbc47ae39be77f7198057e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260317T073000Z
+LOCATION:7-408
+DTSTART:20260317T060000Z
+SUMMARY:ЛК Силовая установка
+UID:3022bc6fa31ab8c5b983e66b49649757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260511T091500Z
+LOCATION:5-404
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:cc704d89bed5d115898eec441ba0c9c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260408T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260408T114500Z
+SUMMARY:ЛР Технология производства самолетов
+UID:a5b5e708eff2d711fe426204393dba6f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T131500Z
+LOCATION:--каф. 919
+DTSTART:20260407T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d7e5175a1a873c40ea1dfa4472d50759
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T131500Z
+LOCATION:24-310
+DTSTART:20251219T114500Z
+SUMMARY:ЛР Строительная механика и прочность самолета
+UID:0257cd9f95df7c636124133e6d965046
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260318T164500Z
+LOCATION:ГУК Б-342
+DTSTART:20260318T151500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:82207d05cf74d8ce5ca1bc33cbe4c450
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T113000Z
+LOCATION:7-408
+DTSTART:20251027T100000Z
+SUMMARY:ЛК Аэродинамика
+UID:fd3f63b7a217287ef2f05b9cc4fa7de9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251119T091500Z
+LOCATION:--каф. 919
+DTSTART:20251119T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6fe414a76c0e135693f9f8e7797af2ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260422T113000Z
+LOCATION:5-122
+DTSTART:20260422T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:ad8f33669c8e826228bdd4d526bbcc29
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251023T113000Z
+LOCATION:7-404
+DTSTART:20251023T100000Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:17e14cb5aed9ea378dc9cba024419f02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260528T113000Z
+LOCATION:7-404
+DTSTART:20260528T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:21b6f26e821d4e1ab4ac3e7019f74a79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250902T164500Z
+LOCATION:7-325
+DTSTART:20250902T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:9dcb3b5da86cb128ac52573b2152fd47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260210T091500Z
+LOCATION:7-408
+DTSTART:20260210T074500Z
+SUMMARY:ЛК Динамика полета
+UID:32ed944a84acb98b93645fb7f6c4a769
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:7-404
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:360a24baa6192380a4bb1ef0db8fc185
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20251106T091500Z
+LOCATION:7-404
+DTSTART:20251106T074500Z
+SUMMARY:ЛК Строительная механика и прочность самолета
+UID:cdcbcd6d504edffd06e0ee8b9cd6907c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260406T073000Z
+LOCATION:ГАК-320
+DTSTART:20260406T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:12ce8599ebbc62cf7488bd3ee49cafa1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T091500Z
+LOCATION:ГУК Б-729
+DTSTART:20251021T074500Z
+SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
+UID:f2b374ea0ad32768c63bd406353abdcd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260519T073000Z
+LOCATION:7-408
+DTSTART:20260519T060000Z
+SUMMARY:ЛК Силовая установка
+UID:28d3aced33234f33e9d91254d6867c2a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф. 919
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9aedb0d1382ca0e19903ab3c9138e979
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -926,33 +3502,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:909fa93fb4935a1e3c6d333c33c458c5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20250917T150000Z
-LOCATION:5-401б
-DTSTART:20250917T133000Z
-SUMMARY:ПЗ Культурология
-UID:ad8b77126c77b80a46760fdd44aea6c8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251105T114500Z
-SUMMARY:ПЗ Численные методы
-UID:56c8dacdabcc06e376db9ed70a85915b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T091500Z
-LOCATION:7-416
-DTSTART:20250919T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:ab1ab9df205cd5cdd0e3d63b7268cc0d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T113000Z
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260324T073000Z
 LOCATION:7-408
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:6531d279e17a1c7e5b1847728ccd4175
+DTSTART:20260324T060000Z
+SUMMARY:ЛК Силовая установка
+UID:09f72abc05219dc372e215f300a0f7e6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T113000Z
@@ -962,29 +3517,6 @@ SUMMARY:ЛК Аэродинамика
 UID:2bec98fa02ddf59ba61e1e8d684e48cd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251226T091500Z
-LOCATION:7-416
-DTSTART:20251226T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:e964d02fe007d66646989692ab38d6e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251105T150000Z
-LOCATION:5-405
-DTSTART:20251105T133000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:15a843ffc86edc77bed2be9c93e71ac7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251204T113000Z
-LOCATION:7-404
-DTSTART:20251204T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:1126d368a7b07c487697b397c2066577
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251016T091500Z
 LOCATION:ГАК-320
 DTSTART:20251016T074500Z
@@ -992,25 +3524,11 @@ SUMMARY:ЛК Численные методы
 UID:87d8ade0e3c6bae3c6649ec656a41ee2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:7-416
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:6bd2e9735d686ee8f418da09b55aadb8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:7-416
-DTSTART:20251017T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:6d098ef969c2fbc508cbead0f14a5ff7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T164500Z
-LOCATION:7-325
-DTSTART:20251223T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:1e7ab8b5ebdcdb8d7544aab570a47620
+DTEND:20260320T073000Z
+LOCATION:7-404
+DTSTART:20260320T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:22bc60f5b2bc3f91de36b7c2b854fa80
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T091500Z
@@ -1020,26 +3538,20 @@ SUMMARY:ЛК Прикладная экология
 UID:1df223b7b7f0d486a261648bd8a8c4ba
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T091500Z
-LOCATION:7-404
-DTSTART:20251110T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:7b31faef8d7dd354f61e77a097cf06dd
+DESCRIPTION:Емельяненков Александр Владимирович
+DTEND:20260319T091500Z
+LOCATION:7-408
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Технология производства самолетов
+UID:3aa8074c516e00ecbe0b462037b2aef2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:ГУК А-711
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Численные методы
-UID:d7dc246881d6be0cf8f08d489b97b7f8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251105T113000Z
-LOCATION:5-401б
-DTSTART:20251105T100000Z
-SUMMARY:ЛК Культурология
-UID:29bf53e685dae3e78689f38280e05bf8
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260325T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260325T114500Z
+SUMMARY:ЛР Технология производства самолетов
+UID:3d5ce317b2a7f52aca1bf9aba8642491
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T091500Z
@@ -1054,34 +3566,6 @@ LOCATION:ГУК Б-340
 DTSTART:20251107T100000Z
 SUMMARY:ЛР Технология конструкционных материалов
 UID:cc63968577b95414ae5d639335927fb3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T113000Z
-LOCATION:7-408
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:d1ada807ad4bb2ac215bd2c96b973870
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T164500Z
-LOCATION:7-325
-DTSTART:20251028T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:41381b5d607904a74d4f3cd7d987d2c6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T073000Z
-LOCATION:--каф. 919
-DTSTART:20250912T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:b9598574f6f01249ccec0e5cee99f0d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T073000Z
-LOCATION:ГУК Б-729
-DTSTART:20250909T060000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:40edc76442dd78010afc177427aba417
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T131500Z
@@ -1099,43 +3583,27 @@ SUMMARY:ПЗ Основы менеджмента
 UID:453bd86a02a39b28720a5f9ddd6642b7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251126T150000Z
-LOCATION:5-401б
-DTSTART:20251126T133000Z
-SUMMARY:ПЗ Культурология
-UID:7edabd6ce9d94afddab9ab6dfc231bae
+DTEND:20250912T073000Z
+LOCATION:--каф. 919
+DTSTART:20250912T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b9598574f6f01249ccec0e5cee99f0d6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251127T113000Z
-LOCATION:7-404
-DTSTART:20251127T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:cb445148d212b8d5ae07b63e0ee40124
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T113000Z
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260217T091500Z
 LOCATION:7-408
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:77224a005b1c7ec43d790d10cff63cf1
+DTSTART:20260217T074500Z
+SUMMARY:ЛК Динамика полета
+UID:b89769a964dcd856c3ce05580414e63e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251211T113000Z
-LOCATION:7-404
-DTSTART:20251211T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:c7c3ed76a6618b797b9a2b7744bf0d06
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20250911T113000Z
-LOCATION:7-404
-DTSTART:20250911T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:411d769776e919f344be24dd0ecd1829
+DESCRIPTION:Гнесин Евгений Михайлович
+DTEND:20260310T073000Z
+LOCATION:7-408
+DTSTART:20260310T060000Z
+SUMMARY:ЛК Силовая установка
+UID:cf3bdd760e1e59d2ea0bd44001bfdbd0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T073000Z
@@ -1145,19 +3613,11 @@ SUMMARY:ПЗ Нормативно-правовое сопровождение э
 UID:eaed37b7e9c5f9a08d3c01d988ea5e16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T164500Z
-LOCATION:7-325
-DTSTART:20251209T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:8ce0b6a385dc359141b0cb0df3c4af3d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250915T131500Z
-LOCATION:7-411
-DTSTART:20250915T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:3f54506c74995a57b263141d28516f2d
+DTEND:20260417T073000Z
+LOCATION:7-404
+DTSTART:20260417T060000Z
+SUMMARY:ЛК Конструкция самолетов
+UID:cc356ff7aab1a3394aac14d048557ce1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T073000Z
@@ -1167,100 +3627,11 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:a059b3cda4716a92544c915e89b75d02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гуереш Джахид
-DTEND:20260116T091500Z
-LOCATION:7-406
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Аэродинамика
-UID:130d2805e299ca86d0233592f12cc868
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20250903T113000Z
-LOCATION:5-101
-DTSTART:20250903T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:f309313696be81af092b70ea009ad0ca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T113000Z
-LOCATION:7-408
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:e4c9912649cbc493863fa5b1d82786d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251001T113000Z
-LOCATION:5-101
-DTSTART:20251001T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:406fb70de3cabec21b821fc5c67944d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T073000Z
-LOCATION:--каф. 919
-DTSTART:20251010T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:5562627e7530791bdfbff981d111a94f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T073000Z
-LOCATION:--каф. 919
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:b52d6985eaf3f95dca237e98981736eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251113T113000Z
-LOCATION:7-404
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:3964371d95192ff8e351b2fc8a5d7e49
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250901T113000Z
-LOCATION:7-408
-DTSTART:20250901T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:f18a9433fe14d4c6f9b83184ad16124f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T073000Z
-LOCATION:ГАК-320
-DTSTART:20250911T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:359a56e521a35ccc853fc4df7230cbfd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T091500Z
-LOCATION:ГУК Б-729
-DTSTART:20250923T074500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:7e348fc8f27298255ac5e6c71bee33a2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T091500Z
-LOCATION:ГАК-320
-DTSTART:20251211T074500Z
-SUMMARY:ЛК Численные методы
-UID:b16c7983ecdd880cc780c4b39f4091b3
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251226T131500Z
 LOCATION:4-100
 DTSTART:20251226T114500Z
 SUMMARY:ЛР Аэродинамика
 UID:8f76c85d74e8b3529b6148870f5f5349
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251217T113000Z
-LOCATION:5-401б
-DTSTART:20251217T100000Z
-SUMMARY:ЛК Культурология
-UID:306b429c7638c3d9b5f213d1459ae837
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250909T091500Z
@@ -1277,41 +3648,12 @@ SUMMARY:ЛК Численные методы
 UID:795005828adc2ee0f8108714325aef16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20251031T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:b5f6a1f6c4469e064762bfdd42ef3f9b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:4-100
-DTSTART:20251212T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:3eb93c4cb1109abe61f79710b09cac32
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T091500Z
-LOCATION:7-404
-DTSTART:20251020T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:bc52ae7076e78f502459100d282e111f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
 DTEND:20251120T091500Z
 LOCATION:7-404
 DTSTART:20251120T074500Z
 SUMMARY:ЛК Строительная механика и прочность самолета
 UID:63b0a0a7c6e0dee617691e287e38d851
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251112T113000Z
-LOCATION:5-101
-DTSTART:20251112T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:18e6f9416feb1fc82c0f1051e864707f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251029T131500Z
@@ -1328,12 +3670,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:9231191a8fed0b824ec845a213f06469
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251008T150000Z
-LOCATION:5-405
-DTSTART:20251008T133000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:e1806f21a530cad6ce8d819cb7dbe807
+DESCRIPTION:Емельяненкова Анастасия Александровна
+DTEND:20260225T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260225T114500Z
+SUMMARY:ЛР Технология производства самолетов
+UID:ba246b10f974ff36bcc7796f58b10160
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250908T091500Z
@@ -1341,49 +3683,6 @@ LOCATION:7-404
 DTSTART:20250908T074500Z
 SUMMARY:ЛК Детали машин и основы конструирования
 UID:55a8fe28369a136d28832a8a3e0d9e23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T073000Z
-LOCATION:ГУК Б-729
-DTSTART:20251202T060000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:e4dea5e7298ada3d8c71c4b0fe011cde
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T150000Z
-LOCATION:7-325
-DTSTART:20251014T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:de516fc81ed956535fc0824a47072b6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T150000Z
-LOCATION:7-325
-DTSTART:20250902T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:2cb99b74be4e97b400ce711fec54f56f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20250904T113000Z
-LOCATION:7-404
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:40bf60f09a331b4f7abfcb5a9025d819
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T091500Z
-LOCATION:--каф. 919
-DTSTART:20251105T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:dc369238c3c5de86b9baf2e60bd2fcf2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T131500Z
-LOCATION:4-100
-DTSTART:20251114T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:6e556033f192548018634f1c0fe21114
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1394,33 +3693,19 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:1513f316144a261d08f098176bd02725
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251210T114500Z
-SUMMARY:ПЗ Численные методы
-UID:8d26bacef50d8c2164d9180bd429fe96
+DESCRIPTION:Власова Ольга Михайловна (осн.)
+DTEND:20260518T091500Z
+LOCATION:5-404
+DTSTART:20260518T074500Z
+SUMMARY:ЛК Экономика отрасли
+UID:4ecbd3bc544e01553b927e8825de94a8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T073000Z
-LOCATION:ГАК-320
-DTSTART:20251009T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:fefd141e74a15a47f163dcc337659d04
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251217T114500Z
-SUMMARY:ПЗ Численные методы
-UID:72c15dccb441a89050af9caf3c9509a9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20250925T113000Z
+DTEND:20260403T091500Z
 LOCATION:7-404
-DTSTART:20250925T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:4e0a96389b9b8562caf7707e1b37e692
+DTSTART:20260403T074500Z
+SUMMARY:ЛК Конструкция самолетов
+UID:7bf6d44fb8f7f7b02e24b659e9201879
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мезина Наталья Андреевна
@@ -1431,42 +3716,26 @@ SUMMARY:ЛК Основы менеджмента
 UID:c4cf19d54d4530085acc1b12165f14ff
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T073000Z
-LOCATION:ГАК-320
-DTSTART:20251120T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:1edf59453e3b026da53e1b5aa3c26ad1
+DTEND:20260410T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260410T100000Z
+SUMMARY:ЛР Конструкция самолетов
+UID:b6d2f8cad167d1477500fa1623b08975
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251218T091500Z
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260514T113000Z
 LOCATION:7-404
-DTSTART:20251218T074500Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:8d52637a7b8758ace66a4705de24c674
+DTSTART:20260514T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:7145b13b2ee1d57a3c4adaa99fca5078
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251001T150000Z
-LOCATION:5-401б
-DTSTART:20251001T133000Z
-SUMMARY:ПЗ Культурология
-UID:7c155fea7e80437ee43f00c1365d0d1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T073000Z
+DTEND:20260305T073000Z
 LOCATION:--каф. 919
-DTSTART:20251212T060000Z
+DTSTART:20260305T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:f4b4e0e69b171c202cb5c16aed846596
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251204T091500Z
-LOCATION:7-404
-DTSTART:20251204T074500Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:18474355cf99564f1bddc982ca205cc7
+UID:6094c6f23789d82b573af4d5b99856e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1482,22 +3751,6 @@ LOCATION:--каф. 919
 DTSTART:20251121T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:aced51e833ad043e9295dbd74d532b78
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251210T150000Z
-LOCATION:5-401б
-DTSTART:20251210T133000Z
-SUMMARY:ПЗ Культурология
-UID:df2912ce8dbb2d20795d02d9b88eaafa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251224T113000Z
-LOCATION:5-101
-DTSTART:20251224T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:6d755b2a09fc0c6170e37b0ec35be62e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T113000Z
@@ -1521,18 +3774,28 @@ SUMMARY:ПЗ Нормативно-правовое сопровождение э
 UID:34d3873a1064c97ecdd96ef5d3f05d01
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T131500Z
-LOCATION:4-100
-DTSTART:20251128T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:4a4d2f3eed658d148aeffba4c7a8468a
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260326T113000Z
+LOCATION:7-404
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:67fec060a16c7eb4bfe25e4ab53f466d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:--каф. 919
-DTSTART:20251126T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:58ab684538f6c6bfcd467058ae75576d
+DESCRIPTION:Ефремов Евгений Владимирович
+DTEND:20260429T150000Z
+LOCATION:ГУК Б-342
+DTSTART:20260429T133000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:81f925df40feaa3c59230344d5c8c7d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260505T091500Z
+LOCATION:7-408
+DTSTART:20260505T074500Z
+SUMMARY:ЛК Динамика полета
+UID:fd64261756c04652e00d22052bef76be
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T091500Z
@@ -1542,35 +3805,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:fee21d7909459cc4991b54bf2c4a0c97
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T113000Z
-LOCATION:7-408
-DTSTART:20251110T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:d889b81a567d1208264d4183d2cb7cbe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251022T150000Z
-LOCATION:5-405
-DTSTART:20251022T133000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:e8d9369770f554a61a8504f063e8845f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:7-416
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:de84e9268b7f0e29f336026bb82af6e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T073000Z
-LOCATION:--каф. 919
-DTSTART:20251107T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4d0ff9abe1d0b7b1c58fb461d5704be2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251114T073000Z
 LOCATION:--каф. 919
 DTSTART:20251114T060000Z
@@ -1578,71 +3812,27 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:eaf2c0278b00338bf8084e3f6bf24206
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251015T150000Z
-LOCATION:5-401б
-DTSTART:20251015T133000Z
-SUMMARY:ПЗ Культурология
-UID:a78fc494fa071ac4b199081e31ab9020
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260417T131500Z
+LOCATION:24-525
+DTSTART:20260417T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:c299cbd7ee87244193de3e781064bfc8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T091500Z
-LOCATION:7-416
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:626e636f62dde5dbfb1ea10192ba0ead
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260217T113000Z
+LOCATION:7-408
+DTSTART:20260217T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ffdbd8548897294c7856952b7c24efa9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251030T113000Z
-LOCATION:7-404
-DTSTART:20251030T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:07f56810e4627f51781bd1196c58ce0b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251126T113000Z
-LOCATION:5-101
-DTSTART:20251126T100000Z
-SUMMARY:ЛК Основы менеджмента
-UID:a5b461d21fae7a606ab0cd9f118bfb26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гуереш Джахид
-DTEND:20260116T073000Z
-LOCATION:7-406
-DTSTART:20260116T060000Z
-SUMMARY:Экзамен Аэродинамика
-UID:19e5a66c64e0307611bdf548fee4daa9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T131500Z
-LOCATION:4-100
-DTSTART:20251212T114500Z
-SUMMARY:ЛР Аэродинамика
-UID:8730f68bbcee564efeb1073ee77ad892
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T091500Z
-LOCATION:ГАК-320
-DTSTART:20251030T074500Z
-SUMMARY:ЛК Численные методы
-UID:26ea323e913ed3821325440ed31dbcf8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:7-416
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:0e0eee89b74c454f011d34d87f5939a4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T164500Z
-LOCATION:7-325
-DTSTART:20251111T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:414e84e8350d848339c0fbbacda2c8fa
+DTEND:20260409T073000Z
+LOCATION:--каф. 919
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9562a38aafd4cb059d385f8cecd3219c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T113000Z
@@ -1652,20 +3842,6 @@ SUMMARY:ЛК Аэродинамика
 UID:e2ea93a50f39def5963056c8ea15f088
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T091500Z
-LOCATION:--каф. 919
-DTSTART:20251112T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:6024ac493bdb81acb7e09e4fc75b79f5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T131500Z
-LOCATION:ГУК А-711
-DTSTART:20250903T114500Z
-SUMMARY:ПЗ Численные методы
-UID:4df8066b7dd42f1e8bc7603444d3b3d2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251030T073000Z
 LOCATION:ГАК-320
 DTSTART:20251030T060000Z
@@ -1673,89 +3849,35 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:fb87bf24ad8525ca460a7fa63180445b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T091500Z
-LOCATION:ГАК-320
-DTSTART:20251113T074500Z
-SUMMARY:ЛК Численные методы
-UID:43222ae04238fc2f2e498a77ff206961
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T113000Z
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260310T113000Z
 LOCATION:7-408
-DTSTART:20250915T100000Z
-SUMMARY:ЛК Аэродинамика
-UID:3a6c326868193222a187209d7c162a72
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a138b794032d7b14c54a5d10b1e580d0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250929T091500Z
-LOCATION:7-404
-DTSTART:20250929T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:5de55371867d1fb73bfa6bb897091f3a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T073000Z
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260323T073000Z
 LOCATION:ГАК-320
-DTSTART:20251218T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:ed591ab277bc9ff2fa51841aae7ac715
+DTSTART:20260323T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:2c322432b550a722549ff642527540c0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T131500Z
-LOCATION:ГУК А-711
-DTSTART:20250910T114500Z
-SUMMARY:ПЗ Численные методы
-UID:0a312d8662c9edff9467babbf4868cc9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
+DTEND:20260428T131500Z
 LOCATION:--каф. 919
-DTSTART:20251224T074500Z
+DTSTART:20260428T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:e5b7c1058435253ada79fcd5305f4f4f
+UID:3e67205754e1c88e68e8d40505d6a56b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T131500Z
-LOCATION:ГУК Б-340
-DTSTART:20250926T114500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:b937d985494227c38d545391063987e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T091500Z
-LOCATION:--каф. 919
-DTSTART:20251210T074500Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:01035fc566b839879c9c93dc2d7769c9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251008T113000Z
-LOCATION:5-401б
-DTSTART:20251008T100000Z
-SUMMARY:ЛК Культурология
-UID:4a67b01963379a9528bcbfc5c6436643
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T091500Z
+DESCRIPTION:Майсак Мария Викторовна
+DTEND:20260312T113000Z
 LOCATION:7-404
-DTSTART:20251215T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:dfb3aabe1cb17e324de2c6155b213287
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20250919T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:0385663df62d426bfc43a78597c724ed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T150000Z
-LOCATION:7-325
-DTSTART:20250930T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:d08f7109e7e24c1776e62899d0442dc3
+DTSTART:20260312T100000Z
+SUMMARY:ЛК Конструирование деталей и узлов агрегатов самолетов
+UID:3e6ef24ff4a4bd24272f7fe0a895e72e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -1766,79 +3888,12 @@ SUMMARY:ЛК Строительная механика и прочность с�
 UID:b58d724d6e3d0546db45aafe53f83ea5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251120T113000Z
-LOCATION:7-404
-DTSTART:20251120T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:47daa5428a30dae8d4d82c0e491a0f82
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:ГУК А-711
-DTSTART:20251008T114500Z
-SUMMARY:ПЗ Численные методы
-UID:43f04a014e7d95b6e6566a75f00a5e50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мезина Наталья Андреевна
-DTEND:20251203T150000Z
-LOCATION:5-405
-DTSTART:20251203T133000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:33d4b7439183ee88b6f5c8dae4906d71
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20251224T150000Z
-LOCATION:5-401б
-DTSTART:20251224T133000Z
-SUMMARY:ПЗ Культурология
-UID:ae07f32e5abf1bdf6307a03045185980
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T131500Z
-LOCATION:24-310
-DTSTART:20251121T114500Z
-SUMMARY:ЛР Строительная механика и прочность самолета
-UID:39e78de881f8cd34f240a7e55fd27911
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251218T113000Z
-LOCATION:7-404
-DTSTART:20251218T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:7677fa9cb03d571498df1dcd2216386b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:7-416
-DTSTART:20250912T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:33dd193db71353f2e0ac66d1ee6a5c02
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T073000Z
-LOCATION:ГУК Б-729
-DTSTART:20251021T060000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:2bf7dee1a661dbae788c9c04bc948bdb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251112T150000Z
 LOCATION:5-401б
 DTSTART:20251112T133000Z
 SUMMARY:ПЗ Культурология
 UID:1e129208f4382c21c0f55d3ebf774240
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:7-416
-DTSTART:20251128T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:611a33ed99f392c7180cd212936754f5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251205T113000Z
@@ -1848,47 +3903,19 @@ SUMMARY:ЛР Строительная механика и прочность с�
 UID:fa091d9d6a3727e3cb7e2b147dc22240
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251201T091500Z
-LOCATION:7-404
-DTSTART:20251201T074500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:4ef07196c297066c768ae242e1996518
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T073000Z
+DTEND:20260226T073000Z
 LOCATION:--каф. 919
-DTSTART:20251226T060000Z
+DTSTART:20260226T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:61bb96250ac0ed20c8914d06f711cb3a
+UID:c1b7b75df80314b523d185e9ed58fc79
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T073000Z
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260216T073000Z
 LOCATION:ГАК-320
-DTSTART:20251127T060000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:bcfd9876828d82787d9566fd4084dc30
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T091500Z
-LOCATION:ГАК-320
-DTSTART:20251127T074500Z
-SUMMARY:ЛК Численные методы
-UID:0b18b07f83f8c31548243b822a20e1f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T091500Z
-LOCATION:ГУК Б-729
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:bb9a139b4fa3821cbf949c424c859a42
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251030T131500Z
-LOCATION:7-404
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Строительная механика и прочность самолета
-UID:d4ff6b6dce8fd96c3ed950d51cca3e9a
+DTSTART:20260216T060000Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:996901565e2f5f34000f8957f95c2570
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T073000Z
@@ -1898,14 +3925,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:2f522f9443a549b375d9ea9164e0fc90
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20251016T113000Z
-LOCATION:7-404
-DTSTART:20251016T100000Z
-SUMMARY:ЛК Строительная механика и прочность самолета
-UID:e4f0f10e3ee2c1c2cdab05e62912c800
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251125T164500Z
 LOCATION:7-325
 DTSTART:20251125T151500Z
@@ -1913,41 +3932,11 @@ SUMMARY:ЛР Информационная поддержка жизненног�
 UID:034d2eb2dad2e7e89bd531a0d3d21f85
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:4-100
-DTSTART:20251128T100000Z
-SUMMARY:ЛР Аэродинамика
-UID:824720a4755b037da8fca773bbc68499
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондратенко Леонид Анатольевич
-DTEND:20260112T113000Z
-LOCATION:ГУК Б-648
-DTSTART:20260112T100000Z
-SUMMARY:Экзамен Детали машин и основы конструирования
-UID:7d188b2364952759b18c0264ca874a31
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251027T131500Z
+DTEND:20251103T131500Z
 LOCATION:7-411
-DTSTART:20251027T114500Z
+DTSTART:20251103T114500Z
 SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:3af4c4d494080e734ad66a8f7dd89253
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T091500Z
-LOCATION:7-416
-DTSTART:20251205T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:845d9eb06b8f474d894dbfa2fad6c5e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250929T131500Z
-LOCATION:7-411
-DTSTART:20250929T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:2d330ed2ca7e95513ff96b5fb99448e4
+UID:d42be06c9743522b35cd18e1466e7eb8
 END:VEVENT
 END:VCALENDAR

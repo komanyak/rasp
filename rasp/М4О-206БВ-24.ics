@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:2d003db6e16941e5966c4f9d55050794
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
 DTEND:20250904T131500Z
 LOCATION:ГУК Б-649
@@ -18,6 +25,22 @@ SUMMARY:ПЗ Дискретная математика
 UID:75cb0aeb60998a042541d8955f7f0655
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260417T164500Z
+LOCATION:24Б-203
+DTSTART:20260417T151500Z
+SUMMARY:ЛР Электроника
+UID:7c11b853ec742d1ceee20e01f9877452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалюк Максим Александрович
+DTEND:20260324T113000Z
+LOCATION:24Б-227
+DTSTART:20260324T100000Z
+SUMMARY:ЛР Радиотехнические цепи и сигналы
+UID:8f260f2efbcd4740fc3d2618bc84b2c5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251208T150000Z
 LOCATION:24Б-330
 DTSTART:20251208T133000Z
@@ -32,11 +55,48 @@ SUMMARY:ПЗ Военная подготовка
 UID:1eabd6143c6f28199c143e516b99570c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260330T131500Z
+LOCATION:24Б-229
+DTSTART:20260330T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:e5fbc60cd97bf5684495fc1ba6e2b5a7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:--каф.
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c856a78f830173f9a8038118f62a9c85
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:--каф.
+DTSTART:20260520T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:839676a5f208b907294b99a3a1d92764
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:--каф.
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f93a319d4a38bb3bf15acc915ca5046f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T091500Z
 LOCATION:--каф.
 DTSTART:20251015T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1e7a4cac3a7abfdd6af20d9a9362b7f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260522T164500Z
+LOCATION:24Б-508
+DTSTART:20260522T151500Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:7d45ff94dc01ec4b6f6918d5800aac18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Василий Валерьевич
@@ -47,11 +107,35 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:c59e89cb1fb1dc6d20f71298dca4e60f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260421T131500Z
+LOCATION:24Б-224
+DTSTART:20260421T114500Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:f9b811fce8c4db1d1c1c536ab4123918
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260303T150000Z
+LOCATION:24Б-330
+DTSTART:20260303T133000Z
+SUMMARY:ЛК Электроника
+UID:57a4126051fab758cbd0826b93b0e337
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T113000Z
 LOCATION:--каф. 919
 DTSTART:20251010T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:91785053d29e0546c7ec96f7aee0d9da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260317T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260317T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:d8dd7eeb696bef6f804898acbec30df6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -60,6 +144,14 @@ LOCATION:3-232
 DTSTART:20251011T060000Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:2088e7649150fe11f2cf882cf6c3f316
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260302T113000Z
+LOCATION:24Б-330
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:6a385cade4329d7a3557d8d1dba19a8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Сергей Николаевич
@@ -78,11 +170,25 @@ SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:821b2be06bdb2759a3333e49477f6281
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:--каф. 919
+DTSTART:20260306T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:0f5adbc82566e2176d1dc3467c43bd63
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:--каф.
 DTSTART:20251203T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:3e933ec80c080ff9acf2631c7d959594
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:13d8f015cf7c06aa3a6044a0dc28e0fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
@@ -91,6 +197,13 @@ LOCATION:ГУК Б-649
 DTSTART:20251009T114500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:3f04585b56edaa41c269c8e38c45dd59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--каф.
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:900ba8453e8458f48fda4b7f375f7165
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T113000Z
@@ -115,12 +228,36 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:3b0b083198eb33d0d620d0f5e0fac8d6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260421T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260421T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:2407ce994d15eae89d994ad4a6985ba0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
 DTEND:20251118T091500Z
 LOCATION:ГАК-307
 DTSTART:20251118T074500Z
 SUMMARY:ЛК Дискретная математика
 UID:c4800ad039c641e6761a7b057edd437e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260324T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260324T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:144b8b4370019a5bbe343c2696182a4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260528T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Социология
+UID:2d29f7ef815f3c7eac7edfd32aa9ddef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Сергей Николаевич
@@ -147,12 +284,34 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:8799c465133e125fbdabf96f008977a4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Коновалюк Максим Александрович
+DTEND:20260407T131500Z
+LOCATION:24Б-227
+DTSTART:20260407T114500Z
+SUMMARY:ЛР Радиотехнические цепи и сигналы
+UID:a45db42469e6d208db6a18844f3e6023
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--каф.
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a728835202626e1e1e0a3edcb25a281c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
 DTEND:20251002T113000Z
 LOCATION:ГУК Б-649
 DTSTART:20251002T100000Z
 SUMMARY:ЛК Теория функций комплексного переменного
 UID:6762794152b9aed6c4bcbd595746e68a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:--каф.
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:78f92d21ea89fe6b4a03b07c4c5a9ace
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -163,12 +322,50 @@ SUMMARY:ЛК Основы теории электрических цепей
 UID:f8d4e1a0fc73586834da2f3dd0ea8197
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260226T131500Z
+LOCATION:24Б-330
+DTSTART:20260226T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:5fcfc785ed38375d41b7f58bee9a7514
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
 DTEND:20251025T091500Z
 LOCATION:3-137
 DTSTART:20251025T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:3109a1bf82167ae18462898fe58f5075
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:--каф.
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:395c7c3723cfb6c7fbcfe09905132676
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260605T150000Z
+LOCATION:24Б-508
+DTSTART:20260605T133000Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:e6ef16b84cb000910d7e18f48ec2a457
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260306T150000Z
+LOCATION:24Б-203
+DTSTART:20260306T133000Z
+SUMMARY:ЛР Электроника
+UID:4b4ab77ffbab380329182d58030b3048
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T091500Z
+LOCATION:--каф.
+DTSTART:20260211T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4f59d73acbd840a9ec9a2a2bf1b40173
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T073000Z
@@ -191,6 +388,21 @@ LOCATION:ГУК Б-444
 DTSTART:20251030T074500Z
 SUMMARY:ЛК Спецглавы физики
 UID:83bb654dab49f397d32ea2a0c67d9088
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T113000Z
+LOCATION:--каф.
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e9974ffb2ed5e32af3c706bac01c5e31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260526T150000Z
+LOCATION:24Б-330
+DTSTART:20260526T133000Z
+SUMMARY:ЛК Электроника
+UID:7af5192ffbd149127579c0a852e53003
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Василий Валерьевич
@@ -216,11 +428,43 @@ SUMMARY:ПЗ Физическая культура
 UID:38770941eb7c4fe1ed39ffb4024c3327
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260414T150000Z
+LOCATION:24Б-330
+DTSTART:20260414T133000Z
+SUMMARY:ЛК Электроника
+UID:02b43818aabfcbafbc7cf6dffe531b3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260602T150000Z
+LOCATION:24Б-330
+DTSTART:20260602T133000Z
+SUMMARY:ЛК Электроника
+UID:73564cb84bad99ee4cb19db603a7454f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20251120T074500Z
 SUMMARY:ЛК Спецглавы физики
 UID:b77a86bebf94fcf3c097df717a1251d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260427T091500Z
+LOCATION:ГАК-307
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:969f9c1f8752b086a1db32397192f386
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260507T164500Z
+LOCATION:24Б-508
+DTSTART:20260507T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:687e2c3464046e2f809603db2c3e81bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -253,6 +497,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:08aa5650fcda88e6a86a24b35ecdee23
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:984e4e9f06e05052bca8e0df08ae675a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20251002T074500Z
@@ -266,6 +517,30 @@ LOCATION:3-137
 DTSTART:20251108T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:a73932b4fc30a5ba8cfc7f60fe0b9f30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260410T150000Z
+LOCATION:24Б-508
+DTSTART:20260410T133000Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:8bbace86e20ac525c83e645081defa93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260529T164500Z
+LOCATION:24Б-203
+DTSTART:20260529T151500Z
+SUMMARY:ЛР Электроника
+UID:0eef1701d7f8e3d3cb774f1fd7aa77db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260423T164500Z
+LOCATION:24Б-508
+DTSTART:20260423T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:6dd32b5b6fbfbe348bd82b33f8963855
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -298,11 +573,49 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:933122c8e71ff606b3638facbd309ead
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260515T113000Z
+LOCATION:--каф. 919
+DTSTART:20260515T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:0c50176e60c7c3b1236febabb14c69f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260427T131500Z
+LOCATION:24Б-229
+DTSTART:20260427T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:ddd4b9f35763a0c61368b530147d86a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260518T113000Z
+LOCATION:24Б-330
+DTSTART:20260518T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:92fa88016b830703bfb7a449b6bc9cda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260417T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260417T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:1016d5de4ffea5aa8808a75493b7a1ad
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251224T131500Z
 LOCATION:--каф.
 DTSTART:20251224T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:3c5695b2f9de840f84a8a2b4f2aabcc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:--каф.
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5abbc897e0b72c527997add201a665d2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T073000Z
@@ -319,11 +632,40 @@ SUMMARY:ПЗ Иностранный язык
 UID:297724ea51816470903ccd981b9ed8b7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:--каф.
+DTSTART:20260520T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9f1c00525bf0249ec1deeb2b9694cdda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260525T113000Z
+LOCATION:24Б-330
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:d198290210575d7b67bcb69d84359158
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251206T113000Z
 LOCATION:Орш. В-606
 DTSTART:20251206T100000Z
 SUMMARY:ЛР Спецглавы физики
 UID:1102ff45f8a9bad353c8799d129c2db3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:--каф.
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:aa2a15a599a2f51f7f431d224bf5bcc3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:--каф.
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a45bc69b705361d59cab158f5bc99eab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
@@ -332,6 +674,13 @@ LOCATION:ГАК-307
 DTSTART:20251125T074500Z
 SUMMARY:ЛК Дискретная математика
 UID:bab6c3535ebbee35a95aae5371c156db
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:--каф.
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:857daac7debb02c34d14cb53e0f23097
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -350,6 +699,51 @@ SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:539d12a4fc5b2aa1b0900953e766e3f2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:643d8a9690c80ea394fff3ce6467b708
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260502T113000Z
+LOCATION:24Б-710
+DTSTART:20260502T100000Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:bb803fd0e8baf0c8114ec7c674b4cb1b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T113000Z
+LOCATION:--каф. 919
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:27c854404704445f7c53f56e44b9d5e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260327T150000Z
+LOCATION:24Б-621
+DTSTART:20260327T133000Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:5ecea1937cc5bff64e7a82e2be9253e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260303T113000Z
+LOCATION:24Б-223
+DTSTART:20260303T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:aa3e02655a33987da435eeb68bb92a56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:--каф.
+DTSTART:20260218T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a6909c1efb3586b29560bce7c1f508f5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251117T150000Z
 LOCATION:24Б-330
 DTSTART:20251117T133000Z
@@ -357,11 +751,65 @@ SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:44e8ff77bb4d942220cf9f243df77393
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260302T131500Z
+LOCATION:24Б-229
+DTSTART:20260302T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:b534568e9bf9b5276117771cc95a64bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260327T164500Z
+LOCATION:24Б-621
+DTSTART:20260327T151500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:c7994307e991b3d47fd95341f93643be
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251105T073000Z
 LOCATION:--каф.
 DTSTART:20251105T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c94fd43a855394904d4bf3864bb19d3f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:--каф. 919
+DTSTART:20260320T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:b2dfd2c56e010523c809cb5c733fe89a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260331T150000Z
+LOCATION:24Б-330
+DTSTART:20260331T133000Z
+SUMMARY:ЛК Электроника
+UID:e6ef63cbe5ad7986fbd1a3ecbf3874f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260410T164500Z
+LOCATION:24Б-508
+DTSTART:20260410T151500Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:d941a982905c8b01a2216158fe6e35c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260512T164500Z
+LOCATION:24Б-330
+DTSTART:20260512T151500Z
+SUMMARY:ЛК Электроника
+UID:b665318bdc5a95d8f18248a6b2bbbc2a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T113000Z
+LOCATION:--каф. 919
+DTSTART:20260605T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:57473329748b959cc90408ba34913fb2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T131500Z
@@ -383,6 +831,14 @@ LOCATION:--каф.
 DTSTART:20251224T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e78900fd78b86f8f3aebe2d2cbb86d08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260515T150000Z
+LOCATION:24Б-203
+DTSTART:20260515T133000Z
+SUMMARY:ЛР Электроника
+UID:8f3b121d706776c1d45425f5e0cb0132
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -415,6 +871,30 @@ SUMMARY:ПЗ Иностранный язык
 UID:89ce1ab8054e8b22759c5d662f04192c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260303T131500Z
+LOCATION:24Б-330
+DTSTART:20260303T114500Z
+SUMMARY:ЛК Электроника
+UID:b5aaffa789a40f69a3001d70efc8e061
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260324T150000Z
+LOCATION:24Б-330
+DTSTART:20260324T133000Z
+SUMMARY:ЛК Электроника
+UID:8016d29b91ceff5f78f51de60355074c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260326T131500Z
+LOCATION:24Б-330
+DTSTART:20260326T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:10970bde12aa6dae9e8d3c5790e28806
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T113000Z
 LOCATION:--каф.
 DTSTART:20250910T100000Z
@@ -438,12 +918,27 @@ SUMMARY:ЛР Высокоуровневое программирование в 
 UID:3e466eeca49eea544e91ad51c1410284
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:--каф.
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3d765c2b1d6fc6b0b46e5ec07dba203d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251014T073000Z
 LOCATION:ГАК-307
 DTSTART:20251014T060000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:12ea5f56f8015585f3fb20f1d0afcd32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260504T131500Z
+LOCATION:24Б-621
+DTSTART:20260504T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:0bbf35665f2a9665c6ad01e2e1bf6a9d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Василий Валерьевич
@@ -468,12 +963,28 @@ SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:aed85a45510b090e4ad4fe5fe0a1a633
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260313T150000Z
+LOCATION:24Б-621
+DTSTART:20260313T133000Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:3ce75ed0f4d8850f5189cefbdb168381
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
 DTEND:20251023T131500Z
 LOCATION:ГУК Б-649
 DTSTART:20251023T114500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:b300787880efc0dda2f1222cea0b4c70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260508T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260508T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:9f8f1f04be535994b70be4208b97357b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251117T113000Z
@@ -483,11 +994,34 @@ SUMMARY:ПЗ Спецглавы физики
 UID:645ba531927e8cf96941a1d28f382b55
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260428T113000Z
+LOCATION:24Б-223
+DTSTART:20260428T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:afbea9f08644e8d9929317c0a0720cfd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T113000Z
 LOCATION:--каф. 919
 DTSTART:20251121T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:21d18ffb130e02418202d89a1bbe84be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:--каф.
+DTSTART:20260408T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8f3da999cbe1d6a7ef5b59b257d76358
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260306T164500Z
+LOCATION:24Б-203
+DTSTART:20260306T151500Z
+SUMMARY:ЛР Электроника
+UID:49c8b77a49a5e0fa90b81fddedd76739
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T131500Z
@@ -510,6 +1044,37 @@ LOCATION:--каф. 919
 DTSTART:20250926T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:871dedcc3adbbbcd5fa9f86e7fea6fbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260327T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260327T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:f065810e28a986b3f2e97c233f50573f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:--каф.
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:930127fd1725eaab84c9f941715e817f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260416T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Социология
+UID:d76a2fbb20dce4b4ff406013e4882995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260316T091500Z
+LOCATION:ГАК-307
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:06cf85acd9e28914a50dd281d8e51200
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T091500Z
@@ -557,6 +1122,22 @@ SUMMARY:ПЗ Военная подготовка
 UID:bfcdcdee8120dcb064d5b372e634391d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260418T113000Z
+LOCATION:24Б-710
+DTSTART:20260418T100000Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:c1b3bf8a528c0b2505622f263420728b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260414T113000Z
+LOCATION:24Б-223
+DTSTART:20260414T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:89c76e7e30bb7ee9813da47e80595f09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20250922T131500Z
 LOCATION:24Б-330
@@ -573,12 +1154,57 @@ SUMMARY:Экзамен Основы теории электрических це
 UID:1c3ecefc4954cdc99fddd1fbe2da9da0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260316T113000Z
+LOCATION:24Б-330
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:c04a4b9830d3bcec58a74668da61540a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:867f86eadf1656054501c915e4c8a241
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260323T091500Z
+LOCATION:ГАК-307
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:740e6fd4d05739b5dd3d00fb5c9f1fab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:2f23467fb4bf3a452e893d4c0be3812a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коновалюк Максим Александрович
 DTEND:20251010T073000Z
 LOCATION:24Б-709
 DTSTART:20251010T060000Z
 SUMMARY:ЛР Основы теории электрических цепей
 UID:e81f7d2dd9ade8b86c5f02f072499539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260413T091500Z
+LOCATION:ГАК-307
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:45d24111e62d93af39d7e53100e927b5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T073000Z
+LOCATION:--каф. 919
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:9edebcdb3230c8ad4e135b0b4c938d79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -597,12 +1223,28 @@ SUMMARY:ЛК Дискретная математика
 UID:53283eaa9b640777e0035e2595dac55b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260409T164500Z
+LOCATION:24Б-508
+DTSTART:20260409T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:a64ac75f41353f567374eeb7f44151a1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецов Сергей Николаевич
 DTEND:20251031T150000Z
 LOCATION:24Б-429
 DTSTART:20251031T133000Z
 SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:498f72909530a5f6b68d51c7767d6410
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260420T113000Z
+LOCATION:24Б-330
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:346867e10dbfaf8cb4745915fab93528
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -621,6 +1263,30 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:3630f0a9df8ae177a693a82ffdce1119
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260317T131500Z
+LOCATION:24Б-330
+DTSTART:20260317T114500Z
+SUMMARY:ЛК Электроника
+UID:a0eec92100753ff198a1936f732b2f59
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260330T113000Z
+LOCATION:24Б-330
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:56d6762ee8b2401a2bc7b34320c4761e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260213T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260213T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:2fb47017f6586e5a7b055999c5a541c8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251213T131500Z
 LOCATION:Орш. В-314
 DTSTART:20251213T114500Z
@@ -636,11 +1302,57 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:7d386eff540f44379795c1a4f45e859f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:--каф.
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a474d6d8a02d5b8e18ba468f62592997
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260424T164500Z
+LOCATION:24Б-508
+DTSTART:20260424T151500Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:65435ae0e278f37511403c7f60f927b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260521T131500Z
+LOCATION:24Б-330
+DTSTART:20260521T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:414af74a29ab3d0f7b5fb9034243c578
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260514T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Социология
+UID:05dddcf2975ee4f8aafa5f84efa34ec7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251105T113000Z
 LOCATION:--каф.
 DTSTART:20251105T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:f2ebc77ed0b509ea77997167ab734f8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:--каф. 919
+DTSTART:20260220T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:6399178733d78fc987ad0b25960e2b74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260402T150000Z
+LOCATION:24Б-215
+DTSTART:20260402T133000Z
+SUMMARY:ПЗ Электроника
+UID:2d0101531ce8e29f210061c22bf1232a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
@@ -672,6 +1384,13 @@ LOCATION:3-407
 DTSTART:20251011T100000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:c0faa98c7fcad615edf5b8a45e55cbc8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:--каф.
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a42723dc84623c8a989a13d04739d13d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T091500Z
@@ -711,11 +1430,79 @@ SUMMARY:ЛК Спецглавы физики
 UID:b4d40112e12e4759fd1dc3b4f78faa7c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--каф.
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:023fe99a51e309b0b61e41fe653da0ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260326T164500Z
+LOCATION:24Б-508
+DTSTART:20260326T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:74a3bb7dd6e8910df03d08e0d2d6da6c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251128T113000Z
 LOCATION:--каф. 919
 DTSTART:20251128T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:9f13e09753c2b04ee1bb429d970e8645
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:08559c5abd34dbca6d97275fdac7c6b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260224T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260224T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:007ed8a1646008f07283fbc14e7a799b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260310T150000Z
+LOCATION:24Б-330
+DTSTART:20260310T133000Z
+SUMMARY:ЛК Электроника
+UID:19554ee67b110aa4f87f39cc98ce4632
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260331T131500Z
+LOCATION:24Б-330
+DTSTART:20260331T114500Z
+SUMMARY:ЛК Электроника
+UID:73e6a8c887d0bd9b3fc60486da6683aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:--каф.
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:adf344f66d89c984049ca7c2fb2e4f3f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:--каф.
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d944678bf03aa2838c894ec4cbe53dfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260423T131500Z
+LOCATION:24Б-330
+DTSTART:20260423T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:2349dca1f4f5ed2becf7262a42f6d552
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -724,6 +1511,13 @@ LOCATION:24Б-229
 DTSTART:20251028T100000Z
 SUMMARY:ПЗ Основы теории электрических цепей
 UID:893b8f53eeb921578298c20107432839
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:a3bc78f2c36c94b02ec14a7b8438b6be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
@@ -741,12 +1535,52 @@ SUMMARY:ПЗ Иностранный язык
 UID:c8ffd0ce824c7e29eee6f010f740b142
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260313T164500Z
+LOCATION:24Б-621
+DTSTART:20260313T151500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:c232334ce0acd17405ea5f9c054246d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260303T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260303T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:8adf3cf38897a45f7e997e68b214e599
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260219T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260219T060000Z
+SUMMARY:ЛК Социология
+UID:4c77a14b6557909b91190b47b37df6ea
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецов Сергей Николаевич
 DTEND:20250919T150000Z
 LOCATION:24Б-429
 DTSTART:20250919T133000Z
 SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:305dfefc2a938300de8219fb150eebac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260428T131500Z
+LOCATION:24Б-330
+DTSTART:20260428T114500Z
+SUMMARY:ЛК Электроника
+UID:dfbf9bfed8fd25560db28d75fcbe3c2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260528T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260528T060000Z
+SUMMARY:ЛК Социология
+UID:05c6f5247ccd27ba02cfbc08710e8ec7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -771,6 +1605,13 @@ LOCATION:3-137
 DTSTART:20251018T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:195eba5394365f316ec31324822e3a74
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c896beaf484fa0b56c0ee471ed63301c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -817,6 +1658,35 @@ SUMMARY:ПЗ Военная подготовка
 UID:621c9af76445b5000bc2e9afdfc03162
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:--каф. 919
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:dd113888b61d6e0851b448afdcd7d9cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:--каф.
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c13a4ee6a62d04993c416c4a439b157c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:--каф.
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c268833f0fe25f17c6e8450cf906a748
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260529T150000Z
+LOCATION:24Б-203
+DTSTART:20260529T133000Z
+SUMMARY:ЛР Электроника
+UID:5df18b91c8d8f786de838d0163d3b2e4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ковальчук Ирина Андреевна
 DTEND:20250929T113000Z
 LOCATION:ГУК А-407
@@ -837,6 +1707,14 @@ LOCATION:--каф.
 DTSTART:20250903T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:85a2e3d563f707bd5894331324707b96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260217T131500Z
+LOCATION:24Б-330
+DTSTART:20260217T114500Z
+SUMMARY:ЛК Электроника
+UID:2dfa68f58a9178ce34125835b7ad9bfd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -863,6 +1741,22 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:0eb799feb4cc69b800b940955f2a0e05
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260220T164500Z
+LOCATION:24Б-203
+DTSTART:20260220T151500Z
+SUMMARY:ЛР Электроника
+UID:626a0bb44b60edf07d42e4784537cdea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260526T113000Z
+LOCATION:24Б-223
+DTSTART:20260526T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:a09614bf2df0e27a6ad7276c7d2a77bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20260116T113000Z
 LOCATION:24Б-229
@@ -877,6 +1771,13 @@ LOCATION:ГУК А-407
 DTSTART:20251110T100000Z
 SUMMARY:ПЗ Психология и педагогика
 UID:a8b6b7d3290a8a68d0c2a298ebf1a620
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:--каф.
+DTSTART:20260527T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:85ec08487c47dad8ff0c58f189211186
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T091500Z
@@ -899,6 +1800,22 @@ LOCATION:24Б-229
 DTSTART:20250902T100000Z
 SUMMARY:ПЗ Основы теории электрических цепей
 UID:4c5a958aab27a55baf7fa48b78a789e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260219T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Социология
+UID:c04369fe0d1a349b603b8e58d9ad64c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260216T091500Z
+LOCATION:ГАК-307
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:35b7b0285b92fcd4eea8b6b7a4f63e41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -932,11 +1849,40 @@ SUMMARY:ПЗ Дискретная математика
 UID:b3b83fa09803fc08b0d37df0c83c448e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T073000Z
+LOCATION:--каф.
+DTSTART:20260401T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:587173662356d96a10fb8bdc9140505f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:d35231cf11c9af20ed00abb5f95ed6eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:--каф.
+DTSTART:20260318T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:11c8526d4cc557c9109159d8d5bb38f4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T131500Z
 LOCATION:--каф.
 DTSTART:20251210T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7e6cea30151f56c4b2ff082f65ba4d28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260406T113000Z
+LOCATION:24Б-330
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:f2bb95f671172ee6c0daeb8930375e84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
@@ -954,6 +1900,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:5268da918f0200ffccd7b402608c8085
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260429T073000Z
+LOCATION:--каф.
+DTSTART:20260429T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a6e12f942b671f1ed1da5c99de3a3c0b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
 DTEND:20250930T091500Z
 LOCATION:ГАК-307
@@ -962,12 +1915,87 @@ SUMMARY:ЛК Дискретная математика
 UID:ba24218cc9c7b9a46cceff8ac488913d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260602T164500Z
+LOCATION:24Б-330
+DTSTART:20260602T151500Z
+SUMMARY:ЛК Электроника
+UID:836fcdd2dc3d4ad3bd957e4ec3f4f9fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260323T131500Z
+LOCATION:24Б-621
+DTSTART:20260323T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:9ac6f76ec0537972ade7df96780a19fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260316T131500Z
+LOCATION:24Б-229
+DTSTART:20260316T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:a2ae218ebfd29d08eb1add4f28276d2f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:--каф.
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6fb49fc383900f0a982dc30b2186b9de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260504T113000Z
+LOCATION:24Б-330
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:089be6997743bd9a2a80f3f0fb74e777
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
 DTEND:20250913T091500Z
 LOCATION:3-137
 DTSTART:20250913T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:23a4063d2c5be630314c417c8a1dd07f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260420T131500Z
+LOCATION:24Б-621
+DTSTART:20260420T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:98efc8b90610e78b78f8dfce31212ad1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:9439177462599c238c580c91c703528c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:dd92e430f6153e754690ee1e34c51343
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:--каф.
+DTSTART:20260225T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf6c7eac06d9854a27f7a0eb64386fb9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T131500Z
+LOCATION:--каф.
+DTSTART:20260603T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d753fe7c9f5bbb2ca62fd6cc65c10991
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -985,6 +2013,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:8141278660628cc04b7a694e92d56b0e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:--каф.
+DTSTART:20260318T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0788c6102a58df4c60245b3ea5a37e18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260428T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260428T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:51c22157c98ab29402b1d03d59212fe0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20260120T113000Z
 LOCATION:ГУК А-401
@@ -993,11 +2036,27 @@ SUMMARY:Экзамен Дифференциальные уравнения
 UID:d84a19b7831e2905d85e219c926ce9bd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260212T164500Z
+LOCATION:24Б-508
+DTSTART:20260212T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:99443b443a93a466cefb96b3a0d00793
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250901T091500Z
 LOCATION:ГУК А-404
 DTSTART:20250901T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:95200d9f7eabaa7dc4bf1cd8c1f4a1cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260502T131500Z
+LOCATION:24Б-710
+DTSTART:20260502T114500Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:71c7ba9e3bf9469bacbe0ed4c60177d3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T113000Z
@@ -1014,12 +2073,27 @@ SUMMARY:Экзамен Радиоматериалы и радиокомпоне�
 UID:61d5fe54bdb5b1f19ec029ba8e7c41cc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260514T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260514T060000Z
+SUMMARY:ЛК Социология
+UID:35a26cc343b2593d0242389efb746665
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251101T073000Z
 LOCATION:3-232
 DTSTART:20251101T060000Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:154d745f4e8e59b52fd1ee09a8e66d21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:--каф.
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ab65068755c7be2282519469621b5583
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T073000Z
@@ -1037,11 +2111,27 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:0aeca2d212f8534601e75707cb7aef7c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260601T091500Z
+LOCATION:ГАК-307
+DTSTART:20260601T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:45f2c49e23848d522d777d30ec8fc52e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T073000Z
 LOCATION:--каф. 919
 DTSTART:20251211T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:292ac77af254e77bb89543a86635ad20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260320T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260320T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:5fbb04d03bbdbc0abd9cf8ac362a1d8b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
@@ -1059,12 +2149,50 @@ SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:46cb06637dffc05e606913857b3f0ac6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260210T150000Z
+LOCATION:24Б-330
+DTSTART:20260210T133000Z
+SUMMARY:ЛК Электроника
+UID:5ce29e70086e47d5566058e51e120374
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:77a6d0a0c1220a4bf1ca984c351ccf15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260416T150000Z
+LOCATION:24Б-215
+DTSTART:20260416T133000Z
+SUMMARY:ПЗ Электроника
+UID:adeb1069381baf37445b6014e98e25df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260512T131500Z
+LOCATION:24Б-330
+DTSTART:20260512T114500Z
+SUMMARY:ЛК Электроника
+UID:3f471ba6a0111af88b4901c6590e81f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецов Сергей Николаевич
 DTEND:20251114T164500Z
 LOCATION:24Б-429
 DTSTART:20251114T151500Z
 SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:be33d081c3668415158b3a3125c29ba6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:--каф.
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:74f85304b86d33dde895bc5bffe6a8ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -1075,11 +2203,33 @@ SUMMARY:ЛР Высокоуровневое программирование в 
 UID:5ce9769e0841905758c5acbbfbe267c0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T113000Z
+LOCATION:--каф. 919
+DTSTART:20260227T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:237c4cb10bd097ef101745b95c621492
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:--каф.
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1afbd4665087a465f391bd6171cb1587
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T131500Z
 LOCATION:--каф.
 DTSTART:20250910T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:5fb5c68d1b6b090e691ceff430ab171b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260505T131500Z
+LOCATION:24Б-224
+DTSTART:20260505T114500Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:485a2ae6e5a1b19e2057cadffb946746
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
@@ -1113,11 +2263,34 @@ SUMMARY:ПЗ Спецглавы физики
 UID:4f932486c05e26a8634500f4e02c04d8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:--каф.
+DTSTART:20260603T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:169a72635be8f9b74e93a8b9434cac5e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260210T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260210T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:49a74485ce7d44141c5ed77b4d9b4a93
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251113T073000Z
 LOCATION:--каф. 919
 DTSTART:20251113T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:6590ff72aaede85f7da86757ca42e05d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260226T164500Z
+LOCATION:24Б-508
+DTSTART:20260226T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:42a48649421f65aa3a33aa6cdc1ed52d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -1159,12 +2332,72 @@ SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:05116405f7fa2e98ee6c2a61a88caa14
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260216T131500Z
+LOCATION:24Б-229
+DTSTART:20260216T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:1e34f8c99af632e4519c2abcd83d648f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260305T150000Z
+LOCATION:24Б-215
+DTSTART:20260305T133000Z
+SUMMARY:ПЗ Электроника
+UID:933529c84cf32d3bd68208cc896d8117
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:--каф. 919
+DTSTART:20260417T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:8c1103104a3345befab2d64b765e2198
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T113000Z
+LOCATION:--каф. 919
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:23d47b488a65234e8519b37aa7ba0230
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:8caf250dbd32aa9baaa955638a0c396f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T113000Z
+LOCATION:--каф.
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5f417d6f765e0a38ebac7249a97bacc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260428T150000Z
+LOCATION:24Б-330
+DTSTART:20260428T133000Z
+SUMMARY:ЛК Электроника
+UID:22a30d3f7de97ac1e14f9d1c0aa98828
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
 DTEND:20251216T164500Z
 LOCATION:24Б-508
 DTSTART:20251216T151500Z
 SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
 UID:32759b66af832b388374ac43fbd72e22
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260601T113000Z
+LOCATION:24Б-330
+DTSTART:20260601T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:240096e44ab10d8381bc057aa3694660
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T113000Z
@@ -1237,6 +2470,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:d165b1b154c07eee2ce689c85bd1fc2b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:--каф. 919
+DTSTART:20260327T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:1e2c267c08802bafdbdbe16334cad470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260505T113000Z
+LOCATION:24Б-224
+DTSTART:20260505T100000Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:617d6c9beceba3fbdf98b295c81ce726
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251007T073000Z
 LOCATION:ГАК-307
@@ -1283,6 +2531,22 @@ SUMMARY:ПЗ Психология и педагогика
 UID:0c9caa6865c683692de89f5a4b3faa15
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260521T150000Z
+LOCATION:24Б-510
+DTSTART:20260521T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:92f01aebbe877fdfd088d09ba0fcb780
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260507T131500Z
+LOCATION:24Б-330
+DTSTART:20260507T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:c0c8353d1522ac9ccaebe725d73eaf6e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T131500Z
 LOCATION:--каф.
 DTSTART:20250903T114500Z
@@ -1306,6 +2570,29 @@ SUMMARY:ЛР Высокоуровневое программирование в 
 UID:c571ebe7d93569b604e4c8f1cc0738ec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260601T131500Z
+LOCATION:24Б-621
+DTSTART:20260601T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:472557e8685e4b1b9a3b293270f891fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260423T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:cbf9ed1e36d7739bff178e3270e9b959
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260518T131500Z
+LOCATION:24Б-621
+DTSTART:20260518T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:7009ae53545768f99a0014c65612e160
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коновалюк Максим Александрович
 DTEND:20251010T091500Z
 LOCATION:24Б-709
@@ -1314,12 +2601,63 @@ SUMMARY:ЛР Основы теории электрических цепей
 UID:100d0a035bf5c169698d86a3540bff19
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T073000Z
+LOCATION:--каф.
+DTSTART:20260527T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dcec684a8ca49c0c4b0cf694754e9354
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:9de9d677cd51e615c281e1e9d84401c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:--каф.
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6d40e6f00c4a30f78991094de53f5276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260326T150000Z
+LOCATION:24Б-510
+DTSTART:20260326T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:fb608c01e2a3de299701505d09553afb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
 DTEND:20250906T113000Z
 LOCATION:3-407
 DTSTART:20250906T100000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:6c0ddc18d0c9c3037dadb8f421be19e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:--каф.
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:501334e12b8edbd2bb50e0211577c52a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T073000Z
+LOCATION:--каф.
+DTSTART:20260513T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7e4805aa3ddbc774509293e284bdd686
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260209T091500Z
+LOCATION:ГАК-307
+DTSTART:20260209T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:3d56e4a0f993bf956f27e45289a8159b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -1342,6 +2680,20 @@ LOCATION:24Б-330
 DTSTART:20251222T133000Z
 SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:9dadde3f25e002b4202834834e586b4b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:--каф.
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a83d3c9e94de12a03548d0e75c803ae5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--каф.
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:790ac47ffac9061a65da72554627ceea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
@@ -1374,11 +2726,35 @@ SUMMARY:ПЗ Физическая культура
 UID:d267ad507b798b02528a6ab597edeadd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260413T131500Z
+LOCATION:24Б-229
+DTSTART:20260413T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:6d7d8f423a0bf3da075a1c97c4d98cc9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251103T091500Z
 LOCATION:ГУК А-404
 DTSTART:20251103T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:de186a562fdb18deb4626901b287807e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260516T131500Z
+LOCATION:24Б-710
+DTSTART:20260516T114500Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:bf44a9c74de1d0d145872ea0121dcf4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260511T131500Z
+LOCATION:24Б-229
+DTSTART:20260511T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:5e7e514af219958375517449d9f7ee4d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T091500Z
@@ -1426,6 +2802,20 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:0cc8afa9bcfb23df54f7f3bdca6c2660
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3595631975eeb1d30fbb743ac84f3255
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:de4150d862de38b4ddec04515fb68227
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T091500Z
 LOCATION:--каф.
 DTSTART:20250910T074500Z
@@ -1439,6 +2829,14 @@ LOCATION:ГУК Б-649
 DTSTART:20251219T133000Z
 SUMMARY:ЛК Психология и педагогика
 UID:9a1eb54be79c81355ce84517606b3c4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260406T091500Z
+LOCATION:ГАК-307
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:77dc078b0cac70adaf12b8a182ea6a89
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -1456,12 +2854,28 @@ SUMMARY:ПЗ Иностранный язык
 UID:a72a292aa5d0115c93e286d7211eb2f9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260519T113000Z
+LOCATION:24Б-224
+DTSTART:20260519T100000Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:d9c86004ba6a36fa683ae34c8e697df6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
 DTEND:20251007T131500Z
 LOCATION:24Б-508
 DTSTART:20251007T114500Z
 SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
 UID:0468ec9ad950f60aeb4e3cd683ead5d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260402T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260402T060000Z
+SUMMARY:ЛК Социология
+UID:f28d25233421879a85012268af70235f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T113000Z
@@ -1477,6 +2891,13 @@ LOCATION:24Б-508
 DTSTART:20251021T114500Z
 SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
 UID:54eda10bd666cad1c70d52e377926692
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:64c991a2273e1c87db57025e87a208a8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251029T113000Z
@@ -1499,6 +2920,14 @@ LOCATION:--каф.
 DTSTART:20251112T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:0ad75a79b7f1dab89b27aeb7ce4e3165
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260515T164500Z
+LOCATION:24Б-203
+DTSTART:20260515T151500Z
+SUMMARY:ЛР Электроника
+UID:f37bee133492f247781b8510e51929da
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T091500Z
@@ -1537,6 +2966,21 @@ SUMMARY:ЛК Дискретная математика
 UID:233a6a0753249a71d9dec80bb01b6a86
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:--каф.
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cd39cacde34e710c00898022d83c2185
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260312T131500Z
+LOCATION:24Б-330
+DTSTART:20260312T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:73b86e45549ddd66480acc59a98d9703
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T073000Z
 LOCATION:--каф.
 DTSTART:20251112T060000Z
@@ -1552,6 +2996,13 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:138e51983856955017822fd7c56865dc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:--каф.
+DTSTART:20260401T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:32f037f50d9b734e90fec5b89553af37
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
 DTEND:20251002T131500Z
 LOCATION:ГУК Б-649
@@ -1560,11 +3011,80 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:98d9198b15a02fadcd0ac914c1d54992
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:--каф. 919
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:f91dbd0186c1fc317fe31eda8a081030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260414T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260414T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:63338b87b11fef314ec68c873387f485
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260430T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Социология
+UID:44ff353e73fd905e9b2c3417f22ffe03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260604T131500Z
+LOCATION:24Б-330
+DTSTART:20260604T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:fe276e12b3f8db50638268b567349577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260224T150000Z
+LOCATION:24Б-330
+DTSTART:20260224T133000Z
+SUMMARY:ЛК Электроника
+UID:77000d236b574cb63f3712b0977044a3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T113000Z
 LOCATION:--каф. 919
 DTSTART:20251107T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:0200de2ccdc820c0d7b4509b2319969a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалюк Максим Александрович
+DTEND:20260324T131500Z
+LOCATION:24Б-227
+DTSTART:20260324T114500Z
+SUMMARY:ЛР Радиотехнические цепи и сигналы
+UID:504eccd45d94a90ebcdb9c6c5606a8e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T113000Z
+LOCATION:--каф. 919
+DTSTART:20260529T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:d6de80cd543588e2601995c014a13531
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:--каф.
+DTSTART:20260304T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:205aac790ecbb5cdf8c547107e2e749a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260526T164500Z
+LOCATION:24Б-330
+DTSTART:20260526T151500Z
+SUMMARY:ЛК Электроника
+UID:e15ca46f249d8d9ee7fe455b0f06c80a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T113000Z
@@ -1596,6 +3116,14 @@ SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:d50fc5fb81ac4082431edd6571745f69
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260519T164500Z
+LOCATION:24Б-330
+DTSTART:20260519T151500Z
+SUMMARY:ЛК Электроника
+UID:13462c9a0f20ffe26e677b288de53dd3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T113000Z
 LOCATION:--каф. 919
 DTSTART:20251003T100000Z
@@ -1618,11 +3146,57 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:9ec64146717d012b9e385a15fbc350ab
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Коновалюк Максим Александрович
+DTEND:20260407T113000Z
+LOCATION:24Б-227
+DTSTART:20260407T100000Z
+SUMMARY:ЛР Радиотехнические цепи и сигналы
+UID:754579e9bcf659051e4a00350ed7e5b5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T113000Z
 LOCATION:--каф.
 DTSTART:20251015T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:4bec643e4b4f046d9c64b94167991f7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260306T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260306T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:b21ead55cc9dbc746be72bab30b58d0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:--каф.
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c4ce09395f013a8904abd1ac6a10f64b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260409T131500Z
+LOCATION:24Б-330
+DTSTART:20260409T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:d04159c4bd63075be57e394b9ffe7649
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T073000Z
+LOCATION:--каф.
+DTSTART:20260211T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2063b97449d29e1c0bf27956c2e5bb75
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260323T113000Z
+LOCATION:24Б-330
+DTSTART:20260323T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:e7f4f92137e74caf8e494aa4064678d7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T113000Z
@@ -1637,6 +3211,14 @@ LOCATION:--каф. 919
 DTSTART:20251106T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:e228a84b294d307cb83bd03bf26bf4dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260514T150000Z
+LOCATION:24Б-215
+DTSTART:20260514T133000Z
+SUMMARY:ПЗ Электроника
+UID:4cf2b94da7a09d9000a392164e99b736
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250908T150000Z
@@ -1669,11 +3251,27 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:e22f1ddf2e6cc59afa782ddb436089a0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260402T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Социология
+UID:c901c997188d3d6121eab79380b0d642
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251027T091500Z
 LOCATION:ГУК А-404
 DTSTART:20251027T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:bd019f0a970af2fc1a49e5b7addcb2b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260320T164500Z
+LOCATION:24Б-203
+DTSTART:20260320T151500Z
+SUMMARY:ЛР Электроника
+UID:35b2770ff685bef401438561d3b1a6a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -1745,11 +3343,34 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:548aedfc849ee7f288963a33fb7bb43d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--каф.
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:eccb15cb2f597861d14e99a4049ca836
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251022T091500Z
 LOCATION:--каф.
 DTSTART:20251022T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:63750549cd136e92fd3e1b98ea24174b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260420T091500Z
+LOCATION:ГАК-307
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:a547666bae4ffe2e321eed60d99cdcd3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260504T091500Z
+LOCATION:ГАК-307
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:efb29183cbc5beeb2896bcbffd6af62a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T073000Z
@@ -1797,6 +3418,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:cf23e5967014c3829a71a11783f6d8ec
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:--каф.
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0ca1bb657c406f3c2b406e3d5d9907a9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T073000Z
 LOCATION:--каф.
 DTSTART:20251001T060000Z
@@ -1818,6 +3446,13 @@ LOCATION:24Б-429
 DTSTART:20251031T151500Z
 SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:41e0aa1516686c3a02f5e9611ae4326a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:--каф.
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:db0cd8ddb1c499496fef857d9d071dc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -1842,11 +3477,35 @@ SUMMARY:ПЗ Иностранный язык
 UID:87ecc621fa35fa7a2cf7a15485a12948
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260212T150000Z
+LOCATION:24Б-510
+DTSTART:20260212T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:53f112e4042fde835504fd4fbab3bbeb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260216T113000Z
+LOCATION:24Б-330
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:ca921541625270eb8f04db884060dc16
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T113000Z
 LOCATION:--каф. 919
 DTSTART:20250905T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:1b1399f00a116c3c52f3ab3b2a927a2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260403T164500Z
+LOCATION:24Б-203
+DTSTART:20260403T151500Z
+SUMMARY:ЛР Электроника
+UID:7a5d7a8bf4151626900e09b941e2de23
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T113000Z
@@ -1861,6 +3520,13 @@ LOCATION:ГУК А-404
 DTSTART:20251201T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:c491360bd7374c7e62e14f4193b58c2d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:--каф.
+DTSTART:20260603T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:323944d5b981b95865baf99d7e4af7ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ковальчук Ирина Андреевна
@@ -1886,6 +3552,14 @@ SUMMARY:ЛР Высокоуровневое программирование в 
 UID:2f3d42e05b30ce879675677f180e65a0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260209T113000Z
+LOCATION:24Б-330
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:6a22c100f5243b3a012a713b75257546
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коновалюк Максим Александрович
 DTEND:20251024T091500Z
 LOCATION:24Б-709
@@ -1908,6 +3582,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:a9de8bdde107f2797affd35bdf474d9f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260331T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260331T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:8a4d9716f7a9daabbbf92f345164e28b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Егоров Василий Валерьевич
 DTEND:20251017T073000Z
 LOCATION:24Б-508
@@ -1916,11 +3598,43 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:46a58030b16d4d3fb9718bf125b0f1b9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260317T150000Z
+LOCATION:24Б-330
+DTSTART:20260317T133000Z
+SUMMARY:ЛК Электроника
+UID:74f42c0f3e1df9ce65eb23e997ee8cf8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T073000Z
 LOCATION:--каф. 919
 DTSTART:20250904T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:63fb66a31f94d5287741f2701d0dd746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260410T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260410T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:e4afb5df6abe0a841d9bd722de931924
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260423T150000Z
+LOCATION:24Б-510
+DTSTART:20260423T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:c893b430499f2ba20ba656935cdb22bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260430T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260430T060000Z
+SUMMARY:ЛК Социология
+UID:dddb6db765421657e82acdce122e2fe2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Игнатов Алексей Николаевич
@@ -1931,12 +3645,60 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:e72613a0d7c22acc47b5d3873dad1f2a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260525T091500Z
+LOCATION:ГАК-307
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:0d12ef126c50686febba329576e150fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260217T150000Z
+LOCATION:24Б-330
+DTSTART:20260217T133000Z
+SUMMARY:ЛК Электроника
+UID:2d864d65027fc28cb8a5a6b72a2a3575
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260421T150000Z
+LOCATION:24Б-330
+DTSTART:20260421T133000Z
+SUMMARY:ЛК Электроника
+UID:e65e1d432dca75f6a0301a1362964fc7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260522T150000Z
+LOCATION:24Б-508
+DTSTART:20260522T133000Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:1108867003196869b7489be7d45325a4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20250901T131500Z
 LOCATION:24Б-330
 DTSTART:20250901T114500Z
 SUMMARY:ЛК Основы теории электрических цепей
 UID:59400b80e2c4a136b8e6938e8e1cf6d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260226T150000Z
+LOCATION:24Б-510
+DTSTART:20260226T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:0584dce9c2e7ad09dffe4a6bb73dc50e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260330T091500Z
+LOCATION:ГАК-307
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:a4033a21cdee1d405b0937bd0bd17eea
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T091500Z
@@ -1961,11 +3723,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:a06faaf50b43dee6a1a94da596139d0c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:--каф.
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fd581ca62ac42997fe1e5bded6178288
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251201T113000Z
 LOCATION:3-417
 DTSTART:20251201T100000Z
 SUMMARY:ПЗ Спецглавы физики
 UID:b2a0bcb6d97b9d3c4f269e9faf12e1e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--каф.
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:80fd0f9bacf6e6cf16d373c0bd7a6bec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260407T150000Z
+LOCATION:24Б-330
+DTSTART:20260407T133000Z
+SUMMARY:ЛК Электроника
+UID:b2f213df9a5c10ecab01095c2ba61ee5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T091500Z
@@ -1982,12 +3766,35 @@ SUMMARY:ПЗ Иностранный язык
 UID:cb0849888125a9f4f7c319d2c41ffa5f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260220T150000Z
+LOCATION:24Б-203
+DTSTART:20260220T133000Z
+SUMMARY:ЛР Электроника
+UID:d5d7e9f970471d3c337bd1e4a500d2a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:44eeb5b691a243ba5eb747c5e68bfeb6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
 DTEND:20250920T091500Z
 LOCATION:3-137
 DTSTART:20250920T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:be7b2f75e9027e78f419875d4cb46af4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260331T113000Z
+LOCATION:24Б-223
+DTSTART:20260331T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:944a95c0913385d46cfd1c051ce5f2ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T073000Z
@@ -2003,6 +3810,13 @@ LOCATION:24Б-229
 DTSTART:20251209T114500Z
 SUMMARY:ПЗ Основы теории электрических цепей
 UID:d01c95cd73f7849e57e61f7aa03b027b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260312T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:d641b730d106b56e42f06f3e7b802f3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -2029,12 +3843,42 @@ SUMMARY:ПЗ Высокоуровневое программирование в 
 UID:62fefc08f85b8747acc1a59104a27ba2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:--каф.
+DTSTART:20260311T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9ab8a146ef6668ba05760b36b85af472
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20251111T073000Z
 LOCATION:ГАК-307
 DTSTART:20251111T060000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:d002939122028195ecf5a39f40336a4c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c1139eafbfd983fa6bfdaa7eeb3b4157
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260418T131500Z
+LOCATION:24Б-710
+DTSTART:20260418T114500Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:8b8f7d504d06d10eaa24029b3c2032c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260219T150000Z
+LOCATION:24Б-215
+DTSTART:20260219T133000Z
+SUMMARY:ПЗ Электроника
+UID:b88b798ba880ec0206dd9c8b752fb8e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
@@ -2060,6 +3904,14 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:b90bf760d5a4c3e45fcb2cdea542cb5d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гиголо Антон Иосифович
+DTEND:20260516T113000Z
+LOCATION:24Б-710
+DTSTART:20260516T100000Z
+SUMMARY:ЛР Электродинамика и распространение радиоволн
+UID:88e83958e6f70c8b2145b8e6c7e262e3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20250908T131500Z
 LOCATION:24Б-330
@@ -2073,6 +3925,14 @@ LOCATION:24Б-330
 DTSTART:20250915T133000Z
 SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:46683c38d784815e150154a045b8f464
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260212T131500Z
+LOCATION:24Б-330
+DTSTART:20260212T114500Z
+SUMMARY:ЛК Метрология\, стандартизация и сертификация
+UID:92347f7491dedf95571d15eeb9416e41
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T150000Z
@@ -2097,6 +3957,14 @@ SUMMARY:ЛР Радиоматериалы и радиокомпоненты
 UID:ab0bf11f0d71d60079549389534a6f5c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260604T150000Z
+LOCATION:24Б-510
+DTSTART:20260604T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:6b6aa08693fce5790211c8f8814e17e7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251119T091500Z
 LOCATION:--каф.
 DTSTART:20251119T074500Z
@@ -2109,6 +3977,27 @@ LOCATION:--каф.
 DTSTART:20251022T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:65354e775a9f2015da98a076b647bedf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:--каф. 919
+DTSTART:20260403T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:3f70b6bfb7fd04808784b3b484e3de6d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:--каф. 919
+DTSTART:20260424T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:5ebe17ddeb7be070865feb1d92b17223
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:--каф.
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f66b373d4eb3686667fde67b4ad8cddf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -2127,11 +4016,49 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:8c923d7c1774b47425c471f3e3fabf8a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260227T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260227T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:b6e6062c28bffa1be1bfa642e00d95b9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:--каф.
+DTSTART:20260415T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5edc91d8e616e3e6faebee21e05324bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260512T150000Z
+LOCATION:24Б-330
+DTSTART:20260512T133000Z
+SUMMARY:ЛК Электроника
+UID:4da37bdd392ce1501d6005d4031c52cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260424T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260424T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:283e8e3c7078fc00679d1f02e9f4f6cb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250918T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20250918T074500Z
 SUMMARY:ЛК Спецглавы физики
 UID:6df76645fe9e8fca273f87f0243e5496
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T113000Z
+LOCATION:--каф.
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:83bb999f7416a98d7b691169c238bec7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T113000Z
@@ -2157,11 +4084,34 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:d8488ea7d1b6b67e7fd3f63597b3523d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260403T150000Z
+LOCATION:24Б-203
+DTSTART:20260403T133000Z
+SUMMARY:ЛР Электроника
+UID:76720f6def5a9e003853704007007c30
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250908T091500Z
 LOCATION:ГУК А-404
 DTSTART:20250908T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:209fc7ecb9b99cab581123dbc5008ec8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260424T150000Z
+LOCATION:24Б-508
+DTSTART:20260424T133000Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:60323fe349bd23cdf3f4336970cbf8b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T073000Z
+LOCATION:--каф.
+DTSTART:20260415T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:74ae8a30c40f9cc118bdc9d4f5d26ee4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T150000Z
@@ -2179,12 +4129,72 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:e5a411000eb06b6a82bf9de8153c62ab
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260305T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260305T060000Z
+SUMMARY:ЛК Социология
+UID:d00d69da0f4df4cbcb5ad2b3790f4caf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--каф.
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:846241a8a7f4af825bfb3367f3bf9d56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260605T164500Z
+LOCATION:24Б-508
+DTSTART:20260605T151500Z
+SUMMARY:ЛР Высокоуровневое программирование в проектных и научных задачах
+UID:ea7dbc1549c83a039358f3040bd89d0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:--каф. 919
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:65e0118cc39532e8a8aa06aa378d3066
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
 DTEND:20251202T113000Z
 LOCATION:ГУК А-706
 DTSTART:20251202T100000Z
 SUMMARY:ПЗ Дискретная математика
 UID:a92ab547a21df428619858be36052f2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260317T113000Z
+LOCATION:24Б-223
+DTSTART:20260317T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:e7870b04dc76717b8375b27b27703475
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260519T131500Z
+LOCATION:24Б-224
+DTSTART:20260519T114500Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:3fc0e1fa73479acb6ba16799743478b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T073000Z
+LOCATION:--каф. 919
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:5345755bc2c3c5017d731cd3f7bbf87f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T073000Z
+LOCATION:--каф. 919
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ab2ea9e36bb3cde600037c8089a31138
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -2201,6 +4211,29 @@ LOCATION:ГУК А-407
 DTSTART:20250915T100000Z
 SUMMARY:ПЗ Психология и педагогика
 UID:626a3ab92b8ce08eb8f3672754474eb7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T073000Z
+LOCATION:--каф. 919
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:0410a82547d712f124de8041c851e031
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260521T164500Z
+LOCATION:24Б-508
+DTSTART:20260521T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:4d6677d470fc08e4a8f2a776cbe0f51b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260302T091500Z
+LOCATION:ГАК-307
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:3d9191b0ecd3c144da2b754b5198c831
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гарибян Борис Александрович
@@ -2224,6 +4257,21 @@ LOCATION:--каф.
 DTSTART:20251224T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:ac4b3f40591dc326adcdede89bcb98a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260320T150000Z
+LOCATION:24Б-203
+DTSTART:20260320T133000Z
+SUMMARY:ЛР Электроника
+UID:3179ffa9b91660570d4cb04507e447d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:10785e199ac61e2ef2546c40f72fd864
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T091500Z
@@ -2254,12 +4302,60 @@ SUMMARY:ПЗ Военная подготовка
 UID:71b0975b84970d3ef39402ffb61661e8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260414T131500Z
+LOCATION:24Б-330
+DTSTART:20260414T114500Z
+SUMMARY:ЛК Электроника
+UID:61e92d7eea71c2972e0c9a626d5cd574
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Александра Алексеевна
 DTEND:20251021T113000Z
 LOCATION:ГУК А-706
 DTSTART:20251021T100000Z
 SUMMARY:ПЗ Дискретная математика
 UID:d0234702e7afc076b93a2eb3bd6b04f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260511T091500Z
+LOCATION:ГАК-307
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:906876ad9567095cd076586557292774
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260217T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260217T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:6f775c9606f8947975af30312c0dd03f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260319T150000Z
+LOCATION:24Б-215
+DTSTART:20260319T133000Z
+SUMMARY:ПЗ Электроника
+UID:0c5ad10334b6c77cdcdfdba6dd208da8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260507T150000Z
+LOCATION:24Б-510
+DTSTART:20260507T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:451161eeab3b71ca22fb01f547d39244
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260416T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260416T060000Z
+SUMMARY:ЛК Социология
+UID:30dcd4236ca5fb41884da9b37b4bbda3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коновалюк Максим Александрович
@@ -2284,6 +4380,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:e04933bbcf80edc563c3155f172cc629
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260511T113000Z
+LOCATION:24Б-330
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:c3326086cc0afbc31101c2b79abbc125
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:--каф. 919
+DTSTART:20260213T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:f4e58032fc5f7bc20980023531dfe37e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251224T091500Z
 LOCATION:--каф.
 DTSTART:20251224T074500Z
@@ -2291,11 +4402,41 @@ SUMMARY:ПЗ Военная подготовка
 UID:eab0f98354da2c4d3cb2d51004078cf9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:--каф.
+DTSTART:20260218T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1b2975197e6bd8eb8ccb432ad7afc8ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260512T113000Z
+LOCATION:24Б-223
+DTSTART:20260512T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:7938af568b016a715a475c7212f4e2b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260519T150000Z
+LOCATION:24Б-330
+DTSTART:20260519T133000Z
+SUMMARY:ЛК Электроника
+UID:6c93efc42ec5eb707ee4cafdc27968b8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251020T150000Z
 LOCATION:24Б-330
 DTSTART:20251020T133000Z
 SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:1a737fc3631d910c51ad8b7e772af098
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:Орш. Б-605
+DTSTART:20260409T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:d4bafd3eedf478618af74a65b663341b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -2319,6 +4460,14 @@ LOCATION:24Б-330
 DTSTART:20251215T133000Z
 SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:875bcc54be7c067d25b55d8b84eab9a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гринев Александр Юрьевич
+DTEND:20260518T091500Z
+LOCATION:ГАК-307
+DTSTART:20260518T074500Z
+SUMMARY:ЛК Электродинамика и распространение радиоволн
+UID:d90bc034416b34f28431f1d5486b4595
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
@@ -2345,6 +4494,21 @@ SUMMARY:ПЗ Психология и педагогика
 UID:e7f1a3af4f24b9eb36ebc51d7c77330b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:--каф.
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a0996374d41a8eadf016a445fc11cb5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260310T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260310T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:fc6e2967ff9e02cb1e0dbe6be8a3fb88
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
 DTEND:20250912T150000Z
 LOCATION:ГУК Б-649
@@ -2353,11 +4517,26 @@ SUMMARY:ЛК Психология и педагогика
 UID:1393860e8e01123fea2d7be94cc8feb1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20260312T164500Z
+LOCATION:24Б-508
+DTSTART:20260312T151500Z
+SUMMARY:ПЗ Высокоуровневое программирование в проектных и научных задачах
+UID:6c113c49aa94cd7a4b152f681a1d0afb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T073000Z
 LOCATION:--каф. 919
 DTSTART:20251127T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:c6a733bb2ed597b79d6ae5d3e770eb42
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:--каф.
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b6176b32b470001614586202f6893310
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
@@ -2368,12 +4547,27 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:6cdffc6d4bc8fc251ee4599600cd9531
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:--каф.
+DTSTART:20260225T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8613b23971f0b84dc1ad56b0b1d72643
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20251223T113000Z
 LOCATION:24Б-229
 DTSTART:20251223T100000Z
 SUMMARY:ПЗ Основы теории электрических цепей
 UID:12ec3a96cf8a38b738fe7757a5298d9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260312T150000Z
+LOCATION:24Б-510
+DTSTART:20260312T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:7a6f8094f46e18fdc0ec4763fcd16c9f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T131500Z
@@ -2399,6 +4593,14 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:82d3250bf173fd5ed17f545675839014
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260403T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260403T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:68016ca49e48db263d7a071673959ebd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T131500Z
 LOCATION:--каф.
 DTSTART:20251203T114500Z
@@ -2414,12 +4616,44 @@ SUMMARY:ЛК Дискретная математика
 UID:182c7000f5d7877b27e064df8e68a970
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260313T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260313T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:28645291e45cbfa077b5ca91d92e3ff3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
 DTEND:20250930T131500Z
 LOCATION:24Б-229
 DTSTART:20250930T114500Z
 SUMMARY:ПЗ Основы теории электрических цепей
 UID:1009d3237de51ec1a437ce354daefa40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260525T131500Z
+LOCATION:24Б-229
+DTSTART:20260525T114500Z
+SUMMARY:ПЗ Радиотехнические цепи и сигналы
+UID:ae3b25f8b09e55e11ca6baa75c6411c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260417T150000Z
+LOCATION:24Б-203
+DTSTART:20260417T133000Z
+SUMMARY:ЛР Электроника
+UID:ccafd99163eff87716e1154e4b6474c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260305T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Социология
+UID:31639d5e2599824c2152ecfd7772b106
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевгунов Тимофей Яковлевич
@@ -2430,11 +4664,34 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:c30089b5c98f73f2031f2e0f9d9c51db
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260220T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260220T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:4dbbcfc61f1e4ff8a7eb2b7da843a71f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251029T073000Z
 LOCATION:--каф.
 DTSTART:20251029T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:12b7e330b8505efcbf3c99458b130e20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260421T113000Z
+LOCATION:24Б-224
+DTSTART:20260421T100000Z
+SUMMARY:ЛР Метрология\, стандартизация и сертификация
+UID:104f5a6812a5bab7384ad15effd82996
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:--каф.
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4530b2ad21c70c102b46cfc99924b833
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T113000Z
@@ -2467,6 +4724,14 @@ SUMMARY:ПЗ Физическая культура
 UID:b1e45c3bfc05724fe11e0f86119891d7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20260409T150000Z
+LOCATION:24Б-510
+DTSTART:20260409T133000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:2a2506eb40bec81eb559c3815a1e3773
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251020T113000Z
 LOCATION:3-417
 DTSTART:20251020T100000Z
@@ -2497,11 +4762,34 @@ SUMMARY:ЛР Спецглавы физики
 UID:6eee2dc767ed6a3eb9a3cf10d5485a36
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:--каф.
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2d7d3822e052b957f1ac2f83f6f08524
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гарибян Борис Александрович
+DTEND:20260407T164500Z
+LOCATION:ГУК Б-649
+DTSTART:20260407T151500Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:07d66f3e9d52e2cdd3526a27a919da72
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T131500Z
 LOCATION:--каф.
 DTSTART:20251126T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7d6685b5a37b94a557ee79a30114e527
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260406T131500Z
+LOCATION:24Б-621
+DTSTART:20260406T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:3de55b811bf8ed94e9e9a43027ae3f2f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T073000Z
@@ -2519,12 +4807,28 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:b01581f9df848e7c8242c48f548edbd8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бронников Денис Валентинович
+DTEND:20260209T131500Z
+LOCATION:24Б-621
+DTSTART:20260209T114500Z
+SUMMARY:ПЗ Электродинамика и распространение радиоволн
+UID:622a6647489023c6cddf855eb86cdb08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
 DTEND:20250923T073000Z
 LOCATION:ГАК-307
 DTSTART:20250923T060000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:74bc1968f17489cb37d7e5b9ce763c11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260526T131500Z
+LOCATION:24Б-330
+DTSTART:20260526T114500Z
+SUMMARY:ЛК Электроника
+UID:d9ce1afbfc5f4d4e724d08d2ee083a7b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251201T150000Z
@@ -2549,11 +4853,34 @@ SUMMARY:ЛК Основы теории электрических цепей
 UID:606bb238efef382f2eb4fbf1d44d00c4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Казаков Геннадий Николаевич
+DTEND:20260217T113000Z
+LOCATION:24Б-223
+DTSTART:20260217T100000Z
+SUMMARY:ПЗ Метрология\, стандартизация и сертификация
+UID:95b854584d0c48070fc152cf8a1a72a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260413T113000Z
+LOCATION:24Б-330
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:f9f71090b7630a2a5ea683764b04ba8a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T131500Z
 LOCATION:--каф.
 DTSTART:20251008T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b1bc3251bb62015ad7459e31f8e38114
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:960a9595d4a76b4e9139c07c4038bc05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Ирина Анатольевна
@@ -2594,6 +4921,13 @@ SUMMARY:ЛК Психология и педагогика
 UID:cb5092968203456b0462aa0ba32c5e90
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:--каф. 919
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b22ae1e1a28b9bec55ecc2714956ff1f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251119T113000Z
 LOCATION:--каф.
 DTSTART:20251119T100000Z
@@ -2609,11 +4943,50 @@ SUMMARY:ПЗ Основы теории электрических цепей
 UID:6d272985a9776ada8d508baa81d1c1e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260319T073000Z
+LOCATION:Орш. В-101
+DTSTART:20260319T060000Z
+SUMMARY:ЛК Социология
+UID:9a7aacc0f5bf27bbe19f02988c3b0d1a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251110T150000Z
 LOCATION:24Б-330
 DTSTART:20251110T133000Z
 SUMMARY:ЛК Радиоматериалы и радиокомпоненты
 UID:431591d9b2d280c77e050c6f53c368aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткаченко Татьяна Владиславовна
+DTEND:20260319T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Социология
+UID:b86e4b70fcf8d0b2beccaec4f96e35ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевгунов Тимофей Яковлевич
+DTEND:20260427T113000Z
+LOCATION:24Б-330
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Радиотехнические цепи и сигналы
+UID:8d6cf3008cac3787055150055fbdf142
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--каф.
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:271e4a72eaaadcfcca8f1ac2d91f5fbd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбин Юрий Маратович
+DTEND:20260505T150000Z
+LOCATION:24Б-330
+DTSTART:20260505T133000Z
+SUMMARY:ЛК Электроника
+UID:2c7b3662381c6f08354476233bbec5af
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T073000Z

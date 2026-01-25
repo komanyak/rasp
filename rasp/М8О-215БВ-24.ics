@@ -2,11 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:--каф. 919
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:734cf31f889c523c914c74fe75fb2551
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c3cc837f476c9f81572f198d872a8f57
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251115T113000Z
 LOCATION:--каф.
 DTSTART:20251115T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:d0643b5c9607725ae4b51aed17f32167
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260312T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:7dbf73f605c71ed6add74d416f483cd4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251226T113000Z
@@ -30,11 +52,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:76d0dc192098d0647fbd3ece85f69f10
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b3fce994e1e147ef10cb0a0bd6a93772
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T131500Z
 LOCATION:--каф.
 DTSTART:20250910T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:02652862dc5f803fc1083a0aef539ede
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T113000Z
+LOCATION:--каф.
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d48054755f34299459b647b8b7b68e4f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -60,11 +96,39 @@ SUMMARY:ПЗ Военная подготовка
 UID:9de4774dcef31b088ed36daa574e7504
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260307T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260307T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:6ec0c6725e20158c598055691ebe7e9b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260530T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:81b6b5bc9274cd8f2d9e07ae6f81a9d4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251101T113000Z
 LOCATION:--каф.
 DTSTART:20251101T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:9e441daf4739d2b20cf97dc0c6d115f0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:--каф.
+DTSTART:20260603T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4ddcf01ff15cb8eab20c48cae1e190c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T113000Z
+LOCATION:--каф.
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:59d8666f0226ca22a77e8b7e283e4887
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -82,12 +146,33 @@ SUMMARY:ЛР Операционные системы
 UID:b46c4a0084917a512ecc220fddbf6315
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:--каф.
+DTSTART:20260527T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:854fbb69a76b0b196d3f80ed6e3fd9ed
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251219T150000Z
 LOCATION:Орш. В-303
 DTSTART:20251219T133000Z
 SUMMARY:ЛР Общая физика
 UID:e535a7674a48dc7e5cb31af110dc3487
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:--каф.
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:043d6042a28e82f6f4e335f8f0209910
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260224T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c8aa7601fd4cde01b05c442d0f437bbf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -127,6 +212,22 @@ SUMMARY:ПЗ Иностранный язык
 UID:63be7592ed20ab9e68a82771b17e5433
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260227T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260227T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:04d7d1ecfcc51f35ee0b68bcc852fa71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260406T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Социология
+UID:68b1c462c315c4c348554d4b47e8a9f1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
 DTEND:20250912T131500Z
 LOCATION:ГУК Б-637
@@ -147,6 +248,57 @@ LOCATION:--каф. 919
 DTSTART:20251215T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:4a09ba050585f44b9f9e72c4b613764d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:--каф.
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4675a651624ce8d88515ac355af5c1be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T073000Z
+LOCATION:--каф.
+DTSTART:20260401T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7cb0e309ebe9bf9f6fe165cf79eca3ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:ГУК Б-430
+DTSTART:20260417T114500Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:40fe86e712fda14b56d45f77bb0272ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260518T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260518T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f5bdc241f8fb0fdbab03262817b41c02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260317T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260317T100000Z
+SUMMARY:ПЗ Социология
+UID:8db7c0409786b663063b0062f91ef800
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260404T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:cdfbe992cb958fd88dd10a289f5f9bbe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:--каф.
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f22b6483ee9e2f69de348f6f47b016a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
@@ -194,11 +346,32 @@ SUMMARY:ПЗ Математический анализ
 UID:5a5ac1a356c9d5b33e47bd0f1d9a94d2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:--каф.
+DTSTART:20260318T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b3a08c7d1b3dc150722c35b7ff3bd552
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:--каф.
+DTSTART:20260225T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0952e0d174a73dc64d67e1a8c3b21f06
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251227T113000Z
 LOCATION:--каф.
 DTSTART:20251227T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:05a6cf26145370216dcd4bcc370493f3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260321T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:3405a1742bb67908914b21040cf61bbd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T091500Z
@@ -248,6 +421,14 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:d3a5a91a3a82d28858e5b8b9c92585bd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260326T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:61f38c3ff64ef70554213378328b5996
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
 DTEND:20251202T131500Z
 LOCATION:ГУК Б-635
@@ -278,6 +459,29 @@ SUMMARY:ПЗ Военная подготовка
 UID:6dea23999bc4f236db6550b748bae784
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф. 919
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:a3c803de56f6a6c27934f75d5f8ccaef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260522T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260522T074500Z
+SUMMARY:ЛК Общая физика
+UID:985b2e13921dd7ec98c85f4da77554af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260427T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Математический анализ
+UID:fcb35f4bfdfd7db899885b526f8a8cbd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T131500Z
 LOCATION:--каф.
 DTSTART:20251008T114500Z
@@ -291,6 +495,13 @@ LOCATION:ГУК Б-638
 DTSTART:20251127T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:9ee9188d2cba400274435b321db3ec0c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:--каф.
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1853983a2ac4d755147ea5f31bf9241d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T131500Z
@@ -312,6 +523,13 @@ LOCATION:--каф.
 DTSTART:20250910T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7fd9b80eb00d6fbe83d1e4f57858b156
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:--каф.
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2724ced11b8507015f2b66f05182f83d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T091500Z
@@ -336,12 +554,34 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:b7b92f7e54ee51a6b9da7afe0ef603e2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260219T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:70fade3b17c2cbd4a326d415ce421c91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--каф.
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0e6503c4fa809ca0a954871c9dea2d78
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
 DTEND:20251002T131500Z
 LOCATION:ГУК Б-638
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:40762042d83d44505c23525116f154d0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:ГУК Б-430
+DTSTART:20260320T100000Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:02bbe6b5eb27203de20c0c3522f75aaa
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T113000Z
@@ -373,6 +613,13 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:74db9bbea2691f008b517f0af6dd2ecf
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T150000Z
+LOCATION:ГУК Б-320
+DTSTART:20260312T133000Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:548b8aadae416acb302529e2a33fc941
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251205T091500Z
 LOCATION:Орш. В-314
@@ -389,12 +636,35 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:1cdf8c0a1b56cc9cfaa7068c810f6d96
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260313T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260313T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:30eb55a5c7225b229518c3936f279733
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20251021T150000Z
 LOCATION:ГУК В-214
 DTSTART:20251021T133000Z
 SUMMARY:ЛК Математический анализ
 UID:bb50054dd8a0ea09a0757c625af3daae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260303T060000Z
+SUMMARY:ПЗ Общая физика
+UID:0b1d5039d6aceea3f1a384498041db8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260507T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:04c4ad182b3e07814e8660dacc81379f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -420,12 +690,42 @@ SUMMARY:ПЗ Военная подготовка
 UID:b9706e22bf81bf22a53643e18521c602
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:5e84e7bee188d56c019edec0f4f78cc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260421T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:9234677cc305e8e3006402a7ef4d608f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Осьмина Кира Сергеевна
 DTEND:20251202T091500Z
 LOCATION:Орш. А-430
 DTSTART:20251202T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:531d51a5deab7b196cc2d11bf483db5e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260424T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260424T074500Z
+SUMMARY:ЛК Общая физика
+UID:bf1d7a963a2e6d170dca18257c1b339e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260427T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:cf7da9d8c0f0f91604052705eaf2c899
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251217T091500Z
@@ -449,6 +749,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:7f8458e42469f151724518cf0c16b8af
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T073000Z
+LOCATION:--каф. 919
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:149be3bc6f90815976c1fcd3458a80ba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20250916T091500Z
 LOCATION:ГУК В-221
@@ -465,6 +772,28 @@ SUMMARY:ПЗ Иностранный язык
 UID:679acde58c9b903e03a76633ee778972
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260327T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260327T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:d24a56ec79f2312af533f66177ad1f2d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260421T060000Z
+SUMMARY:ПЗ Общая физика
+UID:a64d2d8ae81b53f9311a192ed0565eb7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф. 919
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:49e52a400eb693cb9a545f752ffd9fde
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Осьмина Кира Сергеевна
 DTEND:20251118T091500Z
 LOCATION:Орш. А-430
@@ -478,6 +807,28 @@ LOCATION:--каф.
 DTSTART:20251105T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:5bd9c9146b2e65efc5b73c857f1a8e11
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:--каф.
+DTSTART:20260218T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:67ec0a49335c4f9ee4b65885f8fb8fd5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260420T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Социология
+UID:16079c8c93a78ce8ff1c950e2b7ba8f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:--каф.
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ba4076d99b24280fa93a4acd9b446eab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
@@ -540,11 +891,40 @@ SUMMARY:ЛР Объектно-ориентированное программи�
 UID:51f9cdc8203d1b7a7b2ca925fedfe500
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260324T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260324T060000Z
+SUMMARY:ПЗ Общая физика
+UID:c57770f1cb130ddfbfc6093173ddcf41
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:--каф.
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1f7d4e5301e8d642d502afeed832c9b4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:--каф.
+DTSTART:20260520T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf4cf1257e4b5a93279a5f065b090fc8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T131500Z
 LOCATION:--каф.
 DTSTART:20251001T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b37371b562d404f71d5d74edf8a34134
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260512T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260512T100000Z
+SUMMARY:ПЗ Социология
+UID:6a906593069f319063ea9fcd077449ae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T091500Z
@@ -562,6 +942,13 @@ SUMMARY:ЛК Математический анализ
 UID:2fbdd58065fcc8a0146c97930e391259
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260505T131500Z
+LOCATION:Орш. В-314
+DTSTART:20260505T114500Z
+SUMMARY:ЛР Общая физика
+UID:4bf70efd2380609564cd3d0dec271ffa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20250923T091500Z
 LOCATION:ГУК В-221
@@ -576,6 +963,49 @@ LOCATION:ГУК В-214
 DTSTART:20251111T133000Z
 SUMMARY:ЛК Математический анализ
 UID:a606ccfd1584b3a8383e8d7a6c4dd6ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T164500Z
+LOCATION:ГУК Б-320
+DTSTART:20260226T151500Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:0cb7f8a7169c55e7ca5d29f1050ab8de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф. 919
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:3dc6267f87c2e909fe1ac8ee7751f4d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260220T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260220T074500Z
+SUMMARY:ЛК Общая физика
+UID:02ba7418b1d9105d0ee2ab71e026a4e7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T113000Z
+LOCATION:Орш. В-605
+DTSTART:20260421T100000Z
+SUMMARY:ЛР Общая физика
+UID:767ea90783d0ce746b45987802250679
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T091500Z
+LOCATION:--каф.
+DTSTART:20260211T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:363a88b7a2b52e93d578056d2a2542d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260404T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:157e5d8b8f74d11e129765c4ccea4f5a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T091500Z
@@ -597,6 +1027,13 @@ LOCATION:ГУК В-221
 DTSTART:20251122T074500Z
 SUMMARY:ЛК Объектно-ориентированное программирование
 UID:b4e6db6db3fad4f347da1f3fcacec45f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф. 919
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:811a92adb7adba172fe070c165fd9eb3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
@@ -638,11 +1075,26 @@ SUMMARY:ПЗ Математический анализ
 UID:98f5f8cf8477f90cf3c9e334ad9cc9fd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260529T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260529T074500Z
+SUMMARY:ЛК Общая физика
+UID:960c66c0adb3e5d30493032c0790d21a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T164500Z
 LOCATION:--каф.
 DTSTART:20251107T151500Z
 SUMMARY:ЛР Операционные системы
 UID:dc2c46b24cde3fdab9d83542f719be6b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:--каф. 919
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:873872b0d593c6fcb3640ed9978859db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -660,6 +1112,20 @@ SUMMARY:ПЗ Физическая культура
 UID:75bb20a1ba7191a5d7d0b844db6e37f0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260523T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260523T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:e37ab7dbd1d5efe36db3ec4671377a78
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:b8133b1d595465a6fb8b0921465b5ded
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T073000Z
 LOCATION:--каф. 919
 DTSTART:20251006T060000Z
@@ -672,6 +1138,14 @@ LOCATION:--каф. 919
 DTSTART:20251212T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:2f584d57ef12367cd2d10eea8dd45494
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260316T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:f7300b4c7f784db6dec8efada06d146d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -696,6 +1170,13 @@ LOCATION:ГУК В-214
 DTSTART:20251103T074500Z
 SUMMARY:ЛК Общая физика
 UID:870175372c4d8d719ba0819d689da24c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:--каф.
+DTSTART:20260218T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4de863315f3683b46c7b355266178e4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -735,6 +1216,13 @@ SUMMARY:ЛР Разработка IT-проектов
 UID:bc94ea7606c5c9563733d032be72c8cd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:--каф.
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3dd92af474e562cbec8152ddb09a57a5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T073000Z
 LOCATION:--каф.
 DTSTART:20250903T060000Z
@@ -757,6 +1245,13 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:369286a483a1dea44fdc0c8325ba0555
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260324T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260324T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:898cd5490d84eccad7ccd754aafa3d3e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T113000Z
 LOCATION:--каф. 919
 DTSTART:20251205T100000Z
@@ -770,6 +1265,14 @@ LOCATION:ГУК А-710
 DTSTART:20251225T133000Z
 SUMMARY:ПЗ Математический анализ
 UID:a6c3243038283ff574c9a4d1bdf0df3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260409T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:2c4266fa3c72782f88b03e7fcfd38636
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T113000Z
@@ -786,6 +1289,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:2856a6e4e5d6a9387f0295cd5610cfbf
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260512T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260512T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8b67ab04bffa70ab8b14f6a811d0c38f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф. 919
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:b3c2f72106b698109d1b6253a3113339
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251031T113000Z
 LOCATION:--каф. 919
 DTSTART:20251031T100000Z
@@ -793,11 +1310,32 @@ SUMMARY:ПЗ Физическая культура
 UID:a11a2cfe628c30888218eb01bcdfd025
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260428T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ Общая физика
+UID:b4c02da4acb1f90e853d1533e58b109d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T073000Z
+LOCATION:--каф. 919
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b8fff59af174b16d01cdea7737d166ee
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251025T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251025T060000Z
 SUMMARY:ЛК Разработка IT-проектов
 UID:4807e0f989a55139f784747fec74fcc4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:--каф.
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2f084d081994c266053be315f2cc6edb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T113000Z
@@ -820,6 +1358,14 @@ LOCATION:--каф.
 DTSTART:20251129T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:b8f2bd70ea58e3490d9166af2af0ae5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260428T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260428T100000Z
+SUMMARY:ПЗ Социология
+UID:caa65dab9472ad48097728d014c6e291
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
@@ -862,11 +1408,27 @@ SUMMARY:ПЗ Общая физика
 UID:eb6d05c340ecc7eabe98fd2ec5145764
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260302T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:f0b81a543ca441efd678f921c8861a34
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250924T113000Z
 LOCATION:--каф.
 DTSTART:20250924T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:578fdac0c80dc5cb367854e6ee1fb84b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260504T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Социология
+UID:94e95a248bf7dd6e3ae11c37cd8f2efc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
@@ -877,11 +1439,34 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:2af7dbc129d1759f296358937a94fb66
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260313T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260313T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:3a9af4ae8e45ee82a6d65f987ef6a12b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260321T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:20b5d2fd1620b576f287be57b27dd3ca
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251222T073000Z
 LOCATION:--каф. 919
 DTSTART:20251222T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:d71bce4307c626aa65adede04c7c47a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260212T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:1613999b9f8a9d6f5bf9bb3b85fed164
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T164500Z
@@ -897,6 +1482,13 @@ LOCATION:ГУК В-214
 DTSTART:20251117T074500Z
 SUMMARY:ЛК Общая физика
 UID:828129faa30da33e8662808230fc107b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:--каф.
+DTSTART:20260401T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:67e5d8fa11a59298ac04efcd54184d45
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T073000Z
@@ -921,6 +1513,22 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:31aae216d629f54e9b9441c28dca9204
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260508T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260508T074500Z
+SUMMARY:ЛК Общая физика
+UID:dd7e3f2a86ec775ee195902c340eb202
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260402T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:f4f851e5a951abd51baaf3e539ab3a4d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T073000Z
 LOCATION:--каф.
 DTSTART:20251217T060000Z
@@ -934,6 +1542,35 @@ LOCATION:Орш. А-430
 DTSTART:20251111T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:75ab257afba665a30913c8316793b1af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:--каф.
+DTSTART:20260408T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8c4a6b53ff0f3538a17eab0bf6be21a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T073000Z
+LOCATION:--каф.
+DTSTART:20260415T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f3d09a30b6e5b1957f9875181e0a6db9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260416T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:97cffa3fe2d9fceebcf51d84fb751068
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260508T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260508T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:f90836827e126aabf2b97ae148667002
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -950,6 +1587,14 @@ LOCATION:ГУК Б-635
 DTSTART:20251118T114500Z
 SUMMARY:ПЗ Общая физика
 UID:aa96434dee95df8570382098eab044a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260403T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260403T074500Z
+SUMMARY:ЛК Общая физика
+UID:c9e4afef2445c2696fe1c9f7a5355742
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T073000Z
@@ -974,6 +1619,36 @@ SUMMARY:ЛР Объектно-ориентированное программи�
 UID:0d0039a15aa047bc0c1036968402357a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260410T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260410T074500Z
+SUMMARY:ЛК Общая физика
+UID:67e9e6a0511dd279337ac4fa95b028ec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:--каф. 919
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:515529bcb45e17e3206d65bb4fbf7290
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260605T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260605T074500Z
+SUMMARY:ЛК Общая физика
+UID:646dfb234276b5d0681ba9c3b0905c9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260505T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:ed13dada6d1a00cb4040ccb251aa8836
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
 DTEND:20251009T150000Z
 LOCATION:ГУК А-710
@@ -990,6 +1665,13 @@ SUMMARY:ПЗ Математический анализ
 UID:6f44f763250e594a43b2dcad60691496
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260305T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260305T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:e7325c88a6ddf406f68e7dc53457640a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251011T113000Z
 LOCATION:--каф.
 DTSTART:20251011T100000Z
@@ -997,11 +1679,46 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:e6a322a849bd50ee521376c9a9f3d840
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:--каф.
+DTSTART:20260311T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:000c0068e0af8f97e2326dd4f6f26c60
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260530T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:9d5da26489d3547d6ed7699aff51bd9d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:--каф.
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e8418b2222b7a851f85f8bb1fe1f623c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251017T150000Z
 LOCATION:--каф.
 DTSTART:20251017T133000Z
 SUMMARY:ЛР Программирование беспилотных систем
 UID:70a876a1601efb6f740b74319f553d38
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260428T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:028bb4c7097dbbe72663489c6a81703d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260217T060000Z
+SUMMARY:ПЗ Общая физика
+UID:d8827f75f8f6b4a45bd3b26a4b9667fc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T113000Z
@@ -1019,6 +1736,13 @@ SUMMARY:ЛК Математический анализ
 UID:468491dae31bb251a894db5d2e236d70
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:--каф. 919
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:0b840ba7cc59e7933e6d05b50138e731
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T113000Z
 LOCATION:ГУК В-214
 DTSTART:20250925T100000Z
@@ -1034,12 +1758,48 @@ SUMMARY:ЛК Общая физика
 UID:e87902269da62e038908347158138ecd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:ГУК Б-430
+DTSTART:20260515T114500Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:7b536740b437f572e9ccf865662a6ffa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--каф.
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:350ad0336b8a0767515aca6ad1ecc6e1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T150000Z
+LOCATION:ГУК Б-320
+DTSTART:20260226T133000Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:faf4e68fd95d07f5bdef125fc6b730f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260511T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Математический анализ
+UID:538b1f3b7df0d32f753165002443cd00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
 DTEND:20250925T150000Z
 LOCATION:ГУК А-710
 DTSTART:20250925T133000Z
 SUMMARY:ПЗ Математический анализ
 UID:be540cc8ca6470e61be56b6b69bab37e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:--каф.
+DTSTART:20260603T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3f3bb3672a13a8f67d44ea8804894f92
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T113000Z
@@ -1056,6 +1816,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:30c145bd5cce33a8a81ff1a07c66a1c4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260310T060000Z
+SUMMARY:ПЗ Общая физика
+UID:9e54a91be076d7fd5ec446958f9a1ccb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260504T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Математический анализ
+UID:a198cf9d2173f73e0f2b15c0f8b80582
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T073000Z
 LOCATION:--каф.
 DTSTART:20251210T060000Z
@@ -1068,6 +1843,13 @@ LOCATION:ГУК В-221
 DTSTART:20251004T074500Z
 SUMMARY:ЛК Функциональное и логическое программирование
 UID:ad552f538a351050a006c8129700cfc3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:fcfd77ebf2aa47d1ce12833c4e58930b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сошников Дмитрий Валерьевич
@@ -1086,11 +1868,34 @@ SUMMARY:ПЗ Основы психологии
 UID:e457eab12f25295138e14796a0cb93b7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260525T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Математический анализ
+UID:587bebf3cf5b6679439d13a5e13b3561
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:ГУК Б-430
+DTSTART:20260417T100000Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:e68eb66649663cd0c7545a17f7d7dda3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250924T131500Z
 LOCATION:--каф.
 DTSTART:20250924T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b3504811085e2bfc5071821286a28867
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260508T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260508T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:031b34825e987046626fb84c23bbd1b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
@@ -1101,6 +1906,14 @@ SUMMARY:ПЗ Общая физика
 UID:4847e3474cefc727213ed89a0c809167
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260511T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260511T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:935e089f618af1b3dad4e7b97bdd0a48
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
 DTEND:20251020T113000Z
 LOCATION:ГУК В-214
@@ -1109,12 +1922,36 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:cbe0001872cb9b75625ff327776fb69a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260518T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260518T100000Z
+SUMMARY:ЛК Социология
+UID:d995d66c5ff37fca3bfbc3e77b52466d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260525T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260525T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:d38207777a54f1ddd1bedbd85f68a63b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
 DTEND:20250922T131500Z
 LOCATION:ГУК В-214
 DTSTART:20250922T114500Z
 SUMMARY:ЛК Основы психологии
 UID:efaa0f8f040df9979bd60a8181733407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260216T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Математический анализ
+UID:e3ac8dea7e5190961817224b722f2fac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -1139,6 +1976,21 @@ SUMMARY:ЛК Операционные системы
 UID:c7ac8e6f1703fc30d930c8e9ae7e6346
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260216T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:5fcbf6081388702ddf475300c6df8de1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260307T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:39c60fff452ec3889e29369be67572d7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251031T164500Z
 LOCATION:--каф.
 DTSTART:20251031T151500Z
@@ -1151,6 +2003,14 @@ LOCATION:--каф. 919
 DTSTART:20251117T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:25413907e26919870422e08dcf03e6b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260416T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:9a4d3c446ba733996491961a125a72be
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T131500Z
@@ -1168,11 +2028,32 @@ SUMMARY:Экзамен Дифференциальные уравнения
 UID:1fdc195e2e1b157e28553fd511391ed1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф. 919
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:26558f48026e5218a356fe6a3e37b6c3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251110T073000Z
 LOCATION:--каф. 919
 DTSTART:20251110T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:747bf9a9c6261267e050111cc8aaff6d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф. 919
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:252baacaf93c764c682c2f464ec31d97
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:--каф.
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a18257338b0bed27588f17c7302c039a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250902T113000Z
@@ -1204,6 +2085,13 @@ SUMMARY:ЛР Объектно-ориентированное программи�
 UID:d6d8c1667b9e7a784d6b2e137ef040ac
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260219T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:f7662aaf72be05963a0e0f339fe111a0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T131500Z
 LOCATION:--каф.
 DTSTART:20251217T114500Z
@@ -1217,6 +2105,21 @@ LOCATION:ГУК В-214
 DTSTART:20251013T114500Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:5832380a2b4ed2354eec695f8a846b32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T131500Z
+LOCATION:Орш. В-603
+DTSTART:20260324T114500Z
+SUMMARY:ЛР Общая физика
+UID:98d66ebde76f1d65bee4a243c0d4493f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260413T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Математический анализ
+UID:027dfbe18d27cc964f4cfab46aaa18ed
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T113000Z
@@ -1241,11 +2144,33 @@ SUMMARY:ПЗ Иностранный язык
 UID:cd8ecaa13159b3aad9d79e3cc14a7bae
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--каф.
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:87fb9e5dcbd95e9eada5c52191647cf6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250919T113000Z
 LOCATION:--каф. 919
 DTSTART:20250919T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:e408e3daec841fd5a5e178d53df7904f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260227T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260227T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:9decf1421010907ce84912dc9102b8cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:--каф.
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fa3ea5bc06ab7d77806754ea33513137
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
@@ -1314,6 +2239,13 @@ LOCATION:--каф.
 DTSTART:20251129T114500Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:57f171099b26b90cb5514d60bc1b2501
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф. 919
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:c6304fbe3fcb670e452cb9ae8fb82590
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T091500Z
@@ -1391,12 +2323,27 @@ SUMMARY:ЛР Разработка IT-проектов
 UID:0774a4d6e307ff5c67b8d9356ed82a08
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260430T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:640b7657ce0da5f824770da274642397
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
 DTEND:20251208T131500Z
 LOCATION:ГУК В-214
 DTSTART:20251208T114500Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:7dd0f475f59d3284caf9498b212a497e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260217T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:218b9839d3036421d6ea0b07882e8e05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
@@ -1421,11 +2368,32 @@ SUMMARY:ПЗ Физическая культура
 UID:51a3119f756a0240392d63053116ebc0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:--каф.
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f6bc3248ceb5e24243de91f736d546a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:--каф.
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:180b5cdbd74e198d6cc6a18d02655893
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250920T113000Z
 LOCATION:--каф.
 DTSTART:20250920T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:ea67c4a6673438c237fc0e63413f68ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T073000Z
+LOCATION:--каф.
+DTSTART:20260211T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2070001d982f9378a8bc00939df814b0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251226T150000Z
@@ -1440,6 +2408,13 @@ LOCATION:--каф.
 DTSTART:20250917T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:884855ae3a1cd9802d4f06ecea54a5ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T073000Z
+LOCATION:--каф.
+DTSTART:20260513T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b1def8b5b0db475877a21907cb9ece58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Осьмина Кира Сергеевна
@@ -1487,6 +2462,20 @@ SUMMARY:ПЗ Физическая культура
 UID:0dd4c557ca163632914a9eb04e6ffa31
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:--каф.
+DTSTART:20260520T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:208b11fb81c5c710daa534ec16cac7a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T113000Z
+LOCATION:Орш. В-603
+DTSTART:20260324T100000Z
+SUMMARY:ЛР Общая физика
+UID:cfe0169849721d0c9a3664c49cd0a352
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251108T113000Z
 LOCATION:--каф.
 DTSTART:20251108T100000Z
@@ -1513,6 +2502,13 @@ LOCATION:--каф.
 DTSTART:20251112T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1a478e988a79275b0afb8a065f14944b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:7aa42db39f54b0c76db6913d022a04e4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T150000Z
@@ -1543,11 +2539,40 @@ SUMMARY:ПЗ Физическая культура
 UID:c416a238b442b62ad5c7ac1f0ef5977f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260323T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Математический анализ
+UID:a531649a17345e3deec2493e54bf1575
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T113000Z
 LOCATION:--каф.
 DTSTART:20250910T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:cefadd7cbb8c9e066aeecab577ae94f9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:7cf2230eaafadc67db71d3ae53391da7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260606T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:19cfeab83e18581b6aab6c44c8d06533
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:--каф.
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:70350d1701620d5e72b8d9e2bf5fbf28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
@@ -1556,6 +2581,13 @@ LOCATION:ГУК В-214
 DTSTART:20250908T114500Z
 SUMMARY:ЛК Основы психологии
 UID:530d81a063e9ae9f3866aa4d344968ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T131500Z
+LOCATION:Орш. В-605
+DTSTART:20260407T114500Z
+SUMMARY:ЛР Общая физика
+UID:76d30680d782d013d3422f1af96b95ab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251114T113000Z
@@ -1572,12 +2604,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:055c5b6ce8b612e51ff9873534e77052
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260523T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260523T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:747de04db488ddab8712c7ee298899bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251220T150000Z
 LOCATION:Орш. В-308
 DTSTART:20251220T133000Z
 SUMMARY:ЛР Общая физика
 UID:e6b178bec324f6552d496f830de5fcbc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T073000Z
+LOCATION:--каф.
+DTSTART:20260429T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a078be0fd87c78468d0c1816b9ace9b0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T073000Z
@@ -1587,11 +2633,25 @@ SUMMARY:ПЗ Физическая культура
 UID:cbdaab5872c79b5d8277a20fca9d6eb0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260505T113000Z
+LOCATION:Орш. В-314
+DTSTART:20260505T100000Z
+SUMMARY:ЛР Общая физика
+UID:cf7ffccfa710fabfc528134527747612
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251022T113000Z
 LOCATION:--каф.
 DTSTART:20251022T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:2577940fc51204c9f2c61fbbfdad7570
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:--каф.
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a4a38b4a52660bc83ecc326602a361e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -1600,6 +2660,13 @@ LOCATION:ГУК В-214
 DTSTART:20251110T114500Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:55bbd94f5b9daeb8f6deb8655498d0ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260516T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:b1ed761bfb10d789017abcdb9bc3c681
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
@@ -1624,6 +2691,34 @@ SUMMARY:ЛК Функциональное и логическое програм
 UID:aaa442f28507248ca811e58f03ebe25a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260317T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260317T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:a2408b3eb1bbe36e4216ff13b3a45137
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:--каф.
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2c21178cbef599f2301e62e8ddcc04ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260502T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:87010723ec54baafb8801b511309c7fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф. 919
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:a39b805ba58c630585ca656c77b05108
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
 DTEND:20251208T113000Z
 LOCATION:ГУК В-214
@@ -1637,6 +2732,20 @@ LOCATION:--каф.
 DTSTART:20251024T133000Z
 SUMMARY:ЛР Операционные системы
 UID:3b68e1b506a5e7a37d4e8695516b7d32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260402T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:f5673f59ce2ff403ec5f0bbf608cf38e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260331T060000Z
+SUMMARY:ПЗ Общая физика
+UID:3536b655dd9f1da66a828cdec7e06b29
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T150000Z
@@ -1654,11 +2763,33 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:f69e2517a0881abe0228c6917d6b6ea6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:--каф.
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:50488ebf34526e9cabf538433c3ae592
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T091500Z
 LOCATION:--каф.
 DTSTART:20251210T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ce76bb4a9c282865a6fb661a66185769
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260424T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260424T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:2d4be935b66ada603bae3574885eea92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:98e5754b0e70946791966a7c193fdd86
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250901T073000Z
@@ -1668,12 +2799,27 @@ SUMMARY:ПЗ Физическая культура
 UID:a64137fbbf205846df6b36d4ab502593
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260418T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260418T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:7c2807cdd66855c6937e1bf257095908
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
 DTEND:20250925T131500Z
 LOCATION:ГУК Б-638
 DTSTART:20250925T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:bfb753cb3cd450d9ace040d3e6d6aebf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260330T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:bda20f621b858ee145fd78e6debb1ec4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T113000Z
@@ -1691,6 +2837,20 @@ SUMMARY:ЛК Основы психологии
 UID:c7e2e55332e7a5789fc982fbc78b2e8b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260418T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260418T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:07b905dd87134baa0d3b963c46f53110
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:--каф. 919
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c452046f5270610f438cbc54dc2fa19e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T113000Z
 LOCATION:ГУК В-214
 DTSTART:20251127T100000Z
@@ -1705,6 +2865,35 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:3a4716b8ed8a459f12e05034357d7feb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260414T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260414T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:ab391834ab8bc346ab05b0bbe626e01d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260302T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:1b646dd84efec27a6363b2040f169b8a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:--каф.
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4562018e60e089f58b8604af06fa2820
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:74bd016102824c43deed29326c6b4b04
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T073000Z
 LOCATION:--каф.
 DTSTART:20251015T060000Z
@@ -1717,6 +2906,13 @@ LOCATION:--каф.
 DTSTART:20251203T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:c2f3646d2a2a1a7755ea3c468aa7f489
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:d57c89b8a9cc79ac634707fea9332fb0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
@@ -1734,6 +2930,13 @@ SUMMARY:ЛК Программирование беспилотных систе�
 UID:c102f09eadf36619e023aeb3b1c46833
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:--каф.
+DTSTART:20260225T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:944f81f3ecd4dd3636155e836e2beb67
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
 DTEND:20251020T091500Z
 LOCATION:ГУК В-214
@@ -1742,12 +2945,58 @@ SUMMARY:ЛК Общая физика
 UID:e80b66ecc19f429319ecb4cb80b3eed6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260519T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260519T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8212fb8367225710865cf768d5f66242
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260217T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260217T100000Z
+SUMMARY:ПЗ Социология
+UID:438ec1f7a99c028f90400ff5a59a1c67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260305T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:095b05756737589e040e79fa67b49073
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
 DTEND:20250901T113000Z
 LOCATION:ГУК В-214
 DTSTART:20250901T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:2bba7c053f04232a9d8b4da9a600f0e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260320T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260320T074500Z
+SUMMARY:ЛК Общая физика
+UID:8fba11674cbcbd525cc0e7067eedef89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260331T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260331T100000Z
+SUMMARY:ПЗ Социология
+UID:f26cc44d8203a10d04dd942430818b63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260407T060000Z
+SUMMARY:ПЗ Общая физика
+UID:0c4dd7dda8ef829c19f3f41d1c50f4e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T073000Z
@@ -1763,6 +3012,35 @@ LOCATION:ГУК В-214
 DTSTART:20251216T133000Z
 SUMMARY:ЛК Математический анализ
 UID:687405caec13db7cfa67324142d02bb1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260410T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260410T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:f1d2bc7d800fc154be87d68b8c94b618
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T073000Z
+LOCATION:--каф.
+DTSTART:20260527T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cce3cdcf84bbdd1924a3bc3b5bc4e2e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b4a09f8f69f98943a7481f128b304a56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:--каф.
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bd486448f7fdb56115d6f0f55060e230
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -1781,12 +3059,33 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:34bda046096f0ac9e52edcc8088c78f2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260216T073000Z
+LOCATION:--каф. 919
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ea78ce079da96a0e504ab084ac089dec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:799446fa6826b51fad4e75ca5f8f09a5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
 DTEND:20251106T131500Z
 LOCATION:ГУК Б-638
 DTSTART:20251106T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:5783c7d761c8f3608ff509eca2594643
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260526T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:fc29dda611cf601f10975088ca1606d6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250906T091500Z
@@ -1803,12 +3102,64 @@ SUMMARY:ЛР Разработка IT-проектов
 UID:8d52a53f74f44e3efb68e4d77f081620
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260327T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260327T074500Z
+SUMMARY:ЛК Общая физика
+UID:b512e3928e72b59fb90ee8eab53af029
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T131500Z
+LOCATION:ГУК Б-430
+DTSTART:20260403T114500Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:b046c01449bbf093788a4fbe0eb66f9d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20251225T073000Z
 LOCATION:Орш. В-603
 DTSTART:20251225T060000Z
 SUMMARY:ЛР Общая физика
 UID:6028d4f6f23c3f0fbab91ab707b33c62
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260410T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260410T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:7399cb8d4547a20c334d44f249971562
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260515T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260515T074500Z
+SUMMARY:ЛК Общая физика
+UID:8c33278cf744a8df740315e699f3ef90
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--каф.
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d2cb297dfe39edf075231a68d5d64887
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:--каф.
+DTSTART:20260318T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:eaf0baa30b269382d8c6dc2216c53f99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:--каф.
+DTSTART:20260415T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:87da6838fca99fd68505e5f785f4f1b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Осьмина Кира Сергеевна
@@ -1833,11 +3184,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:b7c15b30997882989a6a353e9d0eacc2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260330T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Математический анализ
+UID:740f59aaa8903b0d76ca4cfb1239b98e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260331T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8b79ff759bcada012c40d0f4032ec4cf
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T113000Z
 LOCATION:--каф.
 DTSTART:20251126T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:b4bb9cfca7aea15b36330574cdc8ecda
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:14967a084d08984f5901098aa1795a46
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф. 919
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:0d58dc386f7e9f20cb775533727c55c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -1853,6 +3233,20 @@ LOCATION:ГУК В-221
 DTSTART:20251018T074500Z
 SUMMARY:ЛК Функциональное и логическое программирование
 UID:be27b75f848e43f33701033e53ea12e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T113000Z
+LOCATION:Орш. В-605
+DTSTART:20260407T100000Z
+SUMMARY:ЛР Общая физика
+UID:11ea02198038ec7452f4fa5ddaccc833
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:--каф.
+DTSTART:20260304T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:45e75b1278a422852f0a1437032d6058
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T091500Z
@@ -1877,6 +3271,13 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:d2c4a0564ecf74b824c9e7bc710f49ae
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260502T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260502T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:78ac2294b0fb51b86dc4d78bcb1230e8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T164500Z
 LOCATION:--каф.
 DTSTART:20251010T151500Z
@@ -1891,11 +3292,47 @@ SUMMARY:ПЗ Военная подготовка
 UID:0f25b3ae91623bcfe902a402032ed5d5
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:ГУК Б-430
+DTSTART:20260403T100000Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:26482832be9c150947af8fbe3e8b2409
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260406T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7b8f3be1e486d2dfa827541a832e9f72
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260307T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:d1a35ef80ea438c16c36ee0fd748d0d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T164500Z
+LOCATION:ГУК Б-320
+DTSTART:20260312T151500Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:7856031e09bcd77878834826f9177eb3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251018T113000Z
 LOCATION:--каф.
 DTSTART:20251018T100000Z
 SUMMARY:ЛР Объектно-ориентированное программирование
 UID:5c32e2de4f95c49285a5afad6d0ca234
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260606T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:e4f8aaa1626986bf14805ec8534b1d8a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T113000Z
@@ -1912,11 +3349,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:c311e7cd149b97fe800d7baad2510ec3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:--каф.
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:febd41a7a7b8016e787ab7196b85f495
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:--каф.
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9bb9f019d442a016ed72dca064cd72d8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251128T164500Z
 LOCATION:--каф.
 DTSTART:20251128T151500Z
 SUMMARY:ЛР Разработка IT-проектов
 UID:c31602dc93a59c4c80dd431469020933
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260319T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:5f9f2f9dd2162a287f9a41ace8e69222
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260319T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:b16c09b7d2c76583eadb9188a5669eac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
@@ -1927,12 +3393,27 @@ SUMMARY:ПЗ Математический анализ
 UID:0c6a0a6230eab6edde5dd1ac23d6b7eb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260603T113000Z
+LOCATION:--каф.
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a2098e85d65f542d31cc879853456312
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20260125T073000Z
 LOCATION:ГУК А-711
 DTSTART:20260125T060000Z
 SUMMARY:Экзамен Математический анализ
 UID:6fbaa4c2d6806a5c178f9eef15f4f18b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260327T113000Z
+LOCATION:ГУК А-606
+DTSTART:20260327T100000Z
+SUMMARY:ЛР Методы оптимизации
+UID:f69525d34c6d5b5443deb8d07a09ef4f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T113000Z
@@ -1950,11 +3431,41 @@ SUMMARY:ЛК Основы психологии
 UID:41e6dfedc9d8a3a982dde4ac0ea94e1a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260302T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Математический анализ
+UID:3e8082fc32168c70b276c3b234cef11b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250927T073000Z
 LOCATION:ГУК В-221
 DTSTART:20250927T060000Z
 SUMMARY:ЛК Разработка IT-проектов
 UID:c71f12d17109b6fbc1eff039b810917d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260316T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f18116a934266015e948a016c658efc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф. 919
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:91db293f69099918960fbe9ab59174ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--каф.
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e636f101058bba3d2754776787194518
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T113000Z
@@ -1964,6 +3475,20 @@ SUMMARY:ЛК Операционные системы
 UID:d1b8c28919bd8e309b543a52c97c6b69
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:edb9876f68fafe6ec44377b885bd96c1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6aabb370005f4c3db7833388b318e6b8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251022T073000Z
 LOCATION:--каф.
 DTSTART:20251022T060000Z
@@ -1971,11 +3496,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:db6bd2f9ac4cd553c4034376ff22affb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260424T131500Z
+LOCATION:ГУК А-606
+DTSTART:20260424T114500Z
+SUMMARY:ЛР Методы оптимизации
+UID:08bd856bd598ec03480423b0211ce7ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260228T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:10c7035956ed10bef3729761933b714e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T113000Z
 LOCATION:ГУК В-214
 DTSTART:20250904T100000Z
 SUMMARY:ЛК Операционные системы
 UID:065ec5b9849c976fe46d8796f26274f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:ГУК Б-430
+DTSTART:20260306T114500Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:21c3ed9515e9b94451d55234d984c852
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250927T131500Z
@@ -1992,6 +3539,14 @@ SUMMARY:ЛК Программирование беспилотных систе�
 UID:47c7833c2d19c5d66369c7ecdd1f3067
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260209T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260209T074500Z
+SUMMARY:ЛК Математический анализ
+UID:d4899e67faf6871fedcccbd924eedf4b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250917T073000Z
 LOCATION:--каф.
 DTSTART:20250917T060000Z
@@ -2005,6 +3560,13 @@ LOCATION:ГУК А-710
 DTSTART:20251204T133000Z
 SUMMARY:ПЗ Математический анализ
 UID:dc7a54c98ad34a87d6c3b5ac31925fc6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260516T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:ca476bf8b871a4b75ca71cb9c4ff76ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Будкина Елена Михайловна
@@ -2053,6 +3615,20 @@ SUMMARY:ЛР Операционные системы
 UID:b5f56fadbf643d9afb61967ea9e1cd0b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260321T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260321T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:3acc9143efd957c43f6e15525f7a1c88
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:--каф.
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3ca38dc9301d183ea6b2a07c48e678f9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251017T164500Z
 LOCATION:--каф.
 DTSTART:20251017T151500Z
@@ -2074,6 +3650,13 @@ SUMMARY:ЛК Программирование беспилотных систе�
 UID:b6ff30b3a1ed249945e51261a93ed573
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:--каф.
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9cfa64dd722195123ed0547b3cbb4f8e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T150000Z
 LOCATION:--каф.
 DTSTART:20251107T133000Z
@@ -2089,6 +3672,34 @@ SUMMARY:ЛР Общая физика
 UID:da96e1fbc6eebf36b6cf972d8d36ab81
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260411T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:1b4f298921ac640597c46a1fadfad7b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:--каф.
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5958ae4ce7178924448c8eee9c9dc6e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260210T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:9774da3202d972dacfccd5038a241324
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:ГУК Б-430
+DTSTART:20260320T114500Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:cab67138c74c76ecdb3271902ac909da
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
 DTEND:20251030T150000Z
 LOCATION:ГУК А-710
@@ -2097,12 +3708,42 @@ SUMMARY:ПЗ Математический анализ
 UID:96df9e8c191073179e6e9552dea22265
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260420T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Математический анализ
+UID:37d323c66a7a8fb9f6ec3e54b2125671
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T164500Z
+LOCATION:ГУК Б-320
+DTSTART:20260326T151500Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:39dc07e8dbc790f8e32c566906b1137a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260414T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260414T100000Z
+SUMMARY:ПЗ Социология
+UID:cf219627910507fd2aec4c775b5ba295
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
 DTEND:20251014T131500Z
 LOCATION:ГУК Б-635
 DTSTART:20251014T114500Z
 SUMMARY:ПЗ Общая физика
 UID:5a9dee75dd5340dbed8314f6d354b935
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:--каф.
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:256a36ea7d14b78486833e8c2d276311
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -2121,12 +3762,35 @@ SUMMARY:ПЗ Основы психологии
 UID:2c55d5d872ce1cf5a86db7e5f7bb7f71
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260330T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:64d25d62eba33307872fb3ad46dab0bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Осьмина Кира Сергеевна
 DTEND:20251028T091500Z
 LOCATION:Орш. А-430
 DTSTART:20251028T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:73261e76ff834fba888c1741f5cc515d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260413T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:6979544e445ba3655ffe8608a3c371f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф. 919
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:295e954eda4d38f8297d6cb776b6648c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T131500Z
@@ -2141,6 +3805,13 @@ LOCATION:--каф.
 DTSTART:20251206T100000Z
 SUMMARY:ЛР Функциональное и логическое программирование
 UID:04638574aa4f32c5e762e38bb23416bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260414T060000Z
+SUMMARY:ПЗ Общая физика
+UID:7ba751392486ef26c5311c95e218bc46
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ошоров Аюр Дашеевич
@@ -2166,6 +3837,21 @@ SUMMARY:ПЗ Физическая культура
 UID:44ddb70094ff4e7ae316f2fc5a943df8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260310T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:0fd14ddc625252ac1b08bc105a5965d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260423T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:d9885a8b51bf89fe6ff279235ef68064
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мартюшова Янина Германовна
 DTEND:20250904T150000Z
 LOCATION:ГУК А-710
@@ -2182,6 +3868,37 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:c9bbe6867965a6a1257228013a272e9d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф. 919
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:b5350ae353858051371f3d972a87cd05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260227T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260227T074500Z
+SUMMARY:ЛК Общая физика
+UID:0e984de0cb1a5ab7c3cda4eb1b3bd41a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260306T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260306T074500Z
+SUMMARY:ЛК Общая физика
+UID:62a15e683c1aeee2e8f5155b5722c7e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260417T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260417T074500Z
+SUMMARY:ЛК Общая физика
+UID:bdd90c75d5775a9c065221957fdea8bc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T131500Z
 LOCATION:--каф.
 DTSTART:20251122T114500Z
@@ -2189,11 +3906,33 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:cd94960d062ca3c240033b1bd1a51f01
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260418T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260418T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:140f77a69a2b099a18ade21bf046b8f9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T113000Z
 LOCATION:ГУК В-214
 DTSTART:20251009T100000Z
 SUMMARY:ЛК Программирование беспилотных систем
 UID:a58e88659b9472365fcfe36cb8234da5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф. 919
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:a3c5d12cb74152df32ae78d1850f8cfa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260511T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:23704c417a5818f91b70fb071d38678a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -2212,6 +3951,21 @@ SUMMARY:ЛР Общая физика
 UID:5316e25f63a197d4fa364ecaaca50f08
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260425T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Дискретный анализ
+UID:627923eb5f0674a12127fd6d85ea7047
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260303T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260303T100000Z
+SUMMARY:ПЗ Социология
+UID:7172a82f4c29440944fde435d82ea5c5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20251202T150000Z
 LOCATION:ГУК В-214
@@ -2220,11 +3974,25 @@ SUMMARY:ЛК Математический анализ
 UID:1c60c1e93cd96ced45dd3a73843aba56
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:--каф.
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:60ab75c3ac520c8ea6a4afb51d92aa54
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T131500Z
 LOCATION:--каф.
 DTSTART:20250903T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:97aca707ee0e887f2ae0df44f961dc46
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260303T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:93d7738bc8a55d3b7003a3c320d14f10
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T073000Z
@@ -2247,6 +4015,27 @@ LOCATION:ГУК В-214
 DTSTART:20251117T100000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:3ce59c64220751cec36e08e17942bf9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:--каф.
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:07e3bd26b2a45ce376d1c92d3c63fed0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:--каф.
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:87c1b8cb95c67099f65f1b4e6867bc92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T131500Z
+LOCATION:ГУК Б-434
+DTSTART:20260221T114500Z
+SUMMARY:ЛР Дискретный анализ
+UID:257d1ae631d5105883c1a9b39e71dce9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родников Александр Владимирович
@@ -2286,11 +4075,32 @@ SUMMARY:ЛК Математический анализ
 UID:01f8a41d1bc80cd13f4476bf2cbcc102
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260221T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260221T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:80fcd68bc505d963b9b4a8f22c234e21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T091500Z
+LOCATION:Орш. В-103
+DTSTART:20260407T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:a13e12cdaf524690d14718cbdcf55bd6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T091500Z
 LOCATION:--каф.
 DTSTART:20251001T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:e0d0a96cd56e0a6a7022cecc9ba10a01
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260224T060000Z
+SUMMARY:ПЗ Общая физика
+UID:3510f11bfc67051e6ac73d5a15094d96
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T091500Z
@@ -2373,6 +4183,13 @@ SUMMARY:ЛК Операционные системы
 UID:c6c06d5f4b02a4b46f66cad3b1a9a38c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260404T091500Z
+LOCATION:ГУК В-214
+DTSTART:20260404T074500Z
+SUMMARY:ЛК Разработка IT-проектов
+UID:2d54fb359b2594936a4da243f41f6f8f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251018T131500Z
 LOCATION:--каф.
 DTSTART:20251018T114500Z
@@ -2394,11 +4211,64 @@ SUMMARY:ПЗ Физическая культура
 UID:51a6b31d394b4794ec917cda2cb00361
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260413T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:69b31aac6ec07dff0918f2586dd02b36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260313T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Общая физика
+UID:c32bb5485ec257b4b0b6d5c1d8cb5dbe
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251013T073000Z
 LOCATION:--каф. 919
 DTSTART:20251013T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:ed1380a64a9161888f42bd675377cab9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260323T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260323T100000Z
+SUMMARY:ЛК Социология
+UID:cb6de6bf5cc9ed0b23ed2e765ef7e705
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T150000Z
+LOCATION:ГУК Б-320
+DTSTART:20260326T133000Z
+SUMMARY:ЛР Разработка IT-проектов
+UID:f96cef6e45169c893cd2e36cbcd6d8ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260316T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:8aecd055e729be2a0abdc6a0b32d7100
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:--каф.
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2cc23ca4a54958238dc921a18d024c80
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:--каф.
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:585e4da62142aa821db80325b45fa375
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T091500Z
@@ -2408,11 +4278,40 @@ SUMMARY:ЛК Объектно-ориентированное программи�
 UID:3024f5fe141d8e23998b173efa7319ec
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:ГУК Б-430
+DTSTART:20260306T100000Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:191c712dfa61c08f82d589c658d24141
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260209T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Социология
+UID:ce6dbb90f29c05607f5d65162da60de6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4bae7122c8a8e21b386fb646cc429833
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251108T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251108T060000Z
 SUMMARY:ЛК Разработка IT-проектов
 UID:d023ffc22c83ab435e1d9d41aaf40d11
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260502T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:0e42bf31cf47dbc048a5a373c3fd10a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
@@ -2454,12 +4353,76 @@ SUMMARY:ЛР Функциональное и логическое програм
 UID:2bfee48b3a9440a7c2528a946afac049
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:--каф.
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0a1dd9b1197d0a3c64b5274a357c5a21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
 DTEND:20251111T131500Z
 LOCATION:ГУК Б-635
 DTSTART:20251111T114500Z
 SUMMARY:ПЗ Общая физика
 UID:34c3ffb58f58f30eafb9bb3f06cf838c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--каф.
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:acb3c75c78fc3c2cce65ad6b0caf79e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ошоров Аюр Дашеевич
+DTEND:20260213T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260213T074500Z
+SUMMARY:ЛК Общая физика
+UID:b95e6e87cf5dc2105a62a5a84db0ca6a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260514T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:51fd88eebf307704c68fb5a5f88fcfe6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T113000Z
+LOCATION:ГУК Б-430
+DTSTART:20260515T100000Z
+SUMMARY:ЛР Функциональное и логическое программирование
+UID:0f15dbc7ce1c8db7330b47802001ae77
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T131500Z
+LOCATION:Орш. В-605
+DTSTART:20260421T114500Z
+SUMMARY:ЛР Общая физика
+UID:01238c17c4ad70a0a40a665dfc62c156
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--каф.
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1b3b7e94907522cb947b6f3d87e5b1f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T131500Z
+LOCATION:--каф.
+DTSTART:20260603T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ead28d2f3465725503022ab50966bf17
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T150000Z
+LOCATION:ГУК А-708
+DTSTART:20260528T133000Z
+SUMMARY:ПЗ Теория вероятностей и математическая статистика
+UID:9cd470eadbaffbf890ba8663de61ad84
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251213T113000Z
@@ -2475,6 +4438,65 @@ LOCATION:ГУК Б-638
 DTSTART:20250911T114500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:b1a36c20273f87798c71690c692f19f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260226T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:dd864d32a1e1cc253109237e4ba114fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T073000Z
+LOCATION:--каф. 919
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:45eab6ec202cc79a2a1775dce04e7ed9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--каф.
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:436f4d5653c23dfed0afb690bbcc81d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260525T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:cd31c777baa4cbd338a49d093b8235af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260505T060000Z
+SUMMARY:ПЗ Общая физика
+UID:d658b725c6d34faa355d48944c16586b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260601T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260601T100000Z
+SUMMARY:ЛК Социология
+UID:7b058efb063035fc6318deaa6d81f26c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T113000Z
+LOCATION:ГУК Б-434
+DTSTART:20260221T100000Z
+SUMMARY:ЛР Дискретный анализ
+UID:1e3d5a7b55acebce2fb0c7bee28e36d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b36bbcf9f0e6464161c0430c53de8dee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -2508,6 +4530,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:578dd8cfe13b95d9a8f49c4f0932e15c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:--каф.
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf62fb5d1d988decbc9eb134ce5361ab
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251029T073000Z
 LOCATION:--каф.
 DTSTART:20251029T060000Z
@@ -2527,6 +4556,44 @@ LOCATION:--каф. 919
 DTSTART:20251201T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:2bebb582ec43e68f3c952b54be84e3fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:ГУК В-214
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Функциональное и логическое программирование
+UID:2bed53692958b70b4d7602b5ca141032
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260526T113000Z
+LOCATION:Орш. В-511
+DTSTART:20260526T100000Z
+SUMMARY:ПЗ Социология
+UID:19098429415b10726c162592a6746d0e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T073000Z
+LOCATION:Орш. В-306
+DTSTART:20260317T060000Z
+SUMMARY:ПЗ Общая физика
+UID:5e001a60a2a704931653d6ba92cea7b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Игнатов Алексей Николаевич
+DTEND:20260427T131500Z
+LOCATION:ГУК В-214
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Теория вероятностей и математическая статистика
+UID:5f3c75d54f83bebca41c7957fa552f10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Светлана Юрьевна
+DTEND:20260216T113000Z
+LOCATION:ГУК В-214
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Методы оптимизации
+UID:e18ec13ffba7c5c6ea766137ee56cce4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T164500Z

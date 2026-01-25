@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cca54bd0bb6006dc6737fa4ecbac0064
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20251017T131500Z
 LOCATION:5-401
@@ -16,6 +23,13 @@ LOCATION:Орш. А-101
 DTSTART:20251210T133000Z
 SUMMARY:ЛК Маркетинг
 UID:3c00592a3198aff54c4867da1e9fa7b4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:7d4794d3a83ff340cadb1fcc727da585
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -42,11 +56,25 @@ SUMMARY:ЛК Хозяйственное право
 UID:104f798d5b0e322010c401acdb92ad17
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--стадион
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:14b74a98c2bc29476bd16f6f0acb0428
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T113000Z
 LOCATION:--каф.
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:969f809390776ed676fd2c7297600dad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2782ce8cd15060d65527c74873a36a7b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -70,6 +98,13 @@ LOCATION:5-104
 DTSTART:20251212T100000Z
 SUMMARY:ПЗ Хозяйственное право
 UID:c7ec1a3affc9aefd643c6fe54bbe68d7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4fbc584a4b9628702cad3459dc962b5f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T091500Z
@@ -101,12 +136,28 @@ SUMMARY:ПЗ Иностранный язык
 UID:7d2835e696d86e288dfff552d39144d4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260220T091500Z
+LOCATION:5-410
+DTSTART:20260220T074500Z
+SUMMARY:ЛР Финансовый учет
+UID:e4a397a9676fc37aed0885bb2c4db39a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
 DTEND:20250909T131500Z
 LOCATION:5-404
 DTSTART:20250909T114500Z
 SUMMARY:ПЗ Социология
 UID:40c498631ee56e8ed2dfc134932bc61c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260316T113000Z
+LOCATION:5-319
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Организация производства
+UID:fc2ef4c7b0dda8f51236748bcf047863
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -124,6 +175,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:5ef6a19064caa5fe1b9ac185dd0290e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260302T113000Z
+LOCATION:5-319
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Организация производства
+UID:fb2caff4f0903c5992452b9609d88eda
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20251125T073000Z
 LOCATION:5-101
@@ -132,11 +191,27 @@ SUMMARY:ЛК Организационное поведение
 UID:423a64a47b4b6d48963a0d170fdb72f4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260302T091500Z
+LOCATION:5-319
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:e8c2be2853054bfc2c0207c359aada0f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T073000Z
 LOCATION:--каф. 919
 DTSTART:20251126T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:1b523295659404beb843902d5de8783c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260417T091500Z
+LOCATION:5-410
+DTSTART:20260417T074500Z
+SUMMARY:ЛР Финансовый учет
+UID:dea9b4e12db6df60fb64e6efc2ad30f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -147,11 +222,26 @@ SUMMARY:ЛК Маркетинг
 UID:7a6501fa49d4378ecabec1f0cc5898f4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260220T131500Z
+LOCATION:24-715
+DTSTART:20260220T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:aa0593a2c15ca381ef5f1580a5868b06
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T113000Z
 LOCATION:--каф.
 DTSTART:20251120T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:26db9c8f694ff92a0da2f38d456d3e90
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:68c37830c1cc9255b7e98a0228ae6afb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -160,6 +250,36 @@ LOCATION:5-401
 DTSTART:20250912T151500Z
 SUMMARY:ЛК Налоги и налогообложение в организации
 UID:2e9c6020b2f924426cba5a6f81438e54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T073000Z
+LOCATION:--каф. 919
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:fdce892366fe1f449fe65cc863ca235b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260428T131500Z
+LOCATION:5-111
+DTSTART:20260428T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:a83bc39e40e48a3fb52885c75a7a5e82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260505T113000Z
+LOCATION:5-111
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Теория статистики
+UID:6bc77454d3d43d5863bc98f1f2790d0d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф.
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a231014ed195691e21e2ab7d71e9ec18
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T113000Z
@@ -191,6 +311,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:43bb283eb25f527ca874e366d53e41ad
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bb7066ed937129bef1b203a9ffab8673
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250929T073000Z
 LOCATION:--каф. 919
 DTSTART:20250929T060000Z
@@ -213,11 +340,50 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:179d867c5f240674fccd1986c275c6da
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260406T091500Z
+LOCATION:5-319
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:840ba5bf3c4b31672224ebaac2c57185
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250926T150000Z
 LOCATION:ГУК В-221
 DTSTART:20250926T133000Z
 SUMMARY:ЛК Конструирование и технологии высокотехнологичной промышленности
 UID:4ebdca14f4aa16d3e4bdd15456e65fc6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260217T091500Z
+LOCATION:5-403
+DTSTART:20260217T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:507268708a01f90c89f88820edda36a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260323T091500Z
+LOCATION:5-319
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:549f7887477d5779f7e6c392f232b0ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260317T113000Z
+LOCATION:5-111
+DTSTART:20260317T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:ce5eea3e2d34faf67fc861b3b76ad459
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:ccc993cbb369fee1894ee0c4bd64b38b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иванов Сергей Валерьевич
@@ -226,6 +392,13 @@ LOCATION:5-404
 DTSTART:20260112T060000Z
 SUMMARY:Экзамен Теория вероятностей и математическая статистика
 UID:1069b92a552dc07852cf2cecf8afc385
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:680abf32c5127f5b54980a525ab43fbd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T113000Z
@@ -240,6 +413,21 @@ LOCATION:--каф.
 DTSTART:20250918T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:d55976540b44e067d0c806728fc660f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260504T131500Z
+LOCATION:5-107А
+DTSTART:20260504T114500Z
+SUMMARY:ПЗ Организация производства
+UID:8fe63ac34c501c52f69c9ad3dbe4af62
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф.
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b3fb5e4c707fda791653ee64316466cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -327,6 +515,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:933aca10545b8046ff416d6ea35e60e4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260218T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e5512f522c0bd90eb56c86231159f0ed
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
 DTEND:20251210T131500Z
 LOCATION:Орш. А-408
@@ -340,6 +535,13 @@ LOCATION:Орш. В-307
 DTSTART:20250917T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:942d4c0320f5cb8a9e7df6dc4105f7c8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T091500Z
+LOCATION:--каф.
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4718229093e1c639b2d94fa8b3780133
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -371,6 +573,22 @@ LOCATION:5-404
 DTSTART:20250920T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:62f7bcf89b25f376fbb8882a61ebba3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260410T073000Z
+LOCATION:24-316Б
+DTSTART:20260410T060000Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:ea629e8ac9a583d901803e1a3771a5d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260330T131500Z
+LOCATION:5-422
+DTSTART:20260330T114500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:bef2a6f66b81df0e4c947048ba4a7ea1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T073000Z
@@ -419,6 +637,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:8c0a6f409043351585c9db714db4c993
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260415T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:ec8374f466273cb46f919dc5cecc63ac
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251020T073000Z
 LOCATION:--каф. 919
 DTSTART:20251020T060000Z
@@ -431,6 +656,13 @@ LOCATION:--каф.
 DTSTART:20251106T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:f29e7d84a5fbf51fe3b6fecfae23c467
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e8332c620936f83fdb6a8a77de6becc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -448,6 +680,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:3a13105e34ab9ba7505a05715207bd96
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260508T073000Z
+LOCATION:5-420
+DTSTART:20260508T060000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:e0b4dd163e3e0dfc7f760b16aec1588f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T113000Z
 LOCATION:--каф.
 DTSTART:20251002T100000Z
@@ -460,6 +700,14 @@ LOCATION:Орш. В-307
 DTSTART:20250924T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:ab312db916d0b5e515605b295a20c62e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260303T113000Z
+LOCATION:5-111
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:4c56cb6655090245d0a9f1b4d50a3b37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -478,11 +726,56 @@ SUMMARY:ПЗ Маркетинг
 UID:b0715a4a75fb0c44a557c9782a7a0fd1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260602T091500Z
+LOCATION:5-406
+DTSTART:20260602T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:f71b015daad37676bbb6201265335aee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:--каф.
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cd7622da9fee657e7528856d8b7af3b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260310T073000Z
+LOCATION:5-107А
+DTSTART:20260310T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:bf2f415c7399338e7e13990a16154293
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260520T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8ca38a4ba517cebe30138dc9332e1451
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:--каф.
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:459ac68ff5f6e6f60f67ed34a94bb3b3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T091500Z
 LOCATION:--каф.
 DTSTART:20251127T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:f6e353e603b10027f27b9bda2fac1e66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260317T131500Z
+LOCATION:5-111
+DTSTART:20260317T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:980846eddd3198c358a5ddea972e8e4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
@@ -499,6 +792,14 @@ LOCATION:5-303
 DTSTART:20251117T133000Z
 SUMMARY:ЛК Финансы
 UID:3daa990b40ad30a44d2cb91caad906ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260320T091500Z
+LOCATION:5-410
+DTSTART:20260320T074500Z
+SUMMARY:ЛР Финансовый учет
+UID:77165f807a39588bbc1c193abf92218a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T113000Z
@@ -524,6 +825,37 @@ SUMMARY:ЛК Маркетинг
 UID:8828d3b32c9ba18ceb2f72daec8f8750
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260421T131500Z
+LOCATION:5-111
+DTSTART:20260421T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:03cf3b040c27445250d1c02ece93e828
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260224T131500Z
+LOCATION:5-111
+DTSTART:20260224T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:3e2c8dc7733cbd5188e32c5272709539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260522T073000Z
+LOCATION:5-420
+DTSTART:20260522T060000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:e0b1240ed453a8c18eb1025397a7a3f5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e2d49356140961ef684822edd5062a71
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T073000Z
 LOCATION:--каф.
 DTSTART:20251002T060000Z
@@ -539,11 +871,40 @@ SUMMARY:ЛК Маркетинг
 UID:50c9c1f25d4010019ca9a818a6198b33
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3211e64983ff51e1b09d6569a4196924
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф.
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:39c7883887c4bb30557bb26eaf10e45d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251103T073000Z
 LOCATION:--каф. 919
 DTSTART:20251103T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:46c6b874e525d4b6e13693fc7895feb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260429T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:ea7a4034f4ce37f4f064b5eeb2b70520
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф.
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9bfe255d8960521edb6e95fb731d2d4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -554,11 +915,27 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:dc264d1ad4349fb7868583b2cbb3e0b8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260227T073000Z
+LOCATION:24-316Б
+DTSTART:20260227T060000Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:1ea3cda2037e487ad43b78a41c777d9b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250913T113000Z
 LOCATION:5-404
 DTSTART:20250913T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:03cf0dcda341fcffb9b7321ce3c35706
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260515T073000Z
+LOCATION:5-410
+DTSTART:20260515T060000Z
+SUMMARY:ПЗ Финансовый учет
+UID:3a52af65571f05f40e92e909fc75302b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T113000Z
@@ -583,11 +960,33 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:e95a72718ceac8adea4aaf80ede4e129
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260526T091500Z
+LOCATION:5-403
+DTSTART:20260526T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:cbe65a2a71dfa78a71f6f7da0864f7c5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T150000Z
 LOCATION:ГУК В-221
 DTSTART:20251024T133000Z
 SUMMARY:ЛК Конструирование и технологии высокотехнологичной промышленности
 UID:b2d2e099a26fb09adcb12cef74029bff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:23400b10337d94707f86de11afbe0ecd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:--каф.
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:aa9b29803144f19deab7013d2e57d389
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -606,6 +1005,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:453ad0251c07760b93274dda4b425e8c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260515T131500Z
+LOCATION:24-715
+DTSTART:20260515T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:420be7265050a35d7f3ad87ca8860630
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251101T073000Z
 LOCATION:5-425
@@ -620,6 +1027,21 @@ LOCATION:Орш. А-408
 DTSTART:20251029T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:202222505d50b70681319052aa70eb82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260605T073000Z
+LOCATION:5-420
+DTSTART:20260605T060000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:1bcd313d04dc14f8cde0f5a674dc8fe8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b632713c0bf89f2fe7604f69097e4853
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T150000Z
@@ -644,6 +1066,22 @@ SUMMARY:ПЗ Физическая культура
 UID:6b0bc8dbc610481df16866e473188ee3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260310T091500Z
+LOCATION:5-406
+DTSTART:20260310T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:fef876f672b0b90f30cdeaa2eb6d6484
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260513T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:424f43f4720f84b36e49b6745d1826ed
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251202T113000Z
 LOCATION:5-423
@@ -658,6 +1096,13 @@ LOCATION:5-303
 DTSTART:20250908T133000Z
 SUMMARY:ЛК Финансы
 UID:88a9e0727ff2d20ee1807e8c0a0522a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф.
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8825abb95677f2b385c560d6a69c5522
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -683,11 +1128,47 @@ SUMMARY:ПЗ Военная подготовка
 UID:59cfe8a3baeeb763f74a67a391a914a2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260225T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5ed2456b2fbfd644754a152a844ab950
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T073000Z
 LOCATION:--каф. 919
 DTSTART:20250922T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:d0ace8cc3a38e587e0a1b25d8ef6bf3a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:29505eae0645c54b941b144bcb6d4f79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260417T113000Z
+LOCATION:5-111
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:7262f59783e34dc1a5b07a9c4d14f142
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:77a4c4ecf8951fb679d42b706849e9ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6e26d509ac43dd6a2ea34bb9a9c3a314
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T113000Z
@@ -705,12 +1186,34 @@ SUMMARY:ЛК Маркетинг
 UID:2cf92d4d558e901d15eabd928ab99548
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260331T113000Z
+LOCATION:5-111
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:a23fd81986df9f7d4bf24d4720a6aafe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:721d867d12a365714aa4b914692c13b4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251226T164500Z
 LOCATION:5-122
 DTSTART:20251226T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:f5466b0c6da12129bfbaf22400189ee2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:--каф.
+DTSTART:20260604T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4a1baa215b36ab650787528997309e42
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T073000Z
@@ -735,6 +1238,22 @@ SUMMARY:ПЗ Иностранный язык
 UID:962b4cb03037901e455c262a0a914d07
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260410T113000Z
+LOCATION:5-111
+DTSTART:20260410T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:f170a49d577334b8acc8afd37d0ae462
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260327T091500Z
+LOCATION:24-316Б
+DTSTART:20260327T074500Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:4737d41ec04ad1737d833582a1a0fa0a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20251028T091500Z
 LOCATION:5-101
@@ -751,12 +1270,34 @@ SUMMARY:Экзамен Маркетинг
 UID:6c5984b967830d82557ca8b879a4b4d3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260603T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:947d3b8cf776eda38d3e588c8f9cb274
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251121T113000Z
 LOCATION:5-301В
 DTSTART:20251121T100000Z
 SUMMARY:ЛР Финансы
 UID:66b903d91c379a87ea361158531f2bff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e3affb82c54164a1316823ead55addd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260427T113000Z
+LOCATION:5-319
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Организация производства
+UID:dbe93afefe281a980d7880fa96a2b020
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -775,12 +1316,42 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:9266ba5e907ea8ba0ab69b3643d2a090
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260414T073000Z
+LOCATION:5-107А
+DTSTART:20260414T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:68b9550cad5ed375d579ebdaa80cb1dd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20250902T073000Z
 LOCATION:5-101
 DTSTART:20250902T060000Z
 SUMMARY:ЛК Организационное поведение
 UID:f1f671cf8227d341af5b7d277e902bd5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:34ee32c5befb78ee652ebe20d09712b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:54f1b8ec3b3ff86fa6e16a4fde9034a5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260218T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:6ac7a360849977095203c747b947a662
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -799,12 +1370,43 @@ SUMMARY:ЛК Социология
 UID:065f53608235e832912e163b49021bc6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b3cf710b5c85d267efcb20e225b52fb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260310T113000Z
+LOCATION:5-111
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Теория статистики
+UID:f48d98466aaa45e21776e942256b18c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251222T131500Z
 LOCATION:ГАК-307
 DTSTART:20251222T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:768ea3d3f0e36cf62c1b4e16e69f1a66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260320T131500Z
+LOCATION:24-715
+DTSTART:20260320T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:1b59f4e6ca106f5450e1a4f3f0efaf7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260601T113000Z
+LOCATION:5-319
+DTSTART:20260601T100000Z
+SUMMARY:ПЗ Организация производства
+UID:0c944c4d9491670a6f171d25e078f7ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
@@ -815,12 +1417,26 @@ SUMMARY:ПЗ Иностранный язык
 UID:ccb38a36427771b6604f7eda1ff87658
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--стадион
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:3c2bbccc0bf3e0b1cf872130c0570335
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251128T164500Z
 LOCATION:5-122
 DTSTART:20251128T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:f9c0d35a366e4baffad72f09edbf31a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф.
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4858e3b3dcd96fbfa0417dc998814bd4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T164500Z
@@ -838,12 +1454,43 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:03145a40dfee6645c9e9ff22503e3eee
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8fb697588bfd63a3cfe67f749408cf56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260406T131500Z
+LOCATION:5-107А
+DTSTART:20260406T114500Z
+SUMMARY:ПЗ Организация производства
+UID:7d750fa12a16de8b865a99aa2e69b819
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251126T150000Z
 LOCATION:Орш. А-101
 DTSTART:20251126T133000Z
 SUMMARY:ЛК Маркетинг
 UID:fdad89afffd61c92af53c26835669ba7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260306T073000Z
+LOCATION:5-410
+DTSTART:20260306T060000Z
+SUMMARY:ЛР Финансовый учет
+UID:34b7f1b20f25bf4259328f7c39d13746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260421T073000Z
+LOCATION:5-107А
+DTSTART:20260421T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:b77c61928b1d8c8babe2f17ae8108568
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -878,11 +1525,34 @@ SUMMARY:ЛК Социология
 UID:4fe39c59b3f4221434c7f82b4ee07266
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260403T091500Z
+LOCATION:5-410
+DTSTART:20260403T074500Z
+SUMMARY:ЛР Финансовый учет
+UID:36c344209dca092f6e8435cf41ad9333
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c7d53d9f096c3677839e22b34b4f4853
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250917T150000Z
 LOCATION:Орш. В-307
 DTSTART:20250917T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:84e98bc1454719ee8eaf24bf6f49172c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260210T113000Z
+LOCATION:5-111
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Теория статистики
+UID:d8c616d28168beed40f2cc953c46d9a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -891,6 +1561,30 @@ LOCATION:5-322
 DTSTART:20251007T060000Z
 SUMMARY:ПЗ Основы логистики
 UID:cc8c120dfac54f51ccd9e9f0f543be3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260527T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:b173bf2aadec4216fac868e6aeebbc7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260217T073000Z
+LOCATION:5-107А
+DTSTART:20260217T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:1a304c501f29aa1c60667fcdd23bc655
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260331T091500Z
+LOCATION:5-403
+DTSTART:20260331T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:6ba393844d3a45fafd4f86e8e6fb4eed
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T113000Z
@@ -908,11 +1602,49 @@ SUMMARY:ЛК Маркетинг
 UID:c1c7370707437695a031ae84a9c6b287
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:--каф.
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8b8118f57d9be3e3a858a06200eb6db9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260323T113000Z
+LOCATION:5-319
+DTSTART:20260323T100000Z
+SUMMARY:ЛК Организация производства
+UID:5728fb4051c1a5a3857cb3cacba37fd3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250917T113000Z
 LOCATION:--каф. 919
 DTSTART:20250917T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:444dfa4fd319480cfa467cd58f6cf2aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:d0fdf84b8687f28deee94a49543d5a44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260407T131500Z
+LOCATION:5-111
+DTSTART:20260407T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:29d9cd189ddcd3ba1adca8e659f7cce1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260410T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260410T114500Z
+SUMMARY:ЛК Основы психологии
+UID:5598ace8f025d7abdd491f5a201642bc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T131500Z
@@ -961,6 +1693,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:7bbc602515ff0b84644706a005c8841e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260313T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260313T114500Z
+SUMMARY:ЛК Основы психологии
+UID:a5cabb81e9184cf20c0fada8c5c5e85f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251014T113000Z
 LOCATION:5-423
@@ -985,6 +1725,13 @@ SUMMARY:ЛК Маркетинг
 UID:b6cdf17207b93bfb5fcba27d4bd73fd2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8f0263f6cab46756cdca3c67574f5efc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
 DTEND:20251111T131500Z
 LOCATION:5-107А
@@ -1001,6 +1748,21 @@ SUMMARY:ПЗ Хозяйственное право
 UID:056d38280a7028fc0195df1363ce84ba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260324T073000Z
+LOCATION:5-107А
+DTSTART:20260324T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:f2cd72b353579518ffda93608cf298bd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф.
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:afe4780210bd005db3b049eafdb24a3c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251222T113000Z
 LOCATION:ГАК-307
@@ -1015,6 +1777,14 @@ LOCATION:5-404
 DTSTART:20251206T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:8eff6aebc8077b452e8109e19986ef45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260428T091500Z
+LOCATION:5-403
+DTSTART:20260428T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:ef5f0e8d7d7f3ceb3c01b778fd4453eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1040,6 +1810,14 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:34b0bec293f17cc5e8f23654bcb7e83c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260522T113000Z
+LOCATION:5-111
+DTSTART:20260522T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:85b6f5f8afa1652c3f6a91e6c77342f2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T073000Z
 LOCATION:--каф.
 DTSTART:20251023T060000Z
@@ -1053,6 +1831,21 @@ LOCATION:Орш. А-408
 DTSTART:20251105T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:07edb5a96474f2d0ba71477a1ec10528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260401T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:3765d13e17780eb3bf561d72c454139c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:--каф.
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:acf44795f1bf2eca7cd78d456d3a0eee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
@@ -1070,6 +1863,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:4a1116fbc6acdf6bd4ee26197e84f0a2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260519T113000Z
+LOCATION:5-111
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Теория статистики
+UID:3b1e2608c661843de508c8bd8fe9ec70
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T150000Z
 LOCATION:1-10  1 этаж
 DTSTART:20251003T133000Z
@@ -1083,6 +1884,14 @@ LOCATION:5-425
 DTSTART:20251018T060000Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:6114d9b681401a1b86ef40c4d7e6aa5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260414T131500Z
+LOCATION:5-111
+DTSTART:20260414T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:d13d3383023fc76e0fbcd7cc8b42d6b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -1107,12 +1916,75 @@ SUMMARY:ПЗ Физическая культура
 UID:fb02c692911ee0f5725aa07b2fba66a6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260415T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260415T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e3c093c26ab5e2cb7374a4ffc0abf742
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260413T131500Z
+LOCATION:5-422
+DTSTART:20260413T114500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:e408d64c8d0d95eab856de0c5dd1a645
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260413T091500Z
+LOCATION:5-319
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:d6732ec13c4f9b124fccbcdd931b5413
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260302T131500Z
+LOCATION:5-422
+DTSTART:20260302T114500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:3ea0d842a9f1f3c424770413f727c8bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260316T091500Z
+LOCATION:5-319
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:b3619f4be3b029e8ddbed49b8523e149
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260331T131500Z
+LOCATION:5-111
+DTSTART:20260331T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:55262edc9e1ee7ab337cb220c3b56ef3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
 DTEND:20250916T131500Z
 LOCATION:5-107А
 DTSTART:20250916T114500Z
 SUMMARY:ПЗ Налоги и налогообложение в организации
 UID:f0518d274e22b23659b0b0f48f4f86c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260421T113000Z
+LOCATION:5-111
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Теория статистики
+UID:9ae5673513451395e5671f06c9491229
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260504T091500Z
+LOCATION:5-319
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:4582aac1e349d675c77c65945f51650e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T073000Z
@@ -1128,6 +2000,28 @@ LOCATION:5-111
 DTSTART:20250903T074500Z
 SUMMARY:ЛК Маркетинг
 UID:51676e741fcfc4ef2f99aaaa8e04ee32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--стадион
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:a54d9f533580a5e7a85a8fe884fe50c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260415T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:245050c7b812661596679cbfb19d2841
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:695ee965cba71596006489c92831be56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -1159,12 +2053,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:8681f87395422984d6b4ca6256602656
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3fec51f1f12448ddd8255725f7fa3306
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251110T131500Z
 LOCATION:ГАК-307
 DTSTART:20251110T114500Z
 SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
 UID:f1164fcfb99ecaa2ec81d939be80b135
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф.
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:eebb7d41d88b8688e2d3e1ae0f8f9763
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -1180,6 +2088,27 @@ LOCATION:--каф. 919
 DTSTART:20251022T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:744f7105630a929070d06ae1a3ebc7f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--стадион
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5577496ff68c7922f9d08345e02dca92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T131500Z
+LOCATION:--стадион
+DTSTART:20260603T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:51e7b0761af2c6d055ab430217d02a72
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260429T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a8df16ec7cdf157fba1856505a818cbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -1206,12 +2135,43 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:9ebbe6617f7633fdef6bdc16ea520dbe
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260216T113000Z
+LOCATION:5-319
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Организация производства
+UID:2c0cf87fcad41b8ec16b80870e45694f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260304T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5d5e0616b590c5154c8cc416a6284052
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20251118T073000Z
 LOCATION:5-322
 DTSTART:20251118T060000Z
 SUMMARY:ПЗ Основы логистики
 UID:929a93c057570f63d8ea97b5dda935bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260529T131500Z
+LOCATION:24-715
+DTSTART:20260529T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:afc9595a8cd9bd6c324920ef51791df8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260508T091500Z
+LOCATION:5-420
+DTSTART:20260508T074500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:95949d79cf2997cbaab22df00e255244
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T113000Z
@@ -1228,12 +2188,35 @@ SUMMARY:ПЗ Военная подготовка
 UID:3235e3864c4e09744da09073e0c76b4b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260504T113000Z
+LOCATION:5-319
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Организация производства
+UID:2c9d321a4c29ef86adef1f01eef3937a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260211T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:89a94c0bf449c283cfb2fc5e956bc396
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
 DTEND:20251010T091500Z
 LOCATION:5-404
 DTSTART:20251010T074500Z
 SUMMARY:ЛК Налоги и налогообложение в организации
 UID:814397c28d0a1eb5036bf810afee3772
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260217T113000Z
+LOCATION:5-111
+DTSTART:20260217T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:496c658a05a72bec0c1666827238563b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1283,6 +2266,13 @@ SUMMARY:ПЗ Маркетинг
 UID:e1b6d40e9b0f36178d17892f08209751
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:df69ceb120a0bc6e653cd7cd6d3d95b8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T113000Z
 LOCATION:--каф.
 DTSTART:20251218T100000Z
@@ -1305,11 +2295,49 @@ SUMMARY:ПЗ Иностранный язык
 UID:37f9502b60e1eeed8b993c90a0cd78fb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260519T091500Z
+LOCATION:5-406
+DTSTART:20260519T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:c3741d9134f2ad2de5c72a88c26cbab6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260527T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8ac7bbc0d6ce8c86fa65d1942c3bfba7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T113000Z
 LOCATION:--каф.
 DTSTART:20251023T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:80b66d9f5fd3e3068399beace070f21c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260601T131500Z
+LOCATION:5-107А
+DTSTART:20260601T114500Z
+SUMMARY:ПЗ Организация производства
+UID:b164288e580e41dd645ec17b52fe670d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260413T113000Z
+LOCATION:5-319
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Организация производства
+UID:2ebbf52036755b210b571d152fd501bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:0cef8677708b9e3ad650c2725e9acd52
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T131500Z
@@ -1341,6 +2369,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:dc396742f10e8fa75737d8e5d33008d1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260407T073000Z
+LOCATION:5-107А
+DTSTART:20260407T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:e2ccafc7a57a418548a679012db1eb74
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20250919T131500Z
 LOCATION:5-401
@@ -1357,6 +2393,13 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:2dcc16de59ae567578c17d08217ae595
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260211T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260211T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ba1316843eeab66993fb8ae2376b5770
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
 DTEND:20250923T131500Z
 LOCATION:5-404
@@ -1365,12 +2408,44 @@ SUMMARY:ПЗ Социология
 UID:2313d6a0e44351e36d5a6dbe20abd696
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260327T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260327T114500Z
+SUMMARY:ЛК Основы психологии
+UID:9dd31613bad9679ca6f7d3d9a5e99734
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20251118T091500Z
 LOCATION:5-423
 DTSTART:20251118T074500Z
 SUMMARY:ПЗ Организационное поведение
 UID:9fe8dd0d9ca0ef3fe7cf697f0d668613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260407T091500Z
+LOCATION:5-406
+DTSTART:20260407T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:cc3915eb54982a04284a8545e116de7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260417T073000Z
+LOCATION:5-410
+DTSTART:20260417T060000Z
+SUMMARY:ЛР Финансовый учет
+UID:267570135aa18063466cecd5a12b959b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260512T073000Z
+LOCATION:5-107А
+DTSTART:20260512T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:842de123102a5d59fd35a4107ce7fa28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
@@ -1393,6 +2468,14 @@ LOCATION:5-404
 DTSTART:20251004T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:99d506fad6eb0ab2d3ae281e7f71ef8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260406T113000Z
+LOCATION:5-319
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Организация производства
+UID:4352a02d7c8cb44f96754498d9e735ef
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T131500Z
@@ -1444,6 +2527,21 @@ SUMMARY:ПЗ Физическая культура
 UID:a8d037de0227d38e6e6f9ec92ed2de6f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф.
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3745048aaa3daa7d94840bc8426110f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260209T113000Z
+LOCATION:5-319
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Организация производства
+UID:f0af96097717c39aab869dd7aad0dea3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T150000Z
 LOCATION:ГУК В-221
 DTSTART:20251205T133000Z
@@ -1459,6 +2557,14 @@ SUMMARY:ПЗ Основы логистики
 UID:1ac1f0c31e8631957a66755d34c37132
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260522T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260522T114500Z
+SUMMARY:ЛК Основы психологии
+UID:ae1a7ff7cfae62a7dca9fab3ad4ebe36
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20251114T131500Z
 LOCATION:5-401
@@ -1467,12 +2573,72 @@ SUMMARY:ЛК Хозяйственное право
 UID:701a8524732e2b171a55a78374a5a3c1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260513T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260513T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ca44e9948c446593a1b0ba7727a08090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260414T113000Z
+LOCATION:5-111
+DTSTART:20260414T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:b2798a1083b4be20b8a1b333532ffdde
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:--каф.
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c6aa6988c2a357a6797b1e989453e561
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20250916T091500Z
 LOCATION:5-101
 DTSTART:20250916T074500Z
 SUMMARY:ЛК Основы логистики
 UID:afb210bdb3b786922dad895bdae1b72b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260527T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:29d86649ddba772d548444ab5a1283aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260306T131500Z
+LOCATION:24-715
+DTSTART:20260306T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:edc605c8bbbe50274c91586414e3c5ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260303T091500Z
+LOCATION:5-403
+DTSTART:20260303T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:42a63dab99d557ad7dd0152e4415360e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф.
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:46c273e348fd0b91fef3f1171e34fa53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260403T113000Z
+LOCATION:5-111
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:0536297d3a16bc04fdf822af6e7da17a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -1499,6 +2665,14 @@ SUMMARY:ЛК Налоги и налогообложение в организа�
 UID:5848a89e57293e71fda83602762b95a5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260213T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260213T114500Z
+SUMMARY:ЛК Основы психологии
+UID:9e0563ddce1bb72eba00c2f9f70300fe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251027T150000Z
 LOCATION:5-303
@@ -1523,6 +2697,13 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:41f75e28aa17928587ed016c1e80c09c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:93536c3ca179581a8c3a9705fad70851
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T164500Z
 LOCATION:1-10  1 этаж
 DTSTART:20251003T151500Z
@@ -1545,11 +2726,61 @@ SUMMARY:ЛК Организационное поведение
 UID:6231e84fc54aca4183993b864c92efa0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260227T113000Z
+LOCATION:5-111
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:ee1d54bba0d06f522d0a8d4a39adc30d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250918T073000Z
 LOCATION:--каф.
 DTSTART:20250918T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:ebca91fc44734faea30511c755580e25
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260318T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:4835beebc3b7bfb1954aa3cbb45c3daa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф.
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e143e362d8cb67cec73f79251dce3ed1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b190ed90d772525e643df53c57b2854d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:038d2ef943c66224193f1c7daaab1c79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a5749ef10fdf67c0ef41bf677e107234
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260318T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:7711e35da1464101fa0084719c0ff578
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -1560,6 +2791,14 @@ SUMMARY:ПЗ Социология
 UID:e9928cc3a5955d8f1d11969242ee7446
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260420T091500Z
+LOCATION:5-319
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:7c35c7c8deb6c8533ec8beeef54af304
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250903T113000Z
 LOCATION:--каф. 919
 DTSTART:20250903T100000Z
@@ -1567,11 +2806,43 @@ SUMMARY:ПЗ Физическая культура
 UID:32f4206f43b1f7820f2b30924179459d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260424T073000Z
+LOCATION:5-420
+DTSTART:20260424T060000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:dadebc2d064ee7e9fbfed50c37d9aaba
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T091500Z
 LOCATION:--каф.
 DTSTART:20251023T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ec416cb94459b8a41611f892953cde4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260317T073000Z
+LOCATION:5-107А
+DTSTART:20260317T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:4842751bbe9e917de5944c4ea0168ae2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260316T131500Z
+LOCATION:5-422
+DTSTART:20260316T114500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:a26e39859ace2c658608b6799d490e24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260324T131500Z
+LOCATION:5-111
+DTSTART:20260324T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:692019a215ce398bee2cefe1b73265c4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T113000Z
@@ -1587,6 +2858,13 @@ LOCATION:5-425
 DTSTART:20251129T074500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:ff6e60b55a9c8ddb25bab315bdabc9a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:--каф.
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:14a920bcf2fef59e9d32954ece07dea8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1605,12 +2883,51 @@ SUMMARY:ПЗ Маркетинг
 UID:ff53d7b68f3d38d5c48f635d87f096cb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260310T131500Z
+LOCATION:5-111
+DTSTART:20260310T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:116a5f715af9966cb890071656eca07d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4d27b11541e785de4e5e38ec47aa2c15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260424T113000Z
+LOCATION:5-111
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:da3a489da660655e4347d5eed8c801c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260220T113000Z
+LOCATION:5-111
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:8e47ac2fb0cb6851116aa95574d4d83a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251020T150000Z
 LOCATION:5-303
 DTSTART:20251020T133000Z
 SUMMARY:ЛК Финансы
 UID:f42d2c2392f2dba269abb124bc5d9f4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260601T091500Z
+LOCATION:5-319
+DTSTART:20260601T074500Z
+SUMMARY:ПЗ Организация производства
+UID:9b04477ce7bd049154eca1b08d70a8ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -1636,6 +2953,13 @@ SUMMARY:ПЗ Социология
 UID:67def337adb0376be87d99964bf45b96
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф.
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bf6a9c28d434aab7de70b955607b9b8e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20250909T113000Z
 LOCATION:5-423
@@ -1652,6 +2976,13 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:fe0cac766bcf09a15c4703e3e3b6c18e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:49f4e63ef394dca4d47f7de7869fdf9a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251226T150000Z
 LOCATION:5-122
@@ -1665,6 +2996,21 @@ LOCATION:--каф.
 DTSTART:20250925T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:22247eca7a98cb224c1f0a882cc04c23
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f4e576ec9532c199e8d7a20408010fef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260318T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:be944262ca15becdef9db1c059ff2f86
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -1721,12 +3067,27 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:30eca253748cfed7d4f0a1e26af3de08
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d7af05273bb06c0f163d6e0316cbce82
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20250916T073000Z
 LOCATION:5-101
 DTSTART:20250916T060000Z
 SUMMARY:ЛК Организационное поведение
 UID:cc2a91ebbe28006e899417413b08f2d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260320T073000Z
+LOCATION:5-410
+DTSTART:20260320T060000Z
+SUMMARY:ЛР Финансовый учет
+UID:caafa7bb0778de2268766de85f719c16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1737,12 +3098,28 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:7fed64a803cb6eebacac8cc81807819d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260420T131500Z
+LOCATION:5-107А
+DTSTART:20260420T114500Z
+SUMMARY:ПЗ Организация производства
+UID:03a261e1e3a040753b8815e7658dd7f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251215T113000Z
 LOCATION:ГАК-307
 DTSTART:20251215T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:838272a69369cd264e45afece8fb20a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260605T113000Z
+LOCATION:5-111
+DTSTART:20260605T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:9a9f0862bd2402aa45e3dacaded94928
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иванов Сергей Валерьевич
@@ -1769,12 +3146,27 @@ SUMMARY:ПЗ Иностранный язык
 UID:3b1f6aee86e044764d9af6882901663d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:--стадион
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:958ab330e7b03b47102ca1c271c699c6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
 DTEND:20260116T113000Z
 LOCATION:5-235
 DTSTART:20260116T100000Z
 SUMMARY:Экзамен Налоги и налогообложение в организации
 UID:5ba525156183cc6a80b9af31a565acbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260317T091500Z
+LOCATION:5-403
+DTSTART:20260317T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:88da55316c2367302b5528a2b9e0d099
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -1785,12 +3177,33 @@ SUMMARY:ПЗ Налоги и налогообложение в организа�
 UID:bfb7c2ee4eaac78d0fd1bf1dfc9167a3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b1fd02c5b0f1078e061767e58f89dc8b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251021T113000Z
 LOCATION:5-423
 DTSTART:20251021T100000Z
 SUMMARY:ПЗ Маркетинг
 UID:ebeb779c17f032173fa30af9b278ffdd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:--стадион
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b1cdbd04768ccafad06132f0c1264355
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260401T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a3ecb1c9b9e422dc1a7b9663af1e8581
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T073000Z
@@ -1831,11 +3244,26 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:3848d8d7aefc8da83a8fa9a4bed02c87
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--стадион
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ff0bea935023c065a6f2325badaf6c91
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T091500Z
 LOCATION:--каф.
 DTSTART:20251016T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:309fd1e781ec61589dded041f4ad2e17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260213T113000Z
+LOCATION:5-111
+DTSTART:20260213T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:84a1e000dc69eff9c8ba0cc59f81c1cc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T131500Z
@@ -1852,12 +3280,79 @@ SUMMARY:ПЗ Военная подготовка
 UID:283ffc3bc49cdfc1ddd80b631216b402
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T091500Z
+LOCATION:--каф.
+DTSTART:20260604T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9f1bbb030297389f8f295fcfb7b73f21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260408T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f84b51e5033e155acec38a287cab88d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:--стадион
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:78d30061bcab8a6bef93808758a90459
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260216T131500Z
+LOCATION:5-422
+DTSTART:20260216T114500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:0730cef4317c12310f98ab93c6a5fdf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260303T073000Z
+LOCATION:5-107А
+DTSTART:20260303T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:df85568fdce21c3d7249e927310915f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260505T073000Z
+LOCATION:5-107А
+DTSTART:20260505T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:6979af6fca7ca6e525bbdd80f5fdc45a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251010T131500Z
 LOCATION:5-301В
 DTSTART:20251010T114500Z
 SUMMARY:ЛР Финансы
 UID:ed216bfe685c2b8915cb8c5605a7f01f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260209T131500Z
+LOCATION:5-107А
+DTSTART:20260209T114500Z
+SUMMARY:ПЗ Организация производства
+UID:8694fa301688343bcf3c7bb5d4807f29
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T073000Z
+LOCATION:--каф.
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:64bcc188a36bd3b07222193922cb0c83
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:--каф.
+DTSTART:20260409T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bdaf945095c7c97da6c24bad7da74713
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T150000Z
@@ -1875,12 +3370,50 @@ SUMMARY:ПЗ Налоги и налогообложение в организа�
 UID:02da519eaab0552b006265efa328b01c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260603T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3ff335d7732904723262a31a46a25cc7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
 DTEND:20251001T113000Z
 LOCATION:Орш. А-408
 DTSTART:20251001T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:6e8f0516fdf8c3fb76dcdd724c0c7ce3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260605T091500Z
+LOCATION:5-420
+DTSTART:20260605T074500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:e272b844742deaebbedc67c6c27f4069
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:--каф.
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:caa13e8d8b3e0439aebd1e861c84a05e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260522T091500Z
+LOCATION:5-420
+DTSTART:20260522T074500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:98fadfa6f45ef16eb10c8d10858acea3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260515T091500Z
+LOCATION:5-410
+DTSTART:20260515T074500Z
+SUMMARY:ПЗ Финансовый учет
+UID:000ff8ad1ea4f12ed49dd77e2dceaa40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -1905,12 +3438,42 @@ SUMMARY:ПЗ Военная подготовка
 UID:fc1dfe62c0df4c7f588189453abc8958
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260227T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260227T114500Z
+SUMMARY:ЛК Основы психологии
+UID:6962444284d82765842b0ea2169b6197
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:3524d30fb65becf9d8d310b36412df8a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260602T073000Z
+LOCATION:5-107А
+DTSTART:20260602T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:adfc4420e29373e022c4b9132d060808
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20251013T150000Z
 LOCATION:5-303
 DTSTART:20251013T133000Z
 SUMMARY:ЛК Финансы
 UID:267c57ab3856fe7aac9c427e53a6ef53
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф.
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6affd9b53233a3ae1c5dc7aee5a0bdca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -1951,6 +3514,14 @@ SUMMARY:ЛК Хозяйственное право
 UID:26c760306189442807e5af5ee7122d18
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260417T131500Z
+LOCATION:24-715
+DTSTART:20260417T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:aff37e1049f5b69183bc734d658232de
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T091500Z
 LOCATION:--каф.
 DTSTART:20251120T074500Z
@@ -1966,12 +3537,35 @@ SUMMARY:ЛК Налоги и налогообложение в организа�
 UID:fd0673f8e92995600026fd894907fef4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260331T073000Z
+LOCATION:5-107А
+DTSTART:20260331T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:905cb6c509fd04132190421495041e41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260327T113000Z
+LOCATION:5-111
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:bff91ec1a91c716e1d43ed61b2efcf58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20251111T073000Z
 LOCATION:5-101
 DTSTART:20251111T060000Z
 SUMMARY:ЛК Организационное поведение
 UID:2b936b68adde9a2351c64113589e99ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6e2050176b3fb0de6b1a75452016a62a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иванов Сергей Валерьевич
@@ -1995,6 +3589,21 @@ LOCATION:ГАК-307
 DTSTART:20250922T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:540f206593b8ff46cb7c56f6dd1e963c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260209T091500Z
+LOCATION:5-319
+DTSTART:20260209T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:bd42f981398a3346f78b8d834160218a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T073000Z
+LOCATION:--каф. 919
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:8d38347b82ebe5e42d4e8de32373e295
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -2028,11 +3637,41 @@ SUMMARY:ЛР Конструирование и технологии высоко
 UID:d1014e5807de777e7aea04f0b3667800
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:--стадион
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:0d4dbc8fa8706f54751248c632d1af95
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:--каф.
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:557da42bdfa607df544089377c805be1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260518T091500Z
+LOCATION:5-319
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Организация производства
+UID:7425c15377c892dc819e8ec8ffad0ae5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T073000Z
 LOCATION:--каф.
 DTSTART:20251016T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:d1caa37e48b5fcdbb24528b145c405ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260525T091500Z
+LOCATION:5-319
+DTSTART:20260525T074500Z
+SUMMARY:ПЗ Организация производства
+UID:5a21babee05fe5b2a889d493acea1887
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -2059,6 +3698,14 @@ SUMMARY:ПЗ Организационное поведение
 UID:92ded2386a18c4f1620651a47681347a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260508T113000Z
+LOCATION:5-111
+DTSTART:20260508T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:ee23164e293f3dc439648ec1b4712824
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T073000Z
 LOCATION:--каф.
 DTSTART:20251030T060000Z
@@ -2066,11 +3713,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:5f5596a2343958d2accdf4671f152caf
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ade32c93f18527b954d4fbe8c5fda609
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T073000Z
 LOCATION:--каф.
 DTSTART:20251106T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:2d25a7cf3e5bc9b86b5f04305eaa079b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:--каф.
+DTSTART:20260423T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9af7053cae19b8a348b50f2c7d155767
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260529T113000Z
+LOCATION:5-111
+DTSTART:20260529T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:d809aedd1d6fdd23743bc99e95f85f99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -2081,11 +3750,34 @@ SUMMARY:ПЗ Хозяйственное право
 UID:67fd46f56347c281b695d63e2cd77991
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:--каф.
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0000b82393c8e4dd31f6a866f4664296
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T073000Z
 LOCATION:--каф.
 DTSTART:20251009T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:5646dbe8b6ceee395dd11a8f5999dd8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260220T073000Z
+LOCATION:5-410
+DTSTART:20260220T060000Z
+SUMMARY:ЛР Финансовый учет
+UID:acafd047cc8d7455d9e5c263503750e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20260424T091500Z
+LOCATION:5-420
+DTSTART:20260424T074500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:9b848aab8104f858bf72f36a235e46ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -2096,12 +3788,42 @@ SUMMARY:ПЗ Хозяйственное право
 UID:eaba71889e635f1039c499934771645c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф.
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4915b6dfab528fbe48563d62251082b7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:026a4421f8d8a8bf77f1c977adf1b721
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
 DTEND:20250902T091500Z
 LOCATION:5-101
 DTSTART:20250902T074500Z
 SUMMARY:ЛК Основы логистики
 UID:47af824fb876092a88abb7b505196730
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260224T113000Z
+LOCATION:5-111
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Теория статистики
+UID:14ede73b119754bc2e0fb83c904a96a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260515T113000Z
+LOCATION:5-111
+DTSTART:20260515T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:85024da4aacfe1eebac10e3500bd3a1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -2151,6 +3873,21 @@ SUMMARY:ЛР Финансы
 UID:5895f07036612a092aaa1433f500d804
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260529T073000Z
+LOCATION:5-410
+DTSTART:20260529T060000Z
+SUMMARY:ПЗ Финансовый учет
+UID:396797f93cfa52ff1b08cefe946854ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T073000Z
+LOCATION:--каф. 919
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:650cdf0f82ce9be30294ca4db0e53668
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251017T150000Z
 LOCATION:1-10  1 этаж
 DTSTART:20251017T133000Z
@@ -2164,6 +3901,21 @@ LOCATION:5-425
 DTSTART:20251004T074500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:0e0b06e8904223521097208ccdd1f924
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:--стадион
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:1475e651914167b714c6d5e8a3b11350
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260330T113000Z
+LOCATION:5-319
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Организация производства
+UID:c36999835d7556ff9d3d106f7e1acbc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -2196,12 +3948,43 @@ SUMMARY:ПЗ Военная подготовка
 UID:ac1b92765a1910c61621349da002f429
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:--каф. 919
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:5551d5d29a2e4cec5a9ae85667a45a35
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
 DTEND:20251210T113000Z
 LOCATION:Орш. А-408
 DTSTART:20251210T100000Z
 SUMMARY:ПЗ Иностранный язык
 UID:2d333174b690b5f89a92c6aeef9b5b3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260414T091500Z
+LOCATION:5-403
+DTSTART:20260414T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:3cfe911afc3834b54db09ab2ef81bd3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260217T131500Z
+LOCATION:5-111
+DTSTART:20260217T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:c2a4bbf901bf801a0798dcc88af84574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260313T091500Z
+LOCATION:24-316Б
+DTSTART:20260313T074500Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:8ef5a8c4561ab96733bb1d178c4c1699
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -2252,6 +4035,14 @@ SUMMARY:ПЗ Социология
 UID:e8b3b5f477b9b204895c89e0e280043f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260512T091500Z
+LOCATION:5-403
+DTSTART:20260512T074500Z
+SUMMARY:ПЗ Теория оптимизации и численные методы
+UID:7b7c4d1f7d15857d97129448917784cd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250906T113000Z
 LOCATION:5-404
 DTSTART:20250906T100000Z
@@ -2278,6 +4069,37 @@ LOCATION:--каф. 919
 DTSTART:20251224T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:dd5571122f4c807c8bbc1194ce23c25a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260306T091500Z
+LOCATION:5-410
+DTSTART:20260306T074500Z
+SUMMARY:ЛР Финансовый учет
+UID:0e3edba95ab95d0c0e360204557fd97a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:--каф.
+DTSTART:20260312T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b317a1e3b1779e2b622297c55d28cbe7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260306T113000Z
+LOCATION:5-111
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:f24c74459676c7e19da5133d928517f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260313T073000Z
+LOCATION:24-316Б
+DTSTART:20260313T060000Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:c99b6cbbf3f8150cb3f8d1ee5eea72ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -2318,11 +4140,33 @@ SUMMARY:Экзамен Налоги и налогообложение в орг�
 UID:1ce1e14abdb1d40448467255a3450f47
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:--стадион
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:6fa63ef52653f9d9f9cdf630656b7e3d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T073000Z
 LOCATION:--каф.
 DTSTART:20250925T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:36b10c4a2da49be0f12034c454803970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260403T073000Z
+LOCATION:5-410
+DTSTART:20260403T060000Z
+SUMMARY:ЛР Финансовый учет
+UID:e81cd2407c525c538c02544774e1127d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф.
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0c377d5741db0d330712def18907bfd5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -2340,6 +4184,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:366218b684e63316cbb7a16fd88646c9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:--стадион
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:3858d1d53dba0883a28090b6cb654864
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Трембач Татьяна Германовна
 DTEND:20251224T113000Z
 LOCATION:Орш. А-408
@@ -2348,12 +4199,36 @@ SUMMARY:ПЗ Иностранный язык
 UID:de76261fca72714f35d6aa47b64bb526
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260227T091500Z
+LOCATION:24-316Б
+DTSTART:20260227T074500Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:c050f8a06c94688ee0ad38a6e2b8d841
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260519T073000Z
+LOCATION:5-107А
+DTSTART:20260519T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:8ca0694ecfd3d9940078fdbdb9233f58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20260124T091500Z
 LOCATION:5-235
 DTSTART:20260124T074500Z
 SUMMARY:Экзамен Маркетинг
 UID:7fe1ee3434b5fa5c3fa0e17b8c4962a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260330T091500Z
+LOCATION:5-319
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:ab54cdcddd39b187e24139b8386aa36d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
@@ -2380,6 +4255,36 @@ SUMMARY:ЛК Социология
 UID:eb6663816532ad493c4630d2ee4d9bd1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:92d04708c049624227df314bbf7782a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--стадион
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:d8d608db33b9cc16ae744f0ff2ebf715
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260427T091500Z
+LOCATION:5-319
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:61bffcfa0f863124141f9f51f301293f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260526T113000Z
+LOCATION:5-111
+DTSTART:20260526T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:0eb2cd1cfc339680f952695ff97d2325
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251112T150000Z
 LOCATION:Орш. А-101
@@ -2388,12 +4293,34 @@ SUMMARY:ЛК Маркетинг
 UID:dfb0134250da596f7a8f50c5751f7c4e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260225T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:3eea87bc30a0b56d57442b77fc39c35c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T073000Z
+LOCATION:--каф. 919
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:419512b900e93b00f8bba53047834983
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
 DTEND:20251020T113000Z
 LOCATION:ГАК-307
 DTSTART:20251020T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:58b9b63427230e5b117feea2a810200d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260424T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260424T114500Z
+SUMMARY:ЛК Основы психологии
+UID:73f54ffe98d7410f4a5b0510c7f46f97
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -2417,6 +4344,14 @@ LOCATION:5-101
 DTSTART:20251014T060000Z
 SUMMARY:ЛК Организационное поведение
 UID:0157ef497a8cd8f16bf88332375bc79f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260511T113000Z
+LOCATION:5-319
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Организация производства
+UID:a0ebd5beb3a1ea539806f90d9ade2e26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Алексей Сергеевич
@@ -2473,6 +4408,14 @@ SUMMARY:ПЗ Физическая культура
 UID:27fba88b4ca7b5045b498af081b0ece2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260407T113000Z
+LOCATION:5-111
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Теория статистики
+UID:1865567e7121115d88c68b4c3cf4b926
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юлдашев Аскар Алиаскарович
 DTEND:20251027T131500Z
 LOCATION:ГАК-307
@@ -2488,11 +4431,41 @@ SUMMARY:ПЗ Военная подготовка
 UID:6b57be7a7b86bb75ae9f8b00da5bb103
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--стадион
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b8bfb395d5ba0ea104aa22b53ec101b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260511T091500Z
+LOCATION:5-319
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:ec24687b38eea08fff5de260b37c1f99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260320T113000Z
+LOCATION:5-111
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Отраслевой маркетинг
+UID:fd42c026d15fccbbd81c0625d3caf8a0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250901T073000Z
 LOCATION:--каф. 919
 DTSTART:20250901T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:48bfb47b0446ebb1644e2e317ccba3ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260520T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:369a6497eb621575616dfbcd7573c0c4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T131500Z
@@ -2502,11 +4475,63 @@ SUMMARY:ПЗ Военная подготовка
 UID:f3cff05ac41bf0ef0a9160afac591e61
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260327T073000Z
+LOCATION:24-316Б
+DTSTART:20260327T060000Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:2b57a30a12235b9d53532a34c504af65
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260313T113000Z
+LOCATION:5-111
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Поведение потребителей
+UID:0dae527ffc9704bda23eb9e9827d0444
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:--каф. 919
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f67f0ec1416636ead3ef6ab69db13e0c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:97c5760f9fa87605de0701325326e93d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260403T131500Z
+LOCATION:24-715
+DTSTART:20260403T114500Z
+SUMMARY:ЛК Производство и эксплуатация высокотехнологичной продукции
+UID:025096a25f7366818b5ae736dbe19876
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T073000Z
+LOCATION:--каф.
+DTSTART:20260604T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a1980f074766630f45bd3822766db50c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251004T131500Z
 LOCATION:5-404
 DTSTART:20251004T114500Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:1b72209c8a0a14dca756b16b09704c74
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260311T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:0a42995be91a69a3522e4334d064f9fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПУШКАРЕВА МАРИЯ БОРИСОВНА
@@ -2532,11 +4557,57 @@ SUMMARY:ПЗ Физическая культура
 UID:b12c27883e7569816d0e4b0cc62f53b8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:190b58e0f9750ba700636bf201c0dcc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260224T091500Z
+LOCATION:5-406
+DTSTART:20260224T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:ff8a6f7f23839aa00ece910e85dd090f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260304T113000Z
+LOCATION:Орш. В-514
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Основы психологии
+UID:715114011a25f09665761ae048e0de69
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф.
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cc4e41154de72540b48fb22d4f9c5285
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260421T091500Z
+LOCATION:5-406
+DTSTART:20260421T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:f49dddf993c5ca4fb5b23a59a46bd57f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T073000Z
 LOCATION:--каф. 919
 DTSTART:20251112T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:890c8dffaac0887a0928f1e8a24eb779
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260210T131500Z
+LOCATION:5-111
+DTSTART:20260210T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:6a799dbf73e2e297f84bae2d51ef28ef
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T164500Z
@@ -2546,11 +4617,55 @@ SUMMARY:ЛР Конструирование и технологии высоко
 UID:869def9caf767bb91eed2d31423722f8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:76fde92ccd8551094d65f74d56afff01
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3201121ea55686a41c1a9ce16ab2208e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260526T073000Z
+LOCATION:5-107А
+DTSTART:20260526T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:421cd4a5447deb539d98c0fc12d2d0cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Павел Олегович
+DTEND:20260410T091500Z
+LOCATION:24-316Б
+DTSTART:20260410T074500Z
+SUMMARY:ЛР Производство и эксплуатация высокотехнологичной продукции
+UID:212788bb85ec65878aeedc96b20cc1e2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T073000Z
 LOCATION:--каф. 919
 DTSTART:20251210T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:c3bb2120a976a6dc1884ea23d6f46828
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:--каф.
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9c19f3e3d6063861894974c448d69e35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fb6b133ccf65c9f656059aba7f31eb07
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T073000Z
@@ -2560,11 +4675,26 @@ SUMMARY:ПЗ Физическая культура
 UID:0db359f86b0f4694a8af0ebe7b72a2e4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260428T073000Z
+LOCATION:5-107А
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ Поведение потребителей
+UID:7ee79e72d0587bd1ed29230a7d0e6125
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T073000Z
 LOCATION:--каф. 919
 DTSTART:20251008T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:9018d8070fc775f9c703986f6a254b35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260218T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:cfb66d15f3937341a8cdc9d20d54e5cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
@@ -2591,12 +4721,35 @@ SUMMARY:ПЗ Налоги и налогообложение в организа�
 UID:87472bd6836bc59c38e7ad093c94727a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260324T091500Z
+LOCATION:5-406
+DTSTART:20260324T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:58365c4a1b97be1acb1526aa6f2c5c9b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Иванов Сергей Валерьевич
 DTEND:20251213T131500Z
 LOCATION:5-404
 DTSTART:20251213T114500Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:ae458448c78acff191f588c027467264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20260303T131500Z
+LOCATION:5-111
+DTSTART:20260303T114500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:dc670df77c6794f567a4135350311d99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--стадион
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:2bb3e33f4d385c3acf7aaed39bfebca0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250903T164500Z
@@ -2622,11 +4775,58 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:9ae02d36b19619a767bb4fdfcd5ab2ee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Костина Алина Сергеевна
+DTEND:20260529T091500Z
+LOCATION:5-410
+DTSTART:20260529T074500Z
+SUMMARY:ПЗ Финансовый учет
+UID:b9a6636cd345fe5d5952ea1b0650f175
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Генова Анна Николаевна
+DTEND:20260216T091500Z
+LOCATION:5-319
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Финансовый учет
+UID:54ab103be375767dc3502a97b02ca53a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6d285824fbfad8abd97b700fb5a8972f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250919T150000Z
 LOCATION:1-10  1 этаж
 DTSTART:20250919T133000Z
 SUMMARY:ЛР Конструирование и технологии высокотехнологичной промышленности
 UID:7bb5cddcc01230700fd225b0ebc9cebe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260518T131500Z
+LOCATION:5-107А
+DTSTART:20260518T114500Z
+SUMMARY:ПЗ Организация производства
+UID:88e98e38939b56693eb146ec7941f6db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
+DTEND:20260224T073000Z
+LOCATION:5-107А
+DTSTART:20260224T060000Z
+SUMMARY:ПЗ Отраслевой маркетинг
+UID:8d6d50c656cc62e69e3d72b83f0d0b5e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260324T113000Z
+LOCATION:5-111
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Теория статистики
+UID:c68a6a8dfedf3ee0cd5ab77bdeb0d3bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Опрышко Надежда Владимировна
@@ -2635,6 +4835,14 @@ LOCATION:5-101
 DTSTART:20251209T074500Z
 SUMMARY:ЛК Основы логистики
 UID:3ecdc0ee6777bf1eccf8a09b04c0ed7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260323T131500Z
+LOCATION:5-107А
+DTSTART:20260323T114500Z
+SUMMARY:ПЗ Организация производства
+UID:0e3593ed2b24c7778965c300ed4876b1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T073000Z
@@ -2657,6 +4865,21 @@ LOCATION:Орш. В-307
 DTSTART:20250903T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:34d6ff27384cba95fcd129c01978c56c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260508T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260508T114500Z
+SUMMARY:ЛК Основы психологии
+UID:9b56b853867bff9b07687ca832c9f000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:66d2430203d64bd05efdaffcafdfed67
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткаченко Татьяна Владиславовна
@@ -2698,11 +4921,33 @@ SUMMARY:ПЗ Физическая культура
 UID:b308bd1fdf35e55afa30ee648a0d501b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260512T113000Z
+LOCATION:5-111
+DTSTART:20260512T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:3817e29f8309d9487000d00503e75265
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T131500Z
+LOCATION:--каф.
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2e5fef5f2c33bb55be4cb50e8cbc7988
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T150000Z
 LOCATION:ГУК В-221
 DTSTART:20251107T133000Z
 SUMMARY:ЛК Конструирование и технологии высокотехнологичной промышленности
 UID:82416df7ecf6e5963f9f8cbf93c57859
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф.
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5ce269039daa2e5e87e54ac399de645a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
@@ -2713,6 +4958,13 @@ SUMMARY:ЛР Финансы
 UID:55ab157b4bc0eb88f8e5a0691fbeb39b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:--стадион
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:d1934d455fbceb0d522a34d5869f7a84
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сёмина Лидия Викторовна
 DTEND:20250929T150000Z
 LOCATION:5-303
@@ -2721,12 +4973,42 @@ SUMMARY:ЛК Финансы
 UID:49f7933d872343f2aee92be16a85719a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лунева Анна Александровна
+DTEND:20260428T113000Z
+LOCATION:5-111
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Теория оптимизации и численные методы
+UID:200effd8f3bfc7d1685caf6842f18785
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:КАЗАКОВА НАТАЛЬЯ ВЯЧЕСЛАВОВНА
 DTEND:20251216T113000Z
 LOCATION:5-423
 DTSTART:20251216T100000Z
 SUMMARY:ПЗ Маркетинг
 UID:1a6fe0146bf8d2f60c43a73c90fccac1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АРСЕНЬЕВА НАТАЛЬЯ ВАЛЕРЬЕВНА (осн.)
+DTEND:20260420T113000Z
+LOCATION:5-319
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Организация производства
+UID:470329277ce67f57e7e8b7b8b58adb7a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260401T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e7a6530b5ff424af992d894783e90f03
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:--каф.
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b87aba3828ca82a45f43096311f0b5a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250927T131500Z
@@ -2763,6 +5045,14 @@ LOCATION:--каф. 919
 DTSTART:20250915T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:0b7dc30ab52af2462552ddeba2d0762d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Геннадьевич
+DTEND:20260505T091500Z
+LOCATION:5-406
+DTSTART:20260505T074500Z
+SUMMARY:ПЗ Теория статистики
+UID:f0d347390b2e3695a838e04987d5acc0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T131500Z

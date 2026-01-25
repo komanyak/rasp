@@ -2,11 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:--каф. 919
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:60c08d8187544a2854d7b8253f47b675
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250908T073000Z
 LOCATION:--каф. 919
 DTSTART:20250908T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:9982ffe94942ea3331da6e8e35d7a6e7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260327T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:b8fe8a199ee4f7ef9ac29fc8ba0a5854
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260515T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:c942a29dbc96d8680985093d8036dbf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -31,11 +52,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:eec26143d0aea6f71eee478a4bc275cb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:--каф.
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:90baf69ca1c7099085b6660af881d6cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260406T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:7cdd3709918b943f0e23b1943115691a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251004T091500Z
 LOCATION:ГАК-320
 DTSTART:20251004T074500Z
 SUMMARY:ЛК Численные методы
 UID:0282309a9b9fa5be9748d317a993115f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e141af8a93f71f16aee09867a817911c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260324T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:4792ffb904513c06486a7848101657ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -68,6 +118,13 @@ SUMMARY:ЛК Теория графов
 UID:3922f57ec5443b6a29aab50f5041fb0e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260310T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:9e99763fbb41a1f0607496616472f791
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T091500Z
 LOCATION:--каф.
 DTSTART:20251009T074500Z
@@ -82,11 +139,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:e46a637d872a6d580f9a67383ae9654f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9969761b788c2a13439c6f39820a8440
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250910T113000Z
 LOCATION:ГУК В-228
 DTSTART:20250910T100000Z
 SUMMARY:ЛК Компьютерная графика
 UID:a6a9e3861bcdb79ee63e5d6f56a5f211
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:807d9a2512bb488bf671c9faa1e11678
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T131500Z
@@ -104,11 +175,32 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:ad3f0933b6854afac8c90d5a6a64b327
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260505T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260505T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:3ee8b5e4e35305cdbb1c3b462c130519
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260415T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:5b8aea8eada91669b755230f670751e6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T073000Z
 LOCATION:--каф.
 DTSTART:20250911T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:972ac398a32527971588c6160122b99f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260523T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:626514a5de0a896f25434c48b7191ead
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -134,11 +226,48 @@ SUMMARY:ЛР Математическая логика
 UID:da47e75870609f5590c72f4763f36229
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260314T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260314T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:deb5be2bcc1edff94297f14e1fd88c6d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T091500Z
 LOCATION:--каф.
 DTSTART:20251002T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ce4f9a02c481fb648cffd25f18cc9f26
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260330T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260330T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:0c862e653ba589e18102026435401853
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф.
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ad2a3a89c8aa57caa8086e0089dd3c70
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:62d604dcb6c46b276006de3523dd582f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260427T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260427T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:beae56ba2e6872303a50ad9529b9344c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T073000Z
@@ -160,6 +289,21 @@ LOCATION:--каф.
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:81bb8c9507c39a963450db692686a385
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260519T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:fab3fa9afdf971b656723fee074aa8dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260406T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260406T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:075df317dd0f8782f52bd28bfcd5efc9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T131500Z
@@ -184,6 +328,27 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:d05d316e490a676de28ca3413736fd46
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260328T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:098e635fd372049f28e28376517b43a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260327T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:38d6a8c036b664a388fdea3246f43acd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:88fa8f10ddd8c62e162059cba81f19ac
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251108T131500Z
 LOCATION:--каф.
 DTSTART:20251108T114500Z
@@ -199,12 +364,47 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:f4fc4905325c8af5b9631f5aa8c8c650
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260508T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260508T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:1861871ece732f3669dbd512ba35d885
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260508T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:72b436d8a35aec4fe1b653eb743f2738
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:753e46ff03ee0cb71099cb19b3f8d27b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:--каф. 919
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:1cfc0e39ca655475432a5bd8280ebe1c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251110T091500Z
 LOCATION:5-422
 DTSTART:20251110T074500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:973b1c7cae8ac302cc956a6fff67b5d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fb9b945123744598ba3523ee587c1bf2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T113000Z
@@ -219,6 +419,28 @@ LOCATION:ГУК А-612
 DTSTART:20251118T114500Z
 SUMMARY:ЛР Численные методы
 UID:79be147c47b258d583448633352f2aa9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260511T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260511T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:a99c6d7807653c3df4614711e6863ca1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:371ddaf5014af3c3424eb49ddd65ecfb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:824b4192ab12a38d4a26de115695ebda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -236,6 +458,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:24a11efd39dffdb63cfb048f5ce5690d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T073000Z
+LOCATION:--каф.
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7a0f95bba144a1519486842e61f3922e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T073000Z
 LOCATION:--каф. 919
 DTSTART:20251008T060000Z
@@ -248,6 +477,14 @@ LOCATION:--каф.
 DTSTART:20251106T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:148a5cbc4a253bb60431063f9a76932a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260316T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:32cfc9af955a2c2410e0a47abc381c93
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250906T073000Z
@@ -264,6 +501,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:d64eba8ec55294854f99693f862229d9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260429T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260429T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:0062b01ad273d7df6e603d10a34f1c35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T091500Z
+LOCATION:--каф.
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:eb6060558359878644bac0b2134b9f05
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251025T113000Z
 LOCATION:--каф.
 DTSTART:20251025T100000Z
@@ -276,6 +527,20 @@ LOCATION:--каф.
 DTSTART:20251106T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ed3683c7ead41b22dbf20407d07dee8c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260303T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:4890884816abdde54d80fe893df29dfe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260605T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:5c1890844c3eb031c86aa9d23dee1c2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -292,6 +557,13 @@ LOCATION:ГУК Б-444
 DTSTART:20250917T114500Z
 SUMMARY:ЛК Теория графов
 UID:3dbf8cdb2702f73203c2091ce2c952ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7d3f556042d61c340adc4d203dbd7a68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -316,6 +588,27 @@ SUMMARY:ПЗ Военная подготовка
 UID:e4d9d11f3c893b528f4352647599396a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260422T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:2b87988ad248e988cf3ff0bcf0023dc4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:--каф.
+DTSTART:20260423T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9d599341b41cc9b4b8aaabd99725ee50
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:--каф.
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4e3095c8e5b202908c445032564a7dfb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T113000Z
 LOCATION:--каф.
 DTSTART:20251205T100000Z
@@ -330,11 +623,25 @@ SUMMARY:ЛК Концепции машинного обучения
 UID:7631713266a830783e25467c4c41d81c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260506T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:47281f9ff6e75ef4ff390f9de80c85e4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251108T091500Z
 LOCATION:ГАК-320
 DTSTART:20251108T074500Z
 SUMMARY:ЛК Практикум IT-разработки
 UID:2dd8521603eb0ce43ca02a50a723f8b7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф.
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:722102209bb4f14a2ab5013036fb64d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -343,6 +650,13 @@ LOCATION:ГУК Б-652
 DTSTART:20250910T074500Z
 SUMMARY:ПЗ Теория графов
 UID:a3afcb4dbad90c0277eb9706c819d062
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф.
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f07f0dcad289a96ef4d41e36579a5472
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251021T131500Z
@@ -375,6 +689,13 @@ SUMMARY:ЛК Компьютерная графика
 UID:90d41cf3c2d8b9a9c4af7e2cd7cc7fe2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5d13e671b285955ed141e15604595493
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251201T091500Z
 LOCATION:5-422
@@ -397,6 +718,13 @@ SUMMARY:ЛР Практикум IT-разработки
 UID:f8e78628336d0a2864859bbec102086c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:8735c03304eda172ddc02d1adbe5d81f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T131500Z
 LOCATION:--каф.
 DTSTART:20251121T114500Z
@@ -404,11 +732,25 @@ SUMMARY:ЛР Основы криптографии
 UID:da1ea6022c787dc323409c21ef5ec1b3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260408T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:b1459eafcc0c8edcf3e453127b7aa09e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250908T113000Z
 LOCATION:--каф.
 DTSTART:20250908T100000Z
 SUMMARY:ЛР Компьютерная графика
 UID:d0b46a22e69c62e11ba60b4a9bdfaeda
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:79ff4f664fafd9df8ab939665d0af52d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -440,12 +782,40 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:3c96a10642b248848beec46da12d7cfd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260408T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:2760b86a779e7efc72cef8111a5cbfa9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:--каф. 919
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:0eaa755c740e9829eb6e7d8794901775
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T113000Z
+LOCATION:--каф. 919
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:44683c4deb4a39783a1c5d8f283580b6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251126T091500Z
 LOCATION:ГУК Б-652
 DTSTART:20251126T074500Z
 SUMMARY:ПЗ Теория графов
 UID:41069140ab263378ec959cb25f23393c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260410T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:9d19a56de2e14b3ef5a20964ae3b0acb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T113000Z
@@ -463,12 +833,35 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:719e21fa0e758bde0a8a4ef755f4d807
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260316T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:155516787d3c69123179ea37ec9fcc09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251017T091500Z
 LOCATION:5-101
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:2693255ffca64d1a02633c2a8dd6c29a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:--каф. 919
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:94e20fe13fc2e6a298bf8bb505bdbb1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260413T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:6889e5b554087eb958f31147a18b584c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T131500Z
@@ -478,11 +871,39 @@ SUMMARY:ПЗ Военная подготовка
 UID:cdea74fe5017a49b429cd0b739c54177
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260606T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260606T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:348d5bc0c4eff34c1f5696a7a82f88d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260508T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:50184e8c9e484d1dd69ab8f4d95431ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fd0ed53a96278225afcb569b3685cab9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T091500Z
 LOCATION:--каф.
 DTSTART:20251211T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:6c122650ad7bfe4346fb9ba266c0e288
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fc9be4245f68c98bda6a0c879f820d1d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251213T131500Z
@@ -500,11 +921,39 @@ SUMMARY:ЛР Математическая логика
 UID:8c49c744f1833b4b8843f65f256e2f0b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260527T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:1a072ffa732f85f0ad0b7e50090433f4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260116T113000Z
 LOCATION:ГУК Б-637
 DTSTART:20260116T100000Z
 SUMMARY:Экзамен Численные методы
 UID:e60377d7444ca631c8bc06611022cd54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d244b572fbdec29abba48903868a6917
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3ad5ba85af65d1e6345d51fa43bcfdeb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260603T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:2f70b1bec2bb3a979af8207e135326cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -513,6 +962,50 @@ LOCATION:ГУК Б-637
 DTSTART:20250916T060000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:ee970f27a0d2cbb199ebdf4eec3624e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260209T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260209T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:fb8e7373fb8133be7193ce965f5ce707
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T073000Z
+LOCATION:--каф.
+DTSTART:20260604T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e9b0e160d46d5dda4d935bed67e1a3ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:--каф. 919
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:01e447293fd11bc0efdd3f9374831a12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260330T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:2f4d7f53b60f6d8cb8970d2a8f2c3d40
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260606T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:5ab52225d828529c3e0541a9c9bb50e1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260523T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:bf7604c97f47ff57ac4224f7989f68e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251227T113000Z
@@ -529,12 +1022,47 @@ SUMMARY:ПЗ Военная подготовка
 UID:05b8a763f0829cfd88dc8601762d78ec
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260227T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:342e5c93ca12d61d1f521941a9c5bea2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф.
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4f2bf6a6ea983aa40928338073fca1be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260523T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:c5a97a1e946fea3cbe3feaf660ddbc15
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20250919T131500Z
 LOCATION:ГУК Б-324
 DTSTART:20250919T114500Z
 SUMMARY:ЛР Математическая логика
 UID:f96c960f8238e0685dd4232369809e5d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d2c0eb51b9616305d8b0538a3deb7648
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260506T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:1eea3180ef2e3bfa1ae8598f5138829f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260112T131500Z
@@ -551,11 +1079,32 @@ SUMMARY:ПЗ Военная подготовка
 UID:724fbc7d59a18f94728287fd43fe3d49
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T113000Z
+LOCATION:--каф. 919
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e6ad5d57d42747f645d69bb9e843a2a9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251129T073000Z
 LOCATION:ГАК-320
 DTSTART:20251129T060000Z
 SUMMARY:ЛК Концепции машинного обучения
 UID:d282a5d8228d5f222e3f70037549c34a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260228T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:860d71872ece77fb086cadc37b709cec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260331T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:a4bda90b582de6834997915323e04337
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -566,11 +1115,25 @@ SUMMARY:ЛК Теория графов
 UID:26fa0db4ab13e5887489a05ca6f4807e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260318T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:750ab0e1245fd63c6ba0487b066c88a4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T131500Z
 LOCATION:--каф.
 DTSTART:20251107T114500Z
 SUMMARY:ЛР Основы криптографии
 UID:b2c15f08dc76095fcec68f7fae90c309
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260505T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:a77ff61974df4a7812fc2835f30cc36c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T131500Z
@@ -595,6 +1158,41 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:f08895ca873f45cb6b781d82bf016392
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:c5e5f9724a6f58bf0a7c0b897bb0d0fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:32bfd7f3de1f22d9264a0b4148b61c9c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260213T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:45dea1b341d5b2b0a52e6826e6e3b5f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф.
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1d50d1182bbae5ace2b24e504f8f54a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260526T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:be1706a29c8be0264bd74262bb7ba75f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251119T091500Z
 LOCATION:ГУК Б-652
@@ -603,11 +1201,53 @@ SUMMARY:ПЗ Теория графов
 UID:03d1bdd641896ecfbb7dc1a80dd4da27
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф.
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c597386fa8cfb860992186e7a4bfae20
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:f0847ebc1603042fe8c79471fff3fea0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260602T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:6caaf95218dde627d25ee32b33bd182a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:13d0118918ee044afb4a9e6c80b0ae2f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф.
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:991014434ee3d3a67dce0a8d56380718
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251117T073000Z
 LOCATION:--каф. 919
 DTSTART:20251117T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:b12794e0db0b6982f547f21f4b7f3be1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф.
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:98f9d0ea0406e01c001b0d1dbf291ea0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T091500Z
@@ -630,6 +1270,13 @@ LOCATION:5-101
 DTSTART:20251212T060000Z
 SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
 UID:1bd48b4ba89d1d57d5bfeba036c6f2a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260304T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:d4570dc27533631d1cbb4aa6255f3825
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T091500Z
@@ -676,6 +1323,13 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:1796da642fa89a7a0bd84dc33b5e513d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260314T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:1def29de8c6f234e66ff26b78803ad7a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20250923T091500Z
 LOCATION:ГУК Б-444
@@ -716,11 +1370,26 @@ SUMMARY:ЛК Теория графов
 UID:18e61219dc1a0beca52c095298bb0d57
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф.
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b02e1eb2512f8946c36c11404cb1323b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250927T113000Z
 LOCATION:--каф.
 DTSTART:20250927T100000Z
 SUMMARY:ЛР Концепции машинного обучения
 UID:20bf90353990ccbc52b8938f6d26c499
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260511T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260511T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:a64f57fbf705028037ac26932f77f1fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -736,6 +1405,20 @@ LOCATION:--каф.
 DTSTART:20251030T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:fc3c51bd702b45c651aa83489bbc80e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260425T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:a7e886bd1f1ea473e98ad41e0de010f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260228T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:c306d7dab578493937b879a886ed39f6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T113000Z
@@ -759,11 +1442,26 @@ SUMMARY:ЛК Концепции машинного обучения
 UID:a0fabac006d2ba0ad3393a384e290b74
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260420T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:6f6792df3233f8d2426c054b484c816a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T131500Z
 LOCATION:--каф.
 DTSTART:20250904T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:a68208df7e143a5c621a6fc594d7600a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260216T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:5a26df4e6da8f2e0af03c804ed8f7f3a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T073000Z
@@ -789,6 +1487,13 @@ SUMMARY:ПЗ Теория графов
 UID:56f86c67b344409fe55d3ddbfdfa4eab
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260527T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:e42b3bdd1a3f9613df80888127f97872
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251205T073000Z
 LOCATION:ГУК Б-649
@@ -811,6 +1516,13 @@ SUMMARY:ЛР Основы криптографии
 UID:74917b03f7eb184f5e84df14dc6019cd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260526T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260526T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:f40045517bcc1b1a2843ad07677e633b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251202T131500Z
 LOCATION:ГУК А-612
 DTSTART:20251202T114500Z
@@ -824,6 +1536,13 @@ LOCATION:ГУК Б-324
 DTSTART:20251226T114500Z
 SUMMARY:ЛР Математическая логика
 UID:5916d8662bf3a5857479883e79d7e0c3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:--каф.
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:93c2740fb6f2f73d9823a30bc663f840
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T113000Z
@@ -862,6 +1581,13 @@ SUMMARY:ПЗ Теория графов
 UID:5ae77999741a75d965daafb967471e4c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:--каф. 919
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:6307e5ef489387d5ec96315f3b201d72
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260124T113000Z
 LOCATION:3-417
 DTSTART:20260124T100000Z
@@ -876,11 +1602,25 @@ SUMMARY:ЛР Компьютерная графика
 UID:b2d300abf5a09dd649510f1afe100e2a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260428T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260428T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:4411711f506320d8b8d0d0f92d0be0a0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T113000Z
 LOCATION:--каф.
 DTSTART:20251122T100000Z
 SUMMARY:ЛР Концепции машинного обучения
 UID:baac92dda71c4cd24bc1efd4c05ce7ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:--каф. 919
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2f3a42c3fbbc021fd88572ef1ab31cd5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -889,6 +1629,13 @@ LOCATION:ГУК Б-444
 DTSTART:20251111T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:68d90b0163307917402967de03c7f99a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:bed69b5e97ca0cc523560bc44d2257f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -906,6 +1653,27 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:6c8d098d654ce62a3b06337c595e219b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260224T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260224T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:793ac3a8ce6b0a0841e78ab1e53b0eae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260228T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:0bee00971420af44d939acc019c123fb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:382ba31430e2a518ecdf5e02bb9a5097
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251015T073000Z
 LOCATION:--каф. 919
 DTSTART:20251015T060000Z
@@ -918,6 +1686,13 @@ LOCATION:--каф.
 DTSTART:20251006T114500Z
 SUMMARY:ЛР Компьютерная графика
 UID:314f9357f73c542cf66eb276dfb70724
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф.
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:362e36ee913c073c17a3f43555a479c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -943,6 +1718,13 @@ SUMMARY:ЛК Численные методы
 UID:7b53100299737c8e1edceababde35ac7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:--каф.
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:45f8b28d8f93ef31bf855d5c458be791
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251105T091500Z
 LOCATION:ГУК Б-652
@@ -958,11 +1740,25 @@ SUMMARY:ЛР Компьютерная графика
 UID:cc72d00ab82144a36813e99af60e8233
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260427T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:fcf1d01cd7282bb6db1e1b4eacda6567
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251213T113000Z
 LOCATION:--каф.
 DTSTART:20251213T100000Z
 SUMMARY:ЛР Практикум IT-разработки
 UID:e4e9b8284f0ab7cf8f24beb46a3f4688
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260508T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:7b35d9b54a2392f91e0f75b1f283e024
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T073000Z
@@ -1039,6 +1835,13 @@ SUMMARY:Экзамен Теория графов
 UID:1ee59287298c8053d079b2eded3db2f7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:b3d6f6ef5f1b75d2c9b963a832b899bc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251216T131500Z
 LOCATION:ГУК А-612
 DTSTART:20251216T114500Z
@@ -1051,6 +1854,34 @@ LOCATION:--каф.
 DTSTART:20251010T100000Z
 SUMMARY:ЛР Основы криптографии
 UID:6c2e783fe0e1b763f924730b549eb70c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:b4f1cb06b7e0f30681b6cec9cae03f38
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0308338e5d018cd23e9b03afb7d54101
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260425T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:e50dcda938e3e37a474b186d591ca67f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:--каф.
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:16be179313cdf5d6caa05bda2067f651
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -1091,6 +1922,35 @@ SUMMARY:ЛР Математическая логика
 UID:9f953af185f0c0898d2c93e28896ccd6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260217T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260217T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:c81f3ebec98b6dd97443917c9e3a8672
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260602T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:e355f428318512ac25fc648a8db69ab8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260504T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260504T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:054bd403643b7925f6bb3b00d1e87292
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:e38824c5a5a19877cee575902ae66879
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250918T073000Z
 LOCATION:--каф.
 DTSTART:20250918T060000Z
@@ -1127,6 +1987,21 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:3db0b9a7bfaca712c6f076c409c850d4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260302T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:0f855abdd7b903b0f91798b2c656fd66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:--каф. 919
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:b215f19a68fa654687f53367fab572b0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
 DTEND:20251110T113000Z
 LOCATION:5-122
@@ -1143,6 +2018,27 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:7ff106ce6d0bdeb9a52f2bb45967ba42
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:66af9c40521a59280e8e564200657c5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260605T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:e9212faca2531cd640b4426c9db6c240
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260415T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:8bb79b91a43eac823d120b6a7c30913b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250913T131500Z
 LOCATION:--каф.
 DTSTART:20250913T114500Z
@@ -1155,6 +2051,13 @@ LOCATION:--каф.
 DTSTART:20251227T114500Z
 SUMMARY:ЛР Практикум IT-разработки
 UID:534d75c1193196ceb9a9b0baf52df0df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260414T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:8b3b944d7d35315f59db0b010b0bc321
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251101T073000Z
@@ -1172,11 +2075,32 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:4a3e2522ffce8072faaf93ebeba9acba
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:--каф. 919
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:bea65c6b68bbf1d5ad4a53508530d1f1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T073000Z
 LOCATION:--каф.
 DTSTART:20251030T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:2e60587d5fb1d35abe4e95980f9c3147
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260410T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:a8e2dc99b0476af99b5feb5a12b6d7e7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:02473e24813d27f302951bbb7210e868
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -1185,6 +2109,13 @@ LOCATION:ГУК Б-324
 DTSTART:20251031T114500Z
 SUMMARY:ЛР Математическая логика
 UID:f52b88c7828d33a90e160241bcbc3156
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260323T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:767aa8716fde2efe96e839b65afaaaa1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -1202,12 +2133,47 @@ SUMMARY:ЛР Концепции машинного обучения
 UID:f11ede239ab00c758d2af75895a14b11
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:--каф.
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e65e53c1535509eb48ff959ae270a9b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260512T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:175874d702c1cffceb2d1e2910aa9bc4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260429T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:ee04a6ecdeb0415c10441eb23110787e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20251118T091500Z
 LOCATION:ГУК Б-444
 DTSTART:20251118T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:56be4400cd73563e038464f43b995a19
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:eefa5aa1bb09dd8681e85ddbb9e0fb5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260407T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:a9e207e6ed05712848c9c305af8f2a30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -1261,11 +2227,32 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:06534a204fb3cdb403149051804d5648
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:--каф.
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a58b9978ccfae60faa7e2d2e749ae56f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251025T131500Z
 LOCATION:--каф.
 DTSTART:20251025T114500Z
 SUMMARY:ЛР Концепции машинного обучения
 UID:e99efd7e51d8d64f26a5f5af5a79be5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:dd2635b2764236a3be7c60ffb8f2818f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260313T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:3a4c902a5040498a3dbb945fe81b4e3d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T113000Z
@@ -1297,12 +2284,26 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:0985ed69f770a6fdd1b6a64cfee64165
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:c35277a416f76a2cb219de4f37a31588
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251020T091500Z
 LOCATION:5-422
 DTSTART:20251020T074500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:007267c4d9a636688a46695c7239e0c8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260317T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:bb945339e39abd165d34d638e9191488
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T131500Z
@@ -1327,11 +2328,33 @@ SUMMARY:Экзамен Теория графов
 UID:add9172276ea6db4fa99e162a84aea88
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260328T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:088c76edfceabc140d0122be4f649da1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260413T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260413T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:963455d7a2ab64fd3632fe849a35f701
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T073000Z
 LOCATION:--каф. 919
 DTSTART:20251217T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:55af42c7c9988473e6967fa9a8cf1492
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:79b37ba9db67be3a398ff11ecffa6014
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -1364,6 +2387,13 @@ SUMMARY:ЛК Основы криптографии
 UID:98b503abb9b892b7f69633e60cfaf7e5
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:adbb50d551f714160ca978c2496154f9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251124T073000Z
 LOCATION:--каф. 919
 DTSTART:20251124T060000Z
@@ -1377,6 +2407,13 @@ LOCATION:5-122
 DTSTART:20251124T114500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:febfa6a518018acc17c09e4db52799ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:--каф. 919
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2776f6f6e7fe04457c9c814378c9e717
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251201T131500Z
@@ -1393,12 +2430,26 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:1c10391d48fe5cb2658617e21626457d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T073000Z
+LOCATION:--каф. 919
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2c4be5407ab6e7b79083dadc8e4e6360
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251114T073000Z
 LOCATION:5-101
 DTSTART:20251114T060000Z
 SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
 UID:8ba7d0ac8618119c6199523e65200c23
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:--каф. 919
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:54e112152a6f1005b1b027b180434885
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T113000Z
@@ -1422,11 +2473,25 @@ SUMMARY:ЛР Компьютерная графика
 UID:ce81d06d37007bdd98a1694f751fc5b0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260314T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:d20c8305c79e5c684c9e9a7f872a2a22
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T131500Z
 LOCATION:--каф.
 DTSTART:20251205T114500Z
 SUMMARY:ЛР Основы криптографии
 UID:0ac3989c0d6d7e8d9265c90f0b1552c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260310T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:e58741ede5245902df76ff8c2529148c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T091500Z
@@ -1443,6 +2508,20 @@ SUMMARY:ЛР Практикум IT-разработки
 UID:d46716e2e6e956a2357f7af63ad3a886
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260327T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:51da19a877c8ed877628de90ceb18e98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260407T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:0a962ca4cdfe21e85218c4e841c78058
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T073000Z
 LOCATION:--каф. 919
 DTSTART:20251001T060000Z
@@ -1456,6 +2535,21 @@ LOCATION:ГУК Б-652
 DTSTART:20250924T074500Z
 SUMMARY:ПЗ Теория графов
 UID:c867f0f80b8183790991a4eef42a42f5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф.
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:924dcb696d016d975c165193c68ec2ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260427T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:658b0ec5d232a8c50de0e755accf312a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T131500Z
@@ -1512,6 +2606,20 @@ SUMMARY:ЛК Теория графов
 UID:f9f9882d0819d3baf179a51a4241b286
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260512T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260512T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:7a9a2848471d11a3338c5b62609c4dbb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260318T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:86042464f05c1f5b7955d4f9fc477bf0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T131500Z
 LOCATION:--каф.
 DTSTART:20251122T114500Z
@@ -1519,11 +2627,32 @@ SUMMARY:ЛР Концепции машинного обучения
 UID:86462eaddb793924cdf92721c986596b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф.
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7a6ff39c7240417bd5e6a190ff659196
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251115T131500Z
 LOCATION:--каф.
 DTSTART:20251115T114500Z
 SUMMARY:ЛР Практикум IT-разработки
 UID:eecf77edee38c4b03cfcc93377778bd8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260520T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:3381682fa7e6beef1ec9cdef5059be01
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260227T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:dc6e9660c4323d586b746ed7c914915e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -1541,6 +2670,13 @@ SUMMARY:ЛК Численные методы
 UID:616fbf3b0508f3a14a4d6589bd6335fe
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:69e6842eadb0749e8fc1099208e15d0d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T113000Z
 LOCATION:--каф.
 DTSTART:20251204T100000Z
@@ -1555,6 +2691,13 @@ SUMMARY:ЛР Практикум IT-разработки
 UID:e2d1e4c2a986a30c51a809cfe4f0a72b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260302T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:f23bba80ed437e780aa3c480cf68ad4b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T073000Z
 LOCATION:--каф.
 DTSTART:20250925T060000Z
@@ -1562,11 +2705,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:7ac75a7a1f623f5ca67445332b7af0cd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф.
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b5491e4e8f7c1dc9fd87b023c6b8630c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:7a511d7a2a81204bdc4ca84f5f72f5d7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251112T113000Z
 LOCATION:ГУК В-228
 DTSTART:20251112T100000Z
 SUMMARY:ЛК Компьютерная графика
 UID:d27f9940dcbca0278a552d3a7089a717
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260519T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:6310b79339a77681a5387f11ed547baa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260323T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260323T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:e27d04c0c1e91c205c284c57881b5df5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -1590,6 +2762,35 @@ SUMMARY:ЛР Численные методы
 UID:f15cb2cc47a618d79e2ccd31e0717b27
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260401T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:d48692aab129ef1ce2c9e09e4c97a677
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260420T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260420T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:460a4ec9131fe1f49d684d0f8c805fff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260520T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:f28af30b7f49c51f54c1d705425b251c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260213T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:7f05eb35ce7895f6f64ca734d82c52d8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20250924T131500Z
 LOCATION:ГУК Б-444
@@ -1598,12 +2799,55 @@ SUMMARY:ЛК Теория графов
 UID:9dd2145d784f1d1ec4e16da8be668d11
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260411T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260411T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:c8b7c9b1fc8644a585f6c9e0f35410f8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260216T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260216T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:9bb2e4f41978b8efbf26f41c1b6991c6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:b81356457f9b3ed99c5d98e4684bdb5b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20250905T091500Z
 LOCATION:5-101
 DTSTART:20250905T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:67d608aac04effa37f79abe702893e79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260410T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:3fa200c2d9ad1f13f1136d90a426fce8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260522T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:6b38c597fa90bf068ce1b15912a2b0dc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260311T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:25d424a1014fc29e12db957b05e2530c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T073000Z
@@ -1627,12 +2871,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:32a19f76a6838e0a1ca1c775a9ddd8b4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф.
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c07fa60b49997062490a91971af48e92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c8f7750987e960a0545ee1df69128976
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251114T131500Z
 LOCATION:ГУК Б-324
 DTSTART:20251114T114500Z
 SUMMARY:ЛР Математическая логика
 UID:66c353153979a3d7981f4cc66db9869a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:--каф.
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:efc6856f030a034fac1515edb05c9708
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T131500Z
@@ -1647,6 +2912,21 @@ LOCATION:--каф.
 DTSTART:20251220T100000Z
 SUMMARY:ЛР Концепции машинного обучения
 UID:9c3c85d92b9a181c34711fbe02ee40eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260522T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:d45a9b29aecafb36e0d2cd63ab54ace5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260302T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260302T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:2f5ab94bbb0fa6058d014ce5baa76e88
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -1685,11 +2965,32 @@ SUMMARY:ПЗ Военная подготовка
 UID:bca5e3d6bf0f862019878fbc36db4bac
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260209T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:f351d053fae74724aa1fab0cb092db80
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250924T073000Z
 LOCATION:--каф. 919
 DTSTART:20250924T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:00cc53a76247153ffd094eddd79dc6b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fce1606bf35057bf81cf4a4c64ae08f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260522T100000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:4cc6f9f5b866915bc9afced251473fd0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T113000Z
@@ -1714,6 +3015,34 @@ SUMMARY:ПЗ Военная подготовка
 UID:68a078c3bc212f0cacb8d7e1deecf791
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260606T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260606T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:dc6727f384de35aa2da1b369b2acd143
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260324T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:02efbf9b2f21f22b7e4a479675dc0029
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:--каф.
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:32276f344226fdfe0c15aa30a3b2759c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260331T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:2047764bd99fa990da6ad2f3b4700a2b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T091500Z
 LOCATION:--каф.
 DTSTART:20250925T074500Z
@@ -1736,11 +3065,25 @@ SUMMARY:ЛК Компьютерная графика
 UID:421173298156061b18a4f06216fb6765
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260424T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:6db30664bfcc48c60870c2bb403a3c2c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T073000Z
 LOCATION:--каф. 919
 DTSTART:20251126T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:1a03166fabe1732c93dbef3abf6881c6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260304T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:3efa35d20042876c98d6f4a2b52a285c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T073000Z
@@ -1793,11 +3136,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:ca7c405864aec8c09711ba8e6cec203f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:--каф.
+DTSTART:20260604T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1503d347af9338a3c1585d523fe34c41
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250927T131500Z
 LOCATION:--каф.
 DTSTART:20250927T114500Z
 SUMMARY:ЛР Концепции машинного обучения
 UID:493becd316b9fbf7ce9e133c9d89652f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260513T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:58f7f309e780d7547fd53c9fd85cc2c7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T073000Z
@@ -1835,6 +3192,20 @@ LOCATION:--каф.
 DTSTART:20251225T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e2cd1e91c9c9a2f09c247212316c95e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:8fd0428ce13af866740d2e751570455a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260421T100000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:1c847511802c9eac93771bc62780b51b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T091500Z
@@ -1880,11 +3251,39 @@ SUMMARY:ПЗ Военная подготовка
 UID:eef4c8b8bb0cec8c18437d093fceaa29
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260224T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260224T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:a5e6986cc812c5bb01264d337e0760a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:feca7e2ea44e3bb5ef414c9a502180b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260401T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:9b694fc5470f17092da736de7f8f387a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T091500Z
 LOCATION:--каф.
 DTSTART:20250911T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:3574e22c1f7cc6211ab20b763f94e418
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:780df8530b403ad36ee9169466f1211b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -1937,6 +3336,20 @@ SUMMARY:ЛК Основы криптографии
 UID:d02c1a1309aab0770d4b32700b5d8740
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф.
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:186cba093a663b7370b8bbc6d72c760c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:5850856f987933e7416cc3ff274a014d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20251128T131500Z
 LOCATION:ГУК Б-324
@@ -1945,12 +3358,40 @@ SUMMARY:ЛР Математическая логика
 UID:60f52b2e371493a884016dc6166efb74
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:09a335e494da50f42557eb5835dd833f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:--каф. 919
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c891f4be4dfb232adde714d3e4547071
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20251021T073000Z
 LOCATION:ГУК Б-637
 DTSTART:20251021T060000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:59e7cc91551d2603f26dcab232c38c6c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260325T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:9657b65f8a406315369b77c046b2a5a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ce0a63fec9be0350c7b1f15005190764
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -2020,11 +3461,25 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:f342d2210e1b84af8a790e54cf441698
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d9fffdebfc39ad92279c32ce40d06c36
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251107T113000Z
 LOCATION:--каф.
 DTSTART:20251107T100000Z
 SUMMARY:ЛР Основы криптографии
 UID:dfd5c75dc64f665caf28417f7f3698bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:292ad620a5514983bab750c40a864e76
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T131500Z
@@ -2039,6 +3494,13 @@ LOCATION:--каф.
 DTSTART:20251103T114500Z
 SUMMARY:ЛР Компьютерная графика
 UID:fd36c2723994c058f986e15835b36cbe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:--каф. 919
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:568d0c42a85f97e4fb6aa630eac37add
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -2064,11 +3526,46 @@ SUMMARY:ЛР Основы криптографии
 UID:b2b4267ab79d3ae53703d25709c00475
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260513T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260513T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:39b9506b31a7bf64fdc90319283c4404
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T073000Z
 LOCATION:--каф.
 DTSTART:20251127T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:828a43b2d00de1f442fa3dba8c60b12f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260410T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:7e267bfcf1d113502826ede1343e5793
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:--каф.
+DTSTART:20260409T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6e285e6504c627d05a253134c275d9e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260218T060000Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:651b50f713fa4f1b251d9d0115a0dee5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Практикум IT-разработки
+UID:5557c88069136b926584627556b18921
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T073000Z
@@ -2078,11 +3575,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:63afaf2a698f3e1613d41178db6ee361
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T091500Z
+LOCATION:--каф.
+DTSTART:20260604T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:652b0aa0854982565ba5a026b6bca8c4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T091500Z
 LOCATION:--каф.
 DTSTART:20251016T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:1dda20b7bf7e11573f09d8e7fc2236a5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260303T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:e50130155b9bad3506cba8ec3e082e5a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250901T073000Z
@@ -2092,12 +3603,62 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:e2679dd1f4ef3286d915996e6cac78e8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:45fd587684ff89d611be804f900cd28b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
 DTEND:20251222T131500Z
 LOCATION:5-122
 DTSTART:20251222T114500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:3e7c1fc6cdc6535a8aa87f40e46f7216
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260314T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:322ff803ea2e4993953dfc813b36a88c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260225T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:dcbeaf3b1b931e5580593a722b929963
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:--каф. 919
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2c876d3da6f49848b880f0f3749b5c90
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fbb2a6b1c2c4eec4d23209847e3e91d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260504T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260504T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:f1119dadcad896d300a2e6b3b1388993
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:8f397f1a495661435766cc042cd6cb28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
@@ -2121,6 +3682,13 @@ LOCATION:ГУК Б-444
 DTSTART:20251112T114500Z
 SUMMARY:ЛК Теория графов
 UID:a181ac7ccdadb97acdb2848841545bf1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:00c7f046b8c3717b0a4f2417d7cc8296
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260124T131500Z
@@ -2152,6 +3720,13 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:19f7ec927776b1e70e11f72c6b6ff7ce
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф.
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:85ea2a3edf80652ed00ce52f956cc503
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251219T113000Z
 LOCATION:--каф.
 DTSTART:20251219T100000Z
@@ -2164,6 +3739,13 @@ LOCATION:--каф.
 DTSTART:20250908T114500Z
 SUMMARY:ЛР Компьютерная графика
 UID:0036dec9356c442f9a408e20f84cfec3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260424T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:7ec88c88425893909c6c32ccb64ba6ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -2179,6 +3761,20 @@ LOCATION:--каф.
 DTSTART:20251211T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:5a42995347c26cd6d6bc00bd08503e1f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:9f0a6231f665ac82011e042b318154af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260311T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:0c0e259869958518d368187a0d5d0e70
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T091500Z
@@ -2215,6 +3811,71 @@ LOCATION:ГУК А-612
 DTSTART:20251216T100000Z
 SUMMARY:ЛР Численные методы
 UID:e5a7c850b1b65d8d7c85f05750944e37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260518T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:60292c388afc3181563d275bbd7407bc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260522T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:7525dadc3bb391baed8ebd5172ae5e35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7b7f04f0899411a37da4596c2c1d8077
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T113000Z
+LOCATION:--каф. 919
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4661f5534e078af76149a284716ddd70
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T073000Z
+LOCATION:--каф. 919
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c52becf5380bf39f1d0d61ba783b2701
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260420T091500Z
+LOCATION:ГУК Б-635
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:3914d2f72b459c6d7533eb1595a9e241
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:--каф. 919
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:feb7455ce5546a731f2001f0972f4dc3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:--каф.
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3e6c77d3ca3502784d92987cdfdb99d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T073000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260313T060000Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:80f6f01da1700a5b0fee0781ecc9fc0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
@@ -2254,12 +3915,26 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:3dd29b1314286c9d92bb617e3b09f1eb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:--каф. 919
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4fe5b8387d7c775c47b540cc325d61b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20251216T073000Z
 LOCATION:ГУК Б-637
 DTSTART:20251216T060000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:d27b8c802e85326b3ec769fe8d2ad540
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:51184db02c1fa0689e78677177653eec
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T131500Z
@@ -2274,6 +3949,13 @@ LOCATION:--каф.
 DTSTART:20251006T100000Z
 SUMMARY:ЛР Компьютерная графика
 UID:47f94561abe76e18f323a30d056ebe6d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260421T114500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:81eb981e1073e61b068b72ecc39abb5b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250917T073000Z
@@ -2297,6 +3979,34 @@ SUMMARY:ЛР Компьютерная графика
 UID:b804df61cb062c217c447d29216ec6c9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:--каф.
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c6aba4c2161e614c98a687e6a80db936
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T073000Z
+LOCATION:--каф. 919
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:8ec469679832bfd778d2b8869542a087
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260325T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:1090ac80db1a411db62c6d09289af439
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260411T100000Z
+SUMMARY:ЛР Реляционные базы данных
+UID:d8f9c31e8549424a91c86872cc4637ae
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20251111T073000Z
 LOCATION:ГУК Б-637
@@ -2313,12 +4023,47 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:d974162eee9f12fd3e7ca9414b110e60
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c1d7b96dfda5c31b66d36f0020e01d89
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260606T074500Z
+SUMMARY:ЛК Реляционные базы данных
+UID:d346eef41ab06447c66953cae2ddb2c7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:--каф.
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ac91136f6795cdbd1b82c9d99783081f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Алексеев Николай Сергеевич
 DTEND:20250917T091500Z
 LOCATION:ГУК Б-652
 DTSTART:20250917T074500Z
 SUMMARY:ПЗ Теория графов
 UID:918a00cac85b6259d046e0d564ee58cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:527c171fc062d4c921a2fb2f5e370924
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260529T100000Z
+SUMMARY:ЛК Разработка Web-приложений
+UID:a8c367db793303128c77049c299729fc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260116T131500Z
@@ -2343,11 +4088,25 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:c2f1834499a6ebb616dbdcf87fec2962
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260523T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260523T114500Z
+SUMMARY:ЛР Реляционные базы данных
+UID:5a3e462e76a956c73928578d584f334a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251220T091500Z
 LOCATION:ГАК-320
 DTSTART:20251220T074500Z
 SUMMARY:ЛК Практикум IT-разработки
 UID:6de3460aa42fad15b70f6f144fbe1393
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260227T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:baa0de7f6f23ac07f1e58479a0114ad5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T073000Z
@@ -2364,6 +4123,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:0dc7f40711f44740019ad44006b6b9bf
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260424T091500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260424T074500Z
+SUMMARY:ЛР Разработка Web-приложений
+UID:8c737d8e6035fe5bfd81d4e5e3d06a6e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260414T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:cb066406d832ffdb7fce6dd69b2be8cb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T073000Z
 LOCATION:--каф.
 DTSTART:20251120T060000Z
@@ -2376,6 +4149,13 @@ LOCATION:--каф.
 DTSTART:20250912T100000Z
 SUMMARY:ЛР Основы криптографии
 UID:396b9b6da0cb973bb87a2d94580bea83
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф.
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3dfbbb18abbd78e0df2f1c6fc42b59a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -2393,12 +4173,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:cae36d7183437462f8190d5832cd7749
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:96c9d98840bb273caffa74a54d0acb2e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251121T091500Z
 LOCATION:5-101
 DTSTART:20251121T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:0268e79327bc009cf50437a672e287a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7b223096e457c653252f5fb6ad5eec1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260225T060000Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:17061cea750af84bdd075738bb8d3311
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:--каф.
+DTSTART:20260312T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a0ad950e40d47799b581c9030a6cf5b9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250913T113000Z
@@ -2430,6 +4238,27 @@ SUMMARY:ЛК Основы криптографии
 UID:7b58c34245cd8ae1985357b26ef5cc8a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260216T073000Z
+LOCATION:--каф. 919
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:eae65004210e52f85163e66be9d82b4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260422T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:534142eceab90852931e4575431ff0de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260218T074500Z
+SUMMARY:ЛР Искусственный интеллект в задачах анализа данных
+UID:3272fa05d5a901ef203f7b684958a67f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T113000Z
 LOCATION:--каф.
 DTSTART:20251030T100000Z
@@ -2452,12 +4281,26 @@ SUMMARY:ЛК Практикум IT-разработки
 UID:30e3ae0216c6c646f68ed8300a3959c2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260511T113000Z
+LOCATION:2-301(2В)
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Искусственный интеллект в задачах анализа данных
+UID:8aadc3c92e76d39d90616336c95fa057
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ибрагимов Данис Наилевич
 DTEND:20250902T073000Z
 LOCATION:ГУК Б-637
 DTSTART:20250902T060000Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:4f633a5302ac02c60d754ad87cd3e4b2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260428T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:c607fd44c3c0d3d04ffd71bad9f2dbcd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T131500Z
@@ -2475,12 +4318,26 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:b3ccaa0a11c9dd319cfdcd9e45856ffa
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:effad1822270cc2688aa19fb90735278
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
 DTEND:20251003T091500Z
 LOCATION:5-101
 DTSTART:20251003T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:8dc2adbf1fd9b2c7efdaed3ed5b432f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:ГУК Б-444
+DTSTART:20260313T114500Z
+SUMMARY:ЛК Проектирование высоконагруженных сервисов
+UID:3ee5ab8bb4b299be8a97382459d0d1e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T073000Z
@@ -2498,11 +4355,32 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:dc2e4252a6f27743a8f8460ae22a7390
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d26fd6928aa85194d8699c97365fa58e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T073000Z
 LOCATION:--каф.
 DTSTART:20251009T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:bdc08927b6543f6c87fd57c36d6563d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T131500Z
+LOCATION:--каф.
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cead48e86a372c7f79e95a910e44933e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T131500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260217T114500Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:ea3f60a5b51a993dfa25128c2f022ac3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T113000Z
@@ -2520,6 +4398,21 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:c84b85de9c0fde166d7306fb907fc694
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20260323T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260323T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:eccddc864c3a84ea702ee080e070f4ec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260603T074500Z
+SUMMARY:ЛР Проектирование высоконагруженных сервисов
+UID:d4ebab0a6d6990f3a3ce314faaeeae20
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251113T113000Z
 LOCATION:--каф.
 DTSTART:20251113T100000Z
@@ -2533,6 +4426,13 @@ LOCATION:5-122
 DTSTART:20251110T114500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:2649de1d15bbba80c120ab12baca1138
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T113000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260317T100000Z
+SUMMARY:ЛР Практикум IT-разработки
+UID:7c5d29d16a653937a5eff5353af0fc03
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251220T131500Z
@@ -2562,5 +4462,12 @@ LOCATION:ГАК-320
 DTSTART:20251122T060000Z
 SUMMARY:ЛК Основы криптографии
 UID:3ad8e997499d1927ea52f9df0fb9831f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5d96b833d57b3f907a604b52b0fe3fd3
 END:VEVENT
 END:VCALENDAR

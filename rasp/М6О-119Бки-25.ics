@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251204T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251204T060000Z
-SUMMARY:ЛК Общая физика
-UID:636fd446d65b315e9293c64665da7f44
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251208T113000Z
 LOCATION:Орш. В-403
 DTSTART:20251208T100000Z
@@ -16,48 +9,28 @@ SUMMARY:ЛК Алгоритмические языки и программиро
 UID:2281b3639f973a2f42853ca9afbe206d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T131500Z
-LOCATION:--каф. 919
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:e54bcd0eb4ecba8ffbb8b9c50a8362f6
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260314T113000Z
+LOCATION:7-416
+DTSTART:20260314T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:a2fe7a072bc2af9bf2903484566c85c6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251128T113000Z
-LOCATION:24-402
-DTSTART:20251128T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:427a6321a68aa8719021a711a5394131
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260430T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260430T100000Z
+SUMMARY:ЛК Правоведение
+UID:d08c6f4bc0ff912e6267ea8bddcd281b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251127T060000Z
-SUMMARY:ЛК Общая физика
-UID:0ad6bfb54042c2b4ef71bf677309ccd5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251212T131500Z
-LOCATION:24-402
-DTSTART:20251212T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:3faeaeb9a13b0449d3430b6a2ac73120
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T131500Z
-LOCATION:--каф. 919
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:88e01b801818642201a05652996a5eba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251028T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:50bd1119de9e979d05b9fb6f2599194f
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260415T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260415T060000Z
+SUMMARY:ПЗ История России
+UID:2b0792be613e28d5fab1fb10f96fd778
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T150000Z
@@ -67,12 +40,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:6032e2558db9db693f65b19ba4aa9097
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251226T113000Z
-LOCATION:24-402
-DTSTART:20251226T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:2e01b42503d8d25c62f870f0ce743142
+DTEND:20260310T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260310T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:684e173c1f4a3afa6c934421d0e748da
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T073000Z
@@ -80,6 +52,13 @@ LOCATION:ГУК В-228
 DTSTART:20251009T060000Z
 SUMMARY:ЛК Общая физика
 UID:8aebcef607f005cac8052f6ac5ce7ad7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260227T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:9e02dedcdcf41bf4c5d5b6131d769c6c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T073000Z
@@ -96,18 +75,12 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:2ce5444cc7eb5e296beed9f86cb72df9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:ГАК-320
-DTSTART:20251008T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:bc8c0605bedc962cd7fe2b3bf0b02734
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:7-401
-DTSTART:20251017T074500Z
-SUMMARY:ЛК Математический анализ
-UID:90410c762d00ec9cc372ed5184c0e64f
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260318T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260318T074500Z
+SUMMARY:ЛК История России
+UID:fdc503b9b58b37c5a7d67e0526047e1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калимуллина Эльвира Ринатовна
@@ -118,48 +91,27 @@ SUMMARY:ЛК Экономическая теория
 UID:be3d0a5c69019e49ee3c2f02ce284692
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:7-401
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Математический анализ
-UID:53b1d86e2a392c5f631fb055bfef80c3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251205T113000Z
-LOCATION:24-402
-DTSTART:20251205T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:99081eced450e4ea896e4a1beaa7e8c7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T073000Z
-LOCATION:--каф. 919
-DTSTART:20251121T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:5cccf71a48c48460b7f7d4be5f95e719
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251014T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8c8939754c8e5b7e7140521e45c8f9ea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251121T113000Z
-LOCATION:24-402
-DTSTART:20251121T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:6d30b6f6809f1c367c826fcf769f1399
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T073000Z
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260424T091500Z
 LOCATION:ГУК В-228
-DTSTART:20251218T060000Z
-SUMMARY:ЛК Общая физика
-UID:b51c17745afd3ce59ce1692fb8f39ac1
+DTSTART:20260424T074500Z
+SUMMARY:ЛК Математический анализ
+UID:bb52436b0a688650e5d69dc4d5294d20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260515T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260515T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:3a271dae0a6f6cec290bcf83f985b714
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260508T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:307e6d21eb224840f6673722014d2636
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T073000Z
@@ -169,18 +121,33 @@ SUMMARY:ЛК Общая физика
 UID:a6761ab2c824acc97fc30c29c40cbc0c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260328T131500Z
+LOCATION:7-416
+DTSTART:20260328T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:a6b9dbf73f58c45c3327d7e042c7bc4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:bec6ff0865f2e9251c4db692202116ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:4069c1456917792f946065e3f8ff753b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T091500Z
 LOCATION:Орш. В-403
 DTSTART:20251006T074500Z
 SUMMARY:ЛК Алгоритмические языки и программирование
 UID:075787177fc432f7c482c41c30c49d9b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251022T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:cb6266cb1e6e713778ea6cec560d332d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T091500Z
@@ -190,6 +157,13 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:a138ea6381172d74222df5c1e54a1580
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T073000Z
+LOCATION:--каф. 919
+DTSTART:20260604T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f2fcb3250160d99565ce85cd774178d5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T131500Z
 LOCATION:ГАК-320
 DTSTART:20251126T114500Z
@@ -197,25 +171,12 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:6e0a51a75b55abc684e91403f9558560
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251009T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:149f5774b3d0e8b06b8a707a8557f7a4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251023T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:38ab5d3c31985539984986fea25ac24f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251014T100000Z
-SUMMARY:ПЗ Общая физика
-UID:b17dbb735d69b81f97c55c394e2263a3
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260520T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:ca005fb01c4f9facd337dec6cd91b062
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T113000Z
@@ -225,77 +186,35 @@ SUMMARY:ПЗ Математический анализ
 UID:cb8f151a8a3e0e01f83e064cee399fe6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251003T131500Z
-LOCATION:24-402
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:a4fd77f1ca317085644aa40bc0881e3f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:7-401
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Математический анализ
-UID:07b00f5c718ab99c6a15e61b848a16fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260121T091500Z
-LOCATION:ГУК Б-632
-DTSTART:20260121T074500Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:d03e1eb5e849f5aa149c8d1c76c378fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251125T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:cfd9bfcd6fe291da0acb2ff9ac184faf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:a2d9e6be763bfe9eae0bdfff62d34173
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251017T113000Z
-LOCATION:24-402
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:9cb784a519d315a840dfe27be44325fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251029T060000Z
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260429T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260429T074500Z
 SUMMARY:ЛК История России
-UID:b5b0469d1eac006f0a65450bb4736d93
+UID:5916bd7d37eac3b714c29df894a1954c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251111T100000Z
-SUMMARY:ПЗ Общая физика
-UID:f0208154e501a0dd6be47e92f95f9266
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260514T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260514T114500Z
+SUMMARY:ЛК Химия
+UID:e1861718c9b9b202e200c222f18b50b5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251215T073000Z
-LOCATION:Орш. В-403
-DTSTART:20251215T060000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:24f4c1bdf3683ac0b9530b3b534d7993
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260528T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260528T114500Z
+SUMMARY:ЛК Химия
+UID:87dcf43a3d085f216788032490bb92f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251205T131500Z
-LOCATION:24-402
-DTSTART:20251205T114500Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:2aa995aeceece3fa975d7fc0d0b39eeb
+DTEND:20260514T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Философия
+UID:afe34ebb949dda7320d5cf0a00c70b95
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T091500Z
@@ -305,40 +224,27 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:80fe32654a95a44ccf7485d79cc21916
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251215T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251215T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:e045f1e0bd830780461622029575c4af
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260408T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260408T074500Z
+SUMMARY:ЛК История России
+UID:9ee9b5a6074de5f9ca85c1707c3a28e2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251210T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:bdc2a86ff20730f4e90bcbeea2299c3c
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260311T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:390316dbf794e0cc9d18d453dd793e52
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251211T060000Z
-SUMMARY:ЛК Общая физика
-UID:c2422aa70dd9a0d5d883cd9e0a3b42b7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251002T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:44e0b839b50acdf9ac43aa55f25c34f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251010T113000Z
-LOCATION:24-402
-DTSTART:20251010T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:a9e2e2fc0f89d41d80668a99f3d28adc
+DTEND:20260526T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260526T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:9e547c35703e293fcb819f3734f104a8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251021T113000Z
@@ -355,48 +261,20 @@ SUMMARY:ПЗ Физическая культура
 UID:bc95fdf4a1c1ed3b0f954e3120ea87e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251201T131500Z
-LOCATION:5-425
-DTSTART:20251201T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:f4e54059cd35f0a1e93b7798a81635da
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260427T164500Z
+LOCATION:Орш. В-314
+DTSTART:20260427T151500Z
+SUMMARY:ЛР Общая физика
+UID:f5901521d2734d0f8d91dd54f33b71ae
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251022T131500Z
-LOCATION:ГАК-320
-DTSTART:20251022T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:2c289639676ce6c5f488e68af2533e7d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:ГАК-320
-DTSTART:20251210T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:d3199a97fafd16c7b577ae5d0f98fe72
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251020T131500Z
-LOCATION:5-425
-DTSTART:20251020T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:4095784051fd6b83f519cbe276ede98e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:--каф. 919
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:84f1134578604389b22654a006451ac9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251125T114500Z
-SUMMARY:ПЗ История России
-UID:1e7655b640528c7222b5611d01814e05
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260410T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260410T074500Z
+SUMMARY:ЛК Математический анализ
+UID:2bfaa59682a97c7d825670f20e97c627
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T073000Z
@@ -413,47 +291,26 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:cd1e92c2a78ec2386cc40e3427181521
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251006T131500Z
-LOCATION:5-425
-DTSTART:20251006T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:9ca55098535746b98e9cebb1b53b3b28
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260228T131500Z
+LOCATION:7-416
+DTSTART:20260228T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:8376cd0c2093efed552784a71aaed475
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T073000Z
-LOCATION:--каф. 919
-DTSTART:20251219T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:b5150e3987f0d878919fb520b499a5a8
+DTEND:20260505T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260505T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:d84796fcddf37f6cf75d5f942c32e826
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251022T073000Z
+DTEND:20260521T091500Z
 LOCATION:ГУК В-221
-DTSTART:20251022T060000Z
-SUMMARY:ЛК История России
-UID:9c0b4a0002cbbeecb77422af33c806dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T073000Z
-LOCATION:--каф. 919
-DTSTART:20251024T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:4275ace130d802cd53b3bcc39858ea77
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251106T060000Z
-SUMMARY:ЛК Общая физика
-UID:896dae3f0d6e10de7c652444c4def0be
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T091500Z
-LOCATION:Орш. В-305
-DTSTART:20251110T074500Z
-SUMMARY:ЛР Общая физика
-UID:51e49a6fd64c3f7d04732df333a88ef1
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Философия
+UID:82c64601651b59852b984d9a31163d69
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T091500Z
@@ -461,27 +318,6 @@ LOCATION:ГУК А-407
 DTSTART:20251127T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:7eaa961cced5e7ec0c4f5bb69f66c783
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251201T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:d22fdbe8f550100cb33e7b8522aade8d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T113000Z
-LOCATION:Орш. В-403
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Алгоритмические языки и программирование
-UID:bbf35d024138ffd3edf90f35958c9fef
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251029T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:7d97bad29f1c8bbb5fed4f43ba126001
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T091500Z
@@ -505,12 +341,952 @@ SUMMARY:ПЗ Математический анализ
 UID:8e596e4b79092385ceea609a3518995b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20251117T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251117T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:750cec2d636a3aa899f04bd7e843ec13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260520T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260520T060000Z
+SUMMARY:ПЗ История России
+UID:5621523a8987d5f0e2b558c629352f39
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260424T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:bd7c3dae1b68436df7b1e5b39cfdb55c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251219T131500Z
+DTEND:20251128T131500Z
 LOCATION:24-402
-DTSTART:20251219T114500Z
+DTSTART:20251128T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:6c61d7be7edfb4003682ca47ac993b71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260410T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:c207ba6fac83e39cb1ee2793c3d69c77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260212T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:88c9286fcbe634004e952b41b6b18732
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф. 919
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e246a9992537324d42a8b18b4d042f6b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T131500Z
+LOCATION:ГАК-320
+DTSTART:20251029T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:66265c9aa4d6de55603dbfca1264b31e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T131500Z
+LOCATION:--каф. 919
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:15888ce6e051ad443d4f3fe1d1c59d6a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251225T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:5f9c3c826d8fda5349e4c525be24059f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260219T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260219T114500Z
+SUMMARY:ЛК Химия
+UID:41a5b8ec4bdb76a5998d411c7c84b082
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260415T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:17702ed23ea7bf4de939055124bad2a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260527T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260527T060000Z
+SUMMARY:ПЗ История России
+UID:442240cac5ff7258db20c3607b4b36ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260311T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260311T074500Z
+SUMMARY:ЛК История России
+UID:de5f81d8991529ad93ea7ddc0104cc09
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260317T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260317T074500Z
+SUMMARY:ЛК Общая физика
+UID:67ed0234b5034d81b108df963ae91cd6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251003T113000Z
+LOCATION:24-402
+DTSTART:20251003T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:37cf67e7f7841dba302975cbcd2d69ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260319T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260319T100000Z
+SUMMARY:ЛК Правоведение
+UID:ec8c9855f9ee8088f66e82da347eb578
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260224T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:72d29c440a8a5b569c0ffd021dc2dfca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260220T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260220T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:4a527027ed19a9efb540a3d9ee27121e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260318T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:87c8d0b8abdaf2be92418f82944031e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260325T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260325T074500Z
+SUMMARY:ЛК История России
+UID:9cb7902075109d3fad6dda1244e9a830
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260512T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260512T074500Z
+SUMMARY:ЛК Общая физика
+UID:97c80340c77b74e2e41c92cdc4d377ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260224T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260224T114500Z
+SUMMARY:ПЗ Общая физика
+UID:4208b4d53be8bb538939dc116d5e1350
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T073000Z
+LOCATION:--каф. 919
+DTSTART:20260310T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:11f0cfc45f9c001dbb9e99fbc6454904
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260324T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260324T114500Z
+SUMMARY:ПЗ Общая физика
+UID:6cee4ac9bda5f71b93241e460d8328fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260505T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260505T074500Z
+SUMMARY:ЛК Общая физика
+UID:c3a8bfcac0143086fa5aec9b5f2b3cba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251107T131500Z
+LOCATION:24-402
+DTSTART:20251107T114500Z
 SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:c47ad49d3b66e20f8481eede000f3704
+UID:f090fe323a560479b867d0a9eb347f48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260415T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260415T074500Z
+SUMMARY:ЛК История России
+UID:3eda31fc00a8fa14a3282a685dd84438
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф. 919
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1a2627f530d1389cc945983dc317afff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T073000Z
+LOCATION:--каф. 919
+DTSTART:20260519T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c13d96feb199dfdfa57f95c65352d339
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф. 919
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6b021e179587d7ccf21ab8f75599f7ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T131500Z
+LOCATION:ГАК-320
+DTSTART:20251203T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:73aadaf8a00ad04dd509001dd067ff5a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20251217T060000Z
+SUMMARY:ЛК История России
+UID:d75bb4034659ee9719914eb39cc80d0e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф. 919
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:397eac839967bc89a0d1674b3b0819ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251217T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:67026d19dfe605be16e159cb4b8e60f2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T073000Z
+LOCATION:--каф. 919
+DTSTART:20251205T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:090a90e0730f7bbf1bb2f1c3da7d160c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260220T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260220T100000Z
+SUMMARY:ПЗ Правоведение
+UID:535d54fa0f9c05d1263a46a2af729285
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251020T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:62d7f2b311f4022791e9c09d422618d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251119T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251119T060000Z
+SUMMARY:ЛК История России
+UID:e9c0eb6dfc8ff4b4415a4e796d946617
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф. 919
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:de715d0abf50085a5b54eb8751de67d6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251016T060000Z
+SUMMARY:ЛК Общая физика
+UID:6221730edf2a1d0a95075f8c9f6c8831
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260513T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260513T060000Z
+SUMMARY:ПЗ История России
+UID:546f7f6d8a76326dc53f8f50afc31fff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T113000Z
+LOCATION:Орш. В-403
+DTSTART:20251027T100000Z
+SUMMARY:ЛК Алгоритмические языки и программирование
+UID:e832be80fdf3652e32e4c2bb59465f86
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260410T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260410T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:0f81e2b52f7634d2ba7f915a28eff52a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T073000Z
+LOCATION:--каф. 919
+DTSTART:20260526T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:bf4f90a0d7c2b119b8b17d9b90369d06
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251112T060000Z
+SUMMARY:ЛК История России
+UID:7f1e3f2db55bef6f8133ba5a07859834
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260331T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260331T074500Z
+SUMMARY:ЛК Общая физика
+UID:bb59f1b2fc292fa2a4e196e0d6a701e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260417T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260417T074500Z
+SUMMARY:ЛК Математический анализ
+UID:e19c2f13474e79231784f1c243444215
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260516T113000Z
+LOCATION:7-416
+DTSTART:20260516T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:8dc53f3f8062987f53acf3f2e100bfce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260424T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:76b6dd15f8c14aece4d0c2fd84376c46
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260317T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b6cafba0fe57af5bcad793bb9ae8c439
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T131500Z
+LOCATION:ГАК-320
+DTSTART:20251217T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:b9467056fde6ed138ce31fe23c93ad19
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T073000Z
+LOCATION:Орш. В-403
+DTSTART:20251020T060000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:5300bf99f966d1e044bd29eda26328a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260228T113000Z
+LOCATION:7-416
+DTSTART:20260228T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:2cb30863fd3680279d0fae8977949a28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260506T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:d274fb9f55700a62a01bcb1d63610aac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Философия
+UID:117afab41ab1815b559311b6c19f384a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251029T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:e240886c61af209926251c8b5c58e4f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251107T113000Z
+LOCATION:24-402
+DTSTART:20251107T100000Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:055136a4f7026041af0be054bfd4a24c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251208T091500Z
+LOCATION:Орш. В-314
+DTSTART:20251208T074500Z
+SUMMARY:ЛР Общая физика
+UID:e9714725ee8dac478d0e144aac234292
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T091500Z
+LOCATION:Орш. В-403
+DTSTART:20251103T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:cb15a3d83ec9128d4110238e7e09d892
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260605T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:8b6edd86ef1fd592ee4fae6e55cbacb5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф. 919
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3cd98c53f939b48ed38800385a448fb9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260314T131500Z
+LOCATION:7-416
+DTSTART:20260314T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:6f89430d7620a6f1a3df3971407bf73d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251031T131500Z
+LOCATION:24-402
+DTSTART:20251031T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:2ee537133957b28098e8965154f7a28c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260421T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260421T114500Z
+SUMMARY:ПЗ Общая физика
+UID:440d257ebfe06a705dc19172cb6124ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260423T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260423T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:1c0f1f7e8e5fba1abfa401a74d9ced36
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260121T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20260121T060000Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:79a3cddc7f15c15474615757e0412163
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260411T131500Z
+LOCATION:7-416
+DTSTART:20260411T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:67bdbb40dd3635e537e40eae32cda456
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф. 919
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:655a737596b9c904625460433b52ac57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260507T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260507T114500Z
+SUMMARY:ЛК Химия
+UID:93e6684cbc33b77aba3486bda5cac270
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251117T131500Z
+LOCATION:5-425
+DTSTART:20251117T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:5b009d6ffbf1aa60ce22ec9487b93236
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251208T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251208T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:a1908d4d80afc8a5d3994403cbec394f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251008T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:2662c5baed109fb4adba40d1e0c82de1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T113000Z
+LOCATION:Орш. В-403
+DTSTART:20251222T100000Z
+SUMMARY:ЛК Алгоритмические языки и программирование
+UID:1d8b0da096e28143dd6e778571871c16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T131500Z
+LOCATION:--каф. 919
+DTSTART:20251009T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:1b18340e2de8a9ba4391f54685495b78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260305T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260305T114500Z
+SUMMARY:ЛК Химия
+UID:c56047ae9bfd0caa35699ab0f8f8b5ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260402T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260402T100000Z
+SUMMARY:ЛК Правоведение
+UID:e3b5d0b2eeb4a0d4fed228960a4c8a8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251230T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251230T114500Z
+SUMMARY:ПЗ История России
+UID:7651e2ed2bd13068ade2903866567b91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T131500Z
+LOCATION:--каф. 919
+DTSTART:20251023T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9f4f60c383e3a8e1f504f3e401e0776f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T150000Z
+LOCATION:ГУК Б-744
+DTSTART:20260425T133000Z
+SUMMARY:ЛР Химия
+UID:28a33cadf7f20b5d9dc1a4b8b5024762
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T150000Z
+LOCATION:ГУК Б-744
+DTSTART:20260411T133000Z
+SUMMARY:ЛР Химия
+UID:180e62854c2434f73015ad9fc561fed4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260401T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260401T060000Z
+SUMMARY:ПЗ История России
+UID:e55a839fbd929c4a5a6e7bc55b708622
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260320T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260320T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:23fdde63c2b58e8012504425c58e04ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260429T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:a6c4419695209284d385e0612e465aac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260512T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Общая физика
+UID:8a63a9e184e64f20b974a5db89b6f8d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260304T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260304T074500Z
+SUMMARY:ЛК История России
+UID:2f946b0495ed93cb62008ca69c1d7098
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T164500Z
+LOCATION:ГУК Б-744
+DTSTART:20260425T151500Z
+SUMMARY:ЛР Химия
+UID:e81c4febe69b65c912530fbfb41994a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Философия
+UID:0a86d3383d07e39793704e61bca27908
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251128T113000Z
+LOCATION:24-402
+DTSTART:20251128T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:427a6321a68aa8719021a711a5394131
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260602T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ad6a78224e9feb3788f8efc230b4b7ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260227T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260227T074500Z
+SUMMARY:ЛК Математический анализ
+UID:745b5db63f8bfbc5e009ab4a2066f713
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260515T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260515T074500Z
+SUMMARY:ЛК Математический анализ
+UID:28adbdd2cc5abe36f49df30ad76b0c1a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T131500Z
+LOCATION:ГАК-320
+DTSTART:20251008T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:bc8c0605bedc962cd7fe2b3bf0b02734
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260417T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260417T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:332042cac8bb8639f31aff6482afd59b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260424T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260424T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:817c9f8ec97e26d199c53ef4ba2f5a89
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T091500Z
+LOCATION:7-401
+DTSTART:20251017T074500Z
+SUMMARY:ЛК Математический анализ
+UID:90410c762d00ec9cc372ed5184c0e64f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260331T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e75dbd19c5408a1659f2843a30daa1ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260515T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:a6aa5708dc41c7b42f7d51a8344e5631
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:305c43fbe8b66e6a5b893e8bdb4b541e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф. 919
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4bf77ca2bdf9c57f4e0f990b7f823c0c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Философия
+UID:f40599871e8e75a660ca5f0f57d7a556
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260519T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260519T074500Z
+SUMMARY:ЛК Общая физика
+UID:6f89768c45c5adaf4b4c57bdfb936ed8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T150000Z
+LOCATION:ГУК Б-744
+DTSTART:20260314T133000Z
+SUMMARY:ЛР Химия
+UID:0bd3193adf168e50a655b6a203d6519e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251009T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:149f5774b3d0e8b06b8a707a8557f7a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260325T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:c4543a48e26515e9be9cbf649e4a72f9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251014T100000Z
+SUMMARY:ПЗ Общая физика
+UID:b17dbb735d69b81f97c55c394e2263a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T164500Z
+LOCATION:ГУК Б-744
+DTSTART:20260411T151500Z
+SUMMARY:ЛР Химия
+UID:cef93af230cd3bcd8fd307c135487e60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251003T131500Z
+LOCATION:24-402
+DTSTART:20251003T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:a4fd77f1ca317085644aa40bc0881e3f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260121T091500Z
+LOCATION:ГУК Б-632
+DTSTART:20260121T074500Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:d03e1eb5e849f5aa149c8d1c76c378fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260527T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260527T074500Z
+SUMMARY:ЛК История России
+UID:f3fbd4870208cdb2b3c95db7d66d459d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251113T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:a2d9e6be763bfe9eae0bdfff62d34173
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260502T113000Z
+LOCATION:7-416
+DTSTART:20260502T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:1f8a6332e049bb0e235ae408475ab7f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251215T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251215T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:e045f1e0bd830780461622029575c4af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф. 919
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:75f11514bcaaa90ddbcf0c434d2d371c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260217T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260217T074500Z
+SUMMARY:ЛК Общая физика
+UID:57f7bbdb0e0030080dc76ac7b4abe980
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф. 919
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e2007f17f7dca384dd02e02552309e4a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T131500Z
+LOCATION:ГАК-320
+DTSTART:20251022T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:2c289639676ce6c5f488e68af2533e7d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251020T131500Z
+LOCATION:5-425
+DTSTART:20251020T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:4095784051fd6b83f519cbe276ede98e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:--каф. 919
+DTSTART:20251106T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:84f1134578604389b22654a006451ac9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260515T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260515T100000Z
+SUMMARY:ПЗ Правоведение
+UID:2993577e87db032486a846494fac08bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T073000Z
+LOCATION:--каф. 919
+DTSTART:20251219T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b5150e3987f0d878919fb520b499a5a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260407T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f99f145484d1714f3757d8c22b7d7ac2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260409T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260409T114500Z
+SUMMARY:ЛК Химия
+UID:32d8d69b1d12291966bda5c286e3c36f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260311T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260311T060000Z
+SUMMARY:ПЗ История России
+UID:350f5313016bf07aacf5ca3c7899910f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260317T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260317T114500Z
+SUMMARY:ПЗ Общая физика
+UID:1c7e7024b477af9b02b9e52b5ea9ab41
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:bec96cd7c79e55ceeb85159c8e93470a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Философия
+UID:22c27909f4eb9f6ea69a576780ece453
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калимуллина Эльвира Ринатовна
@@ -528,33 +1304,943 @@ SUMMARY:ЛК Математический анализ
 UID:937802ee029cc199f0b9279c5cb2e374
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251222T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251222T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:27011be07105860b0439685e430e3cfc
+DTEND:20260409T073000Z
+LOCATION:--каф. 919
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3838cce980f5528d4ac7d4f13f3e3079
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T091500Z
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260420T164500Z
+LOCATION:ГУК А-626
+DTSTART:20260420T151500Z
+SUMMARY:ЛР Теоретическая механика
+UID:f61d0664edad86373437e15971a1100c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T091500Z
 LOCATION:ГУК А-410
-DTSTART:20251015T074500Z
+DTSTART:20251126T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:b25ad5c27d3dab3b6a9cadc3194f649e
+UID:e638dee9d37d67314400e25c89a4430d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251216T114500Z
-SUMMARY:ПЗ История России
-UID:f1ac4a984b9ed9d19f81df0cf88b16f6
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260219T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260219T100000Z
+SUMMARY:ЛК Правоведение
+UID:c3895c54318a6005f2dcd91cebc72443
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T150000Z
+DTEND:20260303T073000Z
+LOCATION:--каф. 919
+DTSTART:20260303T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b2f4fab858b71d076cdabf702a23fa4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T073000Z
+LOCATION:Орш. В-403
+DTSTART:20251103T060000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:619b1d1c468e65fbb0482a2316d28b07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260303T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260303T074500Z
+SUMMARY:ЛК Общая физика
+UID:fe5f69f7b7615f1e3edf7b6f1b8b06ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Философия
+UID:2dee18275a9abc5602266a891fe073b7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Философия
+UID:b3f96c937451a61e60a547850d7e7ff8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260313T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260313T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:d604f0dddd336c94dbdaede0bca24dbd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260520T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260520T074500Z
+SUMMARY:ЛК История России
+UID:e17f56529d2ef151446ab33a80a65892
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260508T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260508T074500Z
+SUMMARY:ЛК Математический анализ
+UID:3563e2a72967f4723e40d9eb14d576c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T131500Z
+LOCATION:ГАК-320
+DTSTART:20251015T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:c4884f64c5cfc302a99eea2b0e27bb2c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260307T113000Z
+LOCATION:7-416
+DTSTART:20260307T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:838c37e04725334ba76d95becaf32e24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260225T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:b70fa0f97f06e67833d4c32724498eb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260422T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:d89e8fba33e008fd8560a78415c0f950
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251217T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:d9b6a45a2ef30c8c2f8e4d748452e68c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260425T131500Z
+LOCATION:7-416
+DTSTART:20260425T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:8790e986338831e8e448de6918a63831
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260225T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260225T074500Z
+SUMMARY:ЛК История России
+UID:e9e3c2331b41a1247660fbfa4b078f98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251031T113000Z
+LOCATION:24-402
+DTSTART:20251031T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:b03b025b3cac0f207b4dcfba25ed710f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251224T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:27c1ee91e66a8382727f8bb87fe7a6ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T073000Z
+LOCATION:--каф. 919
+DTSTART:20260324T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ffd77d003af27c9d3be1110db7b11c0e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260327T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:35a996d96743df22996ea69b4120c6c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251124T150000Z
 LOCATION:2-201(2А)
-DTSTART:20251117T133000Z
+DTSTART:20251124T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:783d560f64d954489ebbaa5a757f4276
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260605T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260605T074500Z
+SUMMARY:ЛК Математический анализ
+UID:608b45f537ceb2b6bcefe4a17c64f5cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260323T150000Z
+LOCATION:ГУК А-626
+DTSTART:20260323T133000Z
+SUMMARY:ЛР Теоретическая механика
+UID:faa02e5d1651cbe5b0daf1819095db6e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251215T091500Z
+LOCATION:Орш. В-403
+DTSTART:20251215T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:eba33cd31e3366398a8890aa634a68b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф. 919
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:abf2cd08b398a321a86885846074e006
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T091500Z
+LOCATION:7-401
+DTSTART:20251128T074500Z
+SUMMARY:ЛК Математический анализ
+UID:8e77c101220249e86fe97db8346f98f0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251014T114500Z
+SUMMARY:ПЗ История России
+UID:b9a302088973a22c31875afa61aabea5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260325T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ История России
+UID:3b1d796ad9ac059c3d7325c43f3bc0ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260522T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260522T074500Z
+SUMMARY:ЛК Математический анализ
+UID:46f5779a7ab4509cb94f3c96e310b32e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251126T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:b089c00f9a3b1158c0a0de3702770bdf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T091500Z
+LOCATION:Орш. В-403
+DTSTART:20251117T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:d50154058f070bf09a10da9ebffcf92b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251021T114500Z
+SUMMARY:ПЗ История России
+UID:515df28a54de88668c29e1ebe68b9371
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251106T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:a53dc542151edd088044833d64133710
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260213T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:098ba3cf4bf0fc86803ec8754a8b183d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T131500Z
+LOCATION:--каф. 919
+DTSTART:20251204T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:2ee2e51f283c4d943787b40373797801
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260422T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ История России
+UID:e0e0f44762f43e61ebc3c1bfa12972cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260422T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260422T074500Z
+SUMMARY:ЛК История России
+UID:6fc65c3f18b16f2a40f4626f8598cf75
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T091500Z
+LOCATION:Орш. В-403
+DTSTART:20251201T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:589591f17cc98a72128cc651f708bc53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260307T131500Z
+LOCATION:7-416
+DTSTART:20260307T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:a317672dc63d037c29164f2acaa1ffaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260310T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260310T074500Z
+SUMMARY:ЛК Общая физика
+UID:8a88c7635bb01b79e5871d7bfbdd0ad2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260605T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:feb653834ec621eba8f7ad85c9297bb0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T091500Z
+LOCATION:7-401
+DTSTART:20251010T074500Z
+SUMMARY:ЛК Математический анализ
+UID:106dfd1a521e5cb58168de4bb3e1d04a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251203T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:4b45f4e28c0d68c7a648dd5111d51c6f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260113T113000Z
+LOCATION:ГУК Б-652
+DTSTART:20260113T100000Z
+SUMMARY:Экзамен Математический анализ
+UID:b59dbcc36431d748b3b0c713ee844b57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251215T131500Z
+LOCATION:5-425
+DTSTART:20251215T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:908d51e47c7aeebef7cb7da5c0d4f926
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20251224T060000Z
+SUMMARY:ЛК История России
+UID:73fecdbe9af2441df3186449ceb4fb41
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T073000Z
+LOCATION:--каф. 919
+DTSTART:20251003T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c91e59ac23dcdfa8176c6ca60b2e7e55
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251017T073000Z
+LOCATION:--каф. 919
+DTSTART:20251017T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:7349f1054ab97f9d5378541088fb9120
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T073000Z
+LOCATION:--каф. 919
+DTSTART:20260421T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:14737b026c170e055bc43ec293e71951
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251224T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:9aeeafdb4bd3c0a1866c6e287264b861
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251008T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:5be9fad4bdad913b68931310cb93c6a5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260602T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260602T074500Z
+SUMMARY:ЛК Общая физика
+UID:c23fcbe156a9d6dff12b1df6fa265fba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260403T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260403T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:375e9fabf509cb14d5a5ef454937bf37
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Философия
+UID:b57abf8f2ed9836aa10c35cde261f266
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T073000Z
+LOCATION:Орш. В-403
+DTSTART:20251201T060000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:7057ce3d95140e8c03aad4a0413674ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251119T131500Z
+LOCATION:ГАК-320
+DTSTART:20251119T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:f4ef9c921230ce294c2601ff4e12587f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T073000Z
+LOCATION:--каф. 919
+DTSTART:20251031T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e87bdae373d3955c02f18a14616fd90a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251105T060000Z
+SUMMARY:ЛК История России
+UID:8740d940e62091efee78aa8188aaab47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260316T164500Z
+LOCATION:Орш. В-603
+DTSTART:20260316T151500Z
+SUMMARY:ЛР Общая физика
+UID:bda74f59a21c19bf7b875a96a395efe9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251121T131500Z
+LOCATION:24-402
+DTSTART:20251121T114500Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:02d21fec4c64904eb41af2822b8e0d76
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260408T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:e30cef22e8df4bc77482ad757a2a5141
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251113T060000Z
+SUMMARY:ЛК Общая физика
+UID:d897423bd942f953abdf4d26c215efcf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Философия
+UID:333fd6104c5ce331d94fcecce68651ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260320T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260320T074500Z
+SUMMARY:ЛК Математический анализ
+UID:584ac75a690009b8cb1e4e3b3ecb34b9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251007T114500Z
+SUMMARY:ПЗ История России
+UID:5c696b15e740d9aa95b3b844741dbbe3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T113000Z
+LOCATION:Орш. В-403
+DTSTART:20251124T100000Z
+SUMMARY:ЛК Алгоритмические языки и программирование
+UID:dc1771bb8fea1de0ea0375086d4bad23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260327T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260327T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:281e5c04b0bda2c6b50aa68ceddd0b6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260528T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260528T100000Z
+SUMMARY:ЛК Правоведение
+UID:c554d7fbb579aa5773f13e914c40f133
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251223T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251223T114500Z
+SUMMARY:ПЗ История России
+UID:7a7903bbd29ba58bc19c972b1aa6bd16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251006T133000Z
 SUMMARY:ЛК Основы российской государственности
-UID:750cec2d636a3aa899f04bd7e843ec13
+UID:2c3b199dc12088642dc4f32a7a8fd569
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251226T091500Z
+LOCATION:7-401
+DTSTART:20251226T074500Z
+SUMMARY:ЛК Математический анализ
+UID:9d9360adb71dcc9531b9cc588810f856
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251028T100000Z
+SUMMARY:ПЗ Общая физика
+UID:70c8f1b3fb7fa130425f2dcd8a3551f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260221T131500Z
+LOCATION:7-416
+DTSTART:20260221T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:4f94028c545821988e0ba64545af00da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260413T150000Z
+LOCATION:Орш. В-605
+DTSTART:20260413T133000Z
+SUMMARY:ЛР Общая физика
+UID:dfd512a0ca19a376014076c61ab046c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260409T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:8998590a93673f0cce8c089270093240
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260529T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260529T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:0740f000b3cbcfcd2ac13480cbdeba82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260224T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260224T074500Z
+SUMMARY:ЛК Общая физика
+UID:c1fed9b0e2560849c81ef346adce7ec9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251118T100000Z
+SUMMARY:ПЗ Общая физика
+UID:3cc283cac5951b9ae70dc58795370f57
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T091500Z
+LOCATION:7-401
+DTSTART:20251114T074500Z
+SUMMARY:ЛК Математический анализ
+UID:db28493cdc0f175cc961e677874145e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251204T060000Z
+SUMMARY:ЛК Общая физика
+UID:636fd446d65b315e9293c64665da7f44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260213T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260213T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:463fb7ddf9fd9e45dca824e3df1166db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260529T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260529T100000Z
+SUMMARY:ПЗ Правоведение
+UID:d6b1423b71b0c158d9ec3e35b59fe48a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251212T131500Z
+LOCATION:24-402
+DTSTART:20251212T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:3faeaeb9a13b0449d3430b6a2ac73120
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T131500Z
+LOCATION:--каф. 919
+DTSTART:20251120T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:88e01b801818642201a05652996a5eba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260512T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:45e6305c713a5dea8e479b726cd6c5b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251226T113000Z
+LOCATION:24-402
+DTSTART:20251226T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:2e01b42503d8d25c62f870f0ce743142
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260407T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260407T074500Z
+SUMMARY:ЛК Общая физика
+UID:46a50f1b1bafa5a5f536ea989465303c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260326T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:846c142932bfae93ab223e25728a2c38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260406T164500Z
+LOCATION:ГУК А-626
+DTSTART:20260406T151500Z
+SUMMARY:ЛР Теоретическая механика
+UID:81965bbcfce7c456ba08de97eec12d0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260506T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ История России
+UID:8a139d56333d7f295a9d7c3aac2df5ae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T091500Z
+LOCATION:7-401
+DTSTART:20251024T074500Z
+SUMMARY:ЛК Математический анализ
+UID:53b1d86e2a392c5f631fb055bfef80c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260414T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Общая физика
+UID:743a54b80bf17f74755a4b52dfbd107d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251205T113000Z
+LOCATION:24-402
+DTSTART:20251205T100000Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:99081eced450e4ea896e4a1beaa7e8c7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251014T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:8c8939754c8e5b7e7140521e45c8f9ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251218T060000Z
+SUMMARY:ЛК Общая физика
+UID:b51c17745afd3ce59ce1692fb8f39ac1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260306T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260306T074500Z
+SUMMARY:ЛК Математический анализ
+UID:86d677f3ee73c2146f1b2a9ffbd4a231
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260213T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:ecdcc4fae2da34f228d359de4ca609b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260403T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260403T100000Z
+SUMMARY:ПЗ Правоведение
+UID:5cb6b6f8a641afe97e6b7eadd4a6d01b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251023T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:38ab5d3c31985539984986fea25ac24f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260320T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:5978a842f80e65d093f54b1c549512ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251125T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251125T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:cfd9bfcd6fe291da0acb2ff9ac184faf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251017T113000Z
+LOCATION:24-402
+DTSTART:20251017T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:9cb784a519d315a840dfe27be44325fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260304T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:57d9b141be5c2c0509f3f02ae3e939ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Философия
+UID:6813f431545228e847ba0badc33427cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260318T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260318T060000Z
+SUMMARY:ПЗ История России
+UID:6804859c08524d7fc080a35984f9c18c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260327T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:d6083d810849f53e19d65120cbad305a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251210T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:bdc2a86ff20730f4e90bcbeea2299c3c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260417T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:47ec9d9858d9d70e2858d697fa46713d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251002T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:44e0b839b50acdf9ac43aa55f25c34f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260324T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260324T074500Z
+SUMMARY:ЛК Общая физика
+UID:c0e95e975a2780833aecdf4f22894f04
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф. 919
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f91ad3ae88abb6f6a040f77e18f3e0b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260513T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260513T074500Z
+SUMMARY:ЛК История России
+UID:51bce04ff4f993cb46bedc0eaafbfb54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T131500Z
+LOCATION:ГАК-320
+DTSTART:20251210T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:d3199a97fafd16c7b577ae5d0f98fe72
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T150000Z
+LOCATION:ГУК Б-744
+DTSTART:20260328T133000Z
+SUMMARY:ЛР Химия
+UID:46eafbf9198e0b72bf30f2baf68e7ee5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260401T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:1a1107ee5110278bc18a4a2fec517c68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф. 919
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4d707caac1d6ba768b08b47104c2fcc5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251022T060000Z
+SUMMARY:ЛК История России
+UID:9c0b4a0002cbbeecb77422af33c806dc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251106T060000Z
+SUMMARY:ЛК Общая физика
+UID:896dae3f0d6e10de7c652444c4def0be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260513T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:ebf692e67a4f9d7ef09fc0ccd79837aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260414T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260414T074500Z
+SUMMARY:ЛК Общая физика
+UID:0d748b546ad5125494f1dfc699102375
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260529T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260529T074500Z
+SUMMARY:ЛК Математический анализ
+UID:51e1e98db413227e0fcdc92a9a407111
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260303T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:dc31f50ddc86f0b223f65e94ad44dc53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260316T150000Z
+LOCATION:Орш. В-603
+DTSTART:20260316T133000Z
+SUMMARY:ЛР Общая физика
+UID:556341fba43f25b3749d2edab85a2f06
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T113000Z
@@ -571,6 +2257,14 @@ SUMMARY:ЛК Общая физика
 UID:118ce7ac8730ba3434832755ad375501
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260423T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260423T114500Z
+SUMMARY:ЛК Химия
+UID:5731aa366c9adc35404ab6c176cad4f4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251126T060000Z
@@ -578,91 +2272,19 @@ SUMMARY:ЛК История России
 UID:6984d307e3854b5105abe427dc15bbe8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251126T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:e638dee9d37d67314400e25c89a4430d
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260530T113000Z
+LOCATION:7-416
+DTSTART:20260530T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:ad49a2a6f0e98e70f9b6d8be8acbb929
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T113000Z
-LOCATION:Орш. В-403
-DTSTART:20251110T100000Z
-SUMMARY:ЛК Алгоритмические языки и программирование
-UID:3364cbe3e67cbf8da7c102b63879c93c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251001T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:406a4b4d47520f3e51c80180c0e01458
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T091500Z
-LOCATION:Орш. В-403
-DTSTART:20251020T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:67ba461b40c1345b49c1476d76b52970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251128T131500Z
-LOCATION:24-402
-DTSTART:20251128T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:6c61d7be7edfb4003682ca47ac993b71
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251103T073000Z
-LOCATION:Орш. В-403
-DTSTART:20251103T060000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:619b1d1c468e65fbb0482a2316d28b07
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251212T113000Z
-LOCATION:24-402
-DTSTART:20251212T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:f29b87fd194f2ab428e6c0b6d79945dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T073000Z
-LOCATION:Орш. В-305
-DTSTART:20251110T060000Z
-SUMMARY:ЛР Общая физика
-UID:477db8aad9a6c1534649d05b9f94386f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T131500Z
-LOCATION:ГАК-320
-DTSTART:20251029T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:66265c9aa4d6de55603dbfca1264b31e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251219T113000Z
-LOCATION:24-402
-DTSTART:20251219T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:071e1a66e083d9d8d3de6144994e090e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T131500Z
-LOCATION:--каф. 919
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:15888ce6e051ad443d4f3fe1d1c59d6a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251225T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:5f9c3c826d8fda5349e4c525be24059f
+DTEND:20260403T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260403T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:22440b04f1f202428039d649ebff15f1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T113000Z
@@ -672,11 +2294,18 @@ SUMMARY:ПЗ Математический анализ
 UID:70da6c21323081833ec264235ddedacd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:ГАК-320
-DTSTART:20251015T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:c4884f64c5cfc302a99eea2b0e27bb2c
+DTEND:20260217T073000Z
+LOCATION:--каф. 919
+DTSTART:20260217T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:338abe5dbe2d0d293218b10129c65a42
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Философия
+UID:691e5244022bb7e2871610898460380b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T131500Z
@@ -686,54 +2315,34 @@ SUMMARY:ПЗ Физическая культура
 UID:e325839f3ae02f6f1d36562e7ef7d4e6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T131500Z
-LOCATION:ГАК-320
-DTSTART:20251112T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:6e0a73f9173342ac2ab84b6667504894
+DTEND:20260227T113000Z
+LOCATION:ГУК А-722
+DTSTART:20260227T100000Z
+SUMMARY:ПЗ Инженерная графика
+UID:b3f1850766e16da0c14a4b914c0dfc00
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251223T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251223T100000Z
-SUMMARY:ПЗ Общая физика
-UID:b8614f4d7f8141ef3733b7809a6d1ff3
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260306T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260306T100000Z
+SUMMARY:ПЗ Правоведение
+UID:fc8a9bb0d5d1793d8cabbda8b90d49cc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ История России
-UID:eb9adf42679dc946f9de63a3cfacb9cf
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260226T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260226T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:8d4ae448798650f1409e030d0642808c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T073000Z
+DTEND:20260414T073000Z
 LOCATION:--каф. 919
-DTSTART:20251010T060000Z
+DTSTART:20260414T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:97e9c4514e690b46ce2a9a940879cf42
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251003T113000Z
-LOCATION:24-402
-DTSTART:20251003T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:37cf67e7f7841dba302975cbcd2d69ef
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251119T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:9f81aba6c98ed90f80b8e3fb23123092
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251217T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:d9b6a45a2ef30c8c2f8e4d748452e68c
+UID:147b619839d67a45e6f3468e7b069656
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251229T150000Z
@@ -765,33 +2374,27 @@ SUMMARY:ПЗ Экономическая теория
 UID:7df25f503c0f1b837243a7d64acf48ac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251229T131500Z
-LOCATION:5-425
-DTSTART:20251229T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:0e6132c6e812fd272cf7d2d789772d5c
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260516T131500Z
+LOCATION:7-416
+DTSTART:20260516T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:1c9a9efcf60c37304537a67f1b9444f6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251001T060000Z
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260218T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260218T074500Z
 SUMMARY:ЛК История России
-UID:59f33bf94066f30ae5f72ff3a974f743
+UID:5b809697fb60ba773e810dfd37bc3b85
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251028T114500Z
-SUMMARY:ПЗ История России
-UID:fc446216d09da9caee42c31a2e43de4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251216T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:98e7a653981818e0625c2fc7635138b5
+DTEND:20260212T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Философия
+UID:6845090ba49a494e6c19950df859128d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T073000Z
@@ -801,57 +2404,11 @@ SUMMARY:ЛР Общая физика
 UID:3d951e68fb14d3f9e439b78205b1a561
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251030T131500Z
+DTEND:20260317T073000Z
 LOCATION:--каф. 919
-DTSTART:20251030T114500Z
+DTSTART:20260317T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:06f00f0f578ef6a6de5ecdacdfd38bf8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251024T113000Z
-LOCATION:24-402
-DTSTART:20251024T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:88a79af17cda92c48c7075624d5ceba6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251031T113000Z
-LOCATION:24-402
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:b03b025b3cac0f207b4dcfba25ed710f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251224T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:27c1ee91e66a8382727f8bb87fe7a6ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251107T131500Z
-LOCATION:24-402
-DTSTART:20251107T114500Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:f090fe323a560479b867d0a9eb347f48
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251124T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251124T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:783d560f64d954489ebbaa5a757f4276
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251021T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:3985f33483d9f6317a66ba827c1e2ee3
+UID:accdc393925091e2b8005bff7c3ef582
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T091500Z
@@ -861,42 +2418,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:d0baafc5575a266965ac2562316d912e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251010T131500Z
-LOCATION:24-402
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:49ea6d655730472193fe5e6d595aeef0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T091500Z
-LOCATION:Орш. В-403
-DTSTART:20251215T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:eba33cd31e3366398a8890aa634a68b3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:7-401
-DTSTART:20251128T074500Z
-SUMMARY:ЛК Математический анализ
-UID:8e77c101220249e86fe97db8346f98f0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251014T114500Z
-SUMMARY:ПЗ История России
-UID:b9a302088973a22c31875afa61aabea5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251209T100000Z
-SUMMARY:ПЗ Общая физика
-UID:481a095ca7f051e29069c9460b3412da
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251222T091500Z
 LOCATION:Орш. В-603
 DTSTART:20251222T074500Z
@@ -904,53 +2425,19 @@ SUMMARY:ЛР Общая физика
 UID:a1c7b53978dec4cd961c277d9609b28e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T131500Z
-LOCATION:ГАК-320
-DTSTART:20251203T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:73aadaf8a00ad04dd509001dd067ff5a
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260527T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:8756e58de0594d74f5ec90ecc1908c2f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T073000Z
-LOCATION:ГУК Б-444
-DTSTART:20251217T060000Z
-SUMMARY:ЛК История России
-UID:d75bb4034659ee9719914eb39cc80d0e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T131500Z
+DTEND:20260416T073000Z
 LOCATION:--каф. 919
-DTSTART:20251211T114500Z
+DTSTART:20260416T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:397eac839967bc89a0d1674b3b0819ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251126T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:b089c00f9a3b1158c0a0de3702770bdf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T091500Z
-LOCATION:Орш. В-403
-DTSTART:20251117T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:d50154058f070bf09a10da9ebffcf92b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251021T114500Z
-SUMMARY:ПЗ История России
-UID:515df28a54de88668c29e1ebe68b9371
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251217T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:67026d19dfe605be16e159cb4b8e60f2
+UID:a40288f51d1944a7fa8ec342ce8c5e27
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T131500Z
@@ -960,60 +2447,11 @@ SUMMARY:ПЗ История России
 UID:78a348a3dbfe3139db32479be9cf667b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T073000Z
-LOCATION:Орш. В-403
-DTSTART:20251117T060000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:1ce9a8ba29d539be0beec19ea823f4d1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251106T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:a53dc542151edd088044833d64133710
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251008T073000Z
 LOCATION:ГУК В-221
 DTSTART:20251008T060000Z
 SUMMARY:ЛК История России
 UID:d437e841c9f8beab9d5235ed97c46d4c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T131500Z
-LOCATION:--каф. 919
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:2ee2e51f283c4d943787b40373797801
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T073000Z
-LOCATION:--каф. 919
-DTSTART:20251205T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:090a90e0730f7bbf1bb2f1c3da7d160c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251125T100000Z
-SUMMARY:ПЗ Общая физика
-UID:7aed212da6fae94fa7946846f63ba28b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T073000Z
-LOCATION:--каф. 919
-DTSTART:20251107T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:08bad5caa96b12d6eeee4f9485c40e39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T091500Z
-LOCATION:Орш. В-403
-DTSTART:20251201T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:589591f17cc98a72128cc651f708bc53
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T131500Z
@@ -1023,61 +2461,35 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:fdadfc0150442a62b21df1a4a9827282
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251020T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:62d7f2b311f4022791e9c09d422618d5
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260428T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260428T114500Z
+SUMMARY:ПЗ Общая физика
+UID:159d829dc3650472dbe668f784e9e972
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:7-401
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Математический анализ
-UID:106dfd1a521e5cb58168de4bb3e1d04a
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260605T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260605T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:7fc94001cb92c3bf72fff151673d7aed
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251119T060000Z
-SUMMARY:ЛК История России
-UID:e9c0eb6dfc8ff4b4415a4e796d946617
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260507T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260507T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:81e65cf6600ae1d1812e193cf3a73518
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260113T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20260113T114500Z
-SUMMARY:Экзамен Математический анализ
-UID:eb9aba7275e5feea78d6924ad787bb7e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251016T060000Z
-SUMMARY:ЛК Общая физика
-UID:6221730edf2a1d0a95075f8c9f6c8831
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251114T131500Z
-LOCATION:24-402
-DTSTART:20251114T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:1acf1fe7f00a470281777c8ac4008a59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T073000Z
-LOCATION:ГУК Б-444
-DTSTART:20251203T060000Z
-SUMMARY:ЛК История России
-UID:93ab0af69dad7ab45bac9adfe85d6a37
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T113000Z
-LOCATION:Орш. В-403
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Алгоритмические языки и программирование
-UID:e832be80fdf3652e32e4c2bb59465f86
+DTEND:20260428T073000Z
+LOCATION:--каф. 919
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1e04eaa0507c83ac25dd8b829897c17c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T131500Z
@@ -1101,28 +2513,6 @@ SUMMARY:ПЗ Общая физика
 UID:0685cf76505a8cfe61c79d90881b3b99
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251203T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:4b45f4e28c0d68c7a648dd5111d51c6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260113T113000Z
-LOCATION:ГУК Б-652
-DTSTART:20260113T100000Z
-SUMMARY:Экзамен Математический анализ
-UID:b59dbcc36431d748b3b0c713ee844b57
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251215T131500Z
-LOCATION:5-425
-DTSTART:20251215T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:908d51e47c7aeebef7cb7da5c0d4f926
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тузиков Сергей Анатольевич
 DTEND:20251017T131500Z
 LOCATION:24-402
@@ -1131,75 +2521,41 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:1663d4f662b2932ea0419f4f0340f702
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260522T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260522T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:684aa064c5331f6d76ae6cae818da4f0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T073000Z
+LOCATION:--каф. 919
+DTSTART:20260407T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:149f685ef5bec11395726830ecf7704f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260217T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:daec1905e62cd6cd37fd956888502080
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф. 919
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:30972d368a836853f324e218eaeb8c35
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
-DTEND:20260126T073000Z
-LOCATION:ГУК Б-652
-DTSTART:20260126T060000Z
-SUMMARY:Экзамен Общая физика
-UID:3971b7a1eb0dec12d60c174921a41754
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:--каф. 919
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:e830bc9360955f40cbc7b146ec987966
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T073000Z
-LOCATION:ГУК Б-444
-DTSTART:20251224T060000Z
-SUMMARY:ЛК История России
-UID:73fecdbe9af2441df3186449ceb4fb41
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T073000Z
-LOCATION:--каф. 919
-DTSTART:20251003T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c91e59ac23dcdfa8176c6ca60b2e7e55
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T073000Z
-LOCATION:--каф. 919
-DTSTART:20251017T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:7349f1054ab97f9d5378541088fb9120
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251112T060000Z
-SUMMARY:ЛК История России
-UID:7f1e3f2db55bef6f8133ba5a07859834
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T073000Z
-LOCATION:Орш. В-603
-DTSTART:20251222T060000Z
-SUMMARY:ЛР Общая физика
-UID:c6ebbc08c7071d1ce5b4b101e6c1a0d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251224T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:9aeeafdb4bd3c0a1866c6e287264b861
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T073000Z
-LOCATION:ГУК Б-444
-DTSTART:20251210T060000Z
-SUMMARY:ЛК История России
-UID:45237baf12f63e6c5a741ce9e46fdb4f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251008T074500Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:5be9fad4bdad913b68931310cb93c6a5
+DTEND:20260310T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260310T114500Z
+SUMMARY:ПЗ Общая физика
+UID:c12a7f1cacf9305e4b2b8b2e107d708b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251223T150000Z
@@ -1207,13 +2563,6 @@ LOCATION:ГУК В-600
 DTSTART:20251223T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:6189cc4c645d9f0c78a3ae0a6aceb6b2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T073000Z
-LOCATION:Орш. В-403
-DTSTART:20251201T060000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:7057ce3d95140e8c03aad4a0413674ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T131500Z
@@ -1230,13 +2579,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:f926b213ecff5891255168d72dc4c96a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251007T100000Z
-SUMMARY:ПЗ Общая физика
-UID:bb9ef1cc0bcc81b178de6eced3920f45
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251210T113000Z
 LOCATION:ГУК А-410
 DTSTART:20251210T100000Z
@@ -1244,60 +2586,20 @@ SUMMARY:ПЗ Математический анализ
 UID:d2f1f9fd7a10bf812112f4cbd177ed8b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T131500Z
-LOCATION:ГАК-320
-DTSTART:20251217T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:b9467056fde6ed138ce31fe23c93ad19
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260416T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260416T114500Z
+SUMMARY:ЛК Химия
+UID:84d97b4874d659fc513cb0915703c790
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T073000Z
-LOCATION:Орш. В-403
-DTSTART:20251020T060000Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:5300bf99f966d1e044bd29eda26328a3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T131500Z
-LOCATION:ГАК-320
-DTSTART:20251119T114500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:f4ef9c921230ce294c2601ff4e12587f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T073000Z
-LOCATION:--каф. 919
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e87bdae373d3955c02f18a14616fd90a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251105T060000Z
-SUMMARY:ЛК История России
-UID:8740d940e62091efee78aa8188aaab47
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251202T114500Z
-SUMMARY:ПЗ История России
-UID:dc8dc8df47fa1118d990633241f29ebb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:e240886c61af209926251c8b5c58e4f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251230T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251230T100000Z
-SUMMARY:ПЗ Общая физика
-UID:a000fb8f6ab36eaa9096674c2a887f3b
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260218T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:f54fecde5ba6524728e726230ca904c0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251216T113000Z
@@ -1307,48 +2609,11 @@ SUMMARY:ПЗ Общая физика
 UID:c073d93132a90410e13829ddd400d81c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251107T113000Z
-LOCATION:24-402
-DTSTART:20251107T100000Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:055136a4f7026041af0be054bfd4a24c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T091500Z
-LOCATION:Орш. В-314
-DTSTART:20251208T074500Z
-SUMMARY:ЛР Общая физика
-UID:e9714725ee8dac478d0e144aac234292
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251103T091500Z
-LOCATION:Орш. В-403
-DTSTART:20251103T074500Z
-SUMMARY:ЛР Алгоритмические языки и программирование
-UID:cb15a3d83ec9128d4110238e7e09d892
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251111T131500Z
 LOCATION:ГУК Б-637
 DTSTART:20251111T114500Z
 SUMMARY:ПЗ История России
 UID:728b96d198ca8ac620fd341269f38d3a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251121T131500Z
-LOCATION:24-402
-DTSTART:20251121T114500Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:02d21fec4c64904eb41af2822b8e0d76
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:7-401
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Математический анализ
-UID:70495c5a2ed58a59ad0104cd8466b258
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T073000Z
@@ -1358,18 +2623,19 @@ SUMMARY:ЛК Общая физика
 UID:7962a68066014aa9820937291fc310d2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:ГУК В-228
-DTSTART:20251113T060000Z
-SUMMARY:ЛК Общая физика
-UID:d897423bd942f953abdf4d26c215efcf
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251114T073000Z
 LOCATION:--каф. 919
 DTSTART:20251114T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:824ae2989af847f58b8e4773f807ff01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260406T150000Z
+LOCATION:ГУК А-626
+DTSTART:20260406T133000Z
+SUMMARY:ЛР Теоретическая механика
+UID:f2ef6f538ca195b53676e4e3c295fd00
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T091500Z
@@ -1379,46 +2645,20 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:c7ab29f3db42a60ed2a725be9785792f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251007T114500Z
-SUMMARY:ПЗ История России
-UID:5c696b15e740d9aa95b3b844741dbbe3
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260428T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260428T074500Z
+SUMMARY:ЛК Общая физика
+UID:48258d6a9448f545ff7d36173658c6cb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251124T113000Z
-LOCATION:Орш. В-403
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Алгоритмические языки и программирование
-UID:dc1771bb8fea1de0ea0375086d4bad23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251223T114500Z
-SUMMARY:ПЗ История России
-UID:7a7903bbd29ba58bc19c972b1aa6bd16
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251006T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:2c3b199dc12088642dc4f32a7a8fd569
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T091500Z
-LOCATION:7-401
-DTSTART:20251226T074500Z
-SUMMARY:ЛК Математический анализ
-UID:9d9360adb71dcc9531b9cc588810f856
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251028T100000Z
-SUMMARY:ПЗ Общая физика
-UID:70c8f1b3fb7fa130425f2dcd8a3551f5
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260330T150000Z
+LOCATION:Орш. В-605
+DTSTART:20260330T133000Z
+SUMMARY:ЛР Общая физика
+UID:4b4c56155d40bdcaa7670493fa2d6e07
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T073000Z
@@ -1428,41 +2668,28 @@ SUMMARY:ЛК Общая физика
 UID:3a4062c5b7bc40d9a5cc6cb0acc8e523
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251114T113000Z
-LOCATION:24-402
-DTSTART:20251114T100000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:225721ceedc182333ed69d6454cb6eef
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260305T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260305T100000Z
+SUMMARY:ЛК Правоведение
+UID:6092ade3aeb2ac7cdf43d99159fe7d2a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251031T131500Z
-LOCATION:24-402
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:2ee537133957b28098e8965154f7a28c
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260321T113000Z
+LOCATION:7-416
+DTSTART:20260321T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:830e425be8862a7fb5277038f0612c1c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251124T091500Z
-LOCATION:Орш. В-305
-DTSTART:20251124T074500Z
-SUMMARY:ЛР Общая физика
-UID:bf6a26799cabcc73202b0130d106b126
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T150000Z
-LOCATION:ГУК В-600
-DTSTART:20251111T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:95d88187b1ebebf5f3278a591aa936f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260121T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20260121T060000Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:79a3cddc7f15c15474615757e0412163
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260404T131500Z
+LOCATION:7-416
+DTSTART:20260404T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:9716a1a28a6c79e1d2544d9d457d1146
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T091500Z
@@ -1472,63 +2699,11 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:dccf4c98a1d52f97c974da7eb4152bfa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T073000Z
-LOCATION:ГУК В-221
-DTSTART:20251015T060000Z
-SUMMARY:ЛК История России
-UID:407198420426c31a3a36b126900f85a0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251001T131500Z
 LOCATION:ГАК-320
 DTSTART:20251001T114500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:ddb1cf7560c34ecfdea893147296673b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тузиков Сергей Анатольевич
-DTEND:20251024T131500Z
-LOCATION:24-402
-DTSTART:20251024T114500Z
-SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
-UID:d801a2cdc6ef67ea306340cf04af905a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T113000Z
-LOCATION:ГУК А-410
-DTSTART:20251008T100000Z
-SUMMARY:ПЗ Математический анализ
-UID:2662c5baed109fb4adba40d1e0c82de1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251117T131500Z
-LOCATION:5-425
-DTSTART:20251117T114500Z
-SUMMARY:ПЗ Экономическая теория
-UID:5b009d6ffbf1aa60ce22ec9487b93236
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калимуллина Эльвира Ринатовна
-DTEND:20251208T150000Z
-LOCATION:2-201(2А)
-DTSTART:20251208T133000Z
-SUMMARY:ЛК Экономическая теория
-UID:a1908d4d80afc8a5d3994403cbec394f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T113000Z
-LOCATION:Орш. В-403
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Алгоритмические языки и программирование
-UID:1d8b0da096e28143dd6e778571871c16
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:--каф. 919
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:1b18340e2de8a9ba4391f54685495b78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Третьякова Ольга Николаевна
@@ -1539,6 +2714,29 @@ SUMMARY:Экзамен Общая физика
 UID:65f813eec8d4fb4ae2d898db4011286a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260519T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260519T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:359562f4d1429708266c28de6ff5d380
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260519T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260519T114500Z
+SUMMARY:ПЗ Общая физика
+UID:7863b05d30efad53706b9452a6ede984
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260508T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260508T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:fe115024d90c1b4e88741452f22b9160
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251128T073000Z
 LOCATION:--каф. 919
 DTSTART:20251128T060000Z
@@ -1546,11 +2744,12 @@ SUMMARY:ПЗ Физическая культура
 UID:ee0cbfec2d7eed9b8cf873097be57686
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251230T131500Z
-LOCATION:ГУК Б-637
-DTSTART:20251230T114500Z
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260429T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260429T060000Z
 SUMMARY:ПЗ История России
-UID:7651e2ed2bd13068ade2903866567b91
+UID:3af59566258c341df950e255301dc8c7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251203T113000Z
@@ -1560,6 +2759,14 @@ SUMMARY:ПЗ Математический анализ
 UID:1063e6d5c050e560f056f52c14a52aa7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260404T113000Z
+LOCATION:7-416
+DTSTART:20260404T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:65d1731c72017be2799c6f9de4f3d152
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T113000Z
 LOCATION:ГУК А-410
 DTSTART:20251001T100000Z
@@ -1567,11 +2774,1000 @@ SUMMARY:ПЗ Математический анализ
 UID:d341faf8acd7dadf01d62cf242aafad0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T113000Z
-LOCATION:ГУК Б-339
-DTSTART:20251118T100000Z
+DTEND:20260505T073000Z
+LOCATION:--каф. 919
+DTSTART:20260505T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:553e4637d1e1de9bd0c513927ec66428
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T091500Z
+LOCATION:ГУК А-407
+DTSTART:20251218T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:968401135f46946dd6127edef4c472a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260411T113000Z
+LOCATION:7-416
+DTSTART:20260411T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:14fa4b301fa74ca95ef9a36dbfe88e86
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260529T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:be66b9622ea16378f2e6f982dbb28bc2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260306T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260306T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:45346dabbadfe447eaef18afeeef55ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260413T164500Z
+LOCATION:Орш. В-605
+DTSTART:20260413T151500Z
+SUMMARY:ЛР Общая физика
+UID:2e2882c37c2c5583c46fe27d4ada0c91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260330T164500Z
+LOCATION:Орш. В-605
+DTSTART:20260330T151500Z
+SUMMARY:ЛР Общая физика
+UID:93de0227076dbb8c7fde221fe05ba37b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T131500Z
+LOCATION:--каф. 919
+DTSTART:20251218T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:e54bcd0eb4ecba8ffbb8b9c50a8362f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251127T060000Z
+SUMMARY:ЛК Общая физика
+UID:0ad6bfb54042c2b4ef71bf677309ccd5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251028T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:50bd1119de9e979d05b9fb6f2599194f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260506T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260506T074500Z
+SUMMARY:ЛК История России
+UID:005c655ea04eb39ba33645f32d821ed3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T073000Z
+LOCATION:--каф. 919
+DTSTART:20260224T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4f4f087e4eebcfb6be2514c64a30dbcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T164500Z
+LOCATION:ГУК Б-744
+DTSTART:20260314T151500Z
+SUMMARY:ЛР Химия
+UID:26991d932f3717eeca04d959eff7f9cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260417T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260417T100000Z
+SUMMARY:ПЗ Правоведение
+UID:ec118295fa3eb696a96732ceda8ba620
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T073000Z
+LOCATION:--каф. 919
+DTSTART:20251121T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:5cccf71a48c48460b7f7d4be5f95e719
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251121T113000Z
+LOCATION:24-402
+DTSTART:20251121T100000Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:6d30b6f6809f1c367c826fcf769f1399
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T113000Z
+LOCATION:ГУК А-410
+DTSTART:20251022T100000Z
+SUMMARY:ПЗ Математический анализ
+UID:cb6266cb1e6e713778ea6cec560d332d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T073000Z
+LOCATION:--каф. 919
+DTSTART:20260512T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:cc3abc8d9c42b1cca23c2592a9966b4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260319T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260319T114500Z
+SUMMARY:ЛК Химия
+UID:3b5fb6b06bb7cb9daa34812d91968a1d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260227T073000Z
+LOCATION:ГУК А-706
+DTSTART:20260227T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:6a316f584e137a798a94e70391c8cf76
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T091500Z
+LOCATION:7-401
+DTSTART:20251107T074500Z
+SUMMARY:ЛК Математический анализ
+UID:07b00f5c718ab99c6a15e61b848a16fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260303T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260303T114500Z
 SUMMARY:ПЗ Общая физика
-UID:3cc283cac5951b9ae70dc58795370f57
+UID:8fe3af6589b2b8c08672a0ce5758881d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260326T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260326T114500Z
+SUMMARY:ЛК Химия
+UID:ea45f9c042ee5b405de19d210a293353
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260427T150000Z
+LOCATION:Орш. В-314
+DTSTART:20260427T133000Z
+SUMMARY:ЛР Общая физика
+UID:79dd1d19d4eb8abb83d31a0b88daa790
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251029T060000Z
+SUMMARY:ЛК История России
+UID:b5b0469d1eac006f0a65450bb4736d93
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251111T100000Z
+SUMMARY:ПЗ Общая физика
+UID:f0208154e501a0dd6be47e92f95f9266
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251215T073000Z
+LOCATION:Орш. В-403
+DTSTART:20251215T060000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:24f4c1bdf3683ac0b9530b3b534d7993
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251205T131500Z
+LOCATION:24-402
+DTSTART:20251205T114500Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:2aa995aeceece3fa975d7fc0d0b39eeb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260403T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260403T074500Z
+SUMMARY:ЛК Математический анализ
+UID:6ae345b627b119e75198036c093e68c1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T073000Z
+LOCATION:ГУК В-228
+DTSTART:20251211T060000Z
+SUMMARY:ЛК Общая физика
+UID:c2422aa70dd9a0d5d883cd9e0a3b42b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251010T113000Z
+LOCATION:24-402
+DTSTART:20251010T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:a9e2e2fc0f89d41d80668a99f3d28adc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260331T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Общая физика
+UID:19747787d149dff4447aad9da7c3abec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251201T131500Z
+LOCATION:5-425
+DTSTART:20251201T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:f4e54059cd35f0a1e93b7798a81635da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260408T073000Z
+LOCATION:ГУК Б-638
+DTSTART:20260408T060000Z
+SUMMARY:ПЗ История России
+UID:3de35f6c0b3d71e2adbf746df48cd6b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260220T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:8aedb4c4f36eb058293ed2f16832c1ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251125T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251125T114500Z
+SUMMARY:ПЗ История России
+UID:1e7655b640528c7222b5611d01814e05
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260414T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:45e27eabae0be0b86a036723b8d0bb5e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251006T131500Z
+LOCATION:5-425
+DTSTART:20251006T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:9ca55098535746b98e9cebb1b53b3b28
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260306T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:fbcbed0fea05d7c19fa8ad4daeee21bc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260324T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:cea66d5c4ff41421b6cc602dfc00aad5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T073000Z
+LOCATION:--каф. 919
+DTSTART:20251024T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4275ace130d802cd53b3bcc39858ea77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260523T113000Z
+LOCATION:7-416
+DTSTART:20260523T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:2651d77eb378410395ae743f349246af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф. 919
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:4b8b704477050603d612e558ae554ca1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T091500Z
+LOCATION:Орш. В-305
+DTSTART:20251110T074500Z
+SUMMARY:ЛР Общая физика
+UID:51e49a6fd64c3f7d04732df333a88ef1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260328T113000Z
+LOCATION:7-416
+DTSTART:20260328T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:01b719d11b3fba9f2aea99ad627c05e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251201T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251201T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:d22fdbe8f550100cb33e7b8522aade8d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T113000Z
+LOCATION:Орш. В-403
+DTSTART:20251013T100000Z
+SUMMARY:ЛК Алгоритмические языки и программирование
+UID:bbf35d024138ffd3edf90f35958c9fef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251029T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:7d97bad29f1c8bbb5fed4f43ba126001
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251219T131500Z
+LOCATION:24-402
+DTSTART:20251219T114500Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:c47ad49d3b66e20f8481eede000f3704
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251222T150000Z
+LOCATION:2-201(2А)
+DTSTART:20251222T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:27011be07105860b0439685e430e3cfc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251015T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:b25ad5c27d3dab3b6a9cadc3194f649e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260407T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260407T114500Z
+SUMMARY:ПЗ Общая физика
+UID:3e88bea9bf765ffac8da35e1429ac70b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251216T114500Z
+SUMMARY:ПЗ История России
+UID:f1ac4a984b9ed9d19f81df0cf88b16f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260421T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260421T074500Z
+SUMMARY:ЛК Общая физика
+UID:ce195268fda884be91bca5e6c8a60ff1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Философия
+UID:3450b79d985d422bce0107c76153aad2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260521T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260521T114500Z
+SUMMARY:ЛК Химия
+UID:6f5d6f65621227cb6ae9582f5d234911
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T113000Z
+LOCATION:Орш. В-403
+DTSTART:20251110T100000Z
+SUMMARY:ЛК Алгоритмические языки и программирование
+UID:3364cbe3e67cbf8da7c102b63879c93c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251001T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:406a4b4d47520f3e51c80180c0e01458
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T091500Z
+LOCATION:Орш. В-403
+DTSTART:20251020T074500Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:67ba461b40c1345b49c1476d76b52970
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Философия
+UID:0d7e30fa13395f85315f79a473e6d622
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260418T131500Z
+LOCATION:7-416
+DTSTART:20260418T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:0884fdeb36472d3c93fc7db77ea2b598
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T073000Z
+LOCATION:--каф. 919
+DTSTART:20260331T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6ef22c155295601edd576b1e642754d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251212T113000Z
+LOCATION:24-402
+DTSTART:20251212T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:f29b87fd194f2ab428e6c0b6d79945dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T073000Z
+LOCATION:Орш. В-305
+DTSTART:20251110T060000Z
+SUMMARY:ЛР Общая физика
+UID:477db8aad9a6c1534649d05b9f94386f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251219T113000Z
+LOCATION:24-402
+DTSTART:20251219T100000Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:071e1a66e083d9d8d3de6144994e090e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260502T131500Z
+LOCATION:7-416
+DTSTART:20260502T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:1ba3825525924e8722191032aea0f4e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260212T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260212T114500Z
+SUMMARY:ЛК Химия
+UID:0c0b75bea5c48ef41dc2cccc2c102462
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260313T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:94730faab635ac67aee739605fb730d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T131500Z
+LOCATION:ГУК А-722
+DTSTART:20260522T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:89a1003a2a2291af98eed9813ee4643c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260221T113000Z
+LOCATION:7-416
+DTSTART:20260221T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:a62826551c553da9477c27e964715519
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T131500Z
+LOCATION:ГАК-320
+DTSTART:20251112T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:6e0a73f9173342ac2ab84b6667504894
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T164500Z
+LOCATION:ГУК Б-744
+DTSTART:20260328T151500Z
+SUMMARY:ЛР Химия
+UID:1911d89d53f71e939797466118fb6cfa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251223T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251223T100000Z
+SUMMARY:ПЗ Общая физика
+UID:b8614f4d7f8141ef3733b7809a6d1ff3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251209T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251209T114500Z
+SUMMARY:ПЗ История России
+UID:eb9adf42679dc946f9de63a3cfacb9cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T073000Z
+LOCATION:--каф. 919
+DTSTART:20251010T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:97e9c4514e690b46ce2a9a940879cf42
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251119T091500Z
+LOCATION:ГУК А-410
+DTSTART:20251119T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:9f81aba6c98ed90f80b8e3fb23123092
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260603T113000Z
+LOCATION:ГУК А-710
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:b8e2d731aed42dee38c58a81d1539de1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калимуллина Эльвира Ринатовна
+DTEND:20251229T131500Z
+LOCATION:5-425
+DTSTART:20251229T114500Z
+SUMMARY:ПЗ Экономическая теория
+UID:0e6132c6e812fd272cf7d2d789772d5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260401T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260401T074500Z
+SUMMARY:ЛК История России
+UID:d35029ab3dd4e0dc9040ebc884df0d66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251001T060000Z
+SUMMARY:ЛК История России
+UID:59f33bf94066f30ae5f72ff3a974f743
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251028T114500Z
+SUMMARY:ПЗ История России
+UID:fc446216d09da9caee42c31a2e43de4b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251216T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:98e7a653981818e0625c2fc7635138b5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260425T113000Z
+LOCATION:7-416
+DTSTART:20260425T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:bb3df9fd1a2599d16d480bfe479378e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T131500Z
+LOCATION:--каф. 919
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:06f00f0f578ef6a6de5ecdacdfd38bf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251024T113000Z
+LOCATION:24-402
+DTSTART:20251024T100000Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:88a79af17cda92c48c7075624d5ceba6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260320T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260320T100000Z
+SUMMARY:ПЗ Правоведение
+UID:e12685a0de38825a006f4cb9b6939baa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251021T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3985f33483d9f6317a66ba827c1e2ee3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260420T150000Z
+LOCATION:ГУК А-626
+DTSTART:20260420T133000Z
+SUMMARY:ЛР Теоретическая механика
+UID:8a3d203d2accd1e71c041ec9059daa25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251010T131500Z
+LOCATION:24-402
+DTSTART:20251010T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:49ea6d655730472193fe5e6d595aeef0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251209T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251209T100000Z
+SUMMARY:ПЗ Общая физика
+UID:481a095ca7f051e29069c9460b3412da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260220T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260220T074500Z
+SUMMARY:ЛК Математический анализ
+UID:7c4599f31554046134ba62779b373b87
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260402T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260402T114500Z
+SUMMARY:ЛК Химия
+UID:5d7bc66113921845008e59227d5989c6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T073000Z
+LOCATION:Орш. В-403
+DTSTART:20251117T060000Z
+SUMMARY:ЛР Алгоритмические языки и программирование
+UID:1ce9a8ba29d539be0beec19ea823f4d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251125T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251125T100000Z
+SUMMARY:ПЗ Общая физика
+UID:7aed212da6fae94fa7946846f63ba28b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T073000Z
+LOCATION:--каф. 919
+DTSTART:20251107T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:08bad5caa96b12d6eeee4f9485c40e39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260430T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260430T114500Z
+SUMMARY:ЛК Химия
+UID:805c29bc618fca8a4ef685d0e8bfcf71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260113T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260113T114500Z
+SUMMARY:Экзамен Математический анализ
+UID:eb9aba7275e5feea78d6924ad787bb7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251114T131500Z
+LOCATION:24-402
+DTSTART:20251114T114500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:1acf1fe7f00a470281777c8ac4008a59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20251203T060000Z
+SUMMARY:ЛК История России
+UID:93ab0af69dad7ab45bac9adfe85d6a37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260126T073000Z
+LOCATION:ГУК Б-652
+DTSTART:20260126T060000Z
+SUMMARY:Экзамен Общая физика
+UID:3971b7a1eb0dec12d60c174921a41754
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Философия
+UID:c3c68ec21926a590bce7ad27d86033e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260606T113000Z
+LOCATION:7-416
+DTSTART:20260606T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:66d1ecf8d801d0cc981c0fed4da6f3f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T131500Z
+LOCATION:--каф. 919
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:e830bc9360955f40cbc7b146ec987966
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260312T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260312T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:98e9e738ae806f2721482f55c60f9cde
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260327T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260327T074500Z
+SUMMARY:ЛК Математический анализ
+UID:3f95712a78a31dc15c49833658339bc8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T073000Z
+LOCATION:Орш. В-603
+DTSTART:20251222T060000Z
+SUMMARY:ЛР Общая физика
+UID:c6ebbc08c7071d1ce5b4b101e6c1a0d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T073000Z
+LOCATION:ГУК Б-444
+DTSTART:20251210T060000Z
+SUMMARY:ЛК История России
+UID:45237baf12f63e6c5a741ce9e46fdb4f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Иванова Анна Николаевна
+DTEND:20260211T091500Z
+LOCATION:ГУК Б-649
+DTSTART:20260211T074500Z
+SUMMARY:ЛК История России
+UID:65b0695d09a74f6bd0614cd5aee41b5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260418T113000Z
+LOCATION:7-416
+DTSTART:20260418T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:f514a3219d555f8cbc1b5e0ab38d2f63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260421T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:bf74629616670466cb981ca94a2df3ac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251007T100000Z
+SUMMARY:ПЗ Общая физика
+UID:bb9ef1cc0bcc81b178de6eced3920f45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260313T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Математический анализ
+UID:42b3cd902e58e9abd7d06682de2bee85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260321T131500Z
+LOCATION:7-416
+DTSTART:20260321T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:45c9dc7d2cab1d4f783cc73e9f64a6c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260214T113000Z
+LOCATION:7-416
+DTSTART:20260214T100000Z
+SUMMARY:ЛК Теоретическая механика
+UID:a6bd54e8fb47c4adf07c90105569a450
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕСНЕВА ЕВГЕНИЯ ВИКТОРОВНА
+DTEND:20260213T091500Z
+LOCATION:ГУК В-228
+DTSTART:20260213T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f699676d5ecdc1782ef9588caa3f877f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T131500Z
+LOCATION:ГУК Б-637
+DTSTART:20251202T114500Z
+SUMMARY:ПЗ История России
+UID:dc8dc8df47fa1118d990633241f29ebb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251230T113000Z
+LOCATION:ГУК Б-339
+DTSTART:20251230T100000Z
+SUMMARY:ПЗ Общая физика
+UID:a000fb8f6ab36eaa9096674c2a887f3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260214T131500Z
+LOCATION:7-416
+DTSTART:20260214T114500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:7af8781537dceda9ed324865bc20ca94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260526T091500Z
+LOCATION:ГУК В-221
+DTSTART:20260526T074500Z
+SUMMARY:ЛК Общая физика
+UID:c29fa6cdb2f0ab9720bb0bf79ac5ddfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260416T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260416T100000Z
+SUMMARY:ЛК Правоведение
+UID:6aca37f1a6638a2303be886da135f34c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T091500Z
+LOCATION:7-401
+DTSTART:20251031T074500Z
+SUMMARY:ЛК Математический анализ
+UID:70495c5a2ed58a59ad0104cd8466b258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Диденко Анна Александровна
+DTEND:20260521T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260521T100000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:c38c8d4bc84b07fcdc1888a56e5da751
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Иван Александрович
+DTEND:20260514T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260514T100000Z
+SUMMARY:ЛК Правоведение
+UID:bf4cf848232d89271f3b2fe247f4af2e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T073000Z
+LOCATION:--каф. 919
+DTSTART:20260602T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:72ef87e6ded0143b98f92c9f581569b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251114T113000Z
+LOCATION:24-402
+DTSTART:20251114T100000Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:225721ceedc182333ed69d6454cb6eef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T091500Z
+LOCATION:Орш. В-305
+DTSTART:20251124T074500Z
+SUMMARY:ЛР Общая физика
+UID:bf6a26799cabcc73202b0130d106b126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260312T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260312T114500Z
+SUMMARY:ЛК Химия
+UID:290b740bbd850e6e9103a0412542276b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T150000Z
+LOCATION:ГУК В-600
+DTSTART:20251111T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:95d88187b1ebebf5f3278a591aa936f3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T073000Z
+LOCATION:ГУК В-221
+DTSTART:20251015T060000Z
+SUMMARY:ЛК История России
+UID:407198420426c31a3a36b126900f85a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Майоров Андрей Юрьевич
+DTEND:20260323T164500Z
+LOCATION:ГУК А-626
+DTSTART:20260323T151500Z
+SUMMARY:ЛР Теоретическая механика
+UID:c6dbfddeec647d2f153376bfdb347d8a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тузиков Сергей Анатольевич
+DTEND:20251024T131500Z
+LOCATION:24-402
+DTSTART:20251024T114500Z
+SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
+UID:d801a2cdc6ef67ea306340cf04af905a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260505T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260505T114500Z
+SUMMARY:ПЗ Общая физика
+UID:d289afc4a525b72bd4dbb69fb4291e84
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Третьякова Ольга Николаевна
+DTEND:20260217T131500Z
+LOCATION:ГУК Б-446
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Общая физика
+UID:efb3767de5af840b3bcbb661b320b289
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калимуллина Эльвира Ринатовна
@@ -1582,32 +3778,11 @@ SUMMARY:ЛК Экономическая теория
 UID:f90052231e9f9a95efc90344be39e1cc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:--каф. 919
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:9f4f60c383e3a8e1f504f3e401e0776f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:7-401
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Математический анализ
-UID:db28493cdc0f175cc961e677874145e2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251023T073000Z
 LOCATION:ГУК В-228
 DTSTART:20251023T060000Z
 SUMMARY:ЛК Общая физика
 UID:df62d0b64c9c156f42a2e24eb03546d9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251218T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:968401135f46946dd6127edef4c472a7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251007T150000Z
@@ -1644,5 +3819,20 @@ LOCATION:24-402
 DTSTART:20251226T114500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:5ae8c69b895854ec589a11e3ebb0dd44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Окорокова Надежда Сергеевна
+DTEND:20260226T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260226T114500Z
+SUMMARY:ЛК Химия
+UID:cdbb81ddf37cfb0bab1db09c05dce98a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T113000Z
+LOCATION:ГУК В-605
+DTSTART:20260428T100000Z
+SUMMARY:ПЗ Иностранный язык
+UID:03fc8dceec681986375ba8606dc89240
 END:VEVENT
 END:VCALENDAR

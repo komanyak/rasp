@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250922T091500Z
-LOCATION:Орш. В-411
-DTSTART:20250922T074500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:114de7413f26a557fd55a9c370756948
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251011T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:ce0e334167eaf6bbd12b2a2202eecd66
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
 DTEND:20251013T131500Z
 LOCATION:Орш. В-410
@@ -26,20 +10,35 @@ SUMMARY:ЛР Программирование микроконтроллеров
 UID:8176b520ff9f7abf857507f4c301a830
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250930T113000Z
-LOCATION:Орш. В-411
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Разработка САПР
-UID:c95bcb01b712e5a72cd47c69f018bd4f
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260210T131500Z
+LOCATION:Берн. 14-411
+DTSTART:20260210T114500Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:75fdda9ecee2a9848552b03b53881744
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251117T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251117T074500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:0621ba8f5cb94a7519a1030909645ec6
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a45b495555a974e2dd9e98efab83d495
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260330T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260330T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:e08cc233d163961eb9755eceddf424df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260211T113000Z
+LOCATION:Орш. В-407
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:b8921f8d973c255efb30b6edccb42f28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
@@ -58,44 +57,20 @@ SUMMARY:ЛК Основы подготовки конструкторской д
 UID:9fea85d0ffd650e06dbb39c1d28a6d8e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250915T150000Z
-LOCATION:Орш. В-410
-DTSTART:20250915T133000Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:888c94d855e4902458d743b19338d20d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251110T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251110T100000Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:e870192268c706c457ee916503b227fe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20250923T131500Z
-LOCATION:Орш. В-410
-DTSTART:20250923T114500Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:cd0e80ffa035d9c27453c30bea97a550
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251216T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251216T114500Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:a08ef01ddc2878c37b0b01a26e3ec362
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250902T113000Z
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260307T073000Z
 LOCATION:Орш. В-411
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Разработка САПР
-UID:f0a47634ffd51a0a1ddb35cba4f3f333
+DTSTART:20260307T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:3d5cb1d5a6f8b66dce1685baf2ac1494
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260407T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260407T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:96c94c83904d01c173ade1d49f437bdf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -106,29 +81,6 @@ SUMMARY:ЛК Технология 3D-печати
 UID:3a0c3265b6fb10ef4770a74d16912d73
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251031T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:b14f3103429037fca7d7401cab015fdf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251224T164500Z
-LOCATION:Орш. В-411
-DTSTART:20251224T151500Z
-SUMMARY:ЛК Технология 3D-печати
-UID:c59b0e21fc52e2152ca3bebbadee07a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:--каф.
-DTSTART:20251106T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f6495c7d2b3258e3a04219901aa65885
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250925T091500Z
 LOCATION:--каф.
 DTSTART:20250925T074500Z
@@ -136,58 +88,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:ef2045458a9accf51a5adc5f0be6961e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:--каф.
-DTSTART:20251106T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:71a87063c9e38886da55f1eff38ee399
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251127T113000Z
 LOCATION:--каф.
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:815f178ae48dc783bad33e4db18c6cc2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
-DTEND:20251121T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251121T114500Z
-SUMMARY:ЛР Языки ассемблера
-UID:9e622dac8160e5b205b196216ff6ae88
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20250923T113000Z
-LOCATION:Орш. В-410
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:69bf41e9a96e3c644f0e2116a893be69
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250915T131500Z
-LOCATION:Орш. В-410
-DTSTART:20250915T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:7c2d8e184e494664b7a27cf3182f3f56
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250906T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20250906T133000Z
-SUMMARY:ПЗ Защита информации
-UID:c44fd75158cd7a96c82a05133cf82765
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251021T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:ab565581993f3a70ae6bd56d109d4e56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -198,19 +103,19 @@ SUMMARY:ЛР Основы подготовки конструкторской д
 UID:a9ca41bee0e5e27e525a0ba2a538b092
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T091500Z
-LOCATION:--каф.
-DTSTART:20251009T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3fd91fae058c63f1796b57863c08f5e7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251206T073000Z
 LOCATION:Орш. В-410
 DTSTART:20251206T060000Z
 SUMMARY:ПЗ Технология 3D-печати
 UID:faf71b2ac8e9812702ce5294707ff11a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T091500Z
+LOCATION:--каф.
+DTSTART:20251009T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3fd91fae058c63f1796b57863c08f5e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -221,14 +126,6 @@ SUMMARY:ЛК Разработка САПР
 UID:180744a72512f2f1e53acbb2053f1fd6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251018T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251018T074500Z
-SUMMARY:ЛК Защита информации
-UID:768382031823d7d9befce32d5ce4be65
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
 DTEND:20251219T113000Z
 LOCATION:Берн. 14-623
@@ -237,50 +134,11 @@ SUMMARY:ЛР Языки ассемблера
 UID:64b0723344c8dd58b30be93136b9dba0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20250909T131500Z
-LOCATION:Орш. В-410
-DTSTART:20250909T114500Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:3d3f4f73378ab3f84cf5d2e242022de2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251002T113000Z
 LOCATION:--каф.
 DTSTART:20251002T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:d6cea3851808ebfc7d17a0102283b899
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251001T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251001T114500Z
-SUMMARY:ЛР Мобильные операционные системы и разработка приложений
-UID:493c139ca8f3d464499bc372aada529d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T073000Z
-LOCATION:--каф.
-DTSTART:20251002T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a35acf1f8ef4b1b84938a534e3e3486f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250920T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20250920T114500Z
-SUMMARY:ПЗ Защита информации
-UID:45c65182cac356a00460a834fa2cc769
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251010T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251010T114500Z
-SUMMARY:ПЗ Языки ассемблера
-UID:6048f11ffd40a6ee1d1ffd6e11fae25a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -292,22 +150,6 @@ UID:9c3793347732e16b6f6bb5de78b380db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251114T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20251114T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:9b80f2c13bd27e4e873e7b41cfc29eaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251201T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251201T060000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:47e88f8f5f8bdc8c1be5a0d0415d8285
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
 DTEND:20251004T091500Z
 LOCATION:Берн. 14-413
 DTSTART:20251004T074500Z
@@ -315,27 +157,11 @@ SUMMARY:ЛК Защита информации
 UID:387d1907d3677aa2fffde1ccb21df3a6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T073000Z
+DTEND:20260409T113000Z
 LOCATION:--каф.
-DTSTART:20251204T060000Z
+DTSTART:20260409T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:638029e23c2674773d00e0d4429e1721
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251014T131500Z
-LOCATION:Орш. В-411
-DTSTART:20251014T114500Z
-SUMMARY:ЛК Разработка САПР
-UID:d22c13f57334a25c6e4725e2ab48678a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251229T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251229T060000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:b925454c979093598583be638d074ddb
+UID:85ccc6145188044b1c9729da68530ae7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
@@ -354,54 +180,6 @@ SUMMARY:ЛР Мобильные операционные системы и ра�
 UID:786d21c82dd361a0a17c67689951c84d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251018T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20251018T100000Z
-SUMMARY:ЛК Защита информации
-UID:2709291625e365bc79194639ca6efdb8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251110T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:417787b248ee6f589998ab9202400f04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250922T073000Z
-LOCATION:Орш. В-411
-DTSTART:20250922T060000Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:dfd1e8d20f88e7b50d5d9d5b7e9ef9da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251222T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251222T133000Z
-SUMMARY:ПЗ Геометрическое моделирование
-UID:503059f67fd1127d5126ddb6cb8cdd3e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251227T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20251227T133000Z
-SUMMARY:ЛР Защита информации
-UID:be827800c62620f0c7b66d467df58f3a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251027T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251027T151500Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:35acc1ccbf1f226d1fe49926b1b8364d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251218T091500Z
 LOCATION:--каф.
 DTSTART:20251218T074500Z
@@ -409,42 +187,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:8c6d09a808c548a5e95cacdbc80196f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251020T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251020T060000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:8d6798402143e28e852818aa5d0ffa74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251117T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251117T060000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:9ec02460137f382a9520f667ba054aec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
+DTEND:20260430T113000Z
 LOCATION:--каф.
-DTSTART:20251106T114500Z
+DTSTART:20260430T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:99396ac1bdfb1dca852ff51b469de065
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251229T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251229T074500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:da3130bb3d86490784ce0005eba739a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T091500Z
-LOCATION:--каф.
-DTSTART:20251120T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:92f06fa84b1c6496f076f81ead39727e
+UID:7d141cf4366402295f513b7f74a788a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -455,54 +202,6 @@ SUMMARY:ЛК Языки ассемблера
 UID:ec5a30b48b7034709c1e3a8597c79dc6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251227T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251227T114500Z
-SUMMARY:ЛР Защита информации
-UID:730ff1a1431cae0a25638f159d7af2b6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251224T150000Z
-LOCATION:Орш. В-411
-DTSTART:20251224T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:af8a3fefe28a5173043e2214d0f0f23f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250920T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20250920T074500Z
-SUMMARY:ЛК Защита информации
-UID:13c7ce7a6e9b7e25eec4c0d587cc9d02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251208T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251208T133000Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:60995b9f46ce060f4d6e911a79601aa2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250906T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20250906T100000Z
-SUMMARY:ЛК Защита информации
-UID:75f96dedca10cb08c6e2c4902c46327f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251101T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251101T074500Z
-SUMMARY:ЛК Защита информации
-UID:746d88eb57c2d7230983ff8a31171f93
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
 DTEND:20251107T113000Z
 LOCATION:Берн. 14-623
@@ -511,49 +210,11 @@ SUMMARY:ЛР Языки ассемблера
 UID:6d9be89a337a6ced022d602e34e9b0a2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251001T164500Z
-LOCATION:Орш. В-411
-DTSTART:20251001T151500Z
-SUMMARY:ЛК Технология 3D-печати
-UID:6906eff476516bd76747b71c93785300
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250923T150000Z
-LOCATION:Орш. В-411
-DTSTART:20250923T133000Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:f093d1d0e05e76f0ba506d4b711a16fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20250917T164500Z
-LOCATION:Орш. В-411
-DTSTART:20250917T151500Z
-SUMMARY:ЛК Технология 3D-печати
-UID:c3817e25cf3c94c7ebf1cea9239f0536
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T113000Z
-LOCATION:--каф.
-DTSTART:20251016T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:16842f90dbb54219891323e06d4c03b2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250918T113000Z
 LOCATION:--каф.
 DTSTART:20250918T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c884dfd4e1cd58c09ce622d557891930
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T091500Z
-LOCATION:--каф.
-DTSTART:20251030T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:267e05fa8da8add35b224ae5db2976a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -573,22 +234,6 @@ UID:db257ea2b52663072e3ead8687745dd5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20260119T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20260119T114500Z
-SUMMARY:Экзамен Разработка САПР
-UID:98c20a44ad85473a0205157ae894ef1d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251017T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:3e846d519a95464f23cebf20b0779cfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
 DTEND:20251017T131500Z
 LOCATION:Берн. 14-623
 DTSTART:20251017T114500Z
@@ -596,65 +241,28 @@ SUMMARY:ЛК Языки ассемблера
 UID:e2adb9e60b0e632de47c01ab424437b0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251003T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:771fcd9127253b46885c9b2a5d78866d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250906T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20250906T074500Z
-SUMMARY:ЛК Защита информации
-UID:c44eba2cd38e28af195eac2bca09fd40
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:--каф.
-DTSTART:20251023T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:53cbcf6fd53903ae0233d157e0707a5c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251021T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251021T114500Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:e9624a93aa2d9329333036a89feb34c8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T131500Z
-LOCATION:--каф.
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:87a5f7c7292457a6908a5e398302a164
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251004T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20251004T133000Z
-SUMMARY:ПЗ Защита информации
-UID:4feb6a65c18bcd1fd99e4739f7386b59
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
-DTEND:20251209T113000Z
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260328T091500Z
 LOCATION:Орш. В-411
-DTSTART:20251209T100000Z
-SUMMARY:ПЗ Разработка САПР
-UID:78bdd3129566be19f435d5ea7cbf5f70
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:a818f33d146ea6eff7745f48d7c2868f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T113000Z
-LOCATION:--каф.
-DTSTART:20251211T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d4f6d2255e3b7f4979f46a2992b1deaa
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260311T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260311T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:04a765a20dfc997cdac197f8ca1f87bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260413T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260413T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:4b10e4a777886974ff63537155a95083
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -665,19 +273,823 @@ SUMMARY:ЛК Геометрическое моделирование
 UID:909b9688a6769d0d0d67b3fcef88f7eb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251124T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251124T151500Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:1ac70d618bf6e4c6c20514600d8db5fc
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251227T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20251227T100000Z
+SUMMARY:ЛК Защита информации
+UID:ae11a9eea91c9923c003bfb873d8a6b1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251030T131500Z
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260313T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260313T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:b91374d6dda4a2ab784daf4d706a457f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260313T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260313T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:73f4e5538585c7c64ad849f9e7e7de96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251028T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251028T151500Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:619a4d1e0a990f4139b9ae586fb6c6d9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
 LOCATION:--каф.
-DTSTART:20251030T114500Z
+DTSTART:20260430T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:2c56065d80539d5d1a9cc815b0b3202e
+UID:b0af48c429204ce9ecf02baf6b7b8688
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:37161e933e0f9f9d2d8930a5b7942dbc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:47138afee36d9a1934677ef495e2ed05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20250913T073000Z
+LOCATION:Орш. В-410
+DTSTART:20250913T060000Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:347372dfe88850fb6c822de8297457b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T113000Z
+LOCATION:--каф.
+DTSTART:20251009T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a000e6c85799f734226f92d4068a3340
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251020T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251020T074500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:ae8770ae4b9815c2d62918ed0f704d37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250926T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20250926T100000Z
+SUMMARY:ПЗ Языки ассемблера
+UID:a458304aaeb1a78173e813653b933261
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251022T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251022T133000Z
+SUMMARY:ЛК Основы подготовки конструкторской документации
+UID:ad9137965baba457402e0a59c380f594
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251015T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251015T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:36f35f092a18212b38664e44e2eaad1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф.
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e7581bd9868290507f1d65b8a996cd0b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260404T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260404T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:e090b46be52df6a73cdea48011450417
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2060d2244e26878742d366451b1ea0e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260224T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260224T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:fee40643f30d3573be5648755bbffc96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250905T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20250905T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:56fa9ac197d85ab8995eb9ea16f5f00d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T073000Z
+LOCATION:--каф.
+DTSTART:20251120T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7ee28096612745d39524e2699ffb0519
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250920T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20250920T133000Z
+SUMMARY:ПЗ Защита информации
+UID:17dc0e9e4ce01ee5acec948e841f3806
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251222T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251222T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:bf1d3a6140b9bea1e2b3247ba1629198
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250929T131500Z
+LOCATION:Орш. В-410
+DTSTART:20250929T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:ba710cea9ddaadbc929cb20f3463866a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260210T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260210T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:17437983edccc5e526e5fa3a0c021aa8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260314T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:ad1cb2f0469051e7f75335a770c5d5ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251124T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251124T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:2adfc0dbc89964201b514583bbe6e8a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T113000Z
+LOCATION:--каф.
+DTSTART:20251113T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8c12c9fc5b10a0bed0549905d5d0a608
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T113000Z
+LOCATION:--каф.
+DTSTART:20251218T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:37734ad657947572f5df9621cb901fb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260221T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260221T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:a7bf625d47addd8f5184ec3795f95f4c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T073000Z
+LOCATION:--каф.
+DTSTART:20251211T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b2bad260c02590581476deea6c217b05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260310T131500Z
+LOCATION:Берн. 14-411
+DTSTART:20260310T114500Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:8667ac83f3ada9c6c56e124c9f0773f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260422T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260422T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:7e692051dc51080ab23c7f7ba8464875
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260210T113000Z
+LOCATION:Берн. 14-411
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:9a333cdfd2b29dbd0f7b5c8f4f898390
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T131500Z
+LOCATION:--каф.
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f1e2b3c903e5975b156280fd51e53a1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251129T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251129T074500Z
+SUMMARY:ЛК Защита информации
+UID:37847cfc02c96e430bc03a48b4f0238d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251015T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251015T100000Z
+SUMMARY:ЛР Мобильные операционные системы и разработка приложений
+UID:39b66d0eb60b4e7e88b77cb65f40c2c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251202T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251202T114500Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:4d8df0f023de04ead4dd00207a1ad810
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251022T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251022T151500Z
+SUMMARY:ЛК Основы подготовки конструкторской документации
+UID:0a52199208f4c7a48329243df0e19356
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф.
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:26c8327068110c7457cdeb220b33562b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251011T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251011T060000Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:42879e7d0a27fbb26e90c8d1d697851d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:69a26fd459d443cef6b034753c8c243f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251018T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251018T114500Z
+SUMMARY:ПЗ Защита информации
+UID:af145da186bdb7d4746007af7c81532c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T091500Z
+LOCATION:--каф.
+DTSTART:20251204T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:426f610db341e34e27128958a50f7081
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T073000Z
+LOCATION:--каф.
+DTSTART:20250904T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e0f0f214eba20fc843c258564c7593c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251112T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251112T151500Z
+SUMMARY:ЛК Технология 3D-печати
+UID:37ce3da62acc34bbfa82efc60863b6cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260216T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260216T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:b08392c745ea5899ca7db286acd6114c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260211T131500Z
+LOCATION:Орш. В-407
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:69a73acafe54b500c7b0c5f10d3e7fca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251213T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20251213T133000Z
+SUMMARY:ЛР Защита информации
+UID:b230f7741ae04a09678759445c829c97
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T091500Z
+LOCATION:--каф.
+DTSTART:20251127T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8c4db69f43c5a673d885844f56614778
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250919T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20250919T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:2422e759ff72dbc1e30f0de3dbebb5c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260306T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260306T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:e605c1ae7aded578f5642bebc19b2684
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:775360fdc9e6468975ea2ca057ec22da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260321T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260321T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:8a88ddf49195d36869411453d39960b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260327T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260327T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:6b2607418bd799e694e698355ef9f855
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф.
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a87e178167945fbfff5a5a4cb5b052b4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8eb9916f8c25e7f7c2fbccee7099f669
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:50a649a267508347cef3849d77d4cdc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251014T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251014T151500Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:c3db335965951afdd995c409f903877c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250929T113000Z
+LOCATION:Орш. В-410
+DTSTART:20250929T100000Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:b7e2cf780420874a032f61efa5f5e337
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bfe55eff394870d0f0cdceccaa185771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260328T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:27f9b29607bb05f4841ec956a2253b15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250929T164500Z
+LOCATION:Орш. В-410
+DTSTART:20250929T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:be096265979570364b31ce3bf578c09b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251103T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251103T074500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:fb06446cce11c8f5c779c7621a67ccea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T131500Z
+LOCATION:--каф.
+DTSTART:20251218T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4e8246ee4a3279ff16e3e775ebd567cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T091500Z
+LOCATION:--каф.
+DTSTART:20251113T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0c4e3698993bcd0b6dd59446811411b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251007T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251007T100000Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:20f76119c2d0fe9214aaf7e8cfd348eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20260115T131500Z
+LOCATION:Орш. В-411
+DTSTART:20260115T114500Z
+SUMMARY:Экзамен Интеллектуальные системы автоматики
+UID:17889b2f782db738778e35037beb77a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251115T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20251115T133000Z
+SUMMARY:ЛР Защита информации
+UID:9480ab62870b52879c04c43b4ce52a6d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T091500Z
+LOCATION:--каф.
+DTSTART:20251211T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:524777e24bed9419a39a45226a32b9d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260427T150000Z
+LOCATION:Орш. В-411
+DTSTART:20260427T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:9459490a591ec4b0a9153d863d42ccce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20251209T131500Z
+LOCATION:Орш. В-411
+DTSTART:20251209T114500Z
+SUMMARY:ПЗ Разработка САПР
+UID:e81b5a1fc90c0c33b44e48c8431614d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260422T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260422T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:b60c42063fd1b359f5b5b035890ef836
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251115T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251115T074500Z
+SUMMARY:ЛК Защита информации
+UID:afd53add36f42883cacea2fd9ac6f983
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251021T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251021T133000Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:524de6ddf8c5501fef326565be03424c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251111T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251111T133000Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:efd66e970566d0644a21a0e96e8f4b0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251003T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251003T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:771fcd9127253b46885c9b2a5d78866d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a7c76da18d7bef736ea212118607cab5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8d10d1a0abdd03d0479db83f9f001752
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260307T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260307T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:f306eb537f5f25844d2c085b54b0efb1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251117T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251117T074500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:0621ba8f5cb94a7519a1030909645ec6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250915T150000Z
+LOCATION:Орш. В-410
+DTSTART:20250915T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:888c94d855e4902458d743b19338d20d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260225T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260225T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:b95afcf43cfab70014d361a57ed34c14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251216T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251216T114500Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:a08ef01ddc2878c37b0b01a26e3ec362
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250902T113000Z
+LOCATION:Орш. В-411
+DTSTART:20250902T100000Z
+SUMMARY:ЛК Разработка САПР
+UID:f0a47634ffd51a0a1ddb35cba4f3f333
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260411T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260411T060000Z
+SUMMARY:ПЗ Геометрическое моделирование
+UID:788449d9d3e2f17b9de9cf80d8df6b96
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260325T131500Z
+LOCATION:Орш. В-407
+DTSTART:20260325T114500Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:3ce879180803f6ea03f40a6eefaf30c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250906T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20250906T133000Z
+SUMMARY:ПЗ Защита информации
+UID:c44fd75158cd7a96c82a05133cf82765
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251021T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251021T100000Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:ab565581993f3a70ae6bd56d109d4e56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф.
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:770fd8a1cdde248df69dfdc73dfbae2c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250920T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20250920T114500Z
+SUMMARY:ПЗ Защита информации
+UID:45c65182cac356a00460a834fa2cc769
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:08181ad79b9e602a96bc05496cc43809
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251201T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251201T060000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:47e88f8f5f8bdc8c1be5a0d0415d8285
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251018T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20251018T100000Z
+SUMMARY:ЛК Защита информации
+UID:2709291625e365bc79194639ca6efdb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251222T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251222T133000Z
+SUMMARY:ПЗ Геометрическое моделирование
+UID:503059f67fd1127d5126ddb6cb8cdd3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251227T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20251227T133000Z
+SUMMARY:ЛР Защита информации
+UID:be827800c62620f0c7b66d467df58f3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260408T131500Z
+LOCATION:Орш. В-407
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Моделирование информационных систем
+UID:b38e7aa3ded28a2567d71a11cab9ece8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:616b37f6df261af30e8bfdc524881265
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260324T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260324T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:f5d4623004267dad0ef162fe9b155ecb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251227T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251227T114500Z
+SUMMARY:ЛР Защита информации
+UID:730ff1a1431cae0a25638f159d7af2b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251224T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251224T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:af8a3fefe28a5173043e2214d0f0f23f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260421T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260421T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:7eff71d499eeafa0134b7685736282c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260302T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260302T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:d941b33c17e4e82df635ead150b7a9e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250906T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20250906T100000Z
+SUMMARY:ЛК Защита информации
+UID:75f96dedca10cb08c6e2c4902c46327f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260224T131500Z
+LOCATION:Берн. 14-411
+DTSTART:20260224T114500Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:03f5e1ffb6ec234ec50c08ec7cce5c3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250906T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20250906T074500Z
+SUMMARY:ЛК Защита информации
+UID:c44eba2cd38e28af195eac2bca09fd40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251021T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251021T114500Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:e9624a93aa2d9329333036a89feb34c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20251209T113000Z
+LOCATION:Орш. В-411
+DTSTART:20251209T100000Z
+SUMMARY:ПЗ Разработка САПР
+UID:78bdd3129566be19f435d5ea7cbf5f70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -688,30 +1100,6 @@ SUMMARY:ЛР Мобильные операционные системы и ра�
 UID:aa1882655e8a94d779763aff5cd4fe42
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251006T073000Z
-LOCATION:Орш. В-411
-DTSTART:20251006T060000Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:7a6ff8f2a729eed716c914279ede3be3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251227T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20251227T100000Z
-SUMMARY:ЛК Защита информации
-UID:ae11a9eea91c9923c003bfb873d8a6b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251001T150000Z
-LOCATION:Орш. В-411
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:c636362f0faa98541078ab9edb29af6a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251008T150000Z
 LOCATION:Орш. В-411
@@ -720,12 +1108,780 @@ SUMMARY:ЛК Основы подготовки конструкторской д
 UID:76777878ec47755c88642e7f25152550
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260225T131500Z
+LOCATION:Орш. В-407
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:9a806936523bdf89325ed226c01bba2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260324T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260324T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:c623dd1eaae75589ede1712547f54d65
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250912T113000Z
+DTEND:20250926T131500Z
 LOCATION:Берн. 14-623
-DTSTART:20250912T100000Z
+DTSTART:20250926T114500Z
 SUMMARY:ПЗ Языки ассемблера
-UID:5d389d84539481c92a474cfda2f12711
+UID:6d4e35b2d7488b78380f6f5486fac42f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251029T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251029T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:0c9e4c82a61c153387e417ec286a7f08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250923T164500Z
+LOCATION:Орш. В-411
+DTSTART:20250923T151500Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:76bddd4c01555708b20f0393a64cd512
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260311T131500Z
+LOCATION:Орш. В-407
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:5ca839c32d891932b5e53d6b6b1bdb60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250901T164500Z
+LOCATION:Орш. В-410
+DTSTART:20250901T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:7207d506bf554f8a19dbc07056135baf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250915T113000Z
+LOCATION:Орш. В-410
+DTSTART:20250915T100000Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:ce3506f2a91239906fbfb51c54628c5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251230T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251230T100000Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:74b52a3ffb838bfc51b6ee3cc81357e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251230T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251230T114500Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:46ec3223828c746244cf90ff7ed9a6e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260227T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260227T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:a3f70e08109ba840de5a39121918ee3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260330T150000Z
+LOCATION:Орш. В-411
+DTSTART:20260330T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:70a516809178bb610901ed77c2e1a10e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:979f1b0cd5e5ee5d191e92677785ea74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260407T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20260407T100000Z
+SUMMARY:ПЗ Интегрированные системы технической подготовки производства
+UID:5a0c4d8fe714931d840e6717b1bb06d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250909T164500Z
+LOCATION:Орш. В-411
+DTSTART:20250909T151500Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:99cfdc544ac4d94f1b0b92b44ed0d4e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251013T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251013T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:1495861d438edb9cbeaafcb364ffcce9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20260119T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20260119T100000Z
+SUMMARY:Экзамен Разработка САПР
+UID:750875c70c0cf118e0eddb19022cb6be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T113000Z
+LOCATION:--каф.
+DTSTART:20251225T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2453ff64ba33742c4255c015fadf24cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260216T150000Z
+LOCATION:Орш. В-411
+DTSTART:20260216T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:b6dd38e28c7a2d9c48ab4e593b593ab4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T073000Z
+LOCATION:--каф.
+DTSTART:20251127T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8537be7d6591ca7ac36d0bcb9bb8173b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф.
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e502559ddac65606b0ee71805d482960
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T113000Z
+LOCATION:--каф.
+DTSTART:20251120T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:274bb307f423effb96684af513c273da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T073000Z
+LOCATION:--каф.
+DTSTART:20251113T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:384eac5748885b95233e8b9d0753fa3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260410T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260410T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:9661fdcf1bb18ef7aa44c115e8867670
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T073000Z
+LOCATION:--каф.
+DTSTART:20250925T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dd0364bdfb59e5c54491d8da06918793
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T131500Z
+LOCATION:--каф.
+DTSTART:20251120T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f9933ae2df36165a7ed11a1d33883d20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251209T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251209T133000Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:29ac383f5da6c4651071e4fc3a857b87
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T131500Z
+LOCATION:--каф.
+DTSTART:20250904T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6f8697f10f422b655808199bb99bb131
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T091500Z
+LOCATION:--каф.
+DTSTART:20251225T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5273e8ddf3f982fbabe500cc5d6e0510
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250916T131500Z
+LOCATION:Орш. В-411
+DTSTART:20250916T114500Z
+SUMMARY:ЛК Разработка САПР
+UID:7b338d69d6365da0889a79bf8edd7956
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250908T091500Z
+LOCATION:Орш. В-411
+DTSTART:20250908T074500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:f9e399b5923dbc473d1733af801ecb7b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T113000Z
+LOCATION:--каф.
+DTSTART:20250911T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fd12b5d8df08cefe0f1dad487b88fdc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260227T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260227T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:b01ea4e57df14f86fdeb56107ec4a888
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20250903T150000Z
+LOCATION:Орш. В-411
+DTSTART:20250903T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:10fad5aab915abe94028746f3e71b2d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251006T091500Z
+LOCATION:Орш. В-411
+DTSTART:20251006T074500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:fac668a357e5c2f14e3d0f2f66f5ea8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:976f01865a937da526638d117313813d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251129T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20251129T133000Z
+SUMMARY:ЛР Защита информации
+UID:b88f6cdcacdd6f75e81cbac58dc4fee0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260408T113000Z
+LOCATION:Орш. В-407
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Моделирование информационных систем
+UID:16b4ba819d06fd566335e86c5776fd20
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e5fdd5f78207430fccc93b3f27d2eb12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250903T131500Z
+LOCATION:Орш. В-410
+DTSTART:20250903T114500Z
+SUMMARY:ЛР Мобильные операционные системы и разработка приложений
+UID:7c93e57144883d5684d24a447c13da01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251208T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251208T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:fce12d22de6b7dc215f9f5330f57b459
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260407T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260407T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:89638d799c937e9adb1b82b06f5754b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260306T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260306T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:8e9edd77239547bf56a6260e3b6549be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251129T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251129T114500Z
+SUMMARY:ЛР Защита информации
+UID:2c31d96dec43bdca173f97ea9217c23a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251007T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251007T151500Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:9a523775a891b5345545fd74993fd322
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T091500Z
+LOCATION:--каф.
+DTSTART:20250904T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:10861ed506b235f72195e9b2184e6047
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T073000Z
+LOCATION:--каф.
+DTSTART:20251225T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:09ef2600df356a4d2fcdc9b112ba9198
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260506T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260506T133000Z
+SUMMARY:ПЗ Моделирование информационных систем
+UID:e7184f5642281f0f5aeb51cbfa645d2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260505T164500Z
+LOCATION:Берн. 14-623
+DTSTART:20260505T151500Z
+SUMMARY:ПЗ Интегрированные системы технической подготовки производства
+UID:0f0a12d4ff02a44069f86c1491d7c47d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T131500Z
+LOCATION:--каф.
+DTSTART:20251204T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e25fa7a3f8f68f05382fddd3287cec2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260327T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260327T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:bf32b464a1e6adf1f4659943b9405d41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20251219T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251219T114500Z
+SUMMARY:ЛР Языки ассемблера
+UID:e23ea3cddab25bfe2d75694e35c37910
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T073000Z
+LOCATION:--каф.
+DTSTART:20251218T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9662112a29fc4cdeb600e8122932357b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T073000Z
+LOCATION:--каф.
+DTSTART:20251023T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7aa8e2a87a5ea576bc498704d1ba42d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251227T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251227T074500Z
+SUMMARY:ЛК Защита информации
+UID:c1c8c2935091c76cda2a9f5dd1eac791
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251101T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20251101T100000Z
+SUMMARY:ЛК Защита информации
+UID:76e9632b2e009998235d0ba773a0a9c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260224T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260224T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:26cf38f6d1c4c7bf4edf3af5594e8626
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260325T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260325T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:cc93a6c80153056181cbbf9b57f00d09
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T091500Z
+LOCATION:--каф.
+DTSTART:20251016T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:77ab5125eceaec27244cc4858ca38d8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T131500Z
+LOCATION:--каф.
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3ec05c58b6739c1471ca0ed30f7e2a66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251028T113000Z
+LOCATION:Орш. В-411
+DTSTART:20251028T100000Z
+SUMMARY:ЛК Разработка САПР
+UID:685d2d95d18383f6c85fcc8001e8455b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T113000Z
+LOCATION:--каф.
+DTSTART:20251204T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:405b83157736011a887099588ab44bfc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260505T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20260505T133000Z
+SUMMARY:ПЗ Интегрированные системы технической подготовки производства
+UID:e4cfe6cd0afbab6488686229e1aff3b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260311T113000Z
+LOCATION:Орш. В-407
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:5583fd0a8908d3f1df2149a46dc0cd7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251125T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251125T151500Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:f1bbd81fa3fc061c06cdb40279e241a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260324T113000Z
+LOCATION:Берн. 14-411
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:515dbb4ceead431fa7a4faf08353123d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250917T113000Z
+LOCATION:Орш. В-410
+DTSTART:20250917T100000Z
+SUMMARY:ЛР Мобильные операционные системы и разработка приложений
+UID:9ccaaa7fe44fad2efb24a0ebfa5e9c12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260314T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:47e16c5bef6e76c52ee4a37f29f2c72b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251014T113000Z
+LOCATION:Орш. В-411
+DTSTART:20251014T100000Z
+SUMMARY:ЛК Разработка САПР
+UID:0cf9d81e335ef918d686d5e546b65dc7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250922T091500Z
+LOCATION:Орш. В-411
+DTSTART:20250922T074500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:114de7413f26a557fd55a9c370756948
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251011T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251011T074500Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:ce0e334167eaf6bbd12b2a2202eecd66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4f237bc39c819f878571875c1298f27c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251031T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251031T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:b14f3103429037fca7d7401cab015fdf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T073000Z
+LOCATION:--каф.
+DTSTART:20251106T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f6495c7d2b3258e3a04219901aa65885
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T091500Z
+LOCATION:--каф.
+DTSTART:20251106T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:71a87063c9e38886da55f1eff38ee399
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250915T131500Z
+LOCATION:Орш. В-410
+DTSTART:20250915T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:7c2d8e184e494664b7a27cf3182f3f56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T073000Z
+LOCATION:--каф.
+DTSTART:20251002T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a35acf1f8ef4b1b84938a534e3e3486f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251010T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251010T114500Z
+SUMMARY:ПЗ Языки ассемблера
+UID:6048f11ffd40a6ee1d1ffd6e11fae25a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T073000Z
+LOCATION:--каф.
+DTSTART:20251204T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:638029e23c2674773d00e0d4429e1721
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a849d37c84683732522f8e8ef010e179
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251014T131500Z
+LOCATION:Орш. В-411
+DTSTART:20251014T114500Z
+SUMMARY:ЛК Разработка САПР
+UID:d22c13f57334a25c6e4725e2ab48678a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251110T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251110T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:417787b248ee6f589998ab9202400f04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260211T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260211T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:873d30073158e490c8a6a819dddd94cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250922T073000Z
+LOCATION:Орш. В-411
+DTSTART:20250922T060000Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:dfd1e8d20f88e7b50d5d9d5b7e9ef9da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:--каф.
+DTSTART:20251106T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:99396ac1bdfb1dca852ff51b469de065
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251229T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251229T074500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:da3130bb3d86490784ce0005eba739a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260320T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260320T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:3ae906da5a50fd1430292cd790a9e864
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260211T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260211T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:61620add49838fcbda76850010ae3768
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260210T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260210T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:c8461a8ca9fe470c3ad5e241d717f096
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260410T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260410T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:bcdcf0ae475b66c8749d1f6749ca4fb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250920T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20250920T074500Z
+SUMMARY:ЛК Защита информации
+UID:13c7ce7a6e9b7e25eec4c0d587cc9d02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251208T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251208T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:60995b9f46ce060f4d6e911a79601aa2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260506T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260506T151500Z
+SUMMARY:ПЗ Моделирование информационных систем
+UID:440367b2826eb8499b46deb29e5fc647
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260224T113000Z
+LOCATION:Берн. 14-411
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:39931a906cbc6ee2443d34ea63bed452
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250923T150000Z
+LOCATION:Орш. В-411
+DTSTART:20250923T133000Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:f093d1d0e05e76f0ba506d4b711a16fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T091500Z
+LOCATION:--каф.
+DTSTART:20251030T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:267e05fa8da8add35b224ae5db2976a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф.
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5960a26b606db637e8da7c544af4f85c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260418T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260418T074500Z
+SUMMARY:ПЗ Геометрическое моделирование
+UID:8442ec189450c2d6ed9cc61b94a55f27
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T091500Z
+LOCATION:--каф.
+DTSTART:20251023T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:53cbcf6fd53903ae0233d157e0707a5c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T131500Z
+LOCATION:--каф.
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2c56065d80539d5d1a9cc815b0b3202e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260214T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:4c54e2436ab6c8b883ffe510c845170f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -743,14 +1899,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:d55b4bddf51c3b0e967a2a960f8b672e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250926T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20250926T114500Z
-SUMMARY:ПЗ Языки ассемблера
-UID:6d4e35b2d7488b78380f6f5486fac42f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
 DTEND:20251107T131500Z
 LOCATION:Берн. 14-623
@@ -760,43 +1908,11 @@ UID:8d4f539b5a0804c5c7bc3b5607eb6e14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251028T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251028T151500Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:619a4d1e0a990f4139b9ae586fb6c6d9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250923T164500Z
-LOCATION:Орш. В-411
-DTSTART:20250923T151500Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:76bddd4c01555708b20f0393a64cd512
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251029T150000Z
-LOCATION:Орш. В-411
-DTSTART:20251029T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:0c9e4c82a61c153387e417ec286a7f08
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
 DTEND:20251125T150000Z
 LOCATION:Орш. В-410
 DTSTART:20251125T133000Z
 SUMMARY:ЛР Основы подготовки конструкторской документации
 UID:34e6f841a7cdb549c7858e7516851b44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20250909T113000Z
-LOCATION:Орш. В-410
-DTSTART:20250909T100000Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:abcbfc896352b0d632f1336d5455e75e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T073000Z
@@ -821,43 +1937,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:61cca4b95077c321820c77abf48fc446
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250901T164500Z
-LOCATION:Орш. В-410
-DTSTART:20250901T151500Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:7207d506bf554f8a19dbc07056135baf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20250913T073000Z
-LOCATION:Орш. В-410
-DTSTART:20250913T060000Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:347372dfe88850fb6c822de8297457b1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
 DTEND:20250919T131500Z
 LOCATION:Берн. 14-623
 DTSTART:20250919T114500Z
 SUMMARY:ЛК Языки ассемблера
 UID:74bb338f5e4efbbcde6f836cf0b37f01
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T113000Z
-LOCATION:--каф.
-DTSTART:20251009T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a000e6c85799f734226f92d4068a3340
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251020T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251020T074500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:ae8770ae4b9815c2d62918ed0f704d37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -875,43 +1960,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:34f80700c9945fac1510d10e86055b45
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T113000Z
-LOCATION:--каф.
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:04892f7b146de8ccd1e7371086dbe7ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250915T113000Z
-LOCATION:Орш. В-410
-DTSTART:20250915T100000Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:ce3506f2a91239906fbfb51c54628c5b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250926T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20250926T100000Z
-SUMMARY:ПЗ Языки ассемблера
-UID:a458304aaeb1a78173e813653b933261
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251022T150000Z
+DTEND:20260321T091500Z
 LOCATION:Орш. В-411
-DTSTART:20251022T133000Z
-SUMMARY:ЛК Основы подготовки конструкторской документации
-UID:ad9137965baba457402e0a59c380f594
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250929T150000Z
-LOCATION:Орш. В-410
-DTSTART:20250929T133000Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:261f2d39bc00ad0adfbd2fb805852b85
+DTSTART:20260321T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:7049ba5c5c7df25d09d64dccbc2c58ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
@@ -930,43 +1984,12 @@ SUMMARY:ЛК Языки ассемблера
 UID:8ddab21aa686a7abf002e21eaa6957fc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251230T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251230T100000Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:74b52a3ffb838bfc51b6ee3cc81357e4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251230T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251230T114500Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:46ec3223828c746244cf90ff7ed9a6e4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
 DTEND:20251205T113000Z
 LOCATION:Берн. 14-623
 DTSTART:20251205T100000Z
 SUMMARY:ЛР Языки ассемблера
 UID:4fb425f730fd31fe9de1c0e7a5f3fe65
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251015T150000Z
-LOCATION:Орш. В-411
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:36f35f092a18212b38664e44e2eaad1d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:--каф.
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e7581bd9868290507f1d65b8a996cd0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
@@ -977,58 +2000,12 @@ SUMMARY:ЛК Программирование микроконтроллеров
 UID:7aea439951143331dca7d9b11aa1c15a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250909T150000Z
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260316T150000Z
 LOCATION:Орш. В-411
-DTSTART:20250909T133000Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:41358a6425919b2c45f247cf947c8665
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T131500Z
-LOCATION:--каф.
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:bc201a32a68f5c54b3b70518ccf3b7b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250905T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20250905T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:56fa9ac197d85ab8995eb9ea16f5f00d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20260115T113000Z
-LOCATION:Орш. В-411
-DTSTART:20260115T100000Z
-SUMMARY:Экзамен Интеллектуальные системы автоматики
-UID:587f96122167e323969865bcae6f756a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250909T164500Z
-LOCATION:Орш. В-411
-DTSTART:20250909T151500Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:99cfdc544ac4d94f1b0b92b44ed0d4e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251013T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251013T151500Z
+DTSTART:20260316T133000Z
 SUMMARY:ЛР Геометрическое моделирование
-UID:1495861d438edb9cbeaafcb364ffcce9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T073000Z
-LOCATION:--каф.
-DTSTART:20251120T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7ee28096612745d39524e2699ffb0519
+UID:f2f75976263b1780ac285ada361d7268
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
@@ -1039,28 +2016,12 @@ SUMMARY:ЛР Интеллектуальные системы автоматик�
 UID:6bfa621bab520dcc5e8995ed282ea995
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250920T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20250920T133000Z
-SUMMARY:ПЗ Защита информации
-UID:17dc0e9e4ce01ee5acec948e841f3806
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251004T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20251004T100000Z
-SUMMARY:ЛК Защита информации
-UID:180b6c288ec6613f5ea32f6bbcfee9e9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251222T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251222T100000Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:42a66729d45c4f51e03806e295ba811b
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260228T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260228T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:f5982de2d15828a518bc898fa43e96a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
@@ -1069,14 +2030,6 @@ LOCATION:Берн. 14-623
 DTSTART:20251024T114500Z
 SUMMARY:ЛР Языки ассемблера
 UID:1eb0d25a543d5a21290216a7b65ed083
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251222T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251222T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:bf1d3a6140b9bea1e2b3247ba1629198
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -1103,14 +2056,6 @@ SUMMARY:ПЗ Защита информации
 UID:2e897014c33f69dff236e45cce2ee6ad
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251202T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251202T100000Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:6966cacafdc3d0dce401bc5128918fd7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
 DTEND:20251014T150000Z
 LOCATION:Орш. В-410
@@ -1126,20 +2071,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:4c523b4309971fcd41386f93e61f51b0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251118T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:6bb4868523781c32ba91cc31ee06a104
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250929T131500Z
-LOCATION:Орш. В-410
-DTSTART:20250929T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:ba710cea9ddaadbc929cb20f3463866a
+DTEND:20260226T091500Z
+LOCATION:--каф.
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:74fbf357b21bf8731108ae09e83c54d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
@@ -1150,56 +2086,11 @@ SUMMARY:ЛК Мобильные операционные системы и ра�
 UID:8d260929db32210fc42bdf9cc57229ec
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T073000Z
+DTEND:20260409T091500Z
 LOCATION:--каф.
-DTSTART:20251127T060000Z
+DTSTART:20260409T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:8537be7d6591ca7ac36d0bcb9bb8173b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20260119T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20260119T100000Z
-SUMMARY:Экзамен Разработка САПР
-UID:750875c70c0cf118e0eddb19022cb6be
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T113000Z
-LOCATION:--каф.
-DTSTART:20251120T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:274bb307f423effb96684af513c273da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T113000Z
-LOCATION:--каф.
-DTSTART:20251225T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2453ff64ba33742c4255c015fadf24cc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:--каф.
-DTSTART:20251113T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:384eac5748885b95233e8b9d0753fa3a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251124T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251124T133000Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:2adfc0dbc89964201b514583bbe6e8a9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251027T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251027T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:dbac6ed96c2faf1982891ebe0e3cf058
+UID:ad5fab8978b1db6c0f920f4489518b83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1226,33 +2117,12 @@ SUMMARY:ЛР Защита информации
 UID:a2e75f188f8ab18d81817cda7bfd086a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T073000Z
-LOCATION:--каф.
-DTSTART:20250925T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:dd0364bdfb59e5c54491d8da06918793
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T131500Z
-LOCATION:--каф.
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f9933ae2df36165a7ed11a1d33883d20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
 DTEND:20251205T131500Z
 LOCATION:Берн. 14-623
 DTSTART:20251205T114500Z
 SUMMARY:ЛР Языки ассемблера
 UID:d064ddc2ed468ec4fb9857c318fd35b8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T113000Z
-LOCATION:--каф.
-DTSTART:20251023T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:81caa394beca73c5405302f4f6cfcbda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -1263,36 +2133,6 @@ SUMMARY:ПЗ Технология 3D-печати
 UID:9751424503e72d8eade9e38d967a9ff9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T113000Z
-LOCATION:--каф.
-DTSTART:20251113T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8c12c9fc5b10a0bed0549905d5d0a608
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251213T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251213T074500Z
-SUMMARY:ЛК Защита информации
-UID:12f866a35c1bad5066aa4e2ab14775c2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251209T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251209T133000Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:29ac383f5da6c4651071e4fc3a857b87
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T113000Z
-LOCATION:--каф.
-DTSTART:20251218T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:37734ad657947572f5df9621cb901fb8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251222T164500Z
 LOCATION:Орш. В-410
@@ -1301,11 +2141,12 @@ SUMMARY:ПЗ Геометрическое моделирование
 UID:c6e338c3e4d55a7eeb0df6d78bb3958e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T131500Z
-LOCATION:--каф.
-DTSTART:20250904T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6f8697f10f422b655808199bb99bb131
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260310T113000Z
+LOCATION:Берн. 14-411
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:6213e2b932ef0a3fcf8b63fc2bab52e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -1323,65 +2164,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:36c3c19a853358e27d445a8b6a0ad379
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251103T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251103T060000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:972fe967791c0a8808e7ec67d843496e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251209T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251209T151500Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:de3002ed2ceb80fe3c56a572d86f42e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T091500Z
-LOCATION:--каф.
-DTSTART:20251225T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5273e8ddf3f982fbabe500cc5d6e0510
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250916T131500Z
-LOCATION:Орш. В-411
-DTSTART:20250916T114500Z
-SUMMARY:ЛК Разработка САПР
-UID:7b338d69d6365da0889a79bf8edd7956
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T073000Z
-LOCATION:--каф.
-DTSTART:20251211T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b2bad260c02590581476deea6c217b05
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20250908T091500Z
-LOCATION:Орш. В-411
-DTSTART:20250908T074500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:f9e399b5923dbc473d1733af801ecb7b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:--каф.
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f1e2b3c903e5975b156280fd51e53a1e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251210T164500Z
 LOCATION:Орш. В-411
 DTSTART:20251210T151500Z
 SUMMARY:ЛК Технология 3D-печати
 UID:b57d0ca3a00a699d9eacb4ec8f58b678
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф.
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:61f8bb5acf1d33766b1d52d7e63dcc4f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T073000Z
@@ -1391,59 +2186,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:572c0e948f827d33f14b73ae600a3433
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250911T113000Z
-LOCATION:--каф.
-DTSTART:20250911T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fd12b5d8df08cefe0f1dad487b88fdc3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251021T164500Z
-LOCATION:Орш. В-411
-DTSTART:20251021T151500Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:f7538cd8647709e9b16e3dadb8a80e42
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251129T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251129T074500Z
-SUMMARY:ЛК Защита информации
-UID:37847cfc02c96e430bc03a48b4f0238d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251008T164500Z
+DTEND:20260404T073000Z
 LOCATION:Орш. В-411
-DTSTART:20251008T151500Z
-SUMMARY:ЛК Основы подготовки конструкторской документации
-UID:d97172d7c0ba26d3f6eda0be4b061b3d
+DTSTART:20260404T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:d5a8821e032ac14d6da66ed76b785ed8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251015T113000Z
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260403T150000Z
 LOCATION:Орш. В-410
-DTSTART:20251015T100000Z
-SUMMARY:ЛР Мобильные операционные системы и разработка приложений
-UID:39b66d0eb60b4e7e88b77cb65f40c2c5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251208T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:87dd2b4d820746af93385bc36ad88356
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250916T113000Z
-LOCATION:Орш. В-411
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Разработка САПР
-UID:88555545762f60bc1547d9c38ede3dbd
+DTSTART:20260403T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:8183bb960ebdae9cc4e03abb30d5d574
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -1455,29 +2211,6 @@ UID:ef42b9fbc7d4e34625b15f4f31928f64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20250903T150000Z
-LOCATION:Орш. В-411
-DTSTART:20250903T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:10fad5aab915abe94028746f3e71b2d0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T091500Z
-LOCATION:--каф.
-DTSTART:20251002T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8b420c9fb01965dc0e0981288b4377ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251202T131500Z
-LOCATION:Орш. В-410
-DTSTART:20251202T114500Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:4d8df0f023de04ead4dd00207a1ad810
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251015T164500Z
 LOCATION:Орш. В-411
 DTSTART:20251015T151500Z
@@ -1485,34 +2218,12 @@ SUMMARY:ЛК Технология 3D-печати
 UID:e46214c087acb10ac74de12ff9ca8c9b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251016T073000Z
-LOCATION:--каф.
-DTSTART:20251016T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:240e062a23aa16ec89032c43eec0e63d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251006T091500Z
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251224T164500Z
 LOCATION:Орш. В-411
-DTSTART:20251006T074500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:fac668a357e5c2f14e3d0f2f66f5ea8e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251216T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251216T100000Z
-SUMMARY:ЛК Мобильные операционные системы и разработка приложений
-UID:105b31cb521af239bfbd34648f8fe63e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T131500Z
-LOCATION:--каф.
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:36edc1b9684ad7706fa328de004669be
+DTSTART:20251224T151500Z
+SUMMARY:ЛК Технология 3D-печати
+UID:c59b0e21fc52e2152ca3bebbadee07a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -1546,14 +2257,6 @@ SUMMARY:ЛР Мобильные операционные системы и ра�
 UID:88dac9f0199349495890d7ec51885b30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251022T164500Z
-LOCATION:Орш. В-411
-DTSTART:20251022T151500Z
-SUMMARY:ЛК Основы подготовки конструкторской документации
-UID:0a52199208f4c7a48329243df0e19356
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
 DTEND:20251027T113000Z
 LOCATION:Орш. В-410
@@ -1570,97 +2273,26 @@ SUMMARY:ПЗ Разработка САПР
 UID:2a9efd39161b26d73b8d44c631399588
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251129T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20251129T133000Z
-SUMMARY:ЛР Защита информации
-UID:b88f6cdcacdd6f75e81cbac58dc4fee0
+DTEND:20260409T073000Z
+LOCATION:--каф.
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b982a38b13217dc8a4cd38a01eb97c97
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251011T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251011T060000Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:42879e7d0a27fbb26e90c8d1d697851d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251201T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251201T074500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:1303c91e3b139341cce14db27866ca43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251018T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251018T114500Z
-SUMMARY:ПЗ Защита информации
-UID:af145da186bdb7d4746007af7c81532c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T091500Z
-LOCATION:--каф.
-DTSTART:20251204T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:426f610db341e34e27128958a50f7081
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T073000Z
-LOCATION:--каф.
-DTSTART:20250904T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e0f0f214eba20fc843c258564c7593c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251112T164500Z
+DTEND:20260302T150000Z
 LOCATION:Орш. В-411
-DTSTART:20251112T151500Z
-SUMMARY:ЛК Технология 3D-печати
-UID:37ce3da62acc34bbfa82efc60863b6cb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251001T113000Z
-LOCATION:Орш. В-410
-DTSTART:20251001T100000Z
-SUMMARY:ЛР Мобильные операционные системы и разработка приложений
-UID:352215cf36972d0d962a4e212e3e0ca6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250903T131500Z
-LOCATION:Орш. В-410
-DTSTART:20250903T114500Z
-SUMMARY:ЛР Мобильные операционные системы и разработка приложений
-UID:7c93e57144883d5684d24a447c13da01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251208T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251208T151500Z
+DTSTART:20260302T133000Z
 SUMMARY:ЛР Геометрическое моделирование
-UID:fce12d22de6b7dc215f9f5330f57b459
+UID:3a28e3b9787e488dbd4fcfd5f6fb9fc5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T091500Z
+DTEND:20260312T091500Z
 LOCATION:--каф.
-DTSTART:20251127T074500Z
+DTSTART:20260312T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:8c4db69f43c5a673d885844f56614778
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251213T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20251213T133000Z
-SUMMARY:ЛР Защита информации
-UID:b230f7741ae04a09678759445c829c97
+UID:4de5d9a04b0a9d460482c2ca3550eb96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1679,12 +2311,18 @@ SUMMARY:ЛК Защита информации
 UID:ddd97771d26e1177da43d2be8efa8914
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20250919T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20250919T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:2422e759ff72dbc1e30f0de3dbebb5c0
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f8a2c1459387be5788c4c3818827740f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dc119654db21258451526534814fb644
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T131500Z
@@ -1702,36 +2340,12 @@ SUMMARY:ЛР Программирование микроконтроллеров
 UID:a1617f57734ca0af211cdf1de5807266
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251129T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251129T114500Z
-SUMMARY:ЛР Защита информации
-UID:2c31d96dec43bdca173f97ea9217c23a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
 DTEND:20251124T113000Z
 LOCATION:Орш. В-410
 DTSTART:20251124T100000Z
 SUMMARY:ЛР Программирование микроконтроллеров
 UID:b375c62504de020de3b422edcf5d0c56
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251108T073000Z
-LOCATION:Орш. В-410
-DTSTART:20251108T060000Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:9cbe4f15e5fa0ca6901863dcb9177858
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20250913T091500Z
-LOCATION:Орш. В-410
-DTSTART:20250913T074500Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:fd5741ab96ad05a94f590a95cf86ea6d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1742,36 +2356,6 @@ SUMMARY:ПЗ Языки ассемблера
 UID:a26d0320cb54f04c2405973504367839
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251007T164500Z
-LOCATION:Орш. В-411
-DTSTART:20251007T151500Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:9a523775a891b5345545fd74993fd322
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:--каф.
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c04d086078a965372230c6bae8dce4a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T091500Z
-LOCATION:--каф.
-DTSTART:20250904T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:10861ed506b235f72195e9b2184e6047
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251115T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20251115T100000Z
-SUMMARY:ЛК Защита информации
-UID:9cda0c15628b637f81873175b311f544
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
 DTEND:20251213T113000Z
 LOCATION:Берн. 14-413
@@ -1780,50 +2364,28 @@ SUMMARY:ЛК Защита информации
 UID:74df227323a3d941ae979ae5c57e44eb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T073000Z
-LOCATION:--каф.
-DTSTART:20251225T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:09ef2600df356a4d2fcdc9b112ba9198
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260310T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260310T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:5ca069e651bb4c481432488b5095615b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T131500Z
-LOCATION:--каф.
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e25fa7a3f8f68f05382fddd3287cec2e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251031T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:fb015d46709ae78cb79896ef4541cbdb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251014T164500Z
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260325T164500Z
 LOCATION:Орш. В-410
-DTSTART:20251014T151500Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:c3db335965951afdd995c409f903877c
+DTSTART:20260325T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:d0b5440c46c6918b5ad09c88744f27d3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250929T113000Z
-LOCATION:Орш. В-410
-DTSTART:20250929T100000Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:b7e2cf780420874a032f61efa5f5e337
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251003T113000Z
-LOCATION:Берн. 14-623
-DTSTART:20251003T100000Z
-SUMMARY:ЛК Языки ассемблера
-UID:c1aa4c756b93cdb378252ecc2d5df904
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260225T113000Z
+LOCATION:Орш. В-407
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:7badae6f37bcb18c8e0612c6e6fe2cd1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
@@ -1834,49 +2396,19 @@ SUMMARY:ЛР Языки ассемблера
 UID:501813a19e24df0ec111f1e7e954d165
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
-DTEND:20251219T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251219T114500Z
-SUMMARY:ЛР Языки ассемблера
-UID:e23ea3cddab25bfe2d75694e35c37910
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20251206T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251206T074500Z
-SUMMARY:ПЗ Технология 3D-печати
-UID:1b746e14cd4e02b64625b6128d539d6f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250929T164500Z
-LOCATION:Орш. В-410
-DTSTART:20250929T151500Z
+DTEND:20260316T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260316T151500Z
 SUMMARY:ЛР Геометрическое моделирование
-UID:be096265979570364b31ce3bf578c09b
+UID:c2a255133f1ec5d5f0979f2e9730b98a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T073000Z
+DTEND:20260423T091500Z
 LOCATION:--каф.
-DTSTART:20251218T060000Z
+DTSTART:20260423T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:9662112a29fc4cdeb600e8122932357b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:--каф.
-DTSTART:20251023T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7aa8e2a87a5ea576bc498704d1ba42d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T113000Z
-LOCATION:--каф.
-DTSTART:20250904T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d3db295c51f51113f2eb31cf5b56ba11
+UID:40b315279b330a35545a814c999cbede
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1887,35 +2419,11 @@ SUMMARY:ЛК Разработка САПР
 UID:e18ecad3a79e8617306d2ce3a0952639
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251103T091500Z
-LOCATION:Орш. В-410
-DTSTART:20251103T074500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:fb06446cce11c8f5c779c7621a67ccea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251101T113000Z
-LOCATION:Берн. 14-413
-DTSTART:20251101T100000Z
-SUMMARY:ЛК Защита информации
-UID:76e9632b2e009998235d0ba773a0a9c3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251227T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251227T074500Z
-SUMMARY:ЛК Защита информации
-UID:c1c8c2935091c76cda2a9f5dd1eac791
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T131500Z
+DTEND:20260312T131500Z
 LOCATION:--каф.
-DTSTART:20251218T114500Z
+DTSTART:20260312T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:4e8246ee4a3279ff16e3e775ebd567cb
+UID:11ffdb232099c7a3d877ec2dd1e12c44
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T131500Z
@@ -1925,34 +2433,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:cc62bce9336e345b03efd3db6abb2fe3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T091500Z
-LOCATION:--каф.
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0c4e3698993bcd0b6dd59446811411b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20251007T113000Z
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260311T150000Z
 LOCATION:Орш. В-410
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:20f76119c2d0fe9214aaf7e8cfd348eb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T091500Z
-LOCATION:--каф.
-DTSTART:20251016T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:77ab5125eceaec27244cc4858ca38d8e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20260115T131500Z
-LOCATION:Орш. В-411
-DTSTART:20260115T114500Z
-SUMMARY:Экзамен Интеллектуальные системы автоматики
-UID:17889b2f782db738778e35037beb77a7
+DTSTART:20260311T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:cef97244f6460b8c9a4c2c4df44b5976
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
@@ -1963,14 +2449,6 @@ SUMMARY:ЛР Программирование микроконтроллеров
 UID:25f31e7ef0e10f8db88229461282649e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251115T150000Z
-LOCATION:Берн. 14-623
-DTSTART:20251115T133000Z
-SUMMARY:ЛР Защита информации
-UID:9480ab62870b52879c04c43b4ce52a6d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20251126T150000Z
 LOCATION:Орш. В-411
@@ -1979,49 +2457,12 @@ SUMMARY:ЛК Геометрическое моделирование
 UID:880d3475b2d94a1416b17a692165539e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T091500Z
-LOCATION:--каф.
-DTSTART:20251211T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:524777e24bed9419a39a45226a32b9d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T131500Z
-LOCATION:--каф.
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3ec05c58b6739c1471ca0ed30f7e2a66
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
 DTEND:20250903T164500Z
 LOCATION:Орш. В-411
 DTSTART:20250903T151500Z
 SUMMARY:ЛК Технология 3D-печати
 UID:7261a719c5e9f170ba670f5c2151b378
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251028T113000Z
-LOCATION:Орш. В-411
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Разработка САПР
-UID:685d2d95d18383f6c85fcc8001e8455b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T113000Z
-LOCATION:--каф.
-DTSTART:20251204T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:405b83157736011a887099588ab44bfc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
-DTEND:20250917T150000Z
-LOCATION:Орш. В-411
-DTSTART:20250917T133000Z
-SUMMARY:ЛК Геометрическое моделирование
-UID:1b99566bffa36dfaee0f5cac50e4652a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -2040,20 +2481,12 @@ SUMMARY:ЛК Интеллектуальные системы автоматик�
 UID:705d015207db187f9948a54a9deb923d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
-DTEND:20251209T131500Z
-LOCATION:Орш. В-411
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ Разработка САПР
-UID:e81b5a1fc90c0c33b44e48c8431614d5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251213T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251213T114500Z
-SUMMARY:ЛР Защита информации
-UID:929f8e5d1ef84dc52169b1d177e757a0
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260320T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260320T133000Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:37e79dec3860ef2594e3201ee785ef1a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
@@ -2072,59 +2505,11 @@ SUMMARY:ЛК Разработка САПР
 UID:d5c949a4168587d67209a87e99b2780f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251016T131500Z
+DTEND:20260507T091500Z
 LOCATION:--каф.
-DTSTART:20251016T114500Z
+DTSTART:20260507T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:0f898dfc04fb3c875f91d4d97fbb5154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251115T091500Z
-LOCATION:Берн. 14-413
-DTSTART:20251115T074500Z
-SUMMARY:ЛК Защита информации
-UID:afd53add36f42883cacea2fd9ac6f983
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251125T164500Z
-LOCATION:Орш. В-410
-DTSTART:20251125T151500Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:f1bbd81fa3fc061c06cdb40279e241a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251013T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251013T133000Z
-SUMMARY:ЛР Геометрическое моделирование
-UID:98a2bc99d092d10a3d5c387813dfc1e5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20251021T150000Z
-LOCATION:Орш. В-411
-DTSTART:20251021T133000Z
-SUMMARY:ЛК Интеллектуальные системы автоматики
-UID:524de6ddf8c5501fef326565be03424c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20251111T150000Z
-LOCATION:Орш. В-410
-DTSTART:20251111T133000Z
-SUMMARY:ЛР Основы подготовки конструкторской документации
-UID:efd66e970566d0644a21a0e96e8f4b0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251004T131500Z
-LOCATION:Берн. 14-623
-DTSTART:20251004T114500Z
-SUMMARY:ПЗ Защита информации
-UID:8173b10df915045a2b4a7657d1f8edd7
+UID:ff47837e2ddbb9733f625e1926940117
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -2135,20 +2520,751 @@ SUMMARY:ПЗ Языки ассемблера
 UID:de2fc5cde8011b004a19c3921672f77c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
-DTEND:20250917T113000Z
-LOCATION:Орш. В-410
-DTSTART:20250917T100000Z
-SUMMARY:ЛР Мобильные операционные системы и разработка приложений
-UID:9ccaaa7fe44fad2efb24a0ebfa5e9c12
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260214T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:cb45a88ab1661b7e2826f83866708404
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20251014T113000Z
+DTEND:20250930T113000Z
 LOCATION:Орш. В-411
-DTSTART:20251014T100000Z
+DTSTART:20250930T100000Z
 SUMMARY:ЛК Разработка САПР
-UID:0cf9d81e335ef918d686d5e546b65dc7
+UID:c95bcb01b712e5a72cd47c69f018bd4f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251110T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251110T100000Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:e870192268c706c457ee916503b227fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20250923T131500Z
+LOCATION:Орш. В-410
+DTSTART:20250923T114500Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:cd0e80ffa035d9c27453c30bea97a550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20251121T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251121T114500Z
+SUMMARY:ЛР Языки ассемблера
+UID:9e622dac8160e5b205b196216ff6ae88
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20250923T113000Z
+LOCATION:Орш. В-410
+DTSTART:20250923T100000Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:69bf41e9a96e3c644f0e2116a893be69
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф.
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:85c9af9e9eec12c502183b133db7619a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251018T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251018T074500Z
+SUMMARY:ЛК Защита информации
+UID:768382031823d7d9befce32d5ce4be65
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20250909T131500Z
+LOCATION:Орш. В-410
+DTSTART:20250909T114500Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:3d3f4f73378ab3f84cf5d2e242022de2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251114T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20251114T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:9b80f2c13bd27e4e873e7b41cfc29eaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251001T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251001T114500Z
+SUMMARY:ЛР Мобильные операционные системы и разработка приложений
+UID:493c139ca8f3d464499bc372aada529d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d7311273b59847585f3d943b6087b859
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251229T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251229T060000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:b925454c979093598583be638d074ddb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3f4440095cc36a24632de7a0190fbd31
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:007e9d0b544d9505ad28684dfa36a5b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260324T131500Z
+LOCATION:Берн. 14-411
+DTSTART:20260324T114500Z
+SUMMARY:ЛК Интегрированные системы технической подготовки производства
+UID:6e991ae942835f98ecddf407f9322e8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260228T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:b74089aab9c6a963c68abe3ed3c1f4d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260221T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260221T074500Z
+SUMMARY:ЛК Технологии удаленного обучения
+UID:7fc4bd46c14203f8f751b8959a8bb596
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c1f3551c12eb8e06286ad8a3339917d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251027T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251027T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:35acc1ccbf1f226d1fe49926b1b8364d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф.
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1bff35f72656ddb87adfbacc3eaf9f5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251020T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251020T060000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:8d6798402143e28e852818aa5d0ffa74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251117T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251117T060000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:9ec02460137f382a9520f667ba054aec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0b4ffd867f6131d0efdff47bb44f5141
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T091500Z
+LOCATION:--каф.
+DTSTART:20251120T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:92f06fa84b1c6496f076f81ead39727e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251101T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251101T074500Z
+SUMMARY:ЛК Защита информации
+UID:746d88eb57c2d7230983ff8a31171f93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260411T091500Z
+LOCATION:Орш. В-411
+DTSTART:20260411T074500Z
+SUMMARY:ПЗ Геометрическое моделирование
+UID:c33ed0ba0382cd519bd527cc3636e728
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251001T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251001T151500Z
+SUMMARY:ЛК Технология 3D-печати
+UID:6906eff476516bd76747b71c93785300
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20250917T164500Z
+LOCATION:Орш. В-411
+DTSTART:20250917T151500Z
+SUMMARY:ЛК Технология 3D-печати
+UID:c3817e25cf3c94c7ebf1cea9239f0536
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T113000Z
+LOCATION:--каф.
+DTSTART:20251016T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:16842f90dbb54219891323e06d4c03b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20260119T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20260119T114500Z
+SUMMARY:Экзамен Разработка САПР
+UID:98c20a44ad85473a0205157ae894ef1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф.
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:62326f065d31e377638d84785b203056
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251017T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20251017T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:3e846d519a95464f23cebf20b0779cfb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T131500Z
+LOCATION:--каф.
+DTSTART:20250911T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:87a5f7c7292457a6908a5e398302a164
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251004T150000Z
+LOCATION:Берн. 14-623
+DTSTART:20251004T133000Z
+SUMMARY:ПЗ Защита информации
+UID:4feb6a65c18bcd1fd99e4739f7386b59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T113000Z
+LOCATION:--каф.
+DTSTART:20251211T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d4f6d2255e3b7f4979f46a2992b1deaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251124T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251124T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:1ac70d618bf6e4c6c20514600d8db5fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251006T073000Z
+LOCATION:Орш. В-411
+DTSTART:20251006T060000Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:7a6ff8f2a729eed716c914279ede3be3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251001T150000Z
+LOCATION:Орш. В-411
+DTSTART:20251001T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:c636362f0faa98541078ab9edb29af6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250912T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20250912T100000Z
+SUMMARY:ПЗ Языки ассемблера
+UID:5d389d84539481c92a474cfda2f12711
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20250909T113000Z
+LOCATION:Орш. В-410
+DTSTART:20250909T100000Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:abcbfc896352b0d632f1336d5455e75e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260427T164500Z
+LOCATION:Орш. В-411
+DTSTART:20260427T151500Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:2dad0160e4e4cc41d9f59c0be992e2f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T113000Z
+LOCATION:--каф.
+DTSTART:20251106T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:04892f7b146de8ccd1e7371086dbe7ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20250929T150000Z
+LOCATION:Орш. В-410
+DTSTART:20250929T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:261f2d39bc00ad0adfbd2fb805852b85
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3cf06f8eb3f3ad253c94d9e0309900a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф.
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e564700c2a160b3013b11c1f8c893707
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ff54bf20b16c4bb5023a8d6b1dad76de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20250909T150000Z
+LOCATION:Орш. В-411
+DTSTART:20250909T133000Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:41358a6425919b2c45f247cf947c8665
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T131500Z
+LOCATION:--каф.
+DTSTART:20250918T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bc201a32a68f5c54b3b70518ccf3b7b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20260115T113000Z
+LOCATION:Орш. В-411
+DTSTART:20260115T100000Z
+SUMMARY:Экзамен Интеллектуальные системы автоматики
+UID:587f96122167e323969865bcae6f756a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260225T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260225T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:3a1f0c4da4b0bfb5523c36b72810253a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251004T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20251004T100000Z
+SUMMARY:ЛК Защита информации
+UID:180b6c288ec6613f5ea32f6bbcfee9e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251202T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251202T100000Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:6966cacafdc3d0dce401bc5128918fd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251118T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251118T100000Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:6bb4868523781c32ba91cc31ee06a104
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251027T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251027T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:dbac6ed96c2faf1982891ebe0e3cf058
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T113000Z
+LOCATION:--каф.
+DTSTART:20251023T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:81caa394beca73c5405302f4f6cfcbda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251213T091500Z
+LOCATION:Берн. 14-413
+DTSTART:20251213T074500Z
+SUMMARY:ЛК Защита информации
+UID:12f866a35c1bad5066aa4e2ab14775c2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:--каф.
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:17d521f092fe15834364bcc704c5c3f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251103T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251103T060000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:972fe967791c0a8808e7ec67d843496e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251209T164500Z
+LOCATION:Орш. В-410
+DTSTART:20251209T151500Z
+SUMMARY:ЛР Основы подготовки конструкторской документации
+UID:de3002ed2ceb80fe3c56a572d86f42e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСАНДР ЛЕОНИДОВИЧ
+DTEND:20260403T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260403T151500Z
+SUMMARY:ЛР Технологии удаленного обучения
+UID:20ba4bb74f18bd8ca3f904c0ddffe37a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251021T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251021T151500Z
+SUMMARY:ЛК Интеллектуальные системы автоматики
+UID:f7538cd8647709e9b16e3dadb8a80e42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251008T164500Z
+LOCATION:Орш. В-411
+DTSTART:20251008T151500Z
+SUMMARY:ЛК Основы подготовки конструкторской документации
+UID:d97172d7c0ba26d3f6eda0be4b061b3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251208T131500Z
+LOCATION:Орш. В-410
+DTSTART:20251208T114500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:87dd2b4d820746af93385bc36ad88356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260413T150000Z
+LOCATION:Орш. В-411
+DTSTART:20260413T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:79853c939eca98708d1baf32a6d025cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260421T164500Z
+LOCATION:Берн. 14-624
+DTSTART:20260421T151500Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:c1d49dc8af3f94800d7078748b0145ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20250916T113000Z
+LOCATION:Орш. В-411
+DTSTART:20250916T100000Z
+SUMMARY:ЛК Разработка САПР
+UID:88555545762f60bc1547d9c38ede3dbd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T091500Z
+LOCATION:--каф.
+DTSTART:20251002T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8b420c9fb01965dc0e0981288b4377ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T073000Z
+LOCATION:--каф.
+DTSTART:20251016T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:240e062a23aa16ec89032c43eec0e63d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20260418T073000Z
+LOCATION:Орш. В-411
+DTSTART:20260418T060000Z
+SUMMARY:ПЗ Геометрическое моделирование
+UID:ac35b7a45eb11f2e2c52dae0c888dea3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20251216T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251216T100000Z
+SUMMARY:ЛК Мобильные операционные системы и разработка приложений
+UID:105b31cb521af239bfbd34648f8fe63e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T131500Z
+LOCATION:--каф.
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:36edc1b9684ad7706fa328de004669be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e2c968422b9b7071b95c6154102f3f45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260325T113000Z
+LOCATION:Орш. В-407
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Моделирование информационных систем
+UID:696b0075ff76709da3e4f26a56c69a66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20251201T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251201T074500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:1303c91e3b139341cce14db27866ca43
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251001T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251001T100000Z
+SUMMARY:ЛР Мобильные операционные системы и разработка приложений
+UID:352215cf36972d0d962a4e212e3e0ca6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cb67ac4c4926553285dab43233dbe218
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251108T073000Z
+LOCATION:Орш. В-410
+DTSTART:20251108T060000Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:9cbe4f15e5fa0ca6901863dcb9177858
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20250913T091500Z
+LOCATION:Орш. В-410
+DTSTART:20250913T074500Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:fd5741ab96ad05a94f590a95cf86ea6d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T131500Z
+LOCATION:--каф.
+DTSTART:20251023T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c04d086078a965372230c6bae8dce4a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251115T113000Z
+LOCATION:Берн. 14-413
+DTSTART:20251115T100000Z
+SUMMARY:ЛК Защита информации
+UID:9cda0c15628b637f81873175b311f544
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251031T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20251031T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:fb015d46709ae78cb79896ef4541cbdb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251003T113000Z
+LOCATION:Берн. 14-623
+DTSTART:20251003T100000Z
+SUMMARY:ЛК Языки ассемблера
+UID:c1aa4c756b93cdb378252ecc2d5df904
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+DTEND:20260407T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20260407T114500Z
+SUMMARY:ПЗ Интегрированные системы технической подготовки производства
+UID:1a6d931d3cade27b1dc9a722199fb1af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20251206T091500Z
+LOCATION:Орш. В-410
+DTSTART:20251206T074500Z
+SUMMARY:ПЗ Технология 3D-печати
+UID:1b746e14cd4e02b64625b6128d539d6f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T113000Z
+LOCATION:--каф.
+DTSTART:20250904T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d3db295c51f51113f2eb31cf5b56ba11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КАВЕРНАЯ ИРИНА НИКОЛАЕВНА (осн.)
+DTEND:20260310T150000Z
+LOCATION:Берн. 14-624
+DTSTART:20260310T133000Z
+SUMMARY:ЛР Интегрированные системы технической подготовки производства
+UID:614fb5c40701e38941a3d3259e945069
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bf2c816dca168324e87ca40bdcabea3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260408T164500Z
+LOCATION:Орш. В-410
+DTSTART:20260408T151500Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:5c9b193a141b23795dbdb8cfa4b2a8c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХАРИТОНЕНКОВ АНТОН ИГОРЕВИЧ
+DTEND:20250917T150000Z
+LOCATION:Орш. В-411
+DTSTART:20250917T133000Z
+SUMMARY:ЛК Геометрическое моделирование
+UID:1b99566bffa36dfaee0f5cac50e4652a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+DTEND:20260408T150000Z
+LOCATION:Орш. В-410
+DTSTART:20260408T133000Z
+SUMMARY:ЛР Моделирование информационных систем
+UID:f3f8cedad5311cf639795313321ed962
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251213T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251213T114500Z
+SUMMARY:ЛР Защита информации
+UID:929f8e5d1ef84dc52169b1d177e757a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф.
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d1f5981791d8faccd070bed9ceb57751
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T131500Z
+LOCATION:--каф.
+DTSTART:20251016T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0f898dfc04fb3c875f91d4d97fbb5154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251013T150000Z
+LOCATION:Орш. В-410
+DTSTART:20251013T133000Z
+SUMMARY:ЛР Геометрическое моделирование
+UID:98a2bc99d092d10a3d5c387813dfc1e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20251004T131500Z
+LOCATION:Берн. 14-623
+DTSTART:20251004T114500Z
+SUMMARY:ПЗ Защита информации
+UID:8173b10df915045a2b4a7657d1f8edd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ХОРОШКО АЛЕКСЕЙ ЛЕОНИДОВИЧ
+DTEND:20251222T113000Z
+LOCATION:Орш. В-410
+DTSTART:20251222T100000Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:42a66729d45c4f51e03806e295ba811b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T091500Z

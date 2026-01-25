@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260304T113000Z
+LOCATION:24-308В
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:d69086f5c4066d9c8130e1fd234810bb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20251018T131500Z
 LOCATION:24-318Б
 DTSTART:20251018T114500Z
 SUMMARY:ЛР Теория автоматического управления
 UID:5c13e8365304a3eb19a431c78a3adeaf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260428T113000Z
+LOCATION:24-308В
+DTSTART:20260428T100000Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:7d57c12be0f4e30036a209626b1d4fb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -23,6 +39,21 @@ LOCATION:24-413
 DTSTART:20251125T074500Z
 SUMMARY:ЛК Системный анализ
 UID:595b14f32d95eb44fc232dabdef34b9b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260526T073000Z
+LOCATION:24-308Б
+DTSTART:20260526T060000Z
+SUMMARY:ПЗ УИРС
+UID:4c4e2488ac98da5557f396230c471b4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T150000Z
+LOCATION:24-440
+DTSTART:20260502T133000Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:0633e1411db94bbfc3ea086cfc5f9bb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
@@ -48,6 +79,28 @@ SUMMARY:ПЗ Военная подготовка
 UID:312a983d42716917d5e92db1e0cfc89c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260210T073000Z
+LOCATION:24-308Б
+DTSTART:20260210T060000Z
+SUMMARY:ПЗ УИРС
+UID:d330baa7c72ca0669d05f5dcecdd6701
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T073000Z
+LOCATION:24-308В
+DTSTART:20260513T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:5c1de2b06fa3b640105c8ed77906fc95
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:12a79628548b4d51638148b02a21dfcc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T091500Z
 LOCATION:24-413
 DTSTART:20251118T074500Z
@@ -63,6 +116,14 @@ SUMMARY:ПЗ Технологическая отработка изделий Р
 UID:bb6f08cd9156b9f9041ae9250cb55479
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260211T131500Z
+LOCATION:24-308В
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:19e31b75e17be557ee0271ed291adc78
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251219T073000Z
 LOCATION:2-410 (2В)
 DTSTART:20251219T060000Z
@@ -76,6 +137,14 @@ LOCATION:24-308Б
 DTSTART:20250909T100000Z
 SUMMARY:ЛК Информационная поддержка производства изделий РКТ
 UID:34e6e1975a60eb01b921adf249b47b33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260605T113000Z
+LOCATION:5-318
+DTSTART:20260605T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:f26277a2b835c0e4dcb2b7ccc9a33713
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -101,12 +170,28 @@ SUMMARY:ПЗ Военная подготовка
 UID:21c2b8f19ae1e30a3ce1f78eed1c83ff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260302T113000Z
+LOCATION:11-25
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:7aa52a1afafaa9099233e677f906c5fc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251124T150000Z
 LOCATION:24-402
 DTSTART:20251124T133000Z
 SUMMARY:ЛК Технологическая отработка изделий РКТ
 UID:5c3911a476bc6723617e1249b54179ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260427T073000Z
+LOCATION:24-402
+DTSTART:20260427T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:60b12e558fe167c930d39961d12b8eb0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T091500Z
@@ -139,12 +224,49 @@ SUMMARY:ЛК Системный анализ
 UID:dd9d99db3ef957e2560395a4974788da
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:24-308В
+DTSTART:20260225T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:f60c1b053d2db5e34ff69fa396cda9ff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:24-308В
+DTSTART:20260401T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:b80f2eada448c40ee391ad02af18996a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260401T131500Z
+LOCATION:24-308В
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:f116f499e6fc8c145ae8ceb02eb32abb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф.
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:af3da9e3fdb21afff3414abfaf6e2287
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
 DTEND:20251205T113000Z
 LOCATION:24-400
 DTSTART:20251205T100000Z
 SUMMARY:ЛК Прочность летательных аппаратов
 UID:b5753655862342fb8c072230ec92f4c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260311T113000Z
+LOCATION:24-308В
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:7cd15bdafa712d60b0a6814d457dca83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
@@ -171,6 +293,42 @@ SUMMARY:ПЗ Экономика и организация промышленно
 UID:daf40f1c32f3e13f9fa46b9790f3829a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф.
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:88914f042c2b72e8f18c458bf17947cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260518T113000Z
+LOCATION:11-25
+DTSTART:20260518T100000Z
+SUMMARY:ПЗ Технологические САПР
+UID:c5428cf2f89590ef36cb578357e76fad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:24-308В
+DTSTART:20260311T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:a0df7491534a283e985cf32b7b6c9933
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:24-308В
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:d2aaad5e27cd7e96f227830ec3029204
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф.
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:dae856efa1c946f6e8404e56cd49ad44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
 DTEND:20251015T091500Z
 LOCATION:5-101
@@ -185,6 +343,13 @@ LOCATION:2-401(2В)
 DTSTART:20251003T060000Z
 SUMMARY:ЛК Ракетные двигатели
 UID:e27ea9592f3b3ac4e2ecbe7af4bc9f8c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф.
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:667ee25b4560d53a5aa56f81363dad97
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T131500Z
@@ -202,12 +367,26 @@ SUMMARY:ЛК Технологическая отработка изделий Р
 UID:9c4fbb58537f19b5550327689a26f111
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260228T073000Z
+LOCATION:24-600
+DTSTART:20260228T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:58cc2e76b5dbb7c2633ed536736f3959
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251103T131500Z
 LOCATION:11-25
 DTSTART:20251103T114500Z
 SUMMARY:ПЗ Информационное моделирование инженерных объектов
 UID:31cf65c9dcf3b3b54eacf4e3ed7b3fb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф.
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:42df26372ef7e1a1dcea16347b98a74c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T113000Z
@@ -217,11 +396,48 @@ SUMMARY:ПЗ Военная подготовка
 UID:5147b47cb3bbc169aa174ba5fabc9cf3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260228T091500Z
+LOCATION:24-600
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:3c4105ceeb992e651c819e2ae40c88f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:24-308В
+DTSTART:20260318T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:5abe4e9c2eec1d314ea6162d4dad8edb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260428T091500Z
+LOCATION:24-308Б
+DTSTART:20260428T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:887252e12d4da9342687bb6d58ee4dc4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T113000Z
 LOCATION:--каф.
 DTSTART:20251023T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:aaa89700d10fb3b233cee206679506be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:24-308В
+DTSTART:20260304T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:b71393d72b733d6917bd1a21e7519d25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260518T131500Z
+LOCATION:11-25
+DTSTART:20260518T114500Z
+SUMMARY:ПЗ Технологические САПР
+UID:340b4ace1f830e7faff19843fe1c069a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -232,12 +448,26 @@ SUMMARY:ПЗ Информационная поддержка производс�
 UID:d5764af1da17e7480b879ceff5645a87
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:48eb655c4bbbbec97da17bf04782648f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Болдина Ирина Анатольевна
 DTEND:20251014T131500Z
 LOCATION:3-407
 DTSTART:20251014T114500Z
 SUMMARY:ПЗ Экономика и организация промышленности
 UID:06e2d597395657f1eb2964ef5b9d3489
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:24-308Б
+DTSTART:20260320T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:8a22c7a43bac54cd633a5685040c00de
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T091500Z
@@ -270,12 +500,59 @@ SUMMARY:ЛК Системный анализ
 UID:8790455ccf2d6511e4d3ad878f56f2e9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф.
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5a8e03b93b4c6b0148cdeabe0bde0528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260216T073000Z
+LOCATION:24-402
+DTSTART:20260216T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:6cf1751508c0eb54e513b060197278da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260331T073000Z
+LOCATION:24-308Б
+DTSTART:20260331T060000Z
+SUMMARY:ПЗ УИРС
+UID:4ff0bff93f97301eedc2ebbda7437930
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260415T113000Z
+LOCATION:24-308В
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:1e1da340c33915d3607051412cc4cb2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260327T113000Z
+LOCATION:5-318
+DTSTART:20260327T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:2ccb70ba6b3af53a5119dd851317e51e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
 DTEND:20260123T113000Z
 LOCATION:11-25
 DTSTART:20260123T100000Z
 SUMMARY:Экзамен Теория поиска и принятия решений
 UID:90c829c8245b3ee1babd652c392a7f58
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260407T113000Z
+LOCATION:5-319
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Управление проектами
+UID:f896f3c5359546af37521ce8f832161c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T113000Z
@@ -308,12 +585,44 @@ SUMMARY:ПЗ Информационная поддержка производс�
 UID:ec9fe1a7f28d465fc3ca2ab80d95732f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260210T113000Z
+LOCATION:5-319
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Управление проектами
+UID:3d5f9edf2b141b92533972cd8480922b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260310T073000Z
+LOCATION:24-308Б
+DTSTART:20260310T060000Z
+SUMMARY:ПЗ УИРС
+UID:60c872ba0997be299238f713fb44082a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
 DTEND:20251001T073000Z
 LOCATION:24-308Б
 DTSTART:20251001T060000Z
 SUMMARY:ПЗ Теория поиска и принятия решений
 UID:4b6868f508bff8277d84dd4e973507de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260304T131500Z
+LOCATION:24-308В
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:0340b2b688f5b540b90889d621bf2319
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260512T113000Z
+LOCATION:24-308В
+DTSTART:20260512T100000Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:66dc1d6e4fbdac11920c74d9adde5c35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T131500Z
@@ -329,6 +638,13 @@ LOCATION:24-308Б
 DTSTART:20251014T100000Z
 SUMMARY:ЛК Информационная поддержка производства изделий РКТ
 UID:2c4886a2199545b4c184c0e6a25ce5ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T091500Z
+LOCATION:24-600
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:e6dab8ef3e9f316efe8437b8d43ba921
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -354,6 +670,20 @@ SUMMARY:ЛК Технологическая отработка изделий Р
 UID:805eba656b08b9c81c47dbec1b0b3351
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260220T150000Z
+LOCATION:24-308Б
+DTSTART:20260220T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:d534b8f208e96f913cd26c0b0bddb3eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:--каф.
+DTSTART:20260423T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:82b50ba2991d58f448d4d64f41af23c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20251128T073000Z
 LOCATION:2-401(2В)
@@ -362,12 +692,26 @@ SUMMARY:ЛК Ракетные двигатели
 UID:4acf7957c9d44398a18438b2fa2ade28
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:--каф.
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:07586a3cef2daad66c98eb7cf9daab0a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251222T164500Z
 LOCATION:24-402
 DTSTART:20251222T151500Z
 SUMMARY:ПЗ Технологическая отработка изделий РКТ
 UID:8ebbc044c9fd7d7e22384fa6c8735df2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:610ef95dd392282faa5f2e8bf64a486c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T091500Z
@@ -393,6 +737,35 @@ SUMMARY:ПЗ Экономика и организация промышленно
 UID:00d95076f3b93bba246cb0a29fa258df
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:--каф.
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d2de15a09bbe02043d22cfb8eba2431d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:24-308В
+DTSTART:20260429T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:d192f3250ea428676c5204edba5e2322
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260428T131500Z
+LOCATION:24-308В
+DTSTART:20260428T114500Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:a3f9bef37121264d341357c4b06300b0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T091500Z
+LOCATION:--каф.
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:de0a932d999c441f326e62709c235126
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251215T113000Z
 LOCATION:11-25
@@ -409,6 +782,14 @@ SUMMARY:ПЗ Теория поиска и принятия решений
 UID:6799750adb405fc615b8423e75276c8e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260408T113000Z
+LOCATION:24-308В
+DTSTART:20260408T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:0828f2e4e0a32a840a8d6f61b2136286
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251006T150000Z
 LOCATION:24-402
@@ -417,12 +798,34 @@ SUMMARY:ЛК Технологическая отработка изделий Р
 UID:fc4de0efebdcf1abcd713417aa36bfde
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:--каф.
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:314adc8ceaac8510dc2b7a957cffd52b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260217T073000Z
+LOCATION:24-308Б
+DTSTART:20260217T060000Z
+SUMMARY:ПЗ УИРС
+UID:7c99a361114fd3f25a6f9b8698694403
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251013T150000Z
 LOCATION:24-402
 DTSTART:20251013T133000Z
 SUMMARY:ЛК Технологическая отработка изделий РКТ
 UID:048108594d9ea5caa4c11ecfe153ca49
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T091500Z
+LOCATION:24-600
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:83c4c4b9e1c5f2181f2f7b4607257ed5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T073000Z
@@ -463,6 +866,28 @@ SUMMARY:ПЗ Системный анализ
 UID:4f2da0519bf600565122738c8aa999ae
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260515T150000Z
+LOCATION:24-308Б
+DTSTART:20260515T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:a583448ddf6036e3eb6a2432ac6c9a6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260406T073000Z
+LOCATION:24-402
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:94f33cc4ffd7906e7e6a2d0f8b38866c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф.
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:05d6816b7fb51640ed2eb01d989fd2bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251020T131500Z
 LOCATION:11-25
@@ -477,6 +902,14 @@ LOCATION:24-413
 DTSTART:20251217T100000Z
 SUMMARY:ЛК Теория поиска и принятия решений
 UID:3a7cd3216c2d02cecc429c4f17768b2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260512T073000Z
+LOCATION:24-308Б
+DTSTART:20260512T060000Z
+SUMMARY:ПЗ УИРС
+UID:7b0b896715df14b922c449459805c6f2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T073000Z
@@ -507,6 +940,13 @@ LOCATION:--каф.
 DTSTART:20250911T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:195c0d4016a0d14293efe888f9186108
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f03b9120c40e8ace8166c09d560e16a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
@@ -541,6 +981,14 @@ SUMMARY:ПЗ Технологическая отработка изделий Р
 UID:9ef6eca01c1e60523810aa3caf1b74b6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260511T131500Z
+LOCATION:11-25
+DTSTART:20260511T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:80bbc086b48da8c004d210ec2d68a2c3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
 DTEND:20251112T073000Z
 LOCATION:24-308Б
@@ -549,12 +997,27 @@ SUMMARY:ПЗ Теория поиска и принятия решений
 UID:c93c39f6b3c06406179bba0d767e353c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0937c7f72e42f83c56892be31f28f663
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
 DTEND:20251224T073000Z
 LOCATION:24-308Б
 DTSTART:20251224T060000Z
 SUMMARY:ПЗ Теория поиска и принятия решений
 UID:5af2abd6e971c6b41c795678cdffea98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260318T131500Z
+LOCATION:24-308В
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:c3d848d946745d015b72d627d51ba153
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T131500Z
@@ -594,6 +1057,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:f5983e59a9ecf5bd3329b8632f78e589
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:24-308Б
+DTSTART:20260213T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:dcaf5378dd10dad2cb23d7db59b2b07c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260324T113000Z
+LOCATION:5-319
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Управление проектами
+UID:6c43b1b165fd8b0f9bc6c49548fb4425
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20251018T113000Z
 LOCATION:24-318Б
@@ -610,11 +1088,33 @@ SUMMARY:ЛК Прочность летательных аппаратов
 UID:c35533d9d9bfc80bb5aec453dda36cd0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:24-308Б
+DTSTART:20260424T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:cd0f21b854b4697ee0c4a36bab16eb56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:24-308В
+DTSTART:20260304T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:e9ce7d858ccaa6460093538dfb532b15
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251127T131500Z
 LOCATION:--каф.
 DTSTART:20251127T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7e87c95c6d0b116163383df6a2bd60ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260504T073000Z
+LOCATION:24-402
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:6e75d064dcca191d661351bbc9170ff6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
@@ -665,6 +1165,35 @@ SUMMARY:ЛК Экономика и организация промышленно
 UID:ba6328493645d7c6cd618df257dd56b5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260225T113000Z
+LOCATION:24-308В
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:cf3e717fbba93fd13147624d8b3e3c8a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:24-308В
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:396dd4019e917cdcb12c4b5df69111a0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:24-308В
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:728366a7297485afab8cff24c5b8984a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф.
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9c0cd199cb89bf88cfa4d6d6dae4cadd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251103T113000Z
 LOCATION:11-25
@@ -689,6 +1218,21 @@ SUMMARY:ПЗ УИРС
 UID:bde3a7118e54aa82766fee8e006849d2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260508T113000Z
+LOCATION:5-318
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:61bb36ebba1e413fc314c6dd4bbbeda2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T131500Z
+LOCATION:--каф.
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d0df4c926fef9009dbb42f27b139c6b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20250915T150000Z
 LOCATION:24-402
@@ -705,11 +1249,33 @@ UID:d4fa05719bd0702216f94b340ed797bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
+DTEND:20260406T131500Z
+LOCATION:11-25
+DTSTART:20260406T114500Z
+SUMMARY:ПЗ Технологические САПР
+UID:aa70d10bed57199fc0f75a3d0af7ad7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
 DTEND:20250922T113000Z
 LOCATION:11-25
 DTSTART:20250922T100000Z
 SUMMARY:ЛК Информационное моделирование инженерных объектов
 UID:c763714b87681f94d6c179484759be54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e314fba555f2bec466ee3c420dbb93d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1c6814de2dba6749d00cc86405da7b78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
@@ -725,6 +1291,13 @@ LOCATION:--каф.
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:4306d89ebc4412b782f0be821fb193e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:221db2a14748a4585ff6b0f9a3aebfc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -749,6 +1322,13 @@ LOCATION:2-401(2В)
 DTSTART:20251031T060000Z
 SUMMARY:ЛК Ракетные двигатели
 UID:f058213fa65d0cef6e97042fcab47cd7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:24-308В
+DTSTART:20260408T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:53f48b1ab0f8cad4f25682ad3978f7f2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -805,6 +1385,14 @@ SUMMARY:ПЗ Экономика и организация промышленно
 UID:cea0026f67abca5d6aa1a787bb4ad3f0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260218T131500Z
+LOCATION:24-308В
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:ae88d35ba773852b33437410e87c9ab3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T091500Z
 LOCATION:--каф.
 DTSTART:20251218T074500Z
@@ -820,11 +1408,25 @@ SUMMARY:ЛК Экономика и организация промышленно
 UID:0a81dbad9681f50d8a61d53acff9f4d6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T073000Z
+LOCATION:--каф.
+DTSTART:20260604T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2a15cac552a4168238f2f4aeac53cdd7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T131500Z
 LOCATION:--каф.
 DTSTART:20251211T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:6b8240a3b6fa6443d436a3106fdb5faf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T073000Z
+LOCATION:24-308В
+DTSTART:20260401T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:6f06cee805d221b3395fefa212a559e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -849,6 +1451,51 @@ LOCATION:2-401(2В)
 DTSTART:20251031T074500Z
 SUMMARY:ЛК Ракетные двигатели
 UID:7eb8c2860440bef6189d670633a89079
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T091500Z
+LOCATION:--каф.
+DTSTART:20260604T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:812d2403325b93cffc5a2109d6e5970c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260216T113000Z
+LOCATION:11-25
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:563454fe4db876ca1d9533cfa96e7d34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260506T113000Z
+LOCATION:24-308В
+DTSTART:20260506T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:2f0dd6191eee10df78d9fa6b35f4cfcd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T073000Z
+LOCATION:24-308В
+DTSTART:20260527T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:290aa23aceab9fe3a63cf62196fb6988
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:02d0267ee982f77baf1385d238e64088
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260316T073000Z
+LOCATION:24-402
+DTSTART:20260316T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:7421945cd2dda425776bf8df92d55c3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -897,6 +1544,13 @@ SUMMARY:ЛК Технологическая отработка изделий Р
 UID:1812c0bc73672757c291eac97102c31f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф.
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:89cffd7b7ce7b20dfb3c11e3baee22b7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20251114T073000Z
 LOCATION:2-401(2В)
@@ -919,6 +1573,29 @@ LOCATION:24-413
 DTSTART:20251203T100000Z
 SUMMARY:ЛК Теория поиска и принятия решений
 UID:23015f685010cfdd75d4729ca3f263f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260414T131500Z
+LOCATION:24-308В
+DTSTART:20260414T114500Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:a4b589d36ac72b86a309409b1464510f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1ddf5e3eb3322611f4814f52f8ee167d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260520T113000Z
+LOCATION:24-308В
+DTSTART:20260520T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:7e32e530118c3d8841db134bb8fd46f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
@@ -952,6 +1629,66 @@ SUMMARY:ПЗ Системный анализ
 UID:27a75a218fa97cf32a2e1f95007a47d2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260526T113000Z
+LOCATION:24-308В
+DTSTART:20260526T100000Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:f0edcb94e05408e95f31b9d7c8597942
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T150000Z
+LOCATION:24-308Б
+DTSTART:20260403T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:910e3305229ad41e4bbc27f36cc136e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:24-308В
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:36d27d2c1e5c72c0ff49d5fc1d9e2428
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260511T091500Z
+LOCATION:24-402
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:d9c8c9016e2148d96fd8bda528dec7a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260218T113000Z
+LOCATION:24-308В
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:1fb3817024dc00150900ef421de76fbb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c8621eeb87d9eafa61ca96a5126b218b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260227T113000Z
+LOCATION:5-318
+DTSTART:20260227T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:18ce727d3569195c95b8eff1608c5116
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T150000Z
+LOCATION:24-308Б
+DTSTART:20260529T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:99aac028c8217612513dce0d45f84d35
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20250919T073000Z
 LOCATION:2-401(2В)
@@ -974,6 +1711,13 @@ LOCATION:11-25
 DTSTART:20250929T114500Z
 SUMMARY:ПЗ Информационное моделирование инженерных объектов
 UID:2aa5816537ffa9a0aeb0e245204c097a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T131500Z
+LOCATION:24-308Б
+DTSTART:20260529T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:dd47aacb9c84db6fb56ea58d86722474
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юдин Андрей Дмитриевич
@@ -999,6 +1743,29 @@ SUMMARY:ЛР Ракетные двигатели
 UID:00988f87770cbd93c7af301496871b72
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260511T073000Z
+LOCATION:24-402
+DTSTART:20260511T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:250e5ded4a60cc7344409eb06d9f1aab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:--каф.
+DTSTART:20260604T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3dd3ce28c25f2ccfee812de4458bd3f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260525T131500Z
+LOCATION:11-25
+DTSTART:20260525T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:f85f4a87cc0721f3c728e0fe943c7cb5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250909T091500Z
 LOCATION:24-413
 DTSTART:20250909T074500Z
@@ -1020,6 +1787,14 @@ LOCATION:3-407
 DTSTART:20251028T114500Z
 SUMMARY:ПЗ Экономика и организация промышленности
 UID:f4b79bd7049f4e8e15e053e307b79d99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260519T113000Z
+LOCATION:5-319
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Управление проектами
+UID:89e068abc9cd3d3c44c793d6bf5b9524
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кретов Анатолий Степанович
@@ -1075,6 +1850,14 @@ SUMMARY:ЛК Прочность летательных аппаратов
 UID:f7f53272d8a0debf99967172d0d8cdaa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260330T091500Z
+LOCATION:24-402
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:6bf987669de77b0ca48b4b1ee1719c0a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251006T131500Z
 LOCATION:11-25
@@ -1106,6 +1889,27 @@ SUMMARY:ЛК Информационная поддержка производс�
 UID:478835b626c07573adacad49ef086486
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф.
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ae8f1a78a709a43d89a6d003a411a553
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T150000Z
+LOCATION:24-308Б
+DTSTART:20260320T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:d915729e5c64fad190a654150d14180c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф.
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b8eb79f7a44e2a93159157921db5d048
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
 DTEND:20251008T073000Z
 LOCATION:24-308Б
@@ -1127,6 +1931,13 @@ LOCATION:24-316Б
 DTSTART:20251115T074500Z
 SUMMARY:ПЗ Теория автоматического управления
 UID:b1e44ad39964c0737f7440fc168c4859
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:24-308В
+DTSTART:20260218T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:aac92a62c06db01af192c9f88f6d58dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
@@ -1182,12 +1993,28 @@ SUMMARY:ЛР Прочность летательных аппаратов
 UID:6709b40810bef0f3efcbf2f45e7ac29d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260429T131500Z
+LOCATION:24-308В
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:d7f5a1f8947924f5f83bff8c2b0dbc36
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20251017T091500Z
 LOCATION:2-401(2В)
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Ракетные двигатели
 UID:bd0ae0e276830f9ea6dc2193629bd75f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260224T113000Z
+LOCATION:5-319
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Управление проектами
+UID:f69e0f232141a3c541b232037a5ce407
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -1205,12 +2032,28 @@ SUMMARY:ПЗ Военная подготовка
 UID:f595a9ece44f06e964679934619e8903
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260330T131500Z
+LOCATION:11-25
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:068bc9fc00251f133339362f23634fb9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251110T164500Z
 LOCATION:24-402
 DTSTART:20251110T151500Z
 SUMMARY:ПЗ Технологическая отработка изделий РКТ
 UID:66fd796328551605e7d1386e674397e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260520T131500Z
+LOCATION:24-308В
+DTSTART:20260520T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:60a2cde3b71147ce6000d5601a715432
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Юдин Андрей Дмитриевич
@@ -1229,12 +2072,50 @@ SUMMARY:ЛК Информационная поддержка производс�
 UID:6a5bcd52378407be8fd67581bd73b392
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:500851bc26cb91360b68a6029e7646de
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20250905T091500Z
 LOCATION:2-401(2В)
 DTSTART:20250905T074500Z
 SUMMARY:ЛК Ракетные двигатели
 UID:6aa4e7e4ad720af024d48ce3e3c807c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260415T131500Z
+LOCATION:24-308В
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:e913f9938dc155f01a7ca5bf61064d3c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:24-308В
+DTSTART:20260415T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:fa75ea0bfbde1c2cead649804b16bfde
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260217T091500Z
+LOCATION:24-308Б
+DTSTART:20260217T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:d532b39ab6735be7325cc0ee4b29fe0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260602T091500Z
+LOCATION:24-308Б
+DTSTART:20260602T074500Z
+SUMMARY:ПЗ Технологические процессы в космосе
+UID:1a5e69333e3a75d5cee59300413a2334
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
@@ -1252,6 +2133,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:0d28ecf11ff5802f79c7430c22604957
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260505T091500Z
+LOCATION:24-308Б
+DTSTART:20260505T074500Z
+SUMMARY:ПЗ Технологические процессы в космосе
+UID:10160c943f26761f497b79686c1a059f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20250920T131500Z
 LOCATION:24-318Б
@@ -1265,6 +2154,22 @@ LOCATION:--каф.
 DTSTART:20251009T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:87ce3112c5c38c8136b5a0b206e80b18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260427T131500Z
+LOCATION:11-25
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:474a27cc3a4bf9873d52d1350d95a1ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260413T073000Z
+LOCATION:24-402
+DTSTART:20260413T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:66cf637cde7fdbb765ba219d2ddc6280
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
@@ -1282,6 +2187,14 @@ SUMMARY:ЛК Системный анализ
 UID:94420e6c67c0d2613baaf1179e469940
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260420T091500Z
+LOCATION:24-402
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:740a0c9374c0e0ef9ec3339bcc0749f8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20251101T131500Z
 LOCATION:24-318Б
@@ -1290,11 +2203,34 @@ SUMMARY:ЛР Теория автоматического управления
 UID:657edb1091b76b1841f494fa3c3767e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260525T113000Z
+LOCATION:11-25
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:88d487d8e22b6f349862e8f1ded3aab0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:24-308В
+DTSTART:20260225T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:f47d4bebd52c11fa61e2b992bd769906
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T091500Z
 LOCATION:--каф.
 DTSTART:20251120T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:76af916f6be202384cecb3b7c295bcbf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260408T131500Z
+LOCATION:24-308В
+DTSTART:20260408T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:dfce3f629f62d5cd5aec1bd69a3be416
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
@@ -1305,12 +2241,34 @@ SUMMARY:ЛК Прочность летательных аппаратов
 UID:9fb69928009d69a2f940dd9901c7778d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T073000Z
+LOCATION:--каф.
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6adbcec15d56fad46dde845f0e047953
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251124T113000Z
 LOCATION:11-25
 DTSTART:20251124T100000Z
 SUMMARY:ЛК Информационное моделирование инженерных объектов
 UID:ae7dc298aa9e686aad6cb7c95a7d269a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:24-600
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:efd695c57af5b71b8ba5ae351a0967ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260414T091500Z
+LOCATION:24-308Б
+DTSTART:20260414T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:f58c0b94c37c1ae8bc9e0d66b0d88fd2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T073000Z
@@ -1335,6 +2293,22 @@ SUMMARY:ПЗ Военная подготовка
 UID:c6a08acbc9970ffc5dab415161cd94d5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260413T113000Z
+LOCATION:11-25
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:453dbebe2498b81ce2d22dc6c486b156
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260316T131500Z
+LOCATION:11-25
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:d8510816a99b5b8ab1d9d77fa2cc9304
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251007T091500Z
 LOCATION:24-413
 DTSTART:20251007T074500Z
@@ -1350,12 +2324,36 @@ SUMMARY:ЛК Информационная поддержка производс�
 UID:55eda348188843ebe2941aeef6a743e6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260211T113000Z
+LOCATION:24-308В
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:61b57a610ab4a2f50a8de88ab3fdcc90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260424T113000Z
+LOCATION:5-318
+DTSTART:20260424T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:e4c8b35b8c1f4f9ae8df58c32d6ecc8b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20250915T113000Z
 LOCATION:11-25
 DTSTART:20250915T100000Z
 SUMMARY:ЛК Информационное моделирование инженерных объектов
 UID:4d3b1f387a84b8f1440b208108e2ffe2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260505T073000Z
+LOCATION:24-308Б
+DTSTART:20260505T060000Z
+SUMMARY:ПЗ УИРС
+UID:518952fef5139ccdd7e85794ee873a31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Болдина Ирина Анатольевна
@@ -1366,6 +2364,51 @@ SUMMARY:ПЗ Экономика и организация промышленно
 UID:2be092fa7b1a80fee1e9e67d1633cc02
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260314T073000Z
+LOCATION:24-600
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:876ead5fa8583a7b4d3a4b1c533ed7fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260324T073000Z
+LOCATION:24-308Б
+DTSTART:20260324T060000Z
+SUMMARY:ПЗ УИРС
+UID:5d443a8a991e404b1eea932314457622
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260422T131500Z
+LOCATION:24-308В
+DTSTART:20260422T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:c1b499ad195c6f5ea1f3cc842481eeef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fdd1bed77c9e8579fb03af4203b90998
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:--каф.
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:881199d72c41d7bbf90ff7ec4a631a64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260225T131500Z
+LOCATION:24-308В
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:2a963be9e7d25caa2929cfd046b90acd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251013T113000Z
 LOCATION:11-25
@@ -1374,12 +2417,26 @@ SUMMARY:ЛК Информационное моделирование инжен�
 UID:ffca7523a016365b7184b9696a249840
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:24-600
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:763cfff92e2ac9a62dd4cc6197b24000
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251027T164500Z
 LOCATION:24-402
 DTSTART:20251027T151500Z
 SUMMARY:ПЗ Технологическая отработка изделий РКТ
 UID:389afd35f6fcf1e8782fc6d9c56c0859
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:24-308Б
+DTSTART:20260410T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:eead2e29d929eb541648252d2b83f948
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -1398,6 +2455,13 @@ SUMMARY:ЛК Информационная поддержка производс�
 UID:2a4b9b017da4634a20b551ea222cc985
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:24-308В
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:1e618195bb7d2771df0f857c8c719ecb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
 DTEND:20251017T113000Z
 LOCATION:24-400
@@ -1411,6 +2475,14 @@ LOCATION:--каф.
 DTSTART:20251204T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c96d9176a8853182aba6fd662896b3d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260420T113000Z
+LOCATION:11-25
+DTSTART:20260420T100000Z
+SUMMARY:ПЗ Технологические САПР
+UID:8066678770a7b4584e4068652147ab12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1465,6 +2537,21 @@ LOCATION:--каф.
 DTSTART:20251016T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:77809aa94b9881d0c045acc825abb082
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:de71ff9c3c38624c078a5611eea2353e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260504T131500Z
+LOCATION:11-25
+DTSTART:20260504T114500Z
+SUMMARY:ПЗ Технологические САПР
+UID:c1d80a2ec508585c6cde3aa7d8493725
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1589,12 +2676,34 @@ SUMMARY:ПЗ Военная подготовка
 UID:6ab8d2634a5869947d798bb9eabe480c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:24-308Б
+DTSTART:20260417T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:72f0e4d880d2343c7b138bc4c8b13188
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Береговой Виктор Георгиевич
 DTEND:20251022T131500Z
 LOCATION:11-33
 DTSTART:20251022T114500Z
 SUMMARY:ПЗ УИРС
 UID:f1204aeb13dbabe0844cb1c64491c25a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260302T131500Z
+LOCATION:11-25
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:f68fcc08d8e7f0bc3665c9a5320245a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:24-308В
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:9fcae8bae2bdbc28008d83bca6ec4dae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T091500Z
@@ -1604,12 +2713,66 @@ SUMMARY:ПЗ Военная подготовка
 UID:e1a7b00d0bccd762bef2a45c0a106157
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260512T091500Z
+LOCATION:24-308Б
+DTSTART:20260512T074500Z
+SUMMARY:ПЗ Технологические процессы в космосе
+UID:7edfdccd4bb43b61f00d812b95b02b30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260407T091500Z
+LOCATION:24-308Б
+DTSTART:20260407T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:4c52935d3c0780c3eea753ba60a9340f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20251101T113000Z
 LOCATION:24-318Б
 DTSTART:20251101T100000Z
 SUMMARY:ЛР Теория автоматического управления
 UID:68d8fed19cf50e7f38e697875cbc478b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260602T073000Z
+LOCATION:24-308Б
+DTSTART:20260602T060000Z
+SUMMARY:ПЗ УИРС
+UID:b2fbd8cd856cd3cb402bc240b9f3767e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T150000Z
+LOCATION:24-440
+DTSTART:20260418T133000Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:77ec9eccfc6b6264df0702b7795aa8a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260311T131500Z
+LOCATION:24-308В
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:198c72b50c27a801f69dad60c605bf20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260317T091500Z
+LOCATION:24-308Б
+DTSTART:20260317T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:8beb6a28be72e9501da9416d3d3a7407
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T164500Z
+LOCATION:24-440
+DTSTART:20260516T151500Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:96e03f6e27dc50ab86f04d4013a746f2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T113000Z
@@ -1651,11 +2814,49 @@ SUMMARY:ЛК Ракетные двигатели
 UID:88f4409426bc98a26da722a76e855b2e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260216T131500Z
+LOCATION:11-25
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:b630a139eb8277235aca70ac213665f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260427T113000Z
+LOCATION:11-25
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:66802ccc256a7baba9539f3a47000273
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T150000Z
+LOCATION:24-440
+DTSTART:20260516T133000Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:c903f4cb5fe5a7581470eb2e2be50fe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260420T073000Z
+LOCATION:24-402
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:8e961b4af2639d050039a45a2b5d4ef4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T113000Z
 LOCATION:--каф.
 DTSTART:20250904T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:00adada97f655678598447c6b7bc0617
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b927effe46092f0c8171e9e99109c60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кретов Анатолий Степанович
@@ -1666,12 +2867,34 @@ SUMMARY:ПЗ Прочность летательных аппаратов
 UID:cfea061208ded06304e0fe9dc3e846d1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:24-308Б
+DTSTART:20260313T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:e585d30adeb1a3e354137cbd4934542e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:425f7d575282fdc2309e3b564da9db81
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
 DTEND:20251008T113000Z
 LOCATION:24-413
 DTSTART:20251008T100000Z
 SUMMARY:ЛК Теория поиска и принятия решений
 UID:22441129bd44d64d1ebdc31f7298baca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260302T073000Z
+LOCATION:24-402
+DTSTART:20260302T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:33a4351b79a31b5dfd68472223177cbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -1682,6 +2905,27 @@ SUMMARY:ЛК Экономика и организация промышленно
 UID:3ddd711bbf027249a35ba4576599e475
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:24-308В
+DTSTART:20260527T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:4f4123c77f38e7517cfee4eee1100581
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T150000Z
+LOCATION:24-308Б
+DTSTART:20260417T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:4cbaa0fa3ad1d65f674e37e1ea6fc0b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cb924419f665d0fd6adaf985ea74d6b3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20250922T131500Z
 LOCATION:11-25
@@ -1690,12 +2934,58 @@ SUMMARY:ПЗ Информационное моделирование инжен�
 UID:4cc912b5a077fc9c4a447f9999f1dc0f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260504T113000Z
+LOCATION:11-25
+DTSTART:20260504T100000Z
+SUMMARY:ПЗ Технологические САПР
+UID:9d614227a37205c6ef973aee0d354b90
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f3c3be35d899333457fa9a4867194cfb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юдин Андрей Дмитриевич
 DTEND:20251004T091500Z
 LOCATION:24-316Б
 DTSTART:20251004T074500Z
 SUMMARY:ПЗ Теория автоматического управления
 UID:df824bb5bb28999bc15876e8ff6965c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260504T091500Z
+LOCATION:24-402
+DTSTART:20260504T074500Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:56a9394e14702dd9aaaeab7ffb6d638b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260422T113000Z
+LOCATION:24-308В
+DTSTART:20260422T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:db9aa524c8554e25b5fd99560a054b64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260324T091500Z
+LOCATION:24-308Б
+DTSTART:20260324T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:ec86a4e36feeb638ed8afa801c7569e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5e26843155935e604f25f3cb7a871fe5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T073000Z
@@ -1713,12 +3003,73 @@ SUMMARY:ЛК Информационная поддержка производс�
 UID:b9bc0dc59799ae620a5b5bd5ae8cfde1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260414T113000Z
+LOCATION:24-308В
+DTSTART:20260414T100000Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:c8ae7443ad1307ad62459dec12113fb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260522T113000Z
+LOCATION:5-318
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:b4917f596d2312621a368cffc4f32ba6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф.
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6c7577a652a49648300f3f81cfe0d759
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260406T113000Z
+LOCATION:11-25
+DTSTART:20260406T100000Z
+SUMMARY:ПЗ Технологические САПР
+UID:9b6e28ca185fdf52e6846720dd5ea007
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
 DTEND:20251003T113000Z
 LOCATION:24-400
 DTSTART:20251003T100000Z
 SUMMARY:ЛК Прочность летательных аппаратов
 UID:e6180a909ae5e6fc4b67805111f6de9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bd0aeaf4bb49173e343bf2de13d67081
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1524f84a898b1594f3849bc8760ee444
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260519T091500Z
+LOCATION:24-308Б
+DTSTART:20260519T074500Z
+SUMMARY:ПЗ Технологические процессы в космосе
+UID:611039b7ffcf9c9c15aa2302014f0165
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260331T091500Z
+LOCATION:24-308Б
+DTSTART:20260331T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:545fa784eaa923bac7aeae526fbdc0a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -1735,6 +3086,20 @@ LOCATION:2-401(2В)
 DTSTART:20251226T074500Z
 SUMMARY:ЛК Ракетные двигатели
 UID:b314712f991a66c6b9aec4fa9249a1f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T150000Z
+LOCATION:24-440
+DTSTART:20260530T133000Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:68261d66682d1a236bb6443837910542
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:--каф.
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8825e725f8be350c935463fd5767e66a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1777,6 +3142,14 @@ SUMMARY:ПЗ Информационное моделирование инжен�
 UID:a80a8a803cbc16c3adfa8260d54210db
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260420T131500Z
+LOCATION:11-25
+DTSTART:20260420T114500Z
+SUMMARY:ПЗ Технологические САПР
+UID:67f482675f00b3e55f01288d8a63244a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T131500Z
 LOCATION:--каф.
 DTSTART:20250904T114500Z
@@ -1790,6 +3163,29 @@ LOCATION:2-401(2В)
 DTSTART:20251017T060000Z
 SUMMARY:ЛК Ракетные двигатели
 UID:c0759dba8a4c4a680f3630cbab5040d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260526T131500Z
+LOCATION:24-308В
+DTSTART:20260526T114500Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:2cce0d403c90a1ee363c3e2de1fd0108
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:24-308Б
+DTSTART:20260306T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:ac25139ea6931c990c7d95cc419b8bf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260505T113000Z
+LOCATION:5-319
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Управление проектами
+UID:7a4e842b8655cf74278b28666b6d348d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Виктория Витальевна
@@ -1823,6 +3219,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:217d2d0b463f9db1cd9b74193f8a0e1d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260401T113000Z
+LOCATION:24-308В
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:955b119135e6c48281fe184ef6defaa0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cc8a92731eceff09b068560d0090effa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20250915T131500Z
 LOCATION:11-25
@@ -1837,6 +3248,29 @@ LOCATION:24-310
 DTSTART:20251010T060000Z
 SUMMARY:ЛР Прочность летательных аппаратов
 UID:054da6d1fff54ee1ada4c7d040290c96
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:24-308В
+DTSTART:20260218T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:4f80a131446bcf80edd580bb839bc771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260407T073000Z
+LOCATION:24-308Б
+DTSTART:20260407T060000Z
+SUMMARY:ПЗ УИРС
+UID:0eafc81513fc2b337e7e6eb66347a91d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260210T091500Z
+LOCATION:24-308Б
+DTSTART:20260210T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:88e9c35e6f4a1082661b7d8db879dbfc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T113000Z
@@ -1862,6 +3296,22 @@ SUMMARY:ПЗ Информационное моделирование инжен�
 UID:92650d35d73bc26abadf580b54c439c9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260413T131500Z
+LOCATION:11-25
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Технологические САПР
+UID:0bf08f89dd30a311ded5f30c790d7ea4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260428T073000Z
+LOCATION:24-308Б
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ УИРС
+UID:b211cb00bb314539593e183f2620307e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T091500Z
 LOCATION:--каф.
 DTSTART:20250911T074500Z
@@ -1882,6 +3332,20 @@ LOCATION:--каф.
 DTSTART:20251127T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:5f3625f8939f8c0b32d1bf393eb27b3e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:--каф.
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0730e08513ab8aef2c4a011b250d43a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:--каф.
+DTSTART:20260409T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ac344425eadeedeec915d4a37eae2aed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
@@ -1939,6 +3403,36 @@ SUMMARY:ПЗ Информационное моделирование инжен�
 UID:6355788718b8aa7ae8b564770c296896
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:dc830fae0a9b12c348482a2827f2a4f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T073000Z
+LOCATION:24-308В
+DTSTART:20260429T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:ac049e30e1bcce06d5c145952c9c9fa9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260525T091500Z
+LOCATION:24-402
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:ff0c427cfe2904936957d40960790bcf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260303T073000Z
+LOCATION:24-308Б
+DTSTART:20260303T060000Z
+SUMMARY:ПЗ УИРС
+UID:d4b67dbd3f34a55a5847912f3618f4f0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кретов Анатолий Степанович
 DTEND:20251112T113000Z
 LOCATION:24-507
@@ -1954,12 +3448,43 @@ SUMMARY:ЛР Ракетные двигатели
 UID:95d4307a53ac22cf292819f4aba1f59b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260518T073000Z
+LOCATION:24-402
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:1f84f466c0dceb98e6f28b4cfc65d3be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:24-308В
+DTSTART:20260318T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:a092de6780b7c34ec99603defb40da72
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20250929T113000Z
 LOCATION:11-25
 DTSTART:20250929T100000Z
 SUMMARY:ЛК Информационное моделирование инженерных объектов
 UID:893c8fdfd8f3d897c73ffc13162f3578
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260316T091500Z
+LOCATION:24-402
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:3633a35f1fab6d54b7f001a88a316cda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260410T113000Z
+LOCATION:5-318
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:68362a826071d5eb308994687e893ae7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
@@ -1970,11 +3495,71 @@ SUMMARY:ЛК Технологическая отработка изделий Р
 UID:9aa028730c4e6d901ac8aa9a514f7326
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260310T091500Z
+LOCATION:24-308Б
+DTSTART:20260310T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:f3059bf0bf6756719ab3a96d57ff7652
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260310T113000Z
+LOCATION:5-319
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Управление проектами
+UID:ad9dece3716070ee62999b47299ee5e8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T073000Z
 LOCATION:--каф.
 DTSTART:20251120T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:954e6664fd8a364334a692d83654e4c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260421T091500Z
+LOCATION:24-308Б
+DTSTART:20260421T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:2ad6fdf58859cab60bff1063ee338944
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:--каф.
+DTSTART:20260312T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:64e6269a4f5ea836ec82a833c8ca0185
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3b87d3f56f08e3d8372021d781b8ee66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260325T113000Z
+LOCATION:24-308В
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:798b96919abb89d88b686d0299b5a56b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T164500Z
+LOCATION:24-440
+DTSTART:20260418T151500Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:ef47ea340ad2199b286202ebbf75cb8b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:31852b7f4be70614f509280a93b7bb0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1983,6 +3568,13 @@ LOCATION:11-25
 DTSTART:20251201T114500Z
 SUMMARY:ПЗ Информационное моделирование инженерных объектов
 UID:6d4d3a569f9c01022d32141afcf30b79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:--каф.
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b4979eba35acc62adec6314f7641d0c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T073000Z
@@ -2000,12 +3592,26 @@ SUMMARY:ПЗ Экономика и организация промышленно
 UID:399896098791a4ea52d5114161d0d686
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260403T131500Z
+LOCATION:24-308Б
+DTSTART:20260403T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:e837f29981353facf203d4a9ccf1ef90
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
 DTEND:20251105T113000Z
 LOCATION:24-413
 DTSTART:20251105T100000Z
 SUMMARY:ЛК Теория поиска и принятия решений
 UID:530908ce13decb2eecc77c3f055febad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:24-308Б
+DTSTART:20260220T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:eaf26b669341a8a16b2809d1998042d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
@@ -2023,11 +3629,34 @@ SUMMARY:ПЗ Военная подготовка
 UID:c5959cac99c65cca70984981006fa3dc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:24-308Б
+DTSTART:20260227T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:ff5ecf6651c93edf7a259302b89c3ecf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260330T113000Z
+LOCATION:11-25
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:42b01c0d98dfe113fc99db06a8128742
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251111T073000Z
 LOCATION:24-308Б
 DTSTART:20251111T060000Z
 SUMMARY:ПЗ Системный анализ
 UID:cae290ce58a5fe2e7bdd81c907909535
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260429T113000Z
+LOCATION:24-308В
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:28ea6c4b27124c50c01aaaebad9a8e1a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250923T091500Z
@@ -2045,6 +3674,13 @@ SUMMARY:ЛР Теория автоматического управления
 UID:2c823be841242f9aee69b250708da138
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260508T131500Z
+LOCATION:24-308Б
+DTSTART:20260508T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:8b61d361fbc876255b3e5ff8accfead9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T091500Z
 LOCATION:--каф.
 DTSTART:20250904T074500Z
@@ -2059,12 +3695,65 @@ SUMMARY:ПЗ Военная подготовка
 UID:5f2879d6539b2b05351dadc807f5484e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260421T113000Z
+LOCATION:5-319
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Управление проектами
+UID:5f485de0a457e8cb84e4b3b211439635
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ba89ad272735e762e01fa84635133e18
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:24-308В
+DTSTART:20260513T074500Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:9371eacc399046e4e62c80d8f7d91749
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T131500Z
+LOCATION:24-308Б
+DTSTART:20260522T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:c865b18f7f7fb0f68e3ed40f42fc9d3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260414T073000Z
+LOCATION:24-308Б
+DTSTART:20260414T060000Z
+SUMMARY:ПЗ УИРС
+UID:c8981421516942c1dbfe69fd59fe2432
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251020T113000Z
 LOCATION:11-25
 DTSTART:20251020T100000Z
 SUMMARY:ЛК Информационное моделирование инженерных объектов
 UID:a09dfd2d336cfa1df7e2c7ad36a2c02d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260316T113000Z
+LOCATION:11-25
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:87f907eb69e05974485e669fb9dc98e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260518T091500Z
+LOCATION:24-402
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:62788d319e66d1e58706ae3ea2f691b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -2097,6 +3786,59 @@ SUMMARY:ПЗ Военная подготовка
 UID:41b9aa2ed2824131a11b8f45af7d04b0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260303T091500Z
+LOCATION:24-308Б
+DTSTART:20260303T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:45636a633dac4d1fa6946fe7216d82d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:--каф.
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fe9d30a1d50e7eb7fdb1e281fb9b1aeb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260506T131500Z
+LOCATION:24-308В
+DTSTART:20260506T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:68215bcf53d3618468a2f2e4680850da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф.
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2485745bdcdb1f8789b35803e6a39990
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260421T073000Z
+LOCATION:24-308Б
+DTSTART:20260421T060000Z
+SUMMARY:ПЗ УИРС
+UID:a8a21749c7d10cf15eeed2f53a0ffc54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:24-308В
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:7a871ee2403b1ee9ebaf0a222e5a6110
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260512T131500Z
+LOCATION:24-308В
+DTSTART:20260512T114500Z
+SUMMARY:ЛР Технологические процессы в космосе
+UID:521d6f796ed812745965a3451f8bd79e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
 DTEND:20251226T113000Z
 LOCATION:24-400
@@ -2105,11 +3847,55 @@ SUMMARY:ЛК Прочность летательных аппаратов
 UID:89e8810a605f88fc719dcffada43a78d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260530T164500Z
+LOCATION:24-440
+DTSTART:20260530T151500Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:8b86a4b349b49248042603a11bfb4e15
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T073000Z
 LOCATION:--каф.
 DTSTART:20251002T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:71a3f6c38e2ea7a870f99e6ef92ed9e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф.
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f23b9d78e2ef3cd6f8cde16016d03a1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260427T091500Z
+LOCATION:24-402
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:3e7102d7d25b4992ff690855565b4044
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260525T073000Z
+LOCATION:24-402
+DTSTART:20260525T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:f5bb78195174002625a978f1efde2708
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e6d172721a1b2813dedb55ce93759707
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф.
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0dbd823262ac6ed6fb530ef8fdf246bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -2142,12 +3928,26 @@ SUMMARY:Экзамен Прочность летательных аппарат�
 UID:7d484a0779eaf525aea33732ea454d91
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a04d8f92c48340c15b12dc8a40c4c4b9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Юдин Андрей Дмитриевич
 DTEND:20251227T091500Z
 LOCATION:24-316Б
 DTSTART:20251227T074500Z
 SUMMARY:ПЗ Теория автоматического управления
 UID:77c74e987bc693fa44f09b5d9cb11700
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф.
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3955c8af8bb045ea38d7a9ce244ae36e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Антон Николаевич
@@ -2165,6 +3965,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:8344af23e27b8efe1ccb1fc86e1db8ce
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:24-308Б
+DTSTART:20260515T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:b1b0b054906be56bff61a28608a8375e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
 DTEND:20250910T113000Z
 LOCATION:24-413
@@ -2179,6 +3986,13 @@ LOCATION:5-101
 DTSTART:20251029T074500Z
 SUMMARY:ЛК Экономика и организация промышленности
 UID:886c81a36299966589e5172d80166985
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:aecd4f0d48842554b7ef5b6ee4ce7d11
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T131500Z
@@ -2219,6 +4033,22 @@ SUMMARY:ПЗ Теория поиска и принятия решений
 UID:c01f3e21c89d6f9f61f4cc039bde516d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260330T073000Z
+LOCATION:24-402
+DTSTART:20260330T060000Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:c01b0faacc0122dc438518f34d5bf549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260413T091500Z
+LOCATION:24-402
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:f35f1fb45e54e26f145132129539b33e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251209T073000Z
 LOCATION:24-308Б
 DTSTART:20251209T060000Z
@@ -2226,11 +4056,35 @@ SUMMARY:ПЗ Системный анализ
 UID:a589adcf65f22cf1086ca0a622aa07ee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260216T091500Z
+LOCATION:24-402
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:32de3873c808de475b4e0a49b8758f38
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T131500Z
 LOCATION:--каф.
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:144c14518866b788fe528110e29741d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260325T131500Z
+LOCATION:24-308В
+DTSTART:20260325T114500Z
+SUMMARY:ЛК Основы проектирования изделий РКТ
+UID:8896104e39520a6c67572d4454952f3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260317T073000Z
+LOCATION:24-308Б
+DTSTART:20260317T060000Z
+SUMMARY:ПЗ УИРС
+UID:6e1568cd4853566eb02ab6a994ef48cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Береговой Виктор Георгиевич
@@ -2241,12 +4095,26 @@ SUMMARY:ПЗ УИРС
 UID:7b0984ca64931ea297f2a736187d7b7b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:--каф.
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:451e5fd41741e80b51efbbadcb50270f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20251124T164500Z
 LOCATION:24-402
 DTSTART:20251124T151500Z
 SUMMARY:ПЗ Технологическая отработка изделий РКТ
 UID:1ef8b4e3f9e6d34e8753f8c0539b76f5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф.
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8978f3d7b25d584a72062b5daea3249a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -2262,6 +4130,30 @@ LOCATION:--каф.
 DTSTART:20251113T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:df0fef86de790e0772893c7478a7d835
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Панасенков Валерий Петрович
+DTEND:20260318T113000Z
+LOCATION:24-308В
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Основы проектирования изделий РКТ
+UID:d6848cb6cfa8dcb82f4085a2f26a09d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260224T091500Z
+LOCATION:24-308Б
+DTSTART:20260224T074500Z
+SUMMARY:ЛК Технологические процессы в космосе
+UID:195960513572c1d75867d07153c2c3ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20260313T113000Z
+LOCATION:5-318
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Управление проектами
+UID:35d76bdc4e21a31ffd4cb39e31472a78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -2294,12 +4186,63 @@ SUMMARY:ПЗ Военная подготовка
 UID:30dc8c4bb65d178e6372024ea71fecf7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b3d1a6d9556c1577e353b909ac66970c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:--каф.
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5fc246e5fd4377d617a5d10779a27801
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:--каф.
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c8c0acc9e1a9234ae44db8eaf438a589
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20260511T113000Z
+LOCATION:11-25
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Технологические САПР
+UID:cf01eb4b6f2af40cd77af7e4bead66f9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кретов Анатолий Степанович
 DTEND:20251001T113000Z
 LOCATION:24-507
 DTSTART:20251001T100000Z
 SUMMARY:ПЗ Прочность летательных аппаратов
 UID:c21f91e5b50da981984141b3caf43bb6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T150000Z
+LOCATION:24-308Б
+DTSTART:20260306T133000Z
+SUMMARY:ПЗ Основы технологии производства изделий РКТ
+UID:4a9884ab6dbf2dbb42490478b65b6e5f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260302T091500Z
+LOCATION:24-402
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Управление эффективностью и качеством продукции
+UID:e1a7b76c99a6249a9a197ca88f7c7c5d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:24-308Б
+DTSTART:20260327T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:4a1c5362a156575eb374a42ec01ea182
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохорова Елена Павловна
@@ -2316,6 +4259,43 @@ LOCATION:24-308Б
 DTSTART:20250917T060000Z
 SUMMARY:ПЗ Теория поиска и принятия решений
 UID:594afbf37d3f0b0f3b41cd3b1dbed727
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260224T073000Z
+LOCATION:24-308Б
+DTSTART:20260224T060000Z
+SUMMARY:ПЗ УИРС
+UID:0e5f0abd6d0f3f8658c85e1b10bc2303
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T073000Z
+LOCATION:24-600
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:777e4f7e7e685f17eada8c9bea09baa9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T073000Z
+LOCATION:24-600
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:7b41ab9fe0092d1160242bdea8e88852
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T091500Z
+LOCATION:24-600
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:0474c05a3e3e2e33b94bff7acdeffc5f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260519T073000Z
+LOCATION:24-308Б
+DTSTART:20260519T060000Z
+SUMMARY:ПЗ УИРС
+UID:baac3554bf4c44cd930feb158dbe6098
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кретов Анатолий Степанович
@@ -2350,6 +4330,14 @@ SUMMARY:ПЗ Информационное моделирование инжен�
 UID:5271c4c2bd3cb4314f85c3534006f326
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20260406T091500Z
+LOCATION:24-402
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Управление эффективностью и качеством продукции
+UID:9abd676e7b2df77fa768acbe60c1d7af
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251124T131500Z
 LOCATION:11-25
@@ -2373,6 +4361,13 @@ SUMMARY:ПЗ Системный анализ
 UID:42e0a795663e521343ad8a890675e570
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:--каф.
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e1d99b5ce38a06238ec37c958ab72636
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
 DTEND:20251110T113000Z
 LOCATION:11-25
@@ -2381,10 +4376,60 @@ SUMMARY:ЛК Информационное моделирование инжен�
 UID:677272a9f7addb231cff042402d4f0e1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:24-308В
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ Основы конструирования изделий РКТ
+UID:90bcdab64eb8bca0e4d695618e90df7d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T073000Z
+LOCATION:24-308В
+DTSTART:20260415T060000Z
+SUMMARY:ЛК Основы конструирования изделий РКТ
+UID:06e95c544a17093d9c52652ceebb0fd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T131500Z
+LOCATION:24-308Б
+DTSTART:20260605T114500Z
+SUMMARY:ЛК Основы технологии производства изделий РКТ
+UID:6769efba954ce67c67ebabd188999ac7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:24-600
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:15beac3d9fdfa671ad20de60046f7ae5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T091500Z
+LOCATION:24-600
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Проектирование жизненного цикла космических систем
+UID:69b98ddc4d8fc36cf1ed4c33078adc0c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T073000Z
 LOCATION:2-410 (2В)
 DTSTART:20251205T060000Z
 SUMMARY:ЛР Ракетные двигатели
 UID:5cc92157cf5d990c009191f21749a55e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20260526T091500Z
+LOCATION:24-308Б
+DTSTART:20260526T074500Z
+SUMMARY:ПЗ Технологические процессы в космосе
+UID:a38c8a9529099057fb540700eeb97bec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T164500Z
+LOCATION:24-440
+DTSTART:20260502T151500Z
+SUMMARY:ПЗ Проектирование жизненного цикла космических систем
+UID:f29a8024f1f2fe4906f6b766d1136595
 END:VEVENT
 END:VCALENDAR

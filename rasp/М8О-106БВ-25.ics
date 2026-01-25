@@ -2,32 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251205T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251205T074500Z
+DTEND:20260218T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260218T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:4b3e16354732ebab5d4c434d1b0b1007
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260317T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:4a353c81fb2edf282e2bff397403f87f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф. 919
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:1036cd64bb2780924218a6864e76efed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T091500Z
+LOCATION:--каф. 919
+DTSTART:20260318T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:30712da98400089128d0b33c2cb2e737
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260303T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260303T114500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:61f7867e455c471507cf5d1546bb3dba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T164500Z
-LOCATION:--каф.
-DTSTART:20251021T151500Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:3afa139a3088e3fa9352a395711dcf0c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T073000Z
-LOCATION:Орш. А-101
-DTSTART:20250911T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:f0c29ab3b3a1f6a8284a22b7f1835633
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251023T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:39c8103232b98f8d9dcd41848f11465d
+UID:d3ee49b05fd0d64097f9ca25aa2cc043
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T091500Z
@@ -37,19 +45,19 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a52985b351feb017349e5c543a3a6e33
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260324T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260324T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:dd82ca7753eef610b5d550849aac3820
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:--каф. 919
 DTSTART:20251203T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:9a7eb44c413d782be26c9a1c0fe1fe88
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251215T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251215T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:0d01639e39fe6aaa3cfa9859098d7699
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
@@ -60,13 +68,6 @@ SUMMARY:Экзамен Линейная алгебра и аналитическ
 UID:f815fccfd530542ed3fda87d097a2f2a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250913T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20250913T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:4e5d7c2fa3cd48389ace44a5d1712c3a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
 DTEND:20251018T113000Z
 LOCATION:3-131
@@ -75,108 +76,26 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:da47db41b9181f6e1286f3cc3c76bdd1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251117T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251117T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:65736a983412e9baed5c9a52699bd39d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T131500Z
+DTEND:20260416T131500Z
 LOCATION:--каф. 919
-DTSTART:20251023T114500Z
+DTSTART:20260416T114500Z
 SUMMARY:ПЗ Физическая культура
-UID:9ea01544d01b7e5bec01a702874eddfd
+UID:e68c83cc509e0c7b3fe87cf8bf668937
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251110T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251110T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:2a1c27741fa3d575f67f63a6731d7b41
+DTEND:20260314T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260314T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:1cd392dae912cc3eff2539d481edb124
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250917T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:91f2bbb07175d83cf03b5217f45affaf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250926T114500Z
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260505T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260505T100000Z
 SUMMARY:ЛК Математический анализ
-UID:88fbbf9e2426d4841665faf0bfae4456
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251001T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:f5e0a72f297450fb3ccc70dd2fb34a0d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20251013T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:acffdeac90cfb998c61c1bfa5f7844d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20250911T091500Z
-LOCATION:Орш. В-611
-DTSTART:20250911T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:6d29011214e861c491412f8fc919f20a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251016T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251016T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:6012c63d3bababaf9b6d74f95c8d3fc9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251111T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:c09cb8d17a47d7ec52776260b4f51ce2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251031T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:3d3e13bf824e27abe825be53412edcd8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20250920T073000Z
-LOCATION:ГУК А-606
-DTSTART:20250920T060000Z
-SUMMARY:ЛР Дискретная математика
-UID:2c84446d7432a806164e4903834687ca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:478bc9bdf8ffb49b0c79809f2a857a45
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T131500Z
-LOCATION:--каф. 919
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:5a9e0a509bfa6db6f86b30b4109908b8
+UID:bfddcc2a552129ee72a808221e56dda4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смерчинская Светлана Олеговна
@@ -187,27 +106,12 @@ SUMMARY:ЛР Дискретная математика
 UID:997f3a49f8923a0c8b02491d4452dcfc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Викторович
-DTEND:20251126T150000Z
-LOCATION:ГУК В-221
-DTSTART:20251126T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:559dfec01c1e0a2ef580b2e85322efab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251009T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251009T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f8b54d6f78e680315414c9bb07cc76a8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T131500Z
-LOCATION:--каф. 919
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:6355955a6593bc7a94fa21f259369b96
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260323T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:ca08699dbd327180c546563db049e6d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
@@ -216,28 +120,6 @@ LOCATION:ГУК А-706
 DTSTART:20251215T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:7e7e8f4e1f06e34c147f79a6ff1079cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250908T073000Z
-LOCATION:ГУК А-210
-DTSTART:20250908T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:c9be4db0473a787f4c53c1f9cfc5ae3f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:2-314(2В)
-DTSTART:20250912T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:c87d85ea050ff8a769bf41b9b205c1f0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20250915T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:6a2ab0c9b1bca0899f95ea113740e3e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
@@ -255,19 +137,18 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:ec8f27de38060e39a318c62ff72e0504
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251113T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:5a3d9ac89e7eab63bad427fe1c1a252d
+DTEND:20260429T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260429T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:45e91b8bc9c7765b8cee06ff055686fe
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251027T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251027T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:be4a521a062de94d6a6585946e2f07dc
+DTEND:20260219T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260219T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:abc9593a6f3505837e3d4b6430976eb0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T131500Z
@@ -275,14 +156,6 @@ LOCATION:--каф. 919
 DTSTART:20251030T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:e1fcce539522b2b02bde1bd448c5e63c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Викторович
-DTEND:20251210T150000Z
-LOCATION:ГУК В-221
-DTSTART:20251210T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:fb7b357e9087a74185d3dde9f35fcf3e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T091500Z
@@ -314,19 +187,19 @@ SUMMARY:ЛК Инструменты промышленной разработк�
 UID:6135117b22cbd9388820c4fe929b6155
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251021T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:f7421db1c1b2aa9d8035104b15c42e91
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260317T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260317T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:1e5dcdb9ab60dc176c316f076d16562b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20250922T091500Z
-LOCATION:ГУК А-706
-DTSTART:20250922T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:846209faf5fda604f8d39b54b1133b4c
+DTEND:20260225T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:e573a61f0aed67dcf59c689ffd559e03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильина Анастасия Николаевна
@@ -337,71 +210,27 @@ SUMMARY:ПЗ Математический анализ
 UID:34a03036a47c98c208231b6a2f4a6f66
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251121T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251121T100000Z
-SUMMARY:ЛК Математический анализ
-UID:e11e8fccb23ebba9dc6e443082cace90
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260323T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260323T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:69795c0d220cea50b363b8c177653254
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251028T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:9e9186794e28f79722bb39d7c898a1da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251117T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251117T060000Z
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260525T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260525T060000Z
 SUMMARY:ПЗ Математический анализ
-UID:4f4814a51e2f2908ddd71e28925e9c14
+UID:8958e049d80c89b3fd6756aba0d2260e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20260117T113000Z
-LOCATION:ГУК А-711
-DTSTART:20260117T100000Z
-SUMMARY:Экзамен Дискретная математика
-UID:ac0a3d29c172b0fb0c784b9f369ddceb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T113000Z
-LOCATION:7-416
-DTSTART:20251203T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:72cd15f6a4391741f924e6196abfbbe5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251006T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251006T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:d6ab34531ac6ef9507f2184b69c76422
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251027T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:f5781bedbc8be8d5c16d541016e63ace
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T091500Z
-LOCATION:ГУК Б-436
-DTSTART:20250927T074500Z
-SUMMARY:ЛР Программирование на языке Python
-UID:b1f32be529ef00b934e90a23bd2a6910
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T113000Z
-LOCATION:7-416
-DTSTART:20251008T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:450e431d9bd6f5c7d405b24e3733f42e
+DTEND:20260529T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260529T100000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:e0d56eaa63b4ddd6b9357e0c6ddc98b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
@@ -410,21 +239,6 @@ LOCATION:ГУК А-706
 DTSTART:20250915T074500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:693ed9073bd2ec1bb669632f5bd1f291
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251016T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:397ddef8fe6012d4917573d30d102ae3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20250920T113000Z
-LOCATION:3-131
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:f964c8f463a8e0e74dfe0f40aa015850
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
@@ -436,11 +250,11 @@ UID:565d3d551c77aa62bd4087b69ce613b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251128T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251128T100000Z
+DTEND:20260210T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260210T100000Z
 SUMMARY:ЛК Математический анализ
-UID:7467aa36865b5738c5c595dac64b89a8
+UID:d1f47f0e1de44cc0bdfe01035914d31e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -459,25 +273,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:8c537780f2dc6dd0f84d9e0b25061c35
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:e15f1c682a9d67a412c4cb1bb0a8f2fe
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250903T131500Z
 LOCATION:2-314(2В)
 DTSTART:20250903T114500Z
 SUMMARY:ЛК Инструменты промышленной разработки
 UID:0c85f14b3f1dc914e580f84af8bd0062
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20250929T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:6faf40e118b16130d001686a513e6ecf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T113000Z
@@ -487,14 +287,6 @@ SUMMARY:ЛК Дискретная математика
 UID:c3754ed4f5a073f3a8d5e95b22930a5c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20250929T091500Z
-LOCATION:ГУК А-706
-DTSTART:20250929T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:03da661e03f2bbab751c88c52dac7bb9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251206T091500Z
 LOCATION:ГУК Б-436
 DTSTART:20251206T074500Z
@@ -502,19 +294,18 @@ SUMMARY:ЛР Программирование на языке Python
 UID:451b2a27cc12046a28c95fa731e86bd3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251210T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:f2f6d5f4f2a6381586e417d14d2dda02
+DTEND:20260506T091500Z
+LOCATION:--каф. 919
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:be116f65f3380e5a246e105e5106672e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20260121T113000Z
-LOCATION:ГУК Б-652
-DTSTART:20260121T100000Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:f1af25af373d59137ed8c6198614540e
+DTEND:20260521T131500Z
+LOCATION:--каф. 919
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9e559d5cc172630082e57ee5cb0ce398
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T091500Z
@@ -531,83 +322,19 @@ SUMMARY:ПЗ Физическая культура
 UID:30c463fabf790d53415dc8376aa78f30
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:--каф. 919
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:be2d05b918207858bcd0edf95376c78b
+DTEND:20260606T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260606T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:2a15c79d26921777c8cfc5a586003789
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251002T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251002T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:7ce46c6e85c9471a6b60cd6b96fae674
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251008T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:c09b764c3b1c9827deba7a878446b52f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T091500Z
-LOCATION:ГУК Б-436
-DTSTART:20250913T074500Z
-SUMMARY:ЛР Программирование на языке Python
-UID:85f01ac78958ba90e9d2af7301ab1500
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251022T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:f46f8648df03ae5528d4a28d9e6df7a2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T091500Z
-LOCATION:--каф. 919
-DTSTART:20251015T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:b0198d811441ff82f435e10ba84cf6e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20250912T113000Z
-LOCATION:ГУК В-214
-DTSTART:20250912T100000Z
-SUMMARY:ЛК Математический анализ
-UID:e699d4decb0f15805519aeefa197c968
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T091500Z
-LOCATION:--каф. 919
-DTSTART:20251029T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:68bf417e7fc0cd441326d65fa7676f51
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250924T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:d0fd6d280405ee5a86319e516c87f5d1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251114T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251114T100000Z
-SUMMARY:ЛК Математический анализ
-UID:14bc2f1f0c3548e55dbe1fd39ac2a0c8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T091500Z
-LOCATION:--каф. 919
-DTSTART:20251112T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:d5647fa29d1273bf5f39a005e84e893d
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260511T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260511T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:ae0299ced7c9cc8ff9d441fe77f53284
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T091500Z
@@ -617,49 +344,11 @@ SUMMARY:ЛР Программирование на языке Python
 UID:9f762e729240d2f477664c907cc4524d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251124T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251124T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:f3b70be6b1f4f45c0ee0ab971c0c019b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20251220T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:5386c057c32c3e678c1842af805aaa9a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251009T131500Z
 LOCATION:--каф. 919
 DTSTART:20251009T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:73b70f3ae083b2ffd460830afefd877b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250929T073000Z
-LOCATION:ГУК А-210
-DTSTART:20250929T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:986ae77f4f330ca7cb405e3baf00aa60
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:38790e24f29cd3e6fe9780d57113c4c4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251114T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251114T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:62485f846546b253a3aac5d9bb759c4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
@@ -670,25 +359,18 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:c078a3742d0d6b0cffd9fc042d973f05
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251224T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:aa1bbaa903639664187032575c74c6fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251024T114500Z
-SUMMARY:ЛК Математический анализ
-UID:1d909f75c6158e143a6bda73cdb9799b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T131500Z
+DTEND:20260225T091500Z
 LOCATION:--каф. 919
-DTSTART:20251211T114500Z
+DTSTART:20260225T074500Z
 SUMMARY:ПЗ Физическая культура
-UID:dbe6c5bfa4ab33b0077683d73cd662a4
+UID:c0e5f3dc58d785c5a24277d3ef3bbc22
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260520T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:db8c00c596ccd7ab8de09211ce911fae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -699,41 +381,18 @@ SUMMARY:ЛК Математический анализ
 UID:85afe1b341b4c0294658fe95c54cc362
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20250913T113000Z
-LOCATION:3-131
-DTSTART:20250913T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:83143c152ee34db6ce96105fe772f900
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T150000Z
-LOCATION:--каф.
-DTSTART:20251021T133000Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:11f7f0a893dec05823ef8657410f94ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251225T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251225T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:94d0021b50341698bbcf523d6315020e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250923T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:5600a181dd8cd1fa12f4ae97505cc4c9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T131500Z
+DTEND:20260402T131500Z
 LOCATION:--каф. 919
-DTSTART:20250925T114500Z
+DTSTART:20260402T114500Z
 SUMMARY:ПЗ Физическая культура
-UID:b425df9c504355603032b22c909261bb
+UID:fcd053f89db9556b1198624ddfbc7f31
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260411T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:ab54dca307d87474642b3a0f4a78d623
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T131500Z
@@ -743,26 +402,26 @@ SUMMARY:ЛК Программирование на языке Python
 UID:ba94a312c0c44e766eb45befb51e3c7b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251009T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:0bf89d01a94b64574ae0f7f4fd8577a4
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260427T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260427T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:6a2aa910b383279591c95da757ddf3af
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20251020T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:dc1e1685412d6f6344346a9132687514
+DTEND:20251108T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20251108T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:eeecb9cc4994a9c61ffbb4b0aefab736
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251003T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251003T100000Z
-SUMMARY:ЛК Математический анализ
-UID:7132290219168d8e886e2dd2ac2175b2
+DTEND:20260327T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260327T060000Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:7d2e39f13d055a6941918e4f47fbe5d9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
@@ -773,25 +432,12 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:dab0ce812222ed74bd78d34ce1a0061e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T091500Z
-LOCATION:2-314(2В)
-DTSTART:20250905T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:759be772de22476baef9be726836f65c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251020T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:796e35ecdd977dd1ab5e93e816c72699
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20251108T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:eeecb9cc4994a9c61ffbb4b0aefab736
+DESCRIPTION:Крылов Сергей Сергеевич
+DTEND:20260125T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20260125T114500Z
+SUMMARY:Экзамен Фундаментальная информатика
+UID:0bd595c0083de8e90e8bd835d3792d60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смерчинская Светлана Олеговна
@@ -802,19 +448,11 @@ SUMMARY:ЛР Дискретная математика
 UID:6372a69aeb66e65e3085bb488cafdf9f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250912T114500Z
-SUMMARY:ЛК Математический анализ
-UID:8c0c2fd32518706833d0dd97abf81e35
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20250918T091500Z
-LOCATION:Орш. В-611
-DTSTART:20250918T074500Z
+DTEND:20260214T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260214T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:4e7e4df2b53294529998fce83e464724
+UID:7ffdcc3c28e60ec0b55f0b24089bf36f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -825,41 +463,18 @@ SUMMARY:ЛК Основы российской государственност�
 UID:0b4d3505d49bc6b3bfcc77012cbe01d7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Викторович
-DTEND:20251112T150000Z
-LOCATION:ГУК В-221
-DTSTART:20251112T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:92ed6171a2555c5d8c6be66c04361a46
+DTEND:20260502T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260502T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:4f744ca5fb636fad6f6633e2fc02cda6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
-LOCATION:7-416
-DTSTART:20251001T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:819e8c40a727a8801121272607fb1ae5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20251122T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:3d0dff7d61a99a05284179ad65bdc5ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:--каф. 919
-DTSTART:20251126T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:ede44a38fe0764b36cc88c0bf4b354b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251020T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251020T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:b7b7a650ef9cbefd00fdcce04ca9c88b
+DTEND:20260326T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:e88354766ba96afc99df43c084064866
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251103T131500Z
@@ -869,18 +484,19 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:33dc7739d22cd119924318a8c977b57f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:da0b1dfac70aa88830bd565518cb7a75
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260302T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260302T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:1452ea627d2725b178f5df887414b645
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250924T113000Z
-LOCATION:7-416
-DTSTART:20250924T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:1bc6bfba979c753a0c3292fe46a98e96
+DTEND:20260228T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260228T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:f860db9ff5713d502ebd574e2db5de40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
@@ -891,11 +507,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:78e6451739e31315dea55d8b428ca24b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T113000Z
-LOCATION:7-416
-DTSTART:20251112T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:3e6b1ea6565b5354799c01fdb67ec44e
+DTEND:20260312T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260312T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:58c0dc2bce78f5bb8f50e4c501d29d12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
@@ -904,29 +520,6 @@ LOCATION:ГУК Б-632
 DTSTART:20251010T060000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:7b83061400493d32419820e346bcddd3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20251006T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:b92d732ba94992a259aca1cf9da047db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251018T073000Z
-LOCATION:ГУК А-606
-DTSTART:20251018T060000Z
-SUMMARY:ЛР Дискретная математика
-UID:e54e80b8b781a22368a0169d752d2ef6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20250919T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20250919T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:6dd418bbb05c278346cc794cc3ea3146
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251202T164500Z
@@ -943,26 +536,18 @@ SUMMARY:ПЗ Физическая культура
 UID:d4c908696f3763086ec036429b2fc313
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:df1328652ab3973f2356b3df509a6239
+DTEND:20260410T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260410T074500Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:b493ff16b24435d24b9e6248744c7646
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251205T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251205T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:7b962d352afbde6612bc111de3d4ff45
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251217T114500Z
+DTEND:20260422T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260422T133000Z
 SUMMARY:ЛК Программирование на языке Python
-UID:a7e18b4e9cb1d77bb8e1acde6d5d3d1a
+UID:85a78bd59b41ff6b16e670a1d0c9ddb2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250922T113000Z
@@ -980,106 +565,11 @@ SUMMARY:ЛК Математический анализ
 UID:0f15a0bd72440ff9ffde1cfe22d47f49
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251018T091500Z
-LOCATION:ГУК А-606
-DTSTART:20251018T074500Z
-SUMMARY:ЛР Дискретная математика
-UID:3fa1b514d7b0d8130dd80e6c68f103ba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:ГУК Б-436
-DTSTART:20251025T074500Z
+DTEND:20260328T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260328T074500Z
 SUMMARY:ЛР Программирование на языке Python
-UID:775aff8b804e3094afa1e2049f72bb53
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:7-416
-DTSTART:20251015T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:508b73ce5f10f0efa874c1d6e1a5a47e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T091500Z
-LOCATION:ГУК Б-436
-DTSTART:20251108T074500Z
-SUMMARY:ЛР Программирование на языке Python
-UID:2bf95797f514ac8b9e0d5cf7518778b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251218T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251218T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:e6e6ec58712c57971b652e4001ef1cf4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20250905T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20250905T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:64e99b7ea33ab43a1281d91fb7b3b2c9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250930T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:73c049bc4728f7f12c5cb21f5283d7d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20251011T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:77f8c7d2dd40e5d691bea33f37fa44e7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T113000Z
-LOCATION:7-416
-DTSTART:20251022T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:92a8eb50a26a74360e0c28586dc7857f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T113000Z
-LOCATION:2-314(2В)
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:7b18d93d4f64e91d11f61b04214a4ddc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20251115T113000Z
-LOCATION:3-131
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:489836b14d56ccfff61262474b580083
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T091500Z
-LOCATION:--каф. 919
-DTSTART:20251022T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:87c6aa6c009a908be3e5e440cbfe1e80
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T150000Z
-LOCATION:--каф.
-DTSTART:20251118T133000Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:dbd77d87605c0d6055a8a6db5e12f9fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251120T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:8dd3f990e7725bd0ddc63a3c5a92f5cb
+UID:9c02804e96a4a8dfaedd591348b45d8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
@@ -1090,27 +580,26 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:ea653946666fdce9e3fcf924523cd479
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250923T150000Z
-LOCATION:--каф.
-DTSTART:20250923T133000Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:4af63b3605d0fd41878f4cb98742193e
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20251115T113000Z
+LOCATION:3-131
+DTSTART:20251115T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:489836b14d56ccfff61262474b580083
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20250912T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20250912T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:ef0249507bee3522292831482150e4ea
+DTEND:20260319T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:5f3fca27c80fd10f2da88f0783bac9fe
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251110T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251110T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:d3cec082b51ec29ec80f418dadf62abd
+DTEND:20260404T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260404T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:389050454dc1175e475cf3787044c412
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T091500Z
@@ -1120,19 +609,19 @@ SUMMARY:ПЗ Физическая культура
 UID:6d934dceb9ec2474b149c5520e81e6c2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:--каф. 919
-DTSTART:20251224T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:4d02be438b188dfa11cb6a183dcc2317
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260330T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260330T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:2561f2bf4df74eccbc6d34de2668399c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Крылов Сергей Сергеевич
-DTEND:20260125T113000Z
-LOCATION:ГУК Б-652
-DTSTART:20260125T100000Z
-SUMMARY:Экзамен Фундаментальная информатика
-UID:a9292f60174a8867dc03061ca437cc09
+DTEND:20260317T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260317T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:8150025252b84f1e21cc4760d8bf9bc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -1143,21 +632,6 @@ SUMMARY:ЛК Основы российской государственност�
 UID:b4a653d0e02e93c380ebc2d7f357960c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T113000Z
-LOCATION:2-314(2В)
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:7096d11d96b35421d538393da882d706
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20250904T091500Z
-LOCATION:Орш. В-611
-DTSTART:20250904T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:b55495c1cf6bbcc6e53a4748bdd3bb35
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20251024T113000Z
 LOCATION:ГУК В-214
@@ -1166,35 +640,11 @@ SUMMARY:ЛК Математический анализ
 UID:66ddc2aedb5e6a1d29b5e432b0e8690f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251103T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251103T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:5d509dfa908a9d0f6c23feffdecc21b7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251128T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251128T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:aef952d81a3df01572ab5189195b9392
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251101T091500Z
-LOCATION:ГУК А-606
-DTSTART:20251101T074500Z
-SUMMARY:ЛР Дискретная математика
-UID:ef71c02abfa620df3824051d84abb9e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251015T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:20ab14a99f34d455326151fdf42dc08a
+DTEND:20260225T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:52ebeab70d9414ac62c882c94b58eb4a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T073000Z
@@ -1204,19 +654,18 @@ SUMMARY:ЛК Общественный проект "Обучение служе�
 UID:1fd1a97c5b964e155ab7a6466dd05c97
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251208T091500Z
-LOCATION:ГУК А-706
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:098555fe157f10f9e5fb7c3541b4c33c
+DTEND:20251015T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251015T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:20ab14a99f34d455326151fdf42dc08a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250910T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:0506aa9d2672dfe81ec96c42020b84bb
+DTEND:20260304T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260304T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:5a2d7b44ed904ccf13945e42785817a7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T131500Z
@@ -1226,33 +675,18 @@ SUMMARY:ЛК Инструменты промышленной разработк�
 UID:502977cf682daf5f27209fe2f949bbe5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:--каф. 919
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:8c362c623e3145e1ab0780dae2ffa939
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251101T073000Z
-LOCATION:ГУК А-606
-DTSTART:20251101T060000Z
-SUMMARY:ЛР Дискретная математика
-UID:32fa83d8b80083e76c5788e4b9dff1b8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250902T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:fdc4d6e7c2a797c7eebf4e4957aa5264
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251017T091500Z
 LOCATION:2-314(2В)
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:e94b1829d797e6188e7e8585543b821b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20251117T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:1871c67a0a0ec06ad34acaf0b8cf0167
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смерчинская Светлана Олеговна
@@ -1263,41 +697,11 @@ SUMMARY:ЛР Дискретная математика
 UID:9c244397456b5330b3ca29295c9ac409
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20251117T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:1871c67a0a0ec06ad34acaf0b8cf0167
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251031T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Математический анализ
-UID:668b1029cf14f58d73a5cce27db3fb7d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251201T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251201T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:f988448dc76b6170e263913e5f901c49
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T073000Z
-LOCATION:Орш. А-101
-DTSTART:20251030T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:f5278de5f72c44714f727671ee4ca544
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251107T114500Z
-SUMMARY:ЛК Математический анализ
-UID:78f4e38bb40954bb118aebc25869675b
+DTEND:20260318T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260318T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:46d1f9641fd42845204b3cecaccf4541
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -1307,19 +711,12 @@ SUMMARY:ПЗ Физическая культура
 UID:b8aea9f32873f841cd65b4dfbd333580
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T150000Z
-LOCATION:--каф.
-DTSTART:20251202T133000Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:a2a5b2965f5abb90e308c4497871fe36
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251023T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251023T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:d89a0c402e10bed003013a8627a5fa47
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260511T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:e954d19192823c3b1479e3725ef741fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
@@ -1345,12 +742,909 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:f909315799b82df3d91d475c4ac0ec68
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260327T074500Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:b1ce6ca84ea752ad9d8028fc08d0f3ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260421T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:57482a3b48280fc5d2de40d6a840da64
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260306T100000Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:92562b5fbde3d23018318711bd9093e6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250930T113000Z
+LOCATION:2-314(2В)
+DTSTART:20250930T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:b210359a4bf15e1ae3748a8471aeceba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250927T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20250927T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:b623726657e42e4ff14d1a9473799312
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251127T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251127T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:c4dccc990945a8c77bc16eeb1694df7a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T091500Z
+LOCATION:--каф. 919
+DTSTART:20251008T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:b6cee1edcce703b071452c6433f016e6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260515T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:28a63aebe1edf99a73a600a3cbf53aa1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260420T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:8a15b00ad06489e875104ff3e0294ac2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T091500Z
+LOCATION:--каф. 919
+DTSTART:20260527T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:948725be119e12cd6111e8f5c2cd2863
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251212T113000Z
+DTEND:20251017T113000Z
 LOCATION:ГУК В-214
-DTSTART:20251212T100000Z
+DTSTART:20251017T100000Z
 SUMMARY:ЛК Математический анализ
-UID:2e15730f9d87edfc143f3ba6366b7060
+UID:e21145dd170c577cad3466b1f2096738
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260506T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:6d6d5e85d88f66f5644d968fad9a5bcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251114T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:c3439c7522b34ff02df7d4a4d340fe51
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260328T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:5367006854c3e434900bbd4e2ab7da66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260302T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:2097420d60cd825ab8fd5c2f35a3948e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260303T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:82a6b924b738adfc39c089ba0adac94c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250922T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20250922T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:992ada993f000ab443ec4472e16186af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251219T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251219T100000Z
+SUMMARY:ЛК Математический анализ
+UID:8e10d22a238498e90874231e55cea95a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260113T164500Z
+LOCATION:ГУК Б-738
+DTSTART:20260113T151500Z
+SUMMARY:Экзамен Математический анализ
+UID:1f7c60419d4a4ded1f2a8071bbe5aabb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260525T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260525T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:fc6a0b543972cba46cb403426fc92902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251213T073000Z
+LOCATION:ГУК А-606
+DTSTART:20251213T060000Z
+SUMMARY:ЛР Дискретная математика
+UID:9b96bcd81bd1245fd99fb76d614dffa1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T131500Z
+LOCATION:ГУК В-214
+DTSTART:20251010T114500Z
+SUMMARY:ЛК Математический анализ
+UID:085b647a6eea1aeaace4f5cfc25fa566
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20251122T113000Z
+LOCATION:3-131
+DTSTART:20251122T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:21830b5a35dcdddf2441f9f7193e671a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260525T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260525T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:cd8c27547f3703dd758b2e5a886d9755
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260406T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:79aab4b619c25abb37115a5734902290
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T073000Z
+LOCATION:Орш. А-101
+DTSTART:20250904T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:a7018b459d42795a1404cc52558ff79f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260410T060000Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:dd2d1293652c65823466021fb46f16d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260428T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Математический анализ
+UID:e5ec5da9f27fb2557515217db3a8ed07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20251101T113000Z
+LOCATION:3-131
+DTSTART:20251101T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:9e112ba555f036c9ddc532ac6389c8eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260318T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:a15afafb0480cf19fc758e01c6cfbc51
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260416T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:2be263d76ffb358481c632d4bcde1a72
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:f607d590908b73c5e68dec93518517b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251006T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:54aa008b03088b79943a880afe0b92c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251113T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251113T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:27f82a8c1bd32a26ce375bee401ce606
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260516T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e00d61ef97a2fe9f549fe992435be63d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260224T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Математический анализ
+UID:b7465ac0ea3dc7820c2ad91c1eee801e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260408T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:b2308eddd99d14921d574c9809d72289
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:--каф. 919
+DTSTART:20260603T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:7aa176cbc4f25e4c426770a7bc388224
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260211T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:f109648c1047eb4130695c8112152db8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T131500Z
+LOCATION:--каф. 919
+DTSTART:20250904T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:e1383a8b4fb28c5c8f1e32355be2beac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20250926T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20250926T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:ff861340b52662a77c1e50f7e34a25e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260512T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260512T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:8424041e008a25d0cf87741baec96d7a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260220T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:27b8ce0b9cec0fa5672020dd6068ac58
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260606T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:f9c464006c46ae4e1f5de5787a5a5711
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T131500Z
+LOCATION:--каф. 919
+DTSTART:20250918T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:568710a29c86713b04c04915c5fe58e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T091500Z
+LOCATION:--каф. 919
+DTSTART:20260401T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:d813ac129911fa1e609611103672f49e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251024T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:08a9dce70f4b7ca1109430c9fab542bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T091500Z
+LOCATION:--каф. 919
+DTSTART:20251001T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:3d92ea7fc9bd2d6968e108911db561cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260320T114500Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:03a77cdfb238ef91f7ecc44d5c6ee056
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T131500Z
+LOCATION:--каф. 919
+DTSTART:20251023T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9ea01544d01b7e5bec01a702874eddfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251110T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251110T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:2a1c27741fa3d575f67f63a6731d7b41
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260505T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:7dcd87fd5e81b1980f44fa78219597e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250917T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:91f2bbb07175d83cf03b5217f45affaf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T131500Z
+LOCATION:ГУК В-214
+DTSTART:20250926T114500Z
+SUMMARY:ЛК Математический анализ
+UID:88fbbf9e2426d4841665faf0bfae4456
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251001T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:f5e0a72f297450fb3ccc70dd2fb34a0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20250911T091500Z
+LOCATION:Орш. В-611
+DTSTART:20250911T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:6d29011214e861c491412f8fc919f20a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260303T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:6671eac272cb5f6d51bafd6395ef1a08
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T131500Z
+LOCATION:--каф. 919
+DTSTART:20251120T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5a9e0a509bfa6db6f86b30b4109908b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:--каф. 919
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:bbdb19d5ebe80e7622a9d00733d8307a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251009T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251009T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:f8b54d6f78e680315414c9bb07cc76a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20250915T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:6a2ab0c9b1bca0899f95ea113740e3e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251113T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:5a3d9ac89e7eab63bad427fe1c1a252d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260209T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:6b86fc23ea432bcf4840e403949f9567
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф. 919
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:7abf65ec21c4537460016fbaa5070ad8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260324T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Математический анализ
+UID:eb10e84635b5282478d5e90695b05399
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:9a1957f94dd705e9d0cf877786cc22c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251121T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251121T100000Z
+SUMMARY:ЛК Математический анализ
+UID:e11e8fccb23ebba9dc6e443082cace90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20250922T091500Z
+LOCATION:ГУК А-706
+DTSTART:20250922T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:846209faf5fda604f8d39b54b1133b4c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251028T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:9e9186794e28f79722bb39d7c898a1da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260528T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:cbcfd41f7eac68871db09f878c125cf0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260425T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:67b5b05ca0b70044e057b7a7cbfa6c1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T113000Z
+LOCATION:7-416
+DTSTART:20251008T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:450e431d9bd6f5c7d405b24e3733f42e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260306T114500Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:246969d60bf4f042f02da5b8a6422ae5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20250920T113000Z
+LOCATION:3-131
+DTSTART:20250920T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:f964c8f463a8e0e74dfe0f40aa015850
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251110T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:e15f1c682a9d67a412c4cb1bb0a8f2fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260428T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:4edc0dcfc01d98a08fe4096b0f168a28
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251210T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:f2f6d5f4f2a6381586e417d14d2dda02
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф. 919
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:addda9cc3d7cc61de97c1fb05f9f4aad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260218T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:d748b1291f331b8fdb539592c025ef98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251114T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251114T100000Z
+SUMMARY:ЛК Математический анализ
+UID:14bc2f1f0c3548e55dbe1fd39ac2a0c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251124T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251124T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:f3b70be6b1f4f45c0ee0ab971c0c019b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:f3ca2e2415beb95ef1176c7a11c0eeb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250924T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:d0fd6d280405ee5a86319e516c87f5d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251220T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20251220T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:5386c057c32c3e678c1842af805aaa9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:--каф. 919
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:77861cf337586b083c9b1752f42f76d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260529T114500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:89beed101356a287ce65fa0822ff959c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260417T100000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:db3287fdc732983e3d4a1e5900f972a5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260402T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:3e3bee47ab577a9706c7b7518acde059
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251114T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251114T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:62485f846546b253a3aac5d9bb759c4d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T131500Z
+LOCATION:ГУК В-214
+DTSTART:20251024T114500Z
+SUMMARY:ЛК Математический анализ
+UID:1d909f75c6158e143a6bda73cdb9799b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф. 919
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:dbe6c5bfa4ab33b0077683d73cd662a4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260214T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:32e67ad350948d6454faee0bb3e2492f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф. 919
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:338642c014d0c446763d4e92ad925785
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260226T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:ac6ca9cf5dd0a772d8b8e002fc255af8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250923T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250923T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:5600a181dd8cd1fa12f4ae97505cc4c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260227T060000Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:3f8432d9f3cf5d40cdb14983a332dce0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251009T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:0bf89d01a94b64574ae0f7f4fd8577a4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20251020T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:dc1e1685412d6f6344346a9132687514
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260523T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:228616d3d5eba1489b984c16fcd2f57e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:--каф. 919
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:15740f2418ee25d83c4bfbc28ec75f63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T131500Z
+LOCATION:ГУК В-214
+DTSTART:20250912T114500Z
+SUMMARY:ЛК Математический анализ
+UID:8c0c2fd32518706833d0dd97abf81e35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:38bc5bf7e35797fcad79fb3ae92ff44f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T113000Z
+LOCATION:7-416
+DTSTART:20251001T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:819e8c40a727a8801121272607fb1ae5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260429T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:b2a168b85cf29b6b324486b94587814d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251020T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251020T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:b7b7a650ef9cbefd00fdcce04ca9c88b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260601T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260601T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:1e4d47120e8ed44d84c51e2d13235964
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260404T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f2a39cd4818e16382268686e6e828d76
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20251006T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:b92d732ba94992a259aca1cf9da047db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251018T073000Z
+LOCATION:ГУК А-606
+DTSTART:20251018T060000Z
+SUMMARY:ЛР Дискретная математика
+UID:e54e80b8b781a22368a0169d752d2ef6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251014T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:df1328652ab3973f2356b3df509a6239
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260408T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:c4c7120918ca41e5a0e0742269111f91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260401T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:5669b6cdf2424da8c91d7bb4d20b1cc1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20250905T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20250905T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:64e99b7ea33ab43a1281d91fb7b3b2c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250930T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250930T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:73c049bc4728f7f12c5cb21f5283d7d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251011T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20251011T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:77f8c7d2dd40e5d691bea33f37fa44e7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T150000Z
+LOCATION:--каф.
+DTSTART:20251118T133000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:dbd77d87605c0d6055a8a6db5e12f9fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251120T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251120T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:8dd3f990e7725bd0ddc63a3c5a92f5cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260513T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:588dd84171a928fb441e1fbf2f591a7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260512T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260512T100000Z
+SUMMARY:ЛК Математический анализ
+UID:262d45e1b6feecd7aa057f7f0071d7ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251103T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251103T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:5d509dfa908a9d0f6c23feffdecc21b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251128T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251128T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:aef952d81a3df01572ab5189195b9392
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260523T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:7247b8e74038ef8ff5a6b1d0f7e67a80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260427T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260427T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:b5eb5ef302a241781da8cca61a16da6e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251201T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251201T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:f988448dc76b6170e263913e5f901c49
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
@@ -1361,25 +1655,35 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:669ca98d0efb9a4abaeec91025888d36
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T131500Z
-LOCATION:2-314(2В)
-DTSTART:20250916T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:6df88d6970ba77c78e80cfbaee541e57
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260303T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Математический анализ
+UID:16a91da4cef09a17472c37a9aea831d3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251014T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:a0e62e57dcfae340c2e8c7c8f7555dab
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260511T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260511T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:64ff23f8d845dafa92080763b67b47b0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251105T113000Z
-LOCATION:7-416
-DTSTART:20251105T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:896b451fc8902aaa5a10c3b4c8874932
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260413T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:5bd3d5377cb204a51f810a5e922b11d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260319T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:ac88ac1e08ab6a8ac50a26b19cd8ef21
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251125T113000Z
@@ -1389,12 +1693,1093 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:f51cd6a06c3b4f72625e76bce31e6d8b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251017T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251017T060000Z
+DTEND:20260221T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260221T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:2e9c22f3e3fc6c2b499cf70c987e640c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260310T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260310T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:5aa2cf6a7b56dbeb9f4e9e534a862925
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251219T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:1cefcebb7004a869c6264f4cd4668037
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251129T091500Z
+LOCATION:ГУК А-606
+DTSTART:20251129T074500Z
+SUMMARY:ЛР Дискретная математика
+UID:3f0cfa2f495a6e27a1d09a862fe7769d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260220T100000Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:627e11696c3369a4d8c767c74f0e6dbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260302T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260302T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:6f1ea330a2bd721e38b212349ad82b80
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T113000Z
+LOCATION:7-416
+DTSTART:20251210T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:0e67b09ce3010aa7077b758a19d0a2a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф. 919
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:6f31baadebbbd01f392e7dfd494e1313
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251111T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:c1a59b58d411f5074d8fe8309553e3d0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T091500Z
+LOCATION:--каф. 919
+DTSTART:20251210T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:03674f33090141459d21a6cdfb4f8cd5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T091500Z
+LOCATION:--каф. 919
+DTSTART:20250917T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:42c812464f1c395af09805d822aef49e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251010T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:4e8dcbe0b057eab5b506336b83f5f8dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260314T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:057e2b1621d5fef3592386a5b4a28874
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251007T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:c007d7b305ca5b06fc092d29fe619cdc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260407T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:107ef2e792a1220d0e2751cdb10fe76e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260601T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:27de9000d2c469260cdb112d6086f1aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260428T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:c26239d59bbea1e4fa207ef6c810856b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T164500Z
+LOCATION:--каф.
+DTSTART:20251118T151500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:f92de5a70abd4dca69f679f67058fa65
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T113000Z
+LOCATION:7-416
+DTSTART:20250917T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:b023ffc183aee6abdeb6e357ec633e82
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260307T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:be89162e9869e0ee12f513e16c8bf4bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20251025T113000Z
+LOCATION:3-131
+DTSTART:20251025T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:9064346a20527c09e0aa4ed53a3d2f68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251013T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:76e6594c1341e6ed4d95d879de99920a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260321T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f1e999eb7e069d76d52635baf7284efa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251219T131500Z
+LOCATION:ГУК В-214
+DTSTART:20251219T114500Z
+SUMMARY:ЛК Математический анализ
+UID:10d002f764ae4bc673ac069ca49241ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251013T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251013T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:28660c76a3660f78994c65420418aca4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260519T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260519T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:52cf3683772397135a96b1a6c0c6bc8e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260221T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:af7e6e1f6a34dbe7295da32ba28ae1da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20250915T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:b62c8ec6ffc06414f4c7ac6e423f1eba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260413T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260413T074500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:f9f87a436a967bc79ed79e29e5aac33d
+UID:4d338e3ce2720c079be38deea2fb5438
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф. 919
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:3b6727a0e1125a4fe1023a302cebfeec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251224T150000Z
+LOCATION:ГУК В-221
+DTSTART:20251224T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:e132e64f675fab6d97f7140e69c8cc18
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260604T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:1d2d9498fd09727ef11d7381c3d59740
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T091500Z
+LOCATION:--каф. 919
+DTSTART:20260211T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:92cc63c7f33591286eaa14ec3d7e9422
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260220T114500Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:7c14c6c6c4f9f02b4693938c9810aaba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250923T164500Z
+LOCATION:--каф.
+DTSTART:20250923T151500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:fbcbac0aa11fb39eefb74dbd1f3c019f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251208T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251208T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:58e7d9ee612c6f4f8e07a1cb48feb25c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251105T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:59bba36beea750bd76ced15f6604999d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260515T114500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:c0091618d05208c26562c33be3946e4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251211T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251211T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:269a82e895e6bd12b4664570c2713db3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260316T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:93590225e9fe384c71e27d27803d2126
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260530T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:d98aa9d559fa3f557b05d2086a26204b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251030T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251030T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:6efc7e4d7c5498702a07a257057e4e3a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T113000Z
+LOCATION:7-416
+DTSTART:20251029T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:b71944f24476cff92973fe6c570b2a33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251204T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251204T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:5514b1871c238bc79088639d07b96ce8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251117T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251117T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:943a5f23544e554196769a7d71d3b722
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260403T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:109d1f1a13bef28d20ecbfafb67250d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:1c97e37a3b0d1104c08e4b3370a34e77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260217T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260217T100000Z
+SUMMARY:ЛК Математический анализ
+UID:13877f0a7fbf834941c35f248d1fa61d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250923T113000Z
+LOCATION:2-314(2В)
+DTSTART:20250923T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:5ff21eeacc7d369ac1d056c7bdac2add
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф. 919
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:bb5c2b937d66d6cbe494a62c5e38e2eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251212T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251212T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:d869e80963eccb4ca821f473c8b26665
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:5bef181b77cf1039b43857f29867664b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250909T113000Z
+LOCATION:2-314(2В)
+DTSTART:20250909T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:84ae57b214c6d8f6a8ec8b55d8899406
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251203T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:a77fe27f1c82fd5aa54e5a8fb8b8c2e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260420T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:0790f1181143a9296829c3ce4bf48a4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T091500Z
+LOCATION:--каф. 919
+DTSTART:20250924T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:844eb7e132cc6730048726f49e9bb607
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф. 919
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:dc0deca3b38cb6ae482a45cef51e2d29
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260314T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:33ffd2a3632581609d2b581a2e9cd19a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260417T114500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:7dc703015aad54dc569ec1085cb3f95e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20250915T073000Z
+LOCATION:ГУК А-210
+DTSTART:20250915T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:a102dc58f2df7edcec733c498810df99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260216T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260216T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:077f133a4694f554bdaa084f1fe81bcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:472951ed129abd637a3c87a9866dd5d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T164500Z
+LOCATION:--каф.
+DTSTART:20251021T151500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:3afa139a3088e3fa9352a395711dcf0c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260521T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:1336049cea42e094ab556f18dd1dbcac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T073000Z
+LOCATION:Орш. А-101
+DTSTART:20250911T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:f0c29ab3b3a1f6a8284a22b7f1835633
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260325T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:4489bf199d4edf9c668188fd16bc02fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251023T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251023T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:39c8103232b98f8d9dcd41848f11465d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:--каф. 919
+DTSTART:20260604T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:fcf81b5481c455d1f63f1106aa602c7f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250913T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20250913T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:4e5d7c2fa3cd48389ace44a5d1712c3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251117T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251117T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:65736a983412e9baed5c9a52699bd39d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260606T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:770e176827c38e2cae6c4f1fb3085fc4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20251013T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:acffdeac90cfb998c61c1bfa5f7844d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251111T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:c09cb8d17a47d7ec52776260b4f51ce2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260414T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260414T100000Z
+SUMMARY:ЛК Математический анализ
+UID:f102cb411d3d24b0dd9979311bc33683
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260306T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:767a9d2e3498b448a1ababbe77ed4b15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251031T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251031T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:3d3e13bf824e27abe825be53412edcd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20250920T073000Z
+LOCATION:ГУК А-606
+DTSTART:20250920T060000Z
+SUMMARY:ЛР Дискретная математика
+UID:2c84446d7432a806164e4903834687ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251126T150000Z
+LOCATION:ГУК В-221
+DTSTART:20251126T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:559dfec01c1e0a2ef580b2e85322efab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260519T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Математический анализ
+UID:2852f75dedca3003cfe81d5a68fd8580
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20250908T073000Z
+LOCATION:ГУК А-210
+DTSTART:20250908T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:c9be4db0473a787f4c53c1f9cfc5ae3f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260502T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e5c9ab985c773673630c1dbc40510102
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260324T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:d73151548f546b15a2c72bc9cc19d191
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260408T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:228dc67591e10c632afcb01b355ebf6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251117T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251117T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:4f4814a51e2f2908ddd71e28925e9c14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260316T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260316T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:1b5cc2350f288a901708636c2ea1cd12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260117T113000Z
+LOCATION:ГУК А-711
+DTSTART:20260117T100000Z
+SUMMARY:Экзамен Дискретная математика
+UID:ac0a3d29c172b0fb0c784b9f369ddceb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251027T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:f5781bedbc8be8d5c16d541016e63ace
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250927T091500Z
+LOCATION:ГУК Б-436
+DTSTART:20250927T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:b1f32be529ef00b934e90a23bd2a6910
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251016T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:397ddef8fe6012d4917573d30d102ae3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260512T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:b9b450e551dc6a96ea3c30b86e4886a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20250929T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:6faf40e118b16130d001686a513e6ecf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260302T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260302T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:585ccdade9d03cb5f03d3481a937ad53
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251002T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:7ce46c6e85c9471a6b60cd6b96fae674
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251008T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:c09b764c3b1c9827deba7a878446b52f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260425T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:5f7e84a5fa96f378031d6ffb3c704dcf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260325T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:8dcabffae1d4b18189b01ad345b35bf4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251022T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:f46f8648df03ae5528d4a28d9e6df7a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260425T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:21a9fe17ce597196b567ac47a22652f4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T091500Z
+LOCATION:--каф. 919
+DTSTART:20251015T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:b0198d811441ff82f435e10ba84cf6e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20250912T113000Z
+LOCATION:ГУК В-214
+DTSTART:20250912T100000Z
+SUMMARY:ЛК Математический анализ
+UID:e699d4decb0f15805519aeefa197c968
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T091500Z
+LOCATION:--каф. 919
+DTSTART:20251029T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:68bf417e7fc0cd441326d65fa7676f51
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф. 919
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:8eff85400fe2c15598017f82f20b68ff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:--каф. 919
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:848739951a96843bc910c038e0eda822
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260216T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260216T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:02c75c97f8dc30be8085ba12175e2113
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20250929T073000Z
+LOCATION:ГУК А-210
+DTSTART:20250929T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:986ae77f4f330ca7cb405e3baf00aa60
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251028T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:38790e24f29cd3e6fe9780d57113c4c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260418T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:abc051f1f6f8f1a9dbab78349c694058
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260518T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:fd60ca7d0ce8ede3eaba7de762093f4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20250913T113000Z
+LOCATION:3-131
+DTSTART:20250913T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:83143c152ee34db6ce96105fe772f900
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260606T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:c352311b735b86d3851e6254c37b9407
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T131500Z
+LOCATION:--каф. 919
+DTSTART:20250925T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b425df9c504355603032b22c909261bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260407T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260407T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:0e4201ee8e1d8f4723af198d4ea8b3ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T131500Z
+LOCATION:ГУК Б-440
+DTSTART:20251020T114500Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:796e35ecdd977dd1ab5e93e816c72699
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T091500Z
+LOCATION:2-314(2В)
+DTSTART:20250905T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:759be772de22476baef9be726836f65c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260513T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:205ca24c7a0b34fdbe1e1ab030a75f99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T091500Z
+LOCATION:--каф. 919
+DTSTART:20251126T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:ede44a38fe0764b36cc88c0bf4b354b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20250918T091500Z
+LOCATION:Орш. В-611
+DTSTART:20250918T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:4e7e4df2b53294529998fce83e464724
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260411T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:e27287cc3a9958d1bb3cfd18a2057dcd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T073000Z
+LOCATION:ГУК Б-436
+DTSTART:20251122T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:3d0dff7d61a99a05284179ad65bdc5ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260413T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260413T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:89003b1078b36b72d9e14822299196e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260418T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:0b99438cf023cdfec1dc024c8458704e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260421T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260421T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:597b6ff4d17bf274ec696646c3ed60ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251208T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251208T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:098555fe157f10f9e5fb7c3541b4c33c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251217T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251217T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:a7e18b4e9cb1d77bb8e1acde6d5d3d1a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260324T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:f3643f8cd22458361b75d675f1619422
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20250919T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20250919T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:6dd418bbb05c278346cc794cc3ea3146
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251108T091500Z
+LOCATION:ГУК Б-436
+DTSTART:20251108T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:2bf95797f514ac8b9e0d5cf7518778b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251218T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251218T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e6e6ec58712c57971b652e4001ef1cf4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T091500Z
+LOCATION:--каф. 919
+DTSTART:20251022T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:87c6aa6c009a908be3e5e440cbfe1e80
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250923T150000Z
+LOCATION:--каф.
+DTSTART:20250923T133000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:4af63b3605d0fd41878f4cb98742193e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251110T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251110T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:d3cec082b51ec29ec80f418dadf62abd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260407T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:8c1c75b199ee8552464285d40f8275e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20250904T091500Z
+LOCATION:Орш. В-611
+DTSTART:20250904T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:b55495c1cf6bbcc6e53a4748bdd3bb35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260530T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a1ceb5dd0060b403c91132b529c258ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251225T131500Z
+LOCATION:--каф. 919
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:8c362c623e3145e1ab0780dae2ffa939
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260227T074500Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:402d7b5890031cc611938cf761a8e59e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250902T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250902T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:fdc4d6e7c2a797c7eebf4e4957aa5264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251031T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251031T100000Z
+SUMMARY:ЛК Математический анализ
+UID:668b1029cf14f58d73a5cce27db3fb7d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:88cb6659ff4218020a5a09177a88b919
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T073000Z
+LOCATION:Орш. А-101
+DTSTART:20251030T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:f5278de5f72c44714f727671ee4ca544
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T131500Z
+LOCATION:ГУК В-214
+DTSTART:20251107T114500Z
+SUMMARY:ЛК Математический анализ
+UID:78f4e38bb40954bb118aebc25869675b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260417T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:e8cf652d6d938fe09aa9f5f46dc2d69a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T150000Z
+LOCATION:--каф.
+DTSTART:20251202T133000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:a2a5b2965f5abb90e308c4497871fe36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251023T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251023T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:d89a0c402e10bed003013a8627a5fa47
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:790e7f71aa97c74a8a7f263ab7c27515
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260311T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:fe0e4abe5d1668d1fb7477f94ea4d7ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:7a5f639d36513e7925932b7945417e0b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:--каф. 919
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:05d850fd46d8cc8fc94f9572a99a0df0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T113000Z
+LOCATION:7-416
+DTSTART:20251105T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:896b451fc8902aaa5a10c3b4c8874932
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250909T131500Z
@@ -1412,92 +2797,26 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:e2596feeea428a9daa13786eb73dc0be
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251105T091500Z
-LOCATION:--каф. 919
-DTSTART:20251105T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:6120b4158b73cad643c1bd3a0e2bd9b8
+DTEND:20260514T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260514T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:cc149194ee17e38acf1246931589f3d1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250930T113000Z
-LOCATION:2-314(2В)
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:b210359a4bf15e1ae3748a8471aeceba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251219T074500Z
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260224T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260224T114500Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:1cefcebb7004a869c6264f4cd4668037
+UID:d88b3aa3c6418582f6e0dd79ffccf1af
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T073000Z
-LOCATION:ГУК Б-436
-DTSTART:20250927T060000Z
-SUMMARY:ЛР Программирование на языке Python
-UID:b623726657e42e4ff14d1a9473799312
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251103T113000Z
+DTEND:20260331T150000Z
 LOCATION:ГУК Б-440
-DTSTART:20251103T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:d52fbf850e808272f92eb1e69bd1152b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251124T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251124T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:b1f622faf04518d48a64b48f5b642a33
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251127T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251127T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:c4dccc990945a8c77bc16eeb1694df7a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251129T091500Z
-LOCATION:ГУК А-606
-DTSTART:20251129T074500Z
-SUMMARY:ЛР Дискретная математика
-UID:3f0cfa2f495a6e27a1d09a862fe7769d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251003T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251003T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:c3443cc194edd3cc0f7bfe0596fa2d9a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T113000Z
-LOCATION:7-416
-DTSTART:20251210T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:0e67b09ce3010aa7077b758a19d0a2a1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T091500Z
-LOCATION:--каф. 919
-DTSTART:20251008T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:b6cee1edcce703b071452c6433f016e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T113000Z
-LOCATION:2-314(2В)
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:c1a59b58d411f5074d8fe8309553e3d0
+DTSTART:20260331T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:1169874523549a963f6d3cf86373b602
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251031T091500Z
@@ -1514,28 +2833,6 @@ SUMMARY:ЛР Программирование на языке Python
 UID:2df5ce9b6565890d2d077a54e1631d22
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T091500Z
-LOCATION:--каф. 919
-DTSTART:20251210T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:03674f33090141459d21a6cdfb4f8cd5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251017T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Математический анализ
-UID:e21145dd170c577cad3466b1f2096738
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T091500Z
-LOCATION:--каф. 919
-DTSTART:20250917T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:42c812464f1c395af09805d822aef49e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250903T113000Z
 LOCATION:7-416
 DTSTART:20250903T100000Z
@@ -1543,34 +2840,34 @@ SUMMARY:ЛК Дискретная математика
 UID:73eca51429beab730dbcd24897612161
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251006T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251006T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:96ba26e8ac607f452521dcbad88ef7df
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260413T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260413T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:4d54b6fa86472a24d267ecbdd6603a1d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T091500Z
+DTEND:20260219T091500Z
 LOCATION:2-314(2В)
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4e8dcbe0b057eab5b506336b83f5f8dd
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:b912d4313f555275468170b2421d0dd4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251205T114500Z
-SUMMARY:ЛК Математический анализ
-UID:80574b79ff2a3590f5c0823fdeab8563
+DTEND:20260328T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260328T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:b2c57a16f5fd08841e42de2783aabcb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251107T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251107T100000Z
+DTEND:20260407T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260407T100000Z
 SUMMARY:ЛК Математический анализ
-UID:6ea8cd9247b9473fb2fbdeab53699d4a
+UID:ecb0351273f69b7ef8b84355275e1f33
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T131500Z
@@ -1588,18 +2885,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:881c1b6e899b21f7ba17a21325728e4b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:c3439c7522b34ff02df7d4a4d340fe51
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251007T114500Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:c007d7b305ca5b06fc092d29fe619cdc
+DTEND:20260228T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260228T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:c7bbe47ea9df1d8f82c68d61cf7b7ecc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T113000Z
@@ -1609,11 +2899,20 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:86043c813009cfb652e74b56497c2bce
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:abd402d11fded4720ccf363d3650bb16
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260317T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260317T100000Z
+SUMMARY:ЛК Математический анализ
+UID:2e422f6e983c945451ae41c86ccc5664
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260504T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260504T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:9bdcfb54eb35d601a01b5d6771ccf541
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильина Анастасия Николаевна
@@ -1639,26 +2938,11 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:e2497d9ad027ef023521d6cf68536315
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250922T131500Z
+DTEND:20260331T164500Z
 LOCATION:ГУК Б-440
-DTSTART:20250922T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:992ada993f000ab443ec4472e16186af
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:0ecf39c864ac8ef5db9da7155ceb55fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251219T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251219T100000Z
-SUMMARY:ЛК Математический анализ
-UID:8e10d22a238498e90874231e55cea95a
+DTSTART:20260331T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:5372700c5a587a6b5dda35aa77117d08
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T113000Z
@@ -1668,80 +2952,12 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:35af6febfb82919724939539767b0a6f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T164500Z
-LOCATION:--каф.
-DTSTART:20251118T151500Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:f92de5a70abd4dca69f679f67058fa65
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T113000Z
-LOCATION:7-416
-DTSTART:20250917T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:b023ffc183aee6abdeb6e357ec633e82
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20250926T113000Z
-LOCATION:ГУК В-214
-DTSTART:20250926T100000Z
-SUMMARY:ЛК Математический анализ
-UID:08ed91bc8774cb9f1f26a9c78102e507
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251115T073000Z
-LOCATION:ГУК А-606
-DTSTART:20251115T060000Z
-SUMMARY:ЛР Дискретная математика
-UID:263f23bfb98f60435293c060bf3f8619
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20260113T164500Z
-LOCATION:ГУК Б-738
-DTSTART:20260113T151500Z
-SUMMARY:Экзамен Математический анализ
-UID:1f7c60419d4a4ded1f2a8071bbe5aabb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20251025T113000Z
-LOCATION:3-131
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:9064346a20527c09e0aa4ed53a3d2f68
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251013T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:76e6594c1341e6ed4d95d879de99920a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильина Анастасия Николаевна
 DTEND:20251027T073000Z
 LOCATION:ГУК А-210
 DTSTART:20251027T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:bd64477a4fd1bea7acef093fb8e9293d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251219T114500Z
-SUMMARY:ЛК Математический анализ
-UID:10d002f764ae4bc673ac069ca49241ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251013T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251013T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:28660c76a3660f78994c65420418aca4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смерчинская Светлана Олеговна
@@ -1759,6 +2975,13 @@ SUMMARY:ПЗ Физическая культура
 UID:99d7fa9f431749e18df94ae833b2bad7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260423T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:a0ab017d69af9f29a9b23d1814f7e1fd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
 DTEND:20251002T091500Z
 LOCATION:Орш. В-611
@@ -1767,19 +2990,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:479a1d7f71e35ac8fd9b4d787aea3957
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251213T073000Z
-LOCATION:ГУК А-606
-DTSTART:20251213T060000Z
-SUMMARY:ЛР Дискретная математика
-UID:9b96bcd81bd1245fd99fb76d614dffa1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Математический анализ
-UID:085b647a6eea1aeaace4f5cfc25fa566
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260414T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260414T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:da0d289af41c27c81240f72cde3f9467
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
@@ -1790,14 +3006,6 @@ SUMMARY:ЛК Основы российской государственност�
 UID:9f8345d790c38c69a7b9dc6a0513e4bd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20251122T113000Z
-LOCATION:3-131
-DTSTART:20251122T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:21830b5a35dcdddf2441f9f7193e671a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шевцов Александр Викторович
 DTEND:20251015T150000Z
 LOCATION:ГУК В-221
@@ -1806,62 +3014,11 @@ SUMMARY:ЛК Основы российской государственност�
 UID:9e6814f12bac169a7bc44ca86e3d5ee4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250915T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20250915T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:b62c8ec6ffc06414f4c7ac6e423f1eba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T091500Z
-LOCATION:--каф. 919
-DTSTART:20250903T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:43a9f280a946aebf5925b1bde0ee3769
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крылов Сергей Сергеевич
-DTEND:20260125T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20260125T114500Z
-SUMMARY:Экзамен Фундаментальная информатика
-UID:0bd595c0083de8e90e8bd835d3792d60
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T073000Z
-LOCATION:Орш. А-101
-DTSTART:20250918T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:d48bbd82d0cfa8eed294ef5b4ab7ec33
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T131500Z
-LOCATION:--каф. 919
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:488a8945da1359fc175463af28fa77ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Викторович
-DTEND:20251224T150000Z
-LOCATION:ГУК В-221
-DTSTART:20251224T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:e132e64f675fab6d97f7140e69c8cc18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T073000Z
-LOCATION:Орш. А-101
-DTSTART:20250904T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:a7018b459d42795a1404cc52558ff79f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T164500Z
-LOCATION:--каф.
-DTSTART:20250923T151500Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:fbcbac0aa11fb39eefb74dbd1f3c019f
+DTEND:20260313T073000Z
+LOCATION:ГУК Б-320
+DTSTART:20260313T060000Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:0fc794bcbe778a0ffc52f51defaa1863
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T113000Z
@@ -1869,29 +3026,6 @@ LOCATION:7-416
 DTSTART:20251119T100000Z
 SUMMARY:ЛК Дискретная математика
 UID:837cf666f17caad5be2d6e02176e186c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251208T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251208T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:58e7d9ee612c6f4f8e07a1cb48feb25c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251105T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:59bba36beea750bd76ced15f6604999d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251211T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251211T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:269a82e895e6bd12b4664570c2713db3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотова Марина Александровна
@@ -1910,49 +3044,26 @@ SUMMARY:ЛР Дискретная математика
 UID:da0370174140d172b0ae427557ac8442
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20251101T113000Z
-LOCATION:3-131
-DTSTART:20251101T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:9e112ba555f036c9ddc532ac6389c8eb
+DTEND:20260228T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260228T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:88fc91d210192a70704f17bd317df5a7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251030T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251030T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:6efc7e4d7c5498702a07a257057e4e3a
+DTEND:20260430T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260430T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:af377808a2d8c73f999e7eb66ae18080
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T113000Z
-LOCATION:7-416
-DTSTART:20251029T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:b71944f24476cff92973fe6c570b2a33
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251126T114500Z
-SUMMARY:ЛК Инструменты промышленной разработки
-UID:02a92533a925d91d4fe3c54a9c4cadd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251204T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251204T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:5514b1871c238bc79088639d07b96ce8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251117T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:943a5f23544e554196769a7d71d3b722
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260330T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:f54fcf53f78b2383296c9ed07dcef8c2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T073000Z
@@ -1962,6 +3073,1062 @@ SUMMARY:ЛР Программирование на языке Python
 UID:eaf0f4322492eae9d095d97d013392b5
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:df35c4f7424e87f209ac3eae95b4576c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федотова Марина Александровна
+DTEND:20251129T113000Z
+LOCATION:3-131
+DTSTART:20251129T100000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:21300f9b9d0e7c7f32142c49aaa90d31
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:--каф. 919
+DTSTART:20251106T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5ff4cf31c9daa6937eb57cc81b393394
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T091500Z
+LOCATION:2-314(2В)
+DTSTART:20250919T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:9162b16336cd034f49e3ad7ecb18b941
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20250908T091500Z
+LOCATION:ГУК А-706
+DTSTART:20250908T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:3e3c3486673874c367472febbe2574d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251222T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251222T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:fc97d8cbbdb24f54538b86d0a76891d0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260320T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:6da860b609f92a7e857f2b108c2bc54b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260406T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:a093f0944909c51367183dfbca8b1c05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251010T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251010T100000Z
+SUMMARY:ЛК Математический анализ
+UID:b84f38dc5fa8616087f6e2e1e167d85a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250910T113000Z
+LOCATION:7-416
+DTSTART:20250910T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:05cadc33825d6aa570f13a929b7f5fb2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251004T091500Z
+LOCATION:ГУК А-606
+DTSTART:20251004T074500Z
+SUMMARY:ЛР Дискретная математика
+UID:74354f923b06da8c527fe52aea19f65b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260511T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260511T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:9cea335c59667b76252870740c905e98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260520T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:f526db5f409dd82108a8447442b6fc35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T131500Z
+LOCATION:--каф. 919
+DTSTART:20251016T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:bbd972f6878cac75c89b9306913818da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250929T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20250929T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:010d758866b9c86858b5dc877631577d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260117T131500Z
+LOCATION:ГУК А-711
+DTSTART:20260117T114500Z
+SUMMARY:Экзамен Дискретная математика
+UID:92166f199c1b874cf4753806e42a0599
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T091500Z
+LOCATION:--каф. 919
+DTSTART:20251112T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:d5647fa29d1273bf5f39a005e84e893d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T073000Z
+LOCATION:Орш. А-101
+DTSTART:20250925T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:1aa135923a43c884a08a6f7c36c93a98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251205T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:61f7867e455c471507cf5d1546bb3dba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260209T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260209T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:a574ced6c7264f1360e75545699905d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:c636a0528f8d9f41a2264e52c240d796
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251215T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251215T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:0d01639e39fe6aaa3cfa9859098d7699
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260320T100000Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:bd45fe8afd473cf6edde6c5cdc1e8b18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260210T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260210T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:ab99474269d7d91a335424fb8d3ec82a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260427T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260427T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:85478e36778588f66e58bddceba6473e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251016T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251016T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:6012c63d3bababaf9b6d74f95c8d3fc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251118T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:478bc9bdf8ffb49b0c79809f2a857a45
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T131500Z
+LOCATION:--каф. 919
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:6355955a6593bc7a94fa21f259369b96
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T091500Z
+LOCATION:2-314(2В)
+DTSTART:20250912T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:c87d85ea050ff8a769bf41b9b205c1f0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T150000Z
+LOCATION:ГУК В-214
+DTSTART:20260225T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:6d392363d23d975269183ccbb944a783
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251027T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251027T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:be4a521a062de94d6a6585946e2f07dc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251021T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:f7421db1c1b2aa9d8035104b15c42e91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260414T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:f299aa4a047c7a710134cfa6ba9935be
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251203T113000Z
+LOCATION:7-416
+DTSTART:20251203T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:72cd15f6a4391741f924e6196abfbbe5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20251006T091500Z
+LOCATION:ГУК А-706
+DTSTART:20251006T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:d6ab34531ac6ef9507f2184b69c76422
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф. 919
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:66ce14dc576f77bf59ed71dda9217fbb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251128T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251128T100000Z
+SUMMARY:ЛК Математический анализ
+UID:7467aa36865b5738c5c595dac64b89a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260217T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260217T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:f78236ff41f2bfc683f388c45dee8207
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260515T100000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:94b7a254fdfe5201f1a861cefb5f7c1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260421T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Математический анализ
+UID:1508eda0c2e1a4e5b656d4a4383f2e30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Квон Даниил Андреевич
+DTEND:20250929T091500Z
+LOCATION:ГУК А-706
+DTSTART:20250929T074500Z
+SUMMARY:ПЗ Основы российской государственности
+UID:03da661e03f2bbab751c88c52dac7bb9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260121T113000Z
+LOCATION:ГУК Б-652
+DTSTART:20260121T100000Z
+SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
+UID:f1af25af373d59137ed8c6198614540e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T131500Z
+LOCATION:--каф. 919
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:be2d05b918207858bcd0edf95376c78b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260421T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:3a6de7289bfbd48e984c9286a4c0c895
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260520T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:bd8545f50d4fb796adf5afde42011c7a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250913T091500Z
+LOCATION:ГУК Б-436
+DTSTART:20250913T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:85f01ac78958ba90e9d2af7301ab1500
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251226T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251226T100000Z
+SUMMARY:ЛК Математический анализ
+UID:187b992965fc4e83dc9c076a3f114ce4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260331T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260331T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:784dc8d0dd01c8ae7c8ce5b0386efe71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260314T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:f4f626a6ef4599f2adfd3cdc5433d7b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251224T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:aa1bbaa903639664187032575c74c6fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260523T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:ddeb73546ad33664e2863cc1012c2710
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260415T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:bed98380d309580646dd97f341e98134
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260505T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260505T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:a5e8f80477e86827b6e4bc03ccdca0ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
+DTEND:20251225T091500Z
+LOCATION:Орш. В-611
+DTSTART:20251225T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:94d0021b50341698bbcf523d6315020e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T150000Z
+LOCATION:--каф.
+DTSTART:20251021T133000Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:11f7f0a893dec05823ef8657410f94ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:ГУК А-218
+DTSTART:20260403T100000Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:b6be494b4edd960c8a3990e7ec70dea5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251210T150000Z
+LOCATION:ГУК В-221
+DTSTART:20251210T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:fb7b357e9087a74185d3dde9f35fcf3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251003T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251003T100000Z
+SUMMARY:ЛК Математический анализ
+UID:7132290219168d8e886e2dd2ac2175b2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T091500Z
+LOCATION:--каф. 919
+DTSTART:20260415T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:fa96c59216e154b419a26985e1822dd8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260310T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:77be1a1b542e8d8af492e0b71f9bba82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Викторович
+DTEND:20251112T150000Z
+LOCATION:ГУК В-221
+DTSTART:20251112T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:92ed6171a2555c5d8c6be66c04361a46
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260506T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:05bc4f58926b1b598f242583c06926ff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251007T113000Z
+LOCATION:2-314(2В)
+DTSTART:20251007T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:da0b1dfac70aa88830bd565518cb7a75
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260518T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:486c11e9117bedf4c08cb06b74f5a34b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T113000Z
+LOCATION:7-416
+DTSTART:20250924T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:1bc6bfba979c753a0c3292fe46a98e96
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T113000Z
+LOCATION:7-416
+DTSTART:20251112T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:3e6b1ea6565b5354799c01fdb67ec44e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T131500Z
+LOCATION:ГУК В-214
+DTSTART:20251205T114500Z
+SUMMARY:ЛК Математический анализ
+UID:80574b79ff2a3590f5c0823fdeab8563
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T091500Z
+LOCATION:ГУК Б-656
+DTSTART:20260529T074500Z
+SUMMARY:ПЗ Лидерство и командообразование в IT-индустрии
+UID:f32e417bf6581921ccb94ce132a0f9fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251205T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251205T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:7b962d352afbde6612bc111de3d4ff45
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251025T091500Z
+LOCATION:ГУК Б-436
+DTSTART:20251025T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:775aff8b804e3094afa1e2049f72bb53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251018T091500Z
+LOCATION:ГУК А-606
+DTSTART:20251018T074500Z
+SUMMARY:ЛР Дискретная математика
+UID:3fa1b514d7b0d8130dd80e6c68f103ba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260527T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:10c72c0d1db83ecc702927996a2a668c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T113000Z
+LOCATION:7-416
+DTSTART:20251015T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:508b73ce5f10f0efa874c1d6e1a5a47e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:ГУК А-218
+DTSTART:20260214T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:9974da89d6d4b98f62b44458e47967db
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T113000Z
+LOCATION:7-416
+DTSTART:20251022T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:92a8eb50a26a74360e0c28586dc7857f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250902T113000Z
+LOCATION:2-314(2В)
+DTSTART:20250902T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:7b18d93d4f64e91d11f61b04214a4ddc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260305T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:694b4cd0a9f56cccc12ea1b025378f79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20250912T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20250912T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:ef0249507bee3522292831482150e4ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T091500Z
+LOCATION:--каф. 919
+DTSTART:20251224T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:4d02be438b188dfa11cb6a183dcc2317
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:--каф. 919
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:1fff4cc9593e097f07e00fdf9eb8cd39
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:452179fc7af7566382bd66cace717d55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крылов Сергей Сергеевич
+DTEND:20260125T113000Z
+LOCATION:ГУК Б-652
+DTSTART:20260125T100000Z
+SUMMARY:Экзамен Фундаментальная информатика
+UID:a9292f60174a8867dc03061ca437cc09
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250916T113000Z
+LOCATION:2-314(2В)
+DTSTART:20250916T100000Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:7096d11d96b35421d538393da882d706
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251101T091500Z
+LOCATION:ГУК А-606
+DTSTART:20251101T074500Z
+SUMMARY:ЛР Дискретная математика
+UID:ef71c02abfa620df3824051d84abb9e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260214T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:f4c7bc86802498d3813331d0d3c3f55c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260216T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260216T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:6cc064c482bb97ea090ec7a0ee43259b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250910T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250910T114500Z
+SUMMARY:ЛК Программирование на языке Python
+UID:0506aa9d2672dfe81ec96c42020b84bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251101T073000Z
+LOCATION:ГУК А-606
+DTSTART:20251101T060000Z
+SUMMARY:ЛР Дискретная математика
+UID:32fa83d8b80083e76c5788e4b9dff1b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260401T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:e2e758930c0a13add643b69218cc8a35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:fd70eedbe6d569dd04189784b38847e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251212T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251212T100000Z
+SUMMARY:ЛК Математический анализ
+UID:2e15730f9d87edfc143f3ba6366b7060
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250916T131500Z
+LOCATION:2-314(2В)
+DTSTART:20250916T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:6df88d6970ba77c78e80cfbaee541e57
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251014T114500Z
+SUMMARY:ЛК Фундаментальная информатика
+UID:a0e62e57dcfae340c2e8c7c8f7555dab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251017T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251017T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:f9f87a436a967bc79ed79e29e5aac33d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:--каф. 919
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:997cbd4d7786b1aa1ed46e9b89597317
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251105T091500Z
+LOCATION:--каф. 919
+DTSTART:20251105T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:6120b4158b73cad643c1bd3a0e2bd9b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T113000Z
+LOCATION:ГУК Б-440
+DTSTART:20251103T100000Z
+SUMMARY:ЛР Фундаментальная информатика
+UID:d52fbf850e808272f92eb1e69bd1152b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:829e62b1ae7cc11779137ade698b3699
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251124T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251124T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:b1f622faf04518d48a64b48f5b642a33
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260512T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:840263ce02e640e365e6d80d4860ffdd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20251003T073000Z
+LOCATION:ГУК Б-632
+DTSTART:20251003T060000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:c3443cc194edd3cc0f7bfe0596fa2d9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260411T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:c958788d1602b619801f074299244a45
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260422T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:7e97ed2d209f6304dc35da13806f471d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260331T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Математический анализ
+UID:8cf28ec17465a4893e6e853a52937ed3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T073000Z
+LOCATION:ГУК А-218
+DTSTART:20260425T060000Z
+SUMMARY:ЛР Программирование на языке Python
+UID:e55b19180eb843c3d0140d6fd25f7a71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260526T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260526T100000Z
+SUMMARY:ЛК Математический анализ
+UID:df6c326f2cceb000f3b1bae858a8878c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20251006T073000Z
+LOCATION:ГУК А-210
+DTSTART:20251006T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:96ba26e8ac607f452521dcbad88ef7df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260304T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:dc2d58688674f3dddcdcc581279074cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260414T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:0de653c8d16cf82d9c0e25999a20d0e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20251107T113000Z
+LOCATION:ГУК В-214
+DTSTART:20251107T100000Z
+SUMMARY:ЛК Математический анализ
+UID:6ea8cd9247b9473fb2fbdeab53699d4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20260310T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Математический анализ
+UID:6f7c66bc94ff794945221f9cb2ed3a41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260330T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260330T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:be770c686c3601c33fc23b51edeebd86
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T150000Z
+LOCATION:ГУК Б-440
+DTSTART:20260310T133000Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:fcc5cbe8c67c56225b22dbaeaf327b34
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251107T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:abd402d11fded4720ccf363d3650bb16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T091500Z
+LOCATION:--каф. 919
+DTSTART:20260218T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:fe7cdbea4943cda0119a6cc0e73888b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260316T131500Z
+LOCATION:ГУК Б-656
+DTSTART:20260316T114500Z
+SUMMARY:ЛР Дискретная математика
+UID:93a8f09d4a1031709b8c821a204906f6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:9244983fdec126924a12f4c22e28007c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T091500Z
+LOCATION:2-314(2В)
+DTSTART:20251121T074500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:0ecf39c864ac8ef5db9da7155ceb55fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260527T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:b78f76bc01ea5dd7964da16caee5ccc0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T164500Z
+LOCATION:ГУК Б-440
+DTSTART:20260505T151500Z
+SUMMARY:ЛР Алгоритмы и структуры данных
+UID:4ec838512e3bc95b93d5abcb5cbf2924
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260525T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260525T074500Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:e0475a65bc7c909eec94c08f154e6d63
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20250926T113000Z
+LOCATION:ГУК В-214
+DTSTART:20250926T100000Z
+SUMMARY:ЛК Математический анализ
+UID:08ed91bc8774cb9f1f26a9c78102e507
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20251115T073000Z
+LOCATION:ГУК А-606
+DTSTART:20251115T060000Z
+SUMMARY:ЛР Дискретная математика
+UID:263f23bfb98f60435293c060bf3f8619
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260427T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:7e71e0e310b60a8460bcf4387e7bdbb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260516T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:5af9e87ecd206a5c6de0a9db4e06da0f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260415T100000Z
+SUMMARY:ЛК Дискретная математика
+UID:21c768d60ea8c37a93767dcee6465938
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260411T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c07d1346ccb25aaf5cf4e136fd1b46a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260428T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260428T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:d4d8792eb406ee871150d07d920804b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260228T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:97eaefa90798283fdf1e0b5512e550bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T150000Z
+LOCATION:Орш. А-406
+DTSTART:20260328T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:2b59a972aa4f20cc3206cb1c93905da5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20260526T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20260526T114500Z
+SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
+UID:2925a69fe3f02f9d26b78d367781c9c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:2-314(2В)
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Основы сетевых технологий
+UID:b7d71cee42e9d749cb1a0b65f18789a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:--каф. 919
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:3b9af5ccd87fb9f6d7a82336f2479910
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:ГУК Б-320
+DTSTART:20260313T074500Z
+SUMMARY:ЛР Основы сетевых технологий
+UID:1845ca9122f1405952166de3505ed002
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250903T091500Z
+LOCATION:--каф. 919
+DTSTART:20250903T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:43a9f280a946aebf5925b1bde0ee3769
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смерчинская Светлана Олеговна
+DTEND:20260330T113000Z
+LOCATION:ГУК Б-656
+DTSTART:20260330T100000Z
+SUMMARY:ЛР Дискретная математика
+UID:800751fd5caae018ebac8775b2244d64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260316T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:50821a010542e08f35d64f67ae74208f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260321T100000Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:a6a74925c8fa381cc9dc04a6f7ee03b7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T073000Z
+LOCATION:Орш. А-101
+DTSTART:20250918T060000Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:d48bbd82d0cfa8eed294ef5b4ab7ec33
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T131500Z
+LOCATION:--каф. 919
+DTSTART:20251218T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:488a8945da1359fc175463af28fa77ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T131500Z
+LOCATION:2-314(2В)
+DTSTART:20251126T114500Z
+SUMMARY:ЛК Инструменты промышленной разработки
+UID:02a92533a925d91d4fe3c54a9c4cadd0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260504T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:297a1d14c823b553a7ada679063141d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T113000Z
+LOCATION:ГУК В-228
+DTSTART:20260523T100000Z
+SUMMARY:ЛК Лидерство и командообразование в IT-индустрии
+UID:0950507434433e3cb4ccc22752b0a52d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251011T091500Z
 LOCATION:ГУК Б-436
 DTSTART:20251011T074500Z
@@ -1969,26 +4136,18 @@ SUMMARY:ЛР Программирование на языке Python
 UID:fafae9d82ad0c087ea8ef300d0791735
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250923T113000Z
-LOCATION:2-314(2В)
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:5ff21eeacc7d369ac1d056c7bdac2add
+DTEND:20260408T091500Z
+LOCATION:--каф. 919
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:413750296eddbd2cc217b7374d0ddbf8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T131500Z
-LOCATION:ГУК Б-440
-DTSTART:20251006T114500Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:54aa008b03088b79943a880afe0b92c8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЕЙПАК ОЛЬГА АНАТОЛЬЕВНА
-DTEND:20251113T091500Z
-LOCATION:Орш. В-611
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:27f82a8c1bd32a26ce375bee401ce606
+DTEND:20260403T131500Z
+LOCATION:ГУК А-218
+DTSTART:20260403T114500Z
+SUMMARY:ЛР Основы веб-разработки на Python
+UID:51fa7766d356275e24d902e35a3ae0be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смерчинская Светлана Олеговна
@@ -2015,74 +4174,6 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:0d23999b07a127f4fa18e523e52dfae3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20251212T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20251212T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:d869e80963eccb4ca821f473c8b26665
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федотова Марина Александровна
-DTEND:20251129T113000Z
-LOCATION:3-131
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:21300f9b9d0e7c7f32142c49aaa90d31
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T113000Z
-LOCATION:2-314(2В)
-DTSTART:20250909T100000Z
-SUMMARY:ЛК Фундаментальная информатика
-UID:84ae57b214c6d8f6a8ec8b55d8899406
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T131500Z
-LOCATION:2-314(2В)
-DTSTART:20251203T114500Z
-SUMMARY:ЛК Программирование на языке Python
-UID:a77fe27f1c82fd5aa54e5a8fb8b8c2e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:--каф. 919
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:5ff4cf31c9daa6937eb57cc81b393394
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T091500Z
-LOCATION:2-314(2В)
-DTSTART:20250919T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:9162b16336cd034f49e3ad7ecb18b941
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251226T113000Z
-LOCATION:ГУК В-214
-DTSTART:20251226T100000Z
-SUMMARY:ЛК Математический анализ
-UID:187b992965fc4e83dc9c076a3f114ce4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20250908T091500Z
-LOCATION:ГУК А-706
-DTSTART:20250908T074500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:3e3c3486673874c367472febbe2574d5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251222T073000Z
-LOCATION:ГУК А-210
-DTSTART:20251222T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:fc97d8cbbdb24f54538b86d0a76891d0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251125T131500Z
 LOCATION:2-314(2В)
 DTSTART:20251125T114500Z
@@ -2090,11 +4181,12 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:10b984a1b022cdfbc2facb6305baab24
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250924T091500Z
-LOCATION:--каф. 919
-DTSTART:20250924T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:844eb7e132cc6730048726f49e9bb607
+DESCRIPTION:Мартюшова Янина Германовна
+DTEND:20260216T073000Z
+LOCATION:ГУК Б-636
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Математический анализ
+UID:d363f77f0c2eb0dbaefa2247bb7df86a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T073000Z
@@ -2102,13 +4194,6 @@ LOCATION:ГУК Б-436
 DTSTART:20251025T060000Z
 SUMMARY:ЛР Программирование на языке Python
 UID:52041913040a499b0cce838fb6e46b53
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T131500Z
-LOCATION:--каф. 919
-DTSTART:20250904T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:e1383a8b4fb28c5c8f1e32355be2beac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -2119,92 +4204,38 @@ SUMMARY:ЛК Математический анализ
 UID:1080145bdecddb7ea0faf6093475179a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T113000Z
-LOCATION:7-416
-DTSTART:20250910T100000Z
-SUMMARY:ЛК Дискретная математика
-UID:05cadc33825d6aa570f13a929b7f5fb2
+DTEND:20260422T131500Z
+LOCATION:ГУК В-221
+DTSTART:20260422T114500Z
+SUMMARY:ЛК Алгоритмы и структуры данных
+UID:9ac0e5874fbc2e1404f749426d1e555b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20250926T073000Z
-LOCATION:ГУК Б-632
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:ff861340b52662a77c1e50f7e34a25e8
+DTEND:20260429T091500Z
+LOCATION:--каф. 919
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:da7deebe8c7878146815c236672d8d1d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20251004T091500Z
-LOCATION:ГУК А-606
-DTSTART:20251004T074500Z
-SUMMARY:ЛР Дискретная математика
-UID:74354f923b06da8c527fe52aea19f65b
+DTEND:20260520T091500Z
+LOCATION:--каф. 919
+DTSTART:20260520T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:b783d837c3dc4c45b16f9b895fdf0beb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20251010T113000Z
+DTEND:20260212T113000Z
+LOCATION:ГУК Б-444
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Основы веб-разработки на Python
+UID:6e07055c9618f14818a74e7f5a951f63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T150000Z
 LOCATION:ГУК В-214
-DTSTART:20251010T100000Z
-SUMMARY:ЛК Математический анализ
-UID:b84f38dc5fa8616087f6e2e1e167d85a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T131500Z
-LOCATION:--каф. 919
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:bbd972f6878cac75c89b9306913818da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250915T073000Z
-LOCATION:ГУК А-210
-DTSTART:20250915T060000Z
-SUMMARY:ПЗ Математический анализ
-UID:a102dc58f2df7edcec733c498810df99
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T113000Z
-LOCATION:ГУК Б-440
-DTSTART:20250929T100000Z
-SUMMARY:ЛР Фундаментальная информатика
-UID:010d758866b9c86858b5dc877631577d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T131500Z
-LOCATION:--каф. 919
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:568710a29c86713b04c04915c5fe58e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смерчинская Светлана Олеговна
-DTEND:20260117T131500Z
-LOCATION:ГУК А-711
-DTSTART:20260117T114500Z
-SUMMARY:Экзамен Дискретная математика
-UID:92166f199c1b874cf4753806e42a0599
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:2-314(2В)
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:08a9dce70f4b7ca1109430c9fab542bf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:--каф. 919
-DTSTART:20251001T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:3d92ea7fc9bd2d6968e108911db561cd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T073000Z
-LOCATION:Орш. А-101
-DTSTART:20250925T060000Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:1aa135923a43c884a08a6f7c36c93a98
+DTSTART:20260506T133000Z
+SUMMARY:ЛК Программирование на языке Python
+UID:a78733c6e33113cba9451c2582aca0b5
 END:VEVENT
 END:VCALENDAR

@@ -2,12 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260306T150000Z
+LOCATION:Орш. В-507
+DTSTART:20260306T133000Z
+SUMMARY:ПЗ Философия
+UID:d4225aae84ccfff66f33f1cf827cacd3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251011T113000Z
 LOCATION:Орш. В-406
 DTSTART:20251011T100000Z
 SUMMARY:ПЗ История России
 UID:2b3164eca36e01c24c019ee45fb0e6d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260403T114500Z
+SUMMARY:ЛК Философия
+UID:95b1bb2183e81cf6292acb5e3a2e1adb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -26,6 +40,36 @@ SUMMARY:ЛК Математический анализ
 UID:6e5331540134a5ba5eecc8b17baaf72a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:d8645bdc8d973f045fd4a3a3e8e708d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260602T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260602T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:d3978029719d628ea616d5507de0d8b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260522T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260522T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:6cd01a48bf561eea270f391f03a09113
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Общая физика
+UID:e83af021b7f4d5b94b534c9d3f0b8197
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20251014T113000Z
 LOCATION:ГУК Б-460
@@ -41,6 +85,13 @@ SUMMARY:ПЗ Физическая культура
 UID:1177944f4dc44bae4d5dead1ae1cd565
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260310T114500Z
+SUMMARY:ПЗ Общая физика
+UID:aa99299e95d06ce20be088975fb48f4e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
 DTEND:20251217T113000Z
 LOCATION:24-400
@@ -49,12 +100,42 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:ba21fdd37325fffcbc31b0c8910ad4e1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260305T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:a051cacf731e88601ada6ac4bdbebaa3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
 DTEND:20251222T073000Z
 LOCATION:Орш. Б-603
 DTSTART:20251222T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:3b33ff36ad6e06eed95d267fc18d4a83
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260318T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260318T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:a7ee6f93239be6f79c8cce148be836e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260508T114500Z
+SUMMARY:ЛК Философия
+UID:4187fe82d3267b640e6d5d918943cc56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:611432556117ce3ce2f91c71009d33a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -73,11 +154,25 @@ SUMMARY:ЛК Общая физика
 UID:f902856ff4f381347f526d9d6afdcfc2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T091500Z
+LOCATION:--каф. 919
+DTSTART:20260227T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:4ac1e7c401f536eff110bfb0ce316955
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T113000Z
 LOCATION:ГУК Б-728
 DTSTART:20251106T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:5f6ae9d6b2696136fc5a684c7d13d34f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:24-717
+DTSTART:20260506T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:4bbff1ae75b0309e9675de51f3c529a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -135,6 +230,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:22b5cd04a01c21b0bfbdc53499ceb480
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260518T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260518T074500Z
+SUMMARY:ЛК История России
+UID:0a0021252147aad7657083f58d112cd4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
 DTEND:20251110T073000Z
 LOCATION:Орш. Б-603
@@ -188,12 +291,33 @@ SUMMARY:ЛР Информатика
 UID:0625db1d46840358d37dae2de27f9ce8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260324T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260324T114500Z
+SUMMARY:ПЗ Общая физика
+UID:15fa5e1b40d7289198bb5bf0ad943130
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4d13d82881c1eb08a13a6d9bbe934d87
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20260120T073000Z
 LOCATION:ГУК А-404
 DTSTART:20260120T060000Z
 SUMMARY:Экзамен Математический анализ
 UID:6cb14f037f38361f605eae7032ad243d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:9821a1f3c868cd4c7bb982b70b94836b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
@@ -204,11 +328,33 @@ SUMMARY:ЛР Общая физика
 UID:a04a85be944303753f413a13c048eede
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260219T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:02c08742790f886d99461dba5b0af217
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251126T091500Z
 LOCATION:24-400
 DTSTART:20251126T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:a3abd009590eb6d25a5a2e641f01fda1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Общая физика
+UID:3b8e382badcfb60b29b54a69a4d7c669
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:72c1d167b2e471129a5235dbe66cea91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -219,6 +365,13 @@ SUMMARY:ПЗ История России
 UID:94bd7a1eea9f129f7b067200707c0ed3
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260304T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:1ea616b91e13b77d2772c7753a132d44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20251013T113000Z
 LOCATION:Орш. Б-304
@@ -227,11 +380,26 @@ SUMMARY:ЛК История России
 UID:cd2afe855265b90d10237ff8e53371a0
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:--каф. 919
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:f5e7a6963f922159bcc7d62621871657
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T131500Z
 LOCATION:--каф. 919
 DTSTART:20251218T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:1998eb930ff06bc399ab4041a4118aa1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260330T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260330T074500Z
+SUMMARY:ЛК История России
+UID:ea6dfbffeb5c1661e8c3dd059cdeb0fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -248,6 +416,13 @@ LOCATION:3-115
 DTSTART:20251113T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:87b4e99190797551ae9a7feca70991d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:9c06f1462c5054c31696af4bf2d91863
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -271,6 +446,13 @@ LOCATION:24-400
 DTSTART:20251224T100000Z
 SUMMARY:ПЗ Введение в профессиональную деятельность
 UID:5e14e6e4ff0f73f222bd9e94ab03b07d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--каф. 919
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:c138d0281d742dbeb1c5e89d535899c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -305,6 +487,13 @@ SUMMARY:ПЗ Правоведение
 UID:bbe72226a9fcf1dbc632ccf04a7d6a5b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260213T091500Z
+LOCATION:--каф. 919
+DTSTART:20260213T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:0bafaa55b3a86215803b342f0198f9c9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
 DTEND:20250910T113000Z
 LOCATION:24-400
@@ -328,6 +517,21 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:ab73483e184487cd4418f2c278722513
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260406T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260406T074500Z
+SUMMARY:ЛК История России
+UID:4c8f452cfb221097ebc058ada475ce2f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:24-400
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:e2b55f3cff3f76432fecdfd62388aacf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
 DTEND:20251006T131500Z
 LOCATION:Орш. Б-304
@@ -344,12 +548,42 @@ SUMMARY:ПЗ Иностранный язык
 UID:552f6619652e6a6cb39f88bddaae5a03
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260220T150000Z
+LOCATION:Орш. В-507
+DTSTART:20260220T133000Z
+SUMMARY:ПЗ Философия
+UID:f535880d0de309a71929154103f58c8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260323T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260323T100000Z
+SUMMARY:ПЗ История России
+UID:016d0de1d2854e9f5c6204848f25c8a6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251108T131500Z
 LOCATION:Орш. В-309
 DTSTART:20251108T114500Z
 SUMMARY:ПЗ Общая физика
 UID:959f159fd6e80d84821366fa02bafcec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260416T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260416T060000Z
+SUMMARY:ЛК Математический анализ
+UID:f38580d2f817f5add7a953272baf37da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260313T114500Z
+SUMMARY:ЛК Философия
+UID:f863c03c1670b09da9dc6aa6c23ecb80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -374,6 +608,21 @@ LOCATION:Орш. А-101
 DTSTART:20251117T074500Z
 SUMMARY:ЛК Правоведение
 UID:2153520d2e2b1052d4dce21d70b25950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260219T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260219T060000Z
+SUMMARY:ЛК Математический анализ
+UID:ff6366272bf99d6fd395d83c58724fa6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:--каф. 919
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:c35cf3d7cc1d7ac7388ab85dbb8ea870
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251205T073000Z
@@ -407,6 +656,20 @@ SUMMARY:ЛК Математический анализ
 UID:d8e541f4dfccd605a2fd70fac3078e7b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:24-400
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:f3515c7ba3a8a60616724ce84c50d2bc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:24-400
+DTSTART:20260219T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:4fa86403b774a2f7c4885b1cfe613e01
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251106T073000Z
 LOCATION:3-115
@@ -415,12 +678,61 @@ SUMMARY:ПЗ Математический анализ
 UID:f7f9b6de93213f05c371f769e67be7ac
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T073000Z
+LOCATION:24-717
+DTSTART:20260408T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:cacb7b5352d282bba2c71fa53f7c6201
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T091500Z
+LOCATION:24-717
+DTSTART:20260225T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:8fd698fd045c046676811eac3f962467
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T150000Z
+LOCATION:24-705
+DTSTART:20260318T133000Z
+SUMMARY:ПЗ Программирование и основы алгоритмизации
+UID:55b1614751e13996ecf723dd05babde7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T073000Z
+LOCATION:Орш. В-314
+DTSTART:20260331T060000Z
+SUMMARY:ЛР Общая физика
+UID:b4df5399dba553bbda8f234d441ddf03
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T150000Z
+LOCATION:Орш. В-507
+DTSTART:20260320T133000Z
+SUMMARY:ПЗ Философия
+UID:386631ec6c8b9ada26262bac1236b6af
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251016T073000Z
 LOCATION:3-115
 DTSTART:20251016T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:9accb8780eb136c9926c3bf13e9923d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260317T114500Z
+SUMMARY:ПЗ Общая физика
+UID:cc5fad2b295fd5d7ca39c23eac556d71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:24-717
+DTSTART:20260311T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:11c5185751258694c38f7658768206db
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251007T091500Z
@@ -445,6 +757,21 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:4f764b44cdecdbed35b69262b3e852bc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260423T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260423T060000Z
+SUMMARY:ЛК Математический анализ
+UID:54c8bb57d19e14f4180a4e84ff0124a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:5620c15b25e80572ed170bdb32f8935a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
 DTEND:20251117T131500Z
 LOCATION:Орш. Б-304
@@ -461,6 +788,14 @@ SUMMARY:Экзамен Информатика
 UID:6e9036084c7026705897e5b18aef8a91
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260430T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:9248a4c4294d0540ce224f107516e3a2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
 DTEND:20251103T091500Z
 LOCATION:Орш. А-101
@@ -475,6 +810,21 @@ LOCATION:Орш. В-501
 DTSTART:20251208T074500Z
 SUMMARY:ЛК Основы российской государственности
 UID:3d44f3d04a7aea20f26fcfa4379441af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260407T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Общая физика
+UID:a8f4bc1d7e7690e931b72438dfe67f15
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T091500Z
+LOCATION:--каф. 919
+DTSTART:20260220T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:0b190eca331dcca7c317222ee76bc4cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
@@ -501,12 +851,35 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:c5f5107f0ffd3c0e5f89cc321d285fe1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260213T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260213T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:4045e0e7116f39536c2d947e542004bd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
 DTEND:20250915T073000Z
 LOCATION:Орш. Б-603
 DTSTART:20250915T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:4a2230ec9c72cedb0908c4f444af172d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260209T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260209T074500Z
+SUMMARY:ЛК История России
+UID:d77d61fa5d3d0074ca6f3c0d65e1b6c1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:--каф. 919
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:af0c93f88691e78fcfd8eb184c42147d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T113000Z
@@ -547,11 +920,33 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:acf7b2ed9188ed17629325fd100199cb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260410T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260410T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:29422b1e3ea5de7c002f30fea01a3efe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--каф. 919
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:41de7a8dbd4ca57efec36d83f1e7970c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T131500Z
 LOCATION:--каф. 919
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:7fbe545b0187998703c2b952ac437460
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260424T114500Z
+SUMMARY:ЛК Философия
+UID:18df5b52d7fc6c40ac09a93162729321
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мосеев Дмитрий Сергеевич
@@ -560,6 +955,21 @@ LOCATION:Орш. В-603
 DTSTART:20251226T060000Z
 SUMMARY:ЛР Общая физика
 UID:033897120a72cbb7469d2f8744a358b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:24-400
+DTSTART:20260521T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:33bec993c4807c6dc4f935971f51fca7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260430T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260430T060000Z
+SUMMARY:ЛК Математический анализ
+UID:71a0fd79939c9597fc3922c66382365e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -593,11 +1003,40 @@ UID:717885d8a315cec644869b2caf27bf15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260316T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260316T074500Z
+SUMMARY:ЛК История России
+UID:8ebc468470cd1dd476844231b7ea0e98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e4fc97631490bf51874290a110cdd25b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:--каф. 919
+DTSTART:20260327T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:1fec1058f65d36902e1e93bb96c11510
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20250922T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20250922T100000Z
 SUMMARY:ЛК История России
 UID:474b6fd314c0203d9c0d04d27fb61d59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:6183147dbe6e2edd6705e6751ce7b1b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
@@ -606,6 +1045,13 @@ LOCATION:24-400
 DTSTART:20251105T100000Z
 SUMMARY:ЛК Введение в профессиональную деятельность
 UID:63c0346bbb2a0853479cb65509b7c148
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:8e75a1189d96a10503e68b6ad68adb73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -623,11 +1069,34 @@ SUMMARY:ЛР Информатика
 UID:55c3d9ffce1880597a68abac982942af
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260507T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:da7eff997d0f4f4fc28880302b97fa8b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Общая физика
+UID:45c80c57e7334ebac3041d537867874e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T113000Z
 LOCATION:ГУК Б-728
 DTSTART:20251030T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:0c5ce6e8d1219c4bc675bc6764cc7cb1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260324T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260324T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:4f45b4b11cc1a84ed8e798288cf303a3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T091500Z
@@ -652,6 +1121,21 @@ SUMMARY:ЛР Общая физика
 UID:fd93a5a52fcb0e6b5a06e4d4ffd7aa91
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260424T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260424T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:fdd1efac62653de03bb2917b746c1672
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260209T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a922a18a3105201b0bd2a2b1c01bce35
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251124T091500Z
 LOCATION:Орш. В-501
@@ -660,12 +1144,28 @@ SUMMARY:ЛК Основы российской государственност�
 UID:fe4cc0c20fe7d03573599ca001ece544
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260319T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:6f6b9b79f03bea547aca71a1ab56e2e0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20251223T113000Z
 LOCATION:ГУК Б-460
 DTSTART:20251223T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:663723de4ebd30e72716f2ec8ad3eba9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260401T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260401T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:09b32cf71a27e18b0198f27478815045
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -692,6 +1192,13 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:1c8682d1032f5dc2246d36e0e280b111
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260330T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:fd15589f7a6c222f11eb82c677c7f642
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
 DTEND:20250923T150000Z
 LOCATION:24-600
@@ -705,6 +1212,13 @@ LOCATION:ГУК Б-728
 DTSTART:20251211T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:2462c187f042deaba7940a1fc0463b81
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:24-717
+DTSTART:20260506T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:988ed05a50625f4bc54c844a9a516962
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -722,11 +1236,26 @@ SUMMARY:ПЗ Физическая культура
 UID:fe69194e520a966b91d3fee2ef4be2b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260505T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Общая физика
+UID:1da7ec799231604e98a5967ad0cf5f80
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250912T073000Z
 LOCATION:24-620
 DTSTART:20250912T060000Z
 SUMMARY:ЛР Информатика
 UID:3c623cf8885a51beb5f78befa345bf47
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T091500Z
+LOCATION:--каф. 919
+DTSTART:20260508T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:a53070d59aae198f95b765a59d45396c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -743,6 +1272,13 @@ LOCATION:Орш. В-307
 DTSTART:20260112T074500Z
 SUMMARY:Экзамен Общая физика
 UID:e2a2f83315823c286976d286c2c5a3a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--каф. 919
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:0dba28cc6a72a6c4e93b68a3d81a5adb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -765,6 +1301,14 @@ LOCATION:24-620
 DTSTART:20251219T060000Z
 SUMMARY:ЛР Информатика
 UID:50cc188332b463ec02449fc0c44e6d47
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260226T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:6c3076e2be87745b1f932157a7313498
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -807,6 +1351,22 @@ SUMMARY:ЛР Общая физика
 UID:80718ce50d41b3330e653afae499cd3d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260218T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260218T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:2b0628dd92aa4abb39540c19adb90de8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260409T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260409T060000Z
+SUMMARY:ЛК Математический анализ
+UID:7d711ef14cd6076333f31639484c8512
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20251215T113000Z
 LOCATION:Орш. Б-304
@@ -846,6 +1406,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:026da63c91a0f5e7c0a3dd94e8136f74
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:376c8ac0c55ab65b5afbd1a0d0b73bec
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251009T073000Z
 LOCATION:3-115
@@ -854,12 +1421,44 @@ SUMMARY:ПЗ Математический анализ
 UID:1a8e067f4797ecbb9e977281d468a02a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260421T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260421T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:c4bb4c8ffdd78c36e136a455453c9dba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260528T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260528T060000Z
+SUMMARY:ЛК Математический анализ
+UID:704ca24ab4b99a4b11ae095673a4695a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260305T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260305T060000Z
+SUMMARY:ЛК Математический анализ
+UID:7439aa2a247b98c872f158463660038b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
 DTEND:20250902T150000Z
 LOCATION:24-600
 DTSTART:20250902T133000Z
 SUMMARY:ЛК Информатика
 UID:cd9bb17e5b128dfcb4096b8d79230fab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260521T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:2e511b87bd0fc890e3f86a61f0fcaed1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
@@ -884,6 +1483,29 @@ LOCATION:ГУК В-228
 DTSTART:20250904T074500Z
 SUMMARY:ЛК Математический анализ
 UID:e22134c82295fcc98c1222f7a80d648d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260512T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260512T100000Z
+SUMMARY:ЛК Общая физика
+UID:9b6ac1b45eae67ca49fa7716a93e1cc1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260514T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260514T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:9c0edca466a871b93fad7a7b646e7fd6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:24-400
+DTSTART:20260604T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:f2e2dff1744916a3eaa51ffdd55cf2e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -917,6 +1539,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:66276883b3a1b3a776085448e89e4c31
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260226T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:71528e5e5c638dfb45b0215aa99cf1ad
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T131500Z
 LOCATION:--каф. 919
 DTSTART:20251030T114500Z
@@ -948,6 +1578,13 @@ SUMMARY:ПЗ Правоведение
 UID:6a7448565dfaa2d4f9d8739b5be16b12
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260522T091500Z
+LOCATION:--каф. 919
+DTSTART:20260522T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:7b6e3a07e63996442720a92b6930b6d5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20260116T091500Z
 LOCATION:ГУК Б-339
@@ -956,11 +1593,51 @@ SUMMARY:Экзамен Линейная алгебра и аналитическ
 UID:40be77ac766b3b1093488f2eb4842012
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260402T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260402T060000Z
+SUMMARY:ЛК Математический анализ
+UID:b430de40827f4cdd67b1a438e3554374
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T131500Z
 LOCATION:--каф. 919
 DTSTART:20251120T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:84b1458c73981290d2fac82ce369f73d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260326T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:aee0649421761a721c16c510036edbb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260302T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260302T074500Z
+SUMMARY:ЛК История России
+UID:14fad2a4ece152e9f9edc1e4dca86b5f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260409T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:0f803db663d34aa0478868622c08832c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260413T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260413T100000Z
+SUMMARY:ПЗ История России
+UID:84217b9afa7c5f695394b563b2a2e561
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -971,12 +1648,35 @@ SUMMARY:ЛК Математический анализ
 UID:2b78087f537b307263b27936a3740d60
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260417T114500Z
+SUMMARY:ЛК Философия
+UID:f8ffd25eb752dd0f71014564552e893f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260304T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:87e5e3f64e32d1b7cf8ff48b4ea2aa13
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
 DTEND:20251020T131500Z
 LOCATION:Орш. Б-304
 DTSTART:20251020T114500Z
 SUMMARY:ЛК Общая физика
 UID:9724d3732adb71f58e1d9777d1f4fe33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260504T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260504T074500Z
+SUMMARY:ЛК История России
+UID:ef43402e9c1025b873260928ec710bec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
@@ -1003,6 +1703,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:5e55814d9b1c46ebdb54f5e3c8fd6c94
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260317T073000Z
+LOCATION:Орш. В-606
+DTSTART:20260317T060000Z
+SUMMARY:ЛР Общая физика
+UID:435713cfd7fdaff7e8423144f23c0319
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251027T091500Z
 LOCATION:Орш. В-501
@@ -1019,6 +1726,14 @@ SUMMARY:ЛК Общая физика
 UID:6fe6978fabe1d3a3e7fc355afae5bdf5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260427T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260427T074500Z
+SUMMARY:ЛК История России
+UID:e4a2a14025a6a81ed034c5d5a22e09b3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T091500Z
 LOCATION:24-400
 DTSTART:20251210T074500Z
@@ -1031,6 +1746,14 @@ LOCATION:24-620
 DTSTART:20251010T074500Z
 SUMMARY:ЛР Информатика
 UID:f2ebb40d9a84ba6379a4d61be02e3361
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260407T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260407T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:8379576ce4de789aaea81965f99b59b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1046,6 +1769,36 @@ LOCATION:--каф. 919
 DTSTART:20251014T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:bff02ace0d10c8eac8e0ecc67e0d404f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:--каф. 919
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:935f7c28f0b72afb81e86c3787e14f7f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:876eaf4977bab402bb5a502cbbdcdf3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260521T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260521T060000Z
+SUMMARY:ЛК Математический анализ
+UID:46c5221fea146618a9ef53e0db2afa18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260528T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:8baeba63e51b123af173dd45bf51ff63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
@@ -1073,11 +1826,26 @@ UID:efe81be91e781160e6827dcf1463cf1f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260525T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260525T074500Z
+SUMMARY:ЛК История России
+UID:a721b373ecbf20c451f772aa21255b71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20250915T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20250915T100000Z
 SUMMARY:ЛК История России
 UID:394fe7320405dee4f03d708a40e3d471
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260213T114500Z
+SUMMARY:ЛК Философия
+UID:29a99e550d5e3752496649338c0792e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -1112,6 +1880,13 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:7870045351fc9dfba76d49a6a9ec1176
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:2d85dffbbf14b418db0cadcc09389c4e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251108T113000Z
 LOCATION:Орш. В-406
@@ -1128,11 +1903,27 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:a3144cb0d6e06429dd5a3b28d3255749
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260216T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260216T074500Z
+SUMMARY:ЛК История России
+UID:f62a013cc1bdf0ee0dd390f7168542f5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T091500Z
 LOCATION:24-400
 DTSTART:20251008T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:5b28c7c008b712e6cda0b496b8c989fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260224T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Общая физика
+UID:38a28a9ce0b0bbdc0cdc3ddc6f0bd5d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -1165,6 +1956,20 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:ba887284a451d7e640d3068115c58c74
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:24-400
+DTSTART:20260423T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:8764a79d2885987f078cdf19f968764d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Общая физика
+UID:cabd99febe4e5bdf19cd69b3b2540ace
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251011T131500Z
 LOCATION:Орш. В-309
@@ -1181,11 +1986,27 @@ SUMMARY:ЛК Общая физика
 UID:fdd89a5aa3ae92ed980257d887bb877f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260212T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260212T060000Z
+SUMMARY:ЛК Математический анализ
+UID:42edd3dcc80f4c40c8779bc655a9da32
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251209T091500Z
 LOCATION:--каф. 919
 DTSTART:20251209T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:d21791835e01ce18699511fbfc37c327
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260505T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260505T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:dc0296fbd4d62ebda3a4dfffb4118070
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
@@ -1196,6 +2017,21 @@ SUMMARY:ЛК История России
 UID:584c701466954805be858a55beed1a6c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260327T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260327T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:d7b205fcad97eb1e9ea81ae929ccacce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T073000Z
+LOCATION:24-717
+DTSTART:20260311T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:36b18f17057951d0524884eb0402f01d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Туев Антон Анатольевич
 DTEND:20251210T113000Z
 LOCATION:24-400
@@ -1204,12 +2040,63 @@ SUMMARY:ПЗ Введение в профессиональную деятель
 UID:ac175043699ced9e58a1fbb2e5979bbc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260217T073000Z
+LOCATION:Орш. В-603
+DTSTART:20260217T060000Z
+SUMMARY:ЛР Общая физика
+UID:31ba9e0c7f00cc9a7eecc5d28d2a3bf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260319T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260319T060000Z
+SUMMARY:ЛК Математический анализ
+UID:fdc9c2d72e33bd492957c6b8ae3cbf08
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:24-400
+DTSTART:20260514T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:6633f49b39ad841f35f40f14790b08f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:99c9eac4bc0ad00bb7a02cd8999b135e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260219T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:589cdd9da79ea3d807d802d2fbf6e420
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:e2c264ea298110e387b5b38a33a73353
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20250913T131500Z
 LOCATION:Орш. В-309
 DTSTART:20250913T114500Z
 SUMMARY:ПЗ Общая физика
 UID:7f40686b7d45cf242022064d098952e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T073000Z
+LOCATION:Орш. В-606
+DTSTART:20260303T060000Z
+SUMMARY:ЛР Общая физика
+UID:499bd44948f603473a05bbd1901d876c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
@@ -1228,6 +2115,37 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:43553333074f38dafcf101087fe48363
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260212T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:242ae1f95fd5e887107dddb2edb26605
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260410T114500Z
+SUMMARY:ЛК Философия
+UID:cb3c1d68cc742c6899fc373b13b75792
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260210T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Общая физика
+UID:4243281d9b9e0f8637a5640290334208
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260316T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260316T100000Z
+SUMMARY:ПЗ История России
+UID:43fa9f9ba51a9eea31ff53221c6ebcee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20250923T113000Z
 LOCATION:ГУК Б-460
@@ -1236,12 +2154,28 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:f98b3e18be2ffc1604241707d2eddb7a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260511T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260511T100000Z
+SUMMARY:ПЗ История России
+UID:75f15f42a29ca8b218994ba51dd6b8ea
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251101T131500Z
 LOCATION:Орш. В-309
 DTSTART:20251101T114500Z
 SUMMARY:ПЗ Общая физика
 UID:0ef64fe276ecbdd3e203037e470a1920
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260326T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260326T060000Z
+SUMMARY:ЛК Математический анализ
+UID:9e70c44a50cb8415061d60547f5f0c24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -1267,6 +2201,13 @@ SUMMARY:ЛК Правоведение
 UID:fb050c07a24578c2d1f20b4792d9e4d9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T091500Z
+LOCATION:24-717
+DTSTART:20260325T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:d8e22cba5d5232d5a8ca2e813d331a4d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251022T091500Z
 LOCATION:24-400
 DTSTART:20251022T074500Z
@@ -1274,11 +2215,49 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:13eb269be607eb06a56027c4ac7d1736
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260403T150000Z
+LOCATION:Орш. В-507
+DTSTART:20260403T133000Z
+SUMMARY:ПЗ Философия
+UID:795a1ca76fed42150fc804e0828973cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260310T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Общая физика
+UID:d148e86d4040850106730cbade38bab7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260326T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:88af42d7b9bb3cd5601679be65e58273
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260521T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260521T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:196257bd63bcd47334fea047840f7f5f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T073000Z
 LOCATION:24-620
 DTSTART:20251121T060000Z
 SUMMARY:ЛР Информатика
 UID:5867fc845ad8d5c1436740d093274efe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--каф. 919
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:d9c82ec9e7958cca8be64d61c307ef87
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251219T091500Z
@@ -1293,6 +2272,28 @@ LOCATION:ГУК Б-728
 DTSTART:20251120T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:a18c20e90adfaa728a761ed62e63f99c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260505T114500Z
+SUMMARY:ПЗ Общая физика
+UID:e897eedb5a007fe1689dff6d4368d62c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:24-400
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:9538a6800885fc71902bd1073aff8157
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260427T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260427T100000Z
+SUMMARY:ПЗ История России
+UID:88c7822bf1aff5f99034150fa09d3440
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -1324,6 +2325,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:120a1665ef7d31ced92f517f2dca2827
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:f845b6ff36cfc1acbf3d783dfb80c500
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T091500Z
 LOCATION:--каф. 919
 DTSTART:20251118T074500Z
@@ -1345,12 +2353,42 @@ SUMMARY:ПЗ Физическая культура
 UID:e52609e5a4b07317d98aa8e60922dc4b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:24-400
+DTSTART:20260416T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:75fb1bb0ce4baf1199a744bd691acbaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260513T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:73a71f4643e4e7c56f333428d026bcf3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251023T073000Z
 LOCATION:3-115
 DTSTART:20251023T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:385350678d05c998a8644989263c587c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260212T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:3c80a4888461ad75b8213884ee7dff6a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T091500Z
+LOCATION:--каф. 919
+DTSTART:20260410T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:595d817d15e5ebe70de56609b2854851
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -1377,6 +2415,21 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:082d663e541f514a08fa3a51b949d409
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:--каф. 919
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:915b22a06d42f72e8e3c758fc0546624
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260227T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260227T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:e88e7917962f60b4029b05e6a76a80ba
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
 DTEND:20251229T073000Z
 LOCATION:Орш. Б-603
@@ -1400,12 +2453,48 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:ebe4d171e426d9ab0c823eaa0e5a095c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260324T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Общая физика
+UID:2057a48dcabd2a295688a4a6c79e146c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T091500Z
+LOCATION:24-717
+DTSTART:20260520T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:78187fb6e13c671facb563cdf7eaeefd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
 DTEND:20251203T150000Z
 LOCATION:Орш. В-314
 DTSTART:20251203T133000Z
 SUMMARY:ЛР Общая физика
 UID:213921bd080c76fd481806f044400726
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:a5d7387f43bfb39eb2f3fdeaa51b1512
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260306T114500Z
+SUMMARY:ЛК Философия
+UID:c93215f7dee457baae78dac9d5d6c739
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260320T114500Z
+SUMMARY:ЛК Философия
+UID:9ec63b6a173db48d213f8d78b82e5a0c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T091500Z
@@ -1439,11 +2528,26 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:fa934a90f09b79a60b02cb2085cc474f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260515T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260515T114500Z
+SUMMARY:ЛК Философия
+UID:5d89b09213b7555211de7bd86af62f54
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251203T091500Z
 LOCATION:24-400
 DTSTART:20251203T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:7986969e36c1f73027118ca118fb8e10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260312T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:932bf2443e900a175c496178755d04c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -1452,6 +2556,21 @@ LOCATION:ГУК Б-460
 DTSTART:20251216T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:788407cb0f9ad328c96e83722c229731
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:24-717
+DTSTART:20260408T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:7b3ecfdba047ee317bed4970bf5bc4b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260428T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Общая физика
+UID:1b77e43e0f79a74014920c0d50cfdc3f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -1470,11 +2589,55 @@ SUMMARY:Экзамен Математический анализ
 UID:4ce37a011502405a396139d95550e841
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:--каф. 919
+DTSTART:20260313T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:c4f8a255e0d3c78e3f311bf2db91fbfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260310T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260310T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:d1ecbc6a4bcdde7fb3a6ce670f42a604
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251029T150000Z
 LOCATION:24-625
 DTSTART:20251029T133000Z
 SUMMARY:ПЗ Информатика
 UID:018b79f85eab13d859ff01b8b592b0c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f93651970c9b66b5fa59cb756aea74e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T091500Z
+LOCATION:--каф. 919
+DTSTART:20260417T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:cc5ceb48384ac42a1ebc5c9489878b88
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260421T114500Z
+SUMMARY:ПЗ Общая физика
+UID:5bd98111c798ac4394e6b9623663276b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260528T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260528T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:e7263e183e7d73efc5d2e2c75eadf792
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -1499,6 +2662,28 @@ LOCATION:Орш. Б-304
 DTSTART:20251222T100000Z
 SUMMARY:ЛК История России
 UID:ce3b84e631493f5ee0efb06b5b7e03b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T091500Z
+LOCATION:Орш. В-606
+DTSTART:20260317T074500Z
+SUMMARY:ЛР Общая физика
+UID:cc4cd7d53eefb88bd59f14d191e74ec7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:4ed51b26decf038c75a3a677c6b5439c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260423T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:25d7e11d4f53d8cdbf1a056dec703cfe
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251002T113000Z
@@ -1528,6 +2713,35 @@ LOCATION:--каф. 919
 DTSTART:20250909T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:c33d292e1625ce3a7fc24d26264440e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260409T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:6bd42ff05c6bcea6e15f238b179f3ec4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260224T114500Z
+SUMMARY:ПЗ Общая физика
+UID:2153a4caef811912b02c39a772fdb66d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T091500Z
+LOCATION:Орш. В-606
+DTSTART:20260303T074500Z
+SUMMARY:ЛР Общая физика
+UID:741b21b55af01cc8d8fa12625bc0112a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:24-400
+DTSTART:20260226T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:5ee4938b0ddf22865667d08089b81193
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
@@ -1560,6 +2774,14 @@ LOCATION:Орш. Б-603
 DTSTART:20251103T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:31e8cde17c25a22a048c674629b3e1ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260518T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260518T100000Z
+SUMMARY:ПЗ История России
+UID:dac4006db439632cc4ca2335130e2cc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
@@ -1610,6 +2832,13 @@ SUMMARY:ПЗ Математический анализ
 UID:04adaaee03ef0c9bc7d88ee2fd3aae75
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a6abf256d1f6316cef65c7b801299bfe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251018T131500Z
 LOCATION:Орш. В-309
@@ -1626,6 +2855,20 @@ SUMMARY:ПЗ Общая физика
 UID:6d3524137d5198c48a1e969b3927e914
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260304T150000Z
+LOCATION:24-705
+DTSTART:20260304T133000Z
+SUMMARY:ПЗ Программирование и основы алгоритмизации
+UID:3c4aeb590b64c63fddecfa5e35422bbf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:24-400
+DTSTART:20260430T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:8b6f47e961d35ebe6f20762925434352
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251223T131500Z
 LOCATION:3-419
@@ -1640,6 +2883,13 @@ LOCATION:Орш. Б-603
 DTSTART:20250922T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:d22c8af4f8c60487f6d6d6e72a851f1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:24-717
+DTSTART:20260603T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:ee6241d06076761109ddaf1f47adfa0f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -1665,6 +2915,13 @@ SUMMARY:ПЗ Физическая культура
 UID:1dd63fe4d2c6621ddf09b5f591b2f43b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260331T091500Z
+LOCATION:Орш. В-314
+DTSTART:20260331T074500Z
+SUMMARY:ЛР Общая физика
+UID:41479bf78d76088384257499d46d2057
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T131500Z
 LOCATION:--каф. 919
 DTSTART:20251016T114500Z
@@ -1680,11 +2937,33 @@ SUMMARY:ЛК Основы российской государственност�
 UID:dd5251a3d90a50a4a7476a42207e1b9a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:78532d0a59349df6861b77ca4a5dd0a0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T091500Z
 LOCATION:24-620
 DTSTART:20251121T074500Z
 SUMMARY:ЛР Информатика
 UID:3e4fbff74d9d4248806b379f74370127
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:--каф. 919
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:33a20515eed0c9fb6785e6ea07b127f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260514T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260514T060000Z
+SUMMARY:ЛК Математический анализ
+UID:8c6e36e88762a06e12178d5b376b71e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -1703,12 +2982,42 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:3b8d0a601b3dce60ba5c5efe77caf320
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260320T091500Z
+LOCATION:--каф. 919
+DTSTART:20260320T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:ee9e723c28b0937c6f9bb88ed0ea25a2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
 DTEND:20251119T113000Z
 LOCATION:24-400
 DTSTART:20251119T100000Z
 SUMMARY:ЛК Введение в профессиональную деятельность
 UID:30810f72d2c348f9832cf648fa12b4d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T073000Z
+LOCATION:24-717
+DTSTART:20260603T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:53833332a842c531af56c80df08a11b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260519T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Общая физика
+UID:300545ae09e6251d3360a04ebf468901
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260526T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260526T100000Z
+SUMMARY:ЛК Общая физика
+UID:92af38218e0962e0894404fd86393099
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -1719,12 +3028,27 @@ SUMMARY:ЛК Общая физика
 UID:d931a74d4a6cb99edc254f3beacd14e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260416T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:791c3dbc4431d544fff59008f2e166ef
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251025T131500Z
 LOCATION:Орш. В-309
 DTSTART:20251025T114500Z
 SUMMARY:ПЗ Общая физика
 UID:635570ee3c8ebd2c9a1f6ea2bcb719e1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:24-400
+DTSTART:20260312T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:46d7df4146bbca9369c50c95ad0d466e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -1735,12 +3059,35 @@ SUMMARY:ЛК Информатика
 UID:b608f2a4ef097110af66230065a6b39b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260402T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:cf115b04893098256a08ba2e132ecae6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--каф. 919
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9093afe3ab0fe4a5fca1c9d4e2f3a5c8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
 DTEND:20251015T131500Z
 LOCATION:3-419
 DTSTART:20251015T114500Z
 SUMMARY:ПЗ Правоведение
 UID:4d542c8ea00df33caf32cd10d668b11e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260312T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260312T060000Z
+SUMMARY:ЛК Математический анализ
+UID:d54bf449beabb3d061f987b6105f6394
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -1767,6 +3114,14 @@ SUMMARY:ЛК Математический анализ
 UID:28de812ed50be094c84ad0d65eb2e853
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260519T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260519T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:321a55309de4b8ee010aa7ccb672690f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
 DTEND:20251007T150000Z
 LOCATION:24-600
@@ -1781,6 +3136,13 @@ LOCATION:Орш. В-406
 DTSTART:20251018T133000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:af111ea1c60646a59a60af02f64e20cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5b3b88cb71e411ed651dd501545389e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -1798,6 +3160,36 @@ SUMMARY:ПЗ Физическая культура
 UID:8125d6c78b688d789324a64709136010
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260303T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260303T114500Z
+SUMMARY:ПЗ Общая физика
+UID:7e99fe82d30fd5c3369997f2efc37b93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260415T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260415T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:6505da71360bd94ee535d5e825f5d37c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--каф. 919
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:0ae9768e920a948dea4ae3f6b511c0d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260416T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:88d2bbd561ace74544a86fc6d3d6e8ea
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Христофорова Наталья Игоревна
 DTEND:20250908T073000Z
 LOCATION:Орш. Б-603
@@ -1811,6 +3203,53 @@ LOCATION:ГУК Б-728
 DTSTART:20251127T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:137fd889467c2ded5384c7d57888a59c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260511T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260511T074500Z
+SUMMARY:ЛК История России
+UID:9bd8bd6876a7d1cd181fdd15c7ceebe6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260507T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260507T060000Z
+SUMMARY:ЛК Математический анализ
+UID:21f6459218ca777971f17bc813d57375
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T091500Z
+LOCATION:--каф. 919
+DTSTART:20260424T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:9bbfdbdefc13c6c8e2308b18c29a75a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260421T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Общая физика
+UID:94dcab44fdf7f0730d68c76bbfa10d8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260504T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260504T100000Z
+SUMMARY:ПЗ История России
+UID:38cbafb260e9baf1dec77b05503d5ad2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260527T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260527T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:06967e7586df88264f4c44034bc8215f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T073000Z
@@ -1828,11 +3267,43 @@ SUMMARY:ЛК Правоведение
 UID:ddcce98616bd763b868d55212bcb6bb0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260312T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:34dc839342207c9524be34e944557130
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260319T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:e782e5ef446c066d922ca1f444f30dfa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260507T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:4c339ed1e0e3baf7f075311d1f328c0d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T131500Z
 LOCATION:--каф. 919
 DTSTART:20251023T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:04bb4b7c6657150ec3199e44a4f2a4ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260420T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260420T074500Z
+SUMMARY:ЛК История России
+UID:5d20ba9d3fc61c944ba79b2e31d0f89c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
@@ -1843,6 +3314,13 @@ SUMMARY:ЛК Правоведение
 UID:134a251b681e4c3097b40c56e94b8caa
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:24-717
+DTSTART:20260325T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:d1a96135fe2d0a59f4665dd5968ebead
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251225T073000Z
 LOCATION:3-115
@@ -1851,12 +3329,26 @@ SUMMARY:ПЗ Математический анализ
 UID:4f495f0d3c27504897eaaddebfe05c7d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:24-400
+DTSTART:20260528T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:b18d2e04ec50224d18d4a047d802d252
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
 DTEND:20251105T150000Z
 LOCATION:Орш. В-305
 DTSTART:20251105T133000Z
 SUMMARY:ЛР Общая физика
 UID:5b4e925bb9e86ffece8a69de9b75bc93
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--каф. 919
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:005191d1e6c4ff9fdb89964142a3017c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
@@ -1890,6 +3382,14 @@ SUMMARY:ПЗ История России
 UID:ebb9cd3b91911f04b53702575e7efcc1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260313T150000Z
+LOCATION:Орш. В-101
+DTSTART:20260313T133000Z
+SUMMARY:ЛК Экономическая теория
+UID:586a63c8a54ec57a9160f68bac4937b2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20251213T131500Z
 LOCATION:Орш. В-309
@@ -1898,12 +3398,34 @@ SUMMARY:ПЗ Общая физика
 UID:32c8ec1e18b34bf30f0d19494dc37c4a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260327T114500Z
+SUMMARY:ЛК Философия
+UID:5eff12525260751d94395c661d7eb883
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
 DTEND:20250927T150000Z
 LOCATION:Орш. В-406
 DTSTART:20250927T133000Z
 SUMMARY:ПЗ Основы российской государственности
 UID:e80f89359f20a79f1914e7dde9a13ddd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260601T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260601T074500Z
+SUMMARY:ЛК История России
+UID:233655bf95f03f238cb23ef8170aaafa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T091500Z
+LOCATION:--каф. 919
+DTSTART:20260306T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:9905f47fa4c59c6fd6b0a5fac6e75955
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -1928,12 +3450,28 @@ SUMMARY:ПЗ Физическая культура
 UID:bbfc3d8e4387958f14806e8350c676e5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тлюстангелов Ибрагим Асланович
+DTEND:20260226T073000Z
+LOCATION:ГУК Б-460
+DTSTART:20260226T060000Z
+SUMMARY:ЛК Математический анализ
+UID:0b2895a80f752382e3f554cb7cfc4dfa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
 DTEND:20251111T113000Z
 LOCATION:ГУК Б-460
 DTSTART:20251111T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:7723dc449309c0e3e35dda1374ae74ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260414T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260414T100000Z
+SUMMARY:ЛК Общая физика
+UID:1d53792552869c1bb4318d7bb4a8348c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251016T113000Z
@@ -1958,6 +3496,22 @@ SUMMARY:ЛК История России
 UID:0e8a9e9f8a956d00ac91e2cb2f2d7587
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260423T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:5b54774b3909b415496eca8c4e37a7ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260331T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Общая физика
+UID:74e2ae380d15b3b2b6e12b4e1ea41a46
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251024T073000Z
 LOCATION:24-620
 DTSTART:20251024T060000Z
@@ -1971,6 +3525,34 @@ LOCATION:ГУК Б-339
 DTSTART:20260116T060000Z
 SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
 UID:c23f022ce3fb06da9dc8edc6bd49ac34
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:--каф. 919
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:54956aec78cfed2de93f5c0608e91d80
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:24-717
+DTSTART:20260225T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:e59b3652d3842df7fae8dec97a149fbe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T091500Z
+LOCATION:--каф. 919
+DTSTART:20260529T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:98dd4c3c3990a5af4924c190bf225c56
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:--каф. 919
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ac9320d152b48634cadbde6e5f0ad2ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -1989,12 +3571,42 @@ SUMMARY:ЛК Общая физика
 UID:0e238c8ae7ca358f3b0987597480ae6e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260428T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260428T114500Z
+SUMMARY:ПЗ Общая физика
+UID:19479bc7303bcaa6c19cf8aca6655904
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
 DTEND:20251008T113000Z
 LOCATION:24-400
 DTSTART:20251008T100000Z
 SUMMARY:ЛК Введение в профессиональную деятельность
 UID:eb0ad338443596f99b0f9892ef109e5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260305T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:69b6386dd8e705087b993dc97e80e243
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260420T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260420T100000Z
+SUMMARY:ПЗ История России
+UID:17b6d9ca7622ff1adc1564b7f16e5402
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5b099fc582cd10889a6487372f2d1e9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кобзев Дмитрий Сергеевич
@@ -2011,6 +3623,13 @@ LOCATION:3-115
 DTSTART:20250911T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:e608bdac9982c55591bca7f0ad845d71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--каф. 919
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:5eeb437c95b88a378c9b5590fe0c1d69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
@@ -2034,6 +3653,14 @@ LOCATION:24-400
 DTSTART:20251029T100000Z
 SUMMARY:ПЗ Введение в профессиональную деятельность
 UID:dda2f98af132c6b0b9de37479abd039a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260330T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260330T100000Z
+SUMMARY:ПЗ История России
+UID:ce12c18c0d2137d7e6bc4c5446a512e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -2076,6 +3703,14 @@ SUMMARY:ПЗ Введение в профессиональную деятель
 UID:2d06eec5189694c5b58fbeb1adccdc7a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260217T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260217T100000Z
+SUMMARY:ЛК Общая физика
+UID:aab52fb7219c2b6015e590460d393419
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251223T091500Z
 LOCATION:--каф. 919
 DTSTART:20251223T074500Z
@@ -2090,12 +3725,41 @@ SUMMARY:ПЗ Физическая культура
 UID:382c87a67e596695b100b7f8b411edeb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260407T131500Z
+LOCATION:Орш. В-223
+DTSTART:20260407T114500Z
+SUMMARY:ПЗ Общая физика
+UID:0a11dd16df62eef480a0c39f85c83d34
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251227T113000Z
 LOCATION:Орш. В-406
 DTSTART:20251227T100000Z
 SUMMARY:ПЗ История России
 UID:378755afc5b9ad8879f857814666b723
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:24-400
+DTSTART:20260402T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:8cb1f0f4c2ebe1e72279ecabd3975664
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260402T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:dd066f5a80909c5ec6886300bfaaf5aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:d1fa85208acfdc6ffc9abf46aeaef7cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -2106,11 +3770,64 @@ SUMMARY:ПЗ Математический анализ
 UID:35a5744712c641dcb60b1805c83012b9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260406T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260406T100000Z
+SUMMARY:ПЗ История России
+UID:9fb9cac3f8b2c7774702b387ab30d74e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:c4d095083b37bd8849d77e338d02536e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T131500Z
 LOCATION:--каф. 919
 DTSTART:20250904T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:b61ccaa9c828fbf5cc4e0e6d397da6ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260323T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260323T074500Z
+SUMMARY:ЛК История России
+UID:aa93cf9edf2efff3bb32af58aae45607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20260224T150000Z
+LOCATION:Орш. В-506
+DTSTART:20260224T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:7f15b90b8682824287123fc297c8ea6e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260429T091500Z
+LOCATION:ГУК Б-636
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Теоретическая механика
+UID:da9fe179f3809318ce436bad3832ba91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T091500Z
+LOCATION:Орш. В-603
+DTSTART:20260217T074500Z
+SUMMARY:ЛР Общая физика
+UID:a8b32c8b00c935678ab20d6438a487da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:60de81820fed412c71929b8ec1b1b634
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -2136,6 +3853,13 @@ SUMMARY:ПЗ Физическая культура
 UID:b0ae0a8efc8e711064057bd570e84036
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T150000Z
+LOCATION:24-705
+DTSTART:20260218T133000Z
+SUMMARY:ПЗ Программирование и основы алгоритмизации
+UID:3daf27d5aaa73b20aee7b1be13be5e8d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20251113T091500Z
 LOCATION:ГУК В-228
@@ -2150,6 +3874,13 @@ LOCATION:ГУК Б-460
 DTSTART:20251125T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:5fad3d45877c964975531d22e34fb80a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260220T114500Z
+SUMMARY:ЛК Философия
+UID:68532e431a0fa54a012cb8bf8dba47e2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бурмистрова Ирина Хазритовна
@@ -2175,12 +3906,41 @@ SUMMARY:ПЗ Физическая культура
 UID:153992363681ba301ce9b4fc00ac2467
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T073000Z
+LOCATION:24-717
+DTSTART:20260422T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:d36b46c9bad5be74b51e61207c245a77
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Комаров Алексей Валерьевич
 DTEND:20251027T113000Z
 LOCATION:Орш. Б-304
 DTSTART:20251027T100000Z
 SUMMARY:ЛК История России
 UID:6eb5645b0b19fc05dd04efaad7765ee9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T091500Z
+LOCATION:--каф. 919
+DTSTART:20260515T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:9529b5c8e43ec590d69904e1a3cdd0f3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:ГУК А-714
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Инженерная и компьютерная графика
+UID:9cb64ae313a7cc4f2487590f9677cc69
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комаров Алексей Валерьевич
+DTEND:20260413T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260413T074500Z
+SUMMARY:ЛК История России
+UID:4490867335991c6d3fa65ff565435901
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
@@ -2196,6 +3956,13 @@ LOCATION:ГУК Б-728
 DTSTART:20251009T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:5273d44920ffce556288785e102c3de8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:Орш. В-501
+DTSTART:20260227T114500Z
+SUMMARY:ЛК Философия
+UID:23ef21cd924bfba5a3a97e1b68f5db78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чёткина Анастасия Валерьевна
@@ -2229,6 +3996,13 @@ SUMMARY:ПЗ История России
 UID:845c4c58fff46aca8b444d403d8a37a8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:24-400
+DTSTART:20260319T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:d562eb4162cd53de96578c8c40becdcd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
 DTEND:20251101T113000Z
 LOCATION:Орш. В-406
@@ -2245,12 +4019,43 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:7525de83aa20b983b7109b076d92ee5b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Давыдов Сергей Андреевич
+DTEND:20260514T131500Z
+LOCATION:ГУК Б-632
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:26cf72b5e6aeba98a3eb796448b6a32c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260601T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260601T100000Z
+SUMMARY:ПЗ История России
+UID:964ede39cb9ac9f42f5ce239399dfbfb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Белоусов Илья Александрович
 DTEND:20260124T091500Z
 LOCATION:24-622
 DTSTART:20260124T074500Z
 SUMMARY:Экзамен Информатика
 UID:309b3df6c79d4e602d5398825cf5391d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260317T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260317T100000Z
+SUMMARY:ЛК Общая физика
+UID:e83ab870023d8dcfeba97765c38045d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:24-717
+DTSTART:20260422T074500Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:9372ecd11ae9e50844222b6e36694bb9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
@@ -2328,6 +4133,13 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:d0c407fd917079ed07f9227b05c52223
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:Орш. Б-600
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f62866143e7802d17e6f93cc8e2babc0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251224T091500Z
 LOCATION:24-400
 DTSTART:20251224T074500Z
@@ -2341,6 +4153,21 @@ LOCATION:24-600
 DTSTART:20251125T133000Z
 SUMMARY:ЛК Информатика
 UID:3ab8c274c0488fa2c2dd466141489cdc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ювченко Максим Сергеевич
+DTEND:20260525T113000Z
+LOCATION:Орш. В-406
+DTSTART:20260525T100000Z
+SUMMARY:ПЗ История России
+UID:d993188d833111043087a302331a2ea7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:24-400
+DTSTART:20260507T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:1181e0e30c044a71c592b7e82accff15
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251029T091500Z
@@ -2358,6 +4185,20 @@ SUMMARY:ЛР Общая физика
 UID:c53a379a62cfb8d1cb79092c74457d89
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:24-400
+DTSTART:20260305T100000Z
+SUMMARY:ЛК Программирование и основы алгоритмизации
+UID:353fdb3acef14e67febb9e6e619857b8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T091500Z
+LOCATION:--каф. 919
+DTSTART:20260403T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:826cf15db082e64c55479401117f999e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тлюстангелов Ибрагим Асланович
 DTEND:20250916T131500Z
 LOCATION:3-419
@@ -2372,6 +4213,14 @@ LOCATION:3-419
 DTSTART:20251126T114500Z
 SUMMARY:ПЗ Правоведение
 UID:4e08503aa12a43b05fc41ec3606a5745
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Девяткин Евгений Михайлович
+DTEND:20260303T113000Z
+LOCATION:Орш. В-301
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Общая физика
+UID:915f557142da92e9805c489611250594
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Девяткин Евгений Михайлович
@@ -2397,6 +4246,14 @@ SUMMARY:ПЗ Введение в профессиональную деятель
 UID:b7e41c69bbdde599145549779353fff1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Матухина Олеся Владимировна
+DTEND:20260430T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Теоретическая механика
+UID:1898d591c40fb11dc38247a57f270b0d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кули-заде Марина Евгеньевна
 DTEND:20250920T131500Z
 LOCATION:Орш. В-309
@@ -2419,6 +4276,13 @@ LOCATION:24-600
 DTSTART:20250916T133000Z
 SUMMARY:ЛК Информатика
 UID:8fa106c72742dfb0ea4ef2c3c2627bda
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:24-717
+DTSTART:20260520T060000Z
+SUMMARY:ЛР Программирование и основы алгоритмизации
+UID:3ef55a8b52e617a01a0de7b354b48173
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
