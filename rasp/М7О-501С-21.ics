@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20260115T073000Z
-LOCATION:24-603
-DTSTART:20260115T060000Z
-SUMMARY:Экзамен Внешняя  баллистика
-UID:37fcc7648c313d5f15dfc461f330f734
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20251008T091500Z
 LOCATION:24-621
@@ -18,20 +10,28 @@ SUMMARY:ЛР Планирование и обработка результато
 UID:d4c39687f784f4c1f3d84c2390e7d63c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251006T113000Z
-LOCATION:24-621
-DTSTART:20251006T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:0e8a47c7e0f04fc6cc20ed961384a36d
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260220T131500Z
+LOCATION:24-605
+DTSTART:20260220T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:5e0b8a403a9506d1188798da59b89877
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20251204T131500Z
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260220T113000Z
 LOCATION:24-605
-DTSTART:20251204T114500Z
-SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:1cb91c6562aeae59859352534a47b291
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:cf32aa2f0372b59a01420a07f14e21a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260213T091500Z
+LOCATION:24-603
+DTSTART:20260213T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:aa2a966f2b1dc23a11c0c0b04647949f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -50,12 +50,12 @@ SUMMARY:ЛК Конструкция и проектирование авиаци
 UID:9908bf3bfe1f5cc3ab3f7e39fedd961d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20250904T113000Z
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260316T113000Z
 LOCATION:24-605
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:28337a718b6f11cc1d493c99617680ed
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:b3f3df011ce436ec85687172ba218e7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
@@ -66,22 +66,6 @@ SUMMARY:ПЗ Управление проектами
 UID:05fd386062c65f03a6bae895aa596f10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250908T131500Z
-LOCATION:24-621
-DTSTART:20250908T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:9a9abe2dd97b0e1df095b885a1f47007
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20250925T131500Z
-LOCATION:24-605
-DTSTART:20250925T114500Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:db34a37ae9600bf2ca50e8324963be7b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20251210T073000Z
 LOCATION:24-621
@@ -90,44 +74,28 @@ SUMMARY:ЛК Планирование и обработка результато
 UID:8eddeee28fab0c05d82c8ced9ce4fb9b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251013T131500Z
-LOCATION:24-621
-DTSTART:20251013T114500Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:3fb8fce02d00a2d65342a70b43c31c8b
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260328T113000Z
+LOCATION:24-605
+DTSTART:20260328T100000Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:70fb1fad7a35cbe247a543d2580587a3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251027T091500Z
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260520T150000Z
+LOCATION:24-620
+DTSTART:20260520T133000Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:4b256afb394ac43eea16596c339c5aa7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260313T091500Z
 LOCATION:24-603
-DTSTART:20251027T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:139086aebe919253e499a37d2494cda6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251103T131500Z
-LOCATION:24-621
-DTSTART:20251103T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:6529c0516013c8eabb5027fe8867e737
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20250905T113000Z
-LOCATION:24-605
-DTSTART:20250905T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:deb577ef7dadd3e2fcceb335be03c2e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251112T113000Z
-LOCATION:24-605
-DTSTART:20251112T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:95fb266090c9d403a52e6b15103ea262
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:8d9f861326a62e4854e1a1358c267185
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полянский Виталий Викторович
@@ -136,14 +104,6 @@ LOCATION:24-605
 DTSTART:20251218T114500Z
 SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
 UID:acf6b401ad1ce47d38a1ec428476a456
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251224T091500Z
-LOCATION:24-621
-DTSTART:20251224T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:cc5760fcfaf2d083a22429f207e1cfc1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -162,20 +122,20 @@ SUMMARY:ЛК Планирование и обработка результато
 UID:0f82b7b208b3dc1f6568ca87cde9c72f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251210T091500Z
-LOCATION:24-621
-DTSTART:20251210T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:15604baf50fe50593bf2c7a87501fe42
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260514T073000Z
+LOCATION:--каф.701
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:f7ec87d32cb6559f6d4c8533be4706a0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251212T131500Z
-LOCATION:24-605
-DTSTART:20251212T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:74dba928b1730cb3fdb95613dcb3fdc9
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260211T131500Z
+LOCATION:24-622
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:03fa1283ed0b4c0a78d858ce648914e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -187,54 +147,6 @@ UID:00172cc6b3fcddff418e6f849929da65
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251029T091500Z
-LOCATION:24-621
-DTSTART:20251029T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:7f50416881788016ddf17ad7348d7538
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250917T091500Z
-LOCATION:24-621
-DTSTART:20250917T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:0de4b6f1e656b48b4e65296f6043cf9d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251128T131500Z
-LOCATION:24-605
-DTSTART:20251128T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:97c4d802e5ba81c0cf22b2b3bb9aaeac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251112T091500Z
-LOCATION:24-621
-DTSTART:20251112T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:68c220c287652f06071d89de45ed8196
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251124T113000Z
-LOCATION:24-621
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:58099bde7a121955aed81092e49d9a08
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251222T150000Z
-LOCATION:5-101
-DTSTART:20251222T133000Z
-SUMMARY:ЛК Управление проектами
-UID:f492d3df27cb41031f4b641eb526c1c5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20250910T091500Z
 LOCATION:24-621
 DTSTART:20250910T074500Z
@@ -242,28 +154,20 @@ SUMMARY:ЛР Планирование и обработка результато
 UID:8381701fea59876826f1ae21ef502454
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251103T113000Z
-LOCATION:24-621
-DTSTART:20251103T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:878d8ad79cf1454d42324a0f1e1c1aa3
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260219T091500Z
+LOCATION:--каф.701
+DTSTART:20260219T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:21719bb71a524fcf4fb5f701203dc711
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250915T131500Z
-LOCATION:24-621
-DTSTART:20250915T114500Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:3bf650d1938ebf24418296abcf8c1019
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250917T131500Z
-LOCATION:24-605
-DTSTART:20250917T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:218a99ecb6bea2c6cbdcce27fe03e090
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260404T073000Z
+LOCATION:24-603
+DTSTART:20260404T060000Z
+SUMMARY:ЛР Системы управления вооружением
+UID:fb67a8aae5f1eb399da9009942a28ac8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -274,14 +178,6 @@ SUMMARY:ЛК Конструкция и проектирование авиаци
 UID:b0df985ce03603aaf616894bc49da5c6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251022T091500Z
-LOCATION:24-621
-DTSTART:20251022T074500Z
-SUMMARY:ЛР Планирование и обработка результатов эксперимента
-UID:29c38973ae226ea9fd3c01d0ffe33809
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
 DTEND:20251105T113000Z
 LOCATION:24-603
@@ -290,44 +186,20 @@ SUMMARY:ЛР Динамика и прочность робототехничес
 UID:008542c9ddcdc2cb5d26fece39b5826c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251126T131500Z
-LOCATION:24-605
-DTSTART:20251126T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:5762dadc89c62ba28b34c2a43c6c2654
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251016T113000Z
-LOCATION:24-605
-DTSTART:20251016T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:d7fad122791089ec1b8d2f0f5bfa51d2
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260213T113000Z
+LOCATION:24-621
+DTSTART:20260213T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:8833cd3b1c35ecdaf578c1de5c7be0c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20250919T131500Z
+DTEND:20260306T113000Z
 LOCATION:24-605
-DTSTART:20250919T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:76fd7fdcd816de29ce2e615b4205f4c4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251211T113000Z
-LOCATION:24-605
-DTSTART:20251211T100000Z
-SUMMARY:ПЗ Внешняя  баллистика
-UID:fd7252e5b32568bd2fa84718c1c08e74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20260123T091500Z
-LOCATION:24-603
-DTSTART:20260123T074500Z
-SUMMARY:Экзамен Планирование и обработка результатов эксперимента
-UID:a479087c657f8619efbc1bcc2407998b
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:550776a7eb596621965f2bd4306a7941
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
@@ -346,22 +218,6 @@ SUMMARY:ЛК Конструкция и проектирование авиаци
 UID:9fd26f2bdab06a2c31eb16b5fa0141f5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250903T073000Z
-LOCATION:24-621
-DTSTART:20250903T060000Z
-SUMMARY:ЛК Планирование и обработка результатов эксперимента
-UID:b4c6aec1ed808f826a816144292935c7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250917T073000Z
-LOCATION:24-621
-DTSTART:20250917T060000Z
-SUMMARY:ЛК Планирование и обработка результатов эксперимента
-UID:f5c6126af58f66bcc7fbafd3cdf3971b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
 DTEND:20251226T164500Z
 LOCATION:24-603
@@ -370,44 +226,12 @@ SUMMARY:ЛР Бортовое оборудование летательных а
 UID:55ff4cf692e75cdd31328fa3a6f87aa3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251114T164500Z
-LOCATION:24-603
-DTSTART:20251114T151500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:74a129668676041b43fabc81906ef836
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250901T091500Z
-LOCATION:24-603
-DTSTART:20250901T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:a58792e6664d666cfff58db7843ad9aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250922T091500Z
-LOCATION:24-603
-DTSTART:20250922T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:cdf4840fc851faf51dbd1485ee47a827
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20250904T091500Z
-LOCATION:5-323
-DTSTART:20250904T074500Z
-SUMMARY:ПЗ Управление проектами
-UID:ca30278f146a824a6ff9c6061de14d0a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251003T131500Z
-LOCATION:24-605
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:e62425b638f165b71264c32ab3354c3f
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260411T091500Z
+LOCATION:24-621
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:2e43ac82b85835efe21cc1bb8fba0625
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -427,27 +251,11 @@ UID:caecff39fd8adf4f37f540feec144764
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250908T091500Z
-LOCATION:24-603
-DTSTART:20250908T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:63b358bcd65f417e3fdc9ba41260707f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20260115T091500Z
-LOCATION:24-603
-DTSTART:20260115T074500Z
-SUMMARY:Экзамен Внешняя  баллистика
-UID:1f00ccb0905956b5c59d663c56668f70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251119T131500Z
-LOCATION:24-603
-DTSTART:20251119T114500Z
+DTEND:20260518T113000Z
+LOCATION:24-615
+DTSTART:20260518T100000Z
 SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:fef4ae8e60f22ce534731de795fd5d34
+UID:307edce9160c78f09a400c78e71a04e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -458,36 +266,12 @@ SUMMARY:ЛК Конструкция и проектирование авиаци
 UID:bb69c9b8a59e71fdc5f5cf56a17d5259
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251121T150000Z
-LOCATION:24-605
-DTSTART:20251121T133000Z
-SUMMARY:ЛР Авиационные боеприпасы
-UID:40cc4f096ef2ced581535c3236d68ded
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
 DTEND:20250919T164500Z
 LOCATION:24-603
 DTSTART:20250919T151500Z
 SUMMARY:ЛР Бортовое оборудование летательных аппаратов
 UID:d30549ef126261b155ecd489acb729b5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251015T131500Z
-LOCATION:24-605
-DTSTART:20251015T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:351af2c297b59b1aedb9066b7142224e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251010T131500Z
-LOCATION:24-605
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:c4fdde5d1ce9b0fe108ee89bf4a1fd12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полянский Виталий Викторович
@@ -498,14 +282,6 @@ SUMMARY:ЛР Конструкция и проектирование устано
 UID:32750ca77b41d404bf548b59a8a35326
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251117T091500Z
-LOCATION:24-603
-DTSTART:20251117T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:4a6fccbd31070bf233599a2be4506fb9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20251008T073000Z
 LOCATION:24-621
@@ -514,52 +290,12 @@ SUMMARY:ЛР Планирование и обработка результато
 UID:fd777b3dd214f54934db08deefff5559
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20251204T113000Z
-LOCATION:24-605
-DTSTART:20251204T100000Z
-SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:6441331924739905b8953db83ad997da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251113T131500Z
-LOCATION:24-605
-DTSTART:20251113T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:0944654bd5b7bb070558de9eccd3fb06
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20250904T131500Z
-LOCATION:24-605
-DTSTART:20250904T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:40e3fab12c4869e42648d3d67d3c9ec4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251020T131500Z
-LOCATION:24-621
-DTSTART:20251020T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:bfb94b695794bb7d2bd4d17042fbff6c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251027T150000Z
-LOCATION:5-101
-DTSTART:20251027T133000Z
-SUMMARY:ЛК Управление проектами
-UID:1080c2023bca7dd6a985720b7f0f1697
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20250912T131500Z
-LOCATION:24-605
-DTSTART:20250912T114500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:50e9aa735ac3a8a7505f7c5334c77df3
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260601T131500Z
+LOCATION:24-615
+DTSTART:20260601T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:00e80a36dd1265e11afca639b8831e80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
@@ -570,76 +306,12 @@ SUMMARY:ПЗ Управление проектами
 UID:4b7f4dc515a62448ced872eb8fbc9d6d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250922T131500Z
-LOCATION:24-621
-DTSTART:20250922T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:14fde5dfdb34b876e4d33b694e9b5119
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251105T073000Z
-LOCATION:24-621
-DTSTART:20251105T060000Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:ed5faa3593bc29f968e77acb12cb77a8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251217T091500Z
-LOCATION:24-621
-DTSTART:20251217T074500Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:bddc32bbf8e40c07a95123b28c2711a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251031T131500Z
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260411T131500Z
 LOCATION:24-605
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:ae4ab3406e7da633607e10edd967efb0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251103T091500Z
-LOCATION:24-603
-DTSTART:20251103T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:aeee1d390cfbb08096fc4353753b2de1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251212T164500Z
-LOCATION:24-603
-DTSTART:20251212T151500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:afc3c9b97c7bd5147b2d57ed8a1f5f76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251003T164500Z
-LOCATION:24-603
-DTSTART:20251003T151500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:6461a4b0c33c22a91a21048f6715deec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251225T113000Z
-LOCATION:24-605
-DTSTART:20251225T100000Z
-SUMMARY:ПЗ Внешняя  баллистика
-UID:f4c88ec9206244e536d768bcba91d2df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20260119T091500Z
-LOCATION:24-621
-DTSTART:20260119T074500Z
-SUMMARY:Экзамен Конструкция и проектирование авиационных средств поражения
-UID:eacdc090cdaa005503e231eda06a2314
+DTSTART:20260411T114500Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:a8b18cd8080a2feeab66abf9dfa8b051
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полянский Виталий Викторович
@@ -658,30 +330,6 @@ SUMMARY:ЛР Конструкция и проектирование устано
 UID:afdb8b0cc2922a9851fc9abf8215b7a9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251002T131500Z
-LOCATION:24-605
-DTSTART:20251002T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:41d938bfc3afc837a7020d171298f298
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251127T131500Z
-LOCATION:24-605
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Внешняя  баллистика
-UID:9a9cef9474dc131032291c35899c4400
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251211T091500Z
-LOCATION:5-323
-DTSTART:20251211T074500Z
-SUMMARY:ПЗ Управление проектами
-UID:2d4feda529ee33e40f26ca9d409755a5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20250910T073000Z
 LOCATION:24-621
@@ -690,36 +338,12 @@ SUMMARY:ЛР Планирование и обработка результато
 UID:d4bc7a9e80b2fe16b7aa44da84338ea8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251017T150000Z
-LOCATION:24-603
-DTSTART:20251017T133000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:0769c12115abd45ea05c4eab5b5c9df4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
-DTEND:20251215T131500Z
-LOCATION:24-621
-DTSTART:20251215T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:374bf5c34c73b02b84368058d4eb2ac3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20250911T113000Z
+DTEND:20260415T091500Z
 LOCATION:24-605
-DTSTART:20250911T100000Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:ebed9a87175f9978c5067062914acb37
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251006T131500Z
-LOCATION:24-621
-DTSTART:20251006T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:72b154002554926002651396f89b3a1f
+DTSTART:20260415T074500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:5a11cc2fa363523a8d7baf4b7b8dd95f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -728,30 +352,6 @@ LOCATION:24-621
 DTSTART:20251001T074500Z
 SUMMARY:ЛК Моделирование авиационных робототехнических систем
 UID:32ac20d9d4f6ddcb4da0c41f637bf199
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251222T113000Z
-LOCATION:24-621
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:838377c6c94b1d3e473faeb38184c961
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20260123T073000Z
-LOCATION:24-603
-DTSTART:20260123T060000Z
-SUMMARY:Экзамен Планирование и обработка результатов эксперимента
-UID:d27792a0afd2bca5917111b1bda64502
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251002T113000Z
-LOCATION:24-605
-DTSTART:20251002T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:e1dbf99573bad8efafac12a7befe6211
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -770,44 +370,28 @@ SUMMARY:ПЗ Внешняя  баллистика
 UID:a6101d5766cbd48a2742aa017dfb1f7b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251203T091500Z
-LOCATION:24-621
-DTSTART:20251203T074500Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:e3520fe184a8ac5a46c9b37894d0e262
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260416T073000Z
+LOCATION:--каф.701
+DTSTART:20260416T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:ada313bc5bf766689e843f77ca3c0329
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251226T150000Z
-LOCATION:24-603
-DTSTART:20251226T133000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:79a7b608025f6666fa8fc4e4bc20b71f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251027T131500Z
-LOCATION:24-621
-DTSTART:20251027T114500Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:c125ff8840bbc943eb4f5671c6f10aaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251031T113000Z
+DTEND:20260316T131500Z
 LOCATION:24-605
-DTSTART:20251031T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:e940d7415490c6a5ede193e68fd92185
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:afcb39a01cf0288c13eb3f90ce2f0691
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251105T131500Z
-LOCATION:24-603
-DTSTART:20251105T114500Z
-SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:4143ad822197be7fe0e210b262215dbf
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260402T091500Z
+LOCATION:--каф.701
+DTSTART:20260402T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:c7bb723177bda692e0ea23610e2c1b18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -818,84 +402,12 @@ SUMMARY:ЛК Бортовое оборудование летательных а
 UID:8241a28e0e9c5465911ad76ebea98146
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251208T150000Z
-LOCATION:5-101
-DTSTART:20251208T133000Z
-SUMMARY:ЛК Управление проектами
-UID:618a4cc89790eea07f193471355885b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251110T091500Z
-LOCATION:24-603
-DTSTART:20251110T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:f7ecd9f67722b6e1956f1e9f6e063040
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251006T091500Z
-LOCATION:24-603
-DTSTART:20251006T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:9885406fcf50d1552311e123f5ffa995
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251027T113000Z
-LOCATION:24-621
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:b000ec1b16d5eae5e2117ca975aca763
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20251023T113000Z
-LOCATION:24-605
-DTSTART:20251023T100000Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:8f3f2db056390b4f2fca973d513dd131
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251107T113000Z
-LOCATION:24-605
-DTSTART:20251107T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:1c5cc0ec32c6a425873d2e1bb99cabcb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251203T073000Z
-LOCATION:24-621
-DTSTART:20251203T060000Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:9b4ddda436ec0f0c15b9bb9a18c55335
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20250911T131500Z
-LOCATION:24-605
-DTSTART:20250911T114500Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:5a8bfa6d73426703cc85bd57946ab571
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250924T131500Z
-LOCATION:24-603
-DTSTART:20250924T114500Z
-SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:3464f30544211e083b3d77fe607b8f6d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251203T131500Z
-LOCATION:24-603
-DTSTART:20251203T114500Z
-SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:d51f8eeeef1273ea836b489112a3ea6d
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260409T073000Z
+LOCATION:--каф.701
+DTSTART:20260409T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:70f5596ec81fd9662051e5ddf92c96bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полянский Виталий Викторович
@@ -906,44 +418,12 @@ SUMMARY:ЛР Конструкция и проектирование устано
 UID:18eea0e3c3d6024d6c69c844fbb75f68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251210T131500Z
-LOCATION:24-605
-DTSTART:20251210T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:7b160c1e83ddfcb4fb440a29e7de746f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251226T131500Z
-LOCATION:24-605
-DTSTART:20251226T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:13cb16ec87588b9a80149af360dc1527
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251112T131500Z
-LOCATION:24-605
-DTSTART:20251112T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:e9e6874adc87a9291a68979b34e64d0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251017T113000Z
-LOCATION:24-605
-DTSTART:20251017T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:1ea2c2f56103e1d972c4df42d2b8e19d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251013T113000Z
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260327T113000Z
 LOCATION:24-621
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:8b2629a736cbecb2c0b4f396cefa16a8
+DTSTART:20260327T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:66476c8ffcb06d55bfe555ee774d83a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -954,12 +434,12 @@ SUMMARY:ЛР Конструкция и проектирование авиаци
 UID:8e98ef49d30252c6d7f7602ca01ea2dc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251114T113000Z
-LOCATION:24-605
-DTSTART:20251114T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:79ef37610452c35c9a1c6b38586f932e
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260520T164500Z
+LOCATION:24-620
+DTSTART:20260520T151500Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:238fc274a3c7deffcc5dff606aabd6f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -970,30 +450,6 @@ SUMMARY:ЛР Бортовое оборудование летательных а
 UID:1fd9c55b5dde7780f24dc85c45053f83
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251107T164500Z
-LOCATION:24-605
-DTSTART:20251107T151500Z
-SUMMARY:ЛР Авиационные боеприпасы
-UID:1d91e0e84e4fd19a36cf3d30d15b87fd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250915T091500Z
-LOCATION:24-603
-DTSTART:20250915T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:2f2db09876e05a2e53cf7692b8435394
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20250918T091500Z
-LOCATION:5-323
-DTSTART:20250918T074500Z
-SUMMARY:ПЗ Управление проектами
-UID:726a7fffc1e1a2387692bed8d5f5c7cc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тихонов Константин Михайлович
 DTEND:20251211T131500Z
 LOCATION:24-605
@@ -1002,68 +458,20 @@ SUMMARY:ПЗ Внешняя  баллистика
 UID:7c680a6068223c4602439422b4f9c770
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251024T131500Z
-LOCATION:24-605
-DTSTART:20251024T114500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:b6b0bdec04e3e69d4ebb327ec2ed6d8f
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260219T073000Z
+LOCATION:--каф.701
+DTSTART:20260219T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:e67603ce9d76eb17b08bfe001b6c9981
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251031T164500Z
-LOCATION:24-603
-DTSTART:20251031T151500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:9024778b6f6824a98876ff5a05d7662d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251225T131500Z
-LOCATION:24-605
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Внешняя  баллистика
-UID:729bb8629867d2b08dd068f17f325f32
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250915T113000Z
-LOCATION:24-621
-DTSTART:20250915T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:0bf17bb31a8a42f6e58aa190054eba43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251128T164500Z
-LOCATION:24-603
-DTSTART:20251128T151500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:d760d051e651b02c9ce34e383de8c00e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20250929T091500Z
-LOCATION:24-603
-DTSTART:20250929T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:a9de6dc11f516fc948cfe7e1f82c907b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251107T150000Z
-LOCATION:24-605
-DTSTART:20251107T133000Z
-SUMMARY:ЛР Авиационные боеприпасы
-UID:33ef1823e451b3c027ffa6dbc03b9ddc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251126T113000Z
-LOCATION:24-605
-DTSTART:20251126T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:ef79760b82d3dfe902c803c7638adc14
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260212T073000Z
+LOCATION:--каф.701
+DTSTART:20260212T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:93ef7e313356d97512a1cbb2f9857a81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
@@ -1075,43 +483,11 @@ UID:e8a83649ef41096260b336196606d2ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
-DTEND:20250908T113000Z
-LOCATION:24-621
-DTSTART:20250908T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:4addb9d98963991859f26a013b4108df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
 DTEND:20251215T113000Z
 LOCATION:24-621
 DTSTART:20251215T100000Z
 SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
 UID:95f67dfa2514a5090eaaa93fa66a5622
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20250929T150000Z
-LOCATION:5-101
-DTSTART:20250929T133000Z
-SUMMARY:ЛК Управление проектами
-UID:64bbbdc887f40084d76aff216c2372aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251001T131500Z
-LOCATION:24-605
-DTSTART:20251001T114500Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:26ada85928ab637a5bb5ced7449dc3a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251217T073000Z
-LOCATION:24-621
-DTSTART:20251217T060000Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:2e642a302fbca4bb0e6339a39b9fbb44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -1122,52 +498,12 @@ SUMMARY:ЛК Конструкция и проектирование авиаци
 UID:1ca55ee3f12c3933f560c45a41aa46a6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251024T113000Z
-LOCATION:24-605
-DTSTART:20251024T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:ce8b65aff01f48d16f08b44ccecaa951
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251001T113000Z
-LOCATION:24-605
-DTSTART:20251001T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:74781ff62c1bfe558b6bdedd1aa02682
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20251120T113000Z
-LOCATION:24-605
-DTSTART:20251120T100000Z
-SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:eb89355b27e9917c45654385959af83e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251201T113000Z
-LOCATION:24-621
-DTSTART:20251201T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:428d1622cec126e6a673140d5166fc31
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250903T091500Z
-LOCATION:24-621
-DTSTART:20250903T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:72c940a1f3d69312934a6e2edb00b81b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20251009T131500Z
-LOCATION:24-605
-DTSTART:20251009T114500Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:6950c8338a70324de5e3fe397557c111
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260416T113000Z
+LOCATION:--каф.701
+DTSTART:20260416T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:3a7fc6d41a7c88983ffde9c2803bb93a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
@@ -1176,14 +512,6 @@ LOCATION:24-603
 DTSTART:20251020T074500Z
 SUMMARY:ЛК Динамика и прочность робототехнических систем
 UID:f6239e24993b337381444eb7fdc2f210
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20250912T113000Z
-LOCATION:24-605
-DTSTART:20250912T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:9bded189270f9430900bc2eda326512f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
@@ -1202,14 +530,6 @@ SUMMARY:ПЗ Учебно-исследовательская работа сту
 UID:72b65f750879775445e464e0796940c9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251212T150000Z
-LOCATION:24-603
-DTSTART:20251212T133000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:cbcae03b9e21c7d2be280538e65631ce
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
 DTEND:20251124T150000Z
 LOCATION:5-101
@@ -1218,28 +538,12 @@ SUMMARY:ЛК Управление проектами
 UID:4ec3e03ca9e473a060508e0efcd7944b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251128T113000Z
-LOCATION:24-605
-DTSTART:20251128T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:3550ca7c5676ae5208448802f5152e99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251210T113000Z
-LOCATION:24-605
-DTSTART:20251210T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:e02458f9580d7ab8e0ac0a658fc39f1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251013T091500Z
-LOCATION:24-603
-DTSTART:20251013T074500Z
-SUMMARY:ЛК Динамика и прочность робототехнических систем
-UID:d5d1d06890911e967dcaf4e206561ec2
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260226T091500Z
+LOCATION:--каф.701
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:0ddc007ca54e6cf6de551c191cef1881
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
@@ -1250,36 +554,20 @@ SUMMARY:ЛК Управление проектами
 UID:9f096b751735c98147cc741e0b49051b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251117T131500Z
-LOCATION:24-621
-DTSTART:20251117T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:50a1b76b371d4b9c19ff2194f6408aa9
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260402T113000Z
+LOCATION:--каф.701
+DTSTART:20260402T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:09d3ee726e5eaf2d22a048e53654c2d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250924T091500Z
-LOCATION:24-621
-DTSTART:20250924T074500Z
-SUMMARY:ЛР Планирование и обработка результатов эксперимента
-UID:7599cdcf8dba31214ef0a37ce0c4b631
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251212T113000Z
-LOCATION:24-605
-DTSTART:20251212T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:8fb0a134b2e0494f8a223188f25dc82f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251112T073000Z
-LOCATION:24-621
-DTSTART:20251112T060000Z
-SUMMARY:ЛК Планирование и обработка результатов эксперимента
-UID:5ef4e66cafe7fa29de01163b1cd30a13
+DTEND:20260313T073000Z
+LOCATION:24-603
+DTSTART:20260313T060000Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:ef3dcbaf59641d5a1f7d100f9f9fab12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -1306,6 +594,14 @@ SUMMARY:ЛК Конструкция и проектирование устано
 UID:58d9e2c3c42414c5f67cf04aec5e5568
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260422T131500Z
+LOCATION:24-622
+DTSTART:20260422T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:28588c8c4abd1c0d733a09dfaac090d6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
 DTEND:20251031T150000Z
 LOCATION:24-603
@@ -1314,12 +610,12 @@ SUMMARY:ЛР Бортовое оборудование летательных а
 UID:0f23b65177fadfabe633cc70fc0e25af
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20250929T113000Z
-LOCATION:24-621
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
-UID:68e2a9fa5f7910316d1dfa08e16500f5
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260304T131500Z
+LOCATION:24-622
+DTSTART:20260304T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:03019aaa70d375bea22c107e768b5ac4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
@@ -1338,20 +634,12 @@ SUMMARY:ЛК Моделирование авиационных робототе�
 UID:c3d7b6fc80c009bd7b49bccb058d2973
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251114T150000Z
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260327T073000Z
 LOCATION:24-603
-DTSTART:20251114T133000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:3d6bf4cc37e4732a0082cca5e26f9893
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251205T113000Z
-LOCATION:24-605
-DTSTART:20251205T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:4d6272433625f68dbee46dec33c14a13
+DTSTART:20260327T060000Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:ae57176e835d8b8383d83fbc58748bbd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -1362,28 +650,12 @@ SUMMARY:ЛК Бортовое оборудование летательных а
 UID:bb8457028b336197e1037b8823543667
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20250918T131500Z
-LOCATION:24-605
-DTSTART:20250918T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:d230e618bc202374ee6b1f11ac31478a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251015T113000Z
-LOCATION:24-605
-DTSTART:20251015T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:c36fb0c808dd8b6d3fe6fdd66648bfd9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251030T113000Z
-LOCATION:24-605
-DTSTART:20251030T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:aca0c462a37857105a4fed6a0f199f63
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260311T113000Z
+LOCATION:24-600
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:3be93eed25eaf8fe6847dfd9cd7b113a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -1394,44 +666,12 @@ SUMMARY:ЛР Моделирование авиационных робототе�
 UID:b794dcd6f408079681b55e5ad1131cf0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20250918T113000Z
-LOCATION:24-605
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:b24e8d2a99f707af6a44d25e03d69bd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251121T164500Z
-LOCATION:24-605
-DTSTART:20251121T151500Z
-SUMMARY:ЛР Авиационные боеприпасы
-UID:7df65c65e8bd81b0823799cd59e010bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20251219T113000Z
-LOCATION:24-605
-DTSTART:20251219T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:336ec985ef105a0a4b17465aef8411cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251113T113000Z
-LOCATION:24-605
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:0a9727ddba3a8a4a4fc30c736b059603
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251016T131500Z
-LOCATION:24-605
-DTSTART:20251016T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:bfa840e50410edf146057f448c6f99b0
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260319T113000Z
+LOCATION:--каф.701
+DTSTART:20260319T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:3e679bb8bdf5f17a0376ae5e862a3a75
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -1442,20 +682,12 @@ SUMMARY:ЛК Планирование и обработка результато
 UID:8ed6fc433d42743af50b62452eddb81a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20250924T073000Z
-LOCATION:24-621
-DTSTART:20250924T060000Z
-SUMMARY:ЛР Планирование и обработка результатов эксперимента
-UID:6f3e4a3f2942644cbf0b2cb9c20fed38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полянский Виталий Викторович
-DTEND:20250925T113000Z
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260515T131500Z
 LOCATION:24-605
-DTSTART:20250925T100000Z
-SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
-UID:9de0f9180514d8d0f04e16f6c1e4c58b
+DTSTART:20260515T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:712a93fdf4c89bcac11099a2a747bfba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -1466,30 +698,6 @@ SUMMARY:ЛР Бортовое оборудование летательных а
 UID:b373a44c76929f0793d24546b2cdec8f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251029T113000Z
-LOCATION:24-605
-DTSTART:20251029T100000Z
-SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
-UID:88e89fb30c3b9af21d7f5faad7d48ad3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20250905T131500Z
-LOCATION:24-605
-DTSTART:20250905T114500Z
-SUMMARY:ЛК Авиационные боеприпасы
-UID:b21a63c51b5b83cec4efad5aef34e698
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20250926T113000Z
-LOCATION:24-605
-DTSTART:20250926T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:f7fce136ca76136fe52c3da65e7c9627
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
 DTEND:20251030T091500Z
 LOCATION:5-323
@@ -1498,12 +706,20 @@ SUMMARY:ПЗ Управление проектами
 UID:baf05ba23813e39dc190cd7cb4368cd4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Константин Михайлович
-DTEND:20251030T131500Z
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260511T113000Z
 LOCATION:24-605
-DTSTART:20251030T114500Z
-SUMMARY:ЛК Внешняя  баллистика
-UID:642589fec6eaac7080b17f470bccb017
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:7d3829b5c72703637b51c08866f50dd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260320T131500Z
+LOCATION:24-605
+DTSTART:20260320T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:556e7ba4c7a917be5365ef1c4e04e42e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
@@ -1514,12 +730,772 @@ SUMMARY:ЛР Динамика и прочность робототехничес
 UID:c2ef201a966eae716ee647d29595185e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251119T091500Z
+LOCATION:24-621
+DTSTART:20251119T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:3a7d854f3f2bfc085da3ea625085cc8a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251008T113000Z
+DTEND:20260420T131500Z
+LOCATION:24-605
+DTSTART:20260420T114500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:9ff04e2dc77a374bb2060ed375615ebb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251119T113000Z
 LOCATION:24-603
-DTSTART:20251008T100000Z
+DTSTART:20251119T100000Z
 SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:8c2cc421a47d30b42e38b402b33683bb
+UID:b98904bd82fcf32c73523a92189d6012
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260216T131500Z
+LOCATION:24-605
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:afcf9f9f3502bbbe513bf448cc580159
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251110T150000Z
+LOCATION:5-101
+DTSTART:20251110T133000Z
+SUMMARY:ЛК Управление проектами
+UID:c143779b1acd7effa921ce04dcee6345
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251113T091500Z
+LOCATION:5-323
+DTSTART:20251113T074500Z
+SUMMARY:ПЗ Управление проектами
+UID:3200c2a888506e3acb28407222b60426
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251127T091500Z
+LOCATION:5-323
+DTSTART:20251127T074500Z
+SUMMARY:ПЗ Управление проектами
+UID:a00a50ec7273970fd91a82d8871f67fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260527T113000Z
+LOCATION:24-600
+DTSTART:20260527T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:989f2e5a27d89903b2f398823e11902b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260406T113000Z
+LOCATION:24-605
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:37a0e8fa2b9b87a13a43eca1a62d9e1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260527T091500Z
+LOCATION:24-605
+DTSTART:20260527T074500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:79b14a0bdb6f51d5298cc1690d922380
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20250904T113000Z
+LOCATION:24-605
+DTSTART:20250904T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:28337a718b6f11cc1d493c99617680ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251112T113000Z
+LOCATION:24-605
+DTSTART:20251112T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:95fb266090c9d403a52e6b15103ea262
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260307T073000Z
+LOCATION:24-603
+DTSTART:20260307T060000Z
+SUMMARY:ЛР Системы управления вооружением
+UID:a4295d87e32fed0dec081f86d1c9145d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260312T091500Z
+LOCATION:--каф.701
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:b7ba26b787003d4759913e42e499b510
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260326T091500Z
+LOCATION:--каф.701
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:3ee14f92ded2bfe01ec4242753d76ec1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251112T091500Z
+LOCATION:24-621
+DTSTART:20251112T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:68c220c287652f06071d89de45ed8196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260425T073000Z
+LOCATION:24-621
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:8bf4f81dda9fe42fc491a55a246d946c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260508T113000Z
+LOCATION:24-621
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:b1b1bcc7589e16352b40ec891c273347
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251126T131500Z
+LOCATION:24-605
+DTSTART:20251126T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:5762dadc89c62ba28b34c2a43c6c2654
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20250919T131500Z
+LOCATION:24-605
+DTSTART:20250919T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:76fd7fdcd816de29ce2e615b4205f4c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260506T113000Z
+LOCATION:24-600
+DTSTART:20260506T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:fcfc702e95f1f56392006033367fc66b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260328T131500Z
+LOCATION:24-605
+DTSTART:20260328T114500Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:7600612a466e759712325a8f3b3754a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250903T073000Z
+LOCATION:24-621
+DTSTART:20250903T060000Z
+SUMMARY:ЛК Планирование и обработка результатов эксперимента
+UID:b4c6aec1ed808f826a816144292935c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260430T113000Z
+LOCATION:--каф.701
+DTSTART:20260430T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:f5ffb2f5936cdc75b0d14d6418c6a814
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260302T131500Z
+LOCATION:24-605
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:974957cc165c2c25076d76c45ff6187e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260225T113000Z
+LOCATION:24-600
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:f944dfefe4d740a33abb1e465ad94664
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260417T164500Z
+LOCATION:24-605
+DTSTART:20260417T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:347b86167b8b4a9254f74671b046527c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251114T164500Z
+LOCATION:24-603
+DTSTART:20251114T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:74a129668676041b43fabc81906ef836
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250901T091500Z
+LOCATION:24-603
+DTSTART:20250901T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:a58792e6664d666cfff58db7843ad9aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250922T091500Z
+LOCATION:24-603
+DTSTART:20250922T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:cdf4840fc851faf51dbd1485ee47a827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260529T113000Z
+LOCATION:24-605
+DTSTART:20260529T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:f7339222ff6f31d46bd71649f8974f50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250908T091500Z
+LOCATION:24-603
+DTSTART:20250908T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:63b358bcd65f417e3fdc9ba41260707f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260528T073000Z
+LOCATION:--каф.701
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:8cab3a79a55bef8f52e7d6a44a9e536d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251119T131500Z
+LOCATION:24-603
+DTSTART:20251119T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:fef4ae8e60f22ce534731de795fd5d34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20251204T113000Z
+LOCATION:24-605
+DTSTART:20251204T100000Z
+SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:6441331924739905b8953db83ad997da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260529T131500Z
+LOCATION:24-605
+DTSTART:20260529T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:07bbc125aeddea8d960355788e0010d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260415T113000Z
+LOCATION:24-600
+DTSTART:20260415T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:1f280f44476bbabb2c8de5f1eff27ffe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251020T131500Z
+LOCATION:24-621
+DTSTART:20251020T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:bfb94b695794bb7d2bd4d17042fbff6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251027T150000Z
+LOCATION:5-101
+DTSTART:20251027T133000Z
+SUMMARY:ЛК Управление проектами
+UID:1080c2023bca7dd6a985720b7f0f1697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260409T091500Z
+LOCATION:--каф.701
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:50ec4059b140048fefc5aef153ac51f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250922T131500Z
+LOCATION:24-621
+DTSTART:20250922T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:14fde5dfdb34b876e4d33b694e9b5119
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251105T073000Z
+LOCATION:24-621
+DTSTART:20251105T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:ed5faa3593bc29f968e77acb12cb77a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251217T091500Z
+LOCATION:24-621
+DTSTART:20251217T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:bddc32bbf8e40c07a95123b28c2711a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251103T091500Z
+LOCATION:24-603
+DTSTART:20251103T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:aeee1d390cfbb08096fc4353753b2de1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251212T164500Z
+LOCATION:24-603
+DTSTART:20251212T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:afc3c9b97c7bd5147b2d57ed8a1f5f76
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251225T113000Z
+LOCATION:24-605
+DTSTART:20251225T100000Z
+SUMMARY:ПЗ Внешняя  баллистика
+UID:f4c88ec9206244e536d768bcba91d2df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251127T131500Z
+LOCATION:24-605
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Внешняя  баллистика
+UID:9a9cef9474dc131032291c35899c4400
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260520T113000Z
+LOCATION:24-600
+DTSTART:20260520T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:e783b96459e8218d7441cb69e3af01d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251211T091500Z
+LOCATION:5-323
+DTSTART:20251211T074500Z
+SUMMARY:ПЗ Управление проектами
+UID:2d4feda529ee33e40f26ca9d409755a5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260525T113000Z
+LOCATION:24-605
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:f520cb88a58f9b202ecdcdd4a0675a3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260422T113000Z
+LOCATION:24-600
+DTSTART:20260422T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:aaf890e189da0b761cbcc8acd106c89f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260411T073000Z
+LOCATION:24-621
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:6e23c3e0c59530dce1ce037f1bf38f97
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251203T091500Z
+LOCATION:24-621
+DTSTART:20251203T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:e3520fe184a8ac5a46c9b37894d0e262
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251226T150000Z
+LOCATION:24-603
+DTSTART:20251226T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:79a7b608025f6666fa8fc4e4bc20b71f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251006T091500Z
+LOCATION:24-603
+DTSTART:20251006T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:9885406fcf50d1552311e123f5ffa995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260403T113000Z
+LOCATION:24-605
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:d50569f4ca743ed68bdae09761370050
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20251023T113000Z
+LOCATION:24-605
+DTSTART:20251023T100000Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:8f3f2db056390b4f2fca973d513dd131
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251107T113000Z
+LOCATION:24-605
+DTSTART:20251107T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:1c5cc0ec32c6a425873d2e1bb99cabcb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20250911T131500Z
+LOCATION:24-605
+DTSTART:20250911T114500Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:5a8bfa6d73426703cc85bd57946ab571
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260305T073000Z
+LOCATION:--каф.701
+DTSTART:20260305T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:fcceddec3c0dd97eba3886e1dba75777
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260410T113000Z
+LOCATION:24-621
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:e34c00e1ff2df8859a054d9b372a35ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251107T164500Z
+LOCATION:24-605
+DTSTART:20251107T151500Z
+SUMMARY:ЛР Авиационные боеприпасы
+UID:1d91e0e84e4fd19a36cf3d30d15b87fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260528T091500Z
+LOCATION:--каф.701
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:ae06c73c98f7b0f790fab7f1f91d553e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260410T073000Z
+LOCATION:24-603
+DTSTART:20260410T060000Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:c1b2914b07f1569f899b2b4738b755a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250915T113000Z
+LOCATION:24-621
+DTSTART:20250915T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:0bf17bb31a8a42f6e58aa190054eba43
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250929T091500Z
+LOCATION:24-603
+DTSTART:20250929T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:a9de6dc11f516fc948cfe7e1f82c907b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251107T150000Z
+LOCATION:24-605
+DTSTART:20251107T133000Z
+SUMMARY:ЛР Авиационные боеприпасы
+UID:33ef1823e451b3c027ffa6dbc03b9ddc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260313T113000Z
+LOCATION:24-621
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:6799b035c7cc806e99332322cdd460b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260522T091500Z
+LOCATION:24-603
+DTSTART:20260522T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:c36ff7b9eaf42096814847222cf549ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251001T113000Z
+LOCATION:24-605
+DTSTART:20251001T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:74781ff62c1bfe558b6bdedd1aa02682
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251201T113000Z
+LOCATION:24-621
+DTSTART:20251201T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:428d1622cec126e6a673140d5166fc31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250903T091500Z
+LOCATION:24-621
+DTSTART:20250903T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:72c940a1f3d69312934a6e2edb00b81b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20250912T113000Z
+LOCATION:24-605
+DTSTART:20250912T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:9bded189270f9430900bc2eda326512f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260514T113000Z
+LOCATION:--каф.701
+DTSTART:20260514T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:5fb815611bfbf9a3f4201f1cf83d6d3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251212T150000Z
+LOCATION:24-603
+DTSTART:20251212T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:cbcae03b9e21c7d2be280538e65631ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251128T113000Z
+LOCATION:24-605
+DTSTART:20251128T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:3550ca7c5676ae5208448802f5152e99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260605T091500Z
+LOCATION:24-603
+DTSTART:20260605T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:5c2a48fd2e93efdb45a943f8cdb61cf3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251013T091500Z
+LOCATION:24-603
+DTSTART:20251013T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:d5d1d06890911e967dcaf4e206561ec2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260402T073000Z
+LOCATION:--каф.701
+DTSTART:20260402T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:71415734696aaab8fe8b2556c8b36faa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250924T091500Z
+LOCATION:24-621
+DTSTART:20250924T074500Z
+SUMMARY:ЛР Планирование и обработка результатов эксперимента
+UID:7599cdcf8dba31214ef0a37ce0c4b631
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260311T131500Z
+LOCATION:24-622
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:35081f205c075966fdec65330d9fc370
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260323T113000Z
+LOCATION:24-605
+DTSTART:20260323T100000Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:32a2d913b0094d1fba3bccf89ea93bd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260425T091500Z
+LOCATION:24-621
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:085abf97bec646517a3bd9c5744744fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260415T131500Z
+LOCATION:24-622
+DTSTART:20260415T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:74fedc3be61eb9a92b4f7e32b93a6cf7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260504T131500Z
+LOCATION:24-605
+DTSTART:20260504T114500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:3372f371eacb56568e8e569e55018d73
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260403T131500Z
+LOCATION:24-605
+DTSTART:20260403T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:15c5753d8bf5c9184bafe5dd37287953
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251114T150000Z
+LOCATION:24-603
+DTSTART:20251114T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:3d6bf4cc37e4732a0082cca5e26f9893
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251015T113000Z
+LOCATION:24-605
+DTSTART:20251015T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:c36fb0c808dd8b6d3fe6fdd66648bfd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260422T150000Z
+LOCATION:24-620
+DTSTART:20260422T133000Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:774511b84f58fa665b35d164c9490c30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20250918T113000Z
+LOCATION:24-605
+DTSTART:20250918T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:b24e8d2a99f707af6a44d25e03d69bd0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260214T073000Z
+LOCATION:24-621
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:197cebe19bcd65ff045d34ff14aaee3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260320T113000Z
+LOCATION:24-605
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:717af95e87669f6858c562f9b40a3776
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251016T131500Z
+LOCATION:24-605
+DTSTART:20251016T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:bfa840e50410edf146057f448c6f99b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260417T150000Z
+LOCATION:24-605
+DTSTART:20260417T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:10eb46069a345ed1aaa00f0254ae9c67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20250925T113000Z
+LOCATION:24-605
+DTSTART:20250925T100000Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:9de0f9180514d8d0f04e16f6c1e4c58b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251029T113000Z
+LOCATION:24-605
+DTSTART:20251029T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:88e89fb30c3b9af21d7f5faad7d48ad3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
@@ -1544,6 +1520,758 @@ LOCATION:24-605
 DTSTART:20251121T100000Z
 SUMMARY:ЛК Бортовое оборудование летательных аппаратов
 UID:0f10056d00cb7758fa854c3a95360195
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260523T091500Z
+LOCATION:24-621
+DTSTART:20260523T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:29b6484049516f7495f7e6598e98e646
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20250926T131500Z
+LOCATION:24-605
+DTSTART:20250926T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:705ee14fadf82dc42bcf3e6c597aae3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251114T131500Z
+LOCATION:24-605
+DTSTART:20251114T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:21b27385430f0f770c64d8b13d4314b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260211T113000Z
+LOCATION:24-600
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:75dad84c36f62202ae119b3739117954
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251201T131500Z
+LOCATION:24-621
+DTSTART:20251201T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:82be0f5e8848a31b8d4ff29f25a940fa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20260115T073000Z
+LOCATION:24-603
+DTSTART:20260115T060000Z
+SUMMARY:Экзамен Внешняя  баллистика
+UID:37fcc7648c313d5f15dfc461f330f734
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20251204T131500Z
+LOCATION:24-605
+DTSTART:20251204T114500Z
+SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:1cb91c6562aeae59859352534a47b291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260307T091500Z
+LOCATION:24-603
+DTSTART:20260307T074500Z
+SUMMARY:ЛР Системы управления вооружением
+UID:23566bfcae5eccec0fd071ebb7454a39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250908T131500Z
+LOCATION:24-621
+DTSTART:20250908T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:9a9abe2dd97b0e1df095b885a1f47007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260228T073000Z
+LOCATION:24-621
+DTSTART:20260228T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:0dd0c1e04261ccb2b50dca1f9b1fb84c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251212T131500Z
+LOCATION:24-605
+DTSTART:20251212T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:74dba928b1730cb3fdb95613dcb3fdc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260406T131500Z
+LOCATION:24-605
+DTSTART:20260406T114500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:c0db8380a48453b91ff91048b993fb1d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250917T091500Z
+LOCATION:24-621
+DTSTART:20250917T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:0de4b6f1e656b48b4e65296f6043cf9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251128T131500Z
+LOCATION:24-605
+DTSTART:20251128T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:97c4d802e5ba81c0cf22b2b3bb9aaeac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251222T150000Z
+LOCATION:5-101
+DTSTART:20251222T133000Z
+SUMMARY:ЛК Управление проектами
+UID:f492d3df27cb41031f4b641eb526c1c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251103T113000Z
+LOCATION:24-621
+DTSTART:20251103T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:878d8ad79cf1454d42324a0f1e1c1aa3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250915T131500Z
+LOCATION:24-621
+DTSTART:20250915T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:3bf650d1938ebf24418296abcf8c1019
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260427T113000Z
+LOCATION:24-605
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:814ae2c039872230aba3d0d3a682965b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251022T091500Z
+LOCATION:24-621
+DTSTART:20251022T074500Z
+SUMMARY:ЛР Планирование и обработка результатов эксперимента
+UID:29c38973ae226ea9fd3c01d0ffe33809
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260123T091500Z
+LOCATION:24-603
+DTSTART:20260123T074500Z
+SUMMARY:Экзамен Планирование и обработка результатов эксперимента
+UID:a479087c657f8619efbc1bcc2407998b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260330T131500Z
+LOCATION:24-605
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:97939c70215343bd08117121c1761404
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260314T131500Z
+LOCATION:24-605
+DTSTART:20260314T114500Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:603aeb7968cc612f298586ed8007560a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250917T073000Z
+LOCATION:24-621
+DTSTART:20250917T060000Z
+SUMMARY:ЛК Планирование и обработка результатов эксперимента
+UID:f5c6126af58f66bcc7fbafd3cdf3971b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260227T091500Z
+LOCATION:24-603
+DTSTART:20260227T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:0400f2d8ff439ed04ad310c37e372ed5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260212T091500Z
+LOCATION:--каф.701
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:207fde498e85ad52c4229bd5d0a99c2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260424T091500Z
+LOCATION:24-603
+DTSTART:20260424T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:3ee3e89fad439e2e506ab49b5f8d6c09
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260319T091500Z
+LOCATION:--каф.701
+DTSTART:20260319T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:360984ca25e9c48616ff9958b1696996
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260506T164500Z
+LOCATION:24-620
+DTSTART:20260506T151500Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:8075e200f0ca2235db96ca76f2e0f9dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20250904T091500Z
+LOCATION:5-323
+DTSTART:20250904T074500Z
+SUMMARY:ПЗ Управление проектами
+UID:ca30278f146a824a6ff9c6061de14d0a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251003T131500Z
+LOCATION:24-605
+DTSTART:20251003T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:e62425b638f165b71264c32ab3354c3f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260514T131500Z
+LOCATION:--каф.701
+DTSTART:20260514T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:d3054b8d8864e3da95b039718248d5e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260213T073000Z
+LOCATION:24-603
+DTSTART:20260213T060000Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:bc94f6541854ef5e567731785f28777a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251121T150000Z
+LOCATION:24-605
+DTSTART:20251121T133000Z
+SUMMARY:ЛР Авиационные боеприпасы
+UID:40cc4f096ef2ced581535c3236d68ded
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260417T131500Z
+LOCATION:24-605
+DTSTART:20260417T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:63ba7415b76a192619a193faf9b54322
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251010T131500Z
+LOCATION:24-605
+DTSTART:20251010T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:c4fdde5d1ce9b0fe108ee89bf4a1fd12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251117T091500Z
+LOCATION:24-603
+DTSTART:20251117T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:4a6fccbd31070bf233599a2be4506fb9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260513T091500Z
+LOCATION:24-605
+DTSTART:20260513T074500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:eb00bd654afc0a2f00165219e0aaba32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260605T073000Z
+LOCATION:24-603
+DTSTART:20260605T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:e0c2b441f13ff7941dd7acf3f2595cee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260413T131500Z
+LOCATION:24-605
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:a7b08b7eee3c5602b06d61984e89be8e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251031T131500Z
+LOCATION:24-605
+DTSTART:20251031T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:ae4ab3406e7da633607e10edd967efb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260521T091500Z
+LOCATION:--каф.701
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:79ac2837ef699314529737cd85bc7097
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260119T091500Z
+LOCATION:24-621
+DTSTART:20260119T074500Z
+SUMMARY:Экзамен Конструкция и проектирование авиационных средств поражения
+UID:eacdc090cdaa005503e231eda06a2314
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260305T091500Z
+LOCATION:--каф.701
+DTSTART:20260305T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:e225e10b525b3d03c9ec661f23031032
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20250911T113000Z
+LOCATION:24-605
+DTSTART:20250911T100000Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:ebed9a87175f9978c5067062914acb37
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251006T131500Z
+LOCATION:24-621
+DTSTART:20251006T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:72b154002554926002651396f89b3a1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251222T113000Z
+LOCATION:24-621
+DTSTART:20251222T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:838377c6c94b1d3e473faeb38184c961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260123T073000Z
+LOCATION:24-603
+DTSTART:20260123T060000Z
+SUMMARY:Экзамен Планирование и обработка результатов эксперимента
+UID:d27792a0afd2bca5917111b1bda64502
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251002T113000Z
+LOCATION:24-605
+DTSTART:20251002T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:e1dbf99573bad8efafac12a7befe6211
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260606T073000Z
+LOCATION:24-621
+DTSTART:20260606T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:628d2f3cf3ce4efded76ffd61bcae57e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260326T073000Z
+LOCATION:--каф.701
+DTSTART:20260326T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:5739a06fe62e9622b50bc1ecee2da916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251027T113000Z
+LOCATION:24-621
+DTSTART:20251027T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:b000ec1b16d5eae5e2117ca975aca763
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260424T073000Z
+LOCATION:24-603
+DTSTART:20260424T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:8b105de49f937f6c469aeb52c5570fe5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250924T131500Z
+LOCATION:24-603
+DTSTART:20250924T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:3464f30544211e083b3d77fe607b8f6d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251210T131500Z
+LOCATION:24-605
+DTSTART:20251210T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:7b160c1e83ddfcb4fb440a29e7de746f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251112T131500Z
+LOCATION:24-605
+DTSTART:20251112T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:e9e6874adc87a9291a68979b34e64d0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251017T113000Z
+LOCATION:24-605
+DTSTART:20251017T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:1ea2c2f56103e1d972c4df42d2b8e19d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251013T113000Z
+LOCATION:24-621
+DTSTART:20251013T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:8b2629a736cbecb2c0b4f396cefa16a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251114T113000Z
+LOCATION:24-605
+DTSTART:20251114T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:79ef37610452c35c9a1c6b38586f932e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20250915T091500Z
+LOCATION:24-603
+DTSTART:20250915T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:2f2db09876e05a2e53cf7692b8435394
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20250918T091500Z
+LOCATION:5-323
+DTSTART:20250918T074500Z
+SUMMARY:ПЗ Управление проектами
+UID:726a7fffc1e1a2387692bed8d5f5c7cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260529T150000Z
+LOCATION:24-605
+DTSTART:20260529T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:f56e4dfb2fa8228864c22fdb04d37f4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251024T131500Z
+LOCATION:24-605
+DTSTART:20251024T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:b6b0bdec04e3e69d4ebb327ec2ed6d8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260429T113000Z
+LOCATION:24-600
+DTSTART:20260429T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:1606b57c7534b94edf60cce7572368fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260218T113000Z
+LOCATION:24-600
+DTSTART:20260218T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:58d0fe6f9340b442d5c6c28adec42d16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251225T131500Z
+LOCATION:24-605
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Внешняя  баллистика
+UID:729bb8629867d2b08dd068f17f325f32
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251126T113000Z
+LOCATION:24-605
+DTSTART:20251126T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:ef79760b82d3dfe902c803c7638adc14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260430T073000Z
+LOCATION:--каф.701
+DTSTART:20260430T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:60ccd8a639c8d69a52f46dd203bcd63c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260218T131500Z
+LOCATION:24-622
+DTSTART:20260218T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:4dba7c7ce7b1d8056fb81c7ce6ba248c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260226T073000Z
+LOCATION:--каф.701
+DTSTART:20260226T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:34b5e171929eb415a983d48d37f9d12f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20251009T131500Z
+LOCATION:24-605
+DTSTART:20251009T114500Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:6950c8338a70324de5e3fe397557c111
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260423T073000Z
+LOCATION:--каф.701
+DTSTART:20260423T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:6f53add84374bc9ef3b658887bd282e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251210T113000Z
+LOCATION:24-605
+DTSTART:20251210T100000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:e02458f9580d7ab8e0ac0a658fc39f1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260327T091500Z
+LOCATION:24-603
+DTSTART:20260327T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:c6e48a1cc922e5331a75df576f0edfa4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260521T073000Z
+LOCATION:--каф.701
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:d54b2634d2e8d95e3779cdf9d3213298
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260513T113000Z
+LOCATION:24-600
+DTSTART:20260513T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:cc90fe864c371aeab6327593b20296e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260511T131500Z
+LOCATION:24-605
+DTSTART:20260511T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:6665147bf8fbc3e6e6e41d6c2e18b4e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250929T113000Z
+LOCATION:24-621
+DTSTART:20250929T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:68e2a9fa5f7910316d1dfa08e16500f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260318T131500Z
+LOCATION:24-622
+DTSTART:20260318T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:0d75da2cdfd5fbd29aae7416bf16cb92
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260515T113000Z
+LOCATION:24-605
+DTSTART:20260515T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:727bf16dc887d4c8bb8eac4654d35577
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260321T073000Z
+LOCATION:24-603
+DTSTART:20260321T060000Z
+SUMMARY:ЛР Системы управления вооружением
+UID:fb1d2ae086c6376b021dc9fef1d6e07f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260404T091500Z
+LOCATION:24-603
+DTSTART:20260404T074500Z
+SUMMARY:ЛР Системы управления вооружением
+UID:23c25af4041cbbd1e8a350027c4fe5d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20250918T131500Z
+LOCATION:24-605
+DTSTART:20250918T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:d230e618bc202374ee6b1f11ac31478a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251030T113000Z
+LOCATION:24-605
+DTSTART:20251030T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:aca0c462a37857105a4fed6a0f199f63
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251219T113000Z
+LOCATION:24-605
+DTSTART:20251219T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:336ec985ef105a0a4b17465aef8411cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251113T113000Z
+LOCATION:24-605
+DTSTART:20251113T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:0a9727ddba3a8a4a4fc30c736b059603
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260304T113000Z
+LOCATION:24-600
+DTSTART:20260304T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:c2094c15281734abe046c451b675ab40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260228T091500Z
+LOCATION:24-621
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:793b90e0bc8f68e5267ae12778e35ec6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260515T150000Z
+LOCATION:24-605
+DTSTART:20260515T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:60ea341ecd62ec219867a10e13aedc7e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20250905T131500Z
+LOCATION:24-605
+DTSTART:20250905T114500Z
+SUMMARY:ЛК Авиационные боеприпасы
+UID:b21a63c51b5b83cec4efad5aef34e698
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251030T131500Z
+LOCATION:24-605
+DTSTART:20251030T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:642589fec6eaac7080b17f470bccb017
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260209T131500Z
+LOCATION:24-605
+DTSTART:20260209T114500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:4e1daeed1305ea935a7c64673913e89a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251008T113000Z
+LOCATION:24-603
+DTSTART:20251008T100000Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:8c2cc421a47d30b42e38b402b33683bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260328T073000Z
+LOCATION:24-621
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:7e0c56b1eab4d29ef6f95e129cff854a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260427T131500Z
+LOCATION:24-605
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:49841e85d57cbf51fa1e22cde2cad64f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полянский Виталий Викторович
@@ -1571,51 +2299,11 @@ UID:936a972afc530fc3a6fc20349f4f85db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251119T091500Z
-LOCATION:24-621
-DTSTART:20251119T074500Z
-SUMMARY:ЛР Моделирование авиационных робототехнических систем
-UID:3a7d854f3f2bfc085da3ea625085cc8a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
-DTEND:20251015T091500Z
-LOCATION:24-621
-DTSTART:20251015T074500Z
-SUMMARY:ЛК Моделирование авиационных робототехнических систем
-UID:5b3fc98c236186bea8c585b129580f46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беклемищев Филипп Сергеевич
 DTEND:20251015T073000Z
 LOCATION:24-621
 DTSTART:20251015T060000Z
 SUMMARY:ЛК Планирование и обработка результатов эксперимента
 UID:11009bd89dd689babdd742d87745e403
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тишков Виктор Васильевич
-DTEND:20251119T113000Z
-LOCATION:24-603
-DTSTART:20251119T100000Z
-SUMMARY:ЛР Динамика и прочность робототехнических систем
-UID:b98904bd82fcf32c73523a92189d6012
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Правидло Михаил Натанович
-DTEND:20250926T131500Z
-LOCATION:24-605
-DTSTART:20250926T114500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:705ee14fadf82dc42bcf3e6c597aae3a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251110T150000Z
-LOCATION:5-101
-DTSTART:20251110T133000Z
-SUMMARY:ЛК Управление проектами
-UID:c143779b1acd7effa921ce04dcee6345
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Правидло Михаил Натанович
@@ -1626,20 +2314,844 @@ SUMMARY:ЛР Бортовое оборудование летательных а
 UID:49d79c82f31c1c096987205bb09f98e3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251113T091500Z
-LOCATION:5-323
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Управление проектами
-UID:3200c2a888506e3acb28407222b60426
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260529T164500Z
+LOCATION:24-605
+DTSTART:20260529T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:02c6b9e55ccba558995507db71540034
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251006T113000Z
+LOCATION:24-621
+DTSTART:20251006T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:0e8a47c7e0f04fc6cc20ed961384a36d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260522T073000Z
+LOCATION:24-603
+DTSTART:20260522T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:f814734a9f89314be607ee3af35ffe23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260321T091500Z
+LOCATION:24-603
+DTSTART:20260321T074500Z
+SUMMARY:ЛР Системы управления вооружением
+UID:c749bb8479b003a01b313920c4f57f8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20250925T131500Z
+LOCATION:24-605
+DTSTART:20250925T114500Z
+SUMMARY:ЛК Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:db34a37ae9600bf2ca50e8324963be7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251013T131500Z
+LOCATION:24-621
+DTSTART:20251013T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:3fb8fce02d00a2d65342a70b43c31c8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251027T091500Z
+LOCATION:24-603
+DTSTART:20251027T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:139086aebe919253e499a37d2494cda6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251103T131500Z
+LOCATION:24-621
+DTSTART:20251103T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:6529c0516013c8eabb5027fe8867e737
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260402T131500Z
+LOCATION:--каф.701
+DTSTART:20260402T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:ecb409dffef9463a562a596ed3540a74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20250905T113000Z
+LOCATION:24-605
+DTSTART:20250905T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:deb577ef7dadd3e2fcceb335be03c2e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260423T091500Z
+LOCATION:--каф.701
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:2ba85a8acf6f2de438dde19580baaeaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251224T091500Z
+LOCATION:24-621
+DTSTART:20251224T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:cc5760fcfaf2d083a22429f207e1cfc1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260411T113000Z
+LOCATION:24-605
+DTSTART:20260411T100000Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:ada8a3f779a375058acfc1cfcccf5ea8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251210T091500Z
+LOCATION:24-621
+DTSTART:20251210T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:15604baf50fe50593bf2c7a87501fe42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260225T131500Z
+LOCATION:24-622
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:bcf89cb4bd0598f25ee7d2330f0a07a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251029T091500Z
+LOCATION:24-621
+DTSTART:20251029T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:7f50416881788016ddf17ad7348d7538
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251124T113000Z
+LOCATION:24-621
+DTSTART:20251124T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:58099bde7a121955aed81092e49d9a08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250917T131500Z
+LOCATION:24-605
+DTSTART:20250917T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:218a99ecb6bea2c6cbdcce27fe03e090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260227T073000Z
+LOCATION:24-603
+DTSTART:20260227T060000Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:0ae526340790ee67689140118b2121b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251016T113000Z
+LOCATION:24-605
+DTSTART:20251016T100000Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:d7fad122791089ec1b8d2f0f5bfa51d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251211T113000Z
+LOCATION:24-605
+DTSTART:20251211T100000Z
+SUMMARY:ПЗ Внешняя  баллистика
+UID:fd7252e5b32568bd2fa84718c1c08e74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260314T073000Z
+LOCATION:24-621
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:bcb6219bd78004ce350aa50b61aa3de2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Болдинов Виктор Александрович
-DTEND:20251114T131500Z
+DTEND:20260515T164500Z
 LOCATION:24-605
-DTSTART:20251114T114500Z
+DTSTART:20260515T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:765d8c24126cb2193f31f8f5ba3cce8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260314T113000Z
+LOCATION:24-605
+DTSTART:20260314T100000Z
+SUMMARY:ЛР Технология изготовления систем авиационного вооружения
+UID:aa61fcd300e2493c6f8ecdc9cbe81a65
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260408T131500Z
+LOCATION:24-622
+DTSTART:20260408T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:9fceec7186f3f05be7c45237d38c2399
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260601T113000Z
+LOCATION:24-615
+DTSTART:20260601T100000Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:acf369f324fb446cb468ddf4c70a7695
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260401T131500Z
+LOCATION:24-622
+DTSTART:20260401T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:486b2f0712bf2cabfbc87657fa20a177
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260410T091500Z
+LOCATION:24-603
+DTSTART:20260410T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:b908d8d0685f1370adc843ed2809f836
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260408T113000Z
+LOCATION:24-600
+DTSTART:20260408T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:e24e42496026e5a1988e8371ba4eb3c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20260115T091500Z
+LOCATION:24-603
+DTSTART:20260115T074500Z
+SUMMARY:Экзамен Внешняя  баллистика
+UID:1f00ccb0905956b5c59d663c56668f70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260227T113000Z
+LOCATION:24-621
+DTSTART:20260227T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:6034db74a374c43eae8940a8f5225503
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260416T131500Z
+LOCATION:--каф.701
+DTSTART:20260416T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:af7e52740cc45a8140ddd807df4f25df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251015T131500Z
+LOCATION:24-605
+DTSTART:20251015T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:351af2c297b59b1aedb9066b7142224e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260420T113000Z
+LOCATION:24-605
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:d5db733495c022fbf002563bea76f73a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251113T131500Z
+LOCATION:24-605
+DTSTART:20251113T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:0944654bd5b7bb070558de9eccd3fb06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20250904T131500Z
+LOCATION:24-605
+DTSTART:20250904T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:40e3fab12c4869e42648d3d67d3c9ec4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20250912T131500Z
+LOCATION:24-605
+DTSTART:20250912T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:50e9aa735ac3a8a7505f7c5334c77df3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260416T091500Z
+LOCATION:--каф.701
+DTSTART:20260416T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:c2dcef9b54e397735e8313eee79c50df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260507T073000Z
+LOCATION:--каф.701
+DTSTART:20260507T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:fe85f32a66c62e6d8f1c31d0becd169c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251003T164500Z
+LOCATION:24-603
+DTSTART:20251003T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:6461a4b0c33c22a91a21048f6715deec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Константин Михайлович
+DTEND:20251002T131500Z
+LOCATION:24-605
+DTSTART:20251002T114500Z
+SUMMARY:ЛК Внешняя  баллистика
+UID:41d938bfc3afc837a7020d171298f298
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260302T113000Z
+LOCATION:24-605
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:d106012df44dc88b9a4b46ab547d6b41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251017T150000Z
+LOCATION:24-603
+DTSTART:20251017T133000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:0769c12115abd45ea05c4eab5b5c9df4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260518T131500Z
+LOCATION:24-615
+DTSTART:20260518T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:be92ea5f0187226fdb4cde50a1ba5c23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251215T131500Z
+LOCATION:24-621
+DTSTART:20251215T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:374bf5c34c73b02b84368058d4eb2ac3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260522T113000Z
+LOCATION:24-621
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:0f6a235c292b39381cf68fc15e09f397
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260513T073000Z
+LOCATION:24-605
+DTSTART:20260513T060000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:53b940718e0dfb55476897de3fbe6296
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260401T113000Z
+LOCATION:24-600
+DTSTART:20260401T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:88ac7bc5a996527610380282e943c8fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260319T131500Z
+LOCATION:--каф.701
+DTSTART:20260319T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:a2d3b56656b20333a0e4ffb2c9727204
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251027T131500Z
+LOCATION:24-621
+DTSTART:20251027T114500Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:c125ff8840bbc943eb4f5671c6f10aaa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251031T113000Z
+LOCATION:24-605
+DTSTART:20251031T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:e940d7415490c6a5ede193e68fd92185
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251105T131500Z
+LOCATION:24-603
+DTSTART:20251105T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:4143ad822197be7fe0e210b262215dbf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260506T150000Z
+LOCATION:24-620
+DTSTART:20260506T133000Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:620e3560d9e6fc007e5665099785f770
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260413T113000Z
+LOCATION:24-605
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:0e703e70234b459be454aa8ec29fb78d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260330T113000Z
+LOCATION:24-605
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:f4c20da5d5fbdc7250c91a15cd2926ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20251208T150000Z
+LOCATION:5-101
+DTSTART:20251208T133000Z
+SUMMARY:ЛК Управление проектами
+UID:618a4cc89790eea07f193471355885b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251110T091500Z
+LOCATION:24-603
+DTSTART:20251110T074500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:f7ecd9f67722b6e1956f1e9f6e063040
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260507T091500Z
+LOCATION:--каф.701
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:1f8ba31c410639f2cd8f7a2b4b043328
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251203T073000Z
+LOCATION:24-621
+DTSTART:20251203T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:9b4ddda436ec0f0c15b9bb9a18c55335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20251203T131500Z
+LOCATION:24-603
+DTSTART:20251203T114500Z
+SUMMARY:ЛР Динамика и прочность робототехнических систем
+UID:d51f8eeeef1273ea836b489112a3ea6d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251226T131500Z
+LOCATION:24-605
+DTSTART:20251226T114500Z
 SUMMARY:ЛК Авиационные боеприпасы
-UID:21b27385430f0f770c64d8b13d4314b1
+UID:13cb16ec87588b9a80149af360dc1527
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260429T091500Z
+LOCATION:24-605
+DTSTART:20260429T074500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:0eeeaea5a477469bec1181ed1e206a63
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260424T113000Z
+LOCATION:24-621
+DTSTART:20260424T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:229ca762a39c0f7b1bfc805f5095b6f3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260323T131500Z
+LOCATION:24-605
+DTSTART:20260323T114500Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:a6ff3c367fc26427adf8f497def759c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260514T091500Z
+LOCATION:--каф.701
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Наземная и лётная отработка робототехнических систем
+UID:aa5b274233f7ed49044eef01070a1893
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251031T164500Z
+LOCATION:24-603
+DTSTART:20251031T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:9024778b6f6824a98876ff5a05d7662d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260305T131500Z
+LOCATION:--каф.701
+DTSTART:20260305T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:8661a649349a72f5882c88f466ddb4c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260415T073000Z
+LOCATION:24-605
+DTSTART:20260415T060000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:af2192c22468c67ac7d0adf2a3473d12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251128T164500Z
+LOCATION:24-603
+DTSTART:20251128T151500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:d760d051e651b02c9ce34e383de8c00e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260523T073000Z
+LOCATION:24-621
+DTSTART:20260523T060000Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:c312cf8f94e4b5e59539c92991ed4718
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260312T073000Z
+LOCATION:--каф.701
+DTSTART:20260312T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:16b7a139c3296b9e7dc6fc3fa82a6563
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20250908T113000Z
+LOCATION:24-621
+DTSTART:20250908T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:4addb9d98963991859f26a013b4108df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260318T113000Z
+LOCATION:24-600
+DTSTART:20260318T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:734e4cbd5d659dda977e8066f1d4e700
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20250929T150000Z
+LOCATION:5-101
+DTSTART:20250929T133000Z
+SUMMARY:ЛК Управление проектами
+UID:64bbbdc887f40084d76aff216c2372aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251001T131500Z
+LOCATION:24-605
+DTSTART:20251001T114500Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:26ada85928ab637a5bb5ced7449dc3a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251217T073000Z
+LOCATION:24-621
+DTSTART:20251217T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:2e642a302fbca4bb0e6339a39b9fbb44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260221T091500Z
+LOCATION:24-603
+DTSTART:20260221T074500Z
+SUMMARY:ЛР Системы управления вооружением
+UID:8cc01f58e28b873cc469e4639200e396
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251024T113000Z
+LOCATION:24-605
+DTSTART:20251024T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:ce8b65aff01f48d16f08b44ccecaa951
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полянский Виталий Викторович
+DTEND:20251120T113000Z
+LOCATION:24-605
+DTSTART:20251120T100000Z
+SUMMARY:ЛР Конструкция и проектирование установок артиллерийского вооружения летательных аппаратов
+UID:eb89355b27e9917c45654385959af83e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260209T113000Z
+LOCATION:24-605
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:becb16909d9ecb56438c54217ad8bdcb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260328T091500Z
+LOCATION:24-621
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:231b99f8d7b00af827f4de1b41f14bcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260508T073000Z
+LOCATION:24-603
+DTSTART:20260508T060000Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:702cb27bc28f5cef44f85f4e4a351034
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260603T113000Z
+LOCATION:24-600
+DTSTART:20260603T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:fd4e0fa2e9314ae926d08194cfd83cea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260429T073000Z
+LOCATION:24-605
+DTSTART:20260429T060000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:76df11ed587f54fe9753c42151457ec2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260319T073000Z
+LOCATION:--каф.701
+DTSTART:20260319T060000Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:389f7ed381aa7c3822c6330e276b33d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20251117T131500Z
+LOCATION:24-621
+DTSTART:20251117T114500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:50a1b76b371d4b9c19ff2194f6408aa9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251212T113000Z
+LOCATION:24-605
+DTSTART:20251212T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:8fb0a134b2e0494f8a223188f25dc82f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251112T073000Z
+LOCATION:24-621
+DTSTART:20251112T060000Z
+SUMMARY:ЛК Планирование и обработка результатов эксперимента
+UID:5ef4e66cafe7fa29de01163b1cd30a13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260221T073000Z
+LOCATION:24-603
+DTSTART:20260221T060000Z
+SUMMARY:ЛР Системы управления вооружением
+UID:2e0bd6115d29bf9308b7fdcd46a423ed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260430T131500Z
+LOCATION:--каф.701
+DTSTART:20260430T114500Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:cc353b040b290a18ec1090e114aa746a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260422T164500Z
+LOCATION:24-620
+DTSTART:20260422T151500Z
+SUMMARY:ЛР Основы искусственного интеллекта технических систем
+UID:bd3955c3bff34fe1723d9c9865fa3809
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20251205T113000Z
+LOCATION:24-605
+DTSTART:20251205T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:4d6272433625f68dbee46dec33c14a13
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260314T091500Z
+LOCATION:24-621
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:4b7494a53676fd097b08944f0dbad9e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тишков Виктор Васильевич
+DTEND:20260504T113000Z
+LOCATION:24-605
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Динамика и прочность робототехнических систем
+UID:8ad42058b54786d6c3bc4e0dd0698515
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данеко Александр Иванович
+DTEND:20260527T073000Z
+LOCATION:24-605
+DTSTART:20260527T060000Z
+SUMMARY:ЛР Конструкция и проектирование авиационных средств поражения
+UID:78d9ae0208e1c9ebbadb55b45995ccc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20251121T164500Z
+LOCATION:24-605
+DTSTART:20251121T151500Z
+SUMMARY:ЛР Авиационные боеприпасы
+UID:7df65c65e8bd81b0823799cd59e010bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20260508T091500Z
+LOCATION:24-603
+DTSTART:20260508T074500Z
+SUMMARY:ЛР Моделирование авиационных робототехнических систем
+UID:767e823c359445fae97c870542768fc2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260417T113000Z
+LOCATION:24-605
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:64e2e61639971f16138462c2639c903c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20250924T073000Z
+LOCATION:24-621
+DTSTART:20250924T060000Z
+SUMMARY:ЛР Планирование и обработка результатов эксперимента
+UID:6f3e4a3f2942644cbf0b2cb9c20fed38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20250926T113000Z
+LOCATION:24-605
+DTSTART:20250926T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:f7fce136ca76136fe52c3da65e7c9627
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260325T113000Z
+LOCATION:24-600
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Системы управления вооружением
+UID:eb3c6ec6f6e34003d5249a179df7ff4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ляпин Никита Александрович
+DTEND:20260325T131500Z
+LOCATION:24-622
+DTSTART:20260325T114500Z
+SUMMARY:ЛК Основы искусственного интеллекта технических систем
+UID:dcee73b33aa7b07d7222c6ddf3d180b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беклемищев Филипп Сергеевич
+DTEND:20251015T091500Z
+LOCATION:24-621
+DTSTART:20251015T074500Z
+SUMMARY:ЛК Моделирование авиационных робототехнических систем
+UID:5b3fc98c236186bea8c585b129580f46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдинов Виктор Александрович
+DTEND:20260306T131500Z
+LOCATION:24-605
+DTSTART:20260306T114500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:277cd5433700da2a3b9ebc8ab8c8fcc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260305T113000Z
+LOCATION:--каф.701
+DTSTART:20260305T100000Z
+SUMMARY:ЛР Наземная и лётная отработка робототехнических систем
+UID:43a26861e59dd9f7ec892823d6d6cad7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Болдинов Виктор Александрович
@@ -1650,6 +3162,14 @@ SUMMARY:ЛК Авиационные боеприпасы
 UID:21ed65a8ebe80c7937d900f6d9a993c0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Правидло Михаил Натанович
+DTEND:20260216T113000Z
+LOCATION:24-605
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Конструкция и проектирование авиационных средств поражения
+UID:da63fca2e1e03bc689c4898684b04cf3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Данеко Александр Иванович
 DTEND:20250917T113000Z
 LOCATION:24-605
@@ -1658,19 +3178,19 @@ SUMMARY:ЛР Конструкция и проектирование авиаци
 UID:667d80d0924ff7a8899943765eab32c4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20251127T091500Z
-LOCATION:5-323
-DTSTART:20251127T074500Z
-SUMMARY:ПЗ Управление проектами
-UID:a00a50ec7273970fd91a82d8871f67fa
+DESCRIPTION:Быценко Оксана Анатольевна
+DTEND:20260214T091500Z
+LOCATION:24-621
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Технология изготовления систем авиационного вооружения
+UID:80d79d52791947ed012046b55937c588
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данеко Александр Иванович
-DTEND:20251201T131500Z
-LOCATION:24-621
-DTSTART:20251201T114500Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:82be0f5e8848a31b8d4ff29f25a940fa
+DESCRIPTION:Ермолаев Андрей Юрьевич
+DTEND:20260430T091500Z
+LOCATION:--каф.701
+DTSTART:20260430T074500Z
+SUMMARY:ЛК Наземная и лётная отработка робототехнических систем
+UID:93cb3ec947a25fcb1c21e5fe888e58ed
 END:VEVENT
 END:VCALENDAR

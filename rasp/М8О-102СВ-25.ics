@@ -2,32 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:--каф.
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:d61ae8c113f00adf1d47e407d845489f
+DTEND:20260318T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260318T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:85a070b5dfbcb396a1991315e7e066cb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T131500Z
-LOCATION:--каф.
-DTSTART:20251108T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:77906f82188208dc175b8e81eb43e585
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T150000Z
-LOCATION:--каф.
-DTSTART:20250926T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:83278a1b8c4a0bd95ed5d59331394514
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T131500Z
-LOCATION:--каф.
-DTSTART:20251025T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:513be3f613f0b3e8c00c9fef6b1a9ff8
+DTEND:20260304T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:18fcd03c400970b5d37adae25358e860
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T164500Z
@@ -37,11 +23,25 @@ SUMMARY:ЛР Python: Продвинутый уровень
 UID:7bb2a320f2c834d8c7bfbd1709934012
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250913T131500Z
-LOCATION:--каф.
-DTSTART:20250913T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:12f654d2571e7e0a09b932f9aae0562a
+DTEND:20260331T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260331T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:636b35e6365e724693db4bcb5e71d7eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260526T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:f78b06c3e27dabec59e6bfd8521d2d15
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:ГАК-307
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:adab4d5c134f28327105f4a97125c002
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T131500Z
@@ -51,18 +51,12 @@ SUMMARY:ЛК Практическое программирование и инф
 UID:5e94024a2da6641d798b7a08ab73ff7f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T131500Z
-LOCATION:--каф.
-DTSTART:20251001T114500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:039da5545503c4cc5c7592317d2af1d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:--каф.
-DTSTART:20250920T060000Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:05d180e18885296abc326d853a944df7
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260303T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260303T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:3e776d2b0b484de95acfdefb5db8fbee
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T113000Z
@@ -79,25 +73,18 @@ SUMMARY:ПЗ Математика для DataScience
 UID:06ea0d9a92569c4876df0e1e6087cee8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260520T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:bac5df42ca4ee2ff26d6b6e90281e11a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251008T150000Z
 LOCATION:--каф.
 DTSTART:20251008T133000Z
 SUMMARY:ПЗ Мониторинг проектной деятельности
 UID:efa188614e997fc79c3c03d879797cdb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T164500Z
-LOCATION:--каф.
-DTSTART:20251015T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:055d51db0e2563fe5567f6d10bca694c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:--каф.
-DTSTART:20251220T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:06165cf7d67199abd01e13e39b14bb79
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T113000Z
@@ -114,52 +101,11 @@ SUMMARY:ПЗ Теория вероятностей и статистика в м
 UID:86fb9618178f683eb844b54d8e2264c5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T164500Z
-LOCATION:--каф.
-DTSTART:20251010T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:3cc6d80136283acd65b3a3b7ea04d961
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:--каф.
-DTSTART:20250917T114500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:49975988319edab5722e247805b06c2b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251129T073000Z
 LOCATION:--каф.
 DTSTART:20251129T060000Z
 SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
 UID:6d135d87de264b5b5bc691f43e3cada5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T150000Z
-LOCATION:--каф.
-DTSTART:20250919T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:4206082f5770d9c01979142ee277b4fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T164500Z
-LOCATION:--каф.
-DTSTART:20251210T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:ec4ea5589bb3b57bd08129aa40496cd8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T113000Z
-LOCATION:--каф.
-DTSTART:20250920T100000Z
-SUMMARY:ЛК Базы данных и язык структурированных запросов
-UID:afba5688aea64378795a1a7d16d86b69
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T150000Z
-DTSTART:20251002T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:d1370d8764e29ce258628fe4909bf0cf
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -176,33 +122,6 @@ SUMMARY:ПЗ Практическое программирование и инф
 UID:23d26b62bfce6a784ea812cc5aa28ddf
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T164500Z
-LOCATION:--каф.
-DTSTART:20251027T151500Z
-SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
-UID:b685b1d7c2dd6d4006c60f285ca110a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T150000Z
-DTSTART:20251016T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:755dbfdf140fa61fb73e08a0d925f7e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T164500Z
-LOCATION:--каф.
-DTSTART:20251021T151500Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:3a8738cb1de1e6774331818cfff1bd1e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T131500Z
-LOCATION:--каф.
-DTSTART:20251208T114500Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:392018ee12ce15f9f150516bccf21960
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250925T131500Z
 LOCATION:--каф.
 DTSTART:20250925T114500Z
@@ -210,11 +129,11 @@ SUMMARY:ПЗ Теория вероятностей и статистика в м
 UID:77d544923ce8213a1f0f2da1bab85f01
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T131500Z
-LOCATION:--каф.
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:c6853d246658650567adc6a7bd87d81a
+DTEND:20260408T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260408T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:65b65433253059a99f396bc7b4dc0011
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250906T113000Z
@@ -224,53 +143,11 @@ SUMMARY:ЛК Базы данных и язык структурированны�
 UID:aba5f96fb19ad7df289ae5b83a942ec4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T164500Z
-LOCATION:--каф.
-DTSTART:20251031T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:d8549606f625cfe21d003f7c911064d1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T150000Z
-LOCATION:--каф.
-DTSTART:20251128T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:4b257f43729713eda1a9d9bdc71d60ac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T164500Z
-LOCATION:--каф.
-DTSTART:20250910T151500Z
-SUMMARY:ЛК Мониторинг проектной деятельности
-UID:43c8a64d2ee8f6d72084c344716e4270
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T131500Z
-LOCATION:--каф.
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:803ebfae65924e04c079fc79850d64da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T150000Z
-LOCATION:--каф.
-DTSTART:20251014T133000Z
-SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
-UID:b9a973e31d5190e83d54d6fe6dbcea63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:--каф.
-DTSTART:20251018T060000Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:4213b8f60797fb81c72635278e08ea7e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T131500Z
-LOCATION:--каф.
-DTSTART:20251206T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:d106036fa59c1381cdf622f9399bde32
+DTEND:20260218T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260218T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:0af401e37db21ec2f6dd3364fa0db861
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T164500Z
@@ -280,11 +157,25 @@ SUMMARY:ПЗ Математика для DataScience
 UID:cc43c4c13db3916dd755b5b15c896f75
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260530T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260530T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:aba5d92cad1c9d74f8cd5d80c41651d9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251220T131500Z
 LOCATION:--каф.
 DTSTART:20251220T114500Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
 UID:13c1e9a5c8e6d7a7d101d75bc0676cd3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260302T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:b24af6147a70318d036c31c4b4ab8b1c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251028T164500Z
@@ -294,59 +185,33 @@ SUMMARY:ЛК Гибкие методологии разработки цифро
 UID:d44a0fdc04232789d6ef7b74e1666680
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:--каф.
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:3181a21d182e49f204bbbe64fa3deaa2
+DTEND:20260307T091500Z
+LOCATION:ГАК-307
+DTSTART:20260307T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:777aad0341bb62bc734e3b16a03d5a26
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T164500Z
-LOCATION:--каф.
-DTSTART:20251202T151500Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:ed187170e9203deccbc7ae518449f4cc
+DTEND:20260224T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260224T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:2382002f7ad5769b63aec0258102881c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260124T113000Z
-LOCATION:--каф.
-DTSTART:20260124T100000Z
-SUMMARY:Экзамен Базы данных и язык структурированных запросов
-UID:05243520fc8fb510276b45299c665f95
+DTEND:20260316T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260316T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:5be609a67cbaa8bd990f5520b93a4c5d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T150000Z
-DTSTART:20250925T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:fc752b4ca8d63319ca79c2646457e523
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T150000Z
-LOCATION:--каф.
-DTSTART:20251022T133000Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:6a27179baf88e3facd8fe5c78f2691d3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T164500Z
-LOCATION:--каф.
-DTSTART:20251121T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:b18e747a3ca2b091064234c8f8eadf42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T164500Z
-LOCATION:--каф.
-DTSTART:20251003T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:72618af9ab49ad9d0c157811cc661cac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T164500Z
-LOCATION:--каф.
-DTSTART:20251008T151500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:f0e201db04bf4c54dc1f0d1deedb59ed
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260317T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260317T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:53d86dc6c616e62112d3d8d3ec096e04
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T164500Z
@@ -363,24 +228,1120 @@ SUMMARY:ПЗ Мониторинг проектной деятельности
 UID:9e1f7ff2c1a7bfaeccfc18030b581dce
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260520T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:ca07d9cc9c43268d3035bb89c1d9c145
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T150000Z
+LOCATION:--каф.
+DTSTART:20251210T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:47a2b408fed93f363217477af4238413
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T150000Z
+LOCATION:--каф.
+DTSTART:20250905T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:ec984225a4821e5c60b4c2f41ae6589b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260416T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:098cfe9907ca98a0c321a511c9f6ca1c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260120T150000Z
+LOCATION:--каф.
+DTSTART:20260120T133000Z
+SUMMARY:Экзамен Python: Продвинутый уровень
+UID:8d246eec2834e9aa767e25fa9a40d8f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260216T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:d43ac10ff2ece3e8b77c04d62450713c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T164500Z
+LOCATION:--каф.
+DTSTART:20251118T151500Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:d0bd8ed8129383b89816342aa779e339
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T150000Z
+LOCATION:--каф.
+DTSTART:20251205T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:544988e43f74e023da4a21f2ac30d2bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T131500Z
+LOCATION:--каф.
+DTSTART:20251029T114500Z
+SUMMARY:ЛК Python: Продвинутый уровень
+UID:fbc769a600fa19c403837b086f899ae2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:9a6955dd116cba1b5b89e2a1c403f8ec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T164500Z
+LOCATION:--каф.
+DTSTART:20250926T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:fb3bd8b825b9380a6e2bcc38b2b446cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T091500Z
+LOCATION:ГАК-307
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:c3cb02962f1569fe5a7029efe2580c0b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251018T131500Z
+LOCATION:--каф.
+DTSTART:20251018T114500Z
+SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
+UID:d9e8a0ddb1b6e92358eff47feacd65ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260124T131500Z
+LOCATION:--каф.
+DTSTART:20260124T114500Z
+SUMMARY:Экзамен Базы данных и язык структурированных запросов
+UID:e6fa8b5fe832f9ca804beb042dbbe18f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260326T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:f6304844581627f09ddfa79b03963a47
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260409T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:7e9f59592ebf7ca1a30e71f64ed72069
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T150000Z
+LOCATION:--каф.
+DTSTART:20251001T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:43ce528fe15db25cfa9725bd56606f5d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250912T150000Z
+LOCATION:--каф.
+DTSTART:20250912T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:70120f48249da0f66c5080ed5bb88b1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251004T113000Z
+LOCATION:--каф.
+DTSTART:20251004T100000Z
+SUMMARY:ЛК Базы данных и язык структурированных запросов
+UID:372d54b35124b3de03c013e374726cc0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251024T164500Z
+LOCATION:--каф.
+DTSTART:20251024T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:5e30be52288e9b3ca739bfecca5f76ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:978b1f47d92e79430f84955c6e467384
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:d5e45db2401e491e3df10d8b980673ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260214T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:e02f18b61dcefbf0b5b0c1296c4c1995
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T164500Z
+LOCATION:--каф.
+DTSTART:20251114T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:f7914c246648069a12660e203125184b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:e00206482fb45f63e5652348b92c0fd6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T150000Z
+LOCATION:--каф.
+DTSTART:20250917T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:743687b64cc73143e504c7606757bf40
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260427T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:ef3f193a0bb90fadc308666d350425b0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T164500Z
+LOCATION:--каф.
+DTSTART:20250917T151500Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:9a5797f49b2c2284de25ee3df3702a10
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T091500Z
+LOCATION:ГАК-307
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:aa75c76757b35c2d5a52e75ce62cf3f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260224T133000Z
+SUMMARY:ЛК Облачные технологии
+UID:3e8766b83b284ff60f2a8773ce4677e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260112T150000Z
+LOCATION:--каф.
+DTSTART:20260112T133000Z
+SUMMARY:Экзамен Математика для DataScience
+UID:966d4e23a4ea63702c3398b6f932f98a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260312T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:57fdf4238f68dcb52e286201b43cd412
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260511T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:99627b6292df20bc79b226e551c1fe1b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T150000Z
+LOCATION:--каф.
+DTSTART:20251216T133000Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:5e1376af58b314e3ec66df2423dc9f8a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T150000Z
+LOCATION:--каф.
+DTSTART:20251013T133000Z
+SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
+UID:462d6f80bb8434565e3f96823185b95c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251115T131500Z
+LOCATION:--каф.
+DTSTART:20251115T114500Z
+SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
+UID:22b1a832a262599c52626a6608153806
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251115T073000Z
+LOCATION:--каф.
+DTSTART:20251115T060000Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:6fe350ed67ae43507b6e5404a9f30658
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251218T150000Z
+DTSTART:20251218T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:fb34deff1ef85063ffe01279f4dbbfe1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260225T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:e744f40566dd42b1faaba9a467242102
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260319T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:2b94407b1ecd5f2bad6fb5317bc7e734
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260414T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:2b929c3773be13a0e8aa27eb52a3964d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T131500Z
+LOCATION:--каф.
+DTSTART:20251027T114500Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:db44a66f2f2d290bb3156a01493e5b59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260422T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:ef926026981c96c241f32c053104380a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260303T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:eef39becbd80711ccdebde45ff82d73d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T150000Z
+DTSTART:20251113T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:d79b54520338cf92c0853cac3d759b7c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:6de00b54d23e9251ba4318d0bcfb41d9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Мониторинг проектной деятельности
+UID:033157de41fb0869be4d58724e56615c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251108T113000Z
+LOCATION:--каф.
+DTSTART:20251108T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:0a69b1d79cbd189f7a2dc08e36ec6c57
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260429T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:285ac55bf589aaa61dc204969fb87650
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251011T113000Z
+LOCATION:--каф.
+DTSTART:20251011T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:66f84ce88c154c4d3583e7ffb99f5608
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260525T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:acd6d0906a795ccbedadd66e7ed09a29
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251114T150000Z
+LOCATION:--каф.
+DTSTART:20251114T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:6501060d00dc513e323965ad0bc6862e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T164500Z
+LOCATION:--каф.
+DTSTART:20251224T151500Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:7cd5ab21177c206f1da72a2c94841272
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260325T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:2062071302802d565ae27063e2fbcad4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251118T150000Z
+LOCATION:--каф.
+DTSTART:20251118T133000Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:3a25c57ac9db373417857de9f8f9aeac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260525T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:cd16b0b440f5f564eff8413117545a82
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260218T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:c7957e5bb307dc9f8bbfdc1f60f98e06
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260505T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:021af77c1c2f87ed1a0b81b63e5baa54
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260511T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:491ab9705e9108250eb71ea932e3be26
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260319T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:b12dc014c2f6282f27034bc2e186547c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260418T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:da18bfcb321eaaafee162f355917d780
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251011T131500Z
+LOCATION:--каф.
+DTSTART:20251011T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:45ac57ea4d4db220a1181acb3e9f4496
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251028T150000Z
+LOCATION:--каф.
+DTSTART:20251028T133000Z
+SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
+UID:a847fe3a9128b2fbb55cc8864d4e0dcb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260427T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:0ee623595efe64f05d022f6927f7ce70
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260310T133000Z
+SUMMARY:ЛК Облачные технологии
+UID:410314733ca322665aa5451aa1209aae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:99f61f31cd4f5ce77d1a0fbe62b1474b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260407T133000Z
+SUMMARY:ЛК Облачные технологии
+UID:29d2e31b2fe2deff7d4a14220244ff04
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260603T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:9c76331ecb1c75e6bad7a7f4b665e57b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260316T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:77d1188a4e03bb8b7802a1ac386eb9bd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260409T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:319a93a5d614b667a55315b1ca726aea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251010T164500Z
+LOCATION:--каф.
+DTSTART:20251010T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:3cc6d80136283acd65b3a3b7ea04d961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260526T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260526T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:f9368726edf5798222df57bdab37f271
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260321T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:ce7e9b44f8d3aeb8fce619629e8d3e4a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260314T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:137f698d9213ed98ca36c88db5906c94
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251021T164500Z
+LOCATION:--каф.
+DTSTART:20251021T151500Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:3a8738cb1de1e6774331818cfff1bd1e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251018T073000Z
+LOCATION:--каф.
+DTSTART:20251018T060000Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:4213b8f60797fb81c72635278e08ea7e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250918T131500Z
+LOCATION:--каф.
+DTSTART:20250918T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:803ebfae65924e04c079fc79850d64da
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T150000Z
+LOCATION:--каф.
+DTSTART:20251014T133000Z
+SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
+UID:b9a973e31d5190e83d54d6fe6dbcea63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260330T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:9d19be093a2a2a11a34933662f594b59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T164500Z
+LOCATION:--каф.
+DTSTART:20251202T151500Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:ed187170e9203deccbc7ae518449f4cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260212T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:bc28d6bd86147805d3e0155fbd9cbeca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T091500Z
+LOCATION:ГАК-307
+DTSTART:20260418T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:dd79217bb39ab9fc4cb806211ddfa215
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260331T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260331T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:9b72cbc21e2c9284b3b520e1b53b6c5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260210T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:a304a66a0b77ea1fd46db9fb91e3a1a4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251030T150000Z
 DTSTART:20251030T133000Z
 SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
 UID:42f30b6422f646507535ef01acd83467
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T131500Z
-LOCATION:--каф.
-DTSTART:20251110T114500Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:e62ddd161af4ce6a49c7d7ef2aa721dd
+DTEND:20260415T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260415T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:9feac393826294b98cb12d3e989e80dd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T113000Z
+DTEND:20260318T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:6e27e9b2f24aaf5f4f6ca2d0b164d9fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251224T150000Z
 LOCATION:--каф.
-DTSTART:20250927T100000Z
+DTSTART:20251224T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:4ebbb6252f7cde0aa2f6c3f7a86b2755
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T131500Z
+LOCATION:--каф.
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:a18f3bc76cf8348602d1bb8cb7c3d713
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:545cf610999a022ce1d05997b338076c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T091500Z
+LOCATION:ГАК-307
+DTSTART:20260530T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:a59a4cfc439c896d32e4bac3a0b784df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251013T164500Z
+LOCATION:--каф.
+DTSTART:20251013T151500Z
+SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
+UID:608b672077fb804d2221de901399b073
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260423T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:abae29a6dc8184236ff09391398bbc14
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T150000Z
+LOCATION:--каф.
+DTSTART:20251029T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:6595ec6675f00754526b857ea1a6fbe4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T091500Z
+LOCATION:ГАК-307
+DTSTART:20260606T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:09e72e405c9400a8a263907ead75d11b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T150000Z
+DTSTART:20251009T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:f169b0f813ac4a38efcd35afb4273979
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260116T164500Z
+LOCATION:--каф.
+DTSTART:20260116T151500Z
+SUMMARY:Экзамен Теория вероятностей и статистика в машинном обучении
+UID:536b8f9cc8fd0ed803f430474ce05363
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260415T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:73801e2fa2a263519670845fa1fd2b2f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251124T131500Z
+LOCATION:--каф.
+DTSTART:20251124T114500Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:dfcecc5f8b0f194faeb7d375561eef5b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T164500Z
+LOCATION:--каф.
+DTSTART:20250919T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:1f06f09d3f8ec425a2211f9692e14ce2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T091500Z
+LOCATION:ГАК-307
+DTSTART:20260502T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:36ef5e2938158f8255eb3195c0d55a1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T091500Z
+LOCATION:ГАК-307
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:9e42bf5888ca0e02691428c2969a461d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251009T131500Z
+LOCATION:--каф.
+DTSTART:20251009T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:3d1ff52dd8c427852e8d192b3e2c6869
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250906T131500Z
+LOCATION:--каф.
+DTSTART:20250906T114500Z
+SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
+UID:c8b986972ffbf83345bdee556660846e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251101T113000Z
+LOCATION:--каф.
+DTSTART:20251101T100000Z
+SUMMARY:ЛК Базы данных и язык структурированных запросов
+UID:defb40165bc038d43c4e2b5e02e67bd9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260519T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:bc34ea2ead46581e2e449ef95438fe76
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260401T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:fee59e7ccc3e7a1602a4af7591336934
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251127T150000Z
+DTSTART:20251127T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:9c672f128e0877aecbe570953fc11143
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250927T131500Z
+LOCATION:--каф.
+DTSTART:20250927T114500Z
 SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:8d0c1a464d7fc7b4c6671f60d0775ed0
+UID:d63ca846956e119ebfdf6508ca44b794
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:791c7039859e9a68858691e4cf9d70b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251115T091500Z
+LOCATION:--каф.
+DTSTART:20251115T074500Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:2387f209b1223bdd434abdbb75d27fea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:e7597d4e3455240bdb31c1576b14fd32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T131500Z
+LOCATION:--каф.
+DTSTART:20251122T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:4a5b8c4005676b25d261aa7ac25beb76
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251029T164500Z
+LOCATION:--каф.
+DTSTART:20251029T151500Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:411ed56595b24f9309d71506e02d47c3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T164500Z
+LOCATION:--каф.
+DTSTART:20251110T151500Z
+SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
+UID:732bedc074d37409449635fb177170f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260428T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260428T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:8bb8424657c1764f1815b539763d83bd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260523T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:eb1c1c27b549ffe4c6ab485ff12e0690
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250924T164500Z
+LOCATION:--каф.
+DTSTART:20250924T151500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:6d2a7e8270379a6564102f1a714d8e98
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260325T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:c6d41745791583ece8262e945d921d20
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T091500Z
+LOCATION:--каф.
+DTSTART:20250920T074500Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:90c721ed3d164c839be32cc6c9b6864c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260226T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:c3e70d3db79579eb3f0b3d6748952ac1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260606T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260606T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:475dc8d968800dd0ebc705e2f051154a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250913T113000Z
+LOCATION:--каф.
+DTSTART:20250913T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:f903b7c09a37d3511f441314bdf65e85
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260312T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:95f2f78d8fac45cddd5e7efd607a98d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T150000Z
+DTSTART:20251106T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:90cb4187b9987d0e9d94930f6080e0c2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260407T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:fbc88830a7359fb24303b6e4e76c5b30
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260304T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:2a446543e07bd7930f3ecf5e69a4bb12
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:b90a50068bff4f746e9d2153d8c8cbd4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251030T131500Z
+LOCATION:--каф.
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:a6454f48161e459a61bed44764005303
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:184a16d454442f4362534851edf30346
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251206T113000Z
+LOCATION:--каф.
+DTSTART:20251206T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:9c43b7cc75127d5e278a85da8009ad89
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260401T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:70dca192e83b853c46b92943e5641011
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250904T150000Z
+DTSTART:20250904T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:57f0c5b6ff5592b70e233b4b18ffe0e5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T150000Z
+LOCATION:--каф.
+DTSTART:20251031T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:da49f0de3a9540adb548b04ecf60a96b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251014T164500Z
+LOCATION:--каф.
+DTSTART:20251014T151500Z
+SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
+UID:8a50e2cdafaa17aba24e2b5f7af6f796
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260226T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:ae1f41c114125e42f48fbb1232855fc9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260221T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:1304883e50e5196cbd1cf3cb48409dab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260310T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:e77aebbcffed2c30cce0fa5fc386bde9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T131500Z
+LOCATION:--каф.
+DTSTART:20251016T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:7b339f4afc4836515d8fd57c5fbd17f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260421T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:9d35be968ccda0fcbdfd1430ce3c23f2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260305T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:f92cb45d20bc60bc3e69ac81e2a35ae7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260514T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:4b50e2e87e540eec454e0bd3054017af
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260408T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:9e5872bb783ed33fb4d2453ce9c420d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T131500Z
+LOCATION:--каф.
+DTSTART:20250920T114500Z
+SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
+UID:13b319079ac2c9c5253ec5b88a6cf2df
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251106T131500Z
+LOCATION:--каф.
+DTSTART:20251106T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:d61ae8c113f00adf1d47e407d845489f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251025T131500Z
+LOCATION:--каф.
+DTSTART:20251025T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:513be3f613f0b3e8c00c9fef6b1a9ff8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251001T131500Z
+LOCATION:--каф.
+DTSTART:20251001T114500Z
+SUMMARY:ЛК Python: Продвинутый уровень
+UID:039da5545503c4cc5c7592317d2af1d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T073000Z
+LOCATION:--каф.
+DTSTART:20250920T060000Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:05d180e18885296abc326d853a944df7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250919T150000Z
+LOCATION:--каф.
+DTSTART:20250919T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:4206082f5770d9c01979142ee277b4fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251210T164500Z
+LOCATION:--каф.
+DTSTART:20251210T151500Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:ec4ea5589bb3b57bd08129aa40496cd8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260413T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:2639bef6bc2146a850bf296f65f1b466
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251208T131500Z
+LOCATION:--каф.
+DTSTART:20251208T114500Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:392018ee12ce15f9f150516bccf21960
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251113T131500Z
+LOCATION:--каф.
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:c6853d246658650567adc6a7bd87d81a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251031T164500Z
+LOCATION:--каф.
+DTSTART:20251031T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:d8549606f625cfe21d003f7c911064d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251128T150000Z
+LOCATION:--каф.
+DTSTART:20251128T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:4b257f43729713eda1a9d9bdc71d60ac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251206T131500Z
+LOCATION:--каф.
+DTSTART:20251206T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:d106036fa59c1381cdf622f9399bde32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260416T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:2f3fa235e426852b34762454c718770e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251129T091500Z
+LOCATION:--каф.
+DTSTART:20251129T074500Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:3181a21d182e49f204bbbe64fa3deaa2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251121T164500Z
+LOCATION:--каф.
+DTSTART:20251121T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:b18e747a3ca2b091064234c8f8eadf42
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251008T164500Z
+LOCATION:--каф.
+DTSTART:20251008T151500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:f0e201db04bf4c54dc1f0d1deedb59ed
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T164500Z
@@ -404,60 +1365,18 @@ SUMMARY:ПЗ Фундаментальные и перспективные кон
 UID:b13b7529a3dfb6f60c64b125c27eccfe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T164500Z
-LOCATION:--каф.
-DTSTART:20251216T151500Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:2bb7c0a85e60f4c0887ac8b52c476718
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T150000Z
-LOCATION:--каф.
-DTSTART:20251224T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:4ebbb6252f7cde0aa2f6c3f7a86b2755
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T150000Z
-LOCATION:--каф.
-DTSTART:20251210T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:47a2b408fed93f363217477af4238413
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:--каф.
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:a18f3bc76cf8348602d1bb8cb7c3d713
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T164500Z
-LOCATION:--каф.
-DTSTART:20251013T151500Z
-SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
-UID:608b672077fb804d2221de901399b073
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T150000Z
-LOCATION:--каф.
-DTSTART:20250905T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:ec984225a4821e5c60b4c2f41ae6589b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260120T150000Z
-LOCATION:--каф.
-DTSTART:20260120T133000Z
-SUMMARY:Экзамен Python: Продвинутый уровень
-UID:8d246eec2834e9aa767e25fa9a40d8f8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260116T150000Z
 LOCATION:--каф.
 DTSTART:20260116T133000Z
 SUMMARY:Экзамен Теория вероятностей и статистика в машинном обучении
 UID:864281fad3ab4e7b13dca2d30c333a6a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260330T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:9accdd377194f143abbbc624ae9118e4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251112T164500Z
@@ -474,24 +1393,475 @@ SUMMARY:ПЗ Практическое программирование и инф
 UID:3467528a6688d26ae492ef5daf5c126f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T164500Z
-LOCATION:--каф.
-DTSTART:20251118T151500Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:d0bd8ed8129383b89816342aa779e339
+DTEND:20260211T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Мониторинг проектной деятельности
+UID:f6a0f50c54bf2b75298bebb2c476616d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T150000Z
-LOCATION:--каф.
-DTSTART:20251029T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:6595ec6675f00754526b857ea1a6fbe4
+DTEND:20260411T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260411T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:5143dfc75983db3d00a136d565dbb9ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T150000Z
-DTSTART:20251009T133000Z
+DTEND:20260422T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260422T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:8a1821ba61acdc909b17e21a849cc0f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251107T164500Z
+LOCATION:--каф.
+DTSTART:20251107T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:81fea09d06ba7a1501120634e8f34a2d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260317T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:56a95d82b3364c2d49a2be85c5e15025
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260120T164500Z
+LOCATION:--каф.
+DTSTART:20260120T151500Z
+SUMMARY:Экзамен Python: Продвинутый уровень
+UID:8809cf0185b13f8a846d642f2599aeff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:f6b4920b498fe3653b9fa64263972f5f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251004T091500Z
+LOCATION:--каф.
+DTSTART:20251004T074500Z
+SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
+UID:5eb7a8a102299c321d80b8f3900e8368
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260210T133000Z
+SUMMARY:ЛК Облачные технологии
+UID:8121f7beaee3343cc9dda18bdd5755e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250903T131500Z
+LOCATION:--каф.
+DTSTART:20250903T114500Z
+SUMMARY:ЛК Python: Продвинутый уровень
+UID:efa41d3fccb9c5ca7f3f9731274f422e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260404T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:a6c4509b0fbd988ca3ec57721e3984e4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251204T150000Z
+DTSTART:20251204T133000Z
 SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:f169b0f813ac4a38efcd35afb4273979
+UID:1ba7b6a5efbc3238533abd5212904201
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T091500Z
+LOCATION:ГАК-307
+DTSTART:20260221T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:c9c0defccdbb80e37c5fbb16e375497d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T131500Z
+LOCATION:--каф.
+DTSTART:20251015T114500Z
+SUMMARY:ЛК Python: Продвинутый уровень
+UID:acc53a2d5cf7d0dae5d7caf41ee7d284
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251126T150000Z
+LOCATION:--каф.
+DTSTART:20251126T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:a67e7322c46b2966f9c9ce3429353a5d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260413T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:e20797e9bd50da9a49e21469adb976a3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251111T150000Z
+LOCATION:--каф.
+DTSTART:20251111T133000Z
+SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
+UID:03ca082f8b6bdaf137877df54186165f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T091500Z
+LOCATION:ГАК-307
+DTSTART:20260523T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:399cdaa42ca04345e452d8ee5992152e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T113000Z
+LOCATION:--каф.
+DTSTART:20251110T100000Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:a456afa40842ebb34380e4f2a6af05d6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251205T164500Z
+LOCATION:--каф.
+DTSTART:20251205T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:4bba228eaa3ff8626ab8dfa659de4f21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260219T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:b36a73b117278c4249e62d4af487b694
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:2acb975571cf5616c5a41ff8879ff49c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260304T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:b688bd8581f1177cc8244267441ffe6f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260502T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:01d903a24a3920bcfb723bfbf1d25159
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260324T151500Z
+SUMMARY:ПЗ Облачные технологии
+UID:a2aad9f126ab33845337995f3e365eaf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250911T150000Z
+DTSTART:20250911T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:7e0f49ae08769683914fc40c2fbdd3e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251122T113000Z
+LOCATION:--каф.
+DTSTART:20251122T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:61f7045267a4a18966c5490d2aa72a97
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T150000Z
+LOCATION:--каф.
+DTSTART:20251110T133000Z
+SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
+UID:879043f4591153092b2612c2e3cb88bc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T091500Z
+LOCATION:ГАК-307
+DTSTART:20260404T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:351729a330474af1fc7dc582b761f8ae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T131500Z
+LOCATION:--каф.
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
+UID:90a22cbe5fa0322639f51089c3e71cae
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251202T150000Z
+LOCATION:--каф.
+DTSTART:20251202T133000Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:b4431a2975738893a6228fa9dd599817
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250905T164500Z
+LOCATION:--каф.
+DTSTART:20250905T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:c157e61617fc1a7c8d0423297a69a942
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251211T150000Z
+DTSTART:20251211T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:81608c83baa3d073d5a27844e42e1686
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260512T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:9cd7abf83edd998e413395a1be4e4fbf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251222T113000Z
+LOCATION:--каф.
+DTSTART:20251222T100000Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:da42697c3adbe2df78bdb87d1fc23b1d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260506T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:60124b5ca9f2678bf46fffe24301bb1a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251112T150000Z
+LOCATION:--каф.
+DTSTART:20251112T133000Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:a8ace54b09d825e3503faab9db1682db
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:0c91131b159a1eb2fd35c35e03e5120b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251108T131500Z
+LOCATION:--каф.
+DTSTART:20251108T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:77906f82188208dc175b8e81eb43e585
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250926T150000Z
+LOCATION:--каф.
+DTSTART:20250926T133000Z
+SUMMARY:ЛК Математика для DataScience
+UID:83278a1b8c4a0bd95ed5d59331394514
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T091500Z
+LOCATION:ГАК-307
+DTSTART:20260321T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:035d059fdcbc5a7b2a0ed86c92175b60
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260217T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:4d58cecf2b38b54677ed8d3924f7a80a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250913T131500Z
+LOCATION:--каф.
+DTSTART:20250913T114500Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:12f654d2571e7e0a09b932f9aae0562a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20260428T133000Z
+SUMMARY:ЛК Психология и педагогика
+UID:69d795ff7a226f9d67eabc9e0da98b16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T091500Z
+LOCATION:ГАК-307
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:3a337e9959f510d042a2f39d0bfdda08
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260402T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:29c60845aafa2138eaf9b92097bc3b67
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251015T164500Z
+LOCATION:--каф.
+DTSTART:20251015T151500Z
+SUMMARY:ЛР Python: Продвинутый уровень
+UID:055d51db0e2563fe5567f6d10bca694c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251220T113000Z
+LOCATION:--каф.
+DTSTART:20251220T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:06165cf7d67199abd01e13e39b14bb79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250917T131500Z
+LOCATION:--каф.
+DTSTART:20250917T114500Z
+SUMMARY:ЛК Python: Продвинутый уровень
+UID:49975988319edab5722e247805b06c2b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250920T113000Z
+LOCATION:--каф.
+DTSTART:20250920T100000Z
+SUMMARY:ЛК Базы данных и язык структурированных запросов
+UID:afba5688aea64378795a1a7d16d86b69
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251002T150000Z
+DTSTART:20251002T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:d1370d8764e29ce258628fe4909bf0cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251027T164500Z
+LOCATION:--каф.
+DTSTART:20251027T151500Z
+SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
+UID:b685b1d7c2dd6d4006c60f285ca110a5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251016T150000Z
+DTSTART:20251016T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:755dbfdf140fa61fb73e08a0d925f7e6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260219T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:561ece3eae10405a58a13b2dd6eb5352
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250910T164500Z
+LOCATION:--каф.
+DTSTART:20250910T151500Z
+SUMMARY:ЛК Мониторинг проектной деятельности
+UID:43c8a64d2ee8f6d72084c344716e4270
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260217T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260217T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:6fe0a52593e8c0cb93611051e6186294
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260326T133000Z
+SUMMARY:ПЗ Системный дизайн
+UID:08eac8453183bb04086a2f05d5a5bfc6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260124T113000Z
+LOCATION:--каф.
+DTSTART:20260124T100000Z
+SUMMARY:Экзамен Базы данных и язык структурированных запросов
+UID:05243520fc8fb510276b45299c665f95
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250925T150000Z
+DTSTART:20250925T133000Z
+SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
+UID:fc752b4ca8d63319ca79c2646457e523
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251022T150000Z
+LOCATION:--каф.
+DTSTART:20251022T133000Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:6a27179baf88e3facd8fe5c78f2691d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251003T164500Z
+LOCATION:--каф.
+DTSTART:20251003T151500Z
+SUMMARY:ПЗ Математика для DataScience
+UID:72618af9ab49ad9d0c157811cc661cac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251110T131500Z
+LOCATION:--каф.
+DTSTART:20251110T114500Z
+SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
+UID:e62ddd161af4ce6a49c7d7ef2aa721dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250927T113000Z
+LOCATION:--каф.
+DTSTART:20250927T100000Z
+SUMMARY:ЛР Базы данных и язык структурированных запросов
+UID:8d0c1a464d7fc7b4c6671f60d0775ed0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Машинное обучение
+UID:e48626a6cbaf1b0bd3f77911096148a1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260311T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:441d14269f4c2efc779ed50a6be6912e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260311T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:acd8b99f571122cd51afb7dabf94a518
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251216T164500Z
+LOCATION:--каф.
+DTSTART:20251216T151500Z
+SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
+UID:2bb7c0a85e60f4c0887ac8b52c476718
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Машинное обучение
+UID:2a17d818d06d4121313b49d2f62dd218
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251126T164500Z
@@ -522,88 +1892,19 @@ SUMMARY:ЛК Базы данных и язык структурированны�
 UID:14df8446d311f3346b361d3084fbee09
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260116T164500Z
-LOCATION:--каф.
-DTSTART:20260116T151500Z
-SUMMARY:Экзамен Теория вероятностей и статистика в машинном обучении
-UID:536b8f9cc8fd0ed803f430474ce05363
+DTEND:20260302T164500Z
+LOCATION:Орш. В-103
+DTSTART:20260302T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:b6beac35fd4ca831de18ee26591a380f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251124T131500Z
-LOCATION:--каф.
-DTSTART:20251124T114500Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:dfcecc5f8b0f194faeb7d375561eef5b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T150000Z
-LOCATION:--каф.
-DTSTART:20251205T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:544988e43f74e023da4a21f2ac30d2bf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T131500Z
-LOCATION:--каф.
-DTSTART:20251029T114500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:fbc769a600fa19c403837b086f899ae2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T164500Z
-LOCATION:--каф.
-DTSTART:20250926T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:fb3bd8b825b9380a6e2bcc38b2b446cf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T164500Z
-LOCATION:--каф.
-DTSTART:20250919T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:1f06f09d3f8ec425a2211f9692e14ce2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T131500Z
-LOCATION:--каф.
-DTSTART:20251018T114500Z
-SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
-UID:d9e8a0ddb1b6e92358eff47feacd65ad
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260124T131500Z
-LOCATION:--каф.
-DTSTART:20260124T114500Z
-SUMMARY:Экзамен Базы данных и язык структурированных запросов
-UID:e6fa8b5fe832f9ca804beb042dbbe18f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T150000Z
-LOCATION:--каф.
-DTSTART:20251001T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:43ce528fe15db25cfa9725bd56606f5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:--каф.
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:3d1ff52dd8c427852e8d192b3e2c6869
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T150000Z
-LOCATION:--каф.
-DTSTART:20250912T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:70120f48249da0f66c5080ed5bb88b1e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T164500Z
-LOCATION:--каф.
-DTSTART:20251107T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:81fea09d06ba7a1501120634e8f34a2d
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260414T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260414T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:54288dfa6265a3beeebbe1d2cdf43536
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T131500Z
@@ -613,20 +1914,6 @@ SUMMARY:ПЗ Теория вероятностей и статистика в м
 UID:7a546c928dae731c0cbbf07b4279cbbf
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260120T164500Z
-LOCATION:--каф.
-DTSTART:20260120T151500Z
-SUMMARY:Экзамен Python: Продвинутый уровень
-UID:8809cf0185b13f8a846d642f2599aeff
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T131500Z
-LOCATION:--каф.
-DTSTART:20250906T114500Z
-SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
-UID:c8b986972ffbf83345bdee556660846e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251021T150000Z
 LOCATION:--каф.
 DTSTART:20251021T133000Z
@@ -634,46 +1921,11 @@ SUMMARY:ПЗ Гибкие методологии разработки цифро
 UID:9cd2c53b072a70d7dfa71c4a521a8193
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T091500Z
-LOCATION:--каф.
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:5eb7a8a102299c321d80b8f3900e8368
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:--каф.
-DTSTART:20251101T100000Z
-SUMMARY:ЛК Базы данных и язык структурированных запросов
-UID:defb40165bc038d43c4e2b5e02e67bd9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T113000Z
-LOCATION:--каф.
-DTSTART:20251004T100000Z
-SUMMARY:ЛК Базы данных и язык структурированных запросов
-UID:372d54b35124b3de03c013e374726cc0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251107T150000Z
 LOCATION:--каф.
 DTSTART:20251107T133000Z
 SUMMARY:ЛК Математика для DataScience
 UID:9854f219e980771f41b6e2f3beba4750
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T164500Z
-LOCATION:--каф.
-DTSTART:20251024T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:5e30be52288e9b3ca739bfecca5f76ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T131500Z
-LOCATION:--каф.
-DTSTART:20250903T114500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:efa41d3fccb9c5ca7f3f9731274f422e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T150000Z
@@ -695,24 +1947,32 @@ SUMMARY:ЛК Теория вероятностей и статистика в м
 UID:c487b46422bd7bf33cb8ed0ab40afd16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T150000Z
-DTSTART:20251127T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:9c672f128e0877aecbe570953fc11143
+DTEND:20260425T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260425T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:94c0f6f59abef800c81b12153901c8e3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T131500Z
-LOCATION:--каф.
-DTSTART:20250927T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:d63ca846956e119ebfdf6508ca44b794
+DTEND:20260212T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260212T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:6fdc9614680f4e5a92934ede74fb2884
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T164500Z
-LOCATION:--каф.
-DTSTART:20251114T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:f7914c246648069a12660e203125184b
+DTEND:20260307T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260307T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:52b55880df4e2634d137862417312cba
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260228T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:021962c934ae557d56d37da24b39341c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251121T150000Z
@@ -722,24 +1982,39 @@ SUMMARY:ЛК Математика для DataScience
 UID:5a81ca5f96646cc737b4cd67d7c99501
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T150000Z
-DTSTART:20251204T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:1ba7b6a5efbc3238533abd5212904201
+DTEND:20260425T091500Z
+LOCATION:ГАК-307
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:0b16c81d2032edad55c23c33023fc7ed
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
-LOCATION:--каф.
-DTSTART:20251115T074500Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:2387f209b1223bdd434abdbb75d27fea
+DTEND:20260305T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260305T151500Z
+SUMMARY:ЛР Системный дизайн
+UID:4cb9d80e8ab6c2cf6238a14b33c321d3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T150000Z
-LOCATION:--каф.
-DTSTART:20250917T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:743687b64cc73143e504c7606757bf40
+DTEND:20260225T150000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260225T133000Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:3615aea38eecdc4d4caba71ff3c45398
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T164500Z
+LOCATION:ГУК Б-444
+DTSTART:20260429T151500Z
+SUMMARY:ЛК Машинное обучение
+UID:927a048021b55f30da43f4a7dc4996e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260506T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:10fc2f910f58fbe5b2f2629d8edde4bb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T150000Z
@@ -748,115 +2023,11 @@ SUMMARY:ЛК Теория вероятностей и статистика в м
 UID:9662b6ddacea36fe30e0e76e820c6549
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T131500Z
-LOCATION:--каф.
-DTSTART:20251122T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:4a5b8c4005676b25d261aa7ac25beb76
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T164500Z
-LOCATION:--каф.
-DTSTART:20250917T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:9a5797f49b2c2284de25ee3df3702a10
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T164500Z
-LOCATION:--каф.
-DTSTART:20251029T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:411ed56595b24f9309d71506e02d47c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T164500Z
-LOCATION:--каф.
-DTSTART:20251110T151500Z
-SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
-UID:732bedc074d37409449635fb177170f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:--каф.
-DTSTART:20251015T114500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:acc53a2d5cf7d0dae5d7caf41ee7d284
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T150000Z
-LOCATION:--каф.
-DTSTART:20251126T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:a67e7322c46b2966f9c9ce3429353a5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260112T150000Z
-LOCATION:--каф.
-DTSTART:20260112T133000Z
-SUMMARY:Экзамен Математика для DataScience
-UID:966d4e23a4ea63702c3398b6f932f98a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T150000Z
-LOCATION:--каф.
-DTSTART:20251216T133000Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:5e1376af58b314e3ec66df2423dc9f8a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T164500Z
-LOCATION:--каф.
-DTSTART:20250924T151500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:6d2a7e8270379a6564102f1a714d8e98
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T150000Z
-LOCATION:--каф.
-DTSTART:20251013T133000Z
-SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
-UID:462d6f80bb8434565e3f96823185b95c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T150000Z
-LOCATION:--каф.
-DTSTART:20251111T133000Z
-SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
-UID:03ca082f8b6bdaf137877df54186165f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T131500Z
-LOCATION:--каф.
-DTSTART:20251115T114500Z
-SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
-UID:22b1a832a262599c52626a6608153806
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:--каф.
-DTSTART:20251115T060000Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:6fe350ed67ae43507b6e5404a9f30658
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T150000Z
-DTSTART:20251218T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:fb34deff1ef85063ffe01279f4dbbfe1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T113000Z
-LOCATION:--каф.
-DTSTART:20251110T100000Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:a456afa40842ebb34380e4f2a6af05d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T164500Z
-LOCATION:--каф.
-DTSTART:20251205T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:4bba228eaa3ff8626ab8dfa659de4f21
+DTEND:20260516T091500Z
+LOCATION:ГАК-307
+DTSTART:20260516T074500Z
+SUMMARY:ЛК Философия искусственного интеллекта
+UID:693bf90bd21ba106c0f6d266ba8ed9c8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T113000Z
@@ -866,24 +2037,11 @@ SUMMARY:ПЗ Фундаментальные и перспективные кон
 UID:c3880e25217c0fbae602b12f541a200f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250913T113000Z
-LOCATION:--каф.
-DTSTART:20250913T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:f903b7c09a37d3511f441314bdf65e85
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T131500Z
-LOCATION:--каф.
-DTSTART:20251027T114500Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:db44a66f2f2d290bb3156a01493e5b59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T150000Z
-DTSTART:20251106T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:90cb4187b9987d0e9d94930f6080e0c2
+DTEND:20260514T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260514T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:56e7fc22d2c74769e3fcb9b2412fbec8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T150000Z
@@ -893,10 +2051,11 @@ SUMMARY:ЛК Мониторинг проектной деятельности
 UID:f93569f4122384fb8cf622f1233f6b2d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T150000Z
-DTSTART:20251113T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:d79b54520338cf92c0853cac3d759b7c
+DTEND:20260328T113000Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260328T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:27b87636062601c22950dbe13bea9652
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T150000Z
@@ -906,38 +2065,11 @@ SUMMARY:ЛР Python: Продвинутый уровень
 UID:13413ec7e0d15fe873b30cd16454cc74
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251030T131500Z
-LOCATION:--каф.
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:a6454f48161e459a61bed44764005303
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T150000Z
-DTSTART:20250911T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:7e0f49ae08769683914fc40c2fbdd3e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T113000Z
-LOCATION:--каф.
-DTSTART:20251108T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:0a69b1d79cbd189f7a2dc08e36ec6c57
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251024T150000Z
 LOCATION:--каф.
 DTSTART:20251024T133000Z
 SUMMARY:ЛК Математика для DataScience
 UID:2167f59145fd6c9f56f2433f9596496d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T113000Z
-LOCATION:--каф.
-DTSTART:20251122T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:61f7045267a4a18966c5490d2aa72a97
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251017T150000Z
@@ -947,18 +2079,18 @@ SUMMARY:ЛК Математика для DataScience
 UID:83863efda68cdef3e1b5dc891af4a643
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T113000Z
-LOCATION:--каф.
-DTSTART:20251206T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:9c43b7cc75127d5e278a85da8009ad89
+DTEND:20260318T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260318T133000Z
+SUMMARY:ЛК Глубокое обучение и нейросети
+UID:fa30079727fc0da36f5dbd5ee8fd3993
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T113000Z
-LOCATION:--каф.
-DTSTART:20251011T100000Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:66f84ce88c154c4d3583e7ffb99f5608
+DTEND:20260603T164500Z
+LOCATION:ГУК Б-430-3
+DTSTART:20260603T151500Z
+SUMMARY:ЛР Глубокое обучение и нейросети
+UID:44d45716b8a2a44962e7a8bf8ccd5cf4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T150000Z
@@ -968,31 +2100,25 @@ SUMMARY:ЛК Математика для DataScience
 UID:79d74d03ce1ac2545f822980996180b9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T150000Z
-LOCATION:--каф.
-DTSTART:20251114T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:6501060d00dc513e323965ad0bc6862e
+DTEND:20260423T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260423T151500Z
+SUMMARY:ПЗ Системный дизайн
+UID:268a8e468f64b5e660cf1a5d2a0d452e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251224T164500Z
-LOCATION:--каф.
-DTSTART:20251224T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:7cd5ab21177c206f1da72a2c94841272
+DTEND:20260516T113000Z
+LOCATION:ГУК Б-436
+DTSTART:20260516T100000Z
+SUMMARY:ПЗ Философия искусственного интеллекта
+UID:0d258ccbfa032a75fa03016bed1339cc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250904T150000Z
-DTSTART:20250904T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:57f0c5b6ff5592b70e233b4b18ffe0e5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T150000Z
-LOCATION:--каф.
-DTSTART:20251110T133000Z
-SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
-UID:879043f4591153092b2612c2e3cb88bc
+DTEND:20260216T150000Z
+LOCATION:Орш. В-103
+DTSTART:20260216T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:03e4bcca271c0475e3738c17dc704576
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T131500Z
@@ -1002,32 +2128,11 @@ SUMMARY:ПЗ Теория вероятностей и статистика в м
 UID:4f335bc7899ccc36d77dccdb995e3a51
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T150000Z
-LOCATION:--каф.
-DTSTART:20251031T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:da49f0de3a9540adb548b04ecf60a96b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251027T150000Z
 LOCATION:--каф.
 DTSTART:20251027T133000Z
 SUMMARY:ЛК Фундаментальные и перспективные концепции искусственного интеллекта
 UID:5c5a1df5c336d13ecb45cbc6fa16b0e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T150000Z
-LOCATION:--каф.
-DTSTART:20251118T133000Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:3a25c57ac9db373417857de9f8f9aeac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T164500Z
-LOCATION:--каф.
-DTSTART:20251014T151500Z
-SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
-UID:8a50e2cdafaa17aba24e2b5f7af6f796
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T131500Z
@@ -1037,32 +2142,19 @@ SUMMARY:ПЗ Теория вероятностей и статистика в м
 UID:3fbb5dc3430f9a3357f2c5bdb2ef698d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:--каф.
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:90a22cbe5fa0322639f51089c3e71cae
+DTEND:20260324T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20260324T133000Z
+SUMMARY:ЛК Облачные технологии
+UID:b84c0fa5c4837d174e34da5d9d1fa98c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T150000Z
-LOCATION:--каф.
-DTSTART:20251202T133000Z
-SUMMARY:ПЗ Гибкие методологии разработки цифровых продуктов
-UID:b4431a2975738893a6228fa9dd599817
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T131500Z
-LOCATION:--каф.
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Теория вероятностей и статистика в машинном обучении
-UID:7b339f4afc4836515d8fd57c5fbd17f8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T164500Z
-LOCATION:--каф.
-DTSTART:20250905T151500Z
-SUMMARY:ПЗ Математика для DataScience
-UID:c157e61617fc1a7c8d0423297a69a942
+DESCRIPTION:Пономарева Диана Игоревна (осн.)
+DTEND:20260512T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20260512T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:0dc32420de39039844b23d2a085e8659
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T150000Z
@@ -1072,12 +2164,6 @@ SUMMARY:ЛК Математика для DataScience
 UID:e3a30bf36bb3df897fb6bc871de99f43
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T150000Z
-DTSTART:20251211T133000Z
-SUMMARY:ЛК Теория вероятностей и статистика в машинном обучении
-UID:81608c83baa3d073d5a27844e42e1686
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251111T164500Z
 LOCATION:--каф.
 DTSTART:20251111T151500Z
@@ -1085,45 +2171,10 @@ SUMMARY:ЛК Гибкие методологии разработки цифро
 UID:8bce82c6fb098f21e3d6500820b49e71
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T131500Z
-LOCATION:--каф.
-DTSTART:20251011T114500Z
-SUMMARY:ЛР Базы данных и язык структурированных запросов
-UID:45ac57ea4d4db220a1181acb3e9f4496
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T113000Z
-LOCATION:--каф.
-DTSTART:20251222T100000Z
-SUMMARY:ПЗ Фундаментальные и перспективные концепции искусственного интеллекта
-UID:da42697c3adbe2df78bdb87d1fc23b1d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T150000Z
-LOCATION:--каф.
-DTSTART:20251112T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:a8ace54b09d825e3503faab9db1682db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T091500Z
-LOCATION:--каф.
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Практическое программирование и инфраструктура IT-проектов
-UID:90c721ed3d164c839be32cc6c9b6864c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T131500Z
-LOCATION:--каф.
-DTSTART:20250920T114500Z
-SUMMARY:ЛК Практическое программирование и инфраструктура IT-проектов
-UID:13b319079ac2c9c5253ec5b88a6cf2df
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T150000Z
-LOCATION:--каф.
-DTSTART:20251028T133000Z
-SUMMARY:ЛК Гибкие методологии разработки цифровых продуктов
-UID:a847fe3a9128b2fbb55cc8864d4e0dcb
+DTEND:20260402T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260402T133000Z
+SUMMARY:ЛР Системный дизайн
+UID:07ced79cb622a109e6820d35ff5bddbf
 END:VEVENT
 END:VCALENDAR

@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260505T091500Z
+LOCATION:24-531
+DTSTART:20260505T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:428f045babcc7fa7d6bf1540aa52a594
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20251007T091500Z
 LOCATION:24-625
 DTSTART:20251007T074500Z
 SUMMARY:ЛР Информационные технологии подготовки производства
 UID:2e1ef503a95b10c55aba47ef8c8ca004
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260407T131500Z
+LOCATION:24-656
+DTSTART:20260407T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:3372ce18e66f31ad3342189fde1e47d2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T073000Z
@@ -23,6 +39,13 @@ LOCATION:24-654
 DTSTART:20251103T100000Z
 SUMMARY:ПЗ Основы автоматики и теории управления
 UID:fc4ba0b45f340fdf120cc47c6b808927
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T091500Z
+LOCATION:--каф. 919
+DTSTART:20260320T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:67c170fe7efe0ccecba349b7ca0fbf97
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T091500Z
@@ -47,11 +70,40 @@ SUMMARY:ЛК Основы автоматики и теории управлен�
 UID:708017b2f17c5dad5285492ed1d3615f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260511T131500Z
+LOCATION:--каф. 919
+DTSTART:20260511T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:95095c3884adb7c609e341891405b50e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T091500Z
+LOCATION:24-525
+DTSTART:20260307T074500Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:9f6217a9f9b2825ddc1de083b149cbcd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251225T131500Z
 LOCATION:--каф.
 DTSTART:20251225T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:870882612b5c9ed4378a5fb022af983c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T131500Z
+LOCATION:--каф. 919
+DTSTART:20260420T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:aeaa27e753aeb20442404d4e306380d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260413T113000Z
+LOCATION:24-654
+DTSTART:20260413T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:fd10458cc0f8ad43fd5a9573c5ce0db7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
@@ -62,11 +114,56 @@ SUMMARY:ПЗ Основы менеджмента
 UID:9b6198e4082e2d6a05633cccf81d05ac
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cea00a3641bc73efb16c6ac9c514cf6e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251113T091500Z
 LOCATION:--каф.
 DTSTART:20251113T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7f7db278d92142f854484d5c19cc402a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T091500Z
+LOCATION:--каф.
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:00ec1ea162185b337c3518e51b5991d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260216T113000Z
+LOCATION:24-654
+DTSTART:20260216T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:e399ffd8c125bfa005069242ddfbde08
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260429T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a7ff73f9a3a5eb01c60981742482b051
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260513T113000Z
+LOCATION:24-654
+DTSTART:20260513T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:9a2544eaacc70921a2a16dba4ae34a42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260406T073000Z
+LOCATION:24-600
+DTSTART:20260406T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:e66bb5e2b3c0a03291a64970488518e6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T131500Z
@@ -92,6 +189,14 @@ SUMMARY:ПЗ Основы менеджмента
 UID:cf2a68d4721760273a023c8f461f3ef8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260518T091500Z
+LOCATION:24-600
+DTSTART:20260518T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:9b36bd78ad50a6b5e18f91eafa12cdfa
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T091500Z
 LOCATION:--каф.
 DTSTART:20250911T074500Z
@@ -106,12 +211,35 @@ SUMMARY:ЛР Конструкция летательных аппаратов
 UID:9ce29038728e66a464f9aba11622baf4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ecc8ad7588a7b87172b45d17771a7596
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20250902T113000Z
 LOCATION:24-654
 DTSTART:20250902T100000Z
 SUMMARY:ЛК Информационные технологии подготовки производства
 UID:64ef1dab64abf74dff5e8ff9f64ba1bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260401T073000Z
+LOCATION:24-602
+DTSTART:20260401T060000Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:f5a5445917d06d9cf5b6cd596ebc4dd7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260506T113000Z
+LOCATION:24-654
+DTSTART:20260506T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:43846f0468127537e7b8387571b1d61a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
@@ -130,11 +258,26 @@ SUMMARY:ЛК Электронные устройства приводных си
 UID:2543175728e5a9caa05dbd8b295db00f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260429T091500Z
+LOCATION:9-104
+DTSTART:20260429T074500Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:14158402f2487033a37a776adc90a483
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T113000Z
 LOCATION:--каф.
 DTSTART:20251120T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:664a3c10ca73c5695753410514e4d21a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4e8c322069f7e2d4f316ec0b53548c73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -145,6 +288,13 @@ SUMMARY:ПЗ Учебно-исследовательская работа сту
 UID:0cbf2722b0d8adb4e995780dbf53cff2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7b675eaa9903c82309480eaccc321e7d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
 DTEND:20251105T073000Z
 LOCATION:3-344
@@ -153,11 +303,58 @@ SUMMARY:ЛР Пилотажно-навигационные датчики\, пр
 UID:3d908a406e89a74f980343ac5ade46b9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260323T113000Z
+LOCATION:24-654
+DTSTART:20260323T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:43e110768673fb5b4f6dee07155aee18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260508T131500Z
+LOCATION:5-401б
+DTSTART:20260508T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:0c336e8d0976fd917317f3ce400b2b28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260310T113000Z
+LOCATION:24-600
+DTSTART:20260310T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:6466408b9d7a9ab0b706e01d17aec991
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260209T073000Z
+LOCATION:24-600
+DTSTART:20260209T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:f4cb757cbca3a28e265e7f4606c420e5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T113000Z
 LOCATION:--каф.
 DTSTART:20251204T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:76b6d79e01037e3bd684a66ff6ffc7a9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T073000Z
+LOCATION:--каф.
+DTSTART:20260212T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:706a0cfc03650e04719f3d0374347d28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260427T073000Z
+LOCATION:24-600
+DTSTART:20260427T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:1aa12a271a7a372c6e6c6786b395cbbc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -168,11 +365,27 @@ SUMMARY:ЛК Электронные устройства приводных си
 UID:197ae11081c4027cc3d231e713b6adab
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260513T073000Z
+LOCATION:9-104
+DTSTART:20260513T060000Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:6af1f94f6dfbedc6b7b5e104becdfb39
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T131500Z
 LOCATION:--каф.
 DTSTART:20251002T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b105346c23636e77897b9cb9d7cf190e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260407T113000Z
+LOCATION:24-600
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:f1f22720bee47f8e34a9d4f2e6a87267
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T113000Z
@@ -196,6 +409,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:f74c98f60c2f7b27d0652ec5acff28e9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260415T113000Z
+LOCATION:24-654
+DTSTART:20260415T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:4729b72ae157e6a6f0934fb1a5c93f06
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плыкин Евгений Иванович
 DTEND:20251212T091500Z
 LOCATION:ГАК-307
@@ -204,11 +425,41 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:30aca39e35f3bb6a7366015e863f0b58
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:57Г-303
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Электромеханика
+UID:f9dbaf0f57c0bf27e1d5a3a09c13470f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260522T150000Z
+LOCATION:7-401
+DTSTART:20260522T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:4fbf15ffdf69387aad10cb6d0b21c401
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251113T073000Z
 LOCATION:--каф.
 DTSTART:20251113T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:47696761badd902f9f85cf907689a6c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260406T113000Z
+LOCATION:24-654
+DTSTART:20260406T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:ff3808dedc58e52d7055e642252cba68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T091500Z
+LOCATION:--каф. 919
+DTSTART:20260417T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:14528377ac620eb8cb37827dac04cb10
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T091500Z
@@ -226,11 +477,26 @@ SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:90afdc0addd51f8aee6da743b9f606d3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260220T150000Z
+LOCATION:7-401
+DTSTART:20260220T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:2b7a16e0a2a77c75673a5cebd549111b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T073000Z
 LOCATION:--каф.
 DTSTART:20250911T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:4037074c75e24a7ae69e2f1843abbbfb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T073000Z
+LOCATION:57Г-502
+DTSTART:20260418T060000Z
+SUMMARY:ЛР Электромеханика
+UID:6694c4ef2a25dd54e3b1ee4ddc7fb97c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
@@ -241,12 +507,58 @@ SUMMARY:ПЗ Иностранный язык
 UID:15b7414701bf61e40eed09a23154f3bc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260515T131500Z
+LOCATION:5-401б
+DTSTART:20260515T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:11c2d8079167b2152d22213f4cc7d93d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260316T091500Z
+LOCATION:24-600
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:dbeda8dd259024eb16be2176540516c6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T131500Z
+LOCATION:--каф.
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a9d3aa29476cfb346528f9254a025bc7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250930T091500Z
 LOCATION:24-527
 DTSTART:20250930T074500Z
 SUMMARY:ЛР Информационные технологии в конструировании приводных систем
 UID:47896a3d62747be3060ee5747cfd535e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260316T073000Z
+LOCATION:24-600
+DTSTART:20260316T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:cb6235a49986a6ab22dd31d0cb563805
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260513T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:88d84d8a648723990e4f7f81e7f84c61
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260420T091500Z
+LOCATION:24-600
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:c862e3fc06108e625c382e8d4722b807
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -264,6 +576,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:9fd36bb18055ac7a19c7dc4bbda50dcb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:569cbea67ec68a0b1436d673d646114c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260601T091500Z
+LOCATION:24-600
+DTSTART:20260601T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:33a7dc23809839bb09e26a2e6b74599d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250915T131500Z
 LOCATION:--каф. 919
 DTSTART:20250915T114500Z
@@ -279,12 +606,41 @@ SUMMARY:ЛК Основы автоматики и теории управлен�
 UID:54f58a2abcfb087fd562beae9cb9666f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T113000Z
+LOCATION:57Г-303
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Электромеханика
+UID:4d4183d033ca6e283dc5cf8301f2bd14
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fc9bd7a686446770694c6da653001fbd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20251117T091500Z
 LOCATION:24-600
 DTSTART:20251117T074500Z
 SUMMARY:ЛК Основы автоматики и теории управления
 UID:40139bd67647af39689b28fe5ca4ad18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Милославский Ярослав Георгиевич
+DTEND:20260519T150000Z
+LOCATION:24-656
+DTSTART:20260519T133000Z
+SUMMARY:ЛР Электронные устройства приводных систем
+UID:ea29bad953ff37e16e1d28c0bea30f60
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:88fd815e272b43270893d67ee4168e0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Милославский Ярослав Георгиевич
@@ -303,6 +659,21 @@ SUMMARY:ЛР Информационные технологии подготов�
 UID:eab28c21e8331e9ae2144fe92a9c89c1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:35cbea4234d838483ad09af20b0bfdc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260303T113000Z
+LOCATION:24-600
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:cbed1ea3527fae810adffbd4e40b35a6
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T113000Z
 LOCATION:--каф.
 DTSTART:20251023T100000Z
@@ -315,6 +686,21 @@ LOCATION:--каф. 919
 DTSTART:20251208T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:abd05cb5340867e1217a9945705f59cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260306T131500Z
+LOCATION:5-401б
+DTSTART:20260306T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:2a3f41597c2f5e127a7ac257b8d5b355
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T091500Z
+LOCATION:--каф.
+DTSTART:20260312T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5d29d529fd1c78a6969f941e014b5600
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -331,6 +717,20 @@ LOCATION:24-656
 DTSTART:20251121T100000Z
 SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:754710274d8621f02e0875b4bfc0a72b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:08d08a327dea2307f57aef1c1830a2a5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T091500Z
+LOCATION:--каф.
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4b2057a3866fabd3cf9dc2c15d944bc1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T131500Z
@@ -362,6 +762,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:b94a29d04ebb92d62e714b72883a5112
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T091500Z
+LOCATION:--каф.
+DTSTART:20260604T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0449f3ddd8aa1783cb072ea937f667f0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250917T131500Z
 LOCATION:9-111
 DTSTART:20250917T114500Z
@@ -377,6 +784,21 @@ SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:5f0e8e2a37b9ec23785abd814b04d7e7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T131500Z
+LOCATION:--каф. 919
+DTSTART:20260518T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:fa09efb4790faae741a73baca1ac7598
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260414T073000Z
+LOCATION:24-527
+DTSTART:20260414T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:0491c75b38bf4a1a2b27b839a7dc318b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251002T073000Z
 LOCATION:--каф.
 DTSTART:20251002T060000Z
@@ -390,6 +812,35 @@ LOCATION:ГАК-307
 DTSTART:20251105T100000Z
 SUMMARY:ЛК Пилотажно-навигационные датчики\, приборы и системы
 UID:d3cd8f1e5d6a0bf0b04d60a8637a940f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260512T073000Z
+LOCATION:24-527
+DTSTART:20260512T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:3efce6b2c1154a9aaa9c5d2ecd0a00fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T131500Z
+LOCATION:--каф. 919
+DTSTART:20260330T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:80cf1433d75eba84c2a6526116406006
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:206b6bdeba4897d8be3161af67eea7bf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260211T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c66e5c66bea1df4b0971806f6c893b51
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T073000Z
@@ -422,6 +873,29 @@ SUMMARY:ПЗ Военная подготовка
 UID:eaee35b9edc3ec8b04fdef712c74f4d6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260306T150000Z
+LOCATION:7-401
+DTSTART:20260306T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:ceaef90035fe6b0f3309c37428f7bea4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260428T091500Z
+LOCATION:24-527
+DTSTART:20260428T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:e5dc91755401a2cd1f303964c9349b99
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T091500Z
+LOCATION:--каф. 919
+DTSTART:20260605T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9aa56c58b72bed0ae4ecf805219819e0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250909T073000Z
 LOCATION:24-654
@@ -438,6 +912,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:8be5474bf074c26cd34540c6272e3aa0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260304T113000Z
+LOCATION:24-654
+DTSTART:20260304T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:979dc55db7450934f4bb8079ae5dd1c8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251016T113000Z
 LOCATION:--каф.
 DTSTART:20251016T100000Z
@@ -451,6 +933,13 @@ LOCATION:ГАК-307
 DTSTART:20251119T100000Z
 SUMMARY:ЛК Пилотажно-навигационные датчики\, приборы и системы
 UID:483292bf24ee806d9c28fdb84902f7f3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:--каф.
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f0e53b139ca4a6c1024908662565965a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Милославский Ярослав Георгиевич
@@ -469,6 +958,43 @@ SUMMARY:ПЗ Иностранный язык
 UID:8797983c86df9a60e6b93076466b7062
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260323T073000Z
+LOCATION:24-600
+DTSTART:20260323T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:fc80b9b05862ba0b340ae1ad3aec181c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:57Г-303
+DTSTART:20260410T100000Z
+SUMMARY:ЛК Электромеханика
+UID:f04d252261cb59ba6696a1d05aca652f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:--каф.
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d77f3b7b622e33c932becbcc88493f2c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T091500Z
+LOCATION:--каф. 919
+DTSTART:20260410T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c218879ca677daa6cc6d2f4590ae048c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260218T073000Z
+LOCATION:24-602
+DTSTART:20260218T060000Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:7abe6dc108d0d7a98c52941634ebe2d8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T073000Z
 LOCATION:--каф.
 DTSTART:20251106T060000Z
@@ -481,6 +1007,27 @@ LOCATION:--каф.
 DTSTART:20251106T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:29c50f1d1cc7d9745dae6ad98c7a24a6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T091500Z
+LOCATION:--каф. 919
+DTSTART:20260403T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:25878141f7f751939a789b260bd8a4cc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T073000Z
+LOCATION:24-525
+DTSTART:20260404T060000Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:958efe69363177be0909b1150a46a73f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T131500Z
+LOCATION:--каф. 919
+DTSTART:20260209T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:f7929f085803dc75d8f08a8f2a91e432
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
@@ -499,6 +1046,14 @@ SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:1c015eb3ffb29ce6c06c5a606c42c817
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260417T150000Z
+LOCATION:7-401
+DTSTART:20260417T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:bc9b2528ad1b653ca707ea72e6da3867
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20251103T073000Z
 LOCATION:24-656
@@ -513,6 +1068,14 @@ LOCATION:24-654
 DTSTART:20251202T100000Z
 SUMMARY:ЛК Информационные технологии подготовки производства
 UID:e12232ca19fe05627501922979097272
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260318T091500Z
+LOCATION:24-602
+DTSTART:20260318T074500Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:a144456ef8ccd2c78a38cd71f1c0b45d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
@@ -531,6 +1094,21 @@ SUMMARY:ЛР Информационные технологии подготов�
 UID:77c1609595e57d5965ce9c2c55dde3ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260210T131500Z
+LOCATION:24-656
+DTSTART:20260210T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:807cc48c5066657289f2b9a6fdcecb92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T131500Z
+LOCATION:--каф. 919
+DTSTART:20260601T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2a71bbc58f06f62f9dbe2816a6167554
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250902T073000Z
 LOCATION:24-654
@@ -546,11 +1124,54 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:7336f80e8eb75010d6656d48a48e8199
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:57Г-303
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Электромеханика
+UID:d1c5b41db2582da7996aa212a7b953de
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e70691a908f57847fe635700bb3dcb2f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:--каф.
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cfa19d315e415c0edb9a32d579723230
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260401T091500Z
+LOCATION:24-602
+DTSTART:20260401T074500Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:0d5514df6fb3f24653abf8438d1fa017
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T131500Z
 LOCATION:--каф.
 DTSTART:20251009T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:0045c56304cdee4210f7dabff8c6285f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:--каф.
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dfa135472df0c51509211dc2cc8f1518
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:57Г-303
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Электромеханика
+UID:d008bf17d32f7242bdffccbf9d098e8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
@@ -566,6 +1187,20 @@ LOCATION:1-2 ангар
 DTSTART:20251004T074500Z
 SUMMARY:ЛР Конструкция летательных аппаратов
 UID:05227144ab5423a7a28261b2b2a3003e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T091500Z
+LOCATION:--каф. 919
+DTSTART:20260327T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:a80062ef47ec489cc532bc05e7e6cc37
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260325T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:079282667bae54b4e32e2594fe4ad4d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МУРМАНЦЕВА ЕКАТЕРИНА ЮРЬЕВНА
@@ -584,12 +1219,51 @@ SUMMARY:ЛР Электронные устройства приводных си
 UID:9f9bb429e5a4281627975538ab78d9b0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260209T091500Z
+LOCATION:24-600
+DTSTART:20260209T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:bb0613132b076bc5a428ef78c89b55c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260420T113000Z
+LOCATION:24-654
+DTSTART:20260420T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:5ae5c13c31cec88a6ecab07cf502ff60
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20251007T073000Z
 LOCATION:24-625
 DTSTART:20251007T060000Z
 SUMMARY:ЛР Информационные технологии подготовки производства
 UID:2aca4422e3e74e4c147726c346be926c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260421T113000Z
+LOCATION:24-600
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:f275c3afaa40c95e206fbfb2c19ae704
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d0a629319fa86ae53ab734ca0136ca46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260220T131500Z
+LOCATION:5-401б
+DTSTART:20260220T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:80026efbe2e29edef15a4fd9b1f44186
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -600,12 +1274,35 @@ SUMMARY:ЛР Экология
 UID:fedd0a377e88355087b28d486462a626
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260526T113000Z
+LOCATION:24-600
+DTSTART:20260526T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:9a7380ed78e0ac52a8a0346c9bcbae22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20250929T091500Z
 LOCATION:24-600
 DTSTART:20250929T074500Z
 SUMMARY:ЛК Основы автоматики и теории управления
 UID:8a47f08302f1bd9e3f41839c79cc1d1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260415T073000Z
+LOCATION:9-104
+DTSTART:20260415T060000Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:1983eee08afd3aa314e0aa880dfc65f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:42447dfc7c7ac98504f90b1ada2ea776
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250929T131500Z
@@ -623,11 +1320,39 @@ SUMMARY:Экзамен Электронные устройства привод�
 UID:22869589aec11e91d30eb7a18e8eeef7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260527T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:16e349d0387b72852fee5b94a626838f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251031T073000Z
 LOCATION:--каф. 919
 DTSTART:20251031T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:5a001b6cdba70a922cc5112d186dc302
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T091500Z
+LOCATION:--каф. 919
+DTSTART:20260227T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:a0f133ad427e87b15c3819f307446a63
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260408T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:2c02446a2ce8847ab9007f963220756c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T131500Z
+LOCATION:--каф. 919
+DTSTART:20260406T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2e8b2e24b9d870fe3d6c3fe3fa68e20f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -654,12 +1379,41 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:bd1057fe32a38504fa1524d02d42f1d9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260221T073000Z
+LOCATION:24-525
+DTSTART:20260221T060000Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:03647fdf552fc7738cf4156d21abba4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T073000Z
+LOCATION:57Г-502
+DTSTART:20260516T060000Z
+SUMMARY:ЛР Электромеханика
+UID:edecef7364f8f07dc07ae4f0e2792166
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T091500Z
+LOCATION:--каф.
+DTSTART:20260423T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cb731c528888dfd6c7a49e0282a5aa7e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20250929T113000Z
 LOCATION:24-654
 DTSTART:20250929T100000Z
 SUMMARY:ПЗ Основы автоматики и теории управления
 UID:9ca7eb0ff1a09ac986c9083bd4f11666
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260324T113000Z
+LOCATION:24-600
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:cf107b1b45ddce04e077245bc93686e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
@@ -678,6 +1432,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:e3bc495ab1374e814a22ff9700d35d0e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260316T113000Z
+LOCATION:24-654
+DTSTART:20260316T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:980ff6a4408d96e27b4cf02a6a0c3087
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
 DTEND:20251217T073000Z
 LOCATION:3-344
@@ -694,6 +1456,14 @@ SUMMARY:ПЗ Основы менеджмента
 UID:1ddf5b02c5fd3eb22afdb5b566daf449
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260410T131500Z
+LOCATION:5-401б
+DTSTART:20260410T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:892d994333f18dc32b668f53c39c27d2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T131500Z
 LOCATION:--каф.
 DTSTART:20251218T114500Z
@@ -706,6 +1476,14 @@ LOCATION:--каф. 919
 DTSTART:20251010T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:a6857015c669661090fc0d9a3cd4ad9e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260311T113000Z
+LOCATION:24-656
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Информационные технологии в конструировании приводных систем
+UID:5385aab530054caf90cfcd91922a7c5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
@@ -753,6 +1531,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:061ad6d4c5d14370855fe6bb65839b89
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:--каф.
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8ca388a088832bd877e08f9339c41c6b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
 DTEND:20251105T091500Z
 LOCATION:3-344
@@ -761,12 +1546,28 @@ SUMMARY:ЛР Пилотажно-навигационные датчики\, пр
 UID:1b32d4ffeef622e912646362c8321b3e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260518T073000Z
+LOCATION:24-600
+DTSTART:20260518T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:273410beafab2ecbf722443551e6c3d6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МУРМАНЦЕВА ЕКАТЕРИНА ЮРЬЕВНА
 DTEND:20251212T131500Z
 LOCATION:5-111
 DTSTART:20251212T114500Z
 SUMMARY:ЛК Экология
 UID:3b0968182ff21418b05d23b7deb62801
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260330T073000Z
+LOCATION:24-600
+DTSTART:20260330T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:7d35e0fd3334b73e7b2510b216f0df8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -784,12 +1585,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:8cd21160acb177afb5d06d712132870d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:--каф.
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b90c6969f9c24f8af1ba9ea76f4161af
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20251024T113000Z
 LOCATION:24-656
 DTSTART:20251024T100000Z
 SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:a6269312c0e2491ec1deaa2c989d392b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fa8f685cab8615a2d957fc274f85ee10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -824,6 +1639,14 @@ SUMMARY:ЛР Информационные технологии подготов�
 UID:979af998b6cab62965a3b8782e19efbc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260225T113000Z
+LOCATION:24-656
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Информационные технологии в конструировании приводных систем
+UID:5371d448a31d30e5f7c2ce86c0c124cd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251017T073000Z
 LOCATION:--каф. 919
 DTSTART:20251017T060000Z
@@ -846,12 +1669,42 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:6f6d54b03d233aff9e7d855500775fc8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260218T091500Z
+LOCATION:24-602
+DTSTART:20260218T074500Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:7b7a088ea7a83d38dd067b6754bd1549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260513T091500Z
+LOCATION:9-104
+DTSTART:20260513T074500Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:96fc6492b1b32e47421ae27dc9b0711e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20251208T091500Z
 LOCATION:24-600
 DTSTART:20251208T074500Z
 SUMMARY:ЛК Основы автоматики и теории управления
 UID:723ac58636af6e011354c134b6c5158a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T073000Z
+LOCATION:--каф.
+DTSTART:20260305T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5069836fe2e2bfd73c81d012317e42eb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:94aa9f28ea5fd8b13047d2d7ae1b83b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
@@ -870,6 +1723,14 @@ SUMMARY:ЛР Пилотажно-навигационные датчики\, пр
 UID:b238d8c0bc50be1082f1890324fb1d24
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260210T091500Z
+LOCATION:24-531
+DTSTART:20260210T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:c59f80dd32a3bb0d80f2c16a253ebed6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20250902T131500Z
 LOCATION:24-656
@@ -884,6 +1745,13 @@ LOCATION:9-104
 DTSTART:20251210T060000Z
 SUMMARY:ЛР Прикладная механика жидкости и газа
 UID:ffa500ea4f06972bc1d1312fffdeebaa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:--каф.
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d1a83e53ffa7e40c195e4d24be78af09
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251110T131500Z
@@ -906,6 +1774,14 @@ LOCATION:--каф.
 DTSTART:20251023T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:755721109b29df2907ee1acce811ddb1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260218T113000Z
+LOCATION:24-654
+DTSTART:20260218T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:00184bdf37593c115c81eb90e3631df2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T113000Z
@@ -946,6 +1822,38 @@ SUMMARY:ЛР Информационные технологии подготов�
 UID:b7bb2c415fdecd010707b8d09b882faa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260216T091500Z
+LOCATION:24-600
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:594cfddcec02e62c4a5a1a81e86deacf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260318T113000Z
+LOCATION:24-654
+DTSTART:20260318T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:68d8713a0cc8391dff89428a0a46ed4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260605T150000Z
+LOCATION:7-401
+DTSTART:20260605T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:b19274309b8e9e0224ec0244e066a39d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260505T131500Z
+LOCATION:24-656
+DTSTART:20260505T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:23991521e2cfa7775a28d61233d9ee9b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20250916T131500Z
 LOCATION:24-656
@@ -962,6 +1870,21 @@ SUMMARY:ЛК Основы автоматики и теории управлен�
 UID:e256ed42e5f075ee498ee8b1dcdc863d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260304T073000Z
+LOCATION:24-602
+DTSTART:20260304T060000Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:b8242e5afe0225b560755bb618fd9276
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T091500Z
+LOCATION:--каф. 919
+DTSTART:20260213T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:21dda9ec890a23b60cada8728471a670
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
 DTEND:20251107T131500Z
 LOCATION:5-107А
@@ -975,6 +1898,14 @@ LOCATION:--каф.
 DTSTART:20251030T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:831d19e37210a54df007482526bf87dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260211T113000Z
+LOCATION:24-656
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Информационные технологии в конструировании приводных систем
+UID:2d17a71421b0654df3db3033f5b8fd34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
@@ -1008,12 +1939,27 @@ SUMMARY:ЛР Информационные технологии подготов�
 UID:c1085c604890ab2f849b26975f7493c9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260401T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:0fc98d4375226ec864679cacdca6f1b9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250930T073000Z
 LOCATION:24-527
 DTSTART:20250930T060000Z
 SUMMARY:ЛР Информационные технологии в конструировании приводных систем
 UID:f1fe90c5ae45a18e3658046d746af1e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260302T073000Z
+LOCATION:24-600
+DTSTART:20260302T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:6db840c5c7f5d8bbca12615f6a29269b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T073000Z
@@ -1037,12 +1983,50 @@ SUMMARY:ПЗ Военная подготовка
 UID:c439a0f6db2afe6c634507fc80628fae
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T073000Z
+LOCATION:--каф.
+DTSTART:20260604T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b828f23a04ad713cb8cffd205abcb176
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260217T131500Z
+LOCATION:24-656
+DTSTART:20260217T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:38a2919256c4999235920aa32ccf5dd2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260427T113000Z
+LOCATION:24-654
+DTSTART:20260427T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:54111c8f21380d27b69618e6b963f917
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20250909T113000Z
 LOCATION:24-654
 DTSTART:20250909T100000Z
 SUMMARY:ЛК Информационные технологии подготовки производства
 UID:69bb3defe1b80508ce90d92c693a5c09
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T091500Z
+LOCATION:--каф. 919
+DTSTART:20260522T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:fe84b4f24d54a0a588045108f0c1d364
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260303T131500Z
+LOCATION:24-656
+DTSTART:20260303T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:835179af6620b5155b44c1011e664548
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -1068,6 +2052,14 @@ SUMMARY:ЛК Экология
 UID:48917d76654e9a3b79e06e21b3f9361e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260227T150000Z
+LOCATION:7-401
+DTSTART:20260227T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:350a2563caf9e68b3781e5a1a1226722
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251225T073000Z
 LOCATION:--каф.
 DTSTART:20251225T060000Z
@@ -1075,11 +2067,64 @@ SUMMARY:ПЗ Военная подготовка
 UID:bf3fdbf3d1d92606ed50d288df520af6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260407T091500Z
+LOCATION:24-531
+DTSTART:20260407T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:b0af6fe00ffa666920437b58f0765acc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260511T091500Z
+LOCATION:24-600
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:d0ce3d3cb7e83b3c40449e357269ab31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260519T113000Z
+LOCATION:24-600
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:1d1016110e3ee0f99ae21ee79f8259b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260313T131500Z
+LOCATION:5-401б
+DTSTART:20260313T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:50a38ea54a988550456f43d5330c377a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T091500Z
+LOCATION:--каф. 919
+DTSTART:20260306T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:3b27f708a09a97e2a72a03b6b4b545b2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250908T131500Z
 LOCATION:--каф. 919
 DTSTART:20250908T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:63daf638f895fbff7b842f9c4e42a085
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:--каф.
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f5108c36715980b2266fdb35ddd5c38f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:--каф.
+DTSTART:20260430T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:276b84685bb44ba8e30733f7659c3179
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T131500Z
@@ -1113,6 +2158,14 @@ SUMMARY:ЛК Основы менеджмента
 UID:e80a091f1cc323ec95a200df92a2fa30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260601T073000Z
+LOCATION:24-600
+DTSTART:20260601T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:c4cbe24b8e80285c18b9c4a79a2d53ce
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251106T113000Z
 LOCATION:--каф.
 DTSTART:20251106T100000Z
@@ -1128,12 +2181,64 @@ SUMMARY:ЛР Экология
 UID:47e4d458219ef81ebb12aaf3c74522ee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260327T131500Z
+LOCATION:5-401б
+DTSTART:20260327T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:1ba49b130beb8a9b596b4bca1a8a5781
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260602T113000Z
+LOCATION:24-600
+DTSTART:20260602T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:09be57654615ea1a9ce4c05ade758051
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T131500Z
+LOCATION:--каф. 919
+DTSTART:20260216T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:51ea4c7e02543d933f0a40b1da188637
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1a5fcb3f36190426c591aeacce0079be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260303T073000Z
+LOCATION:24-527
+DTSTART:20260303T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:daae680857978875472f7aa3804d34ee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20250919T113000Z
 LOCATION:24-656
 DTSTART:20250919T100000Z
 SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:d0f90a3e0acd731e27437260cbea755c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260304T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b5ff61e27a3d47774081f507d6e05cd4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф.
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:899f5a0746a9435d51717be9a2b5dc4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
@@ -1152,12 +2257,26 @@ SUMMARY:ЛК Основы автоматики и теории управлен�
 UID:23575b6f540ec7e612459bfc52a77755
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260323T131500Z
+LOCATION:--каф. 919
+DTSTART:20260323T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:0c9519d82404f6e6e28272b3cb103c28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20260116T073000Z
 LOCATION:24-654
 DTSTART:20260116T060000Z
 SUMMARY:Экзамен Информационные технологии подготовки производства
 UID:3b7c163dae4fa447e8720a6bfdf2c660
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф.
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:36699b8effafec410b2c3d6611d7f0a1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T131500Z
@@ -1191,6 +2310,36 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:221eebfae69f7111e552d28ccbec7cee
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:57Г-303
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Электромеханика
+UID:320e38cb452e438307f78b9ed059579d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260429T113000Z
+LOCATION:24-654
+DTSTART:20260429T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:6e2864e09b591929454c784f84c6e4b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260210T113000Z
+LOCATION:24-600
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:0fef836a84c4cd0c1c42a25007bbd10c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T091500Z
+LOCATION:--каф. 919
+DTSTART:20260508T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7172d2cea992fe515bd7adc4c6f44050
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
 DTEND:20251008T150000Z
 LOCATION:Орш. В-201
@@ -1215,11 +2364,42 @@ SUMMARY:Экзамен Основы автоматики и теории упр�
 UID:42e76773c60a8f8746a5ea402c1fcbb3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260317T113000Z
+LOCATION:24-600
+DTSTART:20260317T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:1f17a3c4ed5231ae7cf82aa3149e4592
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:57Г-303
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Электромеханика
+UID:c59f98504f436f8a2b1fe74e7f2beb8b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251124T131500Z
 LOCATION:--каф. 919
 DTSTART:20251124T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:d93b3bff88cac6e6b09306c83b6b7073
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260317T091500Z
+LOCATION:24-527
+DTSTART:20260317T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:8a8057216ef57b5a91d28005b8b548bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260421T091500Z
+LOCATION:24-531
+DTSTART:20260421T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:9006f519083b851a1bf6cd24f1cd870c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -1228,6 +2408,14 @@ LOCATION:3-431
 DTSTART:20250924T060000Z
 SUMMARY:ЛР Экология
 UID:bbfbfe59bcf92204a2d754cfabbdce36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260414T131500Z
+LOCATION:24-656
+DTSTART:20260414T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:a6f6d8b58fde5ad244e176ee43d18beb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МУРМАНЦЕВА ЕКАТЕРИНА ЮРЬЕВНА
@@ -1244,6 +2432,14 @@ LOCATION:ГАК-307
 DTSTART:20250905T074500Z
 SUMMARY:ЛК Конструкция летательных аппаратов
 UID:79d1ec03a6adefe043ecd67a6a4180a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260520T113000Z
+LOCATION:24-654
+DTSTART:20260520T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:14112ed3af9c4701be75418e3ebc2dc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -1273,6 +2469,30 @@ LOCATION:--каф. 919
 DTSTART:20251006T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:62f21f696c128a849a04f26a90d5f948
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260224T131500Z
+LOCATION:24-656
+DTSTART:20260224T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:f55129740a3a0d8317d104d568c5477b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260318T073000Z
+LOCATION:24-602
+DTSTART:20260318T060000Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:7f6c790c2e38ebe39d9aba4a9c451c14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260413T073000Z
+LOCATION:24-600
+DTSTART:20260413T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:2caa453f8ab84550dc3b7486c57f6174
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
@@ -1322,6 +2542,14 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:e180935aa2648974c236183cdc96c41f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260408T113000Z
+LOCATION:24-656
+DTSTART:20260408T100000Z
+SUMMARY:ЛК Информационные технологии в конструировании приводных систем
+UID:10dcdf832e41b68b87fd06980eea2478
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251120T073000Z
 LOCATION:--каф.
 DTSTART:20251120T060000Z
@@ -1337,6 +2565,22 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:ee7c13f53d15f0decdb4977d65499446
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260424T131500Z
+LOCATION:5-401б
+DTSTART:20260424T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:e943490ca748983f63205a3b3d34ae3b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260401T113000Z
+LOCATION:24-654
+DTSTART:20260401T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:5ce09e491b67da1baac5cb1675460f18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20251125T113000Z
 LOCATION:24-654
@@ -1345,11 +2589,41 @@ SUMMARY:ЛК Информационные технологии подготов�
 UID:ef79d39d43a3bf86a6f562c6ed3a7430
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:57Г-303
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Электромеханика
+UID:f1c317fb4aae3d4072825bef7fa04c5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260428T131500Z
+LOCATION:24-656
+DTSTART:20260428T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:236b49a71ff4792f880f1c2de3e866e3
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T131500Z
 LOCATION:--каф. 919
 DTSTART:20250922T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:78266de7e6b724c6b6c78cf1af67297f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260428T113000Z
+LOCATION:24-600
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:046b075dffea1ffa9a8dac7ef018b348
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T091500Z
+LOCATION:--каф.
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:990b90d16caec6afc749a86475448aa3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
@@ -1365,6 +2639,13 @@ LOCATION:--каф. 919
 DTSTART:20251107T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:236dff8036e2a3fa1f6277d6bd205a57
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fd16ddac25c5ddcaeffe2b8c9bb7a739
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
@@ -1383,11 +2664,33 @@ UID:f2ccd7fa169e7cd3f502f20f20f924b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260330T091500Z
+LOCATION:24-600
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:e81fb68753fc9ad31c71188dfce4941f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4dcd636901d0c437e6239183bb517365
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20250922T113000Z
 LOCATION:24-654
 DTSTART:20250922T100000Z
 SUMMARY:ПЗ Основы автоматики и теории управления
 UID:09108e3f293045270d4fd409b3eafcb4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:--каф.
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9735362db04ab094ab5090f4ada0b217
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Милославский Ярослав Георгиевич
@@ -1398,12 +2701,26 @@ SUMMARY:ЛР Электронные устройства приводных си
 UID:0663f7bb43222429a0eb1029abe6a92f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260506T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260506T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:14198fda2f3ae53a0c947c3c338baf70
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плыкин Евгений Иванович
 DTEND:20250919T091500Z
 LOCATION:ГАК-307
 DTSTART:20250919T074500Z
 SUMMARY:ЛК Конструкция летательных аппаратов
 UID:83be837bdf7977268504f2f11b01fcee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T091500Z
+LOCATION:--каф.
+DTSTART:20260409T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:047cee8feeaae1146465df22ca189f66
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
@@ -1422,11 +2739,57 @@ SUMMARY:ЛК Информационные технологии подготов�
 UID:113b391523fadb114e1fb86fe115f337
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260330T113000Z
+LOCATION:24-654
+DTSTART:20260330T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:5ba44cc270adc1150c9b083aca3eda0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260224T091500Z
+LOCATION:24-531
+DTSTART:20260224T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:8a7ef332b78a0322bfd6c93adb69b210
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T091500Z
+LOCATION:--каф.
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1a74facec21913923939a70e12b1ab35
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T091500Z
 LOCATION:--каф.
 DTSTART:20251204T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:4719670180cdb1d17e5bab3f678f2e55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260504T113000Z
+LOCATION:24-654
+DTSTART:20260504T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:7d7392d9ef573da8db7db351f8087a4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T091500Z
+LOCATION:--каф. 919
+DTSTART:20260515T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:97d699e3151c4730cf3b4b8e1afd3651
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260525T073000Z
+LOCATION:24-600
+DTSTART:20260525T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:a90813f248862ddc669ace53f6847663
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250901T131500Z
@@ -1442,6 +2805,22 @@ LOCATION:24-527
 DTSTART:20251209T060000Z
 SUMMARY:ЛР Информационные технологии в конструировании приводных систем
 UID:08fe8263272fde318f268bd10b96cc66
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260320T150000Z
+LOCATION:7-401
+DTSTART:20260320T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:148b90fdf5ab89addecedc26f108cc1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260428T073000Z
+LOCATION:24-527
+DTSTART:20260428T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:25392f9455fb81d1da6ff98a07618a59
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T091500Z
@@ -1467,11 +2846,32 @@ SUMMARY:ЛК Информационные технологии подготов�
 UID:40cbd7c5ed22c4f82cb2c35803ec0675
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260415T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260415T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a948a5fc20125ef65de1aaf4e102d65f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:--каф.
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d72f27feccfceb948287fa68a17409c5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251218T091500Z
 LOCATION:--каф.
 DTSTART:20251218T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:fd296c1e01f6cd55e0538bb742c4d80b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:--каф.
+DTSTART:20260604T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fb5572cb50885a839c817b393ec4e9df
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250924T131500Z
@@ -1503,12 +2903,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:a042a490b36a6ee0985fdd76ce1c9caf
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260507T091500Z
+LOCATION:--каф.
+DTSTART:20260507T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:04e946257a3a22da454db7630e6ffa61
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T091500Z
+LOCATION:--каф. 919
+DTSTART:20260529T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:58cd293f9e7b8f75ba84abfa1971445f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250916T091500Z
 LOCATION:24-654
 DTSTART:20250916T074500Z
 SUMMARY:ЛК Информационные технологии в конструировании приводных систем
 UID:3b4c9b752929196f5cf0591e69bee453
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T091500Z
+LOCATION:--каф. 919
+DTSTART:20260424T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:46dba0ba2876599a59511d0c281829a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
@@ -1526,6 +2947,14 @@ SUMMARY:ЛР Конструкция летательных аппаратов
 UID:e5fddd3416eb00054af75f298950d542
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260410T150000Z
+LOCATION:7-401
+DTSTART:20260410T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:7ac5e5431c16a7b5738f92797e68dfc0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20251202T091500Z
 LOCATION:24-625
@@ -1541,12 +2970,28 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:a8364be0526c6840c35f8435f8bfc83b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Милославский Ярослав Георгиевич
+DTEND:20260519T131500Z
+LOCATION:24-656
+DTSTART:20260519T114500Z
+SUMMARY:ЛР Электронные устройства приводных систем
+UID:d35e81ea1c2d7811e7fffc78d1e46c09
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20250912T113000Z
 LOCATION:24-656
 DTSTART:20250912T100000Z
 SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:eb68f8a9525314d6359ea946c60c9e38
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260327T150000Z
+LOCATION:7-401
+DTSTART:20260327T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:0d01e37b25a1ea3b4e2aeb9a079f5be9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251030T073000Z
@@ -1569,6 +3014,13 @@ LOCATION:--каф. 919
 DTSTART:20251020T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:79e5de6cca767fd3c0c5e0cbeec57ff3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260225T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:272c84dfcc3131f946326092a46c5fe8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -1611,6 +3063,13 @@ SUMMARY:ЛР Электронные устройства приводных си
 UID:5b2bcb1e3bb2e47072bdcfbb5b896bc9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260427T131500Z
+LOCATION:--каф. 919
+DTSTART:20260427T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:15fee95e465cd22e4c2256792b014ff9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251201T131500Z
 LOCATION:--каф. 919
 DTSTART:20251201T114500Z
@@ -1624,6 +3083,14 @@ LOCATION:3-344
 DTSTART:20251203T074500Z
 SUMMARY:ЛР Пилотажно-навигационные датчики\, приборы и системы
 UID:a9dbcb5a27959ecdc2874d9de75f508c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260304T091500Z
+LOCATION:24-602
+DTSTART:20260304T074500Z
+SUMMARY:ЛР Оснащение летательных аппаратов
+UID:beb4807f3d550fc49c6a6282d6d871fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
@@ -1647,6 +3114,21 @@ LOCATION:--каф. 919
 DTSTART:20251114T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:f81fcb4200a20e435a845992702b2f01
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:--каф.
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6b1ef5d6ef044a1215c3621845638dcd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260303T091500Z
+LOCATION:24-527
+DTSTART:20260303T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:6c03642076f9a060bfb7a1db67cafef3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
@@ -1678,6 +3160,14 @@ LOCATION:--каф.
 DTSTART:20250918T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:4d591c871d77ca0c643d01169fd08c74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260512T113000Z
+LOCATION:24-600
+DTSTART:20260512T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:7476e484a2f3507a9520c8bbf86075bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плыкин Евгений Иванович
@@ -1726,6 +3216,58 @@ SUMMARY:ЛК Информационные технологии подготов�
 UID:c5ca47cfcd8eb4fa1a6c274a0f121e9e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260321T073000Z
+LOCATION:24-525
+DTSTART:20260321T060000Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:94f1bf58b6db4c97c0e15b01e93ec1f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260527T113000Z
+LOCATION:24-654
+DTSTART:20260527T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:bdfa9fd08374f2995b33af64529ecdde
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T091500Z
+LOCATION:24-525
+DTSTART:20260221T074500Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:2a59590179babd57e5d0d9db0c380026
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260511T073000Z
+LOCATION:24-600
+DTSTART:20260511T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:0efda8fcbf375ae4e14920efd8483364
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260512T091500Z
+LOCATION:24-527
+DTSTART:20260512T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:f7f889e50625da8086bc1b29f2ba498d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260422T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:035b6c93c01b20bd7f61f81bfe4f5d5c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:--каф.
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:74844b22cbaf963a2a990e02d2b03463
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
 DTEND:20251024T131500Z
 LOCATION:5-107А
@@ -1734,11 +3276,62 @@ SUMMARY:ПЗ Основы менеджмента
 UID:a3b8d2f6c7e2be047166061d4d4af025
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260519T091500Z
+LOCATION:24-531
+DTSTART:20260519T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:7858f8c168012b3d9b4dc18e735e06cf
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251226T073000Z
 LOCATION:--каф. 919
 DTSTART:20251226T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:8ef9246f74149365013521d27baf4e48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260325T113000Z
+LOCATION:24-656
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Информационные технологии в конструировании приводных систем
+UID:339bc5db3be86d5f009b2c80120d54f4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:258ed11f0b075b097a3836f3b403e96c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:16d573209b6931d86633a8bc935438fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф.
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5c2db656e68469dd48bf2cfcf607f5e0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260218T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4d0eea81b1db723f92d464986babef8a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T113000Z
+LOCATION:57Г-303
+DTSTART:20260508T100000Z
+SUMMARY:ЛК Электромеханика
+UID:98c6f86a6cfa1ee394da80a21758a3ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
@@ -1749,12 +3342,93 @@ SUMMARY:ЛК Пилотажно-навигационные датчики\, пр
 UID:f5d5bbea1d022555e4a6cbe863692503
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3cd03d4ed7e905f4c52281f21880a5bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6e6df0be5c71f87681d5450792642b35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260424T150000Z
+LOCATION:7-401
+DTSTART:20260424T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:4ee90efe6adc50b510bcb954803d3f67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260331T131500Z
+LOCATION:24-656
+DTSTART:20260331T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:6e150b802ac7b7c80cfc926a9f7d13b9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
 DTEND:20250924T113000Z
 LOCATION:ГАК-307
 DTSTART:20250924T100000Z
 SUMMARY:ЛК Пилотажно-навигационные датчики\, приборы и системы
 UID:cd1e408de35aedf2400c2d117e668fac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T131500Z
+LOCATION:--каф. 919
+DTSTART:20260302T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:162a5cf95df3211846ad9694d903e357
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d2c94f17f20d0f134a14c77ed1960ca7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260331T073000Z
+LOCATION:24-527
+DTSTART:20260331T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:260284130c4b869bfadf173c76dfcf67
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dd786868f488dfb66642bf92d9099803
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260320T131500Z
+LOCATION:5-401б
+DTSTART:20260320T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:245f9f41751e05a058a27591a1a00571
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T091500Z
+LOCATION:--каф. 919
+DTSTART:20260313T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:34b37b5678c0f8564d09043afadc4d78
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:57Г-303
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Электромеханика
+UID:8223964cb8cd7474e6be471f2fd65700
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -1780,6 +3454,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:0bbaf847b042e3070856a327ce47e09a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260504T091500Z
+LOCATION:24-600
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:c9368f0ad4bd4f7a1d3498aff430888a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Костыгова Людмила Александровна
 DTEND:20251107T091500Z
 LOCATION:5-319
@@ -1803,11 +3485,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:e31ef9acbdc1ae734618ff18461a1c0c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:--каф.
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1c6d9acc7617ac0b8a432aa835031a6d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250918T131500Z
 LOCATION:--каф.
 DTSTART:20250918T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:a4425d0a8ccace4b38377a88bdc8d637
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:--каф.
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3700778a01a85ecfebadcd0da82b3e34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -1818,12 +3514,42 @@ SUMMARY:ЛР Информационные технологии в констру
 UID:34bbfcd2636b984ea84e8c1cdad5e494
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:960df4003d7ae874b9c3ec7916466194
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20251006T073000Z
 LOCATION:24-656
 DTSTART:20251006T060000Z
 SUMMARY:ПЗ Учебно-исследовательская работа студентов
 UID:58633c33b5ef19a0bf0cb7f1f3dc5272
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф.
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d8126a905d01574b2d475e40d536de9f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260310T091500Z
+LOCATION:24-531
+DTSTART:20260310T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:e4a561ff9bd82c9ac82b12f83fc05b05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260227T131500Z
+LOCATION:5-401б
+DTSTART:20260227T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:3d726d0e6dcb8634669a946dc47375b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -1858,12 +3584,33 @@ SUMMARY:ПЗ Основы автоматики и теории управлен�
 UID:66c3514c44b76ddf53ecc46d1611e60c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T131500Z
+LOCATION:--каф. 919
+DTSTART:20260413T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:fe96573f6b55f46fe2350eda923812bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20251021T113000Z
 LOCATION:24-654
 DTSTART:20251021T100000Z
 SUMMARY:ЛК Информационные технологии подготовки производства
 UID:22f66bc573c0c6bf16656b4e6d834be2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:250e1a342897aca468c2bee4064daf82
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:--каф.
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ddf8b5fb2e3e0a7826c21bbbb1b7a1e7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251013T131500Z
@@ -1896,11 +3643,25 @@ SUMMARY:ЛР Информационные технологии в констру
 UID:1bc3511e32a8683af73d4841aafaae73
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:--каф.
+DTSTART:20260514T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:38e017078401d30ee9c0742b44ed97dc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251222T131500Z
 LOCATION:--каф. 919
 DTSTART:20251222T114500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:765ddef6b2ac44dbed6f5742818af90e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e797a6ae08a524634c03e954cf41508e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T113000Z
@@ -1941,6 +3702,30 @@ SUMMARY:ЛР Прикладная механика жидкости и газа
 UID:1e5bc02f77eca2d0bed5699eabff5cec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260217T113000Z
+LOCATION:24-600
+DTSTART:20260217T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:433bc8e2d0995d0901a0e988c46ec683
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260324T131500Z
+LOCATION:24-656
+DTSTART:20260324T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:7017b3d66c5e32c2a6ddd23193c62a1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260529T150000Z
+LOCATION:7-401
+DTSTART:20260529T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:97d1fd7151b9a173db7ed2c243d0d92c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20250922T073000Z
 LOCATION:24-656
@@ -1965,6 +3750,14 @@ UID:8b5b1ea62dbc8d4f373b3990dea0fb28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260413T091500Z
+LOCATION:24-600
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:f1714a1d35a6921c8d80f70053f31226
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20251103T091500Z
 LOCATION:24-600
 DTSTART:20251103T074500Z
@@ -1978,6 +3771,22 @@ LOCATION:24-527
 DTSTART:20251028T074500Z
 SUMMARY:ЛР Информационные технологии в конструировании приводных систем
 UID:2d8c1577bcbe37d9f216675714b05fbd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260511T113000Z
+LOCATION:24-654
+DTSTART:20260511T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:49dd4e8c65340d7a6d6a3dd9ac3fe35e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260209T113000Z
+LOCATION:24-654
+DTSTART:20260209T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:bbd072f56d485a6604460e49d7d7af87
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плыкин Евгений Иванович
@@ -2002,6 +3811,14 @@ LOCATION:24-656
 DTSTART:20250908T060000Z
 SUMMARY:ПЗ Учебно-исследовательская работа студентов
 UID:3f2233563591f29f0d3a709593cfa88c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260422T113000Z
+LOCATION:24-654
+DTSTART:20260422T100000Z
+SUMMARY:ЛК Прикладная механика жидкости и газа
+UID:79500241aedfffbba24b1ce70387fdce
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T091500Z
@@ -2034,6 +3851,22 @@ SUMMARY:ЛР Информационные технологии в констру
 UID:8ffd8b851b0ff5c3dcd4dd0cb012b278
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260429T073000Z
+LOCATION:9-104
+DTSTART:20260429T060000Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:9ba6e3ecc8ab00a79b59a1e5a9075698
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260302T113000Z
+LOCATION:24-654
+DTSTART:20260302T100000Z
+SUMMARY:ПЗ Основы автоматики и теории управления
+UID:f7f80c43fe92769fad9cc56f424cc658
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кутейникова Екатерина Николаевна
 DTEND:20260116T091500Z
 LOCATION:24-654
@@ -2057,12 +3890,66 @@ SUMMARY:ПЗ Основы менеджмента
 UID:a6a6d79441a736b2dcdecb19f9803d63
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260403T131500Z
+LOCATION:5-401б
+DTSTART:20260403T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:7538a2332e1cf366a1682da623a3eca1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260515T150000Z
+LOCATION:7-401
+DTSTART:20260515T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:e0410a45a9a4ffe0ed96674614feb5ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260213T150000Z
+LOCATION:7-401
+DTSTART:20260213T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:4f42dcdf4e8f4b3ba5d53caf17ec99a6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пронькин Андрей Николаевич
 DTEND:20251001T113000Z
 LOCATION:ГАК-307
 DTSTART:20251001T100000Z
 SUMMARY:ЛК Пилотажно-навигационные датчики\, приборы и системы
 UID:0770e0cf24f8979a815d64a06bae303f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260331T091500Z
+LOCATION:24-527
+DTSTART:20260331T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:22e3960d3c756f6c7ce013e847c97672
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260323T091500Z
+LOCATION:24-600
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:0c84b20e3d24e0dd46e04e892bd57139
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T091500Z
+LOCATION:24-525
+DTSTART:20260404T074500Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:76cd36a9c7e115fbe1686b07e7a0a11a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260318T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:71f3da41baa313ba2ac587da13e9cb9e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T073000Z
@@ -2072,12 +3959,43 @@ SUMMARY:ПЗ Военная подготовка
 UID:4f1e334a4ed5e4083308b9eb28952e44
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Милославский Ярослав Георгиевич
+DTEND:20260602T150000Z
+LOCATION:24-656
+DTSTART:20260602T133000Z
+SUMMARY:ЛР Электронные устройства приводных систем
+UID:5a89d5f6f4ee4792bb5a8869cfe47cff
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T091500Z
+LOCATION:24-525
+DTSTART:20260321T074500Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:9f7e5f812816253f4a3021f60d9c3921
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260414T091500Z
+LOCATION:24-527
+DTSTART:20260414T074500Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:8c3a39f2d3f0214c430a4f44880ed802
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МУРМАНЦЕВА ЕКАТЕРИНА ЮРЬЕВНА
 DTEND:20251017T131500Z
 LOCATION:5-111
 DTSTART:20251017T114500Z
 SUMMARY:ЛК Экология
 UID:3f7bb0b5ed71565ff56405a4960935ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260331T113000Z
+LOCATION:24-600
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:065cea200f44f04e0407b3865c041345
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T091500Z
@@ -2094,12 +4012,34 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:5622bfada3c4ba11bd70a0168d815aab
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260525T131500Z
+LOCATION:--каф. 919
+DTSTART:20260525T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:22f2807cbd6ddee3af6d061abd712eb8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
 DTEND:20251110T091500Z
 LOCATION:24-600
 DTSTART:20251110T074500Z
 SUMMARY:ЛК Основы автоматики и теории управления
 UID:2fa93d1103a835abe2630e7b5e8396c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260317T131500Z
+LOCATION:24-656
+DTSTART:20260317T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:3061051ba66115e498afbc886d94ea08
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T131500Z
+LOCATION:--каф. 919
+DTSTART:20260504T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:bccd81a0b1007c76f1a4d13d3f1f1e80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
@@ -2126,6 +4066,13 @@ SUMMARY:ЛК Электронные устройства приводных си
 UID:cea72d872a47c80dc5e706b828c02b52
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260418T091500Z
+LOCATION:57Г-502
+DTSTART:20260418T074500Z
+SUMMARY:ЛР Электромеханика
+UID:69de008e23c5331dd8854772d920f826
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T131500Z
 LOCATION:--каф.
 DTSTART:20250904T114500Z
@@ -2141,12 +4088,26 @@ SUMMARY:ПЗ Основы менеджмента
 UID:48955de66dbfa6673286e44201927d9b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T091500Z
+LOCATION:--каф.
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:959321bd6e8b4d3539dd36f541afca6d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20250916T073000Z
 LOCATION:24-654
 DTSTART:20250916T060000Z
 SUMMARY:ЛК Информационные технологии в конструировании приводных систем
 UID:e6d1c19e18428099013b1152c5ef6b46
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T073000Z
+LOCATION:24-525
+DTSTART:20260307T060000Z
+SUMMARY:ЛР Вычислительные методы оптимизации сложных систем
+UID:793dea8ad4a1a351d8011236eccdb8dc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251023T091500Z
@@ -2187,12 +4148,52 @@ SUMMARY:ЛР Конструкция летательных аппаратов
 UID:3de6c3bec98e73a8e60ca8e85dd5fce8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260406T091500Z
+LOCATION:24-600
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:90314eeca7aac55d3e6fff45c0b172c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Плыкин Евгений Иванович
 DTEND:20251017T091500Z
 LOCATION:ГАК-307
 DTSTART:20251017T074500Z
 SUMMARY:ЛК Конструкция летательных аппаратов
 UID:c15f1b87f4eaafddc54cc4aa4d83939d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260324T091500Z
+LOCATION:24-531
+DTSTART:20260324T074500Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:80312a8b213e1ff89e6533c40e2a5108
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260421T131500Z
+LOCATION:24-656
+DTSTART:20260421T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:f7ed68f48d5f1643a413ce1c6876c5dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оболенский Владимир Юрьевич
+DTEND:20260415T091500Z
+LOCATION:9-104
+DTSTART:20260415T074500Z
+SUMMARY:ЛР Прикладная механика жидкости и газа
+UID:8695daa391041649f0cada48ca71b1d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260505T113000Z
+LOCATION:24-600
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:cf32d80c98b64b7fe888c66682080a8f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T113000Z
@@ -2210,11 +4211,50 @@ SUMMARY:ПЗ Основы автоматики и теории управлен�
 UID:472a070220c389bea1aaa7d4555ef33b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T131500Z
+LOCATION:--каф. 919
+DTSTART:20260316T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7a16a78b98075ac1eb2ece0cfe79c643
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260224T113000Z
+LOCATION:24-600
+DTSTART:20260224T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:b1d4d8b6b6dd40a0ad743d0767ef6d02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260302T091500Z
+LOCATION:24-600
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:fc456768756987db1299592e80187fd5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260420T073000Z
+LOCATION:24-600
+DTSTART:20260420T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:84cafa9dcfb4ec1a92e21ac90a5982ca
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250925T131500Z
 LOCATION:--каф.
 DTSTART:20250925T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:4a26d22e0b759848dddac1abe02043a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Левкина Александра Александровна
+DTEND:20260417T131500Z
+LOCATION:5-401б
+DTSTART:20260417T114500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:cee8c7191eeda2b81953c6737684558b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
@@ -2223,6 +4263,21 @@ LOCATION:Орш. В-201
 DTSTART:20251112T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:9712254bcfe0506fe7ccfb0dae1e7f28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260403T150000Z
+LOCATION:7-401
+DTSTART:20260403T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:2c3536a08315cf932558f5cf087b68fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf7b050d794a4539d2bb5b544a0b3963
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T113000Z
@@ -2285,12 +4340,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:2b8bd84271af2566c107aa4f4a3627f4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260220T091500Z
+LOCATION:--каф. 919
+DTSTART:20260220T074500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:ec67bbb76a0a6f93baa06eb208a2fa3c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20251014T131500Z
 LOCATION:24-656
 DTSTART:20251014T114500Z
 SUMMARY:ЛК Электронные устройства приводных систем
 UID:be4a7150b71c451a5a36912f59a81c84
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260520T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b38515043bf96929a64465511636724d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
@@ -2339,12 +4408,27 @@ SUMMARY:Экзамен Информационные технологии в ко
 UID:f3e3d081b6e4d7caac8378536337d6fe
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:15460f8926a826e56cb37d92681fcfaf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оболенский Владимир Юрьевич
 DTEND:20251017T113000Z
 LOCATION:24-656
 DTSTART:20251017T100000Z
 SUMMARY:ЛК Прикладная механика жидкости и газа
 UID:c8742e74c5dc571548143af18a95fb82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260216T073000Z
+LOCATION:24-600
+DTSTART:20260216T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:c1bf784739513a4710d4445df4bea989
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251120T131500Z
@@ -2362,11 +4446,41 @@ SUMMARY:ЛК Основы менеджмента
 UID:d4d4b84b7c893a7197c30e9d1ebef639
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:57Г-303
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Электромеханика
+UID:abdc0f98a0342711db5dc166f2b928c2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T131500Z
 LOCATION:--каф.
 DTSTART:20251211T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:08484e3d4abeccc8ec79707c372b4870
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260504T073000Z
+LOCATION:24-600
+DTSTART:20260504T060000Z
+SUMMARY:ЛК Вычислительные методы оптимизации сложных систем
+UID:ad1a1c39ee73b11738fb0fd3fd0e457a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260516T091500Z
+LOCATION:57Г-502
+DTSTART:20260516T074500Z
+SUMMARY:ЛР Электромеханика
+UID:a4a2fc88555295c1f848eb0040e1a14a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260525T091500Z
+LOCATION:24-600
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:4e5bd3fcc4fdc1d8134a9a9810595917
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Синявская Юлия Адольфовна
@@ -2377,12 +4491,35 @@ SUMMARY:ПЗ Основы автоматики и теории управлен�
 UID:e9e7feab7c30305489a08b8b8d577457
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Василевский Валерий Владимирович
+DTEND:20260313T150000Z
+LOCATION:7-401
+DTSTART:20260313T133000Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:ba66ab21c554398134b1dcf7ea3f63b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:57Г-303
+DTSTART:20260213T100000Z
+SUMMARY:ЛК Электромеханика
+UID:edd6398d8ab3469034f49df9222ec8aa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МУРМАНЦЕВА ЕКАТЕРИНА ЮРЬЕВНА
 DTEND:20251114T131500Z
 LOCATION:5-111
 DTSTART:20251114T114500Z
 SUMMARY:ЛК Экология
 UID:c6a64fb92e9380e79a8c75601a058584
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лобачев Николай Александрович
+DTEND:20260414T113000Z
+LOCATION:24-600
+DTSTART:20260414T100000Z
+SUMMARY:ЛК Оснащение летательных аппаратов
+UID:fdc8f7fb79129c066dcd1ce7938fc3f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
@@ -2408,6 +4545,13 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:2d6f160f6d7d474ac2e6c37ee36a26d4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4db5e547f4ee8ee8468c106abe7c3b3d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коротун Владилена Леонидовна
 DTEND:20251217T150000Z
 LOCATION:Орш. В-201
@@ -2416,12 +4560,57 @@ SUMMARY:ПЗ Иностранный язык
 UID:f164c95dd95ca4c8d15cb552879e746a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Милославский Ярослав Георгиевич
+DTEND:20260602T131500Z
+LOCATION:24-656
+DTSTART:20260602T114500Z
+SUMMARY:ЛР Электронные устройства приводных систем
+UID:e663e1f70250794da9d4efa375d7a9b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Макарин Михаил Александрович
+DTEND:20260317T073000Z
+LOCATION:24-527
+DTSTART:20260317T060000Z
+SUMMARY:ЛР Информационные технологии в конструировании приводных систем
+UID:c861fa47dfb342218f1d95a9b4ee45ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T073000Z
+LOCATION:--каф.
+DTSTART:20260409T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a7ef11ad80eda89f5b1dc8d6f1951077
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20251021T131500Z
 LOCATION:24-656
 DTSTART:20251021T114500Z
 SUMMARY:ЛК Электронные устройства приводных систем
 UID:9ddb5ba2473822a0e602dc9248c515f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф.
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c723b02c2ab0ea97c4093a4c56891f7a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T150000Z
+LOCATION:Орш. В-621
+DTSTART:20260311T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:1e03d21dc7888d8d98eeedce5eef417a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кривилев Александр Владимирович
+DTEND:20260310T131500Z
+LOCATION:24-656
+DTSTART:20260310T114500Z
+SUMMARY:ЛК Электронные устройства приводных систем
+UID:80c28b885f51a16c5f7a649de56f789e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Долгушина Екатерина Алексеевна
@@ -2446,5 +4635,13 @@ LOCATION:24-656
 DTSTART:20251201T060000Z
 SUMMARY:ПЗ Учебно-исследовательская работа студентов
 UID:35ea35fe5b91d6691d4eadeb83d54cd1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синявская Юлия Адольфовна
+DTEND:20260427T091500Z
+LOCATION:24-600
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Основы автоматики и теории управления
+UID:6822cc9820e528f022229c313e2f10b1
 END:VEVENT
 END:VCALENDAR
