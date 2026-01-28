@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20260210T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260210T151500Z
+SUMMARY:ЛК Численные методы
+UID:f09d5464d8d19d8560d7d228c9179952
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Редников Сергей Николаевич
 DTEND:20260123T131500Z
 LOCATION:3-115
@@ -33,11 +40,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:fc8dee818b982f49282ec1b206387a57
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260210T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260210T060000Z
-SUMMARY:ЛК Численные методы
-UID:95efdfe379f777da93435c85fabe689b
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260502T113000Z
+LOCATION:3-419
+DTSTART:20260502T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:1fdfcb1816952fb37d1b67879ebbf670
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
@@ -46,6 +54,20 @@ LOCATION:7-416
 DTSTART:20260326T074500Z
 SUMMARY:ЛК Сопротивление материалов
 UID:1c0fb9e6d95ac27c5b5c17d14b967358
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260428T151500Z
+SUMMARY:ЛК Численные методы
+UID:829ac739e475e025bc7ebc194645ae43
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:3336a5c7378411be6f3fe6820186627d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прокофьев Михаил Владимирович
@@ -80,19 +102,18 @@ SUMMARY:ЛК Социология
 UID:aebfa1e435367775393a8ab6f5f46533
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260601T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260601T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:0d279c64cdf27fab8b3903f3dd4823f4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T131500Z
 LOCATION:--каф.
 DTSTART:20251003T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:2f334d03b8e53fc6acbd25146dd0d729
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260428T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260428T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:14c6e0d87d2f076e07a70e841528c23b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фармаковская Ариадна Алексеевна
@@ -101,6 +122,13 @@ LOCATION:ГУК Б-742
 DTSTART:20250929T100000Z
 SUMMARY:ЛР Химия
 UID:7129c3bd630d901ed59496f477800a61
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:ГУК Б-344
+DTSTART:20260416T114500Z
+SUMMARY:ЛР Сопротивление материалов
+UID:2eecc73110d067343bea0f07d0a20b22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
@@ -118,11 +146,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:7aa5640d137894354dad06999e40ef2c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260421T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260421T060000Z
-SUMMARY:ЛК Численные методы
-UID:4e16364e22076bed5d5c9d7521bb5a6c
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260216T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:c6065b0986ed133e00cf8c7a152583e1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251211T091500Z
@@ -153,6 +182,27 @@ LOCATION:2-211(2А)
 DTSTART:20251009T133000Z
 SUMMARY:ЛК Программирование на языках высокого уровня
 UID:b32585dbc0b9c75ab991e1c2356837f9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T091500Z
+LOCATION:--каф. 919
+DTSTART:20260216T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:371e1412a80163f19dfa29bcbe9d2ab1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T131500Z
+LOCATION:3-441
+DTSTART:20260307T114500Z
+SUMMARY:ПЗ Численные методы
+UID:9737488ed7859850c104e8fca506c319
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260420T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:471e6e2b192287264194275bda552258
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T131500Z
@@ -201,6 +251,21 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:535c3369c7e3e81ff09065fba1dacc71
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260302T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260302T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:386b16f1fcb3ab17bd0022128f802083
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260415T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:64cb0bd9234de4696ce5fcf50d9f7eab
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251215T131500Z
 LOCATION:3-255
 DTSTART:20251215T114500Z
@@ -208,11 +273,19 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:4b7146bd5a093f35378602af80f8c6f2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260324T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260324T060000Z
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260312T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260312T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:5964b049ecc9113ad406942eccf45303
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260526T151500Z
 SUMMARY:ЛК Численные методы
-UID:ebc7fd4aafe392b7c761b89dac48fa6d
+UID:7a09c3186ccb881cb7457d11a0b6063f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260522T073000Z
@@ -266,6 +339,14 @@ SUMMARY:ЛР Химия
 UID:dd010e9ab9a035c4116976b5501c8200
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260413T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:f4b40dcece70d1d898af9e3a2788ce40
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Меснянкин Сергей Юрьевич
 DTEND:20260506T131500Z
 LOCATION:2-201(2А)
@@ -296,6 +377,13 @@ SUMMARY:ПЗ Инженерная графика
 UID:bda2d9fa0c904f43e5f0a749fdc4dc20
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260310T151500Z
+SUMMARY:ЛК Численные методы
+UID:a9b744408a7f0b71bbab18af7980f883
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260508T131500Z
 LOCATION:--каф.
 DTSTART:20260508T114500Z
@@ -303,12 +391,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:967154fff46a35786772325e9443cda9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260407T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260407T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:2f76ffb795aaa35e448c638974ef7239
+DTEND:20260216T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260216T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:9d8adbdbde4970254a21b04c75b6b9b0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T073000Z
@@ -325,11 +412,25 @@ SUMMARY:ПЗ Военная подготовка
 UID:7983d5b3c26de3b109092bd517ecf4a6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260512T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260512T060000Z
+DTEND:20260324T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260324T151500Z
 SUMMARY:ЛК Численные методы
-UID:0571b48af99b92b4c0f001329360e454
+UID:9ba954d74b3831a6f40158a19bb5bbd2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260216T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:aabefebbdf44caa7acc2c84094a23069
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260331T151500Z
+SUMMARY:ЛК Численные методы
+UID:f6ca55b4c0cbb989afe72ac95c276ac3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T091500Z
@@ -370,11 +471,26 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:c0ba14fb2cf61bddf1a2e9803d129cbd
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260514T131500Z
+LOCATION:ГУК Б-344
+DTSTART:20260514T114500Z
+SUMMARY:ЛР Сопротивление материалов
+UID:3585fab8574928bcabd1b1752681c6ab
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T091500Z
 LOCATION:ГУК Б-734
 DTSTART:20251122T074500Z
 SUMMARY:ПЗ Инженерная графика
 UID:9df51ea2fe23b8b3b549a9f46570d857
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260221T113000Z
+LOCATION:3-419
+DTSTART:20260221T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:4ae87a0092acbb4ffc14352cf48c4706
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T091500Z
@@ -389,6 +505,13 @@ LOCATION:ГУК Б-734
 DTSTART:20251004T074500Z
 SUMMARY:ПЗ Инженерная графика
 UID:f2483c20314df0446fd875ac85d24c52
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260406T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:d64d3fdef3a7759f7375e54f118f9f87
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260424T113000Z
@@ -433,6 +556,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:975bfaa8eaea0e95623a75478812f53d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260601T091500Z
+LOCATION:--каф. 919
+DTSTART:20260601T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:0283b8c02c0114de01459aba4ea1157b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260409T073000Z
 LOCATION:--каф. 919
 DTSTART:20260409T060000Z
@@ -471,6 +601,14 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:08bb8869951c00e5152a21e9e0fa0a39
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260404T113000Z
+LOCATION:3-419
+DTSTART:20260404T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:5fb7e45214cb5b7ade2cc154fcde398f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260307T073000Z
 LOCATION:Орш. А-507
 DTSTART:20260307T060000Z
@@ -506,6 +644,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:de98a36a6e6c65a0a7c0357d158cc152
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260530T113000Z
+LOCATION:3-419
+DTSTART:20260530T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:34a0e7b4f14cfaa80c810a853347ee20
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260220T113000Z
 LOCATION:--каф.
 DTSTART:20260220T100000Z
@@ -521,11 +667,19 @@ SUMMARY:ЛК Социология
 UID:2c7568767e874496e4ed918d96b244e9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260303T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260303T060000Z
-SUMMARY:ЛК Численные методы
-UID:ec5c5529c1a139ef0c4e52ecaded607d
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260228T113000Z
+LOCATION:3-419
+DTSTART:20260228T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:310a1d7d448062f87f69ce202e25ffe7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T164500Z
+LOCATION:2-003(2В)
+DTSTART:20260525T151500Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:702a2e0febf41971cb75cd5ee811c07e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СИЛЬЧЕНКО ОЛЬГА БОРИСОВНА
@@ -573,14 +727,6 @@ LOCATION:2-201(2А)
 DTSTART:20250904T114500Z
 SUMMARY:ЛК Социология
 UID:3fae9fc61544b59357eaa748bc104845
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260303T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260303T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:fdce20b7ffda6723d42bea827c87e962
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Почестнев Александр Анатольевич
@@ -640,6 +786,28 @@ SUMMARY:ПЗ Инженерная графика
 UID:48b22e506afe633bc2afb87a9ce8ca2f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260406T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:e6bd1ede32a29451a2407cbdcd84a9c4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T131500Z
+LOCATION:ГУК Б-344
+DTSTART:20260528T114500Z
+SUMMARY:ЛР Сопротивление материалов
+UID:c498d254a27db8938626e013f8c183ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260427T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:3f99ba39290d90b513105e7456e70709
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
 DTEND:20251014T150000Z
 LOCATION:--каф.
@@ -648,12 +816,11 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:24ebd8221786042bff7639f3315a8f36
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260310T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260310T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:ca22d9173fb6a33d218ea89583a52bf1
+DTEND:20260514T113000Z
+LOCATION:ГУК Б-344
+DTSTART:20260514T100000Z
+SUMMARY:ЛР Сопротивление материалов
+UID:b3c99e569d529a5dddeb677af03fc95b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251027T073000Z
@@ -669,6 +836,14 @@ LOCATION:2-211(2А)
 DTSTART:20251106T151500Z
 SUMMARY:ПЗ Программирование на языках высокого уровня
 UID:52e698a7485714e108f36d45e8002589
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260413T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260413T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:3fa87280eba7eb419dff47733bee6837
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
@@ -731,19 +906,19 @@ SUMMARY:ЛК Сопротивление материалов
 UID:722ce8f7c8bd404783d3de0ff08ee60a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260505T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260505T060000Z
-SUMMARY:ЛК Численные методы
-UID:cbd58a64128031b6b689e67f59296ba7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Зайцева Ольга Борисовна
 DTEND:20251003T164500Z
 LOCATION:ГУК Б-738
 DTSTART:20251003T151500Z
 SUMMARY:ПЗ Теория вероятностей и математическая статистика
 UID:415142ce2c51028b9a0e09800674624f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T091500Z
+LOCATION:--каф. 919
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:3b3033bc884408ceb666c9f5f4d31f16
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260327T113000Z
@@ -765,6 +940,13 @@ LOCATION:ГУК Б-734
 DTSTART:20250913T060000Z
 SUMMARY:ПЗ Инженерная графика
 UID:ba5e986e962770e30680d548ce2a796e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260518T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:d527b3ece5dd06b4578799129e1fa42a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260306T113000Z
@@ -826,6 +1008,20 @@ SUMMARY:ПЗ Иностранный язык
 UID:86576506bb538ff6c86416dc1e58d8ae
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T131500Z
+LOCATION:ГУК А-104
+DTSTART:20260219T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:760734d691ba9c8de5c93dfee41fefbe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T131500Z
+LOCATION:3-441
+DTSTART:20260418T114500Z
+SUMMARY:ПЗ Численные методы
+UID:9bc57b7e914044d63bc8de31004cefcd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260403T091500Z
 LOCATION:--каф.
 DTSTART:20260403T074500Z
@@ -838,6 +1034,13 @@ LOCATION:--каф.
 DTSTART:20260508T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c64b0f861d5c66cadbbbf93aeee90bd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T113000Z
+LOCATION:3-417
+DTSTART:20260601T100000Z
+SUMMARY:ЛР Численные методы
+UID:10852b101dcc5bcd8ffcf45ac515e715
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
@@ -855,11 +1058,25 @@ SUMMARY:ПЗ Инженерная графика
 UID:e0ad386e18b9f4ad4795c9268762dbce
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260525T091500Z
+LOCATION:--каф. 919
+DTSTART:20260525T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:eb8d52f2c641d8de36be8e66e9781e1a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T113000Z
 LOCATION:3-255
 DTSTART:20251009T100000Z
 SUMMARY:ЛР Общая электротехника и электроника
 UID:63e05e24c4e647daad4ff1a830d8a596
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260414T151500Z
+SUMMARY:ЛК Численные методы
+UID:1e3112a8e13fc7c6d23e2733b81d40a6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250912T091500Z
@@ -959,6 +1176,36 @@ SUMMARY:ЛК Сопротивление материалов
 UID:7bb2d9355e83a01b1098a393ed469982
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260330T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:143f6b3650c5575e40d87686c2e03d92
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260420T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:c2730ed07ace0508a0974b74e19928a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260516T113000Z
+LOCATION:3-419
+DTSTART:20260516T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:4ec7a111ab420d9a480296d189235e8f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260226T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:acc3951787ed7047a5e3e6e7a923a845
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
 DTEND:20250915T091500Z
 LOCATION:3-409
@@ -982,6 +1229,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:41aa6d64072aadb42a629a75f665b7ab
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260429T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:d3e350bdd0a9c6b251a9ce9c5c5bead1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251020T073000Z
 LOCATION:--каф. 919
 DTSTART:20251020T060000Z
@@ -1002,6 +1257,13 @@ LOCATION:--каф.
 DTSTART:20251219T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:c1673b5d6de1fe46cd9140fbe67b0530
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260602T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260602T151500Z
+SUMMARY:ЛК Численные методы
+UID:fc813c49fe3e37a29ed826747f43cab0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T091500Z
@@ -1077,12 +1339,26 @@ SUMMARY:ПЗ Инженерная графика
 UID:09cfa1b128dfa9fbe66bedc874c2da61
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260601T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260601T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:2d2d3104978cf381a65d8c9a643aa0be
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Прокофьев Михаил Владимирович
 DTEND:20251208T150000Z
 LOCATION:ГУК В-214
 DTSTART:20251208T133000Z
 SUMMARY:ЛК Материаловедение
 UID:55e0d111b18ec740a159169421c1b90a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T164500Z
+LOCATION:2-003(2В)
+DTSTART:20260511T151500Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:0980f2090023f58fe4107761e4e3e64b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260430T073000Z
@@ -1108,6 +1384,14 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:1ece54ff3f709af4de160c1eb2d14956
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260211T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:d2275da6a498a1cc20e783f550191ced
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
 DTEND:20250927T131500Z
 LOCATION:ГУК В-221
@@ -1129,6 +1413,13 @@ LOCATION:ГУК В-214
 DTSTART:20260513T133000Z
 SUMMARY:ЛК Технология конструкционных материалов
 UID:0af76fdcd5ebe0bd68a91792374c47cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260326T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:71f6bd87826a901aaf3dd6aaa10eaf2d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260514T073000Z
@@ -1215,6 +1506,20 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:d0fbe1f339fd164a482bb79f7a002d75
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T164500Z
+LOCATION:2-003(2В)
+DTSTART:20260413T151500Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:219d58cf5c66fef04aa6dd0d5382a626
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260323T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:0843c36c66b6495ccd8ac89c66f2aa21
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
 DTEND:20251227T131500Z
 LOCATION:ГУК В-221
@@ -1261,6 +1566,13 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:e892885b68d23db5fbf01beab787d5a7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260323T091500Z
+LOCATION:--каф. 919
+DTSTART:20260323T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:8782fbd89a94002041f81c178fb2747b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T091500Z
 LOCATION:--каф. 919
 DTSTART:20251204T074500Z
@@ -1273,14 +1585,6 @@ LOCATION:ГУК Б-734
 DTSTART:20251025T060000Z
 SUMMARY:ПЗ Инженерная графика
 UID:eae81ce99b9e40a2268bc8c7b05a63a1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260331T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260331T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:832ee5c10d5a2a0a2087f2b76ec29f48
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260529T091500Z
@@ -1364,6 +1668,13 @@ SUMMARY:ПЗ Физическая культура
 UID:3222495c1f0e400a4bc8ab2aa10ce495
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260302T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260302T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:0406bd4fb845922a68edc2818dd482cc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251206T091500Z
 LOCATION:ГУК Б-734
 DTSTART:20251206T074500Z
@@ -1377,6 +1688,14 @@ LOCATION:ГУК В-214
 DTSTART:20251125T151500Z
 SUMMARY:ЛК Материаловедение
 UID:f3717e7a88265bce05ea2f4537f201d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260523T113000Z
+LOCATION:3-419
+DTSTART:20260523T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:224b156b20962b06757e2f929cb8ad22
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260523T073000Z
@@ -1431,6 +1750,14 @@ SUMMARY:ЛК Социология
 UID:221b270a4941be546bf1b5e8092b30d4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260214T113000Z
+LOCATION:3-419
+DTSTART:20260214T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:747950b96239f16662e1340c611f2f82
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260403T113000Z
 LOCATION:--каф.
 DTSTART:20260403T100000Z
@@ -1445,11 +1772,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:7468abf4ec6bb5a9ff2074dd1c5ad6c2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260321T113000Z
+LOCATION:3-419
+DTSTART:20260321T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:ebe7af7b7fc663b5dc41b3a07ceeba39
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T164500Z
+LOCATION:2-003(2В)
+DTSTART:20260422T151500Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:83b80bc5d40d24b21e220922f6fbad75
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250913T091500Z
 LOCATION:ГУК Б-734
 DTSTART:20250913T074500Z
 SUMMARY:ПЗ Инженерная графика
 UID:b42b669059c52c5f360c2236e610b602
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T091500Z
+LOCATION:--каф. 919
+DTSTART:20260504T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:debc34cc14ec312b5b10af2d941980bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Евгений Борисович
@@ -1467,12 +1816,26 @@ SUMMARY:ПЗ Физическая культура
 UID:030c1201ede2a1a684b6639618a2193b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260330T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260330T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:a82a8bae477bf8431a4d19da899145fe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
 DTEND:20260312T091500Z
 LOCATION:7-416
 DTSTART:20260312T074500Z
 SUMMARY:ЛК Сопротивление материалов
 UID:f50a99c4885ae8b168d2947755120136
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260212T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:d922e7cf24b9329d9a9dbd641dbb7206
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Катанов Максим Андреевич
@@ -1505,6 +1868,13 @@ SUMMARY:ЛК Теория вероятностей и математическа
 UID:e3290e65ada0019693baf7975ca407c1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260303T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260303T151500Z
+SUMMARY:ЛК Численные методы
+UID:c8d990e6813a1cca8c61a023223ddd40
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Редников Сергей Николаевич
 DTEND:20251115T113000Z
 LOCATION:ГУК В-221
@@ -1534,6 +1904,13 @@ SUMMARY:ПЗ Физическая культура
 UID:0f7921a56ab6fd4185b44fd7feeb56e1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260505T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260505T151500Z
+SUMMARY:ЛК Численные методы
+UID:fa8c84f45a1b8dbac10178221fe2766a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T131500Z
 LOCATION:ГУК А-106
 DTSTART:20251204T114500Z
@@ -1547,6 +1924,14 @@ LOCATION:ГУК А-402
 DTSTART:20250917T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:955be937f24e19dee43b492c1c4cc40a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260225T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:e4ad1bc8e4011e643e32fbdbf2e855cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Евгений Борисович
@@ -1579,6 +1964,13 @@ LOCATION:ГУК Б-460
 DTSTART:20250903T100000Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:b249480ddbb29f0513c21e363313f326
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260519T151500Z
+SUMMARY:ЛК Численные методы
+UID:2db9adcbf54a75e15f77a835f6d97d93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Катанов Максим Андреевич
@@ -1620,11 +2012,26 @@ SUMMARY:ЛР Химия
 UID:50367d8e8314e06fe873784de18db9bf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260325T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:45347ff1a740ac37d6570ab5fe37dd29
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260328T073000Z
 LOCATION:Орш. А-507
 DTSTART:20260328T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:8c9783fe65f52715a3c27e11f114e5f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T131500Z
+LOCATION:3-417
+DTSTART:20260504T114500Z
+SUMMARY:ЛР Численные методы
+UID:31425e314425d96482960b0dbdb1076e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьева Валентина Сергеевна
@@ -1667,11 +2074,12 @@ SUMMARY:ЛК Материаловедение
 UID:ff723b78bb04217d0d80ca293efde8cf
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260317T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260317T060000Z
-SUMMARY:ЛК Численные методы
-UID:78cbcb97f2efbc223001f883385cd518
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260316T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:793739b2a0dc4f6e930ea1f202c2be1e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зайцева Ольга Борисовна
@@ -1694,6 +2102,13 @@ LOCATION:ГУК А-212
 DTSTART:20251213T074500Z
 SUMMARY:ЛР Материаловедение
 UID:cf4867da9d800f4fee92ef567f66131b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260326T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:9e094a279686e404edfa7e824e70f638
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260327T091500Z
@@ -1719,6 +2134,13 @@ SUMMARY:ЛК Общая электротехника и электроника
 UID:e7b33f9b23195be241ec3c5c4057caa8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:ГУК А-104
+DTSTART:20260305T100000Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:a250b9514a6146373d206a6bab1bbbf6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Терентьева Валентина Сергеевна
 DTEND:20250916T164500Z
 LOCATION:ГУК В-214
@@ -1740,6 +2162,14 @@ LOCATION:Орш. А-507
 DTSTART:20260228T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:59ff06788892ee0c04de1038ceeec492
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260406T113000Z
+LOCATION:2-204(2А)
+DTSTART:20260406T100000Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:fce049aed51a6fbde483b2bdd5518b32
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Редников Сергей Николаевич
@@ -1772,11 +2202,25 @@ SUMMARY:ПЗ Дифференциальные уравнения
 UID:7875e212eb752251c2bd019389daafde
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260507T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260507T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:d14316a3671fcbaa37072bb3237eb549
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260605T073000Z
 LOCATION:--каф.
 DTSTART:20260605T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:8b85447d045200514972c9f9a11531c1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260604T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:3eeb1bd9fdf643bfcf79b95fbd6a340b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250926T113000Z
@@ -1853,6 +2297,14 @@ LOCATION:ГУК Б-460
 DTSTART:20251112T060000Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:2b938fc9e9a785c74b59cd5f27d7498f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260506T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260506T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:796ecd96c4bee0e8dcc917de45701eca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
@@ -1946,6 +2398,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:c7042bee94fce113ffaeebecfe2da930
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:882aa897c05569fb8a54b404bec5b7cb
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T131500Z
 LOCATION:--каф.
 DTSTART:20251010T114500Z
@@ -1982,6 +2441,14 @@ LOCATION:ГУК В-214
 DTSTART:20260318T151500Z
 SUMMARY:ЛК Технология конструкционных материалов
 UID:91545f3cea3599639b11dd9eeac24a4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260425T113000Z
+LOCATION:3-419
+DTSTART:20260425T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:d4682a2399ad00d8e96fb3d88bba106e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фармаковская Ариадна Алексеевна
@@ -2024,12 +2491,11 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:26b07ffee737e828211db40218bbe7b1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260217T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260217T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:794092ac9977176c60a1f8f668e6d46d
+DTEND:20260504T113000Z
+LOCATION:3-417
+DTSTART:20260504T100000Z
+SUMMARY:ЛР Численные методы
+UID:95594b54f71756c576062c4207bdf57c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260528T073000Z
@@ -2044,6 +2510,20 @@ LOCATION:--каф.
 DTSTART:20250912T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:fecd7bb03fc6f17f4e786c963ef3c902
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:ГУК А-104
+DTSTART:20260402T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:c3560770ff03673bf23aba3a09adb6a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T131500Z
+LOCATION:ГУК А-104
+DTSTART:20260305T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:753d64b8f7e8895742b4ada574d21732
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T113000Z
@@ -2091,6 +2571,27 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:f2433e09203b74eaacb7cfff07f97a9b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:ГУК Б-344
+DTSTART:20260528T100000Z
+SUMMARY:ЛР Сопротивление материалов
+UID:3b8ce187c3889bd232f85c5c71449838
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T131500Z
+LOCATION:3-441
+DTSTART:20260530T114500Z
+SUMMARY:ПЗ Численные методы
+UID:a8a4e285f199fd5192d210b51ce36ace
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T150000Z
+LOCATION:2-003(2В)
+DTSTART:20260422T133000Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:680f7729a133aef7a8daca8cad4c4217
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260227T113000Z
 LOCATION:--каф.
 DTSTART:20260227T100000Z
@@ -2113,6 +2614,29 @@ SUMMARY:ПЗ Военная подготовка
 UID:ed5c9e524a5057387cd2c4b2304df689
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260420T131500Z
+LOCATION:2-204(2А)
+DTSTART:20260420T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:0de3a21a3d1c9d4dcb274bfc60e2a81c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:29bc341460405e516cee9258e33127aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260520T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260520T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:a7297a6331fa81dfe06797242f7eb9bb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
 DTEND:20260604T091500Z
 LOCATION:7-416
@@ -2129,6 +2653,14 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:068bbb1619811e8fac17dd4ce2fada05
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260323T113000Z
+LOCATION:2-204(2А)
+DTSTART:20260323T100000Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:114752191ea1cb1f5d8fd7851ef89de4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
 DTEND:20260212T091500Z
 LOCATION:7-416
@@ -2142,6 +2674,13 @@ LOCATION:ГУК Б-734
 DTSTART:20251018T060000Z
 SUMMARY:ПЗ Инженерная графика
 UID:875a4a726ebbdb5c437033bd4062b6a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:fc8462774b2f550c4d1879d7f8a8a283
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Евгений Борисович
@@ -2173,12 +2712,11 @@ SUMMARY:ПЗ Инженерная графика
 UID:dbd58b53af4a80f8d7549fe56e78db9f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рабинский Лев Наумович
-DTEND:20260521T091500Z
-LOCATION:7-416
-DTSTART:20260521T074500Z
-SUMMARY:ЛК Сопротивление материалов
-UID:8ec2d06ccabb56d8f721a27d559738ce
+DTEND:20260516T131500Z
+LOCATION:3-441
+DTSTART:20260516T114500Z
+SUMMARY:ПЗ Численные методы
+UID:7ae375d2ed21fd34cd70e48550ef1256
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250910T131500Z
@@ -2195,12 +2733,27 @@ SUMMARY:ПЗ Военная подготовка
 UID:f408b3e146494c229921e983d514fdab
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260224T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260224T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:999743bcaa230c646fc26d6dfef2f80f
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260323T131500Z
+LOCATION:2-204(2А)
+DTSTART:20260323T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:11c6488c2af73ff1ba5b6abb204100d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рабинский Лев Наумович
+DTEND:20260521T091500Z
+LOCATION:7-416
+DTSTART:20260521T074500Z
+SUMMARY:ЛК Сопротивление материалов
+UID:8ec2d06ccabb56d8f721a27d559738ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260423T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:d773ffa328bb26c837120d7def84ee35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260327T073000Z
@@ -2224,6 +2777,20 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:f618d0b66372b949c721bca0110c7359
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260330T091500Z
+LOCATION:--каф. 919
+DTSTART:20260330T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:e2db9f11a9354fa5136081a17f7ceb1f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T091500Z
+LOCATION:--каф. 919
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:6d26b302321e7f4a9efc6df59882f242
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251212T113000Z
 LOCATION:--каф.
 DTSTART:20251212T100000Z
@@ -2239,12 +2806,26 @@ SUMMARY:ПЗ Социология
 UID:5b4488eeaf16e7a8d4ab89d343d858d8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260409T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:887069f7387a864855477ece62633e8b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
 DTEND:20251124T091500Z
 LOCATION:3-409
 DTSTART:20251124T074500Z
 SUMMARY:ПЗ Дифференциальные уравнения
 UID:8d3d0319ba5b115f02ee0d78c50ffda3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T150000Z
+LOCATION:2-003(2В)
+DTSTART:20260511T133000Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:69583eac8846f583eac34ca0a6c3e1c9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T091500Z
@@ -2323,6 +2904,13 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:0e6beb4e2a1b9f941250fd365347aa59
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260512T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260512T151500Z
+SUMMARY:ЛК Численные методы
+UID:723302d1edadc301298bf4bbe354e97d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251113T091500Z
 LOCATION:--каф. 919
 DTSTART:20251113T074500Z
@@ -2335,6 +2923,14 @@ LOCATION:--каф. 919
 DTSTART:20260604T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:c941f8495ca2050087b8fc607e20c201
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260408T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260408T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:4a989c45f60b1f4022e2603ce17feafd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T073000Z
@@ -2399,6 +2995,14 @@ SUMMARY:ЛР Химия
 UID:9ec16296851d2e70b4c191829c7ed252
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260422T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260422T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:c68861f444cfb3c23b9c1870f1c8a551
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260320T073000Z
 LOCATION:--каф.
 DTSTART:20260320T060000Z
@@ -2418,6 +3022,14 @@ LOCATION:--каф. 919
 DTSTART:20251201T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:848cd3af9de8a0b6e0956a5b0220e831
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260307T113000Z
+LOCATION:3-419
+DTSTART:20260307T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:a68454b1ad62aae52fada504bcda2dfb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
@@ -2458,12 +3070,11 @@ SUMMARY:ЛР Теоретическая механика
 UID:231c3c75c4564582137af468f487251e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260421T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260421T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:673d3c6c1f7898b2a7bae1204b97fd2e
+DTEND:20260209T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260209T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:32d8c7208f360f95c08177d371225442
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T091500Z
@@ -2473,11 +3084,25 @@ SUMMARY:ПЗ Физическая культура
 UID:c9dac7e1a8c5d0ed1a459f8a1a854669
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260323T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260323T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:047bf33ce325bcc21828b7ecfa383968
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251117T073000Z
 LOCATION:--каф. 919
 DTSTART:20251117T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:0d183ed982fe095b9eb916e61b5a2e4e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T150000Z
+LOCATION:2-003(2В)
+DTSTART:20260525T133000Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:3ad1f4b2ca61d1e0e1b419d092721da9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
@@ -2486,14 +3111,6 @@ LOCATION:3-137
 DTSTART:20250918T133000Z
 SUMMARY:ПЗ Социология
 UID:3954c0ba0f8446dc79e9881406492a5e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260317T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260317T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:505be21ce4c277719713916407b66a2c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T073000Z
@@ -2527,6 +3144,14 @@ SUMMARY:ЛК Сопротивление материалов
 UID:45b854688d5dad75dbe7d066593b48c8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260418T113000Z
+LOCATION:3-419
+DTSTART:20260418T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:f16d4e4cb45ec71cfcbf49d0347c9988
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251103T073000Z
 LOCATION:--каф. 919
 DTSTART:20251103T060000Z
@@ -2550,6 +3175,13 @@ SUMMARY:ЛК Химия
 UID:2fbbb4b1d84a9484cdcc148d95ce4e04
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260316T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:f0e66e375d7b76eb09d1c12129ab2692
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Рабинский Лев Наумович
 DTEND:20260528T091500Z
 LOCATION:7-416
@@ -2570,6 +3202,14 @@ LOCATION:--каф.
 DTSTART:20260320T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:963ec2c846d6f7c8e3a20082971a7980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260216T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:0f8e4075d94ab61d88b0e96c781e482b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
@@ -2595,12 +3235,34 @@ SUMMARY:Экзамен Дифференциальные уравнения
 UID:09196c1a209835d21c7f1433ae3d4d3b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260504T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260504T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:b1b619556b66701070a60d748646eec0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260326T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:bd95a48f56106f4be1ee4183e0152745
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Терентьева Валентина Сергеевна
 DTEND:20251219T164500Z
 LOCATION:ГУК В-221
 DTSTART:20251219T151500Z
 SUMMARY:ЛК Материаловедение
 UID:fac6cad26e857002d0b711937a54f17d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260317T151500Z
+SUMMARY:ЛК Численные методы
+UID:1b5a994e44bc1bcbe114b071c6f22e5b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260515T113000Z
@@ -2617,13 +3279,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:a398e6fe7cd198470879abaea26e4e5d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260428T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260428T060000Z
-SUMMARY:ЛК Численные методы
-UID:193f35587b14a2c97b131a501ee7cc4b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251106T131500Z
 LOCATION:ГУК А-106
 DTSTART:20251106T114500Z
@@ -2631,11 +3286,12 @@ SUMMARY:ЛР Материаловедение
 UID:08bbf9b73ebefb3c1843b6f9282079fa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260519T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260519T060000Z
-SUMMARY:ЛК Численные методы
-UID:02aecd743c55be24515a2748404e8a83
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260304T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:1ada7e7db32a634431bb7ddf51f4bc4a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T073000Z
@@ -2667,11 +3323,12 @@ SUMMARY:ЛК Теоретическая механика
 UID:5d3f51cf05017849ba0c3ab48b63ed2e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260217T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260217T060000Z
-SUMMARY:ЛК Численные методы
-UID:194e643e4c6b4cd75fb06763de637807
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260328T113000Z
+LOCATION:3-419
+DTSTART:20260328T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:ec2659860960d5e9dfb1351722a85063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СИЛЬЧЕНКО ОЛЬГА БОРИСОВНА
@@ -2696,6 +3353,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:356dcf3b0f26ae93b614d4a4ef75f63f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260318T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:9e80330ad67223e98eea6138ff31b33e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250919T113000Z
 LOCATION:--каф.
 DTSTART:20250919T100000Z
@@ -2708,6 +3373,20 @@ LOCATION:--каф.
 DTSTART:20260306T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e754d15e4d869b07c82d3179676541c0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T150000Z
+LOCATION:2-003(2В)
+DTSTART:20260413T133000Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:01a3a64d44cc7c3aef35903efdc5c799
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T150000Z
+LOCATION:2-003(2В)
+DTSTART:20260427T133000Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:e5ba63d1ea1bb57039562060c3747ccd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260213T131500Z
@@ -2738,13 +3417,6 @@ LOCATION:--каф.
 DTSTART:20251205T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:24283c9933419950c307e87d55bdbc06
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260224T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260224T060000Z
-SUMMARY:ЛК Численные методы
-UID:faf0a692b4f2494838aeb509e8bbf2ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
@@ -2816,6 +3488,20 @@ SUMMARY:ЛК Термодинамика и теплопередача
 UID:191261bbe9f4d0a7a83071398646c626
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:ГУК А-104
+DTSTART:20260402T100000Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:91c4ac735dbd484f10946f1881295fa2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260504T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:9ebb078cc03f1fdf38a1d92c62b2c31a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260425T073000Z
 LOCATION:Орш. А-507
 DTSTART:20260425T060000Z
@@ -2831,12 +3517,11 @@ SUMMARY:ЛК Сопротивление материалов
 UID:11d39ee4afe01c2f7d2d3a9703a11ece
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260324T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260324T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:2056414e29ea6bf38d1989fd9f3bf279
+DTEND:20260404T131500Z
+LOCATION:3-441
+DTSTART:20260404T114500Z
+SUMMARY:ПЗ Численные методы
+UID:bb3a7f80b35fea558877a0437e835a9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
@@ -2845,14 +3530,6 @@ LOCATION:ГУК В-221
 DTSTART:20251004T114500Z
 SUMMARY:ЛК Химия
 UID:bc71c92446b6658de332fe733b290a1e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260414T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260414T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:539ca7475620837ad89c88e38f8943da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терентьева Валентина Сергеевна
@@ -2868,6 +3545,20 @@ LOCATION:--каф. 919
 DTSTART:20250917T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:e990a5e955246391529b09eb626ac75f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T091500Z
+LOCATION:--каф. 919
+DTSTART:20260209T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:a7a83d00a2edc07bbb40bc0f9f6d66dd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:ГУК Б-344
+DTSTART:20260430T114500Z
+SUMMARY:ЛР Сопротивление материалов
+UID:d0700b98f840ad8072804df3d5faae59
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T091500Z
@@ -2899,6 +3590,20 @@ SUMMARY:ПЗ Физическая культура
 UID:8730ccfb6daf0ebc984115fcd8de321c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260413T091500Z
+LOCATION:--каф. 919
+DTSTART:20260413T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:ec0d5e9eef1fb4c2c195d3e8d876ccdd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260518T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:52321e07bce16e03441113b7744f2717
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T113000Z
 LOCATION:--каф.
 DTSTART:20250905T100000Z
@@ -2922,19 +3627,20 @@ SUMMARY:ЛК Общая электротехника и электроника
 UID:d0f533cd8ff69c51e6c62b3313b45ad7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260420T113000Z
+LOCATION:2-204(2А)
+DTSTART:20260420T100000Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:f5f7f2a5c86df9d1ae61e183480b8c41
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
 DTEND:20251210T131500Z
 LOCATION:Орш. Б-612
 DTSTART:20251210T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:d2beda48651335034474c6fc9877ab70
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260526T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260526T060000Z
-SUMMARY:ЛК Численные методы
-UID:0ea85546602e16c7edb61c64998a357a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
@@ -2982,12 +3688,26 @@ SUMMARY:ЛР Материаловедение
 UID:40087efb75c69a92328736db1c987bfe
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260521T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:6c5bc79d56b749ba68ae33dd3fa4ec23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
 DTEND:20251029T131500Z
 LOCATION:Орш. Б-612
 DTSTART:20251029T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:eea5cfd0578933e12a720467ce8bfcec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
+LOCATION:ГУК А-104
+DTSTART:20260319T100000Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:2c4ff78ba3ae191cb087e4d7873bffad
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251025T091500Z
@@ -3020,6 +3740,21 @@ SUMMARY:ЛК Химия
 UID:1ccb7a913c544793daeee8366aba9a2f
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260416T113000Z
+LOCATION:ГУК Б-344
+DTSTART:20260416T100000Z
+SUMMARY:ЛР Сопротивление материалов
+UID:ccc81079108b590424667154c7538f0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260330T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:1c889e2ec73304ad784cc15eb19fafa9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T091500Z
 LOCATION:--каф.
 DTSTART:20250905T074500Z
@@ -3033,6 +3768,28 @@ LOCATION:ГУК В-214
 DTSTART:20250909T151500Z
 SUMMARY:ЛК Материаловедение
 UID:3d7108256c8babf14b0d798d2dc8ac35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260421T151500Z
+SUMMARY:ЛК Численные методы
+UID:c830c9edcda47f47b1bd42147f26c64f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T150000Z
+LOCATION:2-111(2В)
+DTSTART:20260209T133000Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:79643973073f8355203cce1665b9cdf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260314T113000Z
+LOCATION:3-419
+DTSTART:20260314T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:118c841d3bfefed66ab9c638cc998ec5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260529T073000Z
@@ -3050,12 +3807,26 @@ SUMMARY:ЛК Программирование на языках высокого
 UID:ac915c510fc9045525e03fb33722c76e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T131500Z
+LOCATION:3-417
+DTSTART:20260518T114500Z
+SUMMARY:ЛР Численные методы
+UID:cbe55f121086dad782b1666e0f028575
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Терентьева Валентина Сергеевна
 DTEND:20250930T164500Z
 LOCATION:ГУК В-214
 DTSTART:20250930T151500Z
 SUMMARY:ЛК Материаловедение
 UID:076775b0ab96e71f1b8b6ccf98963ac5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T113000Z
+LOCATION:ГУК Б-344
+DTSTART:20260430T100000Z
+SUMMARY:ЛР Сопротивление материалов
+UID:8e6624b39f99f6e77ab395aa831d27ed
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260320T131500Z
@@ -3101,14 +3872,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:f6ae3f30be07dd692c014f1155ea855b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ерикова Анастасия Михайловна
-DTEND:20260210T091500Z
-LOCATION:2-201(2А)
-DTSTART:20260210T074500Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:79dd80d7b3e3f7ece923940077349e2e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Прокофьев Михаил Владимирович
 DTEND:20251201T150000Z
 LOCATION:ГУК В-214
@@ -3148,6 +3911,14 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:2161fd0472c28c32e649e7b20e07d158
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20260311T113000Z
+LOCATION:ГУК Б-649
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Уравнения математической физики
+UID:ddb67fb9ec8a1df9dffda6e70f39006a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Катанов Максим Андреевич
 DTEND:20251016T164500Z
 LOCATION:2-211(2А)
@@ -3156,11 +3927,12 @@ SUMMARY:ПЗ Программирование на языках высокого
 UID:56763b99203cd2faa5f31b5cf3bfbba8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260522T131500Z
-LOCATION:--каф.
-DTSTART:20260522T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:024d4a57dedc086d9a9942f8d1f6cbd0
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260427T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:e0caa387e460cbfd999749085bea3192
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
@@ -3176,6 +3948,27 @@ LOCATION:--каф. 919
 DTSTART:20250903T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:91d13bfc87d8dc283f2c516a21a53788
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T131500Z
+LOCATION:--каф.
+DTSTART:20260522T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:024d4a57dedc086d9a9942f8d1f6cbd0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T164500Z
+LOCATION:2-003(2В)
+DTSTART:20260427T151500Z
+SUMMARY:ЛР Термодинамика и теплопередача
+UID:c7ee787bc8b9aa303c715da5f7828338
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T150000Z
+LOCATION:2-104(2В)
+DTSTART:20260312T133000Z
+SUMMARY:ПЗ Спецглавы термодинамики
+UID:b56866f4e7ef35416ae391fb793855ca
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251003T113000Z
@@ -3208,6 +4001,14 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:b7a401caeb0ad74a1adfad0d22b1dda7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260302T113000Z
+LOCATION:2-201(2А)
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:2441a8b04e3c961cbde7cb220daf0aff
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Меснянкин Сергей Юрьевич
 DTEND:20260520T131500Z
 LOCATION:2-201(2А)
@@ -3231,6 +4032,13 @@ SUMMARY:ПЗ Иностранный язык
 UID:7c1acabe2b149528be073af4380fa0b6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260407T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260407T151500Z
+SUMMARY:ЛК Численные методы
+UID:3f579b4216238f53d510ec4e911321d4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Меснянкин Сергей Юрьевич
 DTEND:20260325T131500Z
 LOCATION:2-201(2А)
@@ -3244,6 +4052,13 @@ LOCATION:--каф.
 DTSTART:20260508T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:259c5b1358ef447d2a3c52413961b5cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260316T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:fe42cbf80cb18ecf5583346d6a486e8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зайцева Ольга Борисовна
@@ -3275,11 +4090,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:cf81e82febd5c6e5935372392d6bd481
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260331T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260331T060000Z
-SUMMARY:ЛК Численные методы
-UID:592d48b6a9c486b8332126723eda9e01
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260507T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:0bb8980c031beec3d4d987a2be8f8331
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T131500Z
+LOCATION:ГУК А-104
+DTSTART:20260319T114500Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:b178345503449b4f49f2604a00d114be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
@@ -3316,6 +4139,13 @@ LOCATION:--каф.
 DTSTART:20260515T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:d1de847a00961127daa2f74fdedde2ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T091500Z
+LOCATION:--каф. 919
+DTSTART:20260427T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:46a20868f5712fe8d094e91494906e2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Редников Сергей Николаевич
@@ -3356,6 +4186,13 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:32f9cc5ee34705eeab15fab923bbff67
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T091500Z
+LOCATION:--каф. 919
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:b0554eec111be67ba0b57331d7b47f35
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251009T131500Z
 LOCATION:3-255
 DTSTART:20251009T114500Z
@@ -3368,6 +4205,13 @@ LOCATION:ГУК А-106
 DTSTART:20251218T100000Z
 SUMMARY:ЛР Материаловедение
 UID:d13653f47d86ed6413c0e73ecfd5c249
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T131500Z
+LOCATION:3-441
+DTSTART:20260321T114500Z
+SUMMARY:ПЗ Численные методы
+UID:f11b6531c0ec15b9e0bda999e0427604
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Меснянкин Сергей Юрьевич
@@ -3392,6 +4236,13 @@ SUMMARY:ЛР Материаловедение
 UID:ad083acca78db053c0cb02ffa494c499
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260518T113000Z
+LOCATION:3-417
+DTSTART:20260518T100000Z
+SUMMARY:ЛР Численные методы
+UID:6bf3d67afc43a42d11669b671b2083aa
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250924T131500Z
 LOCATION:--каф. 919
 DTSTART:20250924T114500Z
@@ -3407,11 +4258,11 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:7b98ea12c5e7cc47f15e9323f9fc15a8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260414T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260414T060000Z
-SUMMARY:ЛК Численные методы
-UID:3e5a97d694542b8984fa9c32f05fdda5
+DTEND:20260226T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:185d4434e5fae90b94c74eb18194c939
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260404T073000Z
@@ -3419,6 +4270,37 @@ LOCATION:Орш. А-507
 DTSTART:20260404T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:3e50dd827ecad219c1d10132b231956b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260423T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260423T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:0bf3524fb2fdddafa9fc7bb74ba11415
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катанов Максим Андреевич
+DTEND:20260406T131500Z
+LOCATION:2-204(2А)
+DTSTART:20260406T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:4f3a1d352442484937d62d53c953f51a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260302T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:bf8fe68d72b3ff21e237c6a8947751d2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T131500Z
+LOCATION:3-417
+DTSTART:20260601T114500Z
+SUMMARY:ЛР Численные методы
+UID:ccc9370e4588b85e9be9a7313fa06f5f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251218T131500Z
@@ -3519,6 +4401,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:ead2581343089d590f1d09469f771c9f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260521T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260521T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:24daada58b3cf44bf728ed141130859e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251215T113000Z
 LOCATION:3-255
 DTSTART:20251215T100000Z
@@ -3549,13 +4439,6 @@ SUMMARY:ПЗ Физическая культура
 UID:acae6db8f86af2bf15a8b6f91c58ae64
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260310T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260310T060000Z
-SUMMARY:ЛК Численные методы
-UID:c4aefe6b960f7602679faec15f8c73af
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250901T073000Z
 LOCATION:--каф. 919
 DTSTART:20250901T060000Z
@@ -3570,12 +4453,26 @@ SUMMARY:ЛР Материаловедение
 UID:cc3d9de76dfb04fc3026598dcbed1ac4
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260217T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260217T151500Z
+SUMMARY:ЛК Численные методы
+UID:82450b411224fa0b1d847fd0f33ed36e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
 DTEND:20251122T131500Z
 LOCATION:ГУК В-221
 DTSTART:20251122T114500Z
 SUMMARY:ЛК Химия
 UID:26c232adbad2220d46b7cf72798ddd20
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T091500Z
+LOCATION:--каф. 919
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:12da29afe8dd09d52bb1d8ce564622a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
@@ -3638,6 +4535,14 @@ SUMMARY:ПЗ Физическая культура
 UID:fafed1eccde878d35b6ca9e613d6ec83
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260316T131500Z
+LOCATION:2-201(2А)
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:d7667541aec0512b4e61b500526c6528
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260522T113000Z
 LOCATION:--каф.
 DTSTART:20260522T100000Z
@@ -3651,6 +4556,14 @@ LOCATION:2-211(2А)
 DTSTART:20251106T133000Z
 SUMMARY:ЛК Программирование на языках высокого уровня
 UID:e2be51542f94cfac93ef420a8bc0922e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260401T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:820386fc13adaa4c9e7e90ce236b4ad4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T073000Z
@@ -3682,6 +4595,13 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:42413075b82f103193ad1e16b44f2e36
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260511T091500Z
+LOCATION:--каф. 919
+DTSTART:20260511T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:31adef7dd51ec0109b49cdf8633ecdd9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
 DTEND:20251006T113000Z
 LOCATION:3-413
@@ -3703,13 +4623,6 @@ LOCATION:ГУК Б-734
 DTSTART:20250927T060000Z
 SUMMARY:ПЗ Инженерная графика
 UID:2a11c081f40f336f30524129c980b3b4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260407T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260407T060000Z
-SUMMARY:ЛК Численные методы
-UID:e3f3f199a5c464195afdbf108bd9bc52
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зудилова Екатерина Николаевна
@@ -3742,6 +4655,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:4d0683263c757f6a7190cf80ae48e6b2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260409T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:b23a749046b7eec25f52a4c289842d73
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецов Евгений Борисович
 DTEND:20251119T073000Z
 LOCATION:ГУК Б-460
@@ -3764,6 +4685,13 @@ SUMMARY:ПЗ Физическая культура
 UID:460cfa4b0bf13e2a86c04823b1b4cd1e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260330T164500Z
+LOCATION:2-111(2В)
+DTSTART:20260330T151500Z
+SUMMARY:ПЗ Применение CAD-систем в проектировании двигателей ЛА
+UID:940fed1782dfb9fda3e3fce07274e599
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
 DTEND:20251118T150000Z
 LOCATION:--каф.
@@ -3777,6 +4705,13 @@ LOCATION:--каф. 919
 DTSTART:20251013T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:bb1fd526ac17f2ad3d6956ddda2a12d1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T091500Z
+LOCATION:--каф. 919
+DTSTART:20260302T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:bfc72e9e06816308f02d5b16720d4290
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
@@ -3834,12 +4769,34 @@ SUMMARY:ЛК Программирование на языках высокого
 UID:cfcf00ef32b21d96c21b51589624f786
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260221T131500Z
+LOCATION:3-441
+DTSTART:20260221T114500Z
+SUMMARY:ПЗ Численные методы
+UID:137318fd7195b8aaa4d4e79d1cf5e520
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T164500Z
+LOCATION:ГУК В-214
+DTSTART:20260224T151500Z
+SUMMARY:ЛК Численные методы
+UID:78d46119e04f16bb77d1be3523f4e539
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Прокофьев Михаил Владимирович
 DTEND:20251223T164500Z
 LOCATION:ГУК В-214
 DTSTART:20251223T151500Z
 SUMMARY:ЛК Материаловедение
 UID:15a2d99184edec325b89dbb269945ea6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260606T113000Z
+LOCATION:3-419
+DTSTART:20260606T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:dc237cf5b58f9aa61a6dd607061c5c78
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260529T131500Z
@@ -3855,13 +4812,6 @@ LOCATION:ГУК Б-460
 DTSTART:20251001T074500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:272046c87b9c198921f7a64f4f0e4dc5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260602T073000Z
-LOCATION:ГУК В-221
-DTSTART:20260602T060000Z
-SUMMARY:ЛК Численные методы
-UID:27fbac68c4b0408d1dd5ab874b045f72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИЛЬИНА ЕЛЕНА БОРИСОВНА
@@ -3902,6 +4852,22 @@ SUMMARY:ЛР Химия
 UID:40ab3c526280bec26cddc008ee91a791
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20260226T131500Z
+LOCATION:2-211(2А)
+DTSTART:20260226T114500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:9a2bed4aae15f06af24f6a128a8c89a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Меснянкин Сергей Юрьевич
+DTEND:20260513T113000Z
+LOCATION:2-004(2В)
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Термодинамика и теплопередача
+UID:f141d7928f461fb001305c64a907d47e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кузнецов Евгений Борисович
 DTEND:20250910T091500Z
 LOCATION:ГУК В-221
@@ -3918,11 +4884,40 @@ SUMMARY:ЛК Материаловедение
 UID:d85016e9aa193d47a147c2d5181de934
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:2-211(2А)
+DTSTART:20260423T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:733c1c6e714c869274dbd852877fab14
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260213T091500Z
 LOCATION:--каф.
 DTSTART:20260213T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:e7de22358b5ea7a0798880698e80a64f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T131500Z
+LOCATION:3-441
+DTSTART:20260502T114500Z
+SUMMARY:ПЗ Численные методы
+UID:65d78b578d6d08f800e36680e18ee65f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260219T113000Z
+LOCATION:ГУК А-104
+DTSTART:20260219T100000Z
+SUMMARY:ЛР Технология конструкционных материалов
+UID:4cb9479b4588a948d8360814b85dad41
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучева Наталья Александровна
+DTEND:20260411T113000Z
+LOCATION:3-419
+DTSTART:20260411T100000Z
+SUMMARY:ПЗ Уравнения математической физики
+UID:60110b79ecf385b87a1a0c65b7adb2d0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T073000Z

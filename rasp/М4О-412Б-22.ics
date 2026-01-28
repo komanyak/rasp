@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260314T073000Z
-LOCATION:24Б-326
-DTSTART:20260314T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:95099499baabc4b440ea364ad7810500
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чайка Надежда Кирилловна
 DTEND:20251119T150000Z
 LOCATION:5-406
@@ -102,13 +95,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:e86cb2d27885b2dbcbef461240814db0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260328T073000Z
-LOCATION:24Б-326
-DTSTART:20260328T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:942ee741ed3863a455200c192a916313
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
 DTEND:20251216T150000Z
 LOCATION:24Б-328
@@ -123,13 +109,6 @@ LOCATION:24Б-322
 DTSTART:20250927T074500Z
 SUMMARY:ПЗ Моделирование телекоммуникационных систем и сетей
 UID:cdb8a7dd0a7cd9496af11bcc03dcd3d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260328T091500Z
-LOCATION:24Б-326
-DTSTART:20260328T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:2691b847bff1590e52fbd00904a96507
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -227,12 +206,26 @@ SUMMARY:ЛК Основы проектирования защищённых те
 UID:0d38f968013c135e810d8b9de204a84b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260213T131500Z
+LOCATION:24Б-326
+DTSTART:20260213T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:1b69bc87046d53b6e42e7e2c3526bf2f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
 DTEND:20250912T073000Z
 LOCATION:24Б-326
 DTSTART:20250912T060000Z
 SUMMARY:ЛК Методы защиты радиолиний аэрокосмических телекоммуникационных систем
 UID:e9df8091a496ddf905f7bbeb47565922
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260403T113000Z
+LOCATION:24Б-501
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:b5e1d263f5a8bf5c903382409d803ec5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудряшова Анастасия Юрьевна
@@ -310,6 +303,13 @@ LOCATION:--каф.
 DTSTART:20250911T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:b4d4b514ba2636bd0fde33e48204dbf6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T131500Z
+LOCATION:24Б-326
+DTSTART:20260220T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:145b86d3c02aa7ec2213501a0e399b99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Толкачев Владислав Иванович
@@ -580,11 +580,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:e1d7a849e56f5fbde1823a58796b462d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260321T073000Z
+DTEND:20260403T131500Z
 LOCATION:24Б-326
-DTSTART:20260321T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:30ac27312032020efee23688430745ea
+DTSTART:20260403T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:51e6db0e7e71a4ff8e751786dc73300b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250918T113000Z
@@ -787,13 +787,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:42b9f231d7f0b57d1247650711d42d77
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260321T091500Z
-LOCATION:24Б-326
-DTSTART:20260321T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:c77f9840a929055151aa36e61befc05a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кудряшова Анастасия Юрьевна
 DTEND:20251004T091500Z
 LOCATION:24Б-322
@@ -902,13 +895,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:07cd3b91cd3f2ba36d1f95693a74e11e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260214T091500Z
-LOCATION:24Б-326
-DTSTART:20260214T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:687baa36fadd1224df1f4420a7d87467
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251120T091500Z
 LOCATION:--каф.
 DTSTART:20251120T074500Z
@@ -959,13 +945,6 @@ LOCATION:--каф.
 DTSTART:20251204T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ece0f722755b5cd760da14ac7b4fa1ee
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260411T073000Z
-LOCATION:24Б-326
-DTSTART:20260411T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:9b3c280dcb01a7da1c11e393cda00dc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Джум Владимир Сергеевич
@@ -1023,25 +1002,11 @@ SUMMARY:ЛК Технические средства защиты информа
 UID:7a1c969c9c6d291dda0dd7ae1c6c73b7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260221T091500Z
-LOCATION:24Б-326
-DTSTART:20260221T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:d55629cf734d8acc4ebf4de54219dd96
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250925T091500Z
 LOCATION:--каф.
 DTSTART:20250925T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:343c3e2ac776f4b01e9675c4c7be9fc7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T073000Z
-LOCATION:24Б-326
-DTSTART:20260425T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:bdfbe4f33eab00a65745ab83e9969990
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1105,6 +1070,13 @@ LOCATION:--каф.
 DTSTART:20251127T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:8ac4461b508ca4f252bb507746e5384e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:24Б-501
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:0a82f51ccc9534e1c12058a1d1d5abcd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Джум Владимир Сергеевич
@@ -1270,6 +1242,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:6d0f337c71324db2885149833e512fb7
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:24Б-501
+DTSTART:20260410T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:36d8a7b11e3c9ece6e6568ae4efca847
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Чайка Надежда Кирилловна
 DTEND:20251105T150000Z
 LOCATION:5-406
@@ -1356,6 +1335,20 @@ SUMMARY:ЛК Комплексная защита объектов информа
 UID:bd23da2c5fa56f9c76e398f9623e988c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:24Б-501
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:d04423dcce31f6dc95c566e59cf1b7bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T131500Z
+LOCATION:24Б-326
+DTSTART:20260424T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:31be24879192591b0459b453c61feb3c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Михайлов Владимир Юрьевич
 DTEND:20250916T091500Z
 LOCATION:24Б-324
@@ -1385,13 +1378,6 @@ LOCATION:24Б-325
 DTSTART:20251001T114500Z
 SUMMARY:ПЗ Основы проектирования защищённых телекоммуникационных систем
 UID:0a0fad9398e2c93ac70b7e09fcfd090e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T091500Z
-LOCATION:24Б-326
-DTSTART:20260418T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:f20c7dbcd488b52c481cbc724e6bec0d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251225T091500Z
@@ -1766,6 +1752,13 @@ SUMMARY:ЛК Защита информации от утечки по техни
 UID:0786d26453228b9d55cc061869dc6a8c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:24Б-501
+DTSTART:20260213T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:e829ac2ebab8cf1cc7d6c9d7df5771aa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ермолаева Елена Николаевна
 DTEND:20250924T113000Z
 LOCATION:5-111
@@ -1780,6 +1773,13 @@ LOCATION:24Б-322
 DTSTART:20251220T060000Z
 SUMMARY:ЛР Моделирование телекоммуникационных систем и сетей
 UID:bac7e7e709b0d0e28fc17a8215a7965b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T131500Z
+LOCATION:24Б-326
+DTSTART:20260327T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:ba78f61dae8fbcde66994c93d506d22d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1830,13 +1830,6 @@ SUMMARY:ПЗ Основы проектирования защищённых те
 UID:17a4efd9510cac5e24b2d2df15a14702
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260307T073000Z
-LOCATION:24Б-326
-DTSTART:20260307T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:2694e2fcbca0cfdca2bb41c9220cc568
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
 DTEND:20260407T113000Z
 LOCATION:24Б-326
@@ -1858,6 +1851,13 @@ LOCATION:--каф.
 DTSTART:20250911T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:51ee52134f0f8352c33a4024159333f8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T113000Z
+LOCATION:24Б-501
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:ac9f8516d5afdf5aac02dbc414347355
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
@@ -1884,13 +1884,6 @@ SUMMARY:ЛР Технические средства защиты информа
 UID:db37005c81a2bcd8ca7b226c02304431
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260404T091500Z
-LOCATION:24Б-326
-DTSTART:20260404T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:a422150419b6627942d350aa02aee916
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251120T131500Z
 LOCATION:--каф.
 DTSTART:20251120T114500Z
@@ -1914,6 +1907,13 @@ SUMMARY:ЛР Технические средства защиты информа
 UID:896ecdfc189dbeaf3860a276525dc143
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T131500Z
+LOCATION:24Б-326
+DTSTART:20260306T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:2e54ced94a2cae3c2a6a849a63c34212
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
 DTEND:20251202T131500Z
 LOCATION:24Б-328
@@ -1927,6 +1927,13 @@ LOCATION:--каф.
 DTSTART:20260312T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:6192346105cb28087a3c6baa9dae42f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:24Б-501
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:f196adcbf89beada2adfe4cca4c2e9af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
@@ -2136,27 +2143,6 @@ SUMMARY:ЛК Технические средства защиты информа
 UID:863cf2caddc43b02c0d8bffbedf9ea61
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260228T073000Z
-LOCATION:24Б-326
-DTSTART:20260228T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:6506495caf2c738bd2c61dd28a630705
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T073000Z
-LOCATION:24Б-326
-DTSTART:20260214T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:031dfac95bc62168b8d08b1dc8b2e385
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260228T091500Z
-LOCATION:24Б-326
-DTSTART:20260228T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:99eb5e8a3c05e4b968faafb89adf2b84
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
 DTEND:20251121T073000Z
 LOCATION:24Б-326
@@ -2358,13 +2344,6 @@ SUMMARY:ЛР Моделирование телекоммуникационных
 UID:540a2a4448b253deeea36f6f9f68d872
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260411T091500Z
-LOCATION:24Б-326
-DTSTART:20260411T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:65bf3bfed5d80d703cd111672ff5ea17
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251016T073000Z
 LOCATION:--каф.
 DTSTART:20251016T060000Z
@@ -2555,13 +2534,6 @@ SUMMARY:ПЗ Технические средства защиты информа
 UID:7a23cbea3368feec9aac935b90823d8d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260404T073000Z
-LOCATION:24Б-326
-DTSTART:20260404T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:c8093a0fe4da8dcb2560302ad32ad68f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
 DTEND:20251227T131500Z
 LOCATION:24Б-325
@@ -2592,6 +2564,13 @@ LOCATION:5-111
 DTSTART:20251210T100000Z
 SUMMARY:ЛК Экономика отрасли
 UID:00b9c250160ab2b53840fd6881216fde
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T131500Z
+LOCATION:24Б-326
+DTSTART:20260227T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:f77a1fcafa36f08b9af06ec4a9609eaf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
@@ -2664,6 +2643,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:3bbbcffc5407bcc3250739a8d3a40b47
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T131500Z
+LOCATION:24Б-326
+DTSTART:20260417T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:151ae055822cb85e25730cd70ae3c2e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
 DTEND:20250909T150000Z
 LOCATION:24Б-328
@@ -2708,6 +2694,13 @@ LOCATION:--каф.
 DTSTART:20250911T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ed4a0101ae0c57fedd51cb76113f8ccf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:24Б-501
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:9c93d7ea0ac8a4b6b2834bbcdc507326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -2808,6 +2801,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:c8240b27c2cd168ca4512ecf6a8735ba
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260327T113000Z
+LOCATION:24Б-501
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:4968b5838f9d89def6ad8e1317dd71f9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шемяков Александр Олегович
 DTEND:20260428T131500Z
 LOCATION:24Б-327
@@ -2840,11 +2840,11 @@ SUMMARY:ПЗ Экономика отрасли
 UID:6a0cb029bd5d60200b26230ef533812a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260307T091500Z
+DTEND:20260320T131500Z
 LOCATION:24Б-326
-DTSTART:20260307T074500Z
+DTSTART:20260320T114500Z
 SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:0d6c39b05f0d0b84abf4882c72dc76ae
+UID:5e5c78b450ee861dd93427dd700d13ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вакульчик Ольга Витальевна
@@ -2887,6 +2887,13 @@ SUMMARY:ЛК Технические средства защиты информа
 UID:fde962c2ca98852cffdd757c8d0e0846
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260410T131500Z
+LOCATION:24Б-326
+DTSTART:20260410T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:8085a10bdcc4ba5250b0869e2be036d0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251023T131500Z
 LOCATION:--каф.
 DTSTART:20251023T114500Z
@@ -2915,13 +2922,6 @@ LOCATION:24Б-326
 DTSTART:20250922T114500Z
 SUMMARY:ПЗ Методы защиты радиолиний аэрокосмических телекоммуникационных систем
 UID:703aa79ec473bf077404f919872e86e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T073000Z
-LOCATION:24Б-326
-DTSTART:20260418T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:16a3abfca1a9023c297309206bd29359
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
@@ -2980,13 +2980,6 @@ SUMMARY:ЛК Экономика отрасли
 UID:9cc1c7cdebdcfba73b4cb586829f876c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260425T091500Z
-LOCATION:24Б-326
-DTSTART:20260425T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:79e116efc6471045ea353de5a7d18447
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Картуков Андрей Владимирович
 DTEND:20251212T091500Z
 LOCATION:24Б-722
@@ -3001,6 +2994,13 @@ LOCATION:24Б-328
 DTSTART:20260323T114500Z
 SUMMARY:ЛР Технические средства защиты информации
 UID:d973dc59c4f9cce81a6eee5bab833f66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260424T113000Z
+LOCATION:24Б-501
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:a96dbabee00188d3a693827c54c615ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Картуков Андрей Владимирович
@@ -3120,6 +3120,13 @@ SUMMARY:ЛК Технические средства защиты информа
 UID:dfb7594bfd94dc3bb41ea910c08dbee8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:24Б-501
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:5c23d7c97b19dde1f1e34a3ca55da529
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250918T073000Z
 LOCATION:--каф.
 DTSTART:20250918T060000Z
@@ -3209,13 +3216,6 @@ LOCATION:24Б-326
 DTSTART:20260117T074500Z
 SUMMARY:Экзамен Методы защиты радиолиний аэрокосмических телекоммуникационных систем
 UID:6c9a3c82a99f52fb943da5fb0d6a1891
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T073000Z
-LOCATION:24Б-326
-DTSTART:20260221T060000Z
-SUMMARY:ЛК Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:ef0bea8ea25d51c0d4e266caeb009670
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T091500Z
@@ -3380,6 +3380,13 @@ SUMMARY:ПЗ Основы управления информационной бе
 UID:ce87dc249b5b12aba3a27b7ea3c005e9
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260313T131500Z
+LOCATION:24Б-326
+DTSTART:20260313T114500Z
+SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
+UID:ab9a033a0fa4039b3d1c1a1f0eade825
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кабанов Дмитрий Дмитриевич
 DTEND:20260324T131500Z
 LOCATION:24Б-328
@@ -3478,13 +3485,6 @@ LOCATION:24Б-327
 DTSTART:20251025T114500Z
 SUMMARY:ЛК Защита информации от утечки по техническим каналам
 UID:dbb43a7be235609f97e4908a75233ab2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260314T091500Z
-LOCATION:24Б-326
-DTSTART:20260314T074500Z
-SUMMARY:ПЗ Основы технической эксплуатации защищенных телекоммуникационных систем
-UID:0fc66fa10e7371d9b3d544028d590146
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Джум Владимир Сергеевич
