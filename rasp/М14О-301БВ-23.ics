@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260406T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260406T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:9580e9c783c43ebb92e2f9fb2dd74b1f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
 DTEND:20251022T150000Z
 LOCATION:ГУК Б-338
@@ -36,14 +29,6 @@ LOCATION:3-115
 DTSTART:20251101T074500Z
 SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
 UID:2e25946517c6de5f651cfefc348653bd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260316T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260316T114500Z
-SUMMARY:ЛК Динамика полета
-UID:62fa89a466084bb055f8800f68029a7d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260220T073000Z
@@ -79,6 +64,21 @@ LOCATION:Орш. А-301
 DTSTART:20260216T133000Z
 SUMMARY:ЛК Жизненный цикл изделий авиационной техники
 UID:8f154ad9cc3005de927f00fa1c6c6a53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260328T091500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260328T074500Z
+SUMMARY:ЛР Технология производства ЛА
+UID:95822e837d6c113924bab30ae2ffbf7c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260414T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:28af777b32adbd84c7ac9eeb7d799d9c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251008T113000Z
@@ -138,6 +138,13 @@ SUMMARY:ЛК Лидерство в индустрии
 UID:ead46a8f80584cf1960a0e1c8a9d210d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260423T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260423T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:11f345f09acca1aa016f31636e27e677
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
 DTEND:20251225T131500Z
 LOCATION:Орш. А-530
@@ -160,11 +167,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:14ccabdfe977bf9b1c3c37c9207b1cb7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260511T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260511T151500Z
+SUMMARY:ЛК Динамика полета
+UID:4ac3b913afb8c326cd4813e810ac9384
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260520T073000Z
 LOCATION:Орш. А-301
 DTSTART:20260520T060000Z
 SUMMARY:ЛК Силовая установка
 UID:d9dd9bbd94ee61310dff6458bf30bd4c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:5896b153688ba8bbb31241de2a93c74e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:bdb6ed69b16c80ea2b4a3429f1084bc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -173,6 +202,13 @@ LOCATION:Орш. А-320
 DTSTART:20250918T100000Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:ae6237e5fe8f20291bcbd22883b82516
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T113000Z
+LOCATION:--стадион
+DTSTART:20260216T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:09ee8d44e1f41093fd821db9c1702389
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260318T073000Z
@@ -212,6 +248,21 @@ SUMMARY:ПЗ Военная подготовка
 UID:a7cf75333594a03979294abe2f24a789
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--каф. 919
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9d388f1a7fa5416763b59aad8535e95a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260331T164500Z
+LOCATION:24-529
+DTSTART:20260331T151500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:645a7889b5014108aef2652b6519d9bc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251121T091500Z
 LOCATION:--каф.
 DTSTART:20251121T074500Z
@@ -219,11 +270,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:1aa6bde6b0dc54df3b16a31516708e62
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--каф. 919
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:84a710baf4dbf929ee535c544751b63f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251111T113000Z
 LOCATION:Орш. А-320
 DTSTART:20251111T100000Z
 SUMMARY:ПЗ Инженерная социология
 UID:8d250c2258bca2dcfec9ad5f9f763481
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260210T113000Z
+LOCATION:4-304
+DTSTART:20260210T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:2815663f42bf183c829da7712caff7bd
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T091500Z
@@ -262,14 +328,6 @@ SUMMARY:ЛР Информационная поддержка жизненног�
 UID:01f9a41f33f66d74abd3b85c48dbf11c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260302T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260302T114500Z
-SUMMARY:ЛК Динамика полета
-UID:e87d3f12228a3015048b7a2f849222c6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250920T091500Z
 LOCATION:3-115
 DTSTART:20250920T074500Z
@@ -282,6 +340,35 @@ LOCATION:Орш. А-301
 DTSTART:20260601T133000Z
 SUMMARY:ЛК Жизненный цикл изделий авиационной техники
 UID:488b4a5174ae27fc818c764d96c30245
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T073000Z
+LOCATION:ГУК Б-644
+DTSTART:20260310T060000Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:3ace5a52535dd7107f38fb7b407b0573
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260504T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260504T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:2958cd6ad4c1dc898bdac1299cd9ecf3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T091500Z
+LOCATION:ГУК Б-644
+DTSTART:20260407T074500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:df976d661fd19910f4b73fcc1414c7a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T113000Z
+LOCATION:--стадион
+DTSTART:20260511T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c5a8e9e7931c8179a789170180d9d02d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
@@ -320,11 +407,34 @@ SUMMARY:ЛК Аэродинамика
 UID:cb29d1a4f92528cc6237c255be79d1f0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260314T073000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260314T060000Z
+SUMMARY:ЛР Технология производства ЛА
+UID:7a5fd4f1fe1b18d183f8863f4c81aad9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T073000Z
 LOCATION:Орш. А-320
 DTSTART:20250922T060000Z
 SUMMARY:ЛК Прикладная экология
 UID:b0c90f18985e90a5bbe515a6e172796f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260519T131500Z
+LOCATION:4-304
+DTSTART:20260519T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:7b17d95657f2ff0a46ff713cb1cd6210
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:b1bffe41273183dc00a5b9270822a366
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -365,6 +475,22 @@ SUMMARY:ЛР Конструкция летательных аппаратов
 UID:a33fbb3a5ff388efe2a28d35452ec2c1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260420T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260420T151500Z
+SUMMARY:ЛК Динамика полета
+UID:9c4c6e9f0658ccfc4114204135438112
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260328T113000Z
+LOCATION:2-214(2В)
+DTSTART:20260328T100000Z
+SUMMARY:ЛР Силовая установка
+UID:6f2629757caad77e624734c4ce178ba8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260513T073000Z
 LOCATION:Орш. А-301
 DTSTART:20260513T060000Z
@@ -400,6 +526,13 @@ SUMMARY:ЛК Прикладная экология
 UID:bea2781b442c71e4bcf77964d3789cd6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260409T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:4330ef1249d9ef92c4c6f91941ce79b7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пантюх Дарья Витальевна (осн.)
 DTEND:20260112T091500Z
 LOCATION:Орш. А-320
@@ -408,11 +541,25 @@ SUMMARY:Экзамен Лидерство в индустрии
 UID:e39e856687a7046e0ad5de3703291cfe
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260401T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260401T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:5cbf019e21781c972bf9ab59d3460059
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250915T131500Z
 LOCATION:--стадион
 DTSTART:20250915T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:955d2adad048652f9abfdfca63a6009f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--каф. 919
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:be4ea357837b576f07ce59c2dad9e77d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T113000Z
@@ -436,6 +583,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:63310f5c5ed121a968698955e1d676ce
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260209T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260209T151500Z
+SUMMARY:ЛК Динамика полета
+UID:b0fe3c8d94609681e57856d4e1f1c743
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250902T113000Z
 LOCATION:Орш. А-320
 DTSTART:20250902T100000Z
@@ -448,6 +603,14 @@ LOCATION:--каф.
 DTSTART:20260313T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:7f73ae7df5e29133a3465f58256c8e74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260328T073000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260328T060000Z
+SUMMARY:ЛР Технология производства ЛА
+UID:12db36d198ed010ff3829b9f931f4524
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260320T091500Z
@@ -469,6 +632,20 @@ LOCATION:Орш. А-301
 DTSTART:20260219T060000Z
 SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:fde31dcd277412b9bc7b137816225dcd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--каф. 919
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:a4978e3555fbe4046bae1449788c7abc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260212T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:a2656e41f4567e8f7e0b76b6ca3057ea
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251014T131500Z
@@ -531,6 +708,14 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:2df78014fdbdf1eb0451a124a47ae7e1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260505T113000Z
+LOCATION:4-304
+DTSTART:20260505T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:6a4eadad11efe40cc63fa78dcf429830
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T091500Z
 LOCATION:Орш. А-320
 DTSTART:20251118T074500Z
@@ -559,6 +744,13 @@ SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:bc7444a4b30cd1056177c67e2341bff2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260318T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:e928b3723089af4147008c5a137508a8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20251016T131500Z
 LOCATION:Орш. А-320
@@ -574,19 +766,19 @@ SUMMARY:ПЗ Физическая культура
 UID:75e3ad3ca748e3c1918438ae8c8c5c73
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260518T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260518T114500Z
-SUMMARY:ЛК Динамика полета
-UID:3b91932c013bd9e3aec638c04b493426
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251223T131500Z
 LOCATION:Орш. А-320
 DTSTART:20251223T114500Z
 SUMMARY:ЛК Инженерная социология
 UID:c8298ff6516f3c1fa4e82bfddcd5f5f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260314T131500Z
+LOCATION:2-214(2В)
+DTSTART:20260314T114500Z
+SUMMARY:ЛР Силовая установка
+UID:a9d430904dea9f97d302ead2c62e84ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -611,6 +803,14 @@ SUMMARY:ЛК Жизненный цикл изделий авиационной �
 UID:e6b924b539aa83e88b82c4d5777d2833
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260505T131500Z
+LOCATION:4-304
+DTSTART:20260505T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:60a4e9d47591c399721a7a973e9b063b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260220T131500Z
 LOCATION:--каф.
 DTSTART:20260220T114500Z
@@ -625,6 +825,14 @@ SUMMARY:ЛР Информационная поддержка жизненног�
 UID:a3d1518126aa7a0e9ea9c75840607fd6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260331T150000Z
+LOCATION:24-529
+DTSTART:20260331T133000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:d9eaa2d4c51e613c26824cb4071cf7b1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251014T091500Z
 LOCATION:Орш. А-320
 DTSTART:20251014T074500Z
@@ -637,6 +845,14 @@ LOCATION:--каф.
 DTSTART:20251205T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:6d4a1b6826f261861d1fe25d1d4c01d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260302T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:7b51e5fe5df3753429590a0350565816
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251101T113000Z
@@ -660,6 +876,13 @@ SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:35c8c9efd5489fdceebf9f4d4d3f25ca
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260504T113000Z
+LOCATION:--стадион
+DTSTART:20260504T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e7e3a56b1d950e7ed23af741a4c59888
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251029T131500Z
 LOCATION:1-23  ангар
 DTSTART:20251029T114500Z
@@ -673,6 +896,13 @@ LOCATION:Орш. А-320
 DTSTART:20251106T074500Z
 SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
 UID:661cb5edc395aa98b49fac5c932a0203
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T091500Z
+LOCATION:ГУК Б-644
+DTSTART:20260421T074500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:66f77cbede74085985647b7b007c75fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
@@ -721,19 +951,18 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:6b0ba99f7335b34ae916ca54ff076603
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260330T113000Z
+LOCATION:--стадион
+DTSTART:20260330T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:241e9d96e3dbf70b0584588e813cfaec
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260319T091500Z
 LOCATION:Орш. А-301
 DTSTART:20260319T074500Z
 SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:5021af61369e747ad993e5d1970fa41f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260406T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260406T114500Z
-SUMMARY:ЛК Динамика полета
-UID:0f13094c024707287efec3318b4fa62f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251117T113000Z
@@ -770,6 +999,14 @@ LOCATION:3-115
 DTSTART:20251129T074500Z
 SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
 UID:a3a0cb11952266cd5f9d0bb8aa7fa9d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260427T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:4b71bde23913b4b729cd801bbe22968c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260429T091500Z
@@ -814,11 +1051,11 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:726dc1dd6745c54cf04f55e13635cc31
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260323T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260323T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:52c5a33b2652b43526ca2ff0efa2c921
+DTEND:20260326T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260326T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:0ab947e898875123be414aeb9b018edb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251223T113000Z
@@ -826,13 +1063,6 @@ LOCATION:Орш. А-320
 DTSTART:20251223T100000Z
 SUMMARY:ПЗ Инженерная социология
 UID:cc55592dba7b35058fcd9d7ab32cc1eb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260504T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:febf1aeb6461c41a4d377bf34d45c632
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -843,6 +1073,14 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:65d742073e63c9060ea5fdd1cee4ae89
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260413T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260413T151500Z
+SUMMARY:ЛК Динамика полета
+UID:c258f74a2596c04971092e3f73889dcd
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T131500Z
 LOCATION:1-9 ангар
 DTSTART:20251122T114500Z
@@ -850,11 +1088,19 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:2e52c86a17a209244308fc4e8c9e08de
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260514T073000Z
-LOCATION:Орш. А-301
-DTSTART:20260514T060000Z
-SUMMARY:ЛК Конструирование деталей и узлов ЛА
-UID:a307a848c7344fd8dad3d9280e455a7d
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260317T150000Z
+LOCATION:24-529
+DTSTART:20260317T133000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:d0ca5f8ef694678583d393f4e9495f06
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260428T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:0c2a81f155de346a37e0f2e563e6537f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260306T091500Z
@@ -883,6 +1129,21 @@ LOCATION:Орш. А-320
 DTSTART:20250923T114500Z
 SUMMARY:ЛК Маркетинг и рынки применения в высокотехнологичных отраслях промышленности (на английском)
 UID:e7c13aef6b527d8437f0ee0055ad6c03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260413T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:3c80a6b691ad4b1ddcecb4624d2af0b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T073000Z
+LOCATION:Орш. А-301
+DTSTART:20260514T060000Z
+SUMMARY:ЛК Конструирование деталей и узлов ЛА
+UID:a307a848c7344fd8dad3d9280e455a7d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
@@ -915,6 +1176,21 @@ SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:c2882704fdb74909333acb26ba051b10
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260525T113000Z
+LOCATION:--стадион
+DTSTART:20260525T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d6f2b86fccf33b64a0a4dff8466ecdc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260420T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260420T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:0739fdf5ad480729b9fb735fb7115fc5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251027T073000Z
 LOCATION:Орш. А-320
 DTSTART:20251027T060000Z
@@ -938,11 +1214,25 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:7263111d981422383e757bd608d4dc35
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T113000Z
+LOCATION:--стадион
+DTSTART:20260406T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:0eef35cf8b7c42f3a0326f2101a0651f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251018T073000Z
 LOCATION:3-115
 DTSTART:20251018T060000Z
 SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
 UID:38b286fd2c4f204d977d8f43ea034484
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T113000Z
+LOCATION:--стадион
+DTSTART:20260413T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2d758ef64772a36883bd852904217fd7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250915T073000Z
@@ -960,11 +1250,25 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:ced7741e73bafb0f6e22b67a2fe6ebdc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260407T073000Z
+LOCATION:ГУК Б-644
+DTSTART:20260407T060000Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:babc495e07dca6b31d02545acffee0d9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250922T113000Z
 LOCATION:Орш. А-320
 DTSTART:20250922T100000Z
 SUMMARY:ЛК Аэродинамика
 UID:4f8123625459bcadd313753ed7665a5a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260507T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:ebda46e22f549af0b4c55294fd17269e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251118T113000Z
@@ -980,6 +1284,14 @@ LOCATION:Орш. А-530
 DTSTART:20251225T100000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:8cc2126c2bf5e475ca93d4fae5b016d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260411T091500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260411T074500Z
+SUMMARY:ЛР Технология производства ЛА
+UID:4de73e37bf921fce1cd80a247d8714b7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250904T073000Z
@@ -1001,6 +1313,21 @@ LOCATION:Орш. А-301
 DTSTART:20260304T060000Z
 SUMMARY:ЛК Силовая установка
 UID:1fe0cf9370c18e47c981e443fa0b80fd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:ba4309b03e89418909985598accab168
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260310T113000Z
+LOCATION:4-304
+DTSTART:20260310T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:47f99ba0827356294a58e99d0c6bbf7b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251018T113000Z
@@ -1031,11 +1358,35 @@ SUMMARY:ЛК Инженерная социология
 UID:95b10fc6dd12a83866812ee6d1bae5c5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260303T150000Z
+LOCATION:24-529
+DTSTART:20260303T133000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:41a2ce73ebd5c4295f03d58fc33aecfa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260425T113000Z
+LOCATION:2-214(2В)
+DTSTART:20260425T100000Z
+SUMMARY:ЛР Силовая установка
+UID:fb0e455293d9899848ead3bfb33f1038
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251006T131500Z
 LOCATION:--стадион
 DTSTART:20251006T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:058537a46873a3e885a98d17b484e405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260323T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260323T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:70c51795cc8691d0041c1e566581742c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T131500Z
@@ -1050,6 +1401,13 @@ LOCATION:Орш. А-320
 DTSTART:20250930T114500Z
 SUMMARY:ЛК Инженерная социология
 UID:10a1b010397e030d1224ae5959bc5546
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260304T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:f5aa1b275a6b50df75c95146d7b863ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260508T073000Z
@@ -1072,13 +1430,6 @@ LOCATION:Орш. А-301
 DTSTART:20251211T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:371b6f3b652f30922413398c6795c5e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260420T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:4100dbd5cd3b01905c80ebc7e3047e08
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260213T091500Z
@@ -1177,13 +1528,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:86b5120c40480572197c37f8242b545f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260601T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260601T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:6ea41a230802d541f95835657c9845d1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251107T091500Z
 LOCATION:--каф.
 DTSTART:20251107T074500Z
@@ -1262,12 +1606,12 @@ SUMMARY:ЛК Прикладная экология
 UID:07520a7fbeef37842cbb928d3f1ab788
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260330T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260330T114500Z
-SUMMARY:ЛК Динамика полета
-UID:f26ad8f6d0015cd8d2af592adf6c50d1
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260519T113000Z
+LOCATION:4-304
+DTSTART:20260519T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:f90ea649c2ee61606a54c4db5d035b79
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260427T150000Z
@@ -1292,11 +1636,25 @@ SUMMARY:ЛК Технология конструкционных материа�
 UID:9ad2c094c90ec41b43d0f384939f8623
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260324T091500Z
+LOCATION:ГУК Б-644
+DTSTART:20260324T074500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:f39f64b0763702da1ef4c68406dfbf7b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251007T073000Z
 LOCATION:Орш. А-320
 DTSTART:20251007T060000Z
 SUMMARY:ЛК Лидерство в индустрии
 UID:961407f0a4b80bb97feea75c6b7a6e61
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:aa654434d8729256e0dfab22bbf5a87f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T073000Z
@@ -1325,6 +1683,13 @@ LOCATION:--стадион
 DTSTART:20251002T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:026dca067f73a0bd6b5a5aaea47fd4fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--каф. 919
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:19b0f52ce9a82b13a5b42adbd7d3bc36
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250902T073000Z
@@ -1368,6 +1733,13 @@ LOCATION:--стадион
 DTSTART:20250918T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:041faf615002b0bcf41b43fb25aefa13
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T113000Z
+LOCATION:--стадион
+DTSTART:20260518T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2069aaa020550b3f3db2921491bf56da
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251128T113000Z
@@ -1442,6 +1814,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:9e0f042d389a2ebd841ef35667fd8cc7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260224T113000Z
+LOCATION:4-304
+DTSTART:20260224T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:5ec7ced9012073624afa1997fd9bd1b0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260603T073000Z
 LOCATION:Орш. А-301
 DTSTART:20260603T060000Z
@@ -1493,6 +1873,13 @@ SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:09fd177302b3a34eca85bed6b1db9ad8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260316T113000Z
+LOCATION:--стадион
+DTSTART:20260316T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:dbb839716c05393458eb21367d6356c5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260327T131500Z
 LOCATION:--каф.
 DTSTART:20260327T114500Z
@@ -1529,11 +1916,11 @@ SUMMARY:ЛК Управление жизненным циклом изделий
 UID:df741118cd2b5789e2a34f04dfd699d5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260316T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260316T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:7dcf0553893a4106befd3cbdc442ac0f
+DTEND:20260303T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260303T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:9878e3a5239c3c8466228d33fdbfaf10
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251022T131500Z
@@ -1593,6 +1980,14 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:2e370c61bb8626a9fe0c3ff5cf9357ff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260525T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260525T151500Z
+SUMMARY:ЛК Динамика полета
+UID:c33e05a5b0203cf3532881f7ea222992
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251122T113000Z
 LOCATION:1-9 ангар
 DTSTART:20251122T100000Z
@@ -1606,6 +2001,13 @@ LOCATION:ГУК Б-338
 DTSTART:20250903T133000Z
 SUMMARY:ЛК Технология конструкционных материалов
 UID:dff2d816a24d6091446ec9328882fa86
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260226T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:f8988d3d9c60ef554386ffe1fc88c502
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
@@ -1642,6 +2044,14 @@ LOCATION:--стадион
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:544925d0c6d9849dfb64c095f539792f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260330T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260330T151500Z
+SUMMARY:ЛК Динамика полета
+UID:10d2c61042ce1807e3f3624197090e16
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251106T073000Z
@@ -1708,11 +2118,41 @@ SUMMARY:ЛК Маркетинг и рынки применения в высок
 UID:1c30bdd36ba712db8aa05be0b8b585bc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260310T131500Z
+LOCATION:4-304
+DTSTART:20260310T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:f5f083880cf443f5e10785f198fcc7b5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251004T113000Z
 LOCATION:1-9 ангар
 DTSTART:20251004T100000Z
 SUMMARY:ЛК Конструкция летательных аппаратов
 UID:22ae7e20adf8e1fa57c94fd13e66dd10
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:0d729e705f4ffc8bc4cea1e9256038bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260428T164500Z
+LOCATION:24-529
+DTSTART:20260428T151500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:d4c5f0902c2940bb108299c19d08e894
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260226T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:6f6ff4dbf79857ac190baca4ed8cc13d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260422T073000Z
@@ -1735,13 +2175,6 @@ LOCATION:ГУК Б-338
 DTSTART:20250924T133000Z
 SUMMARY:ЛР Технология конструкционных материалов
 UID:ef0a589fadeceb4009fa4071a13c9fcb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260413T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260413T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:a6ec654cfe01198fad4cf0d24fdc2848
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250930T073000Z
@@ -1844,6 +2277,14 @@ SUMMARY:ЛК Жизненный цикл изделий авиационной �
 UID:163a9c6f1e5a74bd7a242a72f69408d6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260330T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:2d933cdf51064608ed56d60423d95e53
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260330T150000Z
 LOCATION:Орш. А-301
 DTSTART:20260330T133000Z
@@ -1872,19 +2313,19 @@ SUMMARY:ЛК Силовая установка
 UID:d26c48ebd7b872f0105bc1b7d5bfec57
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260511T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260511T114500Z
-SUMMARY:ЛК Динамика полета
-UID:0a364fa80b23f659418607ce3d4e6504
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260313T091500Z
 LOCATION:--каф.
 DTSTART:20260313T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:cda2a81e9508f39ec2039e4b8dcf1b7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260414T150000Z
+LOCATION:24-529
+DTSTART:20260414T133000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:4060088adce0e91aa1d8c1109b88a531
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250908T113000Z
@@ -1915,11 +2356,40 @@ SUMMARY:ПЗ Военная подготовка
 UID:2188c12b357501ce0936d8196987f625
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260421T073000Z
+LOCATION:ГУК Б-644
+DTSTART:20260421T060000Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:0601a1c5c14361c15aa092e2eb811608
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251204T073000Z
 LOCATION:--стадион
 DTSTART:20251204T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:084d5a860cd664a01ec0d78dc9144d2b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T131500Z
+LOCATION:--каф. 919
+DTSTART:20260218T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:35d96576c3baf2c08280f1feb0db6ef5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260314T091500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260314T074500Z
+SUMMARY:ЛР Технология производства ЛА
+UID:79cfeb0b92cce2acb3147763d0aec99e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--каф. 919
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2c4b0b4557ede78d0fb1a9af376d3449
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251208T073000Z
@@ -1929,11 +2399,11 @@ SUMMARY:ЛК Прикладная экология
 UID:ac94421ebf1bf2cb6bc3e2e225c5c296
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260330T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260330T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:fc45471547442304f9f901729959c96b
+DTEND:20260311T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:87b99477f0bb269090ca2254883d2592
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260515T131500Z
@@ -1965,11 +2435,12 @@ SUMMARY:Экзамен Конструкция летательных аппар�
 UID:eec9c35d119f7637449e88597de57677
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260518T164500Z
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260504T164500Z
 LOCATION:Орш. А-301
-DTSTART:20260518T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:0aa057684b7b330655f07d059aca6204
+DTSTART:20260504T151500Z
+SUMMARY:ЛК Динамика полета
+UID:a118a505f758c2637bfc98b631781f15
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251009T073000Z
@@ -1987,19 +2458,11 @@ SUMMARY:Экзамен Лидерство в индустрии
 UID:b8249355b36f22f2a1ae822e5db0a56e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260420T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260420T114500Z
-SUMMARY:ЛК Динамика полета
-UID:6d24c4d98c85a7fba9eb208f9301fe70
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260216T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:e255ace5fd230aa904da65819c90b730
+DTEND:20260323T113000Z
+LOCATION:--стадион
+DTSTART:20260323T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d7c754e80fb0870ef485ebe34428df7d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251105T150000Z
@@ -2045,11 +2508,41 @@ SUMMARY:ПЗ Военная подготовка
 UID:e9d982ca6bdceb88474d1d0ac4425f68
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260409T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:5cd78550b5044271f30abd1fdeb39a64
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251222T131500Z
 LOCATION:--стадион
 DTSTART:20251222T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:4469eecbfd37ae7fff6d8f008e3b7f65
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260314T113000Z
+LOCATION:2-214(2В)
+DTSTART:20260314T100000Z
+SUMMARY:ЛР Силовая установка
+UID:894cdfdb12d48d0b82bebda9dea526f1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260604T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:38283aa3c1b0c7504bdba37a1de4a404
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260303T164500Z
+LOCATION:24-529
+DTSTART:20260303T151500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:1e500d62747ddd917325aaa61090ec51
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T091500Z
@@ -2085,6 +2578,13 @@ LOCATION:Орш. А-301
 DTSTART:20260513T074500Z
 SUMMARY:ЛК Управление жизненным циклом изделий
 UID:c7bfde14919b8271823f49ba9289c66f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260521T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:0ac134daff6ac612a590d3c09fc63bb8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251015T113000Z
@@ -2130,6 +2630,14 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:c2a0deb14dc2b1db192cc31c50a7df06
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260425T091500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260425T074500Z
+SUMMARY:ЛР Технология производства ЛА
+UID:58f96608568f2fea7c21faae7792762f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260313T131500Z
 LOCATION:--каф.
 DTSTART:20260313T114500Z
@@ -2137,11 +2645,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:9830ce819d17ba50e27c0988c1badef7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260302T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260302T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:4042139e255db10f8f05c0074759d09c
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260317T164500Z
+LOCATION:24-529
+DTSTART:20260317T151500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:b00806573703cc4c39267cde312e859d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
@@ -2165,6 +2674,14 @@ LOCATION:ГУК Б-662
 DTSTART:20251203T151500Z
 SUMMARY:ЛР Теория машин и механизмов
 UID:1cc2521b129135e7cb11553db850f8d1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260428T150000Z
+LOCATION:24-529
+DTSTART:20260428T133000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:e12e797470b0b72a0b16cecabf38376e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250915T113000Z
@@ -2217,11 +2734,25 @@ SUMMARY:ПЗ Лидерство в индустрии
 UID:02c935b2dfdff8ba967f465b6f114a2e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260310T091500Z
+LOCATION:ГУК Б-644
+DTSTART:20260310T074500Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:238edf773c0252c992acf0d100bd963f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251216T113000Z
 LOCATION:Орш. А-320
 DTSTART:20251216T100000Z
 SUMMARY:ПЗ Маркетинг и рынки применения в высокотехнологичных отраслях промышленности (на английском)
 UID:23c4d213e4105d01f9e4fea4f38ec497
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T131500Z
+LOCATION:--каф. 919
+DTSTART:20260304T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2a2b30ad024ae04151ede1be67f1dea5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251212T091500Z
@@ -2310,12 +2841,18 @@ SUMMARY:ЛК Прикладная экология
 UID:32181b65ba4a72646e472f55c10768b9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260216T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260216T114500Z
-SUMMARY:ЛК Динамика полета
-UID:caa38f93e82b5e5cb0fcf498071d0200
+DTEND:20260429T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:d0c0a88c6a7a2dd263313fd10ab2dc0e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T113000Z
+LOCATION:--стадион
+DTSTART:20260601T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:27f323cd1159c9704ccdecadafcac127
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260424T091500Z
@@ -2348,12 +2885,12 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:1844cb871863ec6b73ba49c1eef0f355
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260413T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260413T114500Z
-SUMMARY:ЛК Динамика полета
-UID:54784b6c2b1bfa3275ed7e7a463eb55a
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260324T113000Z
+LOCATION:4-304
+DTSTART:20260324T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:e0b7661c865e05954f90647c1fb265ec
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260508T131500Z
@@ -2392,12 +2929,11 @@ SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:37c1e6673be6098afe961d9ef061a6b5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260427T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260427T114500Z
-SUMMARY:ЛК Динамика полета
-UID:04a5d1ffbac6d078d6ae6eb115cdb97f
+DTEND:20260420T113000Z
+LOCATION:--стадион
+DTSTART:20260420T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9d11b23d26e8cdfd6050648f320f5747
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орехов Александр Александрович
@@ -2415,11 +2951,33 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:4e44f7ada72ef85a1ca0c523de2396e4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260216T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:51d27a05319195c1e900c5e26975959d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:9b76ed33988ae109ed24823082edfdad
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260522T131500Z
 LOCATION:--каф.
 DTSTART:20260522T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:604c62af3729fac4dad6356dad1b2bd5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260317T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:363ea742815676bdab49422cc33543a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -2458,14 +3016,6 @@ SUMMARY:ЛК Жизненный цикл изделий авиационной �
 UID:9ee15af47b4957e5bf7307ed946ed5be
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260525T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260525T114500Z
-SUMMARY:ЛК Динамика полета
-UID:410d743d4e6e2444b87532f748881cf6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250929T073000Z
 LOCATION:Орш. А-320
 DTSTART:20250929T060000Z
@@ -2481,6 +3031,13 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:4c90928e695e7e78f42545ab0f359d74
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:Орш. А-304
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Управление жизненным циклом изделий
+UID:05a085b182c13f30d66a3f1c303df30e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250905T091500Z
 LOCATION:--каф.
 DTSTART:20250905T074500Z
@@ -2488,11 +3045,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:09fd4b30ab7e1f161fb807ae00ac3201
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260427T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260427T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:82408a319f02cc1d1cae34e527194734
+DTEND:20260507T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260507T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:f682d0a04b51179a7b53e59abc683d0a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260515T073000Z
@@ -2515,6 +3072,14 @@ LOCATION:Орш. А-320
 DTSTART:20251009T074500Z
 SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
 UID:32b3fa2593632dae59335cae74b75a74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260421T131500Z
+LOCATION:4-304
+DTSTART:20260421T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:5dff73bf28a8555b050c5f4663b4d482
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -2553,6 +3118,13 @@ SUMMARY:ЛК Управление жизненным циклом изделий
 UID:84aba13ff5e992b6f04d137f01e07bf6
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--каф. 919
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:44f760236f7768dc81b0aa09d26e6f2b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Торопылина Екатерина Юрьевна
 DTEND:20260422T091500Z
 LOCATION:Орш. А-301
@@ -2568,6 +3140,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:1aa70f7a37e0322612f32d358eb82cc2
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:be955ef899c00bcfb68d8b09ca6409cb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260423T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:d0ceb4343959a6806eb2c330460e7dd4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
 DTEND:20251210T164500Z
 LOCATION:ГУК Б-338
@@ -2581,6 +3167,14 @@ LOCATION:--каф.
 DTSTART:20260227T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:753fea15165b6e651017641317e994af
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260525T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260525T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:531abd1bf3fcca49cf2221acfc6fd767
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251011T113000Z
@@ -2655,6 +3249,14 @@ SUMMARY:ПЗ Лидерство в индустрии
 UID:51bad43fd8403496786885a9a409de7d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260411T073000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260411T060000Z
+SUMMARY:ЛР Технология производства ЛА
+UID:cf11d323be26cefbc062c1653d43315c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
 DTEND:20251127T091500Z
 LOCATION:Орш. А-301
@@ -2675,6 +3277,21 @@ LOCATION:--каф.
 DTSTART:20251212T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:3b5b5c0bd46bfb605c50aa2f80652ef2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T131500Z
+LOCATION:--каф. 919
+DTSTART:20260513T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c3f67e9998bcd9ff33569749265c9a99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260216T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260216T151500Z
+SUMMARY:ЛК Динамика полета
+UID:12edf26eccc5ff7984583fd3f58cd90b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260406T150000Z
@@ -2698,6 +3315,13 @@ SUMMARY:ПЗ Военная подготовка
 UID:8e57cdc5b73a35420b1276ba4638c5dc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260211T131500Z
+LOCATION:--каф. 919
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:475e81b62b950cdcab478c59513883b5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260415T091500Z
 LOCATION:Орш. А-301
 DTSTART:20260415T074500Z
@@ -2710,6 +3334,14 @@ LOCATION:--стадион
 DTSTART:20250911T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:78a09b8012c865bacffe9e7e1a4d1b7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260406T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260406T151500Z
+SUMMARY:ЛК Динамика полета
+UID:c42537bcc50d9281879ef1469264578e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251215T113000Z
@@ -2755,6 +3387,20 @@ SUMMARY:Экзамен Аэродинамика
 UID:ffad6502eb9ffc2cdb1042c491c32377
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:f1915500cc7a1118ac98c5c24a52a12c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260212T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:475b6d11d711560c58510d85721d4d28
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260508T091500Z
 LOCATION:--каф.
 DTSTART:20260508T074500Z
@@ -2762,11 +3408,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:243cbf099d7d3bb5993b99a690586cfb
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260324T073000Z
+LOCATION:ГУК Б-644
+DTSTART:20260324T060000Z
+SUMMARY:ЛР Детали машин и основы конструирования
+UID:4a37af31507eb463a955d1fc85016b44
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251210T113000Z
 LOCATION:1-23  ангар
 DTSTART:20251210T100000Z
 SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
 UID:86e708c1ef87f8ded4619a96d6f230ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Силин Никита Денисович
+DTEND:20260414T164500Z
+LOCATION:24-529
+DTSTART:20260414T151500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:7966084c1f1e2f549ceab32a01671cd8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251226T131500Z
@@ -2783,6 +3444,21 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:1d030e97c80830c45a240df438d513aa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260323T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260323T151500Z
+SUMMARY:ЛК Динамика полета
+UID:305cda83f94b2da11f0de7288c236cc2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260312T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:e186a1369721a0904659fa05c2d8f767
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
 DTEND:20260312T073000Z
 LOCATION:Орш. А-301
@@ -2791,11 +3467,27 @@ SUMMARY:ЛК Интеллектуализированные комплексы �
 UID:9dbec60fb8df4075f40b918c92bd089f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260209T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260209T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:18d06ca3a9b27bfb7d1426045c1ccee8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260306T073000Z
 LOCATION:--каф.
 DTSTART:20260306T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:1fb96a011282b509571d0389ba3990a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260421T113000Z
+LOCATION:4-304
+DTSTART:20260421T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:2d4fbacef58a18411b68b77a43177175
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260402T091500Z
@@ -2849,12 +3541,34 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:63e005ac2c96bd9d29c0386108cfdc78
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260411T113000Z
+LOCATION:2-214(2В)
+DTSTART:20260411T100000Z
+SUMMARY:ЛР Силовая установка
+UID:bb1b44a88ecfb7e666bcc17467437782
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
 DTEND:20251029T164500Z
 LOCATION:ГУК Б-338
 DTSTART:20251029T151500Z
 SUMMARY:ЛК Технология конструкционных материалов
 UID:ca271389ea4a71ae13d3590bf084a100
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260312T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:52b7ac3d9d86837bb3af7955dff97636
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260317T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:09a9a8d49a9d2d9b07e2ffd5ffaf3ec5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260408T073000Z
@@ -2877,6 +3591,20 @@ LOCATION:Орш. А-530
 DTSTART:20251113T114500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
 UID:57454e4986c5533ba13ea4c9be085f79
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260209T113000Z
+LOCATION:--стадион
+DTSTART:20260209T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:d20ad3c7292bdfb235a36cd7d861c9ab
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260326T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:9e45184f29188e8ff8327ae265dd3aba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251124T073000Z
@@ -2936,18 +3664,20 @@ SUMMARY:ЛК Теория машин и механизмов
 UID:3d6bc93803706fe1f66879ddf83d7658
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260511T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260511T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:5a4caf2b493265883107db830bb5014b
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260210T131500Z
+LOCATION:4-304
+DTSTART:20260210T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:24547e882992b9a55fc58df416aa455a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260209T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260209T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:d1a656e9145b7280688ae9c0df1acc6f
+DESCRIPTION:Торопылина Екатерина Юрьевна
+DTEND:20260425T073000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260425T060000Z
+SUMMARY:ЛР Технология производства ЛА
+UID:2c5789ddf589aa9a577948838fdfff35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251127T073000Z
@@ -2955,6 +3685,21 @@ LOCATION:--стадион
 DTSTART:20251127T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:76436624e9fad76bcae2b480360c814b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260425T131500Z
+LOCATION:2-214(2В)
+DTSTART:20260425T114500Z
+SUMMARY:ЛР Силовая установка
+UID:491365c2d33c58c63ce5e087f09542ea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T113000Z
+LOCATION:--стадион
+DTSTART:20260302T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:ffdcf9e42ab9c1f04f77509bdd824df6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
@@ -3028,6 +3773,14 @@ SUMMARY:ЛР Аэродинамика
 UID:8c61602642ed109aec679f3d480e0fc0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260407T131500Z
+LOCATION:4-304
+DTSTART:20260407T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:557331de462602cfceffeaeaf31a391e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251212T131500Z
 LOCATION:--каф.
 DTSTART:20251212T114500Z
@@ -3057,6 +3810,14 @@ SUMMARY:ЛК Прикладная экология
 UID:b654a9f456c6c84189d0a5133d8406b2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260518T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260518T151500Z
+SUMMARY:ЛК Динамика полета
+UID:c5328696dc596667ad16d5bf33c09276
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T131500Z
 LOCATION:--каф.
 DTSTART:20251205T114500Z
@@ -3064,12 +3825,18 @@ SUMMARY:ПЗ Военная подготовка
 UID:946f6da28472dde1939d63d0bbdbd31f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260323T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260323T114500Z
-SUMMARY:ЛК Динамика полета
-UID:b856ddb7ea06f813350139edc97b71a0
+DTEND:20260401T131500Z
+LOCATION:--каф. 919
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e528c57f95cba92e3b2a9656d21ccefc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260414T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:0693b07f11b1d7d0f420b8fb8871424f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250929T131500Z
@@ -3077,6 +3844,13 @@ LOCATION:--стадион
 DTSTART:20250929T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:b4efc4d169a534c7193c063d4a622d91
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:Орш. А-306
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Жизненный цикл изделий авиационной техники
+UID:b1ac26498316011f04779a9d3d46185f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260327T091500Z
@@ -3144,6 +3918,22 @@ SUMMARY:ЛК Силовая установка
 UID:95ac3733f8f239b5bd9c701ab61b734c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260316T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260316T151500Z
+SUMMARY:ЛК Динамика полета
+UID:ea8633e16e5e9b3001ae1d07ad5415e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260518T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260518T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:4b3b8ccf8d1f621b65cca4785dff4040
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251115T131500Z
 LOCATION:1-9 ангар
 DTSTART:20251115T114500Z
@@ -3181,6 +3971,14 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:54e8e2f678d7639731cc56bed9ecba2d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260411T131500Z
+LOCATION:2-214(2В)
+DTSTART:20260411T114500Z
+SUMMARY:ЛР Силовая установка
+UID:7cc5b13b181dc487b48ef9a981335058
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251001T131500Z
 LOCATION:1-23  ангар
 DTSTART:20251001T114500Z
@@ -3211,6 +4009,13 @@ SUMMARY:ЛК Маркетинг и рынки применения в высок
 UID:35c1f7425bd7605872810966be73a767
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T131500Z
+LOCATION:--каф. 919
+DTSTART:20260422T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:ee6cd76ce607cf1bd38030f1e2a8e585
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251118T073000Z
 LOCATION:Орш. А-320
 DTSTART:20251118T060000Z
@@ -3223,14 +4028,6 @@ LOCATION:--каф.
 DTSTART:20251010T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:991f768e1ff5d481ee60e92c8d6f3bff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260209T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260209T114500Z
-SUMMARY:ЛК Динамика полета
-UID:a3956a05e5be5ca41e792c8fed703dd7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T131500Z
@@ -3269,6 +4066,13 @@ SUMMARY:ЛК Лидерство в индустрии
 UID:af0260710d922da4cce00a5186524f33
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260604T131500Z
+LOCATION:Орш. А-324
+DTSTART:20260604T114500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:926faf3165fbfd704daa7fcb2f20b51f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251205T091500Z
 LOCATION:--каф.
 DTSTART:20251205T074500Z
@@ -3305,6 +4109,14 @@ SUMMARY:ЛК Технология производства ЛА
 UID:41401e52f367831543e27dadc604e936
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260302T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260302T151500Z
+SUMMARY:ЛК Динамика полета
+UID:da51d6b8b2f3118da956bc9eb6c9a598
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251219T131500Z
 LOCATION:--каф.
 DTSTART:20251219T114500Z
@@ -3332,6 +4144,14 @@ LOCATION:Орш. А-301
 DTSTART:20260305T074500Z
 SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:68e336f203b3fef5572a1de7f105b809
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260224T131500Z
+LOCATION:4-304
+DTSTART:20260224T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:c6f1999ee6c4dfdfa9e6b9cc0522d6c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
@@ -3362,6 +4182,20 @@ LOCATION:Орш. А-320
 DTSTART:20251218T114500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:81529526eaeea2dc01458ea00ec05056
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T131500Z
+LOCATION:--каф. 919
+DTSTART:20260325T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:3c7f555a62c51cf42ede0e2fb4f3c8e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T131500Z
+LOCATION:1-1 ангар
+DTSTART:20260331T114500Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:ccb661d0d28f82719e2b8edcb1333826
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -3414,6 +4248,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:8eabfbfda30e3733c64db46385e6bbf1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260427T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260427T151500Z
+SUMMARY:ЛК Динамика полета
+UID:8c937e0021c467b619ea988858e98d11
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20251218T091500Z
 LOCATION:Орш. А-320
@@ -3422,19 +4264,18 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:2c7baf68bda5d327f8c52ccb0ad06b9d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--каф. 919
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:86971d146a721b4122d29f4943c42c73
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260416T073000Z
 LOCATION:Орш. А-301
 DTSTART:20260416T060000Z
 SUMMARY:ЛК Конструирование деталей и узлов ЛА
 UID:208870972ca7325e9dde22f086a579ac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260601T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260601T114500Z
-SUMMARY:ЛК Динамика полета
-UID:e82a211516e2958403dd4f0c49b61dbe
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251122T091500Z
@@ -3467,6 +4308,14 @@ SUMMARY:ЛК Аэродинамика
 UID:1418d38f759879f75466f35b9f7b412f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260316T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:35725fc340c1ffe56ddb4e0c47786a33
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260410T113000Z
 LOCATION:--каф.
 DTSTART:20260410T100000Z
@@ -3474,11 +4323,27 @@ SUMMARY:ПЗ Военная подготовка
 UID:28322593c86bf693bd308be9598b9780
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260601T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260601T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:8d121378192229385f4c669f600132c4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251108T091500Z
 LOCATION:4-100
 DTSTART:20251108T074500Z
 SUMMARY:ЛР Аэродинамика
 UID:10ca9f5495eea529c9243a62ee8f520b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260511T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260511T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:ff3473a2b1e77a548fbcc6d11898e26a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260401T073000Z
@@ -3502,6 +4367,14 @@ SUMMARY:ЛР Теория машин и механизмов
 UID:b50955f45e847906f415fa15956aa722
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дмитриев Владимир Георгиевич
+DTEND:20260406T131500Z
+LOCATION:Орш. А-301
+DTSTART:20260406T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:b1e8719535883ae8ac18aeae8cfe4d47
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251028T073000Z
 LOCATION:Орш. А-320
 DTSTART:20251028T060000Z
@@ -3514,6 +4387,13 @@ LOCATION:Орш. А-320
 DTSTART:20251118T114500Z
 SUMMARY:ЛК Маркетинг и рынки применения в высокотехнологичных отраслях промышленности (на английском)
 UID:b31121194d18394b2c9c6d6d8eb15b68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T131500Z
+LOCATION:--каф. 919
+DTSTART:20260603T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:08f17a33f4d0a811bc4edff29cb122b9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250916T073000Z
@@ -3537,6 +4417,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:5ce1cbee265eb46b42e354eb2798feb8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260407T113000Z
+LOCATION:4-304
+DTSTART:20260407T100000Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:48d4f8a87f2e86ba819746d72f31ed23
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251017T073000Z
 LOCATION:--каф.
 DTSTART:20251017T060000Z
@@ -3549,6 +4437,13 @@ LOCATION:--каф.
 DTSTART:20260327T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:23b0c19c79f086ad5c823bae47fed66e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T113000Z
+LOCATION:--стадион
+DTSTART:20260427T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:da65e20079e78d2de77c7fefad81b6ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАНУЙЛОВА НАТАЛЬЯ БОРИСОВНА
@@ -3595,11 +4490,26 @@ SUMMARY:ЛК Жизненный цикл изделий авиационной �
 UID:982c7a6a627a4957cf266faae4fdf3e8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20260601T164500Z
+LOCATION:Орш. А-301
+DTSTART:20260601T151500Z
+SUMMARY:ЛК Динамика полета
+UID:74ce1759696e6983a7bbdc7642a08954
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250924T131500Z
 LOCATION:1-2 ангар
 DTSTART:20250924T114500Z
 SUMMARY:ЛР Конструкция летательных аппаратов
 UID:6af6d60cf51d456f88759cf6697aad5f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260303T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:8297974d8befa555a689c85f36a7d301
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251113T073000Z
@@ -3624,11 +4534,18 @@ SUMMARY:ЛК Прикладная экология
 UID:0df6609715e7428b2201c012dc93748d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260525T164500Z
-LOCATION:Орш. А-301
-DTSTART:20260525T151500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:59466b4970e474cc77a599263409d36b
+DTEND:20260331T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260331T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:1786a3cf7bd964869ebaf1fbb6ff1500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:Орш. А-324
+DTSTART:20260521T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:757e64f339b1cd8beada09b6de623709
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Торопылина Екатерина Юрьевна
@@ -3653,11 +4570,26 @@ SUMMARY:ЛК Нормативно-правовое сопровождение э
 UID:d062ccbe8151278b4d9a3ab6b7a8638a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260428T113000Z
+LOCATION:1-1 ангар
+DTSTART:20260428T100000Z
+SUMMARY:ЛР Конструирование деталей и узлов ЛА
+UID:465c67a58d276224bfb924a9f958c869
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251206T091500Z
 LOCATION:4-100
 DTSTART:20251206T074500Z
 SUMMARY:ЛР Аэродинамика
 UID:d46355236adbe521c876a2c934cf949d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тяглик Михаил Сергеевич
+DTEND:20260324T131500Z
+LOCATION:4-304
+DTSTART:20260324T114500Z
+SUMMARY:ЛР Лабораторный практикум по динамике и управлению полетом
+UID:162fc33e589f9f4ae4f9de3e522b120f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260320T113000Z
@@ -3743,6 +4675,14 @@ SUMMARY:ЛР Технология конструкционных материа�
 UID:1b9c27af7f65dcc64286e6bdb3b4a761
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кравченко Ирина Васильевна
+DTEND:20260328T131500Z
+LOCATION:2-214(2В)
+DTSTART:20260328T114500Z
+SUMMARY:ЛР Силовая установка
+UID:32f5348ff01277c317748aa05d3b176a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Торопылина Екатерина Юрьевна
 DTEND:20260603T091500Z
 LOCATION:Орш. А-301
@@ -3773,6 +4713,13 @@ SUMMARY:ПЗ Инженерная социология
 UID:ca6e698c27180829b0ca704b861c294e
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260527T131500Z
+LOCATION:--каф. 919
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:65a23fee1c4dc3a04dd1c8955fde2062
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260318T091500Z
 LOCATION:Орш. А-301
 DTSTART:20260318T074500Z
@@ -3792,14 +4739,6 @@ LOCATION:Орш. А-320
 DTSTART:20251021T100000Z
 SUMMARY:ПЗ Маркетинг и рынки применения в высокотехнологичных отраслях промышленности (на английском)
 UID:f6ab49ee26c4721e2f522829b29f6ea0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20260504T131500Z
-LOCATION:Орш. А-301
-DTSTART:20260504T114500Z
-SUMMARY:ЛК Динамика полета
-UID:0514ce4b3093c8b08333bea7db9a6ad3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251006T073000Z

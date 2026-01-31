@@ -9,14 +9,6 @@ SUMMARY:ПЗ Физическая культура
 UID:ee9198742e8f0d4a0ab45504258366f4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260529T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260529T100000Z
-SUMMARY:ЛК Математический анализ
-UID:b813189b73d4b2a1cccdc2c4e9c12394
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250924T131500Z
 LOCATION:--каф. 919
 DTSTART:20250924T114500Z
@@ -46,13 +38,6 @@ LOCATION:Орш. В-507
 DTSTART:20260319T100000Z
 SUMMARY:ПЗ Философия
 UID:4af368dc84d5f0ef51a265371e406350
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260525T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:7ed20d6beb38c70957f53172f7f072ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -119,19 +104,20 @@ SUMMARY:ПЗ История России
 UID:1cb4dc5f496760a909913540facb1b67
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260316T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260316T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:f76fa89053948f533cf15cd03bcd109f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
 DTEND:20250929T131500Z
 LOCATION:Орш. В-401
 DTSTART:20250929T114500Z
 SUMMARY:ПЗ История России
 UID:9ad711f7a999334449dce7a8f10af289
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260518T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260518T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:5a6b5d1bffc4add0b9504c3403c78cd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Байков Александр Евгеньевич
@@ -182,18 +168,19 @@ SUMMARY:ПЗ Общая физика
 UID:65ef894baad4c5c806071ff8fa0c7f34
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260330T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260330T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:71ee24c3e93f812cc21463e45e96a99c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260413T091500Z
 LOCATION:--каф. 919
 DTSTART:20260413T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:a8fbb03a4fb1bfe16ba9f520505f8311
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260415T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260415T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:84adcc9e65f3e5c26d8f889128e4b997
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -218,13 +205,6 @@ LOCATION:Орш. В-401
 DTSTART:20251124T114500Z
 SUMMARY:ПЗ История России
 UID:72d8846ed14f06082a770ee2cf40165f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260506T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:5d2a08e51136f135fa1b1b5a65422f78
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260411T113000Z
@@ -303,6 +283,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:b15332e752b108d86fc07e095a8c50b5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260522T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260522T100000Z
+SUMMARY:ЛК Математический анализ
+UID:233ae2cd4a4d9f0463de64049ed6f77e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бартенев Данила Федорович
 DTEND:20251025T091500Z
 LOCATION:Орш. В-205
@@ -324,6 +312,14 @@ LOCATION:Орш. В-621
 DTSTART:20260213T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:66afa97be56797fd1e3be317b7a12f52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260424T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Математический анализ
+UID:e6722a23caadff6bf835d751f8a43be8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -372,11 +368,12 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:dd761ebee209142f1851ee181124b9b9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260218T073000Z
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260415T073000Z
 LOCATION:ГУК Б-649
-DTSTART:20260218T060000Z
+DTSTART:20260415T060000Z
 SUMMARY:ЛК Начертательная геометрия
-UID:dc2ed33ec7fea2442301408b8537452d
+UID:08cc8d3dc0b8a273b7385f77fed4bcf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бартенев Данила Федорович
@@ -509,6 +506,14 @@ SUMMARY:ЛК Информатика
 UID:0aece27e1d0245016ba8dc07837c2e85
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260413T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260413T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:bd5760ec194e792e37eff9e479508710
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
 DTEND:20260307T073000Z
 LOCATION:Орш. В-501
@@ -531,14 +536,6 @@ LOCATION:Орш. В-507
 DTSTART:20260305T100000Z
 SUMMARY:ПЗ Философия
 UID:368002c4625b23a9e9ad32c91cc5f7a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260306T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260306T100000Z
-SUMMARY:ЛК Математический анализ
-UID:ac12b3ecefa1ecbed926d1827b1d439a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -619,13 +616,6 @@ SUMMARY:ПЗ Общая физика
 UID:7e2e055d8cfd480dd6c10ae2e4700649
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260302T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260302T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:45d324488c1e6b857de905789531ed27
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251011T131500Z
 LOCATION:Орш. В-208
@@ -658,13 +648,6 @@ SUMMARY:ЛР Информатика
 UID:3d3b823c28eba0b72dfb43e51a2abe58
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260511T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260511T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:ba276664c5494e2fa0dad3f6738ad67c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20260327T091500Z
 LOCATION:Орш. В-301
@@ -679,13 +662,6 @@ LOCATION:Орш. В-501
 DTSTART:20260418T074500Z
 SUMMARY:ЛК История России
 UID:262ac922aae0dee85f71c2cb587fa116
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260304T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260304T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:90797531a5ecd50dce5165ec3766436d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -727,6 +703,14 @@ SUMMARY:ЛР Общая физика
 UID:8fb41d270784973a18cdfd16dd909ab8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260525T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260525T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:6844fe27cf4e3887780a6b3ec89e5a58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
 DTEND:20260502T131500Z
 LOCATION:Орш. В-512
@@ -741,6 +725,22 @@ LOCATION:Орш. В-512
 DTSTART:20260404T114500Z
 SUMMARY:ПЗ История России
 UID:21a05e58981a532cbae9f9ba4402a83f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260603T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:12ec39394cf842f4d75ebbe5a96a0d3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260504T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260504T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:fcbe8c0507c6a2c649416966165552ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -759,27 +759,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:d5651ecaff1fdd53c04abad5ba3431ca
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260313T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260313T100000Z
-SUMMARY:ЛК Математический анализ
-UID:ada0b198ffdd243672b6ee74eb738ade
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
 DTEND:20260425T131500Z
 LOCATION:Орш. В-512
 DTSTART:20260425T114500Z
 SUMMARY:ПЗ История России
 UID:99f32b5ce9baf218b28a93eab24f3e3e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260216T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:4fe37e9081b727172c74d1f9db6f0c85
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чеховская Татьяна Николаевна
@@ -830,11 +815,12 @@ SUMMARY:ПЗ Математический анализ
 UID:45b0da13c96d80d9318635f4c7366743
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260513T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260513T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:9fccb0d4c856de47329e03703d231403
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260216T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260216T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:4008b5d28bda9e671d65e657ecb2494e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -875,14 +861,6 @@ LOCATION:Орш. В-208
 DTSTART:20251122T114500Z
 SUMMARY:ПЗ Основы российской государственности
 UID:c9c5ec46379f30e0ca4348f77f43a8a1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260424T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260424T100000Z
-SUMMARY:ЛК Математический анализ
-UID:ae7cc7b74244c9a3e0ac6da1b07d043a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -966,13 +944,6 @@ LOCATION:--каф. 919
 DTSTART:20251124T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:6e9237b670b12aa85751439eb24ca48c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260504T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:3fb964574f7eb40b12c022927ad8bde3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260326T113000Z
@@ -1084,14 +1055,6 @@ SUMMARY:ЛК Общая физика
 UID:9e1381e870b6fcd0b2c14e61f23e0c1d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260522T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260522T100000Z
-SUMMARY:ЛК Математический анализ
-UID:22b4704ca5159f0eec473944d162c521
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
 DTEND:20251029T113000Z
 LOCATION:24-600
@@ -1123,14 +1086,6 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:36b9cb8e1e3e6d69530df1b77c945dc2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260403T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260403T100000Z
-SUMMARY:ЛК Математический анализ
-UID:09c829dbe2f8e747976c2368731f64ee
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260529T150000Z
 LOCATION:Орш. В-621
 DTSTART:20260529T133000Z
@@ -1138,11 +1093,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:5b7fa4c637688a09f12c115d88bda734
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260422T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260422T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:b00a1912c4228b906688f5f87fbadd13
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260327T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Математический анализ
+UID:1e5f7db2b6403430ebc13823327dfa42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Вера Исламовна
@@ -1151,13 +1107,6 @@ LOCATION:Орш. В-501
 DTSTART:20250920T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:d32413cbd5f65a51f74a049f35f67aa9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260311T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:cfcb511635087810219371a3108135f6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T131500Z
@@ -1221,14 +1170,6 @@ SUMMARY:ПЗ Физическая культура
 UID:78a5705d72134dbd1848dbe61ab48542
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260605T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260605T100000Z
-SUMMARY:ЛК Математический анализ
-UID:39b76426354b892bbf05dcb750b671d7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Скачков Артем Сергеевич
 DTEND:20260424T131500Z
 LOCATION:Орш. В-205
@@ -1275,11 +1216,12 @@ SUMMARY:ЛК Информатика
 UID:f4219810dd4735c722736d3d164440ac
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260518T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260518T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:ce6a234a6c045a82a68ed23b1d9b81c4
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260515T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260515T100000Z
+SUMMARY:ЛК Математический анализ
+UID:7ec9456e9941de37756c37ab31d79dae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чеховская Татьяна Николаевна
@@ -1296,13 +1238,6 @@ LOCATION:Орш. В-501
 DTSTART:20251115T060000Z
 SUMMARY:ЛК Основы российской государственности
 UID:91ca510890721d15fc80ec657a2d1fb6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260330T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:625ace832f9e69118c6868bcb4147538
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
@@ -1360,19 +1295,20 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:8c081741d8553abf299cd95f8e56b8d2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260508T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260508T100000Z
+SUMMARY:ЛК Математический анализ
+UID:efff22f6cf1a27dd903d7cf9f6b7852f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
 DTEND:20250911T091500Z
 LOCATION:24-625
 DTSTART:20250911T074500Z
 SUMMARY:ЛР Информатика
 UID:305b356ec28939c206c4dd5d9a102e6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260401T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260401T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:e061cb94ea07d0bf655ab5bac4a820c0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260420T091500Z
@@ -1435,13 +1371,6 @@ SUMMARY:ПЗ История России
 UID:5fc6d373123c5aae48e6369ca4779186
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260209T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260209T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:212e4cf42b6bc70cbb90e1749d32a4a4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
 DTEND:20260326T091500Z
 LOCATION:24-625
@@ -1487,19 +1416,20 @@ SUMMARY:ЛК История России
 UID:70854fc717433a399fe3fa1e2d8d657d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260213T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260213T100000Z
-SUMMARY:ЛК Математический анализ
-UID:1e55ce7e0f7f0ab0e583a668b6b94b02
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260511T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260511T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:2c072fdede5be65c3e7699d55d0c0b92
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260318T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260318T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:23a87e3e52bdac9e530a2265f7e92380
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260311T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:3fc2bc5c71c190f7d521bec223b5d046
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
@@ -1516,6 +1446,14 @@ LOCATION:Орш. Б-605
 DTSTART:20251107T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:c68f04b843221bcc89332f712dc18b86
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260406T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260406T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:53a4c2d188a5e7499688bd2959281a39
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -1614,13 +1552,6 @@ SUMMARY:ЛК Математический анализ
 UID:2ef48b4d83e2fc18285bd62a309d008d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260527T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260527T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:2b6aa4a853b0a7add029de32280b2a0d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Макарин Михаил Александрович
 DTEND:20260121T131500Z
 LOCATION:24-654
@@ -1653,13 +1584,6 @@ SUMMARY:ЛК Химия
 UID:a2b303147ab4bb438901631d00f411c6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260520T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260520T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:5feb4908fb22f75b38fc28c72efef6f5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
 DTEND:20260423T073000Z
 LOCATION:24-625
@@ -1674,13 +1598,6 @@ LOCATION:Орш. В-501
 DTSTART:20250919T114500Z
 SUMMARY:ЛК История России
 UID:485fbee7c66bc93bda3385b8cdb5dea9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260413T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260413T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:37a88c8f172a230f61927f78abb1a98d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -1769,6 +1686,14 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:d5cad669f34f0f833f4514dc83162c50
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260313T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Математический анализ
+UID:d529b007f7f29118a849e70475e69a60
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20250905T091500Z
 LOCATION:Орш. В-101
@@ -1785,20 +1710,20 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:58c82e1a140bd0eebac3bff692563a84
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260320T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260320T100000Z
-SUMMARY:ЛК Математический анализ
-UID:a6879f7c4f7e180f670baab0601166a1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Заяц Николай Алексеевич
 DTEND:20260411T091500Z
 LOCATION:Орш. В-501
 DTSTART:20260411T074500Z
 SUMMARY:ЛК История России
 UID:21ea79667365fe7bbda4fd0e55823a85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260225T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:d7fb567df9d95d274910f7ce1fe29a39
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251210T131500Z
@@ -1851,6 +1776,14 @@ LOCATION:Орш. В-101
 DTSTART:20251128T074500Z
 SUMMARY:ЛК Математический анализ
 UID:298b128ff05f93e0cf2b2de9a87ef936
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260520T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:88b30aa7d59f041a4df7d527c5c9731c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
@@ -1931,14 +1864,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:1c013e5b6f522a164d258771f57b8d5f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260220T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260220T100000Z
-SUMMARY:ЛК Математический анализ
-UID:ce4e65a4494ac4221214cfbc82a1fe06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20251224T091500Z
 LOCATION:24-600
@@ -1947,11 +1872,12 @@ SUMMARY:ЛК Информатика
 UID:c436c81b4e5fdf784a70711f80ddaae7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260427T131500Z
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260420T131500Z
 LOCATION:ГУК А-718
-DTSTART:20260427T114500Z
+DTSTART:20260420T114500Z
 SUMMARY:ПЗ Инженерная графика
-UID:f7fc6dc36f51c14f4d119a631ad52e3c
+UID:9e2e35f4f87bf98d1b6ae1884631eb69
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260522T150000Z
@@ -2031,19 +1957,20 @@ SUMMARY:ЛК Теоретическая механика
 UID:654a2bc45825e8ad0ad68275c7e32bd7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260225T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260225T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:aedfff85eaf839963a8afd13a4f45c47
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Судилина Елена Владимировна
 DTEND:20251017T150000Z
 LOCATION:Орш. Б-605
 DTSTART:20251017T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:5f60e720fc205da950ddeea338c7ae8b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260417T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Математический анализ
+UID:e1b2e63cf91e236d85c62d5baea6083a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Холостова Ольга Владимировна
@@ -2069,6 +1996,14 @@ SUMMARY:ПЗ Общая физика
 UID:00654b511932b101b67b84320a9b117b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260320T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260320T100000Z
+SUMMARY:ЛК Математический анализ
+UID:bfdb77993564f58a02c6be5bff184777
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
 DTEND:20251031T091500Z
 LOCATION:Орш. В-101
@@ -2091,6 +2026,14 @@ LOCATION:9-404
 DTSTART:20260209T100000Z
 SUMMARY:ЛК Теоретическая механика
 UID:17da50348828c6590489670cf4a51162
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260429T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260429T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:d85e1f71c84bddff5614b5ad042f4a26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -2179,6 +2122,14 @@ SUMMARY:ПЗ История России
 UID:188a996260caee2f6241876c0e8a3e35
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260323T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260323T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:4c2329d47c7c66f95361c39c0944a53a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Крюков Максим Юрьевич
 DTEND:20251111T073000Z
 LOCATION:Орш. В-205
@@ -2227,6 +2178,14 @@ SUMMARY:ЛК Введение в авиационную и ракетно-кос
 UID:0e0bb48994883d2b8b276447d1503ab5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260209T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260209T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:bef0ee77bf3776925d82c1bc8a4cc6b8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Квон Даниил Андреевич
 DTEND:20251227T073000Z
 LOCATION:Орш. В-501
@@ -2241,14 +2200,6 @@ LOCATION:ГУК Б-649
 DTSTART:20260408T060000Z
 SUMMARY:ЛК Химия
 UID:116f5cc43c5aa75e4e2aa55f85a9584f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260417T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260417T100000Z
-SUMMARY:ЛК Математический анализ
-UID:eb12032dc2d21d8db9a626f34fd2c4e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -2408,14 +2359,6 @@ SUMMARY:ЛК Химия
 UID:bfce7537bc3a96a59466339a18e5ae38
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260508T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260508T100000Z
-SUMMARY:ЛК Математический анализ
-UID:4955da979c3759a765d16ee1b9bb4c81
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Крюков Максим Юрьевич
 DTEND:20250923T073000Z
 LOCATION:Орш. В-205
@@ -2454,6 +2397,14 @@ LOCATION:ГУК А-626
 DTSTART:20260521T100000Z
 SUMMARY:ЛР Теоретическая механика
 UID:fedc9aa8838c236c9b51093fb3aa8d91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260529T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260529T100000Z
+SUMMARY:ЛК Математический анализ
+UID:45a2b457a53aba82e5f3ab920895ab28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
@@ -2579,14 +2530,6 @@ SUMMARY:ПЗ Физическая культура
 UID:ab4f42f9f527a72cc0f77e0f2092a7ff
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260515T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260515T100000Z
-SUMMARY:ЛК Математический анализ
-UID:cc6f578bb2de7cd1c0d219faf9b47d02
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20260408T091500Z
 LOCATION:24-600
@@ -2617,6 +2560,14 @@ SUMMARY:ПЗ Физическая культура
 UID:552b2f0e6a2e66911311a4383f4e408d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260605T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260605T100000Z
+SUMMARY:ЛК Математический анализ
+UID:fb13a34695cf0039f265b0e88724556c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Крюков Максим Юрьевич
 DTEND:20251118T073000Z
 LOCATION:Орш. В-205
@@ -2631,6 +2582,14 @@ LOCATION:Орш. В-205
 DTSTART:20251216T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:e96a044c4eb4626f074bc99f1fa0a6a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260302T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260302T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:5b939487cc0ddd05101c5376d6289ad2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
@@ -2678,6 +2637,22 @@ LOCATION:--каф. 919
 DTSTART:20260209T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:72e514c24c3c56b8fa40d445955c42f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260318T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260318T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:c309e743750ae1fcc20a98b28a00a430
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260220T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Математический анализ
+UID:fd18a3abed6b1111f8a7b4a0577106d5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260313T150000Z
@@ -2877,6 +2852,14 @@ SUMMARY:ЛК Философия
 UID:521eab6cfd32a8ca7567da5bac176cf9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260506T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:2f2d38c549ceb1cc3c96d494ede25747
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Озолин Владимир Викторович
 DTEND:20250916T091500Z
 LOCATION:Орш. В-309
@@ -2940,11 +2923,12 @@ SUMMARY:ПЗ Физическая культура
 UID:62b0ba862306f00893698f66d5e3ab4f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260323T131500Z
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260316T131500Z
 LOCATION:ГУК А-718
-DTSTART:20260323T114500Z
+DTSTART:20260316T114500Z
 SUMMARY:ПЗ Инженерная графика
-UID:1cbfef06e6a1a082e743321a5dee6c29
+UID:73dd37624d159a98b3568015e08144d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Степанов Андрей Андреевич
@@ -2983,13 +2967,6 @@ LOCATION:Орш. В-621
 DTSTART:20260327T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:1ac36e5535d443d52410c42ef9bb916d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T073000Z
-LOCATION:ГУК Б-649
-DTSTART:20260429T060000Z
-SUMMARY:ЛК Начертательная геометрия
-UID:5808d6077962f90c699a036829f4fb0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Скачков Артем Сергеевич
@@ -3037,6 +3014,14 @@ LOCATION:Орш. В-314
 DTSTART:20260402T060000Z
 SUMMARY:ЛР Общая физика
 UID:632017823247fb27355543c52a988337
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260422T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:46c197f346b30aa3e301984eba5507d9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260516T113000Z
@@ -3140,14 +3125,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:cd3a1fdee004742f9e34ed1e3bec6054
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260410T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260410T100000Z
-SUMMARY:ЛК Математический анализ
-UID:91740528f5287539a0f918e55bab3855
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
 DTEND:20260220T091500Z
 LOCATION:Орш. В-301
@@ -3225,6 +3202,14 @@ SUMMARY:ЛР Информатика
 UID:5befde86c458f387c2e8e91260a5c23d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260401T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260401T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:28e987e57b9a6086175f758ace91186c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
 DTEND:20251124T150000Z
 LOCATION:Орш. В-401
@@ -3287,6 +3272,14 @@ LOCATION:Орш. В-314
 DTSTART:20251030T074500Z
 SUMMARY:ЛР Общая физика
 UID:89d97c571dbbd43c84e7911b54a15079
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260304T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260304T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:f3a65206a083fe3b624a774e19256e16
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260511T091500Z
@@ -3372,6 +3365,14 @@ SUMMARY:ПЗ Введение в авиационную и ракетно-кос
 UID:142c29b15e7eaa5c059655efa37fcb4f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260213T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260213T100000Z
+SUMMARY:ЛК Математический анализ
+UID:f17084d3c30b16974c7fb1576b849578
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
 DTEND:20260401T091500Z
 LOCATION:24-600
@@ -3400,6 +3401,14 @@ LOCATION:Орш. Б-605
 DTSTART:20250919T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:2d0fcd89cc0a99e029f6312413cbd4ea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260513T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260513T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:bd6e42c12e8fb5291f26e8ae8dedd902
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович
@@ -3442,12 +3451,12 @@ SUMMARY:ЛР Теоретическая механика
 UID:bfb4633f22f1681a7f2d1f0ff2a8942f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260227T113000Z
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260410T113000Z
 LOCATION:Орш. А-101
-DTSTART:20260227T100000Z
+DTSTART:20260410T100000Z
 SUMMARY:ЛК Математический анализ
-UID:018a335c442ceda9571c719b3da22a13
+UID:9503dfadb241504571b70e32b76eeb70
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251117T091500Z
@@ -3487,12 +3496,12 @@ SUMMARY:ПЗ Физическая культура
 UID:27a11f40ad1c42a243e9e9558b6f7360
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Козлова Нина Михайловна
-DTEND:20260521T073000Z
-LOCATION:24-625
-DTSTART:20260521T060000Z
-SUMMARY:ЛР Информатика
-UID:45971a70447c26aedf198c5c6c64c262
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260227T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Математический анализ
+UID:9b160d34deda4e2b406c35e5c764d3d6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -3509,6 +3518,14 @@ LOCATION:24-600
 DTSTART:20251105T060000Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:9b6a390dcb062ea12b7a83274e840030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козлова Нина Михайловна
+DTEND:20260521T073000Z
+LOCATION:24-625
+DTSTART:20260521T060000Z
+SUMMARY:ЛР Информатика
+UID:45971a70447c26aedf198c5c6c64c262
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Степанов Андрей Андреевич
@@ -3589,14 +3606,6 @@ SUMMARY:ПЗ Математический анализ
 UID:fbb0103691f3c194ec0f8c62670f4379
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260327T113000Z
-LOCATION:Орш. А-101
-DTSTART:20260327T100000Z
-SUMMARY:ЛК Математический анализ
-UID:fbc0e3d9b392085ec06a57863a985285
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Безклубая Светлана Александровна
 DTEND:20251004T131500Z
 LOCATION:Орш. В-208
@@ -3650,13 +3659,6 @@ LOCATION:--каф. 919
 DTSTART:20251217T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:8d47b70030e766f7d68ef9fc834103fb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260603T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260603T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:f4f1b79bd1fd9963a50bf2efebb63d00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -3746,6 +3748,22 @@ SUMMARY:ПЗ Теоретическая механика
 UID:18aeda723945ba40e751513db40e923c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260325T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:96dcbb9a74bb781170b91924a776fd8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260527T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260527T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:7314c988655420bae1316927b11ea68b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Козлова Нина Михайловна
 DTEND:20250911T073000Z
 LOCATION:24-625
@@ -3776,6 +3794,14 @@ SUMMARY:ПЗ Математический анализ
 UID:940e5485c01e6c5d82c0d8ca01bcf8cf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260408T113000Z
+LOCATION:ГУК А-706
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Начертательная геометрия
+UID:c592f179e43004e80f5485d82c38c4be
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260415T131500Z
 LOCATION:--каф. 919
 DTSTART:20260415T114500Z
@@ -3783,11 +3809,27 @@ SUMMARY:ПЗ Физическая культура
 UID:43b61ded75dedc1a0f325b0fe6f00ead
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Анамова Рушана Ришатовна
+DTEND:20260218T073000Z
+LOCATION:ГУК Б-649
+DTSTART:20260218T060000Z
+SUMMARY:ЛК Начертательная геометрия
+UID:e9cc16082db4a18f5e3c05345e330000
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260527T131500Z
 LOCATION:--каф. 919
 DTSTART:20260527T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:038d7b2cba2bde36323f168808af7306
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дубровин Антон Викторович
+DTEND:20260427T131500Z
+LOCATION:ГУК А-718
+DTSTART:20260427T114500Z
+SUMMARY:ПЗ Инженерная графика
+UID:572ca5357b47497864107e888242a913
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИН АЛЕКСАНДР ДМИТРИЕВИЧ
@@ -3914,13 +3956,6 @@ SUMMARY:ПЗ Физическая культура
 UID:736d8af4737c9e4e09b3804c225b69a8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260406T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260406T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:d23f303049809b15e195283a820d60a2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ВЕРГУЗЬ АЛЕКСАНДР СЕРГЕЕВИЧ
 DTEND:20251126T113000Z
 LOCATION:24-600
@@ -4016,19 +4051,20 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:42b388419d95943bcbee5d6f87b13c1f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260325T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260325T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:a108553ac9985e30c3400963b3399dde
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шляхтунов Михаил Андреевич (вн. совм.)
 DTEND:20260321T131500Z
 LOCATION:Орш. В-512
 DTSTART:20260321T114500Z
 SUMMARY:ПЗ История России
 UID:3476e1a6ad9b2dc1e6733b027c94beca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260306T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Математический анализ
+UID:f1490958f57bd7d141081b34aab49540
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БЕЛАЯ АННА ВЛАДИМИРОВНА (осн.)
@@ -4068,6 +4104,14 @@ LOCATION:Орш. В-512
 DTSTART:20260314T114500Z
 SUMMARY:ПЗ История России
 UID:813418a1f0c710410b7d30a2b793eec4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260403T113000Z
+LOCATION:Орш. А-101
+DTSTART:20260403T100000Z
+SUMMARY:ЛК Математический анализ
+UID:94fc07c604c4f93635139508d655ddab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьев Даниил Евгеньевич
@@ -4148,13 +4192,6 @@ SUMMARY:ЛК Информатика
 UID:39650e515a59d7af6f64c56a5d3397a1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260408T113000Z
-LOCATION:ГУК А-706
-DTSTART:20260408T100000Z
-SUMMARY:ПЗ Начертательная геометрия
-UID:01fcfac6a331eb4025ebcd75fc50c2c4
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260323T091500Z
 LOCATION:--каф. 919
 DTSTART:20260323T074500Z
@@ -4231,13 +4268,6 @@ LOCATION:24-625
 DTSTART:20251023T060000Z
 SUMMARY:ЛР Информатика
 UID:9b295986ade32638f7b770ccbdcab994
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T131500Z
-LOCATION:ГУК А-718
-DTSTART:20260420T114500Z
-SUMMARY:ПЗ Инженерная графика
-UID:f6b86404c83588b24ed3c41a5f8ee8d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кривилев Александр Владимирович

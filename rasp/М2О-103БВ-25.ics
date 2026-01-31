@@ -85,19 +85,19 @@ SUMMARY:ПЗ Инженерная графика
 UID:23e27c9a0401ea5b374974d7a767f637
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260526T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260526T133000Z
-SUMMARY:ЛК Математический анализ
-UID:01d4d13c9679a62ed7d01803dab08d5d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260220T131500Z
 LOCATION:--каф. 919
 DTSTART:20260220T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:1f6e3526f9669af79b1775b36461cf3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260317T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260317T133000Z
+SUMMARY:ЛК Математический анализ
+UID:8a6adcb06ee79bede8258d1e59944430
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T150000Z
@@ -129,14 +129,6 @@ SUMMARY:ЛК Химия
 UID:4a7d12ac5b1c3a39b36e0754b85f9bdf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260519T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260519T133000Z
-SUMMARY:ЛК Математический анализ
-UID:4fb559ed9518fd57dc5673e7f970b95b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260217T131500Z
 LOCATION:Орш. Б-606
 DTSTART:20260217T114500Z
@@ -158,14 +150,6 @@ LOCATION:2-151(2Г)
 DTSTART:20251029T114500Z
 SUMMARY:ПЗ Алгоритмические языки и программирование
 UID:5110059b2376e37251b7229595ea0f0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260303T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260303T133000Z
-SUMMARY:ЛК Математический анализ
-UID:ba2c5fc2ff4b9cfd5d368518339d7a01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -264,12 +248,28 @@ SUMMARY:ЛК Основы российской государственност�
 UID:bf158de253e60be37a32ca67c57dd500
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260602T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260602T133000Z
+SUMMARY:ЛК Математический анализ
+UID:2e49c487db6c03ee1c85b428393b9763
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сивоплясова Светлана Юрьевна
 DTEND:20251105T131500Z
 LOCATION:5-420
 DTSTART:20251105T114500Z
 SUMMARY:ПЗ Экономическая теория
 UID:df3bee3cf4bc28d2d780842d82e51c7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260414T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260414T133000Z
+SUMMARY:ЛК Математический анализ
+UID:fc9523ec85add40a9b50a4d8e0ffabef
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251107T091500Z
@@ -293,11 +293,27 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:d048ccddece1bbc7afa70c0266fc7907
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260115T131500Z
+LOCATION:Орш. В-202
+DTSTART:20260115T114500Z
+SUMMARY:Экзамен Математический анализ
+UID:b2ddcf6b4b765a9d4e0c28f1510ae315
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260305T113000Z
 LOCATION:2-215(2В)
 DTSTART:20260305T100000Z
 SUMMARY:ЛР Введение в авиационную и ракетно-космическую технику
 UID:7cebcd6d0e9f2dddd0af1bd6e4680090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260512T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260512T133000Z
+SUMMARY:ЛК Математический анализ
+UID:8a0d52935bf7447b05e5f08158ac4a02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ушаков Иван Владимирович
@@ -571,12 +587,11 @@ SUMMARY:ПЗ Физическая культура
 UID:0f722944574f7d59fad0d8808ffd6eaa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260317T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260317T133000Z
-SUMMARY:ЛК Математический анализ
-UID:1a2238330561560ce13e3066c0e72e0a
+DTEND:20260428T131500Z
+LOCATION:Орш. Б-606
+DTSTART:20260428T114500Z
+SUMMARY:ПЗ Иностранный язык
+UID:0bec5ee43923766ac58529c5c1916e75
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Айдемир Тимур
@@ -595,11 +610,12 @@ SUMMARY:ЛК История России
 UID:55ea06642d812206084ff37fe6d66f40
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260428T131500Z
-LOCATION:Орш. Б-606
-DTSTART:20260428T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:0bec5ee43923766ac58529c5c1916e75
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260505T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260505T133000Z
+SUMMARY:ЛК Математический анализ
+UID:b2432f8f9aec9941ec2067cb28f54f93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ухваков Антон Олегович
@@ -653,14 +669,6 @@ LOCATION:--каф. 919
 DTSTART:20251029T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:ac042e9513d6d599a3cf258e49c6cee0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260602T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260602T133000Z
-SUMMARY:ЛК Математический анализ
-UID:7da2baccd2fb189589bbe159ef5bbda5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251209T113000Z
@@ -737,28 +745,12 @@ SUMMARY:ПЗ Экономическая теория
 UID:6bb9b66a64ee5222aceefab3f25e1509
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260224T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260224T133000Z
-SUMMARY:ЛК Математический анализ
-UID:918a00432cbd425a775a8de8d5397dd1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Митрохов Николай Вячеславович
 DTEND:20251124T164500Z
 LOCATION:2-201(2А)
 DTSTART:20251124T151500Z
 SUMMARY:ЛК Алгоритмические языки и программирование
 UID:d10a318f0fa499c9d44e52923283c362
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260324T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260324T133000Z
-SUMMARY:ЛК Математический анализ
-UID:f743bde2316ccfa78d9361d94beea444
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -1035,6 +1027,14 @@ SUMMARY:ЛК История России
 UID:5a3434ead81a1022ea295baaa32e73f2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260224T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260224T133000Z
+SUMMARY:ЛК Математический анализ
+UID:67603738dd58570918fed92139f2fed4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Левичева Светлана Викторовна
 DTEND:20251028T131500Z
 LOCATION:Орш. Б-606
@@ -1166,6 +1166,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:ceae04f2fb5121b24d033de91663263c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260331T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260331T133000Z
+SUMMARY:ЛК Математический анализ
+UID:e4fc7d82afe2ec400552c073fb005eef
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251004T091500Z
 LOCATION:ГУК А-720
 DTSTART:20251004T074500Z
@@ -1259,14 +1267,6 @@ SUMMARY:ПЗ Инженерная графика
 UID:67cae36bc8461dbce467d30cf5c4b49c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260421T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260421T133000Z
-SUMMARY:ЛК Математический анализ
-UID:e9da24b4f117201a1df1f64c26f3436e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250902T091500Z
 LOCATION:Орш. В-207
 DTSTART:20250902T074500Z
@@ -1349,6 +1349,14 @@ LOCATION:2-151(2Г)
 DTSTART:20251011T100000Z
 SUMMARY:ЛР Алгоритмические языки и программирование
 UID:8057eadd374b8f7aa972cae9be6e5c72
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260310T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260310T133000Z
+SUMMARY:ЛК Математический анализ
+UID:61c725b67db55910377924b7d1abed40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михалева Светлана Дмитриевна
@@ -1481,14 +1489,6 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:3d2d20d557c062ca9ea41e6bfb917c76
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260407T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260407T133000Z
-SUMMARY:ЛК Математический анализ
-UID:a9602fa09d3619f43c145c0202fb3809
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260515T131500Z
 LOCATION:--каф. 919
 DTSTART:20260515T114500Z
@@ -1607,14 +1607,6 @@ SUMMARY:ЛР Химия
 UID:f103352b7c939116743e086342f6d1ee
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260115T113000Z
-LOCATION:Орш. В-202
-DTSTART:20260115T100000Z
-SUMMARY:Экзамен Математический анализ
-UID:026ed48125f9de0833d0b79b64cdbe03
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ушаков Иван Владимирович
 DTEND:20260429T113000Z
 LOCATION:ГУК Б-448
@@ -1629,14 +1621,6 @@ LOCATION:ГУК Б-744
 DTSTART:20260423T100000Z
 SUMMARY:ЛР Химия
 UID:d049603ff332bdbb498ec0120d8b9db3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260428T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260428T133000Z
-SUMMARY:ЛК Математический анализ
-UID:c9e36499c203d19f928f2cfe00802ba2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T113000Z
@@ -1735,6 +1719,14 @@ SUMMARY:ЛК Теоретическая механика
 UID:f5baa240f1344784907cde0e22265436
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260526T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260526T133000Z
+SUMMARY:ЛК Математический анализ
+UID:62616a3af9bd11c1401d959364af1bdc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Васькова Варвара Сергеевна
 DTEND:20260508T113000Z
 LOCATION:3-407
@@ -1757,28 +1749,12 @@ SUMMARY:ЛК Общая физика
 UID:0aec813872bdfe5d41af5bc593920a23
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260512T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260512T133000Z
-SUMMARY:ЛК Математический анализ
-UID:0586d41bfd27b49553df47eefb1cf37a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Левичева Светлана Викторовна
 DTEND:20251223T131500Z
 LOCATION:Орш. Б-606
 DTSTART:20251223T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:67739b5dda349723295660d0c24f2787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260210T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260210T133000Z
-SUMMARY:ЛК Математический анализ
-UID:a3e9af4d24b2e954f168fd0b4de850e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Билоусько Наталья Леонидовна
@@ -1802,14 +1778,6 @@ LOCATION:--каф. 919
 DTSTART:20251024T133000Z
 SUMMARY:ПЗ Физическая культура
 UID:c8ac187d2804acdf1f8942476960cd99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260115T131500Z
-LOCATION:Орш. В-202
-DTSTART:20260115T114500Z
-SUMMARY:Экзамен Математический анализ
-UID:811420477574cd88e7a2add33736bef5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260526T131500Z
@@ -1979,6 +1947,14 @@ SUMMARY:ПЗ Инженерная графика
 UID:db906e6d14d5b87b349fc3f3f1caada3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260421T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260421T133000Z
+SUMMARY:ЛК Математический анализ
+UID:47e0218930ce328ad2ff9ced81535068
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251128T073000Z
 LOCATION:Орш. В-204
 DTSTART:20251128T060000Z
@@ -2059,6 +2035,14 @@ LOCATION:Орш. В-204
 DTSTART:20251010T060000Z
 SUMMARY:ПЗ Математический анализ
 UID:f586c173bf478c4b2e7fc8d86f8deb42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260303T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260303T133000Z
+SUMMARY:ЛК Математический анализ
+UID:1618f29a74afe73e9d67b380a966af63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михалева Светлана Дмитриевна
@@ -2682,14 +2666,6 @@ LOCATION:--каф. 919
 DTSTART:20251224T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:d5e01a17e93698fbec3d7d732bf686f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260310T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260310T133000Z
-SUMMARY:ЛК Математический анализ
-UID:91e57ad34874269610a4a6adc6dbd14d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251111T091500Z
@@ -3342,6 +3318,14 @@ SUMMARY:ПЗ Общая физика
 UID:0d3efac0d6bc5a29e519371b35947ae3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260217T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260217T133000Z
+SUMMARY:ЛК Математический анализ
+UID:35dd119fe064ac9c91c4bec21f703210
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шапошников Владимир Павлович
 DTEND:20260304T091500Z
 LOCATION:2-201(2А)
@@ -3394,6 +3378,14 @@ LOCATION:Орш. В-204
 DTSTART:20251204T114500Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:11170a959ef42c9725426e963688c216
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260324T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260324T133000Z
+SUMMARY:ЛК Математический анализ
+UID:3cdf16b475b43e8c05bcc1d3018a4553
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Студников Павел Евгеньевич
@@ -3515,6 +3507,14 @@ SUMMARY:ПЗ Экономическая теория
 UID:75fafcb35da73f6c311b554ffa48a1a1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260519T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260519T133000Z
+SUMMARY:ЛК Математический анализ
+UID:df4c7d8ab4874dae28847a7dfc0318e8
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250911T113000Z
 LOCATION:Орш. В-101
 DTSTART:20250911T100000Z
@@ -3564,14 +3564,6 @@ LOCATION:Орш. В-207
 DTSTART:20251010T100000Z
 SUMMARY:ПЗ История России
 UID:fd6fcade20646b48fc805118f2a8cf90
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260331T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260331T133000Z
-SUMMARY:ЛК Математический анализ
-UID:d305ba4981c0a47f6f8ba09d8ff30971
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T150000Z
@@ -3776,6 +3768,14 @@ SUMMARY:ПЗ Правоведение
 UID:468b258a23f8cea2eea8a259c999c366
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260407T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260407T133000Z
+SUMMARY:ЛК Математический анализ
+UID:930b52379db75df12a3634fbd05d281d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Васькова Варвара Сергеевна
 DTEND:20260313T113000Z
 LOCATION:3-407
@@ -3808,19 +3808,19 @@ SUMMARY:ПЗ Иностранный язык
 UID:321933d6c45444b41ec332b8f0c9e3b9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260428T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260428T133000Z
+SUMMARY:ЛК Математический анализ
+UID:da924413bf621fc0d4d610472601277a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251010T091500Z
 LOCATION:Орш. В-326
 DTSTART:20251010T074500Z
 SUMMARY:ПЗ Общая физика
 UID:1a23ec1350e2f4e4023057e5d8f0c7b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260414T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260414T133000Z
-SUMMARY:ЛК Математический анализ
-UID:a1361c2f74a21a21f447745b55257dab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250920T073000Z
@@ -3995,6 +3995,14 @@ SUMMARY:ПЗ Физическая культура
 UID:3a65aa9cf7652c3c06027b7ce3369e67
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260210T150000Z
+LOCATION:Орш. А-101
+DTSTART:20260210T133000Z
+SUMMARY:ЛК Математический анализ
+UID:148f5a426ac8ae73bd1ae1ef9285184d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
 DTEND:20260221T131500Z
 LOCATION:Орш. В-101
@@ -4153,6 +4161,14 @@ SUMMARY:ЛК Химия
 UID:b711f5f9ba8634e42298acd1643aa71b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ (осн.)
+DTEND:20260115T113000Z
+LOCATION:Орш. В-202
+DTSTART:20260115T100000Z
+SUMMARY:Экзамен Математический анализ
+UID:785c4bf8dfd31e72107fa5641493bb0a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250904T150000Z
 LOCATION:Орш. В-301
 DTSTART:20250904T133000Z
@@ -4268,14 +4284,6 @@ SUMMARY:ЛК История России
 UID:6ea6aa06addc0108f023b38fe5008db2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260505T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260505T133000Z
-SUMMARY:ЛК Математический анализ
-UID:824c142bf6e91066b4260503e8a435fd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260408T073000Z
 LOCATION:--каф. 919
 DTSTART:20260408T060000Z
@@ -4358,14 +4366,6 @@ LOCATION:Орш. Б-606
 DTSTART:20260414T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:824ee77f6f9927b07bbcb90e95fc589d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20260217T150000Z
-LOCATION:Орш. А-101
-DTSTART:20260217T133000Z
-SUMMARY:ЛК Математический анализ
-UID:dab2b0f1e4abd27589daf5a2171bac79
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251206T091500Z
