@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260429T113000Z
+LOCATION:7-406
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Динамика полета
+UID:8c198dc3781fb54e2190e1a1f8cfe64e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20260413T150000Z
 LOCATION:5-111
@@ -46,14 +54,6 @@ LOCATION:--каф. 919
 DTSTART:20260402T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:4ab388a0f25e22d10a05b9f366aebf29
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260211T113000Z
-LOCATION:7-417
-DTSTART:20260211T100000Z
-SUMMARY:ЛК Динамика полета
-UID:906db5e8a9bd9be78be81da877a4b9cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришина Алена Юрьевна
@@ -258,10 +258,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воронка Татьяна Владимировна
 DTEND:20260513T131500Z
-LOCATION:7-417
+LOCATION:7-406
 DTSTART:20260513T114500Z
 SUMMARY:ПЗ Динамика полета
-UID:32fae20ebbc0179134097c4abcb8f3b8
+UID:790d8580c4fc4978f5d634becf246935
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -300,6 +300,14 @@ LOCATION:4-304
 DTSTART:20260506T114500Z
 SUMMARY:ЛР Динамика полета
 UID:715d0d5f8c39124fde14aa56ed4de842
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260401T131500Z
+LOCATION:7-406
+DTSTART:20260401T114500Z
+SUMMARY:ЛК Динамика полета
+UID:597fb2a07bc38a43f0ae0330f0a16b51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
@@ -395,14 +403,6 @@ SUMMARY:ЛР Теория автоматического регулирован�
 UID:ac5e3a00073c3dad0d0968fac03aa7f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260527T131500Z
-LOCATION:7-417
-DTSTART:20260527T114500Z
-SUMMARY:ПЗ Динамика полета
-UID:4fc66689fc55fe368f87de7f699c2b5c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Цхай Роман Александрович
 DTEND:20251119T131500Z
 LOCATION:7-417
@@ -442,6 +442,30 @@ UID:85b48f6f68987f04aae6f43ac1701c02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260325T131500Z
+LOCATION:7-406
+DTSTART:20260325T114500Z
+SUMMARY:ЛК Динамика полета
+UID:32a9652be2a2ae43bc1e66d5fb0a659c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260304T131500Z
+LOCATION:7-406
+DTSTART:20260304T114500Z
+SUMMARY:ЛК Динамика полета
+UID:c190dc3fc6343579bafba4eb6d306ad4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260218T113000Z
+LOCATION:7-406
+DTSTART:20260218T100000Z
+SUMMARY:ЛК Динамика полета
+UID:0de988fc26bcb346e72ee036ffd8cd25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
 DTEND:20250904T113000Z
 LOCATION:4-412
 DTSTART:20250904T100000Z
@@ -477,14 +501,6 @@ LOCATION:--каф.
 DTSTART:20251206T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:96b120c651defc801f929fc2eb670cbf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260218T113000Z
-LOCATION:7-417
-DTSTART:20260218T100000Z
-SUMMARY:ЛК Динамика полета
-UID:457cacb86a11204cd68bae367fb43e9b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250906T091500Z
@@ -554,14 +570,6 @@ LOCATION:--каф.
 DTSTART:20260228T100000Z
 SUMMARY:ЛК Военная подготовка
 UID:f0680f3fa4dd500b2e8bb775d7643481
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260304T113000Z
-LOCATION:7-417
-DTSTART:20260304T100000Z
-SUMMARY:ЛК Динамика полета
-UID:abe93ccaa4fc39446beb61a84afa1785
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ерохин Павел Васильевич
@@ -639,20 +647,20 @@ SUMMARY:ЛК Основы менеджмента
 UID:f235f78a5732c754200d48cff14b1e19
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260325T113000Z
+LOCATION:7-406
+DTSTART:20260325T100000Z
+SUMMARY:ЛК Динамика полета
+UID:a2f31370f27ee3af5bac41c009d1b518
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Анурова Ольга Михайловна
 DTEND:20260306T150000Z
 LOCATION:Орш. А-507
 DTSTART:20260306T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:97c394419b5e234657c8acb6011fd7ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260401T131500Z
-LOCATION:7-417
-DTSTART:20260401T114500Z
-SUMMARY:ЛК Динамика полета
-UID:7c71ff26a8039d0ececd97a80bd1ce07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цхай Роман Александрович
@@ -751,14 +759,6 @@ SUMMARY:ЛК Дополнительные главы высшей математ
 UID:9b749c631aa08cd86079425a59099058
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260225T113000Z
-LOCATION:7-417
-DTSTART:20260225T100000Z
-SUMMARY:ЛК Динамика полета
-UID:5ea9cbf05e2fab834b7e0f3ac4a62969
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251205T091500Z
 LOCATION:7-416
 DTSTART:20251205T074500Z
@@ -771,14 +771,6 @@ LOCATION:--каф. 919
 DTSTART:20260311T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:add872829d1725fee9af26baa62b6473
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260211T131500Z
-LOCATION:7-417
-DTSTART:20260211T114500Z
-SUMMARY:ЛК Динамика полета
-UID:b7eb07996432a7d445e976e95ee01bdc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T073000Z
@@ -969,6 +961,14 @@ LOCATION:5-002
 DTSTART:20260317T114500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:05b30a5442edd8e150ff9148f3c41fc2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260311T131500Z
+LOCATION:7-406
+DTSTART:20260311T114500Z
+SUMMARY:ЛК Динамика полета
+UID:c296e8684a51a77c98bf54b2553b604b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
@@ -1259,6 +1259,14 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:2daf61ab19bc1fe6ad7a366fcd114a90
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260415T113000Z
+LOCATION:7-406
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Динамика полета
+UID:00aa0c983120cc6c1eb35aae780c2c86
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
 DTEND:20260406T113000Z
 LOCATION:7-417
@@ -1303,6 +1311,14 @@ LOCATION:7-410
 DTSTART:20260421T060000Z
 SUMMARY:ЛК Оптимальное и адаптивное управление
 UID:f0ce6e5f6b76440dd6d7b78cc504c440
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260211T113000Z
+LOCATION:7-406
+DTSTART:20260211T100000Z
+SUMMARY:ЛК Динамика полета
+UID:e4434d8b9d41f23bbf78a35d580379fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гуереш Джахид
@@ -1356,6 +1372,14 @@ LOCATION:--каф. 919
 DTSTART:20251203T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:32c8e8b9d477aa339cb2f1bd87a1d9f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260225T113000Z
+LOCATION:7-406
+DTSTART:20260225T100000Z
+SUMMARY:ЛК Динамика полета
+UID:0e44238fbd95b8878933c4fd002f63d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Воронка Татьяна Владимировна
@@ -1648,14 +1672,6 @@ SUMMARY:ЛК Прикладная экология
 UID:ae495566157943fb38a62e2b178ac832
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260218T131500Z
-LOCATION:7-417
-DTSTART:20260218T114500Z
-SUMMARY:ЛК Динамика полета
-UID:f5004b5c275e428c2521cee23f643a75
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Анурова Ольга Михайловна
 DTEND:20260213T150000Z
 LOCATION:Орш. А-507
@@ -1709,22 +1725,6 @@ LOCATION:7-408
 DTSTART:20260409T100000Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:98f348af528007ee4fc059992ab0f993
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260225T131500Z
-LOCATION:7-417
-DTSTART:20260225T114500Z
-SUMMARY:ЛК Динамика полета
-UID:72d4dd6f7464d55cd10fa61f29e3b633
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260318T113000Z
-LOCATION:7-417
-DTSTART:20260318T100000Z
-SUMMARY:ЛК Динамика полета
-UID:ffa305c93625610b7817b9745fd894a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -1954,14 +1954,6 @@ SUMMARY:ЛР Динамика полета
 UID:30084289725525009839662bb8deff0e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260429T113000Z
-LOCATION:7-417
-DTSTART:20260429T100000Z
-SUMMARY:ПЗ Динамика полета
-UID:602ab49bc923c4e2d9d4bef7e61485a0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Цхай Роман Александрович
 DTEND:20251022T131500Z
 LOCATION:7-417
@@ -1983,14 +1975,6 @@ LOCATION:--каф. 919
 DTSTART:20251008T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:4d3e264da3dd82d2b0ce80dcf68204cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260429T131500Z
-LOCATION:7-417
-DTSTART:20260429T114500Z
-SUMMARY:ПЗ Динамика полета
-UID:2316e2376fec6f579f98a7e269fb694b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251001T091500Z
@@ -2068,6 +2052,14 @@ LOCATION:7-410
 DTSTART:20260224T060000Z
 SUMMARY:ЛК Оптимальное и адаптивное управление
 UID:b3693d9bf43a2226fe9a236994c69095
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260401T113000Z
+LOCATION:7-406
+DTSTART:20260401T100000Z
+SUMMARY:ЛК Динамика полета
+UID:71e614bbe97596e541e8edf468d4b99e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260328T131500Z
@@ -2364,6 +2356,14 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:351c7317fef76c6f6a2463b8ba1d4921
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260415T131500Z
+LOCATION:7-406
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Динамика полета
+UID:a3e7c2bdd230426fcd50b5c17d7aaa4e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гуереш Джахид
 DTEND:20260312T091500Z
 LOCATION:7-404
@@ -2537,6 +2537,14 @@ LOCATION:24-656
 DTSTART:20260422T074500Z
 SUMMARY:ЛК Исполнительные устройства систем управления ЛА
 UID:9b8c561b8c4e8a2e902bc3fa1b691a05
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260311T113000Z
+LOCATION:7-406
+DTSTART:20260311T100000Z
+SUMMARY:ЛК Динамика полета
+UID:ebf201453e9dcdaf6f5484846919f891
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251108T113000Z
@@ -3117,14 +3125,6 @@ SUMMARY:ЛК Военная подготовка
 UID:a4c0bb2ca550db3425645f7d057ee87e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260325T113000Z
-LOCATION:7-417
-DTSTART:20260325T100000Z
-SUMMARY:ЛК Динамика полета
-UID:a923741830dbc0f2e9eba445d029bc32
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20260504T150000Z
 LOCATION:5-111
@@ -3204,6 +3204,14 @@ LOCATION:3-137
 DTSTART:20251015T074500Z
 SUMMARY:ЛК Дополнительные главы высшей математики
 UID:eb19d3d81483fcc27f12efc9e6dced71
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260527T113000Z
+LOCATION:7-406
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Динамика полета
+UID:90d1a00727abc7d2af151b7cd41dfdf9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251115T113000Z
@@ -3356,19 +3364,19 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:2545656766b53d734f8382fc81ca311d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260325T131500Z
-LOCATION:7-417
-DTSTART:20260325T114500Z
-SUMMARY:ЛК Динамика полета
-UID:e6a5089a24214e042992e3e58dff26ce
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251105T113000Z
 LOCATION:3-137
 DTSTART:20251105T100000Z
 SUMMARY:ПЗ Дополнительные главы высшей математики
 UID:18f66ed78a79d83dcc080a66bdcd20ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260304T113000Z
+LOCATION:7-406
+DTSTART:20260304T100000Z
+SUMMARY:ЛК Динамика полета
+UID:7d072b3120c915c3548973e68be90486
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260502T073000Z
@@ -3447,12 +3455,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:3450433f20781e499faa66b84d170531
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260304T131500Z
-LOCATION:7-417
-DTSTART:20260304T114500Z
-SUMMARY:ЛК Динамика полета
-UID:004ba99b1d3f5c25944d05fad4d14c5b
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260429T131500Z
+LOCATION:7-406
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Динамика полета
+UID:b2d7c5d455ac67785c0eb41554c346a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГОРБАЧЕВ СЕРГЕЙ ИГОРЕВИЧ
@@ -3543,14 +3551,6 @@ LOCATION:--каф.
 DTSTART:20260530T074500Z
 SUMMARY:ЛК Военная подготовка
 UID:d3c1e9b33f63e01837d9a0dddc93a18f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260311T131500Z
-LOCATION:7-417
-DTSTART:20260311T114500Z
-SUMMARY:ЛК Динамика полета
-UID:5cfc6b580b23d140ab631ee6af7a46b4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251119T091500Z
@@ -3718,6 +3718,14 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:6f7b725b02b9776d07be5fb1752e59d0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260218T131500Z
+LOCATION:7-406
+DTSTART:20260218T114500Z
+SUMMARY:ЛК Динамика полета
+UID:66751003ee93ef42ab5aad30f048ef7d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
 DTEND:20260427T113000Z
 LOCATION:4-304
@@ -3731,6 +3739,14 @@ LOCATION:--каф.
 DTSTART:20260221T100000Z
 SUMMARY:ЛК Военная подготовка
 UID:c43e3e329b6241fd70f1b908cd22a2bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260318T131500Z
+LOCATION:7-406
+DTSTART:20260318T114500Z
+SUMMARY:ЛК Динамика полета
+UID:5de0f93158efdd42d73ad9a783b53330
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251004T091500Z
@@ -3769,14 +3785,6 @@ LOCATION:7-417
 DTSTART:20251210T100000Z
 SUMMARY:ЛК Оптимальное и адаптивное управление
 UID:6ee6e3bbd6faa9209b610cb46c91a1b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260415T113000Z
-LOCATION:7-417
-DTSTART:20260415T100000Z
-SUMMARY:ПЗ Динамика полета
-UID:a100252533376a0e0a91e9ddc2c37de1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
@@ -3822,6 +3830,14 @@ LOCATION:--каф.
 DTSTART:20260411T060000Z
 SUMMARY:ЛК Военная подготовка
 UID:f40abcf28c53b6f5b02d26a018d687ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260318T113000Z
+LOCATION:7-406
+DTSTART:20260318T100000Z
+SUMMARY:ЛК Динамика полета
+UID:fc67401064dcdc88667bbab0dd1eabb7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260321T131500Z
@@ -3953,14 +3969,6 @@ SUMMARY:ПЗ Оптимальное и адаптивное управление
 UID:f26549474f45bf3ee7f6d11a883c559a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260415T131500Z
-LOCATION:7-417
-DTSTART:20260415T114500Z
-SUMMARY:ПЗ Динамика полета
-UID:b93175f62b86bd30c90b423303d627a5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251108T073000Z
 LOCATION:--каф.
 DTSTART:20251108T060000Z
@@ -4027,6 +4035,14 @@ SUMMARY:ЛК Исполнительные устройства систем уп
 UID:2fa255ffb166b0f45811be5ecbde3b79
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260527T131500Z
+LOCATION:7-406
+DTSTART:20260527T114500Z
+SUMMARY:ПЗ Динамика полета
+UID:1bbb70a6fb3f4ad386b49d719486ab39
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251217T073000Z
 LOCATION:--каф. 919
 DTSTART:20251217T060000Z
@@ -4056,6 +4072,14 @@ LOCATION:Орш. А-507
 DTSTART:20260605T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:6aeb784d6c4ff943d87e068cbe14e59e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260211T131500Z
+LOCATION:7-406
+DTSTART:20260211T114500Z
+SUMMARY:ЛК Динамика полета
+UID:f6a95cd26554c7486f061619b3d5389a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
@@ -4088,19 +4112,19 @@ SUMMARY:ЛК Военная подготовка
 UID:6dbceeb70c339ceeb9603f11427dd362
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260401T113000Z
-LOCATION:7-417
-DTSTART:20260401T100000Z
-SUMMARY:ЛК Динамика полета
-UID:45b80befdd404964929b54a6c4eef6f8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251101T073000Z
 LOCATION:--каф.
 DTSTART:20251101T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:26777f1de59462a15b39e8ebae5d27de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Владимир Николаевич
+DTEND:20260225T131500Z
+LOCATION:7-406
+DTSTART:20260225T114500Z
+SUMMARY:ЛК Динамика полета
+UID:a93a6fa084da54f0b10320b5c47df8ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вербицкая Анна Кирилловна
@@ -4166,14 +4190,6 @@ LOCATION:--каф. 919
 DTSTART:20260401T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:e2e8503a65e34921cfcb885b81806416
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260318T131500Z
-LOCATION:7-417
-DTSTART:20260318T114500Z
-SUMMARY:ЛК Динамика полета
-UID:7d48d8497e8ae42c6f4ddf314e60dd9c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251227T073000Z
@@ -4255,14 +4271,6 @@ LOCATION:--каф. 919
 DTSTART:20260305T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:75e9c713277d5b060869eab2d1373fe1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Владимир Николаевич
-DTEND:20260311T113000Z
-LOCATION:7-417
-DTSTART:20260311T100000Z
-SUMMARY:ЛК Динамика полета
-UID:efa968ec6efdab25dec1729cbd3e3321
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260325T073000Z
@@ -4471,14 +4479,6 @@ SUMMARY:ЛК Военная подготовка
 UID:a9a64e3fa324c9063d97629adcf00ee8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260513T113000Z
-LOCATION:7-417
-DTSTART:20260513T100000Z
-SUMMARY:ПЗ Динамика полета
-UID:531186c3f62c2e33c9afd173710364ef
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260604T073000Z
 LOCATION:--каф. 919
 DTSTART:20260604T060000Z
@@ -4491,6 +4491,14 @@ LOCATION:--каф. 919
 DTSTART:20260318T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:25f391c7a799e56158b51484f41deee0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20260513T113000Z
+LOCATION:7-406
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Динамика полета
+UID:d3420a4ceb8aac350cfc7640a6b274dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тюменцев Юрий Владимирович
@@ -4570,14 +4578,6 @@ LOCATION:7-410
 DTSTART:20251023T133000Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:522de3468311edac8e37a519100b7bee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20260527T113000Z
-LOCATION:7-417
-DTSTART:20260527T100000Z
-SUMMARY:ПЗ Динамика полета
-UID:cf2b3f9ce15fd6edef5b27f1bcf20f01
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260214T131500Z
