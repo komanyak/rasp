@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20250925T131500Z
-LOCATION:Орш. В-208
-DTSTART:20250925T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:ee898f0ff047b776604e42649de58180
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251023T091500Z
 LOCATION:--каф. 919
 DTSTART:20251023T074500Z
@@ -327,14 +319,6 @@ SUMMARY:ПЗ Линейная алгебра и аналитическая ге�
 UID:b88210229faa113c703b31c9b12e1054
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251218T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:2cfa991fc83ae81d462077806196e1ec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
 DTEND:20251001T150000Z
 LOCATION:Орш. В-101
@@ -402,12 +386,28 @@ SUMMARY:ЛК Математический анализ
 UID:3396ad096cbf45b2b6ec5caece5cf48c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251113T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251113T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:5fed8916920da3fff803dfc09bb169ed
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
 DTEND:20251029T150000Z
 LOCATION:Орш. В-101
 DTSTART:20251029T133000Z
 SUMMARY:ЛК Основы российской государственности
 UID:bd780b1020147a256131560c504886be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251204T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251204T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:14979c6483dd98b1b61fa73e70ec474c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СИДОРОВ БОРИС НИКОЛАЕВИЧ
@@ -467,14 +467,6 @@ LOCATION:--каф. 919
 DTSTART:20260330T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:116b7406a32658cab2178c5633e4ac35
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251120T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:46e3adf742de812ed6b1bddf10b10e8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Марчук Софья Юрьевна
@@ -626,6 +618,14 @@ SUMMARY:ЛК Математический анализ
 UID:3a88a78634b4d3c11022c47997ee65fb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20250918T131500Z
+LOCATION:Орш. В-208
+DTSTART:20250918T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:c92ea08409315c60e36867badfffcec9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251003T113000Z
 LOCATION:ГУК А-722
 DTSTART:20251003T100000Z
@@ -730,14 +730,6 @@ LOCATION:24Б-330
 DTSTART:20251021T114500Z
 SUMMARY:ЛК Информационные технологии
 UID:2d50f65b26d026961e783ca58e278f60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251009T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:9af11bd27b376c7ce02e52e63537c933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неволин Александр Олегович
@@ -897,12 +889,12 @@ SUMMARY:ЛК Математический анализ
 UID:903cabcc2d14e664ca7d7aee8b51b8bf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251106T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:aeb17b67f0b22dfb4fb0b18e77e81efc
+DESCRIPTION:Позняков Павел Владимирович
+DTEND:20251216T150000Z
+LOCATION:ГУК В-228
+DTSTART:20251216T133000Z
+SUMMARY:ЛК Правовые основы инженерной деятельности
+UID:6f5ef48848fb7a21fedeec56fe1c4018
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250911T091500Z
@@ -910,14 +902,6 @@ LOCATION:--каф. 919
 DTSTART:20250911T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:d949da05b227d239663db543ea37d495
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Позняков Павел Владимирович
-DTEND:20251216T150000Z
-LOCATION:ГУК В-228
-DTSTART:20251216T133000Z
-SUMMARY:ЛК Правовые основы инженерной деятельности
-UID:6f5ef48848fb7a21fedeec56fe1c4018
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Марчук Софья Юрьевна
@@ -959,14 +943,6 @@ SUMMARY:ПЗ Введение в информационную безопасно
 UID:e8546a967796862e104d0435388e00cb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20251224T150000Z
-LOCATION:Орш. В-101
-DTSTART:20251224T133000Z
-SUMMARY:ЛК Основы российской государственности
-UID:70a3acdba495da3939e145e57dc48f40
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Останина Елена Анатольевна
 DTEND:20250930T131500Z
 LOCATION:24Б-330
@@ -983,12 +959,12 @@ SUMMARY:ЛК Математический анализ
 UID:0d3cf52439fce7c2841b3d3716441282
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251030T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:a589cc30c581439c3522865c25bdea3f
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20251224T150000Z
+LOCATION:Орш. В-101
+DTSTART:20251224T133000Z
+SUMMARY:ЛК Основы российской государственности
+UID:70a3acdba495da3939e145e57dc48f40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Соболев Леонид Борисович
@@ -1082,14 +1058,6 @@ LOCATION:--каф. 919
 DTSTART:20251013T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:fad45810a5dbefb420beb916f7f20eb9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251204T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:6cb9893984e84e3dca4862a682b5f1ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мазепа Роман Богданович
@@ -1264,6 +1232,14 @@ SUMMARY:ЛК Математический анализ
 UID:12588effac4cb75fdc2ce79b780fae63
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20250911T131500Z
+LOCATION:Орш. В-208
+DTSTART:20250911T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:fa00e83b4d286d28bcc8cfa2a35f20ea
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20251211T091500Z
 LOCATION:--каф. 919
 DTSTART:20251211T074500Z
@@ -1380,6 +1356,14 @@ SUMMARY:ПЗ Математический анализ
 UID:c26cd360387c90d2bfe1ba03cb84cb4b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251002T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251002T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:75a091ee3f877c6204dacfd50c9308e3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Балыш Андрей Николаевич
 DTEND:20260518T164500Z
 LOCATION:Орш. В-406
@@ -1419,12 +1403,12 @@ SUMMARY:ПЗ Общая физика
 UID:582fde31cf1c94d1934cb36c6d776b85
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20250904T131500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251016T131500Z
 LOCATION:Орш. В-208
-DTSTART:20250904T114500Z
+DTSTART:20251016T114500Z
 SUMMARY:ПЗ Математический анализ
-UID:fcffb0a592388cdf9eea46a9d703b6a0
+UID:d4a7fb108051e1e328d0a5a7ea78ff60
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251204T164500Z
@@ -1447,14 +1431,6 @@ LOCATION:Орш. В-309
 DTSTART:20260305T100000Z
 SUMMARY:ПЗ Общая физика
 UID:184a8bd2440b418c0ecd07d1bf4ed78a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251002T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:3c5f352a626cbae8f46c6d4817cd027a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250919T091500Z
@@ -1628,14 +1604,6 @@ SUMMARY:ЛК Экономическая теория
 UID:2581fed91473d4c975392e3e8b52f7cd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251113T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:84ae41015c9538c26279b6c922c351d6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Голуб Александр Геннадьевич
 DTEND:20260227T131500Z
 LOCATION:24Б-706
@@ -1688,6 +1656,14 @@ LOCATION:Орш. Б-610
 DTSTART:20260225T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:afb2621b23824e4b1955b84504ba7cc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251225T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251225T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:2e4d80975b01e63da1abcba096228896
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калимуллина Эльвира Ринатовна
@@ -1764,14 +1740,6 @@ LOCATION:Орш. А-101
 DTSTART:20260318T114500Z
 SUMMARY:ЛК История России
 UID:a79fdc9c47b8d7a41571dffc185f1b04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20250911T131500Z
-LOCATION:Орш. В-208
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:39de58a4a535977d7c44a7b5718ec919
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251010T091500Z
@@ -2030,22 +1998,6 @@ LOCATION:ГУК А-722
 DTSTART:20251205T074500Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:1995c12078d5fc5b3fb841bcc8dd87b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251127T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:985cc6b2fa81cf77be6cc78477afda97
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251016T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:bf991a92eb811f5b7f4011479c84900d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шкарубо Сергей Николаевич
@@ -2555,6 +2507,14 @@ SUMMARY:ЛК Русский язык и культура речи
 UID:8b1181ab46c528ca18abd94a8f6bac60
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251030T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251030T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:688002fcd79e06cd9e7df8d418731b77
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кобзарь Антонина Николаевна
 DTEND:20251126T131500Z
 LOCATION:Орш. В-101
@@ -2776,6 +2736,14 @@ SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:2cefe5f4d85c2e45625ef20a6592f0aa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251127T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251127T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:64391e90aeabc2849f76a6e68caf23ab
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Панкратов Николай Юрьевич
 DTEND:20260402T113000Z
 LOCATION:Орш. В-309
@@ -2883,6 +2851,14 @@ LOCATION:24Б-325
 DTSTART:20251014T100000Z
 SUMMARY:ПЗ Информационные технологии
 UID:90f8bda3af259a6e81a6797aba50077e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251211T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251211T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:231706562a37563014644263472b1ac5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250925T164500Z
@@ -3176,14 +3152,6 @@ SUMMARY:ЛР Общая физика
 UID:746d463ad6d0ec373b9be7b304ca8277
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251225T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:15d617361339818fb3da4654507ef3cb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Останина Елена Анатольевна
 DTEND:20251007T131500Z
 LOCATION:24Б-330
@@ -3197,6 +3165,14 @@ LOCATION:--каф. 919
 DTSTART:20251208T114500Z
 SUMMARY:ПЗ Физическая культура
 UID:f55eaf99e8bc3528a70ccd22be2930e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251023T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251023T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:af861dd71bc63b4e6186e350279cd861
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20251024T113000Z
@@ -3271,6 +3247,14 @@ LOCATION:24Б-119
 DTSTART:20251124T151500Z
 SUMMARY:ПЗ Введение в информационную безопасность
 UID:377cb9b30c8df41d6173b9424ef01288
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20250904T131500Z
+LOCATION:Орш. В-208
+DTSTART:20250904T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:7937aa4282a0d9c7ff56a9a3784ca9dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Позняков Павел Владимирович
@@ -3349,14 +3333,6 @@ LOCATION:Орш. В-326
 DTSTART:20250927T100000Z
 SUMMARY:ПЗ Общая физика
 UID:c36e6812935c428dd6778da9226b0f23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20250918T131500Z
-LOCATION:Орш. В-208
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:97b0c855386e88f8c0a5c692972b055e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Балыш Андрей Николаевич
@@ -3506,14 +3482,6 @@ LOCATION:24Б-325
 DTSTART:20250916T100000Z
 SUMMARY:ПЗ Информационные технологии
 UID:06a131bd2e728bf02a2c41264fe90460
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251023T131500Z
-LOCATION:Орш. В-208
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Математический анализ
-UID:24c5d82d0c2fb71d8208495746228ff9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Марчук Софья Юрьевна
@@ -3914,6 +3882,14 @@ SUMMARY:ПЗ Физическая культура
 UID:abf917a7d47a32a4c0f8b03d5f8e9ea5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251218T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251218T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:4c2f98eeaecf6eae0645048c1f0b8fbf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Марчук Софья Юрьевна
 DTEND:20260303T113000Z
 LOCATION:ГУК Б-649
@@ -3969,12 +3945,12 @@ SUMMARY:ПЗ История России
 UID:7f57563e01687f2b67970e78d4cffd6d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ
-DTEND:20251211T131500Z
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251106T131500Z
 LOCATION:Орш. В-208
-DTSTART:20251211T114500Z
+DTSTART:20251106T114500Z
 SUMMARY:ПЗ Математический анализ
-UID:a54fee4029e37cef70e321c79f46ce39
+UID:4af332cfef7ee1ee819bafce6197fb4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Останина Елена Анатольевна
@@ -4014,6 +3990,14 @@ LOCATION:ГУК А-722
 DTSTART:20250919T100000Z
 SUMMARY:ПЗ Инженерная и компьютерная графика
 UID:4821c7b68ed923af2194d600dd135737
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20250925T131500Z
+LOCATION:Орш. В-208
+DTSTART:20250925T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:ba0e42da714509a78af574faa3f02b4f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СИДОРОВ БОРИС НИКОЛАЕВИЧ
@@ -4069,6 +4053,14 @@ LOCATION:24Б-325
 DTSTART:20251209T100000Z
 SUMMARY:ПЗ Информационные технологии
 UID:6d9b7b3023cb546d6aa5481c6a10a3e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251120T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251120T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:815dcbe85e8ad396993160c17701f3f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СИДОРОВ БОРИС НИКОЛАЕВИЧ
@@ -4187,6 +4179,14 @@ LOCATION:7-416
 DTSTART:20260310T060000Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
 UID:4f69d45162e68402dfec000efdbfe841
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСИЛЬЕВ МИХАИЛ ИВАНОВИЧ (осн.)
+DTEND:20251009T131500Z
+LOCATION:Орш. В-208
+DTSTART:20251009T114500Z
+SUMMARY:ПЗ Математический анализ
+UID:5e02a87cd7d72bb6ae79208bb4307363
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неволин Александр Олегович
