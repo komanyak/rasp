@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251015T091500Z
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260302T091500Z
+LOCATION:3-310
+DTSTART:20260302T074500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:9b29246a0eebbb765d003be127872f85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260423T113000Z
+LOCATION:57Г-303
+DTSTART:20260423T100000Z
+SUMMARY:ЛК Биофизические основы живых систем
+UID:0aec231fc8e36ff45731a82af5c2ca69
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T091500Z
 LOCATION:--каф.
-DTSTART:20251015T074500Z
+DTSTART:20260527T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:e35e1d66c88e59caa3cc9b2fb6210970
+UID:964414f2ce93d65dd8a74efc28462fb9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251025T131500Z
-LOCATION:3-301
-DTSTART:20251025T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:62ac1a814251aecd3515eebbbbc37188
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20251209T113000Z
-LOCATION:9-404
-DTSTART:20251209T100000Z
-SUMMARY:ЛК Социология
-UID:35239612bd081d4d4cd7b747f5a42231
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260321T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260321T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:8e6121b078a9166dd9ec40fe7f70d731
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
@@ -33,19 +41,20 @@ SUMMARY:ЛК Электроника
 UID:0e8add8c7aa2ed7906cb6d023f9cac2f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20250925T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20250925T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:6c981e28f92ce995e082c1f8a3fee10b
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260416T150000Z
+LOCATION:3-303
+DTSTART:20260416T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:ea84287ed3ab91d46cc7b0abf66d9e77
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:3-303
-DTSTART:20251206T074500Z
-SUMMARY:ПЗ Численные методы
-UID:673cd0383c4366c3f4a9bae7709238c2
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260216T131500Z
+LOCATION:24-419
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Теплофизика
+UID:8699fba298f9b924910210da3dd6438b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260211T091500Z
@@ -55,12 +64,41 @@ SUMMARY:ПЗ Военная подготовка
 UID:d3b445a18d4e4cee08d6965d57170cae
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251106T164500Z
-LOCATION:24-600а
-DTSTART:20251106T151500Z
-SUMMARY:ЛР Физическая химия
-UID:31a372815d136d47cb3dc4202adaf6b7
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:18cb36a87688ec7a4525e34237cccb32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T131500Z
+LOCATION:--каф.
+DTSTART:20260311T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:96de35a6d5ddbf5af74e11de5e10562e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260319T150000Z
+LOCATION:3-303
+DTSTART:20260319T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:451d7ce62bdc8b94510e218bf7f9c08a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260214T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Основы психологии
+UID:c62063c50c697ae260b622505af54651
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:--каф.
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:38c43ed712f9824f270799715b5e6eff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белявский Александр Евгеньевич
@@ -71,19 +109,77 @@ SUMMARY:ЛР Теплофизика
 UID:45f8d4abf05a0c8ab315e7723742fa57
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251017T131500Z
-LOCATION:3-Зал А
-DTSTART:20251017T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:f3b0b4b837cd742f852a744570286735
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260514T113000Z
+LOCATION:57Г-303
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Биофизические основы живых систем
+UID:12e40c765209fd0d940adcbee493d8a6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20251125T113000Z
-LOCATION:9-404
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Социология
-UID:224503fff6d728c0f8fe7d2a558191a4
+DTEND:20260603T131500Z
+LOCATION:--каф.
+DTSTART:20260603T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:626e7a20376d977e98f8c8e229bd4b99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260212T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260212T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:c65be7c0095124457de690ef1e277dac
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:bca65944fb7c2929f817f4c7f2c1b643
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T113000Z
+LOCATION:--стадион
+DTSTART:20260331T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:316cdcdf0e8dcf99356cef9e4f9af9d8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260407T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:3c71b3c83518976ea1ca8ae0d67bcbd5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T091500Z
+LOCATION:--каф.
+DTSTART:20260506T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ed1e14ef0012fd7efa16a2bdcbec1104
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T073000Z
+LOCATION:--каф. 919
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:f0976e3a84ca82817f5397e84d9f8e68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T073000Z
+LOCATION:--каф.
+DTSTART:20260506T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:67e1bd9f288e5ec17a0c6b251f872e2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260219T131500Z
+LOCATION:57Г-303
+DTSTART:20260219T114500Z
+SUMMARY:ЛК Электроника
+UID:6729db2580ac496246bfe318188c559f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
@@ -94,19 +190,12 @@ SUMMARY:ЛК Электроника
 UID:b9182921efc3059288356aa746ce900c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250901T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250901T114500Z
-SUMMARY:ЛК Физическая химия
-UID:c59d87ea97bf91d2d3fe728068d6b6ec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:--каф.
-DTSTART:20251210T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:805b75ab1fd5b14b6418517b21286963
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260413T131500Z
+LOCATION:24-419
+DTSTART:20260413T114500Z
+SUMMARY:ПЗ Теплофизика
+UID:1e5c0c76adcc913e17c63c5f196241ac
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260526T150000Z
@@ -114,6 +203,13 @@ LOCATION:Орш. Б-606
 DTSTART:20260526T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:7d8ad57e9bb3e761a064fa164bd46eb7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T091500Z
+LOCATION:--каф.
+DTSTART:20260304T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:93b7651b477a9d0f4582d3e3927d4b43
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260324T164500Z
@@ -124,11 +220,26 @@ UID:1c01145cfa70151cba88a17a315de830
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260417T091500Z
+LOCATION:57Г-402
+DTSTART:20260417T074500Z
+SUMMARY:ЛР Биофизические основы живых систем
+UID:30b939ce5713519e16fe189e820e10ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
 DTEND:20260604T113000Z
 LOCATION:57Г-303
 DTSTART:20260604T100000Z
 SUMMARY:ЛК Биофизические основы живых систем
 UID:d46cadc03d559a15526f3035520831b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T073000Z
+LOCATION:--каф.
+DTSTART:20260304T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:52b07090f6264d1696572c12ed032e54
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260407T150000Z
@@ -146,6 +257,13 @@ SUMMARY:ЛК Электроника
 UID:44481a91dc0a08c8fe58b01fc96b1fda
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260422T091500Z
+LOCATION:--каф.
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8a2a40822c3cb9b8adf36a4759bca12e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260421T164500Z
 LOCATION:Орш. Б-606
 DTSTART:20260421T151500Z
@@ -153,20 +271,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:cd2fbae42fc7c6d874efbc248684f5e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251218T131500Z
-LOCATION:24-715
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:3dd3917ee9c9ef11a64c6ad26e07c46c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251013T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251013T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:ae61fa1cebbdec92662baf4beea861b4
+DTEND:20260303T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260303T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:f8b324834192e51e159861ec1b84a44a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -185,1271 +294,19 @@ SUMMARY:ПЗ Метрология и стандартизация
 UID:860bb84871a6bf150bf539e16292359f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260421T150000Z
+DTEND:20260224T150000Z
 LOCATION:Орш. Б-606
-DTSTART:20260421T133000Z
+DTSTART:20260224T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:40968c3055ed817ca8a6fbf2e8e4359d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T073000Z
-LOCATION:--каф.
-DTSTART:20251119T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:14757df8538a9ca127151d3292beab68
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:--каф. 919
-DTSTART:20251114T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:104540c32e2b429833bab5c5e72f7091
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251115T131500Z
-LOCATION:3-301
-DTSTART:20251115T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:e337dd27723c071b4c75133dfc8ffbd7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T113000Z
-LOCATION:--каф.
-DTSTART:20260429T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:425c2ac4811fd953e61e24c62f270630
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260226T131500Z
-LOCATION:57Г-303
-DTSTART:20260226T114500Z
-SUMMARY:ЛК Электроника
-UID:fcf2912e42386da22be99d1c3dfa8c24
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T091500Z
-LOCATION:--каф.
-DTSTART:20251105T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:74dc8c846d45646366bd6f05b2955cff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260317T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260317T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:f77cc34cc14489d153b43071fe4795fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:--каф. 919
-DTSTART:20251024T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:ecea9ba2a9474cc3a49be6ea2a0fff41
+UID:1714eabcf04c1f616df9c53f741ee53d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260518T113000Z
+DTEND:20260420T113000Z
 LOCATION:3-310
-DTSTART:20260518T100000Z
+DTSTART:20260420T100000Z
 SUMMARY:ЛР Метрология и стандартизация
-UID:c9cf2e330d71423e6fdc391f789a039c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260513T091500Z
-LOCATION:--каф.
-DTSTART:20260513T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b8311f0b0c708760b8f8988bb4ccdfb6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T131500Z
-LOCATION:3-Зал А
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:8455964afbefcbde08b1f86b18c5e9fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T113000Z
-LOCATION:--каф. 919
-DTSTART:20250926T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:df3d3991b1f376eeb5653861ad655019
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251023T131500Z
-LOCATION:24-715
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:eaa1a7768acbab578fdffa0a9b7a4a23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T073000Z
-LOCATION:--каф. 919
-DTSTART:20250909T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3add8bdc21b39d161ae4ed2383fa70da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260216T113000Z
-LOCATION:24-419
-DTSTART:20260216T100000Z
-SUMMARY:ЛК Теплофизика
-UID:f17804d607b890f3b4cd0fc51cc41366
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260523T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260523T060000Z
-SUMMARY:ЛК Основы психологии
-UID:1c80aa88d543623d57086efa6c1d5753
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251009T073000Z
-LOCATION:3-269
-DTSTART:20251009T060000Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:e3b30dabf1d5bd4b4b5775b0809ef0dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T113000Z
-LOCATION:--каф.
-DTSTART:20260311T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d5015423dd8e7505404b4f2d1ae9a81c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260217T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260217T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:097a7c11de1caff5eb68637a97495590
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260318T131500Z
-LOCATION:--каф.
-DTSTART:20260318T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:799ba4d17af9ea82b1b90e9c58bc8af0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T073000Z
-LOCATION:--каф.
-DTSTART:20251029T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d72521b995c2cc4f23950d8c0e6321c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251006T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251006T114500Z
-SUMMARY:ЛК Физическая химия
-UID:d1329dbd7869dde51ac1d5b7e1162140
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260406T073000Z
-LOCATION:--каф. 919
-DTSTART:20260406T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3b08e82d85af9d0a7f6476aa679b9004
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260514T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260514T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:b4a0d8130bc421cfe57ffafb3b05ae59
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251117T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251117T133000Z
-SUMMARY:ЛК Материаловедение
-UID:174955a9c794e27d75e47da8697651db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T150000Z
-LOCATION:3-303
-DTSTART:20251030T133000Z
-SUMMARY:ЛР Численные методы
-UID:269113d6727f56179759cdd1bf0c3939
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260210T113000Z
-LOCATION:--стадион
-DTSTART:20260210T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:3a0900357636a67b2d8181f1900a8f59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T073000Z
-LOCATION:--каф. 919
-DTSTART:20251007T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:44a945ecda449d9b5b03a7827f466d0c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:--каф. 919
-DTSTART:20251031T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:083b884b9daf06f7b97556194c4de305
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:--каф.
-DTSTART:20251126T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:53d9236d040af786428577fa5728b95a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T131500Z
-LOCATION:--каф.
-DTSTART:20260429T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1f18492a2a114522ada3ac8923d1a97d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260519T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260519T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f4cd2f29da2fcbd4c2d8c792b6e86d9a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251111T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251111T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:8ce1b33051b5c8e0ef30351f34398242
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T131500Z
-LOCATION:3-Зал А
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:75589f9ca5753c149ec93322b404c841
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260302T131500Z
-LOCATION:24-419
-DTSTART:20260302T114500Z
-SUMMARY:ЛК Теплофизика
-UID:5d7f0afedb14bb4513a371f924b153fb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260602T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260602T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:bb6eed4184dd2dcab7c1c6fe8ff096ec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251219T150000Z
-LOCATION:3-409
-DTSTART:20251219T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:eb7ea466042a034fe301d1dd43612b3d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260418T113000Z
-LOCATION:3-Зал А
-DTSTART:20260418T100000Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:712d21340f78bc60e6a06912f67a1d81
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260212T113000Z
-LOCATION:57Г-303
-DTSTART:20260212T100000Z
-SUMMARY:ЛК Биофизические основы живых систем
-UID:3b719212bcbaa55cacca72f650134318
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260401T131500Z
-LOCATION:--каф.
-DTSTART:20260401T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:99a725e84623f6f0f2a5e208148c8440
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260428T113000Z
-LOCATION:--стадион
-DTSTART:20260428T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:b40b1151db88f07ab98c3374d8395d42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T113000Z
-LOCATION:--каф.
-DTSTART:20251217T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8d3cd86118594b4beab278da1b587614
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260415T113000Z
-LOCATION:--каф.
-DTSTART:20260415T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c705e147a378e2d1d38836cf6487150e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251117T113000Z
-LOCATION:3-131
-DTSTART:20251117T100000Z
-SUMMARY:ЛК Численные методы
-UID:4990d77f939f41eb435a7b6cef92a564
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251028T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251028T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:6eec59aa6465f4c2d7e07fe1ad0cae20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260305T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260305T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:b579dc000065f961a3ae0e81224a6c4d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T091500Z
-LOCATION:57Г-302
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Биология человека
-UID:d4bb7a1fcea2ded6d1d7eb27f59d60ed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260211T113000Z
-LOCATION:--каф.
-DTSTART:20260211T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:184284832d4e55d60fce1177657c5285
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251218T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251218T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:557fdbeb3b18f93f8e91334ba2dd7b8e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260427T113000Z
-LOCATION:24-419
-DTSTART:20260427T100000Z
-SUMMARY:ПЗ Теплофизика
-UID:ba239b0c94dbeed90ed0aa1fbbdac8db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T091500Z
-LOCATION:--каф.
-DTSTART:20251210T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e846ce293e8064c18911201c295ec987
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T073000Z
-LOCATION:--каф. 919
-DTSTART:20260420T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e148de4f95f72fa7ca839784c448534b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T150000Z
-LOCATION:3-303
-DTSTART:20251002T133000Z
-SUMMARY:ЛР Численные методы
-UID:b96e440148050bcf1514e7abcb336feb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T113000Z
-LOCATION:--каф.
-DTSTART:20250903T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:91131a32ed317bdc109024f99958aa61
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T091500Z
-LOCATION:--каф.
-DTSTART:20251022T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9f14c92eb42749e8449ebfccf3f7ef09
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T073000Z
-LOCATION:--каф.
-DTSTART:20260311T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:826d5e65246dbedbdc4dd57c31b0658a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251027T113000Z
-LOCATION:3-131
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Численные методы
-UID:7ee57ea5078bf6ff15976ba453aaedfb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T073000Z
-LOCATION:--каф.
-DTSTART:20251001T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d2009e5c7c0adf814a9c95d5f2b6a335
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260226T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260226T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:9d96489cff888d17098bbed8b6e317da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260409T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260409T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:c8308f9e098fd9c4d6d5d56b855b68a3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T113000Z
-LOCATION:--каф. 919
-DTSTART:20250919T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:548282932a17262ff6300953ce6e6f70
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:--каф.
-DTSTART:20251001T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9866698d31ef47723cb0c87898212f0a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20260116T073000Z
-LOCATION:3-269
-DTSTART:20260116T060000Z
-SUMMARY:Экзамен Общая электротехника и электроника
-UID:8870e8902531c13b75fdb2da540ff67c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T091500Z
-LOCATION:57Г-302
-DTSTART:20251018T074500Z
-SUMMARY:ПЗ Биология человека
-UID:b606db3632bd6469cdc1150d8365d01d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260415T131500Z
-LOCATION:--каф.
-DTSTART:20260415T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fe35d4ce4365d2efa8985da60808662c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251115T113000Z
-LOCATION:3-301
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:1fa149d5a1e4450c12b7368598227e5f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T073000Z
-LOCATION:--каф. 919
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:0506659ad6a0df2b9cd8a83e0120e20c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:4155f433d70583d170561176da0af9ce
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T131500Z
-LOCATION:--каф.
-DTSTART:20251105T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9a44eda30beedbe7aa3a6cac74979f69
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260528T113000Z
-LOCATION:57Г-303
-DTSTART:20260528T100000Z
-SUMMARY:ПЗ Биофизические основы живых систем
-UID:8c5802fff51a7920dc669f1b4cf4fca8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251018T113000Z
-LOCATION:3-301
-DTSTART:20251018T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:c5d01ae4e1822dcc013b7634c287973f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260210T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260210T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6f6ff3a5cf86f54c494cfa3310c72d32
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260518T073000Z
-LOCATION:--каф. 919
-DTSTART:20260518T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:aa7ee6eb1970f453c4a40cf669990520
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T073000Z
-LOCATION:--каф. 919
-DTSTART:20260427T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c9fb22a34a841f2e465280d3fe6db159
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:--каф. 919
-DTSTART:20250905T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:0f09157f54e1e19f26836d67baeaaddb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260416T113000Z
-LOCATION:57Г-303
-DTSTART:20260416T100000Z
-SUMMARY:ПЗ Биофизические основы живых систем
-UID:001139a1516dd1701e4f6d31441cdf4f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251202T113000Z
-LOCATION:3-269
-DTSTART:20251202T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:ba9afb83d07b0d2b593c36fc5702ce35
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260602T113000Z
-LOCATION:--стадион
-DTSTART:20260602T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:7cc8da1bae80c57998270ef97b8d3781
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250927T131500Z
-LOCATION:3-301
-DTSTART:20250927T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:887a51a8bc110b24fb65b7ce14827f31
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T113000Z
-LOCATION:--стадион
-DTSTART:20260414T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:bcb3d118355e6f09e6e5b7cde3cca008
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251114T150000Z
-LOCATION:3-409
-DTSTART:20251114T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c197967963f674850aecdc36e168746c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251023T073000Z
-LOCATION:3-269
-DTSTART:20251023T060000Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:4ce64068ad8165b4163e600f6a3563a1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T073000Z
-LOCATION:--каф.
-DTSTART:20251015T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fde26f260fc2612f4cffb9843182b46d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250927T113000Z
-LOCATION:3-301
-DTSTART:20250927T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:4061ca843d05b167c44a743e1bb25c6e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20250929T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20250929T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:c23b9b395e5e69c30a4904eec2d21576
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T131500Z
-LOCATION:3-Зал А
-DTSTART:20251107T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:4b82bd380c154196c50065bb2b6b887f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250930T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250930T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:031fdefd4e856867642e249750fcbd5a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260327T091500Z
-LOCATION:ГУК Б-336а
-DTSTART:20260327T074500Z
-SUMMARY:ЛР Конструкционные и биоматериалы
-UID:be7ab06f6770874bb37a56818b289451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251014T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251014T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:ab0d8a01d19a2cb2cb5d1baf14ba575b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T131500Z
-LOCATION:3-Зал А
-DTSTART:20251121T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:c20594604446571513068730f2c5f31b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260328T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260328T060000Z
-SUMMARY:ЛК Основы психологии
-UID:f4ad3f76c0fa08628f2eac16f86d2040
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260214T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260214T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:e208daa9122ba243dfcd53cb73c3efbd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T091500Z
-LOCATION:--каф.
-DTSTART:20260429T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:80473214f81bd71533102590f900eb9a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260316T131500Z
-LOCATION:24-419
-DTSTART:20260316T114500Z
-SUMMARY:ЛК Теплофизика
-UID:fcbac6d2f53948cfc11cc467734e5f2b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T073000Z
-LOCATION:--каф. 919
-DTSTART:20251125T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:24601576272ada4662c8052e9704d892
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260411T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260411T060000Z
-SUMMARY:ЛК Основы психологии
-UID:39fd0ac6962864627c4f28916ae866dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251031T150000Z
-LOCATION:3-409
-DTSTART:20251031T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:fbe8352699e863bf92e187a717d21881
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260528T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260528T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:70bbaec0dceff717d2afa3f7b2969980
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260331T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260331T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:210d1b1fbdd35adf17eb4fda69807323
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:--каф. 919
-DTSTART:20251212T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:6f4931efd814ac0944ff11c5cee8edd8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260225T073000Z
-LOCATION:--каф.
-DTSTART:20260225T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7721b18ec3592df95335d0f90ff379fa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:--каф. 919
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:5e3d29dd5e4c0333218249fd56c3b2eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251027T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251027T114500Z
-SUMMARY:ЛК Физическая химия
-UID:547ae2beaaa4cb582626b7ba76fc9668
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251225T131500Z
-LOCATION:3-407
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Социология
-UID:f3c23ec459df5dc4eb641297c9cd05ff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20260116T091500Z
-LOCATION:3-269
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Общая электротехника и электроника
-UID:5d65c82d5165a7f77ef9a27c0058dfc6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T131500Z
-LOCATION:--каф.
-DTSTART:20251029T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:720e26ca661d7189dba6ac3dd8240580
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260210T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260210T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:918a2bba996c748dfed3ca71a8931745
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251201T073000Z
-LOCATION:24-400
-DTSTART:20251201T060000Z
-SUMMARY:ЛК Материаловедение
-UID:2d1fffaa8ada09fe558d162a9fac590e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260414T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c7e8243c23de09a3606f855e14f1e07d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260417T073000Z
-LOCATION:57Г-402
-DTSTART:20260417T060000Z
-SUMMARY:ЛР Биофизические основы живых систем
-UID:a89b8f1f9bfb40e7ba905045cd7b173c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260328T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260328T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:b14b86e4ad214fefdf27bfe66440daa5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260425T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260425T060000Z
-SUMMARY:ЛК Основы психологии
-UID:ac9b21079639cb6aecb81afb9cff6f46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250911T073000Z
-LOCATION:3-269
-DTSTART:20250911T060000Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:650674f23f49a417a4df33bf3460b699
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250913T113000Z
-LOCATION:3-301
-DTSTART:20250913T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:61ce321c6f2d1c0988ede1b0d7983f0f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260303T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260303T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9736d0cec381033c518fb40d6fd58629
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251128T150000Z
-LOCATION:3-409
-DTSTART:20251128T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6215909e0363875b8c78a06cad80b4e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T091500Z
-LOCATION:--каф.
-DTSTART:20250903T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:916544ad27b6d8962fdb439c06873686
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260316T113000Z
-LOCATION:24-419
-DTSTART:20260316T100000Z
-SUMMARY:ЛК Теплофизика
-UID:bd9d801ef44cabbb6092765199802d57
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260411T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260411T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:a20ba7cd7ddbd1e0df57dbb3095fb583
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260404T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260404T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:18cb51249a551bc1cbe47cb70f22eaf4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260218T073000Z
-LOCATION:--каф.
-DTSTART:20260218T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a94647912ba08d15b25823d15145225b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251225T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251225T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:b9de77b6addc8ce76e25babfc743679f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251125T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:29716493f173dc61793314e411167fb2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260514T131500Z
-LOCATION:57Г-303
-DTSTART:20260514T114500Z
-SUMMARY:ПЗ Электроника
-UID:cd5f18e7b0d98ccd30580729af0b4734
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20250926T150000Z
-LOCATION:3-409
-DTSTART:20250926T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6f6718da20d7efc721e5b9f91f383fc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260411T113000Z
-LOCATION:ГАК-320
-DTSTART:20260411T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:ffd45ad00e1c3ed9bd8bbd36c7850e02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250909T113000Z
-LOCATION:3-269
-DTSTART:20250909T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:5718d6ae209f5341f66ca4890f526054
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260217T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260217T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f7e02e57e38f1de2b9180e17b2ab9130
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260305T150000Z
-LOCATION:3-303
-DTSTART:20260305T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:75a2680711fd85c8ae598f239fbf90f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:--каф. 919
-DTSTART:20251219T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:e528ca1f8913dc666b927dc3966ccf91
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260224T113000Z
-LOCATION:--стадион
-DTSTART:20260224T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:7e2dd63c8e25f7098e5a3e386b28eeed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260507T131500Z
-LOCATION:57Г-303
-DTSTART:20260507T114500Z
-SUMMARY:ПЗ Электроника
-UID:8b876ac0ac6ff848e631b9033f9b1fbe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20250915T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20250915T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:e4a2aa3f97a139478e925f0fff24bc43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250923T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250923T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:4d6671b755ccaca182ed88dcdeaa01d5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251204T164500Z
-LOCATION:24-600а
-DTSTART:20251204T151500Z
-SUMMARY:ЛР Физическая химия
-UID:8c2e060bf8e2f644b8ec1996856aa1e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T073000Z
-LOCATION:--каф. 919
-DTSTART:20250930T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:b935e532939a2b9c2ee64c56f6ce83d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T131500Z
-LOCATION:3-Зал А
-DTSTART:20251024T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:1c7edb971a274799c54bc8ed611778a6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20250905T150000Z
-LOCATION:3-409
-DTSTART:20250905T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d208c31fc00ac4417022126644d0edd3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251020T113000Z
-LOCATION:3-131
-DTSTART:20251020T100000Z
-SUMMARY:ЛК Численные методы
-UID:2a3b15054712005642bdcc201c700b3e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260321T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260321T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:8e6121b078a9166dd9ec40fe7f70d731
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260416T150000Z
-LOCATION:3-303
-DTSTART:20260416T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:ea84287ed3ab91d46cc7b0abf66d9e77
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20250908T113000Z
-LOCATION:3-131
-DTSTART:20250908T100000Z
-SUMMARY:ЛК Численные методы
-UID:e953bf3652df62b25e5c79b7456733d9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260216T131500Z
-LOCATION:24-419
-DTSTART:20260216T114500Z
-SUMMARY:ЛК Теплофизика
-UID:8699fba298f9b924910210da3dd6438b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:--каф. 919
-DTSTART:20251003T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:498d27d789cc28724e6589e51f71428d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T073000Z
-LOCATION:--каф. 919
-DTSTART:20260511T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:18cb36a87688ec7a4525e34237cccb32
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260319T150000Z
-LOCATION:3-303
-DTSTART:20260319T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:451d7ce62bdc8b94510e218bf7f9c08a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251129T113000Z
-LOCATION:3-301
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:e32d04967a0dabc8f70e93f00cb72c1e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251127T131500Z
-LOCATION:3-407
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Социология
-UID:20a3299a2804e2c9a27f6012d9891d36
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T131500Z
-LOCATION:--каф.
-DTSTART:20250910T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:593935d9823132400e80b4a5c2f3cdf4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T091500Z
-LOCATION:--каф.
-DTSTART:20251008T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:64c16318234284897c46f18e3eb5c469
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260218T113000Z
-LOCATION:--каф.
-DTSTART:20260218T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:38c43ed712f9824f270799715b5e6eff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20250901T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20250901T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:8de0070283c47ba943e02c7a9957c451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251204T131500Z
-LOCATION:24-715
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:3d7149819336a91376c4f76908f7ce74
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251014T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:3f4bed68cc19d3b5470be8fa3f8c80fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260302T073000Z
-LOCATION:--каф. 919
-DTSTART:20260302T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:bca65944fb7c2929f817f4c7f2c1b643
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260514T113000Z
-LOCATION:57Г-303
-DTSTART:20260514T100000Z
-SUMMARY:ПЗ Биофизические основы живых систем
-UID:12e40c765209fd0d940adcbee493d8a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260331T113000Z
-LOCATION:--стадион
-DTSTART:20260331T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:316cdcdf0e8dcf99356cef9e4f9af9d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260603T131500Z
-LOCATION:--каф.
-DTSTART:20260603T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:626e7a20376d977e98f8c8e229bd4b99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251020T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251020T114500Z
-SUMMARY:ЛК Физическая химия
-UID:209994c6a1c9ff2daeb85e9c6d82056b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250911T091500Z
-LOCATION:3-269
-DTSTART:20250911T074500Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:c1459704aa004d0304681c7ec4da9932
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T073000Z
-LOCATION:--каф.
-DTSTART:20260506T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:67e1bd9f288e5ec17a0c6b251f872e2d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T113000Z
-LOCATION:--каф.
-DTSTART:20251224T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ec68dc46a459b12d39dc82d34f8b3b05
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260304T073000Z
-LOCATION:--каф.
-DTSTART:20260304T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:52b07090f6264d1696572c12ed032e54
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260422T091500Z
-LOCATION:--каф.
-DTSTART:20260422T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8a2a40822c3cb9b8adf36a4759bca12e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T091500Z
-LOCATION:57Г-302
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Биология человека
-UID:5f787bb5b3ac3dbdb271a366ca27ab22
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260303T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260303T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f8b324834192e51e159861ec1b84a44a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20250922T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20250922T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:e4d69ef70043e39a4429f00fce69baa6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251110T113000Z
-LOCATION:3-131
-DTSTART:20251110T100000Z
-SUMMARY:ЛК Численные методы
-UID:29a81a05fa495b5c0c1cce4630df3e5b
+UID:85da01f11107801099e9b418a0c9e159
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260527T073000Z
@@ -1459,43 +316,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:eac0b6fbc21679e4689a24fa673f1336
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251113T131500Z
-LOCATION:3-407
-DTSTART:20251113T114500Z
-SUMMARY:ПЗ Социология
-UID:6d85d74499dfe57bf6d89976886f8428
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20250918T131500Z
-LOCATION:3-407
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Социология
-UID:8412aa72acaaa2a781489f0c8e0459d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T073000Z
-LOCATION:--каф.
-DTSTART:20260325T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0882dc59a93340ee1c20a26c67812e80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20250929T113000Z
-LOCATION:3-131
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Численные методы
-UID:eeef12d288cc2fcf29ddd21dfebac529
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260327T073000Z
-LOCATION:ГУК Б-336а
-DTSTART:20260327T060000Z
-SUMMARY:ЛР Конструкционные и биоматериалы
-UID:c0ea56abbf9bcdd00cadc970f718b6ec
+DTEND:20260421T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260421T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:40968c3055ed817ca8a6fbf2e8e4359d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кыдралиева Камиля Асылбековна
@@ -1506,6 +331,59 @@ SUMMARY:ЛР Конструкционные и биоматериалы
 UID:e43151771eecbdf0f8e8ed1b54b1ecf8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T073000Z
+LOCATION:--каф.
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0882dc59a93340ee1c20a26c67812e80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260402T131500Z
+LOCATION:57Г-303
+DTSTART:20260402T114500Z
+SUMMARY:ЛК Электроника
+UID:4c86766312a283a6554d9d2fb84623e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260226T131500Z
+LOCATION:57Г-303
+DTSTART:20260226T114500Z
+SUMMARY:ЛК Электроника
+UID:fcf2912e42386da22be99d1c3dfa8c24
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260324T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260324T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:98ed8dd8701a0489898ee9bed38dcd79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260327T073000Z
+LOCATION:ГУК Б-336а
+DTSTART:20260327T060000Z
+SUMMARY:ЛР Конструкционные и биоматериалы
+UID:c0ea56abbf9bcdd00cadc970f718b6ec
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T113000Z
+LOCATION:--каф.
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:425c2ac4811fd953e61e24c62f270630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260323T131500Z
+LOCATION:24-600а
+DTSTART:20260323T114500Z
+SUMMARY:ЛР Теплофизика
+UID:1c94986b7c6b9238b69ac8aa83c8da2e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260415T091500Z
 LOCATION:--каф.
 DTSTART:20260415T074500Z
@@ -1513,27 +391,93 @@ SUMMARY:ПЗ Военная подготовка
 UID:06d1867efaa31586ece1f591d63854e2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
-LOCATION:57Г-302
-DTSTART:20251115T074500Z
-SUMMARY:ПЗ Биология человека
-UID:fcd688c9e9e2faa6bf173b392d01cb50
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260515T073000Z
+LOCATION:57Г-402
+DTSTART:20260515T060000Z
+SUMMARY:ЛР Биофизические основы живых систем
+UID:02fc26e9a8f57df4a68985345e222363
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251013T113000Z
-LOCATION:3-131
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Численные методы
-UID:7dfb9d802d13dbd8378b6448a93578bd
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260507T113000Z
+LOCATION:57Г-303
+DTSTART:20260507T100000Z
+SUMMARY:ЛК Биофизические основы живых систем
+UID:2f94b4ad46fd2b90307142bf42768c68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251218T150000Z
-LOCATION:3-269
-DTSTART:20251218T133000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:2074cf8c694b08fa3fdb70692f5e68a9
+DTEND:20260602T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260602T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:642eaace28892bb638db54600dce20fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260317T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260317T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:f77cc34cc14489d153b43071fe4795fc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T073000Z
+LOCATION:--каф.
+DTSTART:20260318T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:63bead256339f2ca2c05a4e97a464ad8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260518T113000Z
+LOCATION:3-310
+DTSTART:20260518T100000Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:c9cf2e330d71423e6fdc391f789a039c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T091500Z
+LOCATION:--каф.
+DTSTART:20260603T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:081ede2c6b613216ac2eded02d91d737
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T091500Z
+LOCATION:--каф.
+DTSTART:20260311T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5f55b2d874f88a4c0a42549b0d800e31
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:--каф.
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c4a9f8c1eef35ba0791088e7a787ffda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260418T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260418T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:2256d1a2d4ee616cfc797c7d61ce09f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260513T091500Z
+LOCATION:--каф.
+DTSTART:20260513T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b8311f0b0c708760b8f8988bb4ccdfb6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:1071d2dc14812a63003f5774fdb1b8f5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260520T091500Z
@@ -1543,11 +487,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:e979728aed85133339f896fc59b53be1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251002T164500Z
-LOCATION:3-303
-DTSTART:20251002T151500Z
-SUMMARY:ЛР Численные методы
-UID:7e91e91c09e95fbeca98765bf43fc48c
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260216T113000Z
+LOCATION:24-419
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Теплофизика
+UID:f17804d607b890f3b4cd0fc51cc41366
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260401T091500Z
@@ -1555,6 +500,110 @@ LOCATION:--каф.
 DTSTART:20260401T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:d5a43b4918b2a99654370e17662319e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260521T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260521T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:7936e3dca9962ca11af8dd7d63aeaeb2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T131500Z
+LOCATION:--каф.
+DTSTART:20260225T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4209e965032fb60fdc60f9a4ea9b0d96
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:--каф.
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d5015423dd8e7505404b4f2d1ae9a81c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T113000Z
+LOCATION:--каф.
+DTSTART:20260408T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a55046439758a40b75ac0e06cb7d8130
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260502T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260502T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:2a7dfad756535f420901b578c66ed600
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260224T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8b7a4b0ca47b8c26e4bb49e8c9ee18b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260518T131500Z
+LOCATION:3-310
+DTSTART:20260518T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:33755b16f07373befc0ef814241cfd99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260217T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:097a7c11de1caff5eb68637a97495590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260420T131500Z
+LOCATION:3-310
+DTSTART:20260420T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:b16cb023765e01e8b7e5ee3a4d134947
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260515T091500Z
+LOCATION:57Г-402
+DTSTART:20260515T074500Z
+SUMMARY:ЛР Биофизические основы живых систем
+UID:762e48e03be242443a2dd85b1e444f16
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T073000Z
+LOCATION:--каф.
+DTSTART:20260520T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bcf4b62948f3f96e0dd9afe9702fbfc5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T113000Z
+LOCATION:--стадион
+DTSTART:20260310T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:b263eff91f454e1935676241b1817534
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260428T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:1c7aad366c2d7d18ba57558623d2b434
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260318T131500Z
+LOCATION:--каф.
+DTSTART:20260318T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:799ba4d17af9ea82b1b90e9c58bc8af0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -1573,11 +622,12 @@ SUMMARY:ПЗ Электроника
 UID:cd647300228eee55b5b097d7b1d465a7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T073000Z
-LOCATION:57Г-302
-DTSTART:20251213T060000Z
-SUMMARY:ЛК Биология человека
-UID:b0418f674d943b006a2ea29ba53d87f8
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260606T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260606T060000Z
+SUMMARY:ЛК Основы психологии
+UID:7f4d92b1bda17e8759c9da7b1a4f67f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -1588,12 +638,40 @@ SUMMARY:ЛК Биофизические основы живых систем
 UID:2e22652e515fa4b4cb5c01f523817c25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251204T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251204T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:6931e707df8999019ae428de0030b771
+DTEND:20260406T073000Z
+LOCATION:--каф. 919
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3b08e82d85af9d0a7f6476aa679b9004
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T131500Z
+LOCATION:--каф.
+DTSTART:20260506T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5dd4d1c4facaf2d03716836d4080be7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260514T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260514T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:b4a0d8130bc421cfe57ffafb3b05ae59
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T091500Z
+LOCATION:--каф.
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:19a86f5ef95a8ed3759b84f49c56e68d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T113000Z
+LOCATION:--стадион
+DTSTART:20260210T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:3a0900357636a67b2d8181f1900a8f59
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260603T073000Z
@@ -1603,6 +681,38 @@ SUMMARY:ПЗ Военная подготовка
 UID:b993dd93f4f5114b328a11b4e18ebafb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260326T131500Z
+LOCATION:57Г-303
+DTSTART:20260326T114500Z
+SUMMARY:ЛК Электроника
+UID:023bd3cc4d67c148148df504502afa53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260312T150000Z
+LOCATION:3-303
+DTSTART:20260312T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:94f1e5407a5ad33fcfd6534f8a3c5a28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260319T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:6218e441670f1c6450a34bc7cba17ca3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260423T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260423T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:b6bb93aeb5de0d3944717974b3fef8cf
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260401T073000Z
 LOCATION:--каф.
 DTSTART:20260401T060000Z
@@ -1610,12 +720,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:3b11b0a2678c8fef10cd7aaab36231ab
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251027T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251027T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:9d12f1f3d03199203232cb0693b82df7
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260326T113000Z
+LOCATION:57Г-303
+DTSTART:20260326T100000Z
+SUMMARY:ЛК Биофизические основы живых систем
+UID:03b720bbdfc91225fdb6b20c0e47d19e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T131500Z
+LOCATION:--каф.
+DTSTART:20260429T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1f18492a2a114522ada3ac8923d1a97d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260519T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:f4cd2f29da2fcbd4c2d8c792b6e86d9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260310T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:7d96506db13d85828e4736a43d5b7682
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -1626,34 +757,55 @@ SUMMARY:ЛК Биофизические основы живых систем
 UID:7698b787f08018893e26a35f1787bb25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20250930T113000Z
-LOCATION:9-404
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Социология
-UID:cf13767acb7a67a4869181d35812ffc7
+DTEND:20260217T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260217T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:a9e150fbeb7a1e79e0e37ebac6bfa848
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T113000Z
+DTEND:20260218T091500Z
 LOCATION:--каф.
-DTSTART:20251119T100000Z
+DTSTART:20260218T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:7d8162fabd98e308f9db35346ee72db6
+UID:e8541f023167e5f3b9c075bf72c3af8a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251223T073000Z
-LOCATION:--каф. 919
-DTSTART:20251223T060000Z
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260502T113000Z
+LOCATION:3-Зал А
+DTSTART:20260502T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:800b9a3ef3ed53870823cb4a9dfa4d17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260402T113000Z
+LOCATION:57Г-303
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Биофизические основы живых систем
+UID:e04c767aab702e126b10d3ffa71c43d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260303T113000Z
+LOCATION:--стадион
+DTSTART:20260303T100000Z
 SUMMARY:ПЗ Физическая культура
-UID:bfb3915755f7ee22310a3a9866a6a301
+UID:7b90f48e0bdc83bf2ce1604a2b0b817f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20260120T091500Z
-LOCATION:ГУК Б-348
-DTSTART:20260120T074500Z
-SUMMARY:Экзамен Сопротивление материалов
-UID:c790479775302b787d53a8131a3eb3c7
+DTEND:20260211T131500Z
+LOCATION:--каф.
+DTSTART:20260211T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c605fafdd15ba1bbb1dcc914cda1e7ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T113000Z
+LOCATION:--каф.
+DTSTART:20260603T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7edeafff856240fc68035da621fe2f3f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260505T164500Z
@@ -1670,19 +822,28 @@ SUMMARY:ПЗ Физическая культура
 UID:2eb953fad441c2591e2d6934cc75f0db
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T073000Z
-LOCATION:--каф.
-DTSTART:20251210T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:186a0dc8576df7b9cb7586ae12418d0a
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260302T131500Z
+LOCATION:24-419
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Теплофизика
+UID:5d7f0afedb14bb4513a371f924b153fb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251103T113000Z
-LOCATION:3-131
-DTSTART:20251103T100000Z
-SUMMARY:ЛК Численные методы
-UID:8bf5c70c9780f7aa1dcd3f0c1e831a78
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260312T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260312T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:49b4d6db5f6d1602e9c409e062876fe2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260326T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260326T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:55c111d0564acd5832a4b8279081139f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
@@ -1693,6 +854,13 @@ SUMMARY:ЛК Основы психологии
 UID:6c3cf47c27af56dd9201236da84f9768
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260317T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260317T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8a2344fb4a7b4bbf0224973a354be815
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
 DTEND:20260504T113000Z
 LOCATION:3-310
@@ -1701,27 +869,50 @@ SUMMARY:ЛР Метрология и стандартизация
 UID:411772d24b215f87b9ae09de31bc2cbb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T073000Z
-LOCATION:--каф.
-DTSTART:20251008T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2d62695d3f30939c74d3bb41815d37dd
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260406T131500Z
+LOCATION:24-600а
+DTSTART:20260406T114500Z
+SUMMARY:ЛР Теплофизика
+UID:369b34a2d2e9aca1b248e43cf82eb1f5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251120T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251120T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:80dabfece799f11de3799328310e5978
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251121T150000Z
-LOCATION:3-409
-DTSTART:20251121T133000Z
+DTEND:20260602T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260602T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:b3024135ec215e008ed94e7e88a4f92f
+UID:bb6eed4184dd2dcab7c1c6fe8ff096ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260418T113000Z
+LOCATION:3-Зал А
+DTSTART:20260418T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:712d21340f78bc60e6a06912f67a1d81
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260212T113000Z
+LOCATION:57Г-303
+DTSTART:20260212T100000Z
+SUMMARY:ЛК Биофизические основы живых систем
+UID:3b719212bcbaa55cacca72f650134318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260330T113000Z
+LOCATION:24-419
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Теплофизика
+UID:9082cb646b23b5f916e12e67d3ae27a8
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260401T131500Z
+LOCATION:--каф.
+DTSTART:20260401T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:99a725e84623f6f0f2a5e208148c8440
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белявский Александр Евгеньевич
@@ -1739,6 +930,42 @@ SUMMARY:ПЗ Военная подготовка
 UID:87f45c61c38b7fa06530cf595722978a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:22128d6978ef55138b8cea3b243423b3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T113000Z
+LOCATION:--стадион
+DTSTART:20260428T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:b40b1151db88f07ab98c3374d8395d42
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:--каф.
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c705e147a378e2d1d38836cf6487150e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260317T113000Z
+LOCATION:--стадион
+DTSTART:20260317T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:c705d89a29a2f14cf84cf7064c4dc1db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260430T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260430T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:1a52a2c3cc2633d22d88d9abb22cc36a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260324T113000Z
 LOCATION:--стадион
 DTSTART:20260324T100000Z
@@ -1746,27 +973,20 @@ SUMMARY:ПЗ Физическая культура
 UID:f7c24672bd26866ac5c473efeb14e418
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251208T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251208T151500Z
-SUMMARY:ЛК Сопротивление материалов
-UID:25f7ffb67473b307a3763337bdc92035
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260331T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:62b7813d039ef080dc04d27e91e8c90c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250911T131500Z
-LOCATION:24-715
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:0c8dbbbd36956da4d17550bedc9c2ae8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T073000Z
-LOCATION:--каф.
-DTSTART:20251203T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b412f0b92b691f987d24694610ba4008
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260305T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:b579dc000065f961a3ae0e81224a6c4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дзеранов Артур Альбертович
@@ -1777,20 +997,57 @@ SUMMARY:ПЗ Конструкционные и биоматериалы
 UID:dc738eb6c44e137f4cee3a42f023d844
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251124T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251124T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:747d6820d80ae85678752cd3896e1471
+DTEND:20260318T113000Z
+LOCATION:--каф.
+DTSTART:20260318T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2dd7cd34d8aa62efb967fcd7ac1f4bce
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251020T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251020T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:6a8fca6b09e62fd4556e903d4e744a65
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260226T150000Z
+LOCATION:3-303
+DTSTART:20260226T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:8878548631b8c2cbde57d24d8b774c71
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260505T113000Z
+LOCATION:--стадион
+DTSTART:20260505T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:5278cb1d66e939ac31fbce5264432c51
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260523T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260523T060000Z
+SUMMARY:ЛК Основы психологии
+UID:1c80aa88d543623d57086efa6c1d5753
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260507T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260507T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:effa84684f27cf7ab530b6415a5e7809
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T113000Z
+LOCATION:--каф.
+DTSTART:20260211T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:184284832d4e55d60fce1177657c5285
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260507T150000Z
+LOCATION:3-303
+DTSTART:20260507T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:75ec427def6ac826eb7b8f355016259d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -1801,11 +1058,11 @@ SUMMARY:ПЗ Биофизические основы живых систем
 UID:f929f2155dec86546715305b9fe59f18
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:--каф.
-DTSTART:20251008T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:23a862de3afed5fab22533688c29047a
+DTEND:20260414T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260414T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:ea765bd830daf0b99b910c27ba3de3c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -1814,6 +1071,14 @@ LOCATION:3-Зал А
 DTSTART:20260307T100000Z
 SUMMARY:ЛК Метрология и стандартизация
 UID:4695e4ccd62fddc715f87fba07ca68e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260430T131500Z
+LOCATION:57Г-303
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Электроника
+UID:aae5c969c23cd3e16b4658b50aaf3614
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260520T113000Z
@@ -1831,20 +1096,19 @@ SUMMARY:ЛК Метрология и стандартизация
 UID:263fcb2677e3bfd2ff72737fb1f661d2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251004T113000Z
-LOCATION:3-301
-DTSTART:20251004T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:d885926bd9d31ba87ef82743b9a00147
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260427T113000Z
+LOCATION:24-419
+DTSTART:20260427T100000Z
+SUMMARY:ПЗ Теплофизика
+UID:ba239b0c94dbeed90ed0aa1fbbdac8db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251117T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251117T114500Z
-SUMMARY:ЛК Физическая химия
-UID:b40523be04ed107701c38585ee0ac00c
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e148de4f95f72fa7ca839784c448534b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260304T113000Z
@@ -1862,43 +1126,41 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:2ceb72062348ca96f99ccc691f3046ed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20250918T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20250918T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:0c428e10491885e53d4386458ddeed18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T113000Z
+DTEND:20260311T073000Z
 LOCATION:--каф.
-DTSTART:20250924T100000Z
+DTSTART:20260311T060000Z
 SUMMARY:ПЗ Военная подготовка
-UID:1a79963d50fe01e35167c71cd01a2735
+UID:826d5e65246dbedbdc4dd57c31b0658a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20250919T150000Z
-LOCATION:3-409
-DTSTART:20250919T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:28f75a11d8d12f27a8710ff80be17af3
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:fe43ec996d8b13e5904cb4bae4198bee
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251120T131500Z
-LOCATION:24-715
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:7d7344fd9b19b6cbbf9743b34713bb51
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260316T091500Z
+LOCATION:3-310
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Метрология и стандартизация
+UID:2e9a9cd5bc714058d9bc02fb7865951e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251211T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251211T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:fcd68181705bb06e4b4d547e9c4613bf
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:44dfeae7e9ec5dc724c241f87681c4bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260226T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260226T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:9d96489cff888d17098bbed8b6e317da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
@@ -1909,12 +1171,36 @@ SUMMARY:ЛК Основы психологии
 UID:8899c02157401a827de8fcb047c320c5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260406T113000Z
+LOCATION:24-600а
+DTSTART:20260406T100000Z
+SUMMARY:ЛР Теплофизика
+UID:126072ec4e816fb8dbec3e194ca56cfd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
 DTEND:20260526T131500Z
 LOCATION:Орш. А-218
 DTSTART:20260526T114500Z
 SUMMARY:ПЗ Основы психологии
 UID:4862a9ea4c61f91c85f456ef3fda6ec1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260328T113000Z
+LOCATION:ГАК-320
+DTSTART:20260328T100000Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:ded7010aa9cee8d5e3a1523336caacac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260409T091500Z
+LOCATION:ГУК Б-334
+DTSTART:20260409T074500Z
+SUMMARY:ЛК Конструкционные и биоматериалы
+UID:c8308f9e098fd9c4d6d5d56b855b68a3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260505T150000Z
@@ -1924,18 +1210,19 @@ SUMMARY:ПЗ Иностранный язык
 UID:beb94c8805310657e200ce6d8ec2ea33
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250924T073000Z
+DTEND:20260506T113000Z
 LOCATION:--каф.
-DTSTART:20250924T060000Z
+DTSTART:20260506T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:b5f6abccdd2c28f7582e1d70cc686c2b
+UID:b8a386310c5f9f5d88914ff95ab3a917
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T073000Z
-LOCATION:--каф. 919
-DTSTART:20251209T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:cca63ea256791021d5139d319e72056d
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260425T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260425T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:2ca0b55dcd7be20939dc1ee45428e6a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ширяева Виктория Валерьевна
@@ -1968,35 +1255,6 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:907dc21e5f8c4dd49652ad356d790f45
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
-LOCATION:--каф.
-DTSTART:20251001T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c6422d6cd6cd5c56187c64e544c07ed2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251208T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251208T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:dfed3f88d8dff442404a40229914631b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T073000Z
-LOCATION:--каф. 919
-DTSTART:20251021T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e47b1cb7a6fbcb270a63a6266ff7420a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T091500Z
-LOCATION:--каф.
-DTSTART:20251217T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0f11ad1165303018a24d6f590c6e3267
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
 DTEND:20260305T131500Z
 LOCATION:57Г-303
@@ -2005,1155 +1263,11 @@ SUMMARY:ЛК Электроника
 UID:701a9c616e4e7cd0965bb5eed85c4bc5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251023T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251023T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:7527e0d2740a9c49b78d7f6297f0d8bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260529T073000Z
-LOCATION:57Г-402
-DTSTART:20260529T060000Z
-SUMMARY:ЛР Биофизические основы живых систем
-UID:7c9edbfd7f37ddbdf6feca3410e812fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251028T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:78404d7b9ef3bc3dc4c4647a210a9653
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251122T131500Z
-LOCATION:3-301
-DTSTART:20251122T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:3d1b437377fb4570d41f26b026a5f3ca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T091500Z
-LOCATION:57Г-302
-DTSTART:20251213T074500Z
-SUMMARY:ПЗ Биология человека
-UID:99a7131978fa0b95d9ca59cd62ad7b9d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260416T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260416T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:a02a307855a54722688fa54681422131
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251017T150000Z
-LOCATION:3-409
-DTSTART:20251017T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d46abe4706fca7b18dc67e737d766fa2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260409T150000Z
-LOCATION:3-303
-DTSTART:20260409T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:bbcfaf49a8293de9f8836212fe58341e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260526T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260526T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:eba1507a2a3e9063fec44782a92ad480
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250925T073000Z
-LOCATION:3-269
-DTSTART:20250925T060000Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:1d3aff6717bc00819383afd9b0c29404
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260513T073000Z
+DTEND:20260325T131500Z
 LOCATION:--каф.
-DTSTART:20260513T060000Z
+DTSTART:20260325T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:71d1902e5cd59466c15ab2251c868895
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251120T164500Z
-LOCATION:24-600а
-DTSTART:20251120T151500Z
-SUMMARY:ЛР Физическая химия
-UID:8a7d2b177265fcc9a6dcb3a3f527837c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260217T113000Z
-LOCATION:--стадион
-DTSTART:20260217T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:723c32d50114a8f470cb6090290d9321
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T091500Z
-LOCATION:ГУК А-407
-DTSTART:20250902T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:1a489ea87fb142223d3c0840dd80813b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T091500Z
-LOCATION:--каф.
-DTSTART:20251119T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4c7e362fa5c2db5df7a8b804baa5d0bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T073000Z
-LOCATION:--каф.
-DTSTART:20250910T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6fdf2013dad175983a6a678ec7d90b0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250913T131500Z
-LOCATION:3-301
-DTSTART:20250913T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:8ad1e7ad129a2987d7f4d2da4469939c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260331T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260331T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:2fe53b3dd48ba20c6d29adc97b5b5105
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:ffcc03282b350435c0dc4f163e4cbc7b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251205T150000Z
-LOCATION:3-409
-DTSTART:20251205T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:641922e99e1cdf8a7a3ab7428f7040f0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T091500Z
-LOCATION:--каф.
-DTSTART:20251112T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f86ac7d7ba1e2e2c3c550a1079e9f030
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T131500Z
-LOCATION:--каф.
-DTSTART:20251001T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:163d675a2ea65ad472c10889c77e93d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:aabe0bf90eafbba2d03d29655f724fb0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260514T150000Z
-LOCATION:3-303
-DTSTART:20260514T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:24ce96ec7ec905d13cb445536664309f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251127T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251127T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:a955fc46fcd4c8fbac835a7767f3aa57
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T073000Z
-LOCATION:--каф. 919
-DTSTART:20250923T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:0dec845bb5486fbd5e5a5d50b302c5ea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251006T113000Z
-LOCATION:3-131
-DTSTART:20251006T100000Z
-SUMMARY:ЛК Численные методы
-UID:fa48df4d61016eca3570727059cdbf89
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260408T131500Z
-LOCATION:--каф.
-DTSTART:20260408T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:94a7beeb0396afcdb2eab3a81b1da0b8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260221T113000Z
-LOCATION:3-Зал А
-DTSTART:20260221T100000Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:bf1d02b4f073f3a22b2896baf7b819ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260303T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260303T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:4e180c4572872edcbfc0c9032aafc8a7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20250901T113000Z
-LOCATION:3-131
-DTSTART:20250901T100000Z
-SUMMARY:ЛК Численные методы
-UID:75d48d517cbb6e0f303743c318e7ca83
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251021T113000Z
-LOCATION:3-269
-DTSTART:20251021T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:59a9f2a45af4a06c92eb7daf211feecf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T073000Z
-LOCATION:--каф.
-DTSTART:20251224T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e5d19bad2d77586853f773bc8e61d6f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260425T113000Z
-LOCATION:ГАК-320
-DTSTART:20260425T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:937d2cfff79509cc198d686d2a4fe4ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251107T150000Z
-LOCATION:3-409
-DTSTART:20251107T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0dddbc4be7222a735a60ae4d26595cfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дзеранов Артур Альбертович
-DTEND:20260529T113000Z
-LOCATION:ГУК Б-334
-DTSTART:20260529T100000Z
-SUMMARY:ПЗ Конструкционные и биоматериалы
-UID:41b9ac77e46edd73c822f2923bae0446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260504T131500Z
-LOCATION:3-310
-DTSTART:20260504T114500Z
-SUMMARY:ЛР Метрология и стандартизация
-UID:1e985fa65ce38c7902d01e28d318a7f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251004T131500Z
-LOCATION:3-301
-DTSTART:20251004T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:01dc214c33fbd55b3c9ef11e227331f2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260209T073000Z
-LOCATION:--каф. 919
-DTSTART:20260209T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:669128ef1651cc188ed293a5807fac5d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260228T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260228T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:48cf239db8d33052acbcc00c8eecbef5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260409T113000Z
-LOCATION:57Г-303
-DTSTART:20260409T100000Z
-SUMMARY:ЛК Биофизические основы живых систем
-UID:101e84fe8792f7e6097503b368f59bee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20250908T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20250908T133000Z
-SUMMARY:ЛК Материаловедение
-UID:158a7edefa8b6932f7bd046166fcc443
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251118T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251118T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:ab55a19f75d155401f4b478fe1ec158b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260527T091500Z
-LOCATION:--каф.
-DTSTART:20260527T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:964414f2ce93d65dd8a74efc28462fb9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T150000Z
-LOCATION:3-303
-DTSTART:20251016T133000Z
-SUMMARY:ЛР Численные методы
-UID:19a0a4748019aca047e5e480354339ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T131500Z
-LOCATION:--каф.
-DTSTART:20260311T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:96de35a6d5ddbf5af74e11de5e10562e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:--каф. 919
-DTSTART:20251205T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:014847638b5516acf7124b419788ee73
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251113T164500Z
-LOCATION:ГУК А-104
-DTSTART:20251113T151500Z
-SUMMARY:ЛР Материаловедение
-UID:48218eb7a728c941d9c0772161a8c624
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250915T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250915T114500Z
-SUMMARY:ЛК Физическая химия
-UID:d126508b09a34762f0119b06b62f6226
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260214T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260214T060000Z
-SUMMARY:ЛК Основы психологии
-UID:c62063c50c697ae260b622505af54651
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20250911T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20250911T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:30004fdeb526475b49896995f7551a0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251108T131500Z
-LOCATION:3-301
-DTSTART:20251108T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:270bac1c2149d26f0ed664b6ab238892
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260212T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260212T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:c65be7c0095124457de690ef1e277dac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260407T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260407T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:3c71b3c83518976ea1ca8ae0d67bcbd5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:3-303
-DTSTART:20251025T074500Z
-SUMMARY:ПЗ Численные методы
-UID:b55d128579b9e2a0054c3ad5d784d2f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T091500Z
-LOCATION:3-303
-DTSTART:20251122T074500Z
-SUMMARY:ПЗ Численные методы
-UID:f7f825d8a94631ae35cce04d8fd8ecc9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T073000Z
-LOCATION:57Г-302
-DTSTART:20250906T060000Z
-SUMMARY:ЛК Биология человека
-UID:8d4e4fdae7af56dc5402c255ae4acb7b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T113000Z
-LOCATION:--каф.
-DTSTART:20251022T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a76ab6db902bea10900d1a73851ec72e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:--каф. 919
-DTSTART:20251010T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:01691b38460e43095c75ed1b048df3d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:--каф.
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c2143c9e1ef17464cf30c8282d7c7d58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260219T131500Z
-LOCATION:57Г-303
-DTSTART:20260219T114500Z
-SUMMARY:ЛК Электроника
-UID:6729db2580ac496246bfe318188c559f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260304T091500Z
-LOCATION:--каф.
-DTSTART:20260304T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:93b7651b477a9d0f4582d3e3927d4b43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260417T091500Z
-LOCATION:57Г-402
-DTSTART:20260417T074500Z
-SUMMARY:ЛР Биофизические основы живых систем
-UID:30b939ce5713519e16fe189e820e10ac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T164500Z
-LOCATION:3-303
-DTSTART:20251016T151500Z
-SUMMARY:ЛР Численные методы
-UID:dbec9df45cb2a380642653b222b4b18a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T131500Z
-LOCATION:3-Зал А
-DTSTART:20250919T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:a77660f8d87c85eca5c03aef6da710c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250920T113000Z
-LOCATION:3-301
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:7f8d807d1192b431ba2c5ca4598280c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T091500Z
-LOCATION:3-303
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Численные методы
-UID:20896e6d7189035bd1a5b39cf39a6c26
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20250922T113000Z
-LOCATION:3-131
-DTSTART:20250922T100000Z
-SUMMARY:ЛК Численные методы
-UID:3742a5c5ddd6fdd587f9c08088c95984
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T073000Z
-LOCATION:--каф.
-DTSTART:20251112T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:867deb7ac836c79b3080b778cfbbed80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260420T113000Z
-LOCATION:3-310
-DTSTART:20260420T100000Z
-SUMMARY:ЛР Метрология и стандартизация
-UID:85da01f11107801099e9b418a0c9e159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251225T150000Z
-LOCATION:ГУК А-104
-DTSTART:20251225T133000Z
-SUMMARY:ЛР Материаловедение
-UID:507473716f3474cd1776ae7bc77686bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251120T150000Z
-LOCATION:24-600а
-DTSTART:20251120T133000Z
-SUMMARY:ЛР Физическая химия
-UID:3a539938395f76c6686bb1057fdfc668
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251007T113000Z
-LOCATION:3-269
-DTSTART:20251007T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:3b5b48cc8b92b025b9dbaaad7bfa29e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251024T150000Z
-LOCATION:3-409
-DTSTART:20251024T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:fd63a9fbd964046364cbeef469635886
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T091500Z
-LOCATION:ГУК А-407
-DTSTART:20250909T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:cb68245a747cf83c6ba38c4bb15d7508
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251222T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251222T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:aefb3a6acae18a21a139f30b74e35c2e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260402T131500Z
-LOCATION:57Г-303
-DTSTART:20260402T114500Z
-SUMMARY:ЛК Электроника
-UID:4c86766312a283a6554d9d2fb84623e4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260515T073000Z
-LOCATION:57Г-402
-DTSTART:20260515T060000Z
-SUMMARY:ЛР Биофизические основы живых систем
-UID:02fc26e9a8f57df4a68985345e222363
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260323T131500Z
-LOCATION:24-600а
-DTSTART:20260323T114500Z
-SUMMARY:ЛР Теплофизика
-UID:1c94986b7c6b9238b69ac8aa83c8da2e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:57Г-302
-DTSTART:20251018T060000Z
-SUMMARY:ЛК Биология человека
-UID:0ae05174a9f34d03dc2da62d3aed2e57
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260507T113000Z
-LOCATION:57Г-303
-DTSTART:20260507T100000Z
-SUMMARY:ЛК Биофизические основы живых систем
-UID:2f94b4ad46fd2b90307142bf42768c68
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260602T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260602T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:642eaace28892bb638db54600dce20fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251225T164500Z
-LOCATION:ГУК А-104
-DTSTART:20251225T151500Z
-SUMMARY:ЛР Материаловедение
-UID:8f56979c2f54fe0c926c64ab173d1ebb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260318T073000Z
-LOCATION:--каф.
-DTSTART:20260318T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:63bead256339f2ca2c05a4e97a464ad8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T073000Z
-LOCATION:--каф. 919
-DTSTART:20251202T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:fb31a457c9122edd19a9af0e7a64a2df
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T091500Z
-LOCATION:--каф.
-DTSTART:20260311T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5f55b2d874f88a4c0a42549b0d800e31
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T113000Z
-LOCATION:--каф.
-DTSTART:20260325T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c4a9f8c1eef35ba0791088e7a787ffda
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260418T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260418T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:2256d1a2d4ee616cfc797c7d61ce09f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260316T073000Z
-LOCATION:--каф. 919
-DTSTART:20260316T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:1071d2dc14812a63003f5774fdb1b8f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251002T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251002T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:5dc9f92423c62da46a2f46011cbebfbe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20250915T113000Z
-LOCATION:3-131
-DTSTART:20250915T100000Z
-SUMMARY:ЛК Численные методы
-UID:aad53413a1b78a08437c2f91ee3c141c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251113T150000Z
-LOCATION:ГУК А-104
-DTSTART:20251113T133000Z
-SUMMARY:ЛР Материаловедение
-UID:89ca82de95cc020aa610b2bc98a2e8c4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T113000Z
-LOCATION:--каф. 919
-DTSTART:20251107T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:9bedf3cb08eb86671f67cf3d4ac48a33
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251216T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:b5e1ce575578629b2bade1e1eb4f653e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T073000Z
-LOCATION:--каф. 919
-DTSTART:20260525T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:44dfeae7e9ec5dc724c241f87681c4bb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260225T131500Z
-LOCATION:--каф.
-DTSTART:20260225T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4209e965032fb60fdc60f9a4ea9b0d96
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260408T113000Z
-LOCATION:--каф.
-DTSTART:20260408T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a55046439758a40b75ac0e06cb7d8130
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251127T164500Z
-LOCATION:ГУК А-104
-DTSTART:20251127T151500Z
-SUMMARY:ЛР Материаловедение
-UID:8367e7fa4f307c6680e9f17af272bc41
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260224T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260224T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:8b7a4b0ca47b8c26e4bb49e8c9ee18b1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260520T073000Z
-LOCATION:--каф.
-DTSTART:20260520T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bcf4b62948f3f96e0dd9afe9702fbfc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260420T131500Z
-LOCATION:3-310
-DTSTART:20260420T114500Z
-SUMMARY:ЛР Метрология и стандартизация
-UID:b16cb023765e01e8b7e5ee3a4d134947
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260515T091500Z
-LOCATION:57Г-402
-DTSTART:20260515T074500Z
-SUMMARY:ЛР Биофизические основы живых систем
-UID:762e48e03be242443a2dd85b1e444f16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251122T113000Z
-LOCATION:3-301
-DTSTART:20251122T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:f4e04e2e7715e1d55a8c3435d3d8046d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20251124T113000Z
-LOCATION:3-131
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Численные методы
-UID:7a8827aa26c7917a25cb2490c9cf2b4f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260428T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260428T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:1c7aad366c2d7d18ba57558623d2b434
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T091500Z
-LOCATION:3-303
-DTSTART:20251108T074500Z
-SUMMARY:ПЗ Численные методы
-UID:e3704b502dcefef77a7d783d8d4a9343
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260408T091500Z
-LOCATION:--каф.
-DTSTART:20260408T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:19a86f5ef95a8ed3759b84f49c56e68d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T131500Z
-LOCATION:3-Зал А
-DTSTART:20250912T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:5e8fa5d2edc8d5aa1c9c2e1194f16407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251124T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251124T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:4742ad6cb73e30976cb857434e9b6fa1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260326T131500Z
-LOCATION:57Г-303
-DTSTART:20260326T114500Z
-SUMMARY:ЛК Электроника
-UID:023bd3cc4d67c148148df504502afa53
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T131500Z
-LOCATION:--каф.
-DTSTART:20250903T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4bc47f784e6897afdc222baccc091c25
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260312T150000Z
-LOCATION:3-303
-DTSTART:20260312T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:94f1e5407a5ad33fcfd6534f8a3c5a28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251212T150000Z
-LOCATION:3-409
-DTSTART:20251212T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ec9c8799b6c6a2a8a148c90e3376a469
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260319T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260319T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:6218e441670f1c6450a34bc7cba17ca3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260423T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260423T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:b6bb93aeb5de0d3944717974b3fef8cf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T091500Z
-LOCATION:3-303
-DTSTART:20251220T074500Z
-SUMMARY:ПЗ Численные методы
-UID:4cae1b96920fc669ad7aea0923e00ec1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251021T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251021T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:802bfa2c5d961327ea77ec795348d70e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260217T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260217T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:a9e150fbeb7a1e79e0e37ebac6bfa848
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:57Г-302
-DTSTART:20251115T060000Z
-SUMMARY:ЛК Биология человека
-UID:997ecc6ac0569ea4a3e41605c813b9e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260502T113000Z
-LOCATION:3-Зал А
-DTSTART:20260502T100000Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:800b9a3ef3ed53870823cb4a9dfa4d17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260402T113000Z
-LOCATION:57Г-303
-DTSTART:20260402T100000Z
-SUMMARY:ПЗ Биофизические основы живых систем
-UID:e04c767aab702e126b10d3ffa71c43d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20251028T113000Z
-LOCATION:9-404
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Социология
-UID:186b14f7b2d851bda9032ad5887e70f8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260303T113000Z
-LOCATION:--стадион
-DTSTART:20260303T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:7b90f48e0bdc83bf2ce1604a2b0b817f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T131500Z
-LOCATION:--каф.
-DTSTART:20251126T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:10bf29759ecbe4b84b1e1d79d42f6a53
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260603T113000Z
-LOCATION:--каф.
-DTSTART:20260603T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7edeafff856240fc68035da621fe2f3f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260312T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260312T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:49b4d6db5f6d1602e9c409e062876fe2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260326T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260326T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:55c111d0564acd5832a4b8279081139f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T073000Z
-LOCATION:--каф. 919
-DTSTART:20251028T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:1b8ce29a548d4fcff4457bf96aecd282
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250916T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250916T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:3abd55b9db6bb859eb2409055b572318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260406T131500Z
-LOCATION:24-600а
-DTSTART:20260406T114500Z
-SUMMARY:ЛР Теплофизика
-UID:369b34a2d2e9aca1b248e43cf82eb1f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251103T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251103T114500Z
-SUMMARY:ЛК Физическая химия
-UID:8ebb976641c303e1da6461e88001c244
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251129T131500Z
-LOCATION:3-301
-DTSTART:20251129T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:c14f8f2d8215a1a66ff0294d604c9af5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260323T073000Z
-LOCATION:--каф. 919
-DTSTART:20260323T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:22128d6978ef55138b8cea3b243423b3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T091500Z
-LOCATION:--каф.
-DTSTART:20250910T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:130760d6e77e45de00f74f650768b691
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T164500Z
-LOCATION:3-303
-DTSTART:20251030T151500Z
-SUMMARY:ЛР Численные методы
-UID:54701bd38ed12d832b88838f36a56a5e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T131500Z
-LOCATION:3-Зал А
-DTSTART:20250905T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:5131d083e5d16473466dc76e37736d5e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T131500Z
-LOCATION:--каф.
-DTSTART:20251203T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d664d182d18dca69033130775af47d15
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20250922T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20250922T133000Z
-SUMMARY:ЛК Материаловедение
-UID:a9365facc97ceab2cd962eb9d541ca3d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260318T113000Z
-LOCATION:--каф.
-DTSTART:20260318T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2dd7cd34d8aa62efb967fcd7ac1f4bce
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260507T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260507T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:effa84684f27cf7ab530b6415a5e7809
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260414T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:ea765bd830daf0b99b910c27ba3de3c1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T131500Z
-LOCATION:--каф.
-DTSTART:20251217T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2f1cf15ddf8145209562daca5827cc91
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251226T150000Z
-LOCATION:3-409
-DTSTART:20251226T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:59bf334ef12b291b24f831c73a00005a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260430T131500Z
-LOCATION:57Г-303
-DTSTART:20260430T114500Z
-SUMMARY:ПЗ Электроника
-UID:aae5c969c23cd3e16b4658b50aaf3614
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T073000Z
-LOCATION:--каф. 919
-DTSTART:20260504T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:fe43ec996d8b13e5904cb4bae4198bee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251108T113000Z
-LOCATION:3-301
-DTSTART:20251108T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:e1f19de9a6af5ad55c24c4b0a70d40a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251003T150000Z
-LOCATION:3-409
-DTSTART:20251003T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8497ac56f3fb326bb250fba307e3eecd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T073000Z
-LOCATION:--каф.
-DTSTART:20250903T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:aa9d3f40d906c3df3d25b3395eef8385
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260328T113000Z
-LOCATION:ГАК-320
-DTSTART:20260328T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:ded7010aa9cee8d5e3a1523336caacac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T113000Z
-LOCATION:--каф. 919
-DTSTART:20251017T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:048816ebcac850b44a9502200b2ac2b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251106T150000Z
-LOCATION:24-600а
-DTSTART:20251106T133000Z
-SUMMARY:ЛР Физическая химия
-UID:37d4e25d4dcd1aedf911ca2099d021a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T073000Z
-LOCATION:--каф. 919
-DTSTART:20251014T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:f1c758d48b008d32fb6468c1bfa4f37a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T131500Z
-LOCATION:--каф.
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1ab9188f64ef1ad16cc547607e4d69d4
+UID:db59cbc44a8ed674a1a02dc736d356e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
@@ -3164,11 +1278,18 @@ SUMMARY:ЛК Электроника
 UID:52528dd8294e852dd9b97b835bc2d95b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:42b89788e522507fe6017ba94d141aa4
+DTEND:20260513T113000Z
+LOCATION:--каф.
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:853f03b5fe371697e4885170fe7e01bb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T131500Z
+LOCATION:--каф.
+DTSTART:20260415T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fe35d4ce4365d2efa8985da60808662c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260218T131500Z
@@ -3178,19 +1299,63 @@ SUMMARY:ПЗ Военная подготовка
 UID:84ef7acae2850b01084e6de85ccb7cdd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251105T073000Z
-LOCATION:--каф.
-DTSTART:20251105T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:cd97e6f06074476d402201c443153c56
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260528T113000Z
+LOCATION:57Г-303
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Биофизические основы живых систем
+UID:8c5802fff51a7920dc669f1b4cf4fca8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250923T113000Z
-LOCATION:3-269
-DTSTART:20250923T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:936068abf00232fe1fd6241fa6b46f12
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260529T073000Z
+LOCATION:57Г-402
+DTSTART:20260529T060000Z
+SUMMARY:ЛР Биофизические основы живых систем
+UID:7c9edbfd7f37ddbdf6feca3410e812fe
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260210T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260210T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:6f6ff3a5cf86f54c494cfa3310c72d32
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T073000Z
+LOCATION:--каф. 919
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:aa7ee6eb1970f453c4a40cf669990520
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дзеранов Артур Альбертович
+DTEND:20260515T131500Z
+LOCATION:ГУК Б-334
+DTSTART:20260515T114500Z
+SUMMARY:ПЗ Конструкционные и биоматериалы
+UID:a5e5313af391733e5381ec10029e9282
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:94f747e95936d7c433c248abf3056964
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:c9fb22a34a841f2e465280d3fe6db159
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260211T073000Z
+LOCATION:--каф.
+DTSTART:20260211T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c87cc32614edfa6a8d061cd908f5b84d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -3201,19 +1366,11 @@ SUMMARY:ЛК Метрология и стандартизация
 UID:52d41395fdb481984951b2fbfcedb198
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260211T073000Z
+DTEND:20260527T131500Z
 LOCATION:--каф.
-DTSTART:20260211T060000Z
+DTSTART:20260527T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:c87cc32614edfa6a8d061cd908f5b84d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251110T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251110T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:67bbab612d642fdcc515dfa89cc89547
+UID:af551d5fa3f2453c188a75e4f8916e8b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260408T073000Z
@@ -3221,6 +1378,14 @@ LOCATION:--каф.
 DTSTART:20260408T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:bdfa56e61f169eaa1aa710303eaa2498
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260416T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260416T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:a02a307855a54722688fa54681422131
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260519T113000Z
@@ -3238,26 +1403,41 @@ SUMMARY:ПЗ Электроника
 UID:43c6e62441f64529dbead3a405e01713
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251006T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251006T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:631c56586c6104a7d950764bac524cb5
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260416T113000Z
+LOCATION:57Г-303
+DTSTART:20260416T100000Z
+SUMMARY:ПЗ Биофизические основы живых систем
+UID:001139a1516dd1701e4f6d31441cdf4f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251202T074500Z
+DTEND:20260602T113000Z
+LOCATION:--стадион
+DTSTART:20260602T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:7cc8da1bae80c57998270ef97b8d3781
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260414T113000Z
+LOCATION:--стадион
+DTSTART:20260414T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:bcb3d118355e6f09e6e5b7cde3cca008
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260409T150000Z
+LOCATION:3-303
+DTSTART:20260409T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:bbcfaf49a8293de9f8836212fe58341e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260526T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260526T151500Z
 SUMMARY:ПЗ Иностранный язык
-UID:64448112df3b391c1e856d7df36eeda8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T113000Z
-LOCATION:--каф.
-DTSTART:20251210T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9ab9598059179c8ee5d8845a4f34fb17
+UID:eba1507a2a3e9063fec44782a92ad480
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -3276,19 +1456,19 @@ SUMMARY:ЛР Биофизические основы живых систем
 UID:b18ec2ba43fac5f94d663ba81a2bf1ca
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T131500Z
-LOCATION:3-Зал А
-DTSTART:20250926T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:0e56a9976995cd66f140777c3d389a31
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260302T113000Z
+LOCATION:24-419
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Теплофизика
+UID:99989a2d36cf8558ad1c83a2743600dd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251016T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251016T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:c71a9209032150eec8db3564535ba0fa
+DTEND:20260513T073000Z
+LOCATION:--каф.
+DTSTART:20260513T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:71d1902e5cd59466c15ab2251c868895
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260318T091500Z
@@ -3296,6 +1476,28 @@ LOCATION:--каф.
 DTSTART:20260318T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:deaca3194ae3dbbc8ced08f85e2ddb04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кыдралиева Камиля Асылбековна
+DTEND:20260327T091500Z
+LOCATION:ГУК Б-336а
+DTSTART:20260327T074500Z
+SUMMARY:ЛР Конструкционные и биоматериалы
+UID:be7ab06f6770874bb37a56818b289451
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260217T113000Z
+LOCATION:--стадион
+DTSTART:20260217T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:723c32d50114a8f470cb6090290d9321
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260520T131500Z
+LOCATION:--каф.
+DTSTART:20260520T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1d8f921379cc106336c9586f4d154d39
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -3306,11 +1508,35 @@ SUMMARY:ЛК Биофизические основы живых систем
 UID:06238f56c49598bee963977a1f4b46a3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T113000Z
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260328T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Основы психологии
+UID:f4ad3f76c0fa08628f2eac16f86d2040
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260214T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260214T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:e208daa9122ba243dfcd53cb73c3efbd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T073000Z
 LOCATION:--каф.
-DTSTART:20250917T100000Z
+DTSTART:20260429T060000Z
 SUMMARY:ПЗ Военная подготовка
-UID:7d95ab12ebfde67acf3c9abde3c4cbfe
+UID:8da19e4c8eecb7c101108619c56746da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260316T131500Z
+LOCATION:24-419
+DTSTART:20260316T114500Z
+SUMMARY:ЛК Теплофизика
+UID:fcbac6d2f53948cfc11cc467734e5f2b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260330T073000Z
@@ -3318,6 +1544,14 @@ LOCATION:--каф. 919
 DTSTART:20260330T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:2fee62ead33144412dc2d220dcbf4783
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260411T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Основы психологии
+UID:39fd0ac6962864627c4f28916ae866dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белявский Александр Евгеньевич
@@ -3328,12 +1562,34 @@ SUMMARY:ПЗ Теплофизика
 UID:e725386110ef6a4f27eb52ec8fffad8b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250908T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250908T114500Z
-SUMMARY:ЛК Физическая химия
-UID:161d51c7ff4545cb0696067e8915926d
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260414T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:a374cc886eb44eba03da27346168cebb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260429T091500Z
+LOCATION:--каф.
+DTSTART:20260429T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:80473214f81bd71533102590f900eb9a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260512T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:03b3344127c56d8239aa042cc6bbdf24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260528T091500Z
+LOCATION:ГУК Б-648
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Детали машин и основы конструирования
+UID:70bbaec0dceff717d2afa3f7b2969980
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Подольская Наталья Сергеевна
@@ -3344,12 +1600,33 @@ SUMMARY:ПЗ Биофизические основы живых систем
 UID:5f5744f94c4f75f2b75dd4073a9800fb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20250912T150000Z
-LOCATION:3-409
-DTSTART:20250912T133000Z
+DTEND:20260331T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260331T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:c0e743b8829cb40de6fa983aaeca5b12
+UID:210d1b1fbdd35adf17eb4fda69807323
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260423T150000Z
+LOCATION:3-303
+DTSTART:20260423T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:fc4f1cc3533cb66347a534eb328cb996
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T073000Z
+LOCATION:--каф.
+DTSTART:20260225T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7721b18ec3592df95335d0f90ff379fa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T113000Z
+LOCATION:--стадион
+DTSTART:20260512T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:57122eb332a0db13bf076d22f8fa77a4
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260407T113000Z
@@ -3383,11 +1660,11 @@ SUMMARY:ЛК Конструкционные и биоматериалы
 UID:34378bff4cdb2a2911be2df22d4ed27b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250906T091500Z
-LOCATION:57Г-302
-DTSTART:20250906T074500Z
-SUMMARY:ЛК Биология человека
-UID:000316a07b9a2e5fb7be89c99174dc2c
+DTEND:20260225T091500Z
+LOCATION:--каф.
+DTSTART:20260225T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:16cfb28692e983110ca43fd40efa9b4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -3396,6 +1673,13 @@ LOCATION:ГАК-320
 DTSTART:20260523T100000Z
 SUMMARY:ЛК Детали машин и основы конструирования
 UID:1372a2ea2a76d8fe6b86cdc2b122927a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260331T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260331T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:2fe53b3dd48ba20c6d29adc97b5b5105
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -3414,1036 +1698,6 @@ SUMMARY:ПЗ Конструкционные и биоматериалы
 UID:497d94aae6d73818002f41352e7d10b8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260415T073000Z
-LOCATION:--каф.
-DTSTART:20260415T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:83070e9a27352b8b89c230301a705f98
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20250915T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20250915T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:13209550a92ad51136283aeea570a37e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T113000Z
-LOCATION:--каф.
-DTSTART:20251203T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fd22294a300736a3d6c7d8ccb3666362
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251111T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:cc689c6b2a61e8108d1aa916f273b893
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260304T131500Z
-LOCATION:--каф.
-DTSTART:20260304T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8636f2486a924a490f6336ac059ad042
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260307T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260307T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:990f1223255612ecf1ea36f8f4ce5052
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251127T150000Z
-LOCATION:ГУК А-104
-DTSTART:20251127T133000Z
-SUMMARY:ЛР Материаловедение
-UID:dffd865beff2ee01b4d333b7560efbe3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260310T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260310T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:a18f05f018a4f1ef86676b73864b4ee4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260526T113000Z
-LOCATION:--стадион
-DTSTART:20260526T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:0402409df932e63bd8db869dd09b7e60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20250902T113000Z
-LOCATION:9-404
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Социология
-UID:bf92a2b4c9a86750b5e39b901928dfda
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260305T113000Z
-LOCATION:57Г-303
-DTSTART:20260305T100000Z
-SUMMARY:ПЗ Биофизические основы живых систем
-UID:6e08958bfa5683dee4379ecd85ffb785
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20250908T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20250908T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:3a5fb37026d00efee6d0f81950cb768c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260512T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260512T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:3d92ad3e4efcd04a1c76282ecc01a303
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белоус Наталья Анатольевна
-DTEND:20251010T150000Z
-LOCATION:3-409
-DTSTART:20251010T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d164498679cd539db87933ae646e1caf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260421T113000Z
-LOCATION:--стадион
-DTSTART:20260421T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:09178774d9f7a437e2f8839ca91a0935
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихонов Филипп Владимирович
-DTEND:20260212T131500Z
-LOCATION:57Г-303
-DTSTART:20260212T114500Z
-SUMMARY:ЛК Электроника
-UID:7a41307685dda73f4cf38b2578c8143e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T091500Z
-LOCATION:3-303
-DTSTART:20250913T074500Z
-SUMMARY:ПЗ Численные методы
-UID:ccb03c329c991214fbb0f66cb201ade8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251030T131500Z
-LOCATION:3-407
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Социология
-UID:817d2841dd76f2cde13a6c684ad2ff19
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T091500Z
-LOCATION:--каф.
-DTSTART:20260325T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:32e4123667508cddb4a0a6cd5394dc6c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T091500Z
-LOCATION:ГУК А-407
-DTSTART:20250923T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:d207e30d9df0536f45f032446968ff12
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T073000Z
-LOCATION:--каф. 919
-DTSTART:20251118T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:23d87a59f61c6bbb05bc9b352ac67449
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251101T131500Z
-LOCATION:3-301
-DTSTART:20251101T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:a698adf0b7d2d4295f9c0d492e54abe3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20260120T073000Z
-LOCATION:ГУК Б-348
-DTSTART:20260120T060000Z
-SUMMARY:Экзамен Сопротивление материалов
-UID:676942e52c464d1600b3a6d8c9be63a1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20250916T113000Z
-LOCATION:9-404
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Социология
-UID:8d59e124847e4bb93a477ec3cfbde235
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:57Г-302
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Биология человека
-UID:70d9987631d1388049c533830cff0252
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T073000Z
-LOCATION:--каф. 919
-DTSTART:20250916T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:15c0bd7b8ecba24816bd7100c4f4c994
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T073000Z
-LOCATION:--каф. 919
-DTSTART:20250902T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:5f249bc483362331a2a7241dbe38fce4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T131500Z
-LOCATION:--каф.
-DTSTART:20250924T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ac02e441e92f4b9fe20315a6f7b586a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251030T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251030T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:7c1fff8d4f0ce901a95a16ed74db2f4a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260302T091500Z
-LOCATION:3-310
-DTSTART:20260302T074500Z
-SUMMARY:ПЗ Метрология и стандартизация
-UID:9b29246a0eebbb765d003be127872f85
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260423T113000Z
-LOCATION:57Г-303
-DTSTART:20260423T100000Z
-SUMMARY:ЛК Биофизические основы живых систем
-UID:0aec231fc8e36ff45731a82af5c2ca69
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251016T131500Z
-LOCATION:3-407
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Социология
-UID:95e7e0603315b5754d819c3161a8d29f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251124T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251124T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:c1a00e2b5d48e04b8859ea14a11edb36
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T131500Z
-LOCATION:3-Зал А
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:980229a6956bb5b1395ef28aeb21129a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T073000Z
-LOCATION:--каф.
-DTSTART:20251022T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:72412e15864efdf72336466aebaa1a02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251101T113000Z
-LOCATION:3-301
-DTSTART:20251101T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:e050f0ef5393cdb37fb2ed3b3d06f46b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T073000Z
-LOCATION:57Г-302
-DTSTART:20251129T060000Z
-SUMMARY:ЛК Биология человека
-UID:47ee0c1cf77567fef7c43d056bc3610b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20250929T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20250929T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:f52665955dc532bc28145fc55794da39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T073000Z
-LOCATION:--каф.
-DTSTART:20250917T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b2121d9bb60fcc5611235decdc5aff80
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T091500Z
-LOCATION:--каф.
-DTSTART:20260506T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ed1e14ef0012fd7efa16a2bdcbec1104
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260601T073000Z
-LOCATION:--каф. 919
-DTSTART:20260601T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:f0976e3a84ca82817f5397e84d9f8e68
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20260112T073000Z
-LOCATION:24-600а
-DTSTART:20260112T060000Z
-SUMMARY:Экзамен Физическая химия
-UID:db4fa88581d3df45086b2c381cefd789
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:--каф.
-DTSTART:20251224T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6b5c1ebc384c684ddfb6541a36cf9117
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:57Г-302
-DTSTART:20251101T060000Z
-SUMMARY:ЛК Биология человека
-UID:a40165441e1dbe386c4d6a13ad27f2bd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:--каф. 919
-DTSTART:20250912T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:f224358cb3f178b25c80b64354758172
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260413T131500Z
-LOCATION:24-419
-DTSTART:20260413T114500Z
-SUMMARY:ПЗ Теплофизика
-UID:1e5c0c76adcc913e17c63c5f196241ac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20251014T113000Z
-LOCATION:9-404
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Социология
-UID:8344ca8629dc434874896cd95b775191
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:57Г-302
-DTSTART:20251004T060000Z
-SUMMARY:ЛК Биология человека
-UID:4c2bdb670f0c484b09ad7e6409fd336a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260224T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260224T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1714eabcf04c1f616df9c53f741ee53d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T113000Z
-LOCATION:--каф.
-DTSTART:20251105T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3dffc4e318138d31f188b4e130cb2085
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T131500Z
-LOCATION:--каф.
-DTSTART:20251022T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:28a7e2488114257d52e37682bc069a4d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260324T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260324T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:98ed8dd8701a0489898ee9bed38dcd79
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251009T131500Z
-LOCATION:24-715
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:76c6ad3c70a59776d28c4c7c33bdabdb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251201T091500Z
-LOCATION:24-400
-DTSTART:20251201T074500Z
-SUMMARY:ЛК Материаловедение
-UID:62e878aa1bbea662582ad1127d9da25a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260603T091500Z
-LOCATION:--каф.
-DTSTART:20260603T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:081ede2c6b613216ac2eded02d91d737
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кыдралиева Камиля Асылбековна
-DTEND:20260521T091500Z
-LOCATION:ГУК Б-334
-DTSTART:20260521T074500Z
-SUMMARY:ЛК Конструкционные и биоматериалы
-UID:7936e3dca9962ca11af8dd7d63aeaeb2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260518T131500Z
-LOCATION:3-310
-DTSTART:20260518T114500Z
-SUMMARY:ЛР Метрология и стандартизация
-UID:33755b16f07373befc0ef814241cfd99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260502T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260502T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:2a7dfad756535f420901b578c66ed600
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260310T113000Z
-LOCATION:--стадион
-DTSTART:20260310T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:b263eff91f454e1935676241b1817534
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20260606T073000Z
-LOCATION:Орш. А-101
-DTSTART:20260606T060000Z
-SUMMARY:ЛК Основы психологии
-UID:7f4d92b1bda17e8759c9da7b1a4f67f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251215T073000Z
-LOCATION:24-400
-DTSTART:20251215T060000Z
-SUMMARY:ЛК Материаловедение
-UID:6f06a03d819d5eb0182091603d905eb9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20250904T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20250904T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:7700baadea7549854a9e1ffafa37fedf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T113000Z
-LOCATION:--каф.
-DTSTART:20251008T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e2a1367fa163cccb84e2e27449d7064a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T131500Z
-LOCATION:--каф.
-DTSTART:20260506T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5dd4d1c4facaf2d03716836d4080be7b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250909T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250909T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:3a0e1080bd502a7fbcc39a0b8f2e27df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250920T131500Z
-LOCATION:3-301
-DTSTART:20250920T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:97db7fb38421ea7b3714f87aba2da60b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251211T150000Z
-LOCATION:ГУК А-104
-DTSTART:20251211T133000Z
-SUMMARY:ЛР Материаловедение
-UID:8e904f6960f0611c90a19fd7fe4129ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Подольская Наталья Сергеевна
-DTEND:20260326T113000Z
-LOCATION:57Г-303
-DTSTART:20260326T100000Z
-SUMMARY:ЛК Биофизические основы живых систем
-UID:03b720bbdfc91225fdb6b20c0e47d19e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251106T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:eb34782dbd7a4334107837a82ba980ba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20251111T113000Z
-LOCATION:9-404
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Социология
-UID:4dd59b2acae0d049ad636fd789c7b6db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260310T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260310T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7d96506db13d85828e4736a43d5b7682
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260218T091500Z
-LOCATION:--каф.
-DTSTART:20260218T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e8541f023167e5f3b9c075bf72c3af8a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартюшов Сергей Николаевич
-DTEND:20260124T073000Z
-LOCATION:3-409
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:e00cb1797a33ac791e2d931779914184
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260211T131500Z
-LOCATION:--каф.
-DTSTART:20260211T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c605fafdd15ba1bbb1dcc914cda1e7ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250925T131500Z
-LOCATION:24-715
-DTSTART:20250925T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:4f27cc55fe987456956d276dc38e479b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T073000Z
-LOCATION:--каф. 919
-DTSTART:20251216T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:40a3003e9bfb57b965c4fa38ca4896b4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:--каф.
-DTSTART:20251015T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8b14b0652e882273562623ddbc74ec2f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251006T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251006T133000Z
-SUMMARY:ЛК Материаловедение
-UID:845e5db0527588e6228c25f79fa66a30
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260317T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260317T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:8a2344fb4a7b4bbf0224973a354be815
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251013T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251013T114500Z
-SUMMARY:ЛК Физическая химия
-UID:faded0318c016535feb6d6bcb253233b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260330T113000Z
-LOCATION:24-419
-DTSTART:20260330T100000Z
-SUMMARY:ЛК Теплофизика
-UID:9082cb646b23b5f916e12e67d3ae27a8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251215T091500Z
-LOCATION:24-400
-DTSTART:20251215T074500Z
-SUMMARY:ЛК Материаловедение
-UID:6c95521a3274fbbaaa9dd53bc5da7da8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T131500Z
-LOCATION:7-401
-DTSTART:20251114T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:b887916021399bc240c243cd0d3c3412
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260317T113000Z
-LOCATION:--стадион
-DTSTART:20260317T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:c705d89a29a2f14cf84cf7064c4dc1db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20260430T091500Z
-LOCATION:ГУК Б-648
-DTSTART:20260430T074500Z
-SUMMARY:ПЗ Детали машин и основы конструирования
-UID:1a52a2c3cc2633d22d88d9abb22cc36a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260331T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260331T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:62b7813d039ef080dc04d27e91e8c90c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260226T150000Z
-LOCATION:3-303
-DTSTART:20260226T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:8878548631b8c2cbde57d24d8b774c71
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250922T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250922T114500Z
-SUMMARY:ЛК Физическая химия
-UID:7abfa005e6a1781850079fd236655d21
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260505T113000Z
-LOCATION:--стадион
-DTSTART:20260505T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:5278cb1d66e939ac31fbce5264432c51
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260507T150000Z
-LOCATION:3-303
-DTSTART:20260507T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:75ec427def6ac826eb7b8f355016259d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:57Г-302
-DTSTART:20250920T060000Z
-SUMMARY:ЛК Биология человека
-UID:3b3d0ecfe6e86445599f6256ecdb7612
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251106T131500Z
-LOCATION:24-715
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Физическая химия
-UID:c7126d144adf4e4560c69c7ca459bba7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260316T091500Z
-LOCATION:3-310
-DTSTART:20260316T074500Z
-SUMMARY:ПЗ Метрология и стандартизация
-UID:2e9a9cd5bc714058d9bc02fb7865951e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251009T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251009T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:563f68a4b875b39e99f88cf3f094dbb0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251118T113000Z
-LOCATION:3-269
-DTSTART:20251118T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:f4bd34f6c61bbac61e508725ffa24a79
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T073000Z
-LOCATION:--каф.
-DTSTART:20251217T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:adf47785b777bd72946904fa6eba3e1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260406T113000Z
-LOCATION:24-600а
-DTSTART:20260406T100000Z
-SUMMARY:ЛР Теплофизика
-UID:126072ec4e816fb8dbec3e194ca56cfd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T113000Z
-LOCATION:--каф.
-DTSTART:20260506T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b8a386310c5f9f5d88914ff95ab3a917
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260425T131500Z
-LOCATION:ГУК Б-460
-DTSTART:20260425T114500Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:2ca0b55dcd7be20939dc1ee45428e6a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:--каф.
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7e17f553d9c43f394b4401709a418ad0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартюшов Сергей Николаевич
-DTEND:20260124T091500Z
-LOCATION:3-409
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:3a90257e417b99a6f348e0d133a6f531
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T113000Z
-LOCATION:--каф.
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:536444259a418338f25ec0ed8ffb3096
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20260112T091500Z
-LOCATION:24-600а
-DTSTART:20260112T074500Z
-SUMMARY:Экзамен Физическая химия
-UID:93df96b6690bd45d73cfad8337eaaada
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T131500Z
-LOCATION:--каф.
-DTSTART:20260325T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:db59cbc44a8ed674a1a02dc736d356e1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260513T113000Z
-LOCATION:--каф.
-DTSTART:20260513T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:853f03b5fe371697e4885170fe7e01bb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T113000Z
-LOCATION:--каф.
-DTSTART:20251112T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:eacc8d591430e602a1845f5f87f2d06e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:--каф.
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:07fd7dd4f28ed9306af95d50f5824694
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251117T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251117T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:6d842b9a1d238dad41368af196b34b00
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:--каф. 919
-DTSTART:20251121T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:bb5d91a1d0f3d6bb0b319733c8c91d96
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дзеранов Артур Альбертович
-DTEND:20260515T131500Z
-LOCATION:ГУК Б-334
-DTSTART:20260515T114500Z
-SUMMARY:ПЗ Конструкционные и биоматериалы
-UID:a5e5313af391733e5381ec10029e9282
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T091500Z
-LOCATION:--каф.
-DTSTART:20250924T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:75c35e8e91d5db6c6f32b24845a288e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T091500Z
-LOCATION:--каф.
-DTSTART:20251203T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8d5c17aaa28eee23a56c2a570ec57628
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251011T113000Z
-LOCATION:3-301
-DTSTART:20251011T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:e161091823eade16a0001caf7946fcf6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260413T073000Z
-LOCATION:--каф. 919
-DTSTART:20260413T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:94f747e95936d7c433c248abf3056964
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251009T091500Z
-LOCATION:3-269
-DTSTART:20251009T074500Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:b1d8acd3830a2ee6d781b327ff7778c0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251027T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251027T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:c0af3c0defbf75ac957744f60f8b8fb4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251204T150000Z
-LOCATION:24-600а
-DTSTART:20251204T133000Z
-SUMMARY:ЛР Физическая химия
-UID:eca0c4d4bfcee66f2cf475e160103c9d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251216T113000Z
-LOCATION:3-269
-DTSTART:20251216T100000Z
-SUMMARY:ПЗ Общая электротехника и электроника
-UID:3f40e620d1f373d4335c05323253f981
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T113000Z
-LOCATION:--каф.
-DTSTART:20250910T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2132ded9fbb0be8a14b5ba0e78f341dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251025T113000Z
-LOCATION:3-301
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:39dc399b6bd9ad98ebd966ea6207e91f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белявский Александр Евгеньевич
-DTEND:20260302T113000Z
-LOCATION:24-419
-DTSTART:20260302T100000Z
-SUMMARY:ЛК Теплофизика
-UID:99989a2d36cf8558ad1c83a2743600dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260520T131500Z
-LOCATION:--каф.
-DTSTART:20260520T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1d8f921379cc106336c9586f4d154d39
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕОКТИСТОВА ЕЛЕНА СЕРГЕЕВНА
-DTEND:20251113T113000Z
-LOCATION:ГУК Б-350
-DTSTART:20251113T100000Z
-SUMMARY:ПЗ Сопротивление материалов
-UID:59d703a7d414358b93002b3ff9220b43
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T091500Z
-LOCATION:--каф.
-DTSTART:20251029T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a50553e1d1a1f0d38b16493e19796d07
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T073000Z
-LOCATION:--каф.
-DTSTART:20260429T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8da19e4c8eecb7c101108619c56746da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260512T164500Z
-LOCATION:Орш. Б-606
-DTSTART:20260512T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:03b3344127c56d8239aa042cc6bbdf24
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260527T131500Z
-LOCATION:--каф.
-DTSTART:20260527T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:af551d5fa3f2453c188a75e4f8916e8b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ширяева Виктория Валерьевна
-DTEND:20260414T131500Z
-LOCATION:Орш. А-218
-DTSTART:20260414T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:a374cc886eb44eba03da27346168cebb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T113000Z
-LOCATION:--каф.
-DTSTART:20251126T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2d7bf64011f1a8973e3a8c97cb27884d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20260423T150000Z
-LOCATION:3-303
-DTSTART:20260423T133000Z
-SUMMARY:ПЗ Теория функций комплексного переменного
-UID:fc4f1cc3533cb66347a534eb328cb996
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260512T113000Z
-LOCATION:--стадион
-DTSTART:20260512T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:57122eb332a0db13bf076d22f8fa77a4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T131500Z
-LOCATION:--каф.
-DTSTART:20251119T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:540525ab2a09a59a6d86af17804e682e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T073000Z
-LOCATION:--каф.
-DTSTART:20251126T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4d75e99c22ca52626804ee2b7613812b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251211T164500Z
-LOCATION:ГУК А-104
-DTSTART:20251211T151500Z
-SUMMARY:ЛР Материаловедение
-UID:ef5889f424e0fb5d5e78ae5a9894c9dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260225T091500Z
-LOCATION:--каф.
-DTSTART:20260225T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:16cfb28692e983110ca43fd40efa9b4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хафизов Мурат Усманович
-DTEND:20251110T164500Z
-LOCATION:ГУК Б-444
-DTSTART:20251110T151500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:5582bdeb850dfac18b4c50c471558250
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251211T131500Z
-LOCATION:3-407
-DTSTART:20251211T114500Z
-SUMMARY:ПЗ Социология
-UID:94e3bc256a9263b8211b20bed6b88e97
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
 DTEND:20260606T113000Z
 LOCATION:ГАК-320
@@ -4452,19 +1706,18 @@ SUMMARY:ЛК Детали машин и основы конструирован�
 UID:1ef87d797f41d60c7a8aab0f67b4b164
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20251110T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251110T114500Z
-SUMMARY:ЛК Физическая химия
-UID:d12612885549201ffc78c55c1182da57
+DTEND:20260415T073000Z
+LOCATION:--каф.
+DTSTART:20260415T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:83070e9a27352b8b89c230301a705f98
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T091500Z
-LOCATION:ГУК А-407
-DTSTART:20251118T074500Z
+DTEND:20260210T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260210T151500Z
 SUMMARY:ПЗ Иностранный язык
-UID:79c4f83c499c370962bff4f8a1e3c82e
+UID:918a2bba996c748dfed3ca71a8931745
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильина Анастасия Николаевна
@@ -4475,26 +1728,18 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:704e4803ae753def6769cfcf392479a9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T091500Z
-LOCATION:ГУК А-407
-DTSTART:20250916T074500Z
+DTEND:20260414T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260414T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:a17bce8e395f4a5fe9e58c18f2c4542c
+UID:c7e8243c23de09a3606f855e14f1e07d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250925T091500Z
-LOCATION:3-269
-DTSTART:20250925T074500Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:a938504800cedc84052f8c59f9f53671
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T091500Z
+DTEND:20260304T131500Z
 LOCATION:--каф.
-DTSTART:20250917T074500Z
+DTSTART:20260304T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:6b9894c6f5824ba8624d3afe49d572fd
+UID:8636f2486a924a490f6336ac059ad042
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260422T131500Z
@@ -4504,43 +1749,142 @@ SUMMARY:ПЗ Военная подготовка
 UID:18aae80894d483eae2f6a12017033ff6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250930T091500Z
-LOCATION:ГУК А-407
-DTSTART:20250930T074500Z
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260417T073000Z
+LOCATION:57Г-402
+DTSTART:20260417T060000Z
+SUMMARY:ЛР Биофизические основы живых систем
+UID:a89b8f1f9bfb40e7ba905045cd7b173c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260307T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260307T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:990f1223255612ecf1ea36f8f4ce5052
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260514T150000Z
+LOCATION:3-303
+DTSTART:20260514T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:24ce96ec7ec905d13cb445536664309f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260310T164500Z
+LOCATION:Орш. Б-606
+DTSTART:20260310T151500Z
 SUMMARY:ПЗ Иностранный язык
-UID:8663f70df8d4483499e333e9c23da14b
+UID:a18f05f018a4f1ef86676b73864b4ee4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251023T091500Z
-LOCATION:3-269
-DTSTART:20251023T074500Z
-SUMMARY:ЛР Общая электротехника и электроника
-UID:b27eec26fb7d5f9be3558aa25cd15d8a
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260328T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260328T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:b14b86e4ad214fefdf27bfe66440daa5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250902T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250902T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:e5635963eefc4b1fd83967c0ec4d8dbb
+DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
+DTEND:20260425T073000Z
+LOCATION:Орш. А-101
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Основы психологии
+UID:ac9b21079639cb6aecb81afb9cff6f46
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Прокофьев Михаил Владимирович
-DTEND:20251020T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251020T133000Z
-SUMMARY:ЛК Материаловедение
-UID:762ec0fec954529c07e889b83cc480fe
+DTEND:20260526T113000Z
+LOCATION:--стадион
+DTSTART:20260526T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:0402409df932e63bd8db869dd09b7e60
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20251002T131500Z
-LOCATION:3-407
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Социология
-UID:846ada725088f576a220e2f7c7c73884
+DTEND:20260303T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260303T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:9736d0cec381033c518fb40d6fd58629
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260305T113000Z
+LOCATION:57Г-303
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Биофизические основы живых систем
+UID:6e08958bfa5683dee4379ecd85ffb785
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белявский Александр Евгеньевич
+DTEND:20260316T113000Z
+LOCATION:24-419
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Теплофизика
+UID:bd9d801ef44cabbb6092765199802d57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260512T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:3d92ad3e4efcd04a1c76282ecc01a303
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260408T131500Z
+LOCATION:--каф.
+DTSTART:20260408T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:94a7beeb0396afcdb2eab3a81b1da0b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260221T113000Z
+LOCATION:3-Зал А
+DTSTART:20260221T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:bf1d02b4f073f3a22b2896baf7b819ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260411T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260411T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:a20ba7cd7ddbd1e0df57dbb3095fb583
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ширяева Виктория Валерьевна
+DTEND:20260303T131500Z
+LOCATION:Орш. А-218
+DTSTART:20260303T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:4e180c4572872edcbfc0c9032aafc8a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260404T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260404T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:18cb51249a551bc1cbe47cb70f22eaf4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T073000Z
+LOCATION:--каф.
+DTSTART:20260218T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a94647912ba08d15b25823d15145225b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260421T113000Z
+LOCATION:--стадион
+DTSTART:20260421T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:09178774d9f7a437e2f8839ca91a0935
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260512T150000Z
@@ -4550,41 +1894,20 @@ SUMMARY:ПЗ Иностранный язык
 UID:f935b0e7baf0cd61ab9922b573a52e94
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:57Г-302
-DTSTART:20251101T074500Z
-SUMMARY:ПЗ Биология человека
-UID:7fe4f25c94a9a29b8eaf65eb3a7b743f
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260212T131500Z
+LOCATION:57Г-303
+DTSTART:20260212T114500Z
+SUMMARY:ЛК Электроника
+UID:7a41307685dda73f4cf38b2578c8143e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T091500Z
-LOCATION:3-303
-DTSTART:20250927T074500Z
-SUMMARY:ПЗ Численные методы
-UID:6dde864e098d7ed840f73ac11756cc23
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251011T131500Z
-LOCATION:3-301
-DTSTART:20251011T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:636b395261be00cbedf48604a1133289
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20250929T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20250929T114500Z
-SUMMARY:ЛК Физическая химия
-UID:a8646cb4c0186c7ea3a57c56e092ca13
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260317T150000Z
-LOCATION:Орш. Б-606
-DTSTART:20260317T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:a2682732649d90c1e31d47d4658ae786
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260425T113000Z
+LOCATION:ГАК-320
+DTSTART:20260425T100000Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:937d2cfff79509cc198d686d2a4fe4ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кыдралиева Камиля Асылбековна
@@ -4595,6 +1918,13 @@ SUMMARY:ЛР Конструкционные и биоматериалы
 UID:3eb61038ff9e2e7a37ebcd93806e956d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260317T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260317T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a2682732649d90c1e31d47d4658ae786
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260428T150000Z
 LOCATION:Орш. Б-606
 DTSTART:20260428T133000Z
@@ -4602,20 +1932,27 @@ SUMMARY:ПЗ Иностранный язык
 UID:2880f8efa040ca314ce0cbb275d8c630
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20250901T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20250901T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:98f7245cfed8ea122e599f2747ffd882
+DTEND:20260325T091500Z
+LOCATION:--каф.
+DTSTART:20260325T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:32e4123667508cddb4a0a6cd5394dc6c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251007T131500Z
-LOCATION:ГУК Б-444
-DTSTART:20251007T114500Z
-SUMMARY:ЛК Общая электротехника и электроника
-UID:3c1941d3161fa2535f718aaa391c7b49
+DESCRIPTION:Дзеранов Артур Альбертович
+DTEND:20260529T113000Z
+LOCATION:ГУК Б-334
+DTSTART:20260529T100000Z
+SUMMARY:ПЗ Конструкционные и биоматериалы
+UID:41b9ac77e46edd73c822f2923bae0446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260504T131500Z
+LOCATION:3-310
+DTSTART:20260504T114500Z
+SUMMARY:ЛР Метрология и стандартизация
+UID:1e985fa65ce38c7902d01e28d318a7f7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260519T150000Z
@@ -4623,6 +1960,14 @@ LOCATION:Орш. Б-606
 DTSTART:20260519T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:c6d1b4941070a3da5c65d3285eaffec9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260514T131500Z
+LOCATION:57Г-303
+DTSTART:20260514T114500Z
+SUMMARY:ПЗ Электроника
+UID:cd5f18e7b0d98ccd30580729af0b4734
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260422T113000Z
@@ -4633,6 +1978,14 @@ UID:cb3d703dcacfeb7fbe268cc9b9822303
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20260411T113000Z
+LOCATION:ГАК-320
+DTSTART:20260411T100000Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:ffd45ad00e1c3ed9bd8bbd36c7850e02
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
 DTEND:20260219T091500Z
 LOCATION:ГУК Б-648
 DTSTART:20260219T074500Z
@@ -4640,19 +1993,19 @@ SUMMARY:ПЗ Детали машин и основы конструирован�
 UID:4344b9615c2dc954b40f8b1816e2809c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260527T113000Z
-LOCATION:--каф.
-DTSTART:20260527T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a29ffea0d1a882ebfbd07a2d83b805ce
+DTEND:20260217T150000Z
+LOCATION:Орш. Б-606
+DTSTART:20260217T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f7e02e57e38f1de2b9180e17b2ab9130
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Михайлова Елена Юрьевна
-DTEND:20251013T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20251013T133000Z
-SUMMARY:ЛК Сопротивление материалов
-UID:1a7929b7c3d0cc796ec86e1e31caf93c
+DESCRIPTION:Ильина Анастасия Николаевна
+DTEND:20260305T150000Z
+LOCATION:3-303
+DTSTART:20260305T133000Z
+SUMMARY:ПЗ Теория функций комплексного переменного
+UID:75a2680711fd85c8ae598f239fbf90f1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -4671,12 +2024,11 @@ SUMMARY:ЛК Теплофизика
 UID:0ebe62ae9aaefee3a106ff269ce485eb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мишин Юрий Николаевич
-DTEND:20260530T113000Z
-LOCATION:3-Зал А
-DTSTART:20260530T100000Z
-SUMMARY:ЛК Метрология и стандартизация
-UID:54dc89efa44e2fdc0582c11c14750489
+DTEND:20260527T113000Z
+LOCATION:--каф.
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a29ffea0d1a882ebfbd07a2d83b805ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
@@ -4687,6 +2039,14 @@ SUMMARY:ПЗ Электроника
 UID:18ab45a118cdd7019c0a1d8f3aae74de
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Мишин Юрий Николаевич
+DTEND:20260530T113000Z
+LOCATION:3-Зал А
+DTSTART:20260530T100000Z
+SUMMARY:ЛК Метрология и стандартизация
+UID:54dc89efa44e2fdc0582c11c14750489
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тихонов Филипп Владимирович
 DTEND:20260423T131500Z
 LOCATION:57Г-303
@@ -4695,19 +2055,42 @@ SUMMARY:ПЗ Электроника
 UID:556da03072c78700a58a28ce6309f600
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251018T131500Z
-LOCATION:3-301
-DTSTART:20251018T114500Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:150003be4670454ba154faeb3c3f150e
+DTEND:20260224T113000Z
+LOCATION:--стадион
+DTSTART:20260224T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:7e2dd63c8e25f7098e5a3e386b28eeed
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T113000Z
+DTEND:20260209T073000Z
 LOCATION:--каф. 919
-DTSTART:20251128T100000Z
+DTSTART:20260209T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:fc7f8992ed0a7caf1e6a8958efef3110
+UID:669128ef1651cc188ed293a5807fac5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихонов Филипп Владимирович
+DTEND:20260507T131500Z
+LOCATION:57Г-303
+DTSTART:20260507T114500Z
+SUMMARY:ПЗ Электроника
+UID:8b876ac0ac6ff848e631b9033f9b1fbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260228T131500Z
+LOCATION:ГУК Б-460
+DTSTART:20260228T114500Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:48cf239db8d33052acbcc00c8eecbef5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Подольская Наталья Сергеевна
+DTEND:20260409T113000Z
+LOCATION:57Г-303
+DTSTART:20260409T100000Z
+SUMMARY:ЛК Биофизические основы живых систем
+UID:101e84fe8792f7e6097503b368f59bee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович

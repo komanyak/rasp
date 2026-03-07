@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20250918T183000Z
-LOCATION:5-425
-DTSTART:20250918T170000Z
-SUMMARY:ЛК Экономическая теория
-UID:0ae4b9cdbe9768366341171ce0deaaf1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260330T164500Z
 LOCATION:5-227
@@ -18,33 +10,36 @@ SUMMARY:ЛК Управление высокотехнологичным про�
 UID:6bbc9a676138145ac34c914255720fa2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251023T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:46c1528c822f269ddbc0fe1316740334
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251218T151500Z
-SUMMARY:ЛК Математический анализ
-UID:5298fc162286efbddcad3ac8aa4aa53f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T164500Z
-LOCATION:5-414А
-DTSTART:20250929T151500Z
-SUMMARY:ЛК Компьютерная графика
-UID:4033c7430d7b226b7802258e9ad59b78
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
 DTEND:20260414T183000Z
 LOCATION:Орш. В-204
 DTSTART:20260414T170000Z
 SUMMARY:ПЗ Математический анализ
 UID:f306ef2c09f7a1ba794501f581972744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20260415T164500Z
+LOCATION:5-414В
+DTSTART:20260415T151500Z
+SUMMARY:ПЗ Информационное право
+UID:76c55ce08e93918553b2b564005629dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260417T183000Z
+LOCATION:Орш. В-514
+DTSTART:20260417T170000Z
+SUMMARY:ПЗ Социология
+UID:efab3bfef1188e243daaa04332dd65be
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20260525T183000Z
+LOCATION:5-227
+DTSTART:20260525T170000Z
+SUMMARY:ПЗ Управление высокотехнологичным производством
+UID:636e0d38d9b2e20c2a6549ee9396a8a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -63,28 +58,12 @@ SUMMARY:ЛК История России
 UID:891c5f0b6cc039e1831d2b4925bd5704
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260306T164500Z
-LOCATION:5-423
-DTSTART:20260306T151500Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:8984d8d631122086070ec64c2309b0db
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260401T164500Z
 LOCATION:5-414В
 DTSTART:20260401T151500Z
 SUMMARY:ЛК Информационное право
 UID:6cf249cde5219b6e8b219912810590c3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20260415T164500Z
-LOCATION:5-414В
-DTSTART:20260415T151500Z
-SUMMARY:ПЗ Информационное право
-UID:76c55ce08e93918553b2b564005629dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -95,21 +74,6 @@ SUMMARY:ЛК Математический анализ
 UID:e316498a59fd94a1acd0385f53fa463f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251009T151500Z
-SUMMARY:ЛК Математический анализ
-UID:1cd80ba4ce86fc68eac376c4aaa727d7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260220T164500Z
-LOCATION:5-423
-DTSTART:20260220T151500Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:7723a3176c7f35fa41971e9a1a0260ce
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260525T164500Z
 LOCATION:5-227
@@ -118,11 +82,12 @@ SUMMARY:ПЗ Управление высокотехнологичным про�
 UID:9a09d3cf9b1da96c544e33fb4c07925e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251112T164500Z
-LOCATION:5-413
-DTSTART:20251112T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:674e6f143577496e8e4bbc10153a3711
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260220T183000Z
+LOCATION:5-423
+DTSTART:20260220T170000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:770607f8173ecc91d446c166e7fc2e42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -139,27 +104,6 @@ LOCATION:Орш. В-502
 DTSTART:20260423T151500Z
 SUMMARY:ПЗ История России
 UID:7bbb825a01745c716fdcb9c1214adbc2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251009T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:e6f7a02d9c492a162e97f46a77fbd834
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251107T151500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:5a5195df214347c9fb813f4c23e69aeb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251121T151500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:98142e743d002b372a9be6dd3c988c62
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -186,62 +130,12 @@ SUMMARY:ЛК История России
 UID:1ef961090011cb6c7172215dade604c5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250903T183000Z
-LOCATION:5-413
-DTSTART:20250903T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:7fea3d66294eaaee01b28e429be19161
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250911T151500Z
-SUMMARY:ЛК Математический анализ
-UID:bd17ca085af712602e012b6c6f99a8ed
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
 DTEND:20260428T164500Z
 LOCATION:Орш. В-204
 DTSTART:20260428T151500Z
 SUMMARY:ПЗ Математический анализ
 UID:51434b5a7d5e3c84f163edf0c8de7742
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251113T164500Z
-LOCATION:5-425
-DTSTART:20251113T151500Z
-SUMMARY:ПЗ Экономическая теория
-UID:fec020136ef0e496d34401dc1319efd6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250926T170000Z
-SUMMARY:ЛК Основы российской государственности
-UID:357445c7c3e1a93b55a922d760cafe71
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251114T170000Z
-SUMMARY:ПЗ История России
-UID:362a696b65903a2d7b0a3ab8671f00b0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20250902T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:abd1476acad73b89099460a67c925390
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251128T170000Z
-SUMMARY:ПЗ История России
-UID:63e731162f4b6ec4c6e94ca2de9ba1d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -267,29 +161,6 @@ SUMMARY:ПЗ Информационное право
 UID:f8933aab4edf1cccb2431a2b46c23468
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251211T183000Z
-LOCATION:5-425
-DTSTART:20251211T170000Z
-SUMMARY:ПЗ Экономическая теория
-UID:e6570e15be974c5ec2756e76dec2ed86
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251127T183000Z
-LOCATION:5-425
-DTSTART:20251127T170000Z
-SUMMARY:ПЗ Экономическая теория
-UID:0e70dade048a26c1796c9854788e6f43
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T183000Z
-LOCATION:5-414А
-DTSTART:20250929T170000Z
-SUMMARY:ЛК Компьютерная графика
-UID:d83621ce597d6faae312884ac5952c1a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ряполов Сергей Владимирович
 DTEND:20260529T164500Z
 LOCATION:Орш. В-514
@@ -298,61 +169,12 @@ SUMMARY:ЛК Социология
 UID:1d5db1fecccd1f39e13a53a347895e3b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T183000Z
-LOCATION:5-413
-DTSTART:20251001T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:45c161c09405446b86b1af15b21693f8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250925T151500Z
-SUMMARY:ЛК Математический анализ
-UID:260c464b7587131fe3a70b6ff3163518
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T183000Z
-LOCATION:5-414А
-DTSTART:20251020T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:d6dff1e8464a1328fa37bd76e69643e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20250930T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:350d5c59df0fbcd7b7c27312e55df436
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251114T151500Z
-SUMMARY:ПЗ История России
-UID:903d8e73e5f55312de9778a8cf787169
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260518T164500Z
 LOCATION:5-227
 DTSTART:20260518T151500Z
 SUMMARY:ПЗ Управление высокотехнологичным производством
 UID:20ed29526e58ea5e0e4baff9c32174d9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250919T170000Z
-SUMMARY:ЛК История России
-UID:8675f71ad155d03ed10bfc04ff16bcfb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T183000Z
-LOCATION:5-414А
-DTSTART:20251124T170000Z
-SUMMARY:ЛР Компьютерная графика
-UID:7ca24179f02b49abb4a32393c1ccc894
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -371,20 +193,6 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:650046051e29fe9d733620a30751affd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20251209T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:07be2a72d9d93fafacf746e70153e84c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20250916T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:9af646ea799b43af19a7d4884b18f02a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20260514T183000Z
 LOCATION:5-414А
@@ -393,49 +201,12 @@ SUMMARY:ЛР Информационные технологии
 UID:e6103adcba35befa04bd244d4a2a7b4c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251017T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251017T151500Z
-SUMMARY:ЛК История России
-UID:32b6003b0abd6b17f6e4aebf0327fb76
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T164500Z
-LOCATION:5-413
-DTSTART:20251015T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:2bce9f117e255fe767184b54ef20a188
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T164500Z
-LOCATION:5-414А
-DTSTART:20250922T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:6c1e703a9c37cd9860aafefee214d910
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260218T164500Z
 LOCATION:5-414В
 DTSTART:20260218T151500Z
 SUMMARY:ЛК Информационное право
 UID:eedacccb9eb9d0aca0a1cdcc286fefaf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251030T183000Z
-LOCATION:5-425
-DTSTART:20251030T170000Z
-SUMMARY:ПЗ Экономическая теория
-UID:0cf48483936f3effd04f173cecbac8f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251021T164500Z
-LOCATION:3-145
-DTSTART:20251021T151500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:b01294793d713ba59c0da1a61368ddf9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -454,20 +225,11 @@ SUMMARY:ЛК Управление высокотехнологичным про�
 UID:c2f2d85094d720831ddfa6a4b1577573
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251016T164500Z
-LOCATION:5-425
-DTSTART:20251016T151500Z
-SUMMARY:ЛК Экономическая теория
-UID:5c36c11547f8e17a2a3be0ec6ebd7162
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260320T164500Z
-LOCATION:5-423
-DTSTART:20260320T151500Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:87ce62127bf1365648b1236428e30dcf
+DTEND:20260421T183000Z
+LOCATION:Орш. В-606
+DTSTART:20260421T170000Z
+SUMMARY:ЛР Общая физика
+UID:3729d8d3fa7250e8a0c12b4d149f1703
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -484,13 +246,6 @@ LOCATION:Орш. В-306
 DTSTART:20260310T170000Z
 SUMMARY:ПЗ Общая физика
 UID:e342a25bc28713bcaf333a3e7d622a02
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260421T183000Z
-LOCATION:Орш. В-606
-DTSTART:20260421T170000Z
-SUMMARY:ЛР Общая физика
-UID:3729d8d3fa7250e8a0c12b4d149f1703
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -525,20 +280,6 @@ SUMMARY:ЛК Общая физика
 UID:ff8606aac3f898bd2cd8ea2df55f0bbb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T183000Z
-LOCATION:5-413
-DTSTART:20251029T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:a1374375e635b87a44d13a6cab0b6263
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250905T151500Z
-SUMMARY:ЛК История России
-UID:a7cbbcf04394058fefe1a86f9df56604
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260302T164500Z
 LOCATION:5-227
@@ -555,14 +296,6 @@ SUMMARY:ЛР Информационные технологии
 UID:f851f1b26e3710220ac7e3ad82bdbf02
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260120T150000Z
-LOCATION:Орш. В-202
-DTSTART:20260120T133000Z
-SUMMARY:Экзамен Математический анализ
-UID:d3ca87ac1373aceefdf2830c55bd5021
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260330T183000Z
 LOCATION:5-227
@@ -571,97 +304,11 @@ SUMMARY:ЛК Управление высокотехнологичным про�
 UID:2e55ae4bf976112134254baf26008269
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260124T091500Z
-LOCATION:Орш. В-103
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:f816f3ba60dbd422042b2e3acb82b423
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251211T164500Z
-LOCATION:5-425
-DTSTART:20251211T151500Z
-SUMMARY:ПЗ Экономическая теория
-UID:59d513c5c905da44675a7c5d13cf22e8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260213T183000Z
 LOCATION:Орш. Б-612
 DTSTART:20260213T170000Z
 SUMMARY:ПЗ Иностранный язык
 UID:a22d2225e3b84fe33e0d4cb67db77b81
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T164500Z
-LOCATION:3-129
-DTSTART:20250923T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:1a777568309371c781ae50b5a02fbd88
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20251111T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:771a3f74aa1f50635720be665fce6f5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T183000Z
-LOCATION:5-414А
-DTSTART:20251027T170000Z
-SUMMARY:ЛР Компьютерная графика
-UID:9e6ce56e8cfa7375ae463d6ea48161bd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T183000Z
-LOCATION:5-414А
-DTSTART:20250922T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:21e77f34906ad730bd8684ecab1b3625
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T183000Z
-LOCATION:5-414А
-DTSTART:20251006T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:913f65f60fdbbb1805f376a19db48f43
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250912T151500Z
-SUMMARY:ЛК Основы российской государственности
-UID:4cb677d27c3bda1f2a3e418b450d8375
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250905T170000Z
-SUMMARY:ЛК История России
-UID:a648cb2e6e7fc6f2a86dc5b83ce1146b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20251125T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:fa78454d25e5f5b5f66e2c7829d01ecd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20251209T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:17ff6a721da04e42799d68e3ea61f010
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T183000Z
-LOCATION:5-413
-DTSTART:20250917T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:d86d160b2903213f1a872b37d8c07bcf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -688,20 +335,6 @@ SUMMARY:ПЗ Общая физика
 UID:59945b6a9384fc404891cc0394137a78
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20251028T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:9ec33a86e9e8728b39533814857ea520
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251031T170000Z
-SUMMARY:ПЗ История России
-UID:2910709be3892cd0459d3be53b2efa7c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
 DTEND:20260414T164500Z
 LOCATION:Орш. В-204
@@ -710,11 +343,12 @@ SUMMARY:ПЗ Математический анализ
 UID:6b24be5f7ddd087b8cc779fe792debff
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250925T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:f0b330ff418f542a363ebcd9bd31edc2
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260306T164500Z
+LOCATION:5-423
+DTSTART:20260306T151500Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:7cac3a55e3f1a19247587959dfe4d22c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -741,27 +375,12 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:03d7eedba5ba3ec5f82d0e465c77050a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251113T183000Z
-LOCATION:5-425
-DTSTART:20251113T170000Z
-SUMMARY:ПЗ Экономическая теория
-UID:6ebc81f87cc646dff80a35670f7fc3bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251127T164500Z
-LOCATION:5-425
-DTSTART:20251127T151500Z
-SUMMARY:ПЗ Экономическая теория
-UID:0914fda6579c7bacfefeb73aaccfae82
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T183000Z
-LOCATION:5-414А
-DTSTART:20251201T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:0081b2c8ba2dc460efffe7cc4c6ec702
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260306T183000Z
+LOCATION:5-423
+DTSTART:20260306T170000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:b2cea0a0f301a932e287c505b22274b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -772,40 +391,20 @@ SUMMARY:ЛК Введение в профессиональную деятель
 UID:42a610852a5d62e6b5eb52f4e251f1e1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20251014T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4379d7d75a86de46bc6367791e029b3b
+DESCRIPTION:Калачанов Вячеслав Дмитриевич
+DTEND:20260211T183000Z
+LOCATION:5-413
+DTSTART:20260211T170000Z
+SUMMARY:ЛК Информационные технологии
+UID:5b29628296e995ac4a9a0821e9480f02
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251013T164500Z
-LOCATION:5-414А
-DTSTART:20251013T151500Z
-SUMMARY:ЛР Компьютерная графика
-UID:7b3861d3193547b11f9926221466a481
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251107T170000Z
-SUMMARY:ПЗ Основы российской государственности
-UID:ace336e9e540dc0c5c443c1ec8ce8e35
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T183000Z
-LOCATION:5-414А
-DTSTART:20251013T170000Z
-SUMMARY:ЛР Компьютерная графика
-UID:8a1b952013778c71a5c0651fd6b868c4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20260525T183000Z
-LOCATION:5-227
-DTSTART:20260525T170000Z
-SUMMARY:ПЗ Управление высокотехнологичным производством
-UID:636e0d38d9b2e20c2a6549ee9396a8a2
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260320T183000Z
+LOCATION:5-423
+DTSTART:20260320T170000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:f32d3e5b747dbec7e34ae328461f31f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -832,58 +431,12 @@ SUMMARY:ЛР Информационные технологии
 UID:1e3e4d39887264464e2126d8824cfa94
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251016T183000Z
-LOCATION:5-425
-DTSTART:20251016T170000Z
-SUMMARY:ЛК Экономическая теория
-UID:91ead331f6adf575d0610730a7bb2ea0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калачанов Вячеслав Дмитриевич
-DTEND:20260402T164500Z
-LOCATION:5-414А
-DTSTART:20260402T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:527eb81b0b11b082e578b4d6dd38e6d3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20260312T183000Z
 LOCATION:Орш. В-502
 DTSTART:20260312T170000Z
 SUMMARY:ЛК История России
 UID:e592172df2885df018e79b0271c73ca1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251205T170000Z
-SUMMARY:ПЗ Основы российской государственности
-UID:b39be8514473070b379e7f15baea7398
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251017T170000Z
-SUMMARY:ЛК История России
-UID:20d4b1c57f9610234f0319f99809e581
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260120T164500Z
-LOCATION:Орш. В-202
-DTSTART:20260120T151500Z
-SUMMARY:Экзамен Математический анализ
-UID:ac50d19246da9f8b14b4604d740a66b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251002T164500Z
-LOCATION:5-425
-DTSTART:20251002T151500Z
-SUMMARY:ЛК Экономическая теория
-UID:5164ac257ed520882f442820b3c50e48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -910,11 +463,12 @@ SUMMARY:ПЗ Информационное право
 UID:71596c72b785c570598b9454307e0809
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251010T151500Z
-SUMMARY:ЛК Основы российской государственности
-UID:4f53a862aa4e985a7c55744bb5ac79ac
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260403T183000Z
+LOCATION:5-423
+DTSTART:20260403T170000Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:ff1ec48a529cdcba5128a8d637482167
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -925,48 +479,12 @@ SUMMARY:ЛК Информационные технологии
 UID:9ea377f457229209b4db956d579f4058
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T164500Z
-LOCATION:5-413
-DTSTART:20250917T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:a77706aa9f5b8d55fd1e5b8bc6c4c67b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251120T151500Z
-SUMMARY:ЛК Математический анализ
-UID:4cddc5889e01e14104d08b1bbb672763
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260601T183000Z
 LOCATION:5-227
 DTSTART:20260601T170000Z
 SUMMARY:ПЗ Управление высокотехнологичным производством
 UID:a2fa8c4becbf1cb6b8a9e9de3e2b3947
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T164500Z
-LOCATION:5-413
-DTSTART:20251210T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:6c68297a37f728be435b2ad3fcc41d07
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250911T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:95e64b6936012743dbbf30fe3bef6562
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251118T183000Z
-LOCATION:3-145
-DTSTART:20251118T170000Z
-SUMMARY:ПЗ Введение в авиационную и ракетно-космическую технику
-UID:9d37d5468eb94a5bc9a046d6deef45d6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -993,19 +511,20 @@ SUMMARY:ЛК Социология
 UID:365a7fe20946929de247ea0d01ff3ebe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251124T164500Z
-LOCATION:5-414А
-DTSTART:20251124T151500Z
-SUMMARY:ЛР Компьютерная графика
-UID:5bdcc4290c8f5fb435a560902a4bdb43
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
 DTEND:20260217T164500Z
 LOCATION:Орш. В-204
 DTSTART:20260217T151500Z
 SUMMARY:ЛК Математический анализ
 UID:f007097899ece19c01bff0009b2fa298
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260320T164500Z
+LOCATION:5-423
+DTSTART:20260320T151500Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:a5505d20bc72907a714f93d7493dff84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -1032,21 +551,6 @@ SUMMARY:ПЗ Управление высокотехнологичным про�
 UID:da01a065edbd4e99d0d27cc8c1985352
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251118T164500Z
-LOCATION:3-145
-DTSTART:20251118T151500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:4414be952e24fe1797dbd3822634e17e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20251125T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:c2a75232fd6a89d064be1f3f6b75028e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260427T164500Z
 LOCATION:5-227
@@ -1055,26 +559,12 @@ SUMMARY:ЛК Управление высокотехнологичным про�
 UID:57565f6e36528b70053f0fc97c43f28b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251003T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251003T170000Z
-SUMMARY:ЛК История России
-UID:bfac385a453f6623725cf099c146e7a2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260608T183000Z
 LOCATION:5-227
 DTSTART:20260608T170000Z
 SUMMARY:ПЗ Управление высокотехнологичным производством
 UID:944bf13fe00479d6d0bdb4f52a18cf96
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T164500Z
-LOCATION:5-413
-DTSTART:20251126T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:dafbdc694bb1d84ec57cba4dfac26ccd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1117,34 +607,12 @@ SUMMARY:ЛК Математический анализ
 UID:de4e2e5cb8e0da528023eba48d352021
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260403T164500Z
-LOCATION:5-423
-DTSTART:20260403T151500Z
-SUMMARY:ЛК Общественный проект "Обучение служением"
-UID:ee6264782a118d09afe36ad1f23649f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251218T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:2728eb18dfbf723dbe7b39dd2ee61857
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20260423T183000Z
 LOCATION:Орш. В-502
 DTSTART:20260423T170000Z
 SUMMARY:ПЗ История России
 UID:94e1fddba48959728e9e99efee299cfd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251204T151500Z
-SUMMARY:ЛК Математический анализ
-UID:05bf584ad68ff86daf58a1f322cc9bf5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1163,28 +631,6 @@ SUMMARY:ПЗ Социология
 UID:86c18701cf982e7b0a7d04dadfef1506
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T183000Z
-LOCATION:5-413
-DTSTART:20251015T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:7dd6a5b99a4d7cc77a26cb5b998be560
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20251021T183000Z
-LOCATION:3-145
-DTSTART:20251021T170000Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:2c991d3fbf10c409c60bbf00a5676c63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T183000Z
-LOCATION:5-413
-DTSTART:20251210T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:410b5d91a8c1b75c0f80260c13ecf85a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20260225T183000Z
 LOCATION:5-413
@@ -1193,35 +639,12 @@ SUMMARY:ЛК Информационные технологии
 UID:73d57a52e43eef2705cf9ccd9b43ad68
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251023T151500Z
-SUMMARY:ЛК Математический анализ
-UID:85fffa18106461a8b11cb890770b5a69
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251030T164500Z
-LOCATION:5-425
-DTSTART:20251030T151500Z
-SUMMARY:ПЗ Экономическая теория
-UID:a99568000cb0e319e73225d48ed73c8c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260216T183000Z
 LOCATION:5-227
 DTSTART:20260216T170000Z
 SUMMARY:ЛК Управление высокотехнологичным производством
 UID:644abc648135adc04178fd0646eb4ec4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20250904T164500Z
-LOCATION:5-425
-DTSTART:20250904T151500Z
-SUMMARY:ЛК Экономическая теория
-UID:c58986c314d6498829a04e61a91cc903
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1240,41 +663,12 @@ SUMMARY:ЛК История России
 UID:ffa3e87bd2bc4f638e9f7a6d1ab03b1f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260306T183000Z
-LOCATION:5-423
-DTSTART:20260306T170000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:812c1b6d4cf8dab475d3d301aa01e87a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251128T151500Z
-SUMMARY:ПЗ История России
-UID:cb24d3a4fcb3e1c14cc83aa0f0be212d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260209T183000Z
 LOCATION:5-227
 DTSTART:20260209T170000Z
 SUMMARY:ЛК Введение в профессиональную деятельность
 UID:9b6e5eff6435e3d6ce738c1f089a18a1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250919T151500Z
-SUMMARY:ЛК История России
-UID:df8cfe5b12bc348e23bbe4d148a3ebf7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T183000Z
-LOCATION:3-129
-DTSTART:20250923T170000Z
-SUMMARY:ПЗ Иностранный язык
-UID:951f3939db78205f1b133dd09681e746
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -1298,13 +692,6 @@ LOCATION:5-414А
 DTSTART:20260416T151500Z
 SUMMARY:ЛР Информационные технологии
 UID:1e6ea42c5afde0c0e4094fa56cb9fa0a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251204T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:0a249b3fc6f1db356360842af16983cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1331,48 +718,12 @@ SUMMARY:ЛР Информационные технологии
 UID:1e05f77f3ac3196caea082f59ccb6907
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251106T151500Z
-SUMMARY:ЛК Математический анализ
-UID:a121b252d0ebb56d4b481242e2489633
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260403T183000Z
-LOCATION:5-423
-DTSTART:20260403T170000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:fe36cf4cbe72d4cd0d9ea3df7aeaeebd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T164500Z
-LOCATION:5-414А
-DTSTART:20250908T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:d89af260ed2ebc17c3e3b9b85928d5f2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260415T183000Z
 LOCATION:5-414В
 DTSTART:20260415T170000Z
 SUMMARY:ПЗ Информационное право
 UID:32c9003afa3950db94268d45acbf4d18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T183000Z
-LOCATION:5-414А
-DTSTART:20251117T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:13b46388f889feee5ca10ad5425df09d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T164500Z
-LOCATION:5-414А
-DTSTART:20250915T151500Z
-SUMMARY:ЛК Компьютерная графика
-UID:adc4eccd86655e1b5c47a11a89ca1bcb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -1391,42 +742,6 @@ SUMMARY:ЛР Информационные технологии
 UID:02a3b5a50731d41021d1518232bd1eb7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T164500Z
-LOCATION:5-414А
-DTSTART:20251006T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:cb992e96c365f557b4895078937b9c4d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T183000Z
-LOCATION:5-414А
-DTSTART:20251110T170000Z
-SUMMARY:ЛР Компьютерная графика
-UID:1ea9cc302c989eb9eef212fd990144dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20250926T151500Z
-SUMMARY:ЛК Основы российской государственности
-UID:b997e10d4259dcb6a9ebe89ba87a2c1d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251205T151500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:7e1f22ee37d9ad719bef38c512a20f43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260220T183000Z
-LOCATION:5-423
-DTSTART:20260220T170000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:429c856a7a1cd4f4d381a1457614c81e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20260305T164500Z
 LOCATION:5-414А
@@ -1435,18 +750,12 @@ SUMMARY:ЛР Информационные технологии
 UID:921a7424d34c162e11e6b1d076b4728d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251106T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:6a47e084ff23baaa3529ea17bd4660d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251010T170000Z
-SUMMARY:ЛК Основы российской государственности
-UID:6962959c13375ba93f589c02b9077185
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260403T164500Z
+LOCATION:5-423
+DTSTART:20260403T151500Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:5dc61d1a807f8d26241cd7732f9b5bb6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1465,34 +774,6 @@ SUMMARY:ПЗ Социология
 UID:47aafaa620c962b3cba6429549f0f96c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251117T164500Z
-LOCATION:5-414А
-DTSTART:20251117T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:ac509332ab0725c829a93b0a553d5fc7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T164500Z
-LOCATION:5-414А
-DTSTART:20251215T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:6829e7585dab7c963d16a4f3989f3967
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T164500Z
-LOCATION:5-414А
-DTSTART:20251201T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:8056d352358b90312999788d5cd1087a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251121T170000Z
-SUMMARY:ПЗ Основы российской государственности
-UID:6e380e361f279d7f7d19da946c7912e3
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260421T164500Z
 LOCATION:Орш. В-606
 DTSTART:20260421T151500Z
@@ -1508,13 +789,6 @@ SUMMARY:ПЗ Управление высокотехнологичным про�
 UID:034a94bbc011fb17af6323259ed1a7b5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20251014T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:b2a5a5e549590f713d0c8893eedd7f0a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260519T183000Z
 LOCATION:Орш. В-314
 DTSTART:20260519T170000Z
@@ -1522,25 +796,11 @@ SUMMARY:ЛР Общая физика
 UID:e9b72665cf6e0750856582b0d25d153e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251120T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:226e24fde299cd20345eb83106a1ca1e
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260519T164500Z
 LOCATION:Орш. В-314
 DTSTART:20260519T151500Z
 SUMMARY:ЛР Общая физика
 UID:3b4b145643b7aadca36d94e2562eb750
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20251111T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:4b753333b116d655e8fb5102a2ec8522
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1551,28 +811,6 @@ SUMMARY:ПЗ Управление высокотехнологичным про�
 UID:076f4bc59a357827d87eadb0af9bfd13
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20251024T170000Z
-SUMMARY:ПЗ Основы российской государственности
-UID:cca1b3cf86fe1850901884cce52b96e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T183000Z
-LOCATION:Орш. Б-303
-DTSTART:20250912T170000Z
-SUMMARY:ЛК Основы российской государственности
-UID:4d41f5e4de7008d613daf501655bde70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260124T073000Z
-LOCATION:Орш. В-103
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Линейная алгебра и аналитическая геометрия
-UID:ab2fd84cdac39b461416b866faa89d82
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
 DTEND:20260608T164500Z
 LOCATION:5-227
@@ -1581,41 +819,12 @@ SUMMARY:ПЗ Управление высокотехнологичным про�
 UID:21704ebc2d2defd84029db3d51e99a90
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20250916T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:ce8e80fb51f63d7a6a88dbf6ec00a18f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20250904T183000Z
-LOCATION:5-425
-DTSTART:20250904T170000Z
-SUMMARY:ЛК Экономическая теория
-UID:2b7e2e5d5fac28de7cd03dba058ececb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
 DTEND:20260416T183000Z
 LOCATION:5-414А
 DTSTART:20260416T170000Z
 SUMMARY:ЛР Информационные технологии
 UID:7e90aa00fcb4638e4fc199885873f75c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T183000Z
-LOCATION:5-413
-DTSTART:20251112T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:7703fd865b3beb83b95a79e8190ea30f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251003T151500Z
-SUMMARY:ЛК История России
-UID:fc27e24b8656d50e7d0143e8fd89e343
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
@@ -1634,14 +843,6 @@ SUMMARY:ПЗ История России
 UID:183b8223497895fe8c36eb015a8990ee
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВА (КАЗАКОВА) ЕКАТЕРИНА ОЛЕГОВНА
-DTEND:20260320T183000Z
-LOCATION:5-423
-DTSTART:20260320T170000Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:46c8c129289b9a296da88044c8f14760
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260505T183000Z
 LOCATION:Орш. В-606
 DTSTART:20260505T170000Z
@@ -1657,14 +858,6 @@ SUMMARY:ПЗ Общая физика
 UID:c2ef0e59574f590e1ce4b8a7275b60f5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20250918T164500Z
-LOCATION:5-425
-DTSTART:20250918T151500Z
-SUMMARY:ЛК Экономическая теория
-UID:1f153e033cb3cd708ecad5be7494db16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260304T183000Z
 LOCATION:5-414В
@@ -1673,11 +866,12 @@ SUMMARY:ПЗ Информационное право
 UID:d5a77ed7592af64ac42313948478aa8d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T164500Z
-LOCATION:5-414А
-DTSTART:20251020T151500Z
-SUMMARY:ЛР Информационные технологии
-UID:e1c8ff3e491c9e0c5c5994a414bcdb05
+DESCRIPTION:Ляпин Андрей Сергеевич
+DTEND:20260526T164500Z
+LOCATION:Орш. В-204
+DTSTART:20260526T151500Z
+SUMMARY:ПЗ Математический анализ
+UID:0e25caf2753a9094ef6fac93c929d0f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -1686,14 +880,6 @@ LOCATION:5-414В
 DTSTART:20260318T170000Z
 SUMMARY:ПЗ Информационное право
 UID:c8baed10345f22972d2f31f0d845685f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260526T164500Z
-LOCATION:Орш. В-204
-DTSTART:20260526T151500Z
-SUMMARY:ПЗ Математический анализ
-UID:0e25caf2753a9094ef6fac93c929d0f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -1712,55 +898,12 @@ SUMMARY:ЛК Социология
 UID:1927bdd48130f9df29e4a181379ac96c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20250902T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:5e2f1ec2e24a7faadeb2aa0112293952
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260417T183000Z
-LOCATION:Орш. В-514
-DTSTART:20260417T170000Z
-SUMMARY:ПЗ Социология
-UID:efab3bfef1188e243daaa04332dd65be
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Курнаева Екатерина Ивановна
 DTEND:20260312T164500Z
 LOCATION:Орш. В-502
 DTSTART:20260312T151500Z
 SUMMARY:ЛК История России
 UID:6c8026fe7d3cb3a15eeccc2810bdb806
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T164500Z
-LOCATION:Орш. Б-306
-DTSTART:20251028T151500Z
-SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
-UID:e9281f10840cbfc2cb013a907121cae8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251024T151500Z
-SUMMARY:ПЗ Основы российской государственности
-UID:ad09901602876bf209ea8a6615df9b94
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T183000Z
-LOCATION:5-414А
-DTSTART:20250908T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:b15067643cfe18a021303e3d155e25e0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T164500Z
-LOCATION:5-413
-DTSTART:20250903T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:348ab76ce2ed4506ac588a983f9b3d38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ляпин Андрей Сергеевич
@@ -1771,35 +914,12 @@ SUMMARY:ЛК Математический анализ
 UID:2e178681c7d7a9f42a187569ec3c4b32
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20251002T183000Z
-LOCATION:5-425
-DTSTART:20251002T170000Z
-SUMMARY:ЛК Экономическая теория
-UID:46f3a565249fe0b57137da4b98aeaf7f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курнаева Екатерина Ивановна
-DTEND:20260409T164500Z
-LOCATION:Орш. В-502
-DTSTART:20260409T151500Z
-SUMMARY:ПЗ История России
-UID:2a31254776ca7c904e22e6814a6827d1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T183000Z
-LOCATION:5-413
-DTSTART:20251126T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:574d67c6123591d99874a23a1f8f447a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20260316T183000Z
-LOCATION:5-227
-DTSTART:20260316T170000Z
-SUMMARY:ЛК Управление высокотехнологичным производством
-UID:4d1a6461f1af5f4548315ef421a01bc0
+DESCRIPTION:Ляпин Андрей Сергеевич
+DTEND:20260526T183000Z
+LOCATION:Орш. В-204
+DTSTART:20260526T170000Z
+SUMMARY:ПЗ Математический анализ
+UID:c5638391b5921c9f86b2d0caf331fe6a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1810,12 +930,20 @@ SUMMARY:ЛК Управление высокотехнологичным про�
 UID:ccd6c80c0b0aaabc5d48ca996d14a543
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ляпин Андрей Сергеевич
-DTEND:20260526T183000Z
-LOCATION:Орш. В-204
-DTSTART:20260526T170000Z
-SUMMARY:ПЗ Математический анализ
-UID:c5638391b5921c9f86b2d0caf331fe6a
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20260316T183000Z
+LOCATION:5-227
+DTSTART:20260316T170000Z
+SUMMARY:ЛК Управление высокотехнологичным производством
+UID:4d1a6461f1af5f4548315ef421a01bc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курнаева Екатерина Ивановна
+DTEND:20260409T164500Z
+LOCATION:Орш. В-502
+DTSTART:20260409T151500Z
+SUMMARY:ПЗ История России
+UID:2a31254776ca7c904e22e6814a6827d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1826,18 +954,11 @@ SUMMARY:ПЗ Общая физика
 UID:e8b1f4607bda355057612023721bf337
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T164500Z
-LOCATION:Орш. Б-303
-DTSTART:20251031T151500Z
-SUMMARY:ПЗ История России
-UID:388a50c4c8257774688271c8788e1b82
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T164500Z
-LOCATION:5-414А
-DTSTART:20251110T151500Z
-SUMMARY:ЛР Компьютерная графика
-UID:9d3610fef1756f3d2072a42910547ba9
+DTEND:20260407T183000Z
+LOCATION:Орш. В-601
+DTSTART:20260407T170000Z
+SUMMARY:ЛР Общая физика
+UID:faa95d99e28b7cd1883f083d7b12d47a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
@@ -1853,13 +974,6 @@ LOCATION:Орш. В-601
 DTSTART:20260407T151500Z
 SUMMARY:ЛР Общая физика
 UID:b03df257cb464c814b23941ffb6be6cf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260407T183000Z
-LOCATION:Орш. В-601
-DTSTART:20260407T170000Z
-SUMMARY:ЛР Общая физика
-UID:faa95d99e28b7cd1883f083d7b12d47a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1878,25 +992,12 @@ SUMMARY:ЛК Информационные технологии
 UID:583bb576b00f3bb632c9dd5cbb967397
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251215T183000Z
-LOCATION:5-414А
-DTSTART:20251215T170000Z
-SUMMARY:ЛР Информационные технологии
-UID:2b626eeed97db72b58bb54f00ed55633
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T183000Z
-LOCATION:Орш. Б-306
-DTSTART:20250930T170000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:ae1c8791e72bce283f2b3cc96f26ae99
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T164500Z
-LOCATION:5-413
-DTSTART:20251029T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:5fe870adce06c69fd1d549f5017aa36e
+DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
+DTEND:20260220T164500Z
+LOCATION:5-423
+DTSTART:20260220T151500Z
+SUMMARY:ЛК Общественный проект "Обучение служением"
+UID:2a9e4c31295b97f64e5f276d494ad1b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Побережский Сергей Юрьевич
@@ -1907,32 +1008,11 @@ SUMMARY:ЛК Общая физика
 UID:f94c28c33f5d37081971c910d58e79b0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T164500Z
-LOCATION:5-413
-DTSTART:20251001T151500Z
-SUMMARY:ЛК Информационные технологии
-UID:803dfc272a4e0a2823ebe95f04a7d53f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Калачанов Вячеслав Дмитриевич
-DTEND:20260211T183000Z
-LOCATION:5-413
-DTSTART:20260211T170000Z
-SUMMARY:ЛК Информационные технологии
-UID:5b29628296e995ac4a9a0821e9480f02
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T183000Z
+DTEND:20260402T164500Z
 LOCATION:5-414А
-DTSTART:20250915T170000Z
-SUMMARY:ЛК Компьютерная графика
-UID:0abef0160f1f499c6986abada0701aac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T164500Z
-LOCATION:5-414А
-DTSTART:20251027T151500Z
-SUMMARY:ЛР Компьютерная графика
-UID:715d222da5b289d301a5d4d8e8f0ef47
+DTSTART:20260402T151500Z
+SUMMARY:ЛР Информационные технологии
+UID:527eb81b0b11b082e578b4d6dd38e6d3
 END:VEVENT
 END:VCALENDAR

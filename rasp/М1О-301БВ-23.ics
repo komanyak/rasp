@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250911T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20250911T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:5f016fd13a10f5b1cb5d440caefb96a4
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260209T131500Z
+LOCATION:ГАК-307
+DTSTART:20260209T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:463887dd9493badf99c6401e5f1e4788
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20260507T091500Z
+LOCATION:24-310
+DTSTART:20260507T074500Z
+SUMMARY:ЛР Прочность конструкций
+UID:c0ee3575ac5ff2a727bc5c897a9f15b2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T113000Z
+LOCATION:--каф.
+DTSTART:20260328T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:d50ef395d5d1ec93976223fbddd63e79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260319T131500Z
+LOCATION:1-34
+DTSTART:20260319T114500Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:f69a7838c55cccc52f149ebc67727134
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -17,34 +41,64 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:b1e022f2bb8f90b2f5deecf86c54ba1c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:--каф. 919
-DTSTART:20251024T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:5309e755ebc1bf9b94841a55b9e59e9f
+DTEND:20260319T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260319T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:32dc487a6ce0fa5592964bb8832508e4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T091500Z
+DTEND:20260402T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260402T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:4b82d412c2ec310de9099888b876ded5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T131500Z
 LOCATION:--каф.
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:510192998186ac55f4f02c51e183b62e
+DTSTART:20260214T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:c22b6a96550ec03cbd9f09ba408ae1a5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251003T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251003T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:c1d78eff13791663ef4d390d6ae5ee0e
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260417T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260417T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5d97d4f1d72c34d05dedfbf9b294a972
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251120T113000Z
-LOCATION:7-406
-DTSTART:20251120T100000Z
-SUMMARY:ПЗ Строительная механика
-UID:747d21d97cb222b8628cd1c76f008d3c
+DTEND:20260420T113000Z
+LOCATION:ГАК-307
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:15f5d67cc8f89fc39f79b28c11f2e91f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260313T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260313T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:f6a975981b2c7362272018ae225b532f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260525T091500Z
+LOCATION:ГАК-307
+DTSTART:20260525T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:9031a255d363ed6d77b3c8e12ced293e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260219T113000Z
+LOCATION:1-34
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:58c8520c8cf4d9f2413f25825ffb29f1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260307T091500Z
@@ -54,6 +108,73 @@ SUMMARY:ЛК Военная подготовка
 UID:0be2c5062e53415de5a236ce76ca7f29
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260306T113000Z
+LOCATION:--каф. 919
+DTSTART:20260306T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:312341f3654cfa81de50bde5e1840d25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260306T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260306T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5b0d6b283d194dd18c07c588bff4eb7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260305T131500Z
+LOCATION:1-34
+DTSTART:20260305T114500Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:43b9e98cd046d41ce08cb536cbecfb21
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260523T073000Z
+LOCATION:--каф.
+DTSTART:20260523T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:1990a4ba614aaeb2be20938f67d86a39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260518T091500Z
+LOCATION:ГАК-307
+DTSTART:20260518T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:deb47f20159a3b82526944d56a1d0bb7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260305T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:37beb0dfe8028f4f24da293353c0df1e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260320T091500Z
+LOCATION:ГАК-307
+DTSTART:20260320T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:01d173baccd72f5e1ad599967b649d7c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T131500Z
+LOCATION:--каф.
+DTSTART:20260404T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:cf02db809fcc07bd89d6cd868f98019e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T073000Z
+LOCATION:--каф.
+DTSTART:20260214T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:0aacaa05c43c77ce7fb529065d48888a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260228T073000Z
 LOCATION:--каф.
 DTSTART:20260228T060000Z
@@ -61,33 +182,19 @@ SUMMARY:ЛК Военная подготовка
 UID:c52d2c5ec791623e1cef9886356799ba
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T073000Z
-LOCATION:7-406
-DTSTART:20251020T060000Z
-SUMMARY:ПЗ Численные методы
-UID:8d605dc4cfd83a5dc6cfde4abf8c6e0b
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260406T131500Z
+LOCATION:ГАК-307
+DTSTART:20260406T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:a638d4a0e3f263c8f72a7101633e5a18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251121T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251121T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:cb37dde04811a54a7c162db3394388a4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T073000Z
-LOCATION:7-406
-DTSTART:20251124T060000Z
-SUMMARY:ПЗ Численные методы
-UID:abbab82fbe8ca3ee25abe080a954bfeb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T131500Z
-LOCATION:--каф.
-DTSTART:20251206T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4deccb30ffb74edc44ed062069603133
+DTEND:20260403T113000Z
+LOCATION:--каф. 919
+DTSTART:20260403T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:4d6c80ba14d17cdca18a402e89b31669
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
@@ -98,75 +205,118 @@ SUMMARY:ЛР Прочность конструкций
 UID:d6c759f4fe577b9e855de809023de27d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251110T113000Z
-LOCATION:7-416
-DTSTART:20251110T100000Z
-SUMMARY:ЛК Строительная механика
-UID:75badfd2f6778cc37bbcf223230f1a57
+DTEND:20260228T131500Z
+LOCATION:--каф.
+DTSTART:20260228T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:71c387f6b4c9e723a2776db10d9042ea
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251223T091500Z
-LOCATION:3-303
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8519d5164e228341c908fe4a1383da1f
+DTEND:20260328T131500Z
+LOCATION:--каф.
+DTSTART:20260328T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:5f1d2354e3dcc8ead1fdfe2ff529e735
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T150000Z
-LOCATION:4-100
-DTSTART:20251113T133000Z
-SUMMARY:ЛР Аэродинамика
-UID:3ecbdb22a9329b26b3db836f46c6d703
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T091500Z
-LOCATION:3-303
-DTSTART:20251014T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:51d1bef8a9339489f0cbd6875f14433a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T164500Z
-LOCATION:ГУК Б-340
-DTSTART:20251016T151500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:1d483c0b527161ff71255bce89c18d84
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T113000Z
-LOCATION:7-416
-DTSTART:20251216T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:933653d5cea898bd29a2026f95c737ed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T091500Z
-LOCATION:3-303
-DTSTART:20250930T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:eda34b3a73c496e63530d12915b1f9d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T150000Z
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260511T091500Z
 LOCATION:ГАК-307
-DTSTART:20251223T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:9616f3bde60139f449b45d340e294ddd
+DTSTART:20260511T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:0d1f0877b6bd1b5d7070d467eb5345dd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250916T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:479903b7ca8a18e8c8cd8caa899012ce
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260217T131500Z
+LOCATION:ГАК-307
+DTSTART:20260217T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:374cb45ffa8e7597b1ac27418ea4e1f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20251023T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:332ecac7b7140546bacd622530e59b91
+DTEND:20260528T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260528T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:d29e41f54324b8c924d84f21988f2fdb
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260518T113000Z
+LOCATION:ГАК-307
+DTSTART:20260518T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:852cac2812cdb15fe1f9b270c8c1604d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260226T073000Z
+LOCATION:5-122
+DTSTART:20260226T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7e3de26540d8801ece946f52d936b1b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260227T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260227T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a0d6a88cf8c748f2d9097b38ce33fe90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260312T073000Z
+LOCATION:5-122
+DTSTART:20260312T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:fcf969b6efd40e046c3b750a5e99621b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260319T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:66bf93aaa523201be852147287bdcdc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260403T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260403T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:916d11d59bd9fab15ca41f3b2fc27621
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260507T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260507T114500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:e6d9db99d8de70a95b56d4a668776010
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T091500Z
+LOCATION:--каф.
+DTSTART:20260228T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:fb9a489ffdcecd107740b4bea6202006
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260331T091500Z
+LOCATION:5-002
+DTSTART:20260331T074500Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:73818e91ae99b476debca6eb8bd6f511
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260210T113000Z
+LOCATION:ГАК-307
+DTSTART:20260210T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:232fcfed7cf1b016792b10f2bac73f8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Будков Александр Сергеевич
@@ -198,2413 +348,11 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:11e5af3779c2ab049d5b1f12163c71f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251129T091500Z
-LOCATION:--каф.
-DTSTART:20251129T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a8e864eb89ce55bdbff151e60f5fc697
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260312T091500Z
-LOCATION:5-122
-DTSTART:20260312T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:cf66c0409aafa5e99466ba734f83a823
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Будков Александр Сергеевич
-DTEND:20260226T113000Z
-LOCATION:24-525
-DTSTART:20260226T100000Z
-SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
-UID:17a1a09ebd08f530fbb04899ee9b5121
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:--каф. 919
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:139e80a7d41396567a483f5e2352ede2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260413T091500Z
-LOCATION:7-401
-DTSTART:20260413T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:6953f730dcfb66f5b7ed434fb5523ecb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T091500Z
-LOCATION:--каф.
-DTSTART:20251213T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1af75d266cf572fe13fb34563db6eeb5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251030T113000Z
-LOCATION:1-34
-DTSTART:20251030T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:88b679f7231ab4b30dbb1e7f184b9039
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251128T074500Z
-SUMMARY:ЛК Гидравлика
-UID:2149152b5aaee2d2bb92b56d8b51cc2e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T073000Z
-LOCATION:--каф.
-DTSTART:20260418T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:e5aa461b7c2f000417c963118bea0abf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T150000Z
-LOCATION:ГАК-307
-DTSTART:20251118T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:20e1e6e807c0d4e66c44c80c3510a05b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260326T073000Z
-LOCATION:5-122
-DTSTART:20260326T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:ed40f3e5ffea125c1e9af60ae88bb006
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белашова Ирина Станиславовна
-DTEND:20260112T073000Z
-LOCATION:ГУК Б-338
-DTSTART:20260112T060000Z
-SUMMARY:Экзамен Технология конструкционных материалов
-UID:3adbdca42a831044b2b72c95649b282f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260324T113000Z
-LOCATION:ГАК-307
-DTSTART:20260324T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:6ab4e6d09f7e68d7d12dd5467c9024db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260427T091500Z
-LOCATION:7-401
-DTSTART:20260427T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:7fbd0fe7c183e4f22525cf10f8f0844d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Будков Александр Сергеевич
-DTEND:20260312T113000Z
-LOCATION:24-525
-DTSTART:20260312T100000Z
-SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
-UID:b89e93d0cb2ea0f7fc2b7c91d24db159
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260330T091500Z
-LOCATION:7-401
-DTSTART:20260330T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:69c5d3b8309c384bc78eafa23b94caa8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260310T131500Z
-LOCATION:ГАК-307
-DTSTART:20260310T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:2b4e4308e84e30a19ca60c408f4e9a35
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T073000Z
-LOCATION:--каф. 919
-DTSTART:20260525T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:96948bc77234b39bb79a3d37a750b2eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260212T091500Z
-LOCATION:5-122
-DTSTART:20260212T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:4c6f06947bf638750b6bd3692c2b376a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251120T164500Z
-LOCATION:7-411
-DTSTART:20251120T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:54dfdf7cb5fa184b4e61fe7a3011e53d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T150000Z
-LOCATION:ГАК-307
-DTSTART:20251216T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:c922d6947e5817de89c3be4915875e8b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260605T113000Z
-LOCATION:--каф. 919
-DTSTART:20260605T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:c84fb6549dbf599b6b1cf055ee9e557c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260404T091500Z
-LOCATION:--каф.
-DTSTART:20260404T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:81d5418618c1505940f2a99b0580a15b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Будков Александр Сергеевич
-DTEND:20260409T113000Z
-LOCATION:24-525
-DTSTART:20260409T100000Z
-SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
-UID:6cdad63e5d38dfe05c56d22bce39a6fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T150000Z
-LOCATION:ГАК-307
-DTSTART:20251111T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:171f6cca69f0b6ff25bd3bb58972f08d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251106T113000Z
-LOCATION:7-406
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Строительная механика
-UID:2cbe25fc0219cd715266866ba7688ef0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T131500Z
-LOCATION:7-416
-DTSTART:20251124T114500Z
-SUMMARY:ЛК Численные методы
-UID:321eca32230abb521d8f8cdac1bf5242
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T091500Z
-LOCATION:--каф.
-DTSTART:20260418T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:f5af361bf61ff194cff618f081457bf7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Гидравлика
-UID:e60841cc4f534d5da6c3ecf48a47b560
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260430T113000Z
-LOCATION:4-100
-DTSTART:20260430T100000Z
-SUMMARY:ЛР Аэродинамика самолета
-UID:039c205086a221f2f184a97a274b5fac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T091500Z
-LOCATION:1-9
-DTSTART:20250908T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:7d89a57cf7d2780adcbdedae2e2be9d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250922T113000Z
-LOCATION:7-416
-DTSTART:20250922T100000Z
-SUMMARY:ЛК Строительная механика
-UID:2d65edf726c2720eb4081f7d605cb112
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260516T131500Z
-LOCATION:--каф.
-DTSTART:20260516T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:446832dee8312e9c25f39be70c15ac10
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:7-401
-DTSTART:20250905T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:e77eb4efd4865cc1c9029479176f7648
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251106T150000Z
-LOCATION:7-411
-DTSTART:20251106T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:bad70e829850e57a71c9cae0d610a6f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260514T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260514T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:3fa1363a6e37fb891c08fd4832dd1279
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251125T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:2317324d1b437c43483dd8a48dff20f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T131500Z
-LOCATION:7-416
-DTSTART:20251013T114500Z
-SUMMARY:ЛК Численные методы
-UID:bc7c5f87aeac038d6bb6d340e4ddd8f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T131500Z
-LOCATION:--каф.
-DTSTART:20260425T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:2bb166226ac1b449f67155abcedc8da8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260417T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260417T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:7475205d0d579a4e566b76bece71e2ee
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260410T113000Z
-LOCATION:--каф. 919
-DTSTART:20260410T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:84a534b0dcb3f347f5066e67e00a6b95
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20260124T073000Z
-LOCATION:24-502
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Строительная механика
-UID:f9b3ff50f6552895a6013dfd190bddae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260514T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260514T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:9a2e6b3ffb363da1970b33e42c732063
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260404T073000Z
-LOCATION:--каф.
-DTSTART:20260404T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:98e6f9c04c8bb0b8e5cf9c11c2ba8a22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20250919T131500Z
-LOCATION:ГУК А-402
-DTSTART:20250919T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:1c3a2377c4e431d13eb1eb8e7703a014
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T150000Z
-LOCATION:ГАК-307
-DTSTART:20251021T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:c4b4a3fa03a2fb45e86730bb66714bd4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T073000Z
-LOCATION:--каф.
-DTSTART:20250927T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3f5cec91bd4997ecc948bc961464584a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260220T113000Z
-LOCATION:--каф. 919
-DTSTART:20260220T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:494a2b7a0275cc200a97f8762cd2bd04
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T113000Z
-LOCATION:7-401
-DTSTART:20250926T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:361ebbf4924720a7b8312135ff26ed3a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260209T113000Z
-LOCATION:ГАК-307
-DTSTART:20260209T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:f3228d87c087e7ddd547cc8e069d8228
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260321T113000Z
-LOCATION:--каф.
-DTSTART:20260321T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:81f7d1c0e8ef4a05eaca135697e7e31f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260302T113000Z
-LOCATION:ГАК-307
-DTSTART:20260302T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:e576cedec1661f5e6a13385b551520f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260507T113000Z
-LOCATION:1-10  1 этаж
-DTSTART:20260507T100000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:271de3ed5b5c9858abf38d9854a6837b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251202T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:5549d3b690c53d673968e820268dad23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T091500Z
-LOCATION:1-9
-DTSTART:20251117T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:9c7ebc71b37550732050e1053e7ca325
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:--каф. 919
-DTSTART:20251212T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:9f6cef61386f0d89b1dbe346829106da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T150000Z
-LOCATION:--каф. 919
-DTSTART:20251215T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:a1711fb08499269730ff3a28930a15db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260321T091500Z
-LOCATION:--каф.
-DTSTART:20260321T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:4e25325442ba7bf2a54d2cea21e869b9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T091500Z
-LOCATION:1-9
-DTSTART:20251027T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:40d078a71092f7d655012d6b97e6c4d0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T113000Z
-LOCATION:--каф.
-DTSTART:20260418T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:bc653ad854ee7da66001ace87634ba37
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251218T113000Z
-LOCATION:7-406
-DTSTART:20251218T100000Z
-SUMMARY:ПЗ Строительная механика
-UID:80fb303abf8b9029eec440e22d83f311
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260227T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260227T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:29b076e89bb666f0fe26fde069e87f38
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250901T150000Z
-LOCATION:--каф. 919
-DTSTART:20250901T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:1529a7034d952194b2ae373e3f5f3b82
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260307T113000Z
-LOCATION:--каф.
-DTSTART:20260307T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:c372d4b33d85f86453e5534a373c5718
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251219T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251219T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:bbd36212a71c863742ef5d62d04ebfae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260428T113000Z
-LOCATION:ГАК-307
-DTSTART:20260428T100000Z
-SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
-UID:04ce57fdf27aa2058a7182b698528013
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260522T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260522T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c160e70967a60756964760fb7a4808dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T073000Z
-LOCATION:--каф. 919
-DTSTART:20260427T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:39c7b234c936fd39140cd7a16ac484dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:--каф. 919
-DTSTART:20251205T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:416339a7e7ab010f2f2aeb36c4121c37
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251212T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251212T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:dc23410287141daad66e474abcb6f0ed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T073000Z
-LOCATION:--каф. 919
-DTSTART:20260504T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:8fe044a074c890da8d57e724d61b83ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251125T073000Z
-LOCATION:3-435
-DTSTART:20251125T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:f8731e91b3f442ecaf551c90a777ae87
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T073000Z
-LOCATION:--каф. 919
-DTSTART:20260511T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:197f089e3d0646dadcaf7ff37983793c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251016T113000Z
-LOCATION:1-34
-DTSTART:20251016T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:a53c91000315aa836d72e97e2209bcaf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260220T091500Z
-LOCATION:ГАК-307
-DTSTART:20260220T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f7b3f7bfe0aff9c01637f95c5ba84f35
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T091500Z
-LOCATION:1-9
-DTSTART:20250915T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:1e0be6556c379b48bb226ad8c1becfa1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T150000Z
-LOCATION:4-100
-DTSTART:20251225T133000Z
-SUMMARY:ЛР Аэродинамика
-UID:9dffb14921b63bd0d3f8dd29dee1ae38
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T113000Z
-LOCATION:--каф.
-DTSTART:20260425T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:3ccf8a1713f8a24fd4553482816fcd65
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251103T131500Z
-LOCATION:7-416
-DTSTART:20251103T114500Z
-SUMMARY:ЛК Строительная механика
-UID:a4aec9ea79754d7688eae9c7bc1c7981
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:--каф. 919
-DTSTART:20251114T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:022d3c6c61b85abdd1ac5bc3a3980998
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251205T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251205T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:997783dee0a4c75a667269f6fd059a29
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260606T073000Z
-LOCATION:--каф.
-DTSTART:20260606T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:aa2bde03d8efb55b88e01cfd6168d451
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20251009T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:337d3de634d8314937965dde00eae309
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260410T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260410T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d2ed2f510793f260d4f6d5644e8211a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260511T091500Z
-LOCATION:7-401
-DTSTART:20260511T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:bfddeeff4de99208a71203202b98a214
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260606T113000Z
-LOCATION:--каф.
-DTSTART:20260606T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:da29ba532d95e48aed3cafb19c3e7a6d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251219T074500Z
-SUMMARY:ЛК Гидравлика
-UID:7b4af3c385fa9d0bc3432fb7f20612aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260414T073000Z
-LOCATION:5-002
-DTSTART:20260414T060000Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:4e8c36ba8de3cdf06154fd2e348867e5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251120T131500Z
-LOCATION:7-406
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Строительная механика
-UID:a28a0b666067b5d774062344dcc7f6ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260302T131500Z
-LOCATION:ГАК-307
-DTSTART:20260302T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:9e461bbe7ba0703196520327cd83b64b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T113000Z
-LOCATION:ГАК-307
-DTSTART:20260330T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:19144684069089452d84b4ef6ff48c08
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251006T131500Z
-LOCATION:7-416
-DTSTART:20251006T114500Z
-SUMMARY:ЛК Строительная механика
-UID:a240faa183bab8e18b98569b54f07f70
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260502T091500Z
-LOCATION:--каф.
-DTSTART:20260502T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:15c791a6ad4fff1421f777b0fdb1f13c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T150000Z
-LOCATION:ГАК-307
-DTSTART:20250916T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:9a3601f9310e91f8b05da5f57cc17104
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260526T131500Z
-LOCATION:ГАК-307
-DTSTART:20260526T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:fb8f8650102c82ba1d6def56095661d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T073000Z
-LOCATION:7-406
-DTSTART:20250915T060000Z
-SUMMARY:ПЗ Численные методы
-UID:439f2e047c66d5b003ba476f14b2bc90
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T164500Z
-LOCATION:ГУК Б-340
-DTSTART:20250918T151500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:586d12da4c437bff5c26d74f16e3d06f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T073000Z
-LOCATION:7-406
-DTSTART:20251201T060000Z
-SUMMARY:ПЗ Численные методы
-UID:cbe3bc76d52c483a448b29b28622abea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260331T073000Z
-LOCATION:5-002
-DTSTART:20260331T060000Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:a1665eec3f1273cb627f396c61e520e2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250908T131500Z
-LOCATION:7-416
-DTSTART:20250908T114500Z
-SUMMARY:ЛК Строительная механика
-UID:93a50d60181b407c2e7f91c9f09e88f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T150000Z
-LOCATION:ГУК Б-340
-DTSTART:20250918T133000Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:9cc0273f289e583833bf671102680cdd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260209T091500Z
-LOCATION:7-401
-DTSTART:20260209T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:1064f922aaeeca82ec489a43098187dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Будков Александр Сергеевич
-DTEND:20260312T131500Z
-LOCATION:24-525
-DTSTART:20260312T114500Z
-SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
-UID:6401bfff89f9c0cab3716171cbe7473c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251021T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:95597e66b16c9761189f6e452aebf81d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T131500Z
-LOCATION:--каф.
-DTSTART:20251101T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f48c78a060813e94fc1e1bd6e8d14cd2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251121T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251121T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ef586b0f0fbeac8e2922e554bea58769
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T073000Z
-LOCATION:--каф. 919
-DTSTART:20260330T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7d09e35e7a57062af95bb94918486580
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T113000Z
-LOCATION:7-416
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:d1ff57b6557aad80ad15e0f4d5f92418
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260424T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260424T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:b52bd594ae8031681c2907eea7b11ad7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T091500Z
-LOCATION:--каф.
-DTSTART:20260425T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:22742ccdca83a1cde4d60c5072cdeedd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T131500Z
-LOCATION:--каф.
-DTSTART:20251025T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2841e92b71f1032f89acebd46c98c57e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T091500Z
-LOCATION:1-9
-DTSTART:20251013T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:7f3a96165893f41eba582df5bafc556c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260328T073000Z
-LOCATION:--каф.
-DTSTART:20260328T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:6244a356f28f9eb9b8393c75be488ece
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260505T131500Z
-LOCATION:ГАК-307
-DTSTART:20260505T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:81cbb0dbce471d118067bf27d2364d8c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260219T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:e2bb4a52fa5b84d7f08cff591132857f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251028T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:cb599dab5ee357212540366698e57c32
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260417T113000Z
-LOCATION:--каф. 919
-DTSTART:20260417T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:094fb89ca27e1426c6829e3c3f553055
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T150000Z
-LOCATION:ГАК-307
-DTSTART:20250930T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:e3f7a1e765473046748a24c02c05a5d2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T150000Z
-LOCATION:--каф. 919
-DTSTART:20251222T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4046f505edfa4be1c9d6f9f75e0be4bf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T113000Z
-LOCATION:ГАК-307
-DTSTART:20260216T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:b1358dbf043883b4b3a1c071a0c1d97d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251204T131500Z
-LOCATION:7-406
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Строительная механика
-UID:a3cdf120fde05d3d26ebe7e78517e609
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T091500Z
-LOCATION:1-9
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:664a29021d05266d8364c45625f6932d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251009T150000Z
-LOCATION:7-411
-DTSTART:20251009T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:a5a4af1347a388aa84a287e658b8d67b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260604T131500Z
-LOCATION:1-10  1 этаж
-DTSTART:20260604T114500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:b234cd4dd5b80dfa1a305e2ff7f3b708
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260428T073000Z
-LOCATION:5-002
-DTSTART:20260428T060000Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:0610f95cd3c591e686ccdf8b4610ecf0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Гидравлика
-UID:a3c4f4efd3f7e75228b2ab7275e96623
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260508T091500Z
-LOCATION:ГАК-307
-DTSTART:20260508T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:fec9cff08c6e175c20454c08e3828fa3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251229T150000Z
-LOCATION:--каф. 919
-DTSTART:20251229T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:d1140d6a6fc979c4e95bf079e6c2d097
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T091500Z
-LOCATION:--каф.
-DTSTART:20250913T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:be7d1a92d8e9cd7bca6ce8e7707f143b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T073000Z
-LOCATION:--каф.
-DTSTART:20250913T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d6efb11fd039112a01dd8ab25fc53aa5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260413T073000Z
-LOCATION:--каф. 919
-DTSTART:20260413T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:2b442a38dd171a3ae840182a440b297a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20250909T091500Z
-LOCATION:7-416
-DTSTART:20250909T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:78ea7bcd329b405b3934b99f40548c17
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250923T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:e66b95dcc8b771c20c1864a0c505f5e6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260303T073000Z
-LOCATION:5-002
-DTSTART:20260303T060000Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:4cd5f2b0c63bae0c13833ab489c94d5b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260209T131500Z
-LOCATION:ГАК-307
-DTSTART:20260209T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:463887dd9493badf99c6401e5f1e4788
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251020T131500Z
-LOCATION:7-416
-DTSTART:20251020T114500Z
-SUMMARY:ЛК Строительная механика
-UID:2d0f1dfd80ff2f53100c0785b9f774a9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260319T131500Z
-LOCATION:1-34
-DTSTART:20260319T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:f69a7838c55cccc52f149ebc67727134
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251201T113000Z
-LOCATION:7-416
-DTSTART:20251201T100000Z
-SUMMARY:ЛК Строительная механика
-UID:f0d72a90b289fcafb76e56bbdcce973a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260319T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260319T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:32dc487a6ce0fa5592964bb8832508e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:--каф.
-DTSTART:20251220T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:79c9025ec3b68b9f6b6997166eecbb5d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260504T091500Z
-LOCATION:7-401
-DTSTART:20260504T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:c4a8cc443d7a1c0ad05b495c9e9e0d6d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T113000Z
-LOCATION:ГАК-307
-DTSTART:20260420T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:15f5d67cc8f89fc39f79b28c11f2e91f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T164500Z
-LOCATION:4-100
-DTSTART:20251127T151500Z
-SUMMARY:ЛР Аэродинамика
-UID:adbefbcde324c55f8e86c60163988df2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260219T113000Z
-LOCATION:1-34
-DTSTART:20260219T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:58c8520c8cf4d9f2413f25825ffb29f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251205T074500Z
-SUMMARY:ЛК Гидравлика
-UID:6a19829cab36df90a80f1e34f6b28204
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260306T113000Z
-LOCATION:--каф. 919
-DTSTART:20260306T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:312341f3654cfa81de50bde5e1840d25
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T150000Z
-LOCATION:--каф. 919
-DTSTART:20251124T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:f5035b1f42870683e4a220d98e79083b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T091500Z
-LOCATION:1-9
-DTSTART:20250929T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:684d5ad9a863da33ef81d8afd7efd44e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T113000Z
-LOCATION:7-416
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:9e857d93fb24bfd4a100ca3237bc9372
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251021T073000Z
-LOCATION:3-435
-DTSTART:20251021T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:1e9ff9e0d4bb8be8d93406014cbf1bab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251003T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251003T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8a0ba2e779df71dea8d33bed887a2c1d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260601T091500Z
-LOCATION:7-401
-DTSTART:20260601T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:1c86819d9d217a8878e59487ceb21bf6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T073000Z
-LOCATION:7-406
-DTSTART:20250908T060000Z
-SUMMARY:ПЗ Численные методы
-UID:a35e7b8399804245e2dd4ca0f48dc179
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250901T131500Z
-LOCATION:7-416
-DTSTART:20250901T114500Z
-SUMMARY:ЛК Численные методы
-UID:fe3b2d8125609ab97f0aef8fb597e103
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T150000Z
-LOCATION:--каф. 919
-DTSTART:20250929T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:f7955a2b93dba0c4e26146a351c8cece
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251007T091500Z
-LOCATION:7-416
-DTSTART:20251007T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:aa19f1f0814b2e625cb2904bc6df3c76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251024T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251024T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:97e3e7719e4b1cfe6908df34e65bf5e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260217T131500Z
-LOCATION:ГАК-307
-DTSTART:20260217T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:374cb45ffa8e7597b1ac27418ea4e1f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260528T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:d29e41f54324b8c924d84f21988f2fdb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260226T073000Z
-LOCATION:5-122
-DTSTART:20260226T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:7e3de26540d8801ece946f52d936b1b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260312T073000Z
-LOCATION:5-122
-DTSTART:20260312T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:fcf969b6efd40e046c3b750a5e99621b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T164500Z
-LOCATION:4-100
-DTSTART:20251113T151500Z
-SUMMARY:ЛР Аэродинамика
-UID:6f1ac687c777a861be0974eea5fcfdff
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T113000Z
-LOCATION:--каф. 919
-DTSTART:20251017T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:9a5b5d6a5ee226395abead54ecff3913
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T113000Z
-LOCATION:7-416
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:59070fed34a1697bf7ca8b1894750207
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251226T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251226T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8498ef3b8d06a19587b0cd7baa886e84
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260518T073000Z
 LOCATION:--каф. 919
 DTSTART:20260518T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:35fda1a012a08060853481227ef2b5d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260530T073000Z
-LOCATION:--каф.
-DTSTART:20260530T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:3f2d879618baf8b9eeeb325947bc9ab6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20250926T131500Z
-LOCATION:ГУК А-402
-DTSTART:20250926T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:9dc863d071f48edd2af964dc409c9769
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T113000Z
-LOCATION:7-416
-DTSTART:20251209T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:3a5f2093b7d9d975dbe7e34afafe201a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T073000Z
-LOCATION:--каф.
-DTSTART:20250920T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ba05cbabcf19b801958adeb97c75207a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260606T091500Z
-LOCATION:--каф.
-DTSTART:20260606T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:9650495e74ab617f74c68a9fb2cf40a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:--каф. 919
-DTSTART:20251121T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:526be6944c5f2d35f173c541a61aadd1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T091500Z
-LOCATION:2-201(2А)
-DTSTART:20250926T074500Z
-SUMMARY:ЛК Гидравлика
-UID:e34de41656b71eab918f07b238a497f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251020T113000Z
-LOCATION:7-416
-DTSTART:20251020T100000Z
-SUMMARY:ЛК Строительная механика
-UID:31f649bda210b5eff6d269978cc8acc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260413T131500Z
-LOCATION:ГАК-307
-DTSTART:20260413T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:dd49d8e95d2b0d4efc19e6045f02748f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260602T113000Z
-LOCATION:ГАК-307
-DTSTART:20260602T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:cef76f82db6a5a8a7d5aef9212a0ee5c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T073000Z
-LOCATION:--каф.
-DTSTART:20251011T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a0a124ed317d9025ec69c1dbb29cdc70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260414T091500Z
-LOCATION:5-002
-DTSTART:20260414T074500Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:b62afbd7884f7f22150cbef5fbf99a65
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260602T131500Z
-LOCATION:ГАК-307
-DTSTART:20260602T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:abe7021e843c7db0d192a580a1dd751f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260314T073000Z
-LOCATION:--каф.
-DTSTART:20260314T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:8224e961734c21d640d1cae86deed5c7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260411T091500Z
-LOCATION:--каф.
-DTSTART:20260411T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:043164f2b76e86678c7803785c3fa7d1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T091500Z
-LOCATION:1-9
-DTSTART:20251201T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:8a0e553760419ca49a5ddde0f394ede8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251021T091500Z
-LOCATION:7-416
-DTSTART:20251021T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:299a7170444eb78a285d6a790d8ae66f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T073000Z
-LOCATION:--каф.
-DTSTART:20251122T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a0c41cfce358b67c5e763d1826208761
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T113000Z
-LOCATION:--каф.
-DTSTART:20260221T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:6ea33dca0bbdbbf7a6c521ca77a2608c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260430T131500Z
-LOCATION:4-100
-DTSTART:20260430T114500Z
-SUMMARY:ЛР Аэродинамика самолета
-UID:6658dabd7db17c97ca991e332d32032e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251215T091500Z
-LOCATION:1-9
-DTSTART:20251215T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:0925e181fa57d5f6549e63515dae626d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251118T073000Z
-LOCATION:3-435
-DTSTART:20251118T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d9ed5a52a0a509c6ac953b47f6968ed3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260414T131500Z
-LOCATION:ГАК-307
-DTSTART:20260414T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:75149ab8e4a74e98ea7adb2b75ec6cac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251118T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:6fe61cf5e34973202bc9bfe4ad9fb4ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260324T131500Z
-LOCATION:ГАК-307
-DTSTART:20260324T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:c10a2b9aab2e26d47dd28ebe7b41d8c2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T091500Z
-LOCATION:3-303
-DTSTART:20250916T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:bccbb521f42f1d24829c6f83176e060e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T113000Z
-LOCATION:--каф.
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:eedae03be1df00611604c58eb584cfc8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Гидравлика
-UID:0ebe9c8e1dec8003929a18c88762a029
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251106T131500Z
-LOCATION:7-406
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Строительная механика
-UID:7c3d2be64062e1f127f136a9707a2a46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260427T131500Z
-LOCATION:ГАК-307
-DTSTART:20260427T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:290ee405b642e8c6873b1df6cea10fc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20250912T131500Z
-LOCATION:ГУК А-402
-DTSTART:20250912T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:c3bdb1fcc69947d01b5bb2da6675e80e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260402T113000Z
-LOCATION:1-34
-DTSTART:20260402T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:19bd1734f664800050eb9a0ca45705ce
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T113000Z
-LOCATION:7-416
-DTSTART:20251202T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:2aa322c33c7e19b2665c9c8250aad1a0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260528T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:0223ee7f3a92b3013a36794057dfa2af
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20250905T131500Z
-LOCATION:ГУК А-402
-DTSTART:20250905T114500Z
-SUMMARY:ПЗ Иностранный язык
-UID:2d4bcd6859d2d8590586c8629c35611f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T113000Z
-LOCATION:7-401
-DTSTART:20250919T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:fa5976413ea85c353bd2982209693dac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251009T164500Z
-LOCATION:7-411
-DTSTART:20251009T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:2738d5e9da52aafcee3a3043b12a0be4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T073000Z
-LOCATION:--каф.
-DTSTART:20251025T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2452ed49d37f8d90ef22dab15a21f60d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:--каф.
-DTSTART:20251004T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c96b9afed10ff35f4e267d4b4cd71ff7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T150000Z
-LOCATION:--каф. 919
-DTSTART:20251013T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:249a646805f983452697ad7345766218
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T073000Z
-LOCATION:--каф.
-DTSTART:20251220T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ca0a9c76dfc6a4192b64e107fad2bb74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260327T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260327T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:86731e1558e77aa58f0147311bcf938b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260305T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260305T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:4c4d506c3a9c8cb9eda84a022bdf131f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20250925T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:45e2a7286166df37b1bf5bc8cb751680
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20260120T131500Z
-LOCATION:ГУК Б-650
-DTSTART:20260120T114500Z
-SUMMARY:Экзамен Детали машин и основы конструирования
-UID:1a57d77d0ddbeaf05866c6d079f22d86
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T113000Z
-LOCATION:7-416
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:c8a6723b42351815829b687ca70fd1f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251223T073000Z
-LOCATION:3-435
-DTSTART:20251223T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:ae7cef037040b6b0021d55faecc57e3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260313T113000Z
-LOCATION:--каф. 919
-DTSTART:20260313T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:e858c7f9def1a6553789d5aaa6d5a2a1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260421T113000Z
-LOCATION:ГАК-307
-DTSTART:20260421T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:b9763e315a5bf65d616aa25eaf54c738
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260302T073000Z
-LOCATION:--каф. 919
-DTSTART:20260302T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:3bad1761eaaf6a1eb72ff479eb325a6e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20250930T073000Z
-LOCATION:3-435
-DTSTART:20250930T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:1c0d8badee1a0802afa9b8f9ff908473
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251017T074500Z
-SUMMARY:ЛК Гидравлика
-UID:d2d4a039022187a53452238c352930bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T113000Z
-LOCATION:--каф.
-DTSTART:20250906T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f79dcbc90574649f8d52c04c55707de3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251103T091500Z
-LOCATION:1-9
-DTSTART:20251103T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:ce176ce8d4302a33d8e49ae3fa6bf07c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T073000Z
-LOCATION:7-406
-DTSTART:20251027T060000Z
-SUMMARY:ПЗ Численные методы
-UID:97465b7f472ab09b29d3e1d53fcc39b6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T131500Z
-LOCATION:--каф.
-DTSTART:20260221T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:c233e911b24368e32769bd82a920bba0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260522T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260522T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:d38ffb11c1a45f88bf867de29d31882b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T131500Z
-LOCATION:--каф.
-DTSTART:20251227T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:079a9f013d2122f3fb4adb65363c9976
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251010T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251010T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:3a246114f6c89a889cce8d3922c8b4bf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260406T091500Z
-LOCATION:7-401
-DTSTART:20260406T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:b33de22da9ddc3e5f3e94bf8330383f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шелков Кирилл Андреевич
-DTEND:20260507T073000Z
-LOCATION:24-310
-DTSTART:20260507T060000Z
-SUMMARY:ЛР Прочность конструкций
-UID:84574fdfebb24db7aa376965ecd067f2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:--каф.
-DTSTART:20251025T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4cc39d5415843ef368c4d4e3fe0474fd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T113000Z
-LOCATION:7-416
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:bb9e1df1b483cdaf63ce691f4e77d145
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T113000Z
-LOCATION:7-416
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:de01c02ad3b97f917e375bb499e5d8c7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белашова Ирина Станиславовна
-DTEND:20260112T091500Z
-LOCATION:ГУК Б-338
-DTSTART:20260112T074500Z
-SUMMARY:Экзамен Технология конструкционных материалов
-UID:182a0cea82c76d198fc91796def1b12f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T113000Z
-LOCATION:--каф.
-DTSTART:20251129T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6ab6f1b115d2bdb6c7fcd270e0de4377
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T131500Z
-LOCATION:7-416
-DTSTART:20251208T114500Z
-SUMMARY:ЛК Численные методы
-UID:ab2829222ecac3a2b27aaae7dc7dfead
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T091500Z
-LOCATION:1-9
-DTSTART:20250922T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:b0e4a2d8ee664f4bc6f718cc3fad9493
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T091500Z
-LOCATION:--каф.
-DTSTART:20250906T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5875ea8dbc6cc2036aaab22d1a0bf752
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T113000Z
-LOCATION:--каф.
-DTSTART:20251213T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:47bbda22e230f1d6e3bc5ff6fa8c0214
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260523T091500Z
-LOCATION:--каф.
-DTSTART:20260523T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:f50ee0bdcafc05e53c25308fa7956196
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251016T131500Z
-LOCATION:1-34
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:2e0d13c1f3312eee08aca537becf6be1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260502T131500Z
-LOCATION:--каф.
-DTSTART:20260502T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:0c8d3d1a4f9a1a23bfdc8c910ef0b0eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260529T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260529T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:f2f80bdd1f3e4afff40f3b11adf29821
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T091500Z
-LOCATION:--каф.
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0caeda0531de2a39152152b5ae0ef135
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T091500Z
-LOCATION:--каф.
-DTSTART:20251227T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:292c544aa45fb137b4966ce7d903692f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251002T131500Z
-LOCATION:1-34
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:5f50de1bbddb963b419442ddc05938cd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T113000Z
-LOCATION:--каф.
-DTSTART:20251227T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:28d081add26214d2c96ec6b8c0a95251
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251204T113000Z
-LOCATION:7-406
-DTSTART:20251204T100000Z
-SUMMARY:ПЗ Строительная механика
-UID:c33ea5bc2330ffdf5d02cdcf109ae834
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260507T131500Z
-LOCATION:1-10  1 этаж
-DTSTART:20260507T114500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:7b0566030a71cdab1fa112529d5b3c41
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260216T131500Z
-LOCATION:ГАК-307
-DTSTART:20260216T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:e59a76e8994b5b192f28325493c78475
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T150000Z
-LOCATION:ГУК Б-340
-DTSTART:20251016T133000Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:665a2040f9a6e0eb4d7c70cb1fe51294
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251114T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251114T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c78627dc8ccb0ac0d36fb335444e8883
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260508T113000Z
-LOCATION:--каф. 919
-DTSTART:20260508T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:52dce22bba0cb630fa66cfe60eb97fec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T073000Z
-LOCATION:7-406
-DTSTART:20251006T060000Z
-SUMMARY:ПЗ Численные методы
-UID:48fbbb4b371b2bb54bf46f57814361b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260525T091500Z
-LOCATION:7-401
-DTSTART:20260525T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:d5ceed62420404542fd2c06f6e9cf5dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251124T113000Z
-LOCATION:7-416
-DTSTART:20251124T100000Z
-SUMMARY:ЛК Строительная механика
-UID:b629487e745afe234fd90a0b5b88fa1b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251007T073000Z
-LOCATION:3-435
-DTSTART:20251007T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:f5d1416b0d50b92bb8a9ccb9c96ec269
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T131500Z
-LOCATION:1-23
-DTSTART:20251211T114500Z
-SUMMARY:ЛР Гидравлика
-UID:7f5fa6a63e8394408ed487e232ce8eb2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20250925T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:a9d3c4ed796d8d526358f05715b16360
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T091500Z
-LOCATION:--каф.
-DTSTART:20250927T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5f1814e96a5b1a03ef092260eb18ec6b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260228T113000Z
-LOCATION:--каф.
-DTSTART:20260228T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:7edf19d94b45d6554a4bf849cf4cc6a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T150000Z
-LOCATION:--каф. 919
-DTSTART:20250915T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:3432e3635d0e7c45732c08e65ddf86f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260216T091500Z
-LOCATION:7-401
-DTSTART:20260216T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:eb4c1c5478fd4fe89bbb01cf5c42704c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260407T113000Z
-LOCATION:ГАК-307
-DTSTART:20260407T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:a4e3c38fe0487466d491111d2864b12f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260601T113000Z
-LOCATION:ГАК-307
-DTSTART:20260601T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:0325c7e30764b97c91d967e608e0718f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250915T113000Z
-LOCATION:7-416
-DTSTART:20250915T100000Z
-SUMMARY:ЛК Строительная механика
-UID:23340284c4f12454da23590218fbdbae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T073000Z
-LOCATION:--каф.
-DTSTART:20260425T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:5ee537c9a24b46acee28b131024e7187
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260519T113000Z
-LOCATION:ГАК-307
-DTSTART:20260519T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:ef6df5353b4d32cf3e18e301b52d5197
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T073000Z
-LOCATION:--каф.
-DTSTART:20251206T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ada0f265ab6fb98230db508f04e299e0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T073000Z
-LOCATION:7-406
-DTSTART:20251117T060000Z
-SUMMARY:ПЗ Численные методы
-UID:2df977bcd0d552f0692298a45e276c71
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260302T091500Z
-LOCATION:7-401
-DTSTART:20260302T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:56b7f64d03bc9c1916e677822b7645e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T073000Z
-LOCATION:7-406
-DTSTART:20250929T060000Z
-SUMMARY:ПЗ Численные методы
-UID:3715b7eee462a196d587feaf14a7b446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260220T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260220T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9190031d86e9a2338ac47613f5dfdea4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260327T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260327T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4a829602b33f2a1c0c4a2f0ee175417f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шелков Кирилл Андреевич
-DTEND:20260423T073000Z
-LOCATION:24-310
-DTSTART:20260423T060000Z
-SUMMARY:ЛР Прочность конструкций
-UID:8ae5f3a4dbbccf8d46cbf1f8e2ece0b2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260306T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260306T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:31055d6736682a39ba29570a65707098
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260411T131500Z
-LOCATION:--каф.
-DTSTART:20260411T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:f197cdba80de1227e26f45bdc275998c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251215T113000Z
-LOCATION:7-416
-DTSTART:20251215T100000Z
-SUMMARY:ЛК Строительная механика
-UID:cc06d621ae8d5e49fd650230025e9675
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T150000Z
-LOCATION:ГУК Б-340
-DTSTART:20251002T133000Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:c9a001fc029271aa71b98fca9161d0c1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251212T074500Z
-SUMMARY:ЛК Гидравлика
-UID:cee5b093e22fb65a9254ec901a0af7e7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Гидравлика
-UID:e2a0a15dcfb68281a8ba95a4a9090b39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T091500Z
-LOCATION:--каф.
-DTSTART:20251122T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d1a53fb9ac5f656919b5d12597b0d7e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шелков Кирилл Андреевич
-DTEND:20260409T073000Z
-LOCATION:24-310
-DTSTART:20260409T060000Z
-SUMMARY:ЛР Прочность конструкций
-UID:dde453baa6fa3b58d90330dc088dac2e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260521T113000Z
-LOCATION:1-10  1 этаж
-DTSTART:20260521T100000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:c0e1051f06c3f6579408039d3af7933d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T150000Z
-LOCATION:4-100
-DTSTART:20251127T133000Z
-SUMMARY:ЛР Аэродинамика
-UID:a5ca41a03a888d6c6c8f575a51de69b6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260411T073000Z
-LOCATION:--каф.
-DTSTART:20260411T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:7e2dec90761f70975bb3634fcba5ec04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251030T131500Z
-LOCATION:1-34
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:ab782f11e4eb95a79d92b82b53c0f483
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260516T113000Z
-LOCATION:--каф.
-DTSTART:20260516T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:8e2de74722fe46a7fc22f9b87a1b630e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260502T113000Z
-LOCATION:--каф.
-DTSTART:20260502T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:8daf6e482934d50a42ed99e3f987d954
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260512T113000Z
-LOCATION:ГАК-307
-DTSTART:20260512T100000Z
-SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
-UID:002d1efb43e325a9c961326369444878
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:--каф. 919
-DTSTART:20251219T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:d586a9fd64a0f0e7316a92da09856435
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:--каф. 919
-DTSTART:20251003T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:d87127f903795e8a382edcc64e1cb585
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251010T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251010T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c561d1e5c9f947da5dd8a4c1de48cdb6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T113000Z
-LOCATION:7-416
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:cbf060b6a490539fbac8f28b62229c93
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260518T091500Z
-LOCATION:7-401
-DTSTART:20260518T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:5d0bb1c7eaed8833de0da7247d927f47
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251003T074500Z
-SUMMARY:ЛК Гидравлика
-UID:6a403d82180c555937ebdcb17b3bb61f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T131500Z
-LOCATION:--каф.
-DTSTART:20251115T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:64a25fa310f1fc79df236888d4c1f101
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260323T131500Z
-LOCATION:ГАК-307
-DTSTART:20260323T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:1ab6dd5040c075c01f9565547edb3280
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251023T164500Z
-LOCATION:7-411
-DTSTART:20251023T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:b892c5db3145cb63bb40e726cfe82da1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шелков Кирилл Андреевич
-DTEND:20260507T091500Z
-LOCATION:24-310
-DTSTART:20260507T074500Z
-SUMMARY:ЛР Прочность конструкций
-UID:c0ee3575ac5ff2a727bc5c897a9f15b2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260328T113000Z
-LOCATION:--каф.
-DTSTART:20260328T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:d50ef395d5d1ec93976223fbddd63e79
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251014T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:9dc94343299d17e12b5e75c7a9a0d545
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251202T073000Z
-LOCATION:3-435
-DTSTART:20251202T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:273d18b8eb90d95a4da5685a9a996695
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260604T113000Z
-LOCATION:1-10  1 этаж
-DTSTART:20260604T100000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:d01f8a08616d9c40ce8a98ad2c2db9d9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T131500Z
-LOCATION:--каф.
-DTSTART:20260214T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:c22b6a96550ec03cbd9f09ba408ae1a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T113000Z
-LOCATION:7-416
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:0ffb618a2352503771697159014cce22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260417T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260417T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5d97d4f1d72c34d05dedfbf9b294a972
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260313T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260313T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f6a975981b2c7362272018ae225b532f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250909T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:4e96f772ab6bb87075e84093cc4cba5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T150000Z
-LOCATION:4-100
-DTSTART:20251211T133000Z
-SUMMARY:ЛР Аэродинамика
-UID:368c5ba6618fcf26b715c835c834be34
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T150000Z
-LOCATION:--каф. 919
-DTSTART:20250908T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4d52737f0a5aa2cc6ba79625f9f053e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T164500Z
-LOCATION:ГУК Б-340
-DTSTART:20251030T151500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:0444463c16b341369dd8ac725341e7d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T113000Z
-LOCATION:7-416
-DTSTART:20251223T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:717e227373318c26eb577baf704f9dca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260305T131500Z
-LOCATION:1-34
-DTSTART:20260305T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:43b9e98cd046d41ce08cb536cbecfb21
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260523T073000Z
-LOCATION:--каф.
-DTSTART:20260523T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:1990a4ba614aaeb2be20938f67d86a39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T073000Z
-LOCATION:7-406
-DTSTART:20251208T060000Z
-SUMMARY:ПЗ Численные методы
-UID:ece15dd5d1bf2acca169640654a08c91
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260305T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260305T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:37beb0dfe8028f4f24da293353c0df1e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251128T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251128T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:3dd866d774ac5691a612ff06b3e62a91
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260404T131500Z
-LOCATION:--каф.
-DTSTART:20260404T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:cf02db809fcc07bd89d6cd868f98019e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260406T131500Z
-LOCATION:ГАК-307
-DTSTART:20260406T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:a638d4a0e3f263c8f72a7101633e5a18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T131500Z
-LOCATION:7-416
-DTSTART:20251027T114500Z
-SUMMARY:ЛК Численные методы
-UID:cab166f0eb85bb964daf99bd415d5e92
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260227T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260227T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:a0d6a88cf8c748f2d9097b38ce33fe90
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260518T113000Z
-LOCATION:ГАК-307
-DTSTART:20260518T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:852cac2812cdb15fe1f9b270c8c1604d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251027T113000Z
-LOCATION:7-416
-DTSTART:20251027T100000Z
-SUMMARY:ЛК Строительная механика
-UID:e001367ec2e6a586f092d927fb74e6d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260319T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260319T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:66bf93aaa523201be852147287bdcdc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260403T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260403T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:916d11d59bd9fab15ca41f3b2fc27621
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260228T091500Z
-LOCATION:--каф.
-DTSTART:20260228T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:fb9a489ffdcecd107740b4bea6202006
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260331T091500Z
-LOCATION:5-002
-DTSTART:20260331T074500Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:73818e91ae99b476debca6eb8bd6f511
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260523T113000Z
@@ -2614,11 +362,11 @@ SUMMARY:ЛК Военная подготовка
 UID:b31b09148071c182832e4e701c948f05
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251215T073000Z
-LOCATION:7-406
-DTSTART:20251215T060000Z
-SUMMARY:ПЗ Численные методы
-UID:72dbdd9efbc655b86a9af95d6f8ff14c
+DTEND:20260530T073000Z
+LOCATION:--каф.
+DTSTART:20260530T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:3f2d879618baf8b9eeeb325947bc9ab6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
@@ -2629,13 +377,6 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:b7643230496f2afda6aa5ec09620fea4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251020T150000Z
-LOCATION:--каф. 919
-DTSTART:20251020T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4b53a62541b16c1aaff1c7adb9158fc0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260529T113000Z
 LOCATION:--каф. 919
 DTSTART:20260529T100000Z
@@ -2643,1168 +384,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:3dd14d438426f933a8e74f49874d643a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251028T073000Z
-LOCATION:3-435
-DTSTART:20251028T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:dc964e1823f1bae882b2fb0543863083
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251209T073000Z
-LOCATION:3-435
-DTSTART:20251209T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:0277eec87328ea101fb4aa1f7cc510a3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260416T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:8a0747b761982e032f7fc59c2caf98fa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260219T131500Z
-LOCATION:1-34
-DTSTART:20260219T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:fec8899e5a328ad1ab15959eb340a2a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260313T091500Z
-LOCATION:ГАК-307
-DTSTART:20260313T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:dbfb7ed4a34f3b8efc5cc942b8dbd384
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251111T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:f76ae25be4e76efe8e2c898542656624
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251222T091500Z
-LOCATION:1-9
-DTSTART:20251222T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:78c3d4118e52f3972e731559a138049c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260316T113000Z
-LOCATION:ГАК-307
-DTSTART:20260316T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:42e32f2388753e14565f24ba1f6bd485
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T113000Z
-LOCATION:7-416
-DTSTART:20250909T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:a0d6d81a818797ed05c95ae368ecd3ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251128T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251128T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:26292ba36b1823855025c4107c4d63a5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251031T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251031T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:54624a0f018ab8f819869775ae2fc460
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T091500Z
-LOCATION:1-9
-DTSTART:20251020T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:47db858480c0ddcd84e2606d1b8a53e7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260515T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260515T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6f29487354975a271dc2f28b1840f4ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251117T131500Z
-LOCATION:7-416
-DTSTART:20251117T114500Z
-SUMMARY:ЛК Строительная механика
-UID:f5ece7826839c2126e4dd8c2cf325b69
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T113000Z
-LOCATION:7-416
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:6a40bb6c45a879082f6df2d9034178cb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T113000Z
-LOCATION:ГАК-307
-DTSTART:20260511T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:1a4830e9e8567bc710a13c1c5872058b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:--каф.
-DTSTART:20251101T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:38dfbaf39e091fa309ac9239283e70f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260526T113000Z
-LOCATION:ГАК-307
-DTSTART:20260526T100000Z
-SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
-UID:9be6cdae1ba1f425d17f2a082bf6e379
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T113000Z
-LOCATION:--каф. 919
-DTSTART:20251107T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7fd523d63bb7b37fa7de9ea12951edfc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260306T091500Z
-LOCATION:ГАК-307
-DTSTART:20260306T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:54684eb22cef15a8a1a8bc6aa5d83ffc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260213T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260213T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7b5072ab5083acd3fc42932963a14d44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260213T091500Z
-LOCATION:ГАК-307
-DTSTART:20260213T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f4d8fe05412ec2efa7d303e4f538eabb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260323T091500Z
-LOCATION:7-401
-DTSTART:20260323T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:d5610aa4a648c6ab8b19b6cbaaf0e0f8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T131500Z
-LOCATION:4-100
-DTSTART:20260416T114500Z
-SUMMARY:ЛР Аэродинамика самолета
-UID:be96cd3d4ba922764df72d83d95b8ecd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:--каф.
-DTSTART:20251115T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f0192ce3f72188aba6e51035898b99f4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T091500Z
-LOCATION:3-303
-DTSTART:20251125T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:e9184848597008c0e99e64312abfeb0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251024T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251024T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:48b5651f9abb57610114e4f8979a53f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260303T113000Z
-LOCATION:ГАК-307
-DTSTART:20260303T100000Z
-SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
-UID:cce645ee9a205989da6420946a29e8c6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:1-23
-DTSTART:20251225T114500Z
-SUMMARY:ЛР Гидравлика
-UID:560bbe94a4e8767950d3d60d055e23eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251107T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251107T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:56d70814f2d2efba7ce8af9ade60f58c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T113000Z
-LOCATION:--каф.
-DTSTART:20250913T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3457e9a9aeb7b06c38023b19a029734c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T091500Z
-LOCATION:--каф.
-DTSTART:20251220T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:090aea4f094b5972599e5c271c1e6c02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260417T091500Z
-LOCATION:ГАК-307
-DTSTART:20260417T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:27998cb60a62a2a21e3c56a55c46a12a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260213T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260213T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:1d1d51dc66bea5840f743a895f85f1ce
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T131500Z
-LOCATION:7-416
-DTSTART:20251110T114500Z
-SUMMARY:ЛК Численные методы
-UID:491e87e49e19b03a2c2bca7c43a6ba93
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260406T113000Z
-LOCATION:ГАК-307
-DTSTART:20260406T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:1cb11023d94b4c51447622066cd8617e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251006T113000Z
-LOCATION:7-416
-DTSTART:20251006T100000Z
-SUMMARY:ЛК Строительная механика
-UID:262a2a859fe8ce3f35154faf44c8caed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260523T131500Z
-LOCATION:--каф.
-DTSTART:20260523T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:ed2b4811bfdf6cee34576df9cb9179cf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T073000Z
-LOCATION:--каф.
-DTSTART:20260221T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:a3980922dc0b2275fd81b2cdcea6c953
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20251002T113000Z
-LOCATION:1-34
-DTSTART:20251002T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:3db90ec458002caa35d08c40188114dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20260124T091500Z
-LOCATION:24-502
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Строительная механика
-UID:5841e0aa11ef20e989095fa62b268df2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T073000Z
-LOCATION:--каф. 919
-DTSTART:20260420T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:1fe39a960ab4e96941ce3db11603dd7f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260420T091500Z
-LOCATION:7-401
-DTSTART:20260420T074500Z
-SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:3f69a6f96da148533a6755b907b59005
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250901T113000Z
-LOCATION:7-416
-DTSTART:20250901T100000Z
-SUMMARY:ЛК Строительная механика
-UID:05c98381be6f539707a663483de968dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251213T131500Z
-LOCATION:--каф.
-DTSTART:20251213T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:db4c0d8cb697d371edea25e146917a79
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T164500Z
-LOCATION:ГУК Б-340
-DTSTART:20251002T151500Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:7efa3ddcc66e93951360aa988ba91e6d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260305T113000Z
-LOCATION:1-34
-DTSTART:20260305T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:192270fff8a60b37d1459bc2faec8f6e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260331T131500Z
-LOCATION:ГАК-307
-DTSTART:20260331T114500Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:dc706efdb83ecd7947ab3dc78459e4d3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T150000Z
-LOCATION:ГАК-307
-DTSTART:20250909T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:704c2ffd2ff92dd15b386d0a24c0e6e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260605T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260605T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:3022ec13348bea1fcf1dba06a8d83182
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T150000Z
-LOCATION:1-1 ангар
-DTSTART:20260219T133000Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:519047bac1375b03c41908bcd579d5f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20260319T113000Z
-LOCATION:1-34
-DTSTART:20260319T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:dd83fe1432e2cfb5cb9cea00f41cd492
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Гидравлика
-UID:0343c1179d63dc949d8b570960cd274e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251218T131500Z
-LOCATION:7-406
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Строительная механика
-UID:919414dce5f9b349a13062e2b9d23358
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251201T131500Z
-LOCATION:7-416
-DTSTART:20251201T114500Z
-SUMMARY:ЛК Строительная механика
-UID:6d6290bfc65577a85018d8a17088195c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251226T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251226T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:91f1dc28af492eef3f06fc50dc1e5459
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T091500Z
-LOCATION:1-9
-DTSTART:20251006T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:cbf5bf5d3b67ee7a49e9088df95d42c6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T150000Z
-LOCATION:ГАК-307
-DTSTART:20250923T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:525fae1d20580ccce0cc3d81947554ff
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T073000Z
-LOCATION:--каф. 919
-DTSTART:20250919T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:2c61d30a58053cbb1f44e02afaf29181
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Будков Александр Сергеевич
-DTEND:20260326T113000Z
-LOCATION:24-525
-DTSTART:20260326T100000Z
-SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
-UID:2b8a7de04fda24a76e892ff66021a001
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260116T091500Z
-LOCATION:7-417
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Аэродинамика
-UID:063734b58910f74a3698db1fd0584c98
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251204T150000Z
-LOCATION:7-411
-DTSTART:20251204T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:59ffba6e7bb6a80c7dbf5452a73f1d96
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T113000Z
-LOCATION:--каф.
-DTSTART:20251115T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:eb6e578fa24bd6ac86641063cd3105ac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T073000Z
-LOCATION:7-406
-DTSTART:20251013T060000Z
-SUMMARY:ПЗ Численные методы
-UID:3e2b4b4a2ba1313f2f614c038a4e1032
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260331T113000Z
-LOCATION:ГАК-307
-DTSTART:20260331T100000Z
-SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
-UID:bfd0ae0aef4f3a815a9b3cef01c798e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251216T073000Z
-LOCATION:3-435
-DTSTART:20251216T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:4480c64788d4b5f5e7b68dff08b60d16
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260213T113000Z
-LOCATION:--каф. 919
-DTSTART:20260213T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:f12559b76238e68e812e0dc2674848e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T091500Z
-LOCATION:--каф.
-DTSTART:20251018T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:418f60406f9164971201d3d2ab4ede0b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260323T073000Z
-LOCATION:--каф. 919
-DTSTART:20260323T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:2da9468e0904f202bce7b696d4debe74
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T113000Z
-LOCATION:7-416
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:352c0d7819a582897c76e9e1220345ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260515T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260515T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:10c4fead00453af7091d00138f7c69dd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:--каф. 919
-DTSTART:20251010T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:06fdf42c2931e683865d7908244af286
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T150000Z
-LOCATION:--каф. 919
-DTSTART:20251117T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:0c994b972ba677041553afc24fe4cdd3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250922T131500Z
-LOCATION:7-416
-DTSTART:20250922T114500Z
-SUMMARY:ЛК Строительная механика
-UID:f24031283408d35958b958528b5eb1f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T150000Z
-LOCATION:--каф. 919
-DTSTART:20251201T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:568821e2d5468f54d206a2609342c7f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20250923T073000Z
-LOCATION:3-435
-DTSTART:20250923T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:bb1c29ffbcd7021c088c56ac31fa478e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251120T150000Z
-LOCATION:7-411
-DTSTART:20251120T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:12cecf59602d74ed280fac992906c3ca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260316T073000Z
-LOCATION:--каф. 919
-DTSTART:20260316T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:9f4e69617048613a0c53014a41b03e0f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T131500Z
-LOCATION:--каф.
-DTSTART:20250906T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:86ba02fdb4e346632cbe8dcab51aeed7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251103T073000Z
-LOCATION:7-406
-DTSTART:20251103T060000Z
-SUMMARY:ПЗ Численные методы
-UID:eb822f1006a86908499466505ab5d466
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260522T113000Z
-LOCATION:--каф. 919
-DTSTART:20260522T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:bc5e7e40eb51c78a368e2184a56f0574
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T091500Z
-LOCATION:1-9
-DTSTART:20251124T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:15e5d5766596e59e3d2364e4fdae9924
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T150000Z
-LOCATION:ГУК Б-340
-DTSTART:20251030T133000Z
-SUMMARY:ЛР Технология конструкционных материалов
-UID:4bff87dbafb5b777a0c62f31ea22d22c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260424T091500Z
-LOCATION:ГАК-307
-DTSTART:20260424T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:37b662ee6cbaf44304b0d7667d1997e6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T091500Z
-LOCATION:--каф.
-DTSTART:20260214T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:10a618fcebdd1c285fda25c07cf42d19
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251111T073000Z
-LOCATION:3-435
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:c7ad3c6ec97ba07ed1af18c2d0083768
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260314T113000Z
-LOCATION:--каф.
-DTSTART:20260314T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:58999ccef9848e0032ab3c2d41527d43
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260521T131500Z
-LOCATION:1-10  1 этаж
-DTSTART:20260521T114500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:1b810165bfc1a7bee1d1e01a92db6027
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260330T131500Z
-LOCATION:ГАК-307
-DTSTART:20260330T114500Z
-SUMMARY:ЛК Аэродинамика самолета
-UID:6fefc1bcfed54a6f7d91df49e5144dfe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T073000Z
-LOCATION:7-406
-DTSTART:20251110T060000Z
-SUMMARY:ПЗ Численные методы
-UID:95a1715c69271c98da8837c8c05b8a4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:--каф. 919
-DTSTART:20251128T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:7c3b4efe38baca604cf319707dd9277a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Козырь Аркадий Валентинович
-DTEND:20260428T091500Z
-LOCATION:5-002
-DTSTART:20260428T074500Z
-SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
-UID:ee424b46473ea0859fc64485ef8c67ef
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260416T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:571e6c7e89adb7cbe3b6f337c71aa0b9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T073000Z
-LOCATION:7-406
-DTSTART:20250922T060000Z
-SUMMARY:ПЗ Численные методы
-UID:56cdec861e4c82644cc7cb7b65397f2b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20260212T073000Z
+DTEND:20260312T091500Z
 LOCATION:5-122
-DTSTART:20260212T060000Z
+DTSTART:20260312T074500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:242a2d7a8ba957c70e008466a329a2bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251014T073000Z
-LOCATION:3-435
-DTSTART:20251014T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:b7ae1de46d14588bad6d2be7b23c9e00
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260307T073000Z
-LOCATION:--каф.
-DTSTART:20260307T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:49a9ab3e2cd0954654c3c6ad375cbf90
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251106T164500Z
-LOCATION:7-411
-DTSTART:20251106T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:3acef46d4ab594f0b89801c35fe9148d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T113000Z
-LOCATION:ГАК-307
-DTSTART:20260504T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:7a975cf64fa1088f7a12798336894a1d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T113000Z
-LOCATION:--каф.
-DTSTART:20250920T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2bf8de9f4d6c2a118f90f7427c9bcb52
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T150000Z
-LOCATION:--каф. 919
-DTSTART:20251208T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:3d0647233f12e0b564f5e62ef0b9224d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260328T091500Z
-LOCATION:--каф.
-DTSTART:20260328T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:97ad5678975a758a067369330ada80ef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251222T113000Z
-LOCATION:7-416
-DTSTART:20251222T100000Z
-SUMMARY:ЛК Строительная механика
-UID:96761cd66ca5bc28eb339ab49b652478
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260320T113000Z
-LOCATION:--каф. 919
-DTSTART:20260320T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:8867ad895d5bc377d1bd3723bffbf91a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250925T150000Z
-LOCATION:7-411
-DTSTART:20250925T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:138a002a9dd5348d49659ac82c4ebd05
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T113000Z
-LOCATION:ГАК-307
-DTSTART:20260525T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:a8e2aad30a153e9d410cb7fb4848964f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251023T150000Z
-LOCATION:7-411
-DTSTART:20251023T133000Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:6bf1f63b682eb9eddea1593a057ca9e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T091500Z
-LOCATION:--каф.
-DTSTART:20260221T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:93cd8753259b3789238f80fafd31cd25
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:--каф.
-DTSTART:20251101T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:74ff618a59236590bcc0aaa1714f5b1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T091500Z
-LOCATION:3-303
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:6d3700d57218a36264b064b6e852ee1b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251118T091500Z
-LOCATION:7-416
-DTSTART:20251118T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8fab4346eb22a44c9c9cd606fc2c1186
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T150000Z
-LOCATION:ГАК-307
-DTSTART:20251014T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:df7ba58f350c1cd81c030ce9082e6f13
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T131500Z
-LOCATION:--каф.
-DTSTART:20251220T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1377cf6cb36e407ed24c32924145629c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T164500Z
-LOCATION:4-100
-DTSTART:20251211T151500Z
-SUMMARY:ЛР Аэродинамика
-UID:7486393d4c4b0300ad22fee8492e059b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250908T113000Z
-LOCATION:7-416
-DTSTART:20250908T100000Z
-SUMMARY:ЛК Строительная механика
-UID:50682288be7eece8eb2e0d66f5eda75b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T131500Z
-LOCATION:--каф.
-DTSTART:20251129T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2410699809a39d58b33167ff2657d99b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20251204T164500Z
-LOCATION:7-411
-DTSTART:20251204T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:d464e4ba1264ec2b84764cfcd0bc3ae1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T113000Z
-LOCATION:--каф.
-DTSTART:20251206T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ee2538744c1f6988ce6cc8ef00d0db5f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260314T091500Z
-LOCATION:--каф.
-DTSTART:20260314T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:b57eb06de1bf84270cf7b81a8ba3612a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251117T113000Z
-LOCATION:7-416
-DTSTART:20251117T100000Z
-SUMMARY:ЛК Строительная механика
-UID:d0f18714db7dc2089ed85d1b8de76fb8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T091500Z
-LOCATION:2-201(2А)
-DTSTART:20250919T074500Z
-SUMMARY:ЛК Гидравлика
-UID:8ff175a56162939b56c28916feb1d854
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260327T113000Z
-LOCATION:--каф. 919
-DTSTART:20260327T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:3ab24364801414e460c315114401e2ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зотов Анатолий Александрович
-DTEND:20260424T073000Z
-LOCATION:2-314(2В)
-DTSTART:20260424T060000Z
-SUMMARY:ЛК Прочность конструкций
-UID:26bcfb1def0ea1c585331a7e8e50ce8d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T113000Z
-LOCATION:ГАК-307
-DTSTART:20260427T100000Z
-SUMMARY:ЛК Технология производства самолетов (вертолетов)
-UID:7b1ae2a846e0a6b69644498a7378fb59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:--каф. 919
-DTSTART:20251031T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:dd3d8f6414df9810a8ec69506934ae6f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T113000Z
-LOCATION:7-416
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Технология конструкционных материалов
-UID:40ef082da2c55c06aa8ca9536562a6c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260530T113000Z
-LOCATION:--каф.
-DTSTART:20260530T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:76409386f29be7a1b3c86372490cb265
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250906T073000Z
-LOCATION:--каф.
-DTSTART:20250906T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0d0c04df6a8484b8eaa06fb79c8b8acb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T073000Z
-LOCATION:--каф. 919
-DTSTART:20250905T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:10e8f9d45069ef03ca3442184b82638d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T131500Z
-LOCATION:--каф.
-DTSTART:20251108T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:94ea3c157369ade6e7ddf1d0938add21
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260402T164500Z
-LOCATION:1-1 ангар
-DTSTART:20260402T151500Z
-SUMMARY:ЛР Конструкция летательных аппаратов
-UID:4b82d412c2ec310de9099888b876ded5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T131500Z
-LOCATION:--каф.
-DTSTART:20250913T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d3ab1f58f942890ba5320dc14006c601
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250930T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:dd40458d132e5c94fe3e1727fd74d4ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251017T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251017T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:f765e7770c1b37cdc473a65dbc1e285c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:--каф.
-DTSTART:20251108T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:36f77bd0f77af77b1a532eae83b62732
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251107T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251107T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e2c5ea613e79fa17f475716f60ec9cd5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Масютина Наталья Михайловна
-DTEND:20260306T150000Z
-LOCATION:Орш. Б-604
-DTSTART:20260306T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5b0d6b283d194dd18c07c588bff4eb7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251114T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251114T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:42bbfda7255c2a2de52435a192a51706
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20260320T091500Z
-LOCATION:ГАК-307
-DTSTART:20260320T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:01d173baccd72f5e1ad599967b649d7c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T073000Z
-LOCATION:--каф.
-DTSTART:20260214T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:0aacaa05c43c77ce7fb529065d48888a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T150000Z
-LOCATION:--каф. 919
-DTSTART:20251027T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:59d9525399fb6194b21886efcdcc0081
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20250929T113000Z
-LOCATION:7-416
-DTSTART:20250929T100000Z
-SUMMARY:ЛК Строительная механика
-UID:1ae372688fcca87a896d1849976abf82
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:--каф.
-DTSTART:20251101T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3287fa5604a7b71d7c0e76c35c07ae05
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T113000Z
-LOCATION:--каф.
-DTSTART:20250927T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4437457a7e8a82ca9f84b23ee42c8077
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T150000Z
-LOCATION:--каф. 919
-DTSTART:20251110T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:557012960fbb5d75c9856caccea0a8a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251129T073000Z
-LOCATION:--каф.
-DTSTART:20251129T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8b6e5a559a1d9842cb562e35ea3c2cbe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260403T113000Z
-LOCATION:--каф. 919
-DTSTART:20260403T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:4d6c80ba14d17cdca18a402e89b31669
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260228T131500Z
-LOCATION:--каф.
-DTSTART:20260228T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:71c387f6b4c9e723a2776db10d9042ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260328T131500Z
-LOCATION:--каф.
-DTSTART:20260328T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:5f1d2354e3dcc8ead1fdfe2ff529e735
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20251023T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:4e326282ae4e9cebf4068e4fa4233e2b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250920T131500Z
-LOCATION:--каф.
-DTSTART:20250920T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:aea68e9f8d8c871bc0263c28cd0a4711
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251205T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251205T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4d70c27c9e0bc6dc785a5dac8198fa28
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T113000Z
-LOCATION:1-23
-DTSTART:20251211T100000Z
-SUMMARY:ЛР Гидравлика
-UID:124bd5eccda7944a5c845ad0def8bfc2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T113000Z
-LOCATION:ГУК Б-646
-DTSTART:20251009T100000Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:18904d60f81f054baa1fc39cbc132f9c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251230T091500Z
-LOCATION:7-416
-DTSTART:20251230T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:4608ddbb2a63fd746b2236127fc33845
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260210T113000Z
-LOCATION:ГАК-307
-DTSTART:20260210T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:232fcfed7cf1b016792b10f2bac73f8a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260423T131500Z
-LOCATION:1-10  1 этаж
-DTSTART:20260423T114500Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:8537f8b6a000c742fa78ef49acc0e0d4
+UID:cf66c0409aafa5e99466ba734f83a823
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260314T131500Z
@@ -3822,12 +407,27 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:f46f2b47500ea8548a1c8adc05d2f502
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Будков Александр Сергеевич
+DTEND:20260226T113000Z
+LOCATION:24-525
+DTSTART:20260226T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:17a1a09ebd08f530fbb04899ee9b5121
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
 DTEND:20260410T073000Z
 LOCATION:2-314(2В)
 DTSTART:20260410T060000Z
 SUMMARY:ЛК Прочность конструкций
 UID:0da196d8d562bfef7b9e1d7d1fa442aa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260416T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:8a0747b761982e032f7fc59c2caf98fa
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260530T131500Z
@@ -3845,32 +445,66 @@ SUMMARY:ЛК Прочность конструкций
 UID:7aba1e4abf2a2baac680ec0109de4bef
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T131500Z
-LOCATION:ГУК В-214
-DTSTART:20250902T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:601e5049c13c5de9f49a8c17437290be
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260219T131500Z
+LOCATION:1-34
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:fec8899e5a328ad1ab15959eb340a2a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T131500Z
-LOCATION:ГУК В-214
-DTSTART:20251007T114500Z
-SUMMARY:ЛК Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:f4b361db4c6f63cd95f471043348490c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T150000Z
-LOCATION:ГАК-307
-DTSTART:20251028T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:63f1a85fd02c9e91cfff9701d96cac25
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251227T073000Z
+DTEND:20260606T091500Z
 LOCATION:--каф.
-DTSTART:20251227T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7bb7661700b97024ddf256a9441b5e5f
+DTSTART:20260606T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:9650495e74ab617f74c68a9fb2cf40a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260313T091500Z
+LOCATION:ГАК-307
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:dbfb7ed4a34f3b8efc5cc942b8dbd384
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260413T131500Z
+LOCATION:ГАК-307
+DTSTART:20260413T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:dd49d8e95d2b0d4efc19e6045f02748f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260420T091500Z
+LOCATION:ГАК-307
+DTSTART:20260420T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:48e081eaef72a9ecaa45d5c7b2905660
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260602T113000Z
+LOCATION:ГАК-307
+DTSTART:20260602T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:cef76f82db6a5a8a7d5aef9212a0ee5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260414T091500Z
+LOCATION:5-002
+DTSTART:20260414T074500Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:b62afbd7884f7f22150cbef5fbf99a65
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T113000Z
+LOCATION:ГАК-307
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:42e32f2388753e14565f24ba1f6bd485
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260416T113000Z
@@ -3880,11 +514,19 @@ SUMMARY:ЛР Аэродинамика самолета
 UID:7b090da884987c7c50ac8120c59688ae
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T073000Z
-LOCATION:--каф. 919
-DTSTART:20250912T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:fe1e1c358b0ad75af18af893ffcaf9da
+DTEND:20260314T073000Z
+LOCATION:--каф.
+DTSTART:20260314T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:8224e961734c21d640d1cae86deed5c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260602T131500Z
+LOCATION:ГАК-307
+DTSTART:20260602T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:abe7021e843c7db0d192a580a1dd751f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -3895,12 +537,11 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:2028fd8d5436ba2fd493413260dde65d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Арбузов Иван Васильевич
-DTEND:20260505T113000Z
-LOCATION:ГАК-307
-DTSTART:20260505T100000Z
-SUMMARY:ЛК Конструкция летательных аппаратов
-UID:debedaa2a0ebaa93fd2592ef8102fc83
+DTEND:20260411T091500Z
+LOCATION:--каф.
+DTSTART:20260411T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:043164f2b76e86678c7803785c3fa7d1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260418T131500Z
@@ -3910,34 +551,26 @@ SUMMARY:ЛК Военная подготовка
 UID:88a869137952106fcccdc311c1d6b90b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20251230T073000Z
-LOCATION:3-435
-DTSTART:20251230T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:db9f84c107e0a6357a9548e3a512bdfb
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260505T113000Z
+LOCATION:ГАК-307
+DTSTART:20260505T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:debedaa2a0ebaa93fd2592ef8102fc83
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T091500Z
-LOCATION:3-303
-DTSTART:20251111T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:be4e1534992d3375dd95cc3d98f41b8e
+DTEND:20260221T113000Z
+LOCATION:--каф.
+DTSTART:20260221T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:6ea33dca0bbdbbf7a6c521ca77a2608c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20250923T091500Z
-LOCATION:7-416
-DTSTART:20250923T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:22807160c57d0b0fad01134c94394c7b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:7-401
-DTSTART:20250912T100000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:311ca7eb816234d688cec68b4cc73f47
+DTEND:20260430T131500Z
+LOCATION:4-100
+DTSTART:20260430T114500Z
+SUMMARY:ЛР Аэродинамика самолета
+UID:6658dabd7db17c97ca991e332d32032e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260209T073000Z
@@ -3963,11 +596,35 @@ SUMMARY:ЛК Спецглавы безопасности жизнедеятел�
 UID:97f7d030b68889bc074c2ec13413a8f5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T091500Z
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260302T091500Z
+LOCATION:ГАК-307
+DTSTART:20260302T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:ddf335bd3e13b937dce4d2dd504642ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T073000Z
 LOCATION:--каф.
-DTSTART:20251108T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:421db3117855a1c60ec41d4b17eb2947
+DTSTART:20260418T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:e5aa461b7c2f000417c963118bea0abf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260515T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260515T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:6f29487354975a271dc2f28b1840f4ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260326T073000Z
+LOCATION:5-122
+DTSTART:20260326T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:ed40f3e5ffea125c1e9af60ae88bb006
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -3978,19 +635,128 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:38572f0d0871ae97ef4fb35dfa4332ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251213T073000Z
-LOCATION:--каф.
-DTSTART:20251213T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:185adbc3aba37e22e8f8fe10dd75fbaa
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260324T113000Z
+LOCATION:ГАК-307
+DTSTART:20260324T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:6ab4e6d09f7e68d7d12dd5467c9024db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20251219T073000Z
-LOCATION:2-201(2А)
-DTSTART:20251219T060000Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:af3a783911efdc9febfb83088bbd6f78
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260414T131500Z
+LOCATION:ГАК-307
+DTSTART:20260414T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:75149ab8e4a74e98ea7adb2b75ec6cac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Будков Александр Сергеевич
+DTEND:20260312T113000Z
+LOCATION:24-525
+DTSTART:20260312T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:b89e93d0cb2ea0f7fc2b7c91d24db159
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T113000Z
+LOCATION:ГАК-307
+DTSTART:20260511T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:1a4830e9e8567bc710a13c1c5872058b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260310T131500Z
+LOCATION:ГАК-307
+DTSTART:20260310T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:2b4e4308e84e30a19ca60c408f4e9a35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260324T131500Z
+LOCATION:ГАК-307
+DTSTART:20260324T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:c10a2b9aab2e26d47dd28ebe7b41d8c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260427T091500Z
+LOCATION:ГАК-307
+DTSTART:20260427T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:becf917e895109a4662551afb0ad5a29
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:--каф. 919
+DTSTART:20260525T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:96948bc77234b39bb79a3d37a750b2eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260212T091500Z
+LOCATION:5-122
+DTSTART:20260212T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:4c6f06947bf638750b6bd3692c2b376a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260526T113000Z
+LOCATION:ГАК-307
+DTSTART:20260526T100000Z
+SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
+UID:9be6cdae1ba1f425d17f2a082bf6e379
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260330T091500Z
+LOCATION:ГАК-307
+DTSTART:20260330T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:c7113d6a86218a0f6a747dcb3eca34c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260427T131500Z
+LOCATION:ГАК-307
+DTSTART:20260427T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:290ee405b642e8c6873b1df6cea10fc5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T113000Z
+LOCATION:--каф. 919
+DTSTART:20260605T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:c84fb6549dbf599b6b1cf055ee9e557c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T091500Z
+LOCATION:--каф.
+DTSTART:20260404T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:81d5418618c1505940f2a99b0580a15b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Будков Александр Сергеевич
+DTEND:20260409T113000Z
+LOCATION:24-525
+DTSTART:20260409T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:6cdad63e5d38dfe05c56d22bce39a6fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260306T091500Z
+LOCATION:ГАК-307
+DTSTART:20260306T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:54684eb22cef15a8a1a8bc6aa5d83ffc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260323T113000Z
@@ -3998,6 +764,14 @@ LOCATION:ГАК-307
 DTSTART:20260323T100000Z
 SUMMARY:ЛК Технология производства самолетов (вертолетов)
 UID:7d12f6be6f9b92753d2fadddb0f04e3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260213T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260213T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:7b5072ab5083acd3fc42932963a14d44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -4008,6 +782,43 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:3ba81588891baef02f81521b7d66c9f3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260213T091500Z
+LOCATION:ГАК-307
+DTSTART:20260213T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f4d8fe05412ec2efa7d303e4f538eabb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260402T113000Z
+LOCATION:1-34
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:19bd1734f664800050eb9a0ca45705ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T091500Z
+LOCATION:--каф.
+DTSTART:20260418T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:f5af361bf61ff194cff618f081457bf7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T131500Z
+LOCATION:4-100
+DTSTART:20260416T114500Z
+SUMMARY:ЛР Аэродинамика самолета
+UID:be96cd3d4ba922764df72d83d95b8ecd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260528T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:0223ee7f3a92b3013a36794057dfa2af
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Будков Александр Сергеевич
 DTEND:20260226T131500Z
 LOCATION:24-525
@@ -4016,19 +827,26 @@ SUMMARY:ЛР Интеллектуализированные комплексы �
 UID:1fbe1a21b6f211b2dd6c67096b18a1de
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20250918T113000Z
-LOCATION:1-34
-DTSTART:20250918T100000Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:6f5babf83d1f14d11a8cf8ee4bdc56d4
+DTEND:20260430T113000Z
+LOCATION:4-100
+DTSTART:20260430T100000Z
+SUMMARY:ЛР Аэродинамика самолета
+UID:039c205086a221f2f184a97a274b5fac
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T113000Z
+DTEND:20260516T131500Z
 LOCATION:--каф.
-DTSTART:20251018T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e21cfec25d39503910238b22e83886e0
+DTSTART:20260516T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:446832dee8312e9c25f39be70c15ac10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260303T113000Z
+LOCATION:ГАК-307
+DTSTART:20260303T100000Z
+SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
+UID:cce645ee9a205989da6420946a29e8c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -4039,11 +857,11 @@ SUMMARY:ЛК Прочность конструкций
 UID:b09a4a2751c0849abf476e1d76353eee
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T131500Z
-LOCATION:1-23
-DTSTART:20251113T114500Z
-SUMMARY:ЛР Гидравлика
-UID:74b1e57958fcfa122872a8cc75bcaef2
+DTEND:20260514T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260514T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:3fa1363a6e37fb891c08fd4832dd1279
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
@@ -4061,18 +879,49 @@ SUMMARY:ЛК Военная подготовка
 UID:73c133d2b4ec94c88deb8867e76449ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T131500Z
+DTEND:20260425T131500Z
 LOCATION:--каф.
-DTSTART:20251018T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5862346de744c5bbc19aa27894945afc
+DTSTART:20260425T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:2bb166226ac1b449f67155abcedc8da8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T131500Z
-LOCATION:--каф.
-DTSTART:20251004T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cfc9e942034f006c6230df9e1bbce459
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260417T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260417T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:7475205d0d579a4e566b76bece71e2ee
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260410T113000Z
+LOCATION:--каф. 919
+DTSTART:20260410T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:84a534b0dcb3f347f5066e67e00a6b95
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260213T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260213T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:1d1d51dc66bea5840f743a895f85f1ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260417T091500Z
+LOCATION:ГАК-307
+DTSTART:20260417T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:27998cb60a62a2a21e3c56a55c46a12a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260406T113000Z
+LOCATION:ГАК-307
+DTSTART:20260406T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:1cb11023d94b4c51447622066cd8617e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260515T113000Z
@@ -4082,19 +931,47 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:f302ce1509b7f941e9cc8fc3195e91ef
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Миронова Любовь Ивановна
-DTEND:20260120T113000Z
-LOCATION:ГУК Б-650
-DTSTART:20260120T100000Z
-SUMMARY:Экзамен Детали машин и основы конструирования
-UID:d02730edb3577652ab27c0c4c18fd68a
+DTEND:20260514T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260514T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:9a2e6b3ffb363da1970b33e42c732063
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250927T131500Z
+DTEND:20260523T131500Z
 LOCATION:--каф.
-DTSTART:20250927T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4f2a2dc26add6833224c0d38273384ff
+DTSTART:20260523T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:ed2b4811bfdf6cee34576df9cb9179cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T073000Z
+LOCATION:--каф.
+DTSTART:20260221T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:a3980922dc0b2275fd81b2cdcea6c953
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260305T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:4c4d506c3a9c8cb9eda84a022bdf131f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260327T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260327T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:86731e1558e77aa58f0147311bcf938b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T073000Z
+LOCATION:--каф.
+DTSTART:20260404T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:98e6f9c04c8bb0b8e5cf9c11c2ba8a22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4105,11 +982,11 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:313228e66d3d56c8ef1ba7e4910c2666
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
-LOCATION:--каф.
-DTSTART:20251115T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:030ba62e936bb464d8591ccd79cb33d9
+DTEND:20260413T073000Z
+LOCATION:--каф. 919
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2b442a38dd171a3ae840182a440b297a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
@@ -4118,6 +995,28 @@ LOCATION:ГАК-307
 DTSTART:20260403T074500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
 UID:228d739607baa2e8570da42bcf3e94f4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T113000Z
+LOCATION:--каф. 919
+DTSTART:20260220T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:494a2b7a0275cc200a97f8762cd2bd04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260423T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260423T100000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:990bc8dae0b028732fb3d7f9bb3da7c9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T113000Z
+LOCATION:--каф. 919
+DTSTART:20260313T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:e858c7f9def1a6553789d5aaa6d5a2a1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260321T131500Z
@@ -4135,11 +1034,25 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:cee491f9188eeabc26a1ebe92426b07e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T091500Z
+DTEND:20260209T113000Z
+LOCATION:ГАК-307
+DTSTART:20260209T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:f3228d87c087e7ddd547cc8e069d8228
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260420T073000Z
+LOCATION:--каф. 919
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:1fe39a960ab4e96941ce3db11603dd7f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T113000Z
 LOCATION:--каф.
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d9f0c7b1fde2849f6823e248e5d2107f
+DTSTART:20260321T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:81f7d1c0e8ef4a05eaca135697e7e31f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260402T150000Z
@@ -4149,19 +1062,19 @@ SUMMARY:ЛР Конструкция летательных аппаратов
 UID:569a846e43374cb51a9d83615da6a3f7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251013T113000Z
-LOCATION:7-416
-DTSTART:20251013T100000Z
-SUMMARY:ЛК Строительная механика
-UID:13a822f8950844de2df625be5ef80406
+DTEND:20260302T113000Z
+LOCATION:ГАК-307
+DTSTART:20260302T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:e576cedec1661f5e6a13385b551520f7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:--каф.
-DTSTART:20251018T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:cbc8e075f3352ca96c61361e3e591691
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260421T113000Z
+LOCATION:ГАК-307
+DTSTART:20260421T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:b9763e315a5bf65d616aa25eaf54c738
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4172,6 +1085,13 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:0e86b3d28522232ecc09bd5fe12c4039
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260302T073000Z
+LOCATION:--каф. 919
+DTSTART:20260302T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:3bad1761eaaf6a1eb72ff479eb325a6e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
 DTEND:20260317T091500Z
 LOCATION:5-002
@@ -4180,39 +1100,81 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:ce3fea488b6a9d19a691c0aae638f55a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250922T150000Z
-LOCATION:--каф. 919
-DTSTART:20250922T133000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:1cb162ad105b782a37e89f3f043664de
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260305T113000Z
+LOCATION:1-34
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:192270fff8a60b37d1459bc2faec8f6e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T150000Z
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260331T131500Z
 LOCATION:ГАК-307
-DTSTART:20251007T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:8834b2f6bf1004954e0717aae97369c2
+DTSTART:20260331T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:dc706efdb83ecd7947ab3dc78459e4d3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T150000Z
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260521T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260521T114500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:4e0cf6fd69add38093cd1863810c868e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260605T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260605T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:3022ec13348bea1fcf1dba06a8d83182
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260323T091500Z
 LOCATION:ГАК-307
-DTSTART:20251202T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:a9f6fa8535b51e78fe20a2de9a0c0503
+DTSTART:20260323T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:d35c432222afbe57dcb1760b5243be17
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251004T113000Z
+DTEND:20260219T150000Z
+LOCATION:1-1 ангар
+DTSTART:20260219T133000Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:519047bac1375b03c41908bcd579d5f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мищенко Виктор Юрьевич
+DTEND:20260319T113000Z
+LOCATION:1-34
+DTSTART:20260319T100000Z
+SUMMARY:ПЗ Основы проектной деятельности
+UID:dd83fe1432e2cfb5cb9cea00f41cd492
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260321T091500Z
 LOCATION:--каф.
-DTSTART:20251004T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d01121c2c2f3a131b0aa0136a9b52320
+DTSTART:20260321T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:4e25325442ba7bf2a54d2cea21e869b9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250911T131500Z
-LOCATION:ГУК Б-646
-DTSTART:20250911T114500Z
-SUMMARY:ЛР Детали машин и основы конструирования
-UID:df452979d2294ca264813ae9c58c164b
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260507T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260507T100000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:77624b1d16dfeb7fc917a705b75f856b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260418T113000Z
+LOCATION:--каф.
+DTSTART:20260418T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:bc653ad854ee7da66001ace87634ba37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
@@ -4221,6 +1183,29 @@ LOCATION:5-002
 DTSTART:20260317T060000Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:d9edb3c3518d8c3283bd1921ecb655e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Будков Александр Сергеевич
+DTEND:20260326T113000Z
+LOCATION:24-525
+DTSTART:20260326T100000Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:2b8a7de04fda24a76e892ff66021a001
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260227T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260227T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:29b076e89bb666f0fe26fde069e87f38
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T113000Z
+LOCATION:--каф.
+DTSTART:20260307T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:c372d4b33d85f86453e5534a373c5718
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260404T113000Z
@@ -4238,6 +1223,29 @@ SUMMARY:ПЗ Иностранный язык
 UID:651ad0563678cb48d1c1d9cac0c258f1
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260221T131500Z
+LOCATION:--каф.
+DTSTART:20260221T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:c233e911b24368e32769bd82a920bba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260428T113000Z
+LOCATION:ГАК-307
+DTSTART:20260428T100000Z
+SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
+UID:04ce57fdf27aa2058a7182b698528013
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260522T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260522T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:d38ffb11c1a45f88bf867de29d31882b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20260327T091500Z
 LOCATION:ГАК-307
@@ -4246,48 +1254,87 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:8f880c266184ba2763badfebf5d3cbea
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251209T150000Z
-LOCATION:ГАК-307
-DTSTART:20251209T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:69d875576907a23e7acdfeaf9687d044
+DTEND:20260427T073000Z
+LOCATION:--каф. 919
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:39c7b234c936fd39140cd7a16ac484dc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T113000Z
-LOCATION:--каф.
-DTSTART:20251011T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:77631f23b6815b6b62e3fbb52f082887
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260522T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260522T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:c160e70967a60756964760fb7a4808dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20260316T091500Z
-LOCATION:7-401
-DTSTART:20260316T074500Z
+DTEND:20260209T091500Z
+LOCATION:ГАК-307
+DTSTART:20260209T074500Z
 SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
-UID:1af6fa552972a81c886a63c6121ba60d
+UID:ee55196848f34d2ee4cc8397f6a8c1a4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T091500Z
-LOCATION:2-201(2А)
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Гидравлика
-UID:94a2dee218f99436444e2df04aac2ae1
+DTEND:20260511T073000Z
+LOCATION:--каф. 919
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:197f089e3d0646dadcaf7ff37983793c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T113000Z
-LOCATION:1-23
-DTSTART:20251225T100000Z
-SUMMARY:ЛР Гидравлика
-UID:937d1c85b5ce3312ed5f5dfb529cef60
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260331T113000Z
+LOCATION:ГАК-307
+DTSTART:20260331T100000Z
+SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
+UID:bfd0ae0aef4f3a815a9b3cef01c798e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кабаков Виталий Валериевич
-DTEND:20260423T113000Z
-LOCATION:1-10  1 этаж
-DTSTART:20260423T100000Z
-SUMMARY:ЛР Технология производства самолетов (вертолетов)
-UID:341229992c9b7c2ae430ade92d5c6e62
+DTEND:20260504T073000Z
+LOCATION:--каф. 919
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:8fe044a074c890da8d57e724d61b83ed
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260213T113000Z
+LOCATION:--каф. 919
+DTSTART:20260213T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:f12559b76238e68e812e0dc2674848e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20260507T073000Z
+LOCATION:24-310
+DTSTART:20260507T060000Z
+SUMMARY:ЛР Прочность конструкций
+UID:84574fdfebb24db7aa376965ecd067f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260601T091500Z
+LOCATION:ГАК-307
+DTSTART:20260601T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:03a7f3709d547c876a74708068712c90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260220T091500Z
+LOCATION:ГАК-307
+DTSTART:20260220T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f7b3f7bfe0aff9c01637f95c5ba84f35
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260323T073000Z
+LOCATION:--каф. 919
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:2da9468e0904f202bce7b696d4debe74
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260502T073000Z
@@ -4305,6 +1352,29 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:43838406b28019a4cc8444a123a8d2f1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260515T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260515T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:10c4fead00453af7091d00138f7c69dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260323T131500Z
+LOCATION:ГАК-307
+DTSTART:20260323T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:1ab6dd5040c075c01f9565547edb3280
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T113000Z
+LOCATION:--каф.
+DTSTART:20260425T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:3ccf8a1713f8a24fd4553482816fcd65
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260413T113000Z
 LOCATION:ГАК-307
 DTSTART:20260413T100000Z
@@ -4319,20 +1389,11 @@ SUMMARY:ЛК Военная подготовка
 UID:e3788c335df9a268c7d34364004719b9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20250916T073000Z
-LOCATION:3-435
-DTSTART:20250916T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:1b5e9d509fdd49a58035a548619becbf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251017T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251017T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e023b147433e6f76547e66537f79533f
+DTEND:20260606T073000Z
+LOCATION:--каф.
+DTSTART:20260606T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:aa2bde03d8efb55b88e01cfd6168d451
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260530T091500Z
@@ -4342,12 +1403,12 @@ SUMMARY:ЛК Военная подготовка
 UID:3c385f092fb82f99ea11f011a55fde9f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251031T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251031T133000Z
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260410T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260410T133000Z
 SUMMARY:ПЗ Иностранный язык
-UID:4a0cf0cd20b05f11a9793bd8b3511b7f
+UID:d2ed2f510793f260d4f6d5644e8211a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4358,14 +1419,6 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:5755a1e59d90a8b107dc9dd709f9b24d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251202T091500Z
-LOCATION:7-416
-DTSTART:20251202T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:2027ae1ee405441051b3c77ba11667f5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260406T073000Z
 LOCATION:--каф. 919
 DTSTART:20260406T060000Z
@@ -4373,34 +1426,63 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:22ca91677f5ae4f871f9155bd3a898fb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T091500Z
-LOCATION:2-201(2А)
-DTSTART:20250905T074500Z
-SUMMARY:ЛК Гидравлика
-UID:7cc555a470cbe1114410aa8f600cfe89
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260413T091500Z
+LOCATION:ГАК-307
+DTSTART:20260413T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:f5449f3435b8928bfc777a15130a9d10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бешинская Нелли Витальевна
-DTEND:20251212T150000Z
-LOCATION:Орш. А-424
-DTSTART:20251212T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8611daa048671951932d20fe3a5b7916
+DTEND:20260523T091500Z
+LOCATION:--каф.
+DTSTART:20260523T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:f50ee0bdcafc05e53c25308fa7956196
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Квон Даниил Андреевич
-DTEND:20251216T091500Z
-LOCATION:7-416
-DTSTART:20251216T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:49f7f6385791de4b379e3c0cac0f03be
+DTEND:20260606T113000Z
+LOCATION:--каф.
+DTSTART:20260606T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:da29ba532d95e48aed3cafb19c3e7a6d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T113000Z
-LOCATION:1-23
-DTSTART:20251113T100000Z
-SUMMARY:ЛР Гидравлика
-UID:9704fa1b2894df23c0e509149979a64a
+DTEND:20260502T131500Z
+LOCATION:--каф.
+DTSTART:20260502T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:0c8d3d1a4f9a1a23bfdc8c910ef0b0eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260529T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260529T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:f2f80bdd1f3e4afff40f3b11adf29821
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T073000Z
+LOCATION:--каф. 919
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:9f4e69617048613a0c53014a41b03e0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260414T073000Z
+LOCATION:5-002
+DTSTART:20260414T060000Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:4e8c36ba8de3cdf06154fd2e348867e5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260522T113000Z
+LOCATION:--каф. 919
+DTSTART:20260522T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:bc5e7e40eb51c78a368e2184a56f0574
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -4411,12 +1493,57 @@ SUMMARY:ЛК Прочность конструкций
 UID:7660756113c30301f918c945b8661e1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251208T113000Z
-LOCATION:7-416
-DTSTART:20251208T100000Z
-SUMMARY:ЛК Строительная механика
-UID:2c5d911a8a3ccd9f336ca1d2839dea6d
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260424T091500Z
+LOCATION:ГАК-307
+DTSTART:20260424T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:37b662ee6cbaf44304b0d7667d1997e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260302T131500Z
+LOCATION:ГАК-307
+DTSTART:20260302T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:9e461bbe7ba0703196520327cd83b64b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T091500Z
+LOCATION:--каф.
+DTSTART:20260214T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:10a618fcebdd1c285fda25c07cf42d19
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260330T113000Z
+LOCATION:ГАК-307
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:19144684069089452d84b4ef6ff48c08
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260216T131500Z
+LOCATION:ГАК-307
+DTSTART:20260216T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:e59a76e8994b5b192f28325493c78475
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260314T113000Z
+LOCATION:--каф.
+DTSTART:20260314T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:58999ccef9848e0032ab3c2d41527d43
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Слитинская Алина Юрьевна
+DTEND:20260330T131500Z
+LOCATION:ГАК-307
+DTSTART:20260330T114500Z
+SUMMARY:ЛК Аэродинамика самолета
+UID:6fefc1bcfed54a6f7d91df49e5144dfe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Масютина Наталья Михайловна
@@ -4435,18 +1562,42 @@ SUMMARY:ЛК Безопасность жизнедеятельности
 UID:fa48c66782b55a58fd00a718c33ad87b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251110T091500Z
-LOCATION:1-9
-DTSTART:20251110T074500Z
-SUMMARY:ПЗ Гидравлика
-UID:ea32338ef95c76d8c2660d0394fa4e76
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260406T091500Z
+LOCATION:ГАК-307
+DTSTART:20260406T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:21c75dc92e72443774a42e0470a15dd8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T131500Z
+DTEND:20260502T091500Z
 LOCATION:--каф.
-DTSTART:20251011T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4ab2513635546a9692786c357a3f5797
+DTSTART:20260502T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:15c791a6ad4fff1421f777b0fdb1f13c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260508T113000Z
+LOCATION:--каф. 919
+DTSTART:20260508T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:52dce22bba0cb630fa66cfe60eb97fec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260526T131500Z
+LOCATION:ГАК-307
+DTSTART:20260526T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:fb8f8650102c82ba1d6def56095661d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260428T091500Z
+LOCATION:5-002
+DTSTART:20260428T074500Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:ee424b46473ea0859fc64485ef8c67ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
@@ -4457,11 +1608,19 @@ SUMMARY:ЛК Прочность конструкций
 UID:e8f174eb051ab1a92e2542495c11d560
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T113000Z
-LOCATION:--каф.
-DTSTART:20251108T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2884d296b2aedb17a059fcb86d035683
+DTEND:20260416T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260416T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:571e6c7e89adb7cbe3b6f337c71aa0b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260604T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260604T114500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:b47d1fc1ca42abff0df65cd03c33542f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Слитинская Алина Юрьевна
@@ -4480,12 +1639,34 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:a5075022068f27ecb2262ef5b7c000b0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мищенко Виктор Юрьевич
-DTEND:20250918T131500Z
-LOCATION:1-34
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Основы проектной деятельности
-UID:cb8c2a2e35d069dc7b0e008c400e26b6
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260521T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260521T100000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:4c111c752e330ee3f28ae474ba0b0134
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260228T113000Z
+LOCATION:--каф.
+DTSTART:20260228T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:7edf19d94b45d6554a4bf849cf4cc6a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260331T073000Z
+LOCATION:5-002
+DTSTART:20260331T060000Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:a1665eec3f1273cb627f396c61e520e2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260530T113000Z
+LOCATION:--каф.
+DTSTART:20260530T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:76409386f29be7a1b3c86372490cb265
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260227T113000Z
@@ -4495,13 +1676,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:ddd42ef01f0c3775814a9bef41a294f8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:--каф.
-DTSTART:20251206T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e77b9624753753c7aa2ec0cc36859005
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260601T073000Z
 LOCATION:--каф. 919
 DTSTART:20260601T060000Z
@@ -4509,11 +1683,20 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:a78144958967aeb9abbefa2a7d9fdb48
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251125T150000Z
-LOCATION:ГАК-307
-DTSTART:20251125T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:d458c9636af43596486d19af9497bbc0
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20260212T073000Z
+LOCATION:5-122
+DTSTART:20260212T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:242a2d7a8ba957c70e008466a329a2bc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260423T131500Z
+LOCATION:1-10  1 этаж
+DTSTART:20260423T114500Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:2ca8c5421e6b677134f0f87da7e96c0a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260307T131500Z
@@ -4523,11 +1706,35 @@ SUMMARY:ЛК Военная подготовка
 UID:dc1cec758a4dfe5298558c51c2f6c69d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T091500Z
-LOCATION:3-303
-DTSTART:20251028T074500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:56b0cb64e7f14c4e3263fde7b9610aad
+DESCRIPTION:Будков Александр Сергеевич
+DTEND:20260312T131500Z
+LOCATION:24-525
+DTSTART:20260312T114500Z
+SUMMARY:ЛР Интеллектуализированные комплексы бортового оборудования
+UID:6401bfff89f9c0cab3716171cbe7473c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260407T113000Z
+LOCATION:ГАК-307
+DTSTART:20260407T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:a4e3c38fe0487466d491111d2864b12f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260504T091500Z
+LOCATION:ГАК-307
+DTSTART:20260504T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:e4d475130f98b8f2ad7c341578b20785
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260601T113000Z
+LOCATION:ГАК-307
+DTSTART:20260601T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:0325c7e30764b97c91d967e608e0718f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Слитинская Алина Юрьевна
@@ -4536,6 +1743,13 @@ LOCATION:ГАК-307
 DTSTART:20260316T114500Z
 SUMMARY:ЛК Аэродинамика самолета
 UID:cf719306220d014c7f9db836ed3f7f0f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T073000Z
+LOCATION:--каф.
+DTSTART:20260307T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:49a9ab3e2cd0954654c3c6ad375cbf90
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260516T091500Z
@@ -4553,18 +1767,18 @@ SUMMARY:ЛР Прочность конструкций
 UID:6aec1c2b82c809307dafe16a276b1fa8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T091500Z
-LOCATION:2-201(2А)
-DTSTART:20250912T074500Z
-SUMMARY:ЛК Гидравлика
-UID:03a6d84df520d3df6017828556141036
+DTEND:20260425T073000Z
+LOCATION:--каф.
+DTSTART:20260425T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:5ee537c9a24b46acee28b131024e7187
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T164500Z
-LOCATION:4-100
-DTSTART:20251225T151500Z
-SUMMARY:ЛР Аэродинамика
-UID:f17c34a7e6a768bb0906573c3cfa070a
+DTEND:20260330T073000Z
+LOCATION:--каф. 919
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:7d09e35e7a57062af95bb94918486580
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
@@ -4575,26 +1789,49 @@ SUMMARY:ЛР Прочность конструкций
 UID:9c07837b0400456cb502c75278df63b7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Волков Александр Владимирович
-DTEND:20251103T113000Z
-LOCATION:7-416
-DTSTART:20251103T100000Z
-SUMMARY:ЛК Строительная механика
-UID:43b299841ee56930d9d6b753a0914980
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260424T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260424T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:b52bd594ae8031681c2907eea7b11ad7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T073000Z
-LOCATION:--каф. 919
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:49b9f1ec506478ecfd2fd0504a26d3ef
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T113000Z
+DTEND:20260425T091500Z
 LOCATION:--каф.
-DTSTART:20251122T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bf8699eb635033dec4a3cc014bb28609
+DTSTART:20260425T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:22742ccdca83a1cde4d60c5072cdeedd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260504T113000Z
+LOCATION:ГАК-307
+DTSTART:20260504T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:7a975cf64fa1088f7a12798336894a1d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260519T113000Z
+LOCATION:ГАК-307
+DTSTART:20260519T100000Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:ef6df5353b4d32cf3e18e301b52d5197
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T073000Z
+LOCATION:--каф.
+DTSTART:20260328T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:6244a356f28f9eb9b8393c75be488ece
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арбузов Иван Васильевич
+DTEND:20260505T131500Z
+LOCATION:ГАК-307
+DTSTART:20260505T114500Z
+SUMMARY:ЛК Конструкция летательных аппаратов
+UID:81cbb0dbce471d118067bf27d2364d8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4605,18 +1842,86 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:3d69737e7c1e404129ef8e0198bc212a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250901T073000Z
-LOCATION:7-406
-DTSTART:20250901T060000Z
-SUMMARY:ПЗ Численные методы
-UID:5f7013fd50ed379f32a1a6431f059ce8
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260220T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260220T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:9190031d86e9a2338ac47613f5dfdea4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T113000Z
-LOCATION:1-23
-DTSTART:20251127T100000Z
-SUMMARY:ЛР Гидравлика
-UID:40221f8021b4b56db3b614eec64e0ad0
+DTEND:20260219T164500Z
+LOCATION:1-1 ангар
+DTSTART:20260219T151500Z
+SUMMARY:ЛР Конструкция летательных аппаратов
+UID:e2bb4a52fa5b84d7f08cff591132857f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260327T150000Z
+LOCATION:Орш. Б-604
+DTSTART:20260327T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4a829602b33f2a1c0c4a2f0ee175417f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260216T091500Z
+LOCATION:ГАК-307
+DTSTART:20260216T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:083a7d08a3fd186b13cc0c2daed6f0f7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260417T113000Z
+LOCATION:--каф. 919
+DTSTART:20260417T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:094fb89ca27e1426c6829e3c3f553055
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20260423T073000Z
+LOCATION:24-310
+DTSTART:20260423T060000Z
+SUMMARY:ЛР Прочность конструкций
+UID:8ae5f3a4dbbccf8d46cbf1f8e2ece0b2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260328T091500Z
+LOCATION:--каф.
+DTSTART:20260328T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:97ad5678975a758a067369330ada80ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260216T113000Z
+LOCATION:ГАК-307
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:b1358dbf043883b4b3a1c071a0c1d97d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260306T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260306T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:31055d6736682a39ba29570a65707098
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T113000Z
+LOCATION:--каф. 919
+DTSTART:20260320T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:8867ad895d5bc377d1bd3723bffbf91a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T131500Z
+LOCATION:--каф.
+DTSTART:20260411T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:f197cdba80de1227e26f45bdc275998c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
@@ -4627,6 +1932,14 @@ SUMMARY:ПЗ Спецглавы безопасности жизнедеятел�
 UID:008ffa978a14bf6ddc0bd7a53ccebc33
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20260409T073000Z
+LOCATION:24-310
+DTSTART:20260409T060000Z
+SUMMARY:ЛР Прочность конструкций
+UID:dde453baa6fa3b58d90330dc088dac2e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Зотов Анатолий Александрович
 DTEND:20260313T073000Z
 LOCATION:2-314(2В)
@@ -4635,11 +1948,18 @@ SUMMARY:ЛК Прочность конструкций
 UID:2c6d443977d6723602f7639796265464
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T150000Z
+DTEND:20260525T113000Z
 LOCATION:ГАК-307
-DTSTART:20250902T133000Z
-SUMMARY:ЛК Аэродинамика
-UID:3f4b6b275c177e687e3fdaf5dd9a2073
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:a8e2aad30a153e9d410cb7fb4848964f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T091500Z
+LOCATION:--каф.
+DTSTART:20260221T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:93cd8753259b3789238f80fafd31cd25
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260516T073000Z
@@ -4647,6 +1967,13 @@ LOCATION:--каф.
 DTSTART:20260516T060000Z
 SUMMARY:ЛК Военная подготовка
 UID:21cdd9ce3c09064f9910b67d25b414d3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260427T113000Z
+LOCATION:ГАК-307
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Технология производства самолетов (вертолетов)
+UID:7b1ae2a846e0a6b69644498a7378fb59
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -4657,13 +1984,6 @@ SUMMARY:ЛР Безопасность жизнедеятельности
 UID:249dbbc0c81722a5a1644b7426c3cb53
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251122T131500Z
-LOCATION:--каф.
-DTSTART:20251122T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:23a98b44b0496b28a13a2f359c614ed4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мищенко Виктор Юрьевич
 DTEND:20260402T131500Z
 LOCATION:1-34
@@ -4672,18 +1992,26 @@ SUMMARY:ПЗ Основы проектной деятельности
 UID:9ef636398e9c5cdc0be08a472acfa5c0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250929T131500Z
-LOCATION:7-416
-DTSTART:20250929T114500Z
-SUMMARY:ЛК Численные методы
-UID:b7698d1e81896f154dcf30e8c44231bd
+DTEND:20260411T073000Z
+LOCATION:--каф.
+DTSTART:20260411T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:7e2dec90761f70975bb3634fcba5ec04
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:1-23
-DTSTART:20251127T114500Z
-SUMMARY:ЛР Гидравлика
-UID:6a75e9b3e181d3e5a7b84c5cc8c2b915
+DESCRIPTION:Агеева Елена Анатольевна
+DTEND:20260604T113000Z
+LOCATION:1-10  1 этаж
+DTSTART:20260604T100000Z
+SUMMARY:ЛР Технология производства самолетов (вертолетов)
+UID:2206774ba169800230961961e27c7cdc
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260214T113000Z
+LOCATION:--каф.
+DTSTART:20260214T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:c202cfa0eaea29bc4a73d6df9c862976
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4694,27 +2022,27 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:26a33475823dcf2be8e6b7df2cc6a213
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Слитинская Алина Юрьевна
-DTEND:20260116T073000Z
-LOCATION:7-417
-DTSTART:20260116T060000Z
-SUMMARY:Экзамен Аэродинамика
-UID:7cde4ef76ff9637fdeb580a1fa269c60
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T113000Z
-LOCATION:--каф.
-DTSTART:20260214T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:c202cfa0eaea29bc4a73d6df9c862976
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Козырь Аркадий Валентинович
 DTEND:20260303T091500Z
 LOCATION:5-002
 DTSTART:20260303T074500Z
 SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
 UID:6c4e848ec69b199fbd0d8899c566419e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260502T113000Z
+LOCATION:--каф.
+DTSTART:20260502T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:8daf6e482934d50a42ed99e3f987d954
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260512T113000Z
+LOCATION:ГАК-307
+DTSTART:20260512T100000Z
+SUMMARY:ЛК Спецглавы безопасности жизнедеятельности
+UID:002d1efb43e325a9c961326369444878
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арбузов Иван Васильевич
@@ -4725,6 +2053,13 @@ SUMMARY:ЛК Конструкция летательных аппаратов
 UID:c9ef2dc4b6a323b62f44064a3d710b6d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260516T113000Z
+LOCATION:--каф.
+DTSTART:20260516T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:8e2de74722fe46a7fc22f9b87a1b630e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Будков Александр Сергеевич
 DTEND:20260326T131500Z
 LOCATION:24-525
@@ -4733,19 +2068,27 @@ SUMMARY:ЛР Интеллектуализированные комплексы �
 UID:9a71fbad137b6625c12fad7263a4e62d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250915T131500Z
-LOCATION:7-416
-DTSTART:20250915T114500Z
-SUMMARY:ЛК Численные методы
-UID:e37c37ea49e93b76307b84648bce1fa9
+DTEND:20260314T091500Z
+LOCATION:--каф.
+DTSTART:20260314T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:b57eb06de1bf84270cf7b81a8ba3612a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20250925T164500Z
-LOCATION:7-411
-DTSTART:20250925T151500Z
-SUMMARY:ПЗ Нормативно-правовое сопровождение этапов ЖЦ АТ
-UID:1d472d5d7d9d23b452eea1e838e639e6
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260428T073000Z
+LOCATION:5-002
+DTSTART:20260428T060000Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:0610f95cd3c591e686ccdf8b4610ecf0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20260508T091500Z
+LOCATION:ГАК-307
+DTSTART:20260508T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:fec9cff08c6e175c20454c08e3828fa3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Масютина Наталья Михайловна
@@ -4756,10 +2099,34 @@ SUMMARY:ПЗ Иностранный язык
 UID:618c47ed3eb1827b8a2fbce819008d37
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T150000Z
+DTEND:20260327T113000Z
 LOCATION:--каф. 919
-DTSTART:20251006T133000Z
+DTSTART:20260327T100000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:a3812e362cac8dc6851e0ca18c802a50
+UID:3ab24364801414e460c315114401e2ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зотов Анатолий Александрович
+DTEND:20260424T073000Z
+LOCATION:2-314(2В)
+DTSTART:20260424T060000Z
+SUMMARY:ЛК Прочность конструкций
+UID:26bcfb1def0ea1c585331a7e8e50ce8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20260316T091500Z
+LOCATION:ГАК-307
+DTSTART:20260316T074500Z
+SUMMARY:ЛК Интеллектуализированные комплексы бортового оборудования
+UID:280237d843b9fea52549854ef6f75a6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Козырь Аркадий Валентинович
+DTEND:20260303T073000Z
+LOCATION:5-002
+DTSTART:20260303T060000Z
+SUMMARY:ПЗ Спецглавы безопасности жизнедеятельности
+UID:4cd5f2b0c63bae0c13833ab489c94d5b
 END:VEVENT
 END:VCALENDAR

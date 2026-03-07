@@ -2,12 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251025T131500Z
-LOCATION:Орш. В-603
-DTSTART:20251025T114500Z
-SUMMARY:ЛР Общая физика
-UID:252a3ce4510f9596fa1b3a5e8add5686
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260323T150000Z
+LOCATION:3-Зал А
+DTSTART:20260323T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:4c6b638ad14491a5260ac8097fa90bed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кан Игорь Давидович
+DTEND:20260408T091500Z
+LOCATION:3-131
+DTSTART:20260408T074500Z
+SUMMARY:ПЗ Численные методы
+UID:991b8cab85e4f171fe9a8bde49a647d6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T073000Z
+LOCATION:--каф.
+DTSTART:20260402T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bb2211a9d857aebab3f0619c77922fd8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260326T091500Z
@@ -17,26 +32,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:3800b7a29f4b9c2e5507059bd2e8eb68
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T131500Z
-LOCATION:--каф. 919
-DTSTART:20250902T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:bfda702fdfe09913883276f621b28468
+DTEND:20260406T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:209513e100e2f23e0d35faf1bddd5aea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251117T113000Z
-LOCATION:3-269
-DTSTART:20251117T100000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:9cf763f82c1e539c45f1a0bcc94bf3f2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T131500Z
-LOCATION:--каф. 919
-DTSTART:20251021T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:3b20ab9b83526a03d444ba7b90e35c62
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260328T091500Z
+LOCATION:3-303
+DTSTART:20260328T074500Z
+SUMMARY:ПЗ Социология
+UID:1007ce2a36d77a908286e63747e60932
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260216T091500Z
@@ -46,11 +54,34 @@ SUMMARY:ПЗ Иностранный язык
 UID:c139bca6ed6c6e64e1db3bc296a3f22a
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260212T131500Z
+LOCATION:--каф.
+DTSTART:20260212T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2d05ae74fe44d5b1c1147576cd220fc9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260220T131500Z
+LOCATION:3-Зал А
+DTSTART:20260220T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:25886c80644b0d11c0b47e4076defda4
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260504T091500Z
 LOCATION:Орш. А-406
 DTSTART:20260504T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:7e525b25034c2d751be2ec55ad02b944
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260523T091500Z
+LOCATION:3-303
+DTSTART:20260523T074500Z
+SUMMARY:ПЗ Социология
+UID:67e0b9aa25acdab70dd027504153b142
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260408T113000Z
@@ -60,11 +91,50 @@ SUMMARY:ПЗ Физическая культура
 UID:bb2cb556042157405872052f6e26a899
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:9-105
-DTSTART:20251010T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6121ca611fbc97555d6cc7b7eaac7a69
+DTEND:20260502T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260502T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:5a165e8bdfc70507128e37da50f6ef20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260602T131500Z
+LOCATION:3-434б
+DTSTART:20260602T114500Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:4313da0386ed7ff5a5ca733d8495e267
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260415T113000Z
+LOCATION:--каф. 919
+DTSTART:20260415T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:bd95b7998accc1edee13744d017be9ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриева Елена Анатольевна
+DTEND:20260410T113000Z
+LOCATION:3-Зал А
+DTSTART:20260410T100000Z
+SUMMARY:ЛК Расширенные возможности языков высокого уровня
+UID:08b9648f296ec4d23e7adfdd974832d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260418T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260418T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:feaae474ec8ad7e4f17b33f82b7e374a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бушманов Иван Сергеевич
+DTEND:20260519T150000Z
+LOCATION:3-131
+DTSTART:20260519T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:c21aeabd12697cde2f15a081159827fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -91,11 +161,11 @@ SUMMARY:ЛР Расширенные возможности языков высо
 UID:334488c018543380919b4214e85b1ddb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T073000Z
-LOCATION:--каф. 919
-DTSTART:20251031T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:fb156cca3bc0cb91ff7dea3cf5379dc6
+DTEND:20260219T091500Z
+LOCATION:--каф.
+DTSTART:20260219T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bca6b46f07bb709dee08e05c4abd682d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Богданова Софья Борисовна
@@ -106,6 +176,28 @@ SUMMARY:ЛР Численные методы
 UID:c84753e75bf62bf20f567711d5688e7d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260513T113000Z
+LOCATION:--каф. 919
+DTSTART:20260513T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:5c5f74a5bbc2a87a76de486850fee471
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260330T113000Z
+LOCATION:Орш. В-501
+DTSTART:20260330T100000Z
+SUMMARY:ЛК Социология
+UID:b1434e7a3dd1c697d47e8c4994116825
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T073000Z
+LOCATION:--каф.
+DTSTART:20260507T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:887cf97800d584bbd357ae49a3492496
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260526T150000Z
 LOCATION:3-240а
 DTSTART:20260526T133000Z
@@ -113,28 +205,33 @@ SUMMARY:ЛР Языки ассемблера
 UID:cb755aafc500924ae53badbe609a8912
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251208T131500Z
-LOCATION:3-240б
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Программирование
-UID:67a8931303137288fc53a62fb3c1312d
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260522T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260522T074500Z
+SUMMARY:ЛК Численные методы
+UID:e1e63a6ae8cae6bb6f019908fb5c1776
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251219T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251219T114500Z
-SUMMARY:ЛК Основы психологии
-UID:dc8b55782d22582ba147edde50eaf695
+DTEND:20260219T131500Z
+LOCATION:--каф.
+DTSTART:20260219T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:07778f9df9d4de3f06f62e380af6b1db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250929T131500Z
-LOCATION:3-240б
-DTSTART:20250929T114500Z
-SUMMARY:ПЗ Программирование
-UID:d298f3f5477c015ec5020d7778bd8582
+DTEND:20260226T073000Z
+LOCATION:--каф.
+DTSTART:20260226T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1ab816a60c2d736d32a89068c4e433e1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260506T113000Z
+LOCATION:--каф. 919
+DTSTART:20260506T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:d247e6dc0fdf63102e2c63b249f5a747
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бушманов Иван Сергеевич
@@ -145,12 +242,33 @@ SUMMARY:ПЗ Экономическая теория
 UID:bfe6a919f3b67d6447ed837834b5163c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251103T073000Z
-LOCATION:3-423
-DTSTART:20251103T060000Z
-SUMMARY:ПЗ Общая физика
-UID:af49de323a44efe8c3e46d5b300948a9
+DTEND:20260216T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260216T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e583025fd1c7ce628eb7e0b6b60791e9
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T113000Z
+LOCATION:--каф.
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:17d6c15aca068c8596b16bf8d0b5b294
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260421T113000Z
+LOCATION:3-434б
+DTSTART:20260421T100000Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:b1a9a23dbbf6550eb1dbacd242602fef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260220T073000Z
+LOCATION:--каф. 919
+DTSTART:20260220T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:08fa066da5f4ff33868fa395dd9ffa03
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260316T073000Z
@@ -189,12 +307,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:d4fffcaf415e2a8a478bc0d0a919ef7d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250929T113000Z
-LOCATION:3-240б
-DTSTART:20250929T100000Z
-SUMMARY:ПЗ Программирование
-UID:fd2666236c8f879a47f68e6fd7dde410
+DTEND:20260418T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260418T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:53c919ea991d159192d7b561ef7e4a03
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260507T131500Z
@@ -204,12 +321,27 @@ SUMMARY:ПЗ Военная подготовка
 UID:7ec2402b53db95677fad13a469ec372c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251020T091500Z
-LOCATION:3-419
-DTSTART:20251020T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:39fe8fb71e2c69e6e49480565a8cd0d7
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260414T131500Z
+LOCATION:3-330
+DTSTART:20260414T114500Z
+SUMMARY:ЛР Основы схемотехники
+UID:9f24ff095fdd268af3047ff1fa06d9b1
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T073000Z
+LOCATION:--каф.
+DTSTART:20260430T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a06c0bfbaac5115ec01e4c8b7b27d9fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриева Елена Анатольевна
+DTEND:20260227T113000Z
+LOCATION:3-Зал А
+DTSTART:20260227T100000Z
+SUMMARY:ЛК Расширенные возможности языков высокого уровня
+UID:4bd13b6ef59c25667d1a8e00b44823da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -228,12 +360,41 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:c08e2c7b9823e3481934c4560c6933a2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251213T113000Z
-LOCATION:3-434а
-DTSTART:20251213T100000Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:9751ea0d348535d6154bb131b39625fa
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260406T150000Z
+LOCATION:3-Зал А
+DTSTART:20260406T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:941121dcd53b7d55313b40410e3e7f2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260424T131500Z
+LOCATION:3-Зал А
+DTSTART:20260424T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:adbf2a3a513d8a9f8fa43e3ebc8a2e17
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260511T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:5c147e9baa5ce7e9f119f32939bcd4f2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260316T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8a1afe9a5a83e9363b4cf849f2c30bc0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260404T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260404T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:9d72fbf62a61e8820a19f20fb6fbf2e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -244,19 +405,32 @@ SUMMARY:ЛК Расширенные возможности языков высо
 UID:b78c63e2dc85e440bcb5d3851a58023b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20260124T073000Z
-LOCATION:3-269
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Электротехника и электроника
-UID:d1a4ee5504b9b3b4d934e9389d338d49
+DTEND:20260429T113000Z
+LOCATION:--каф. 919
+DTSTART:20260429T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:ff04c7e6913e263efa969ae577b4958b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251127T113000Z
+DTEND:20260214T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260214T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:39fb3410879d9790bfe735a1ee0cbaf7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260221T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260221T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:9f3dad0520bf9d222ed24ab0e9c12631
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T131500Z
 LOCATION:--каф.
-DTSTART:20251127T100000Z
+DTSTART:20260312T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:82d73b9e75d3096cecbf395b73aad445
+UID:1c788263d653332b6caa926230a81068
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260318T113000Z
@@ -266,12 +440,19 @@ SUMMARY:ПЗ Физическая культура
 UID:8f66c0b287b91269c462b48d53473221
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251031T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251031T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:43a39f3b5d7cd6b441a2b161020f2374
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260429T091500Z
+LOCATION:3-444
+DTSTART:20260429T074500Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:3fec28ab85a16ef76d3b8328bd1263ef
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260307T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260307T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:e749ea549520737dd0b5a95d04a49e38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
@@ -282,6 +463,37 @@ SUMMARY:ПЗ Организационно-правовые основы разр
 UID:8b45cd12380c84f6865c2160fb65eaf2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260515T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260515T074500Z
+SUMMARY:ЛК Численные методы
+UID:1179761389b97a711aa279e78763aa25
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260515T131500Z
+LOCATION:3-Зал А
+DTSTART:20260515T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:49cc4732a2a28e713d429cf9ce62277b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260518T131500Z
+LOCATION:3-Зал А
+DTSTART:20260518T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:82d4227706ff0f4ef3ddfcee29eee006
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T113000Z
+LOCATION:--каф.
+DTSTART:20260528T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:72a5f63bd47c17ca12b0b97411c3bc5d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260604T073000Z
 LOCATION:--каф.
 DTSTART:20260604T060000Z
@@ -289,11 +501,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:15addcb92c2fb47f66b67f2d7f7e9473
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251202T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251202T060000Z
+DTEND:20260420T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260420T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:9019fbe4d64eba66ec68862532d2c763
+UID:dc6b7b80764e0788b167a017787352f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260216T113000Z
+LOCATION:Орш. В-501
+DTSTART:20260216T100000Z
+SUMMARY:ЛК Социология
+UID:a58a933e6b671041fd9912a824952948
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T164500Z
+LOCATION:3-240а
+DTSTART:20260428T151500Z
+SUMMARY:ЛР Языки ассемблера
+UID:d531c81d170be1b3f455b451da110e54
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260508T073000Z
@@ -303,6 +530,14 @@ SUMMARY:ПЗ Физическая культура
 UID:2239826feb44db2e73d21b5bb118e3c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260522T131500Z
+LOCATION:3-Зал А
+DTSTART:20260522T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:3482652ddaafbc71393fae3c45609bb5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260312T091500Z
 LOCATION:--каф.
 DTSTART:20260312T074500Z
@@ -310,20 +545,35 @@ SUMMARY:ПЗ Военная подготовка
 UID:fea86260c7be4a2d33a9a10edb6a0cd2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251201T091500Z
-LOCATION:3-419
-DTSTART:20251201T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:a77f0845bb9a76f7c66905fe2fb03118
+DTEND:20260424T073000Z
+LOCATION:--каф. 919
+DTSTART:20260424T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6ac70048252408067cb105a570e8356c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251008T091500Z
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260209T131500Z
 LOCATION:3-Зал А
-DTSTART:20251008T074500Z
-SUMMARY:ЛК Программирование
-UID:ec3c7b615554935890cb94e09e3849db
+DTSTART:20260209T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:b34233c7720bdd0b252cb03e281099fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20260520T091500Z
+LOCATION:3-131
+DTSTART:20260520T074500Z
+SUMMARY:ЛР Численные методы
+UID:79bc39f44d99bfe2d45f20d4ae29c618
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260209T150000Z
+LOCATION:3-Зал А
+DTSTART:20260209T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:25f1385fcf7d83fbc17e698a6d68fba0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ряполов Сергей Владимирович
@@ -334,14 +584,6 @@ SUMMARY:ЛК Социология
 UID:bdcb9b8df1e951d06f8a47a9bd1909cd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20260116T091500Z
-LOCATION:3-240б
-DTSTART:20260116T074500Z
-SUMMARY:Экзамен Программирование
-UID:b6a3e7b3c81a4e05ca274631d5885dff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
 DTEND:20260304T131500Z
 LOCATION:3-Зал А
@@ -350,19 +592,18 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:ee24afbb6163950c9ee70516c90f551e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251226T073000Z
-LOCATION:--каф. 919
-DTSTART:20251226T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:b3755fbad5a5011d404afac92a89deb7
+DTEND:20260416T073000Z
+LOCATION:--каф.
+DTSTART:20260416T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:63cad58cb643f178efd9bb61e9f30466
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251220T131500Z
-LOCATION:Орш. В-314
-DTSTART:20251220T114500Z
-SUMMARY:ЛР Общая физика
-UID:20bba6f1ac1c06db690eadfedcbf83ab
+DTEND:20260416T131500Z
+LOCATION:--каф.
+DTSTART:20260416T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ebdb54cb25f92e58b0692cdbd6c86cf9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260430T091500Z
@@ -372,12 +613,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:e4b14f6c6e869788e40c53b1e145b252
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251006T113000Z
-LOCATION:3-269
-DTSTART:20251006T100000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:bd76ba4640f2e4750ccca39b8b9bb649
+DTEND:20260528T131500Z
+LOCATION:--каф.
+DTSTART:20260528T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:40ad9bd2d325db8e93674687d8085231
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260313T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260313T074500Z
+SUMMARY:ЛК Численные методы
+UID:db04eb577ef344bc313b55aeb2dad679
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260410T073000Z
@@ -395,6 +643,21 @@ SUMMARY:ПЗ Организационно-правовые основы разр
 UID:6d43f2491aed87632178064647bd5030
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кан Игорь Давидович
+DTEND:20260422T073000Z
+LOCATION:3-131
+DTSTART:20260422T060000Z
+SUMMARY:ПЗ Численные методы
+UID:a8146c32a333d08fb5180edc0ae6cb07
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T091500Z
+LOCATION:--каф.
+DTSTART:20260528T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:02b896063ff9c8c4524da56f779d4c97
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
 DTEND:20260421T131500Z
 LOCATION:3-434б
@@ -403,19 +666,36 @@ SUMMARY:ЛР Теория автоматов и формальных языко�
 UID:22f567011194d678deb5c59157502c5b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T073000Z
-LOCATION:--каф.
-DTSTART:20251113T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f8b395ffea4ebc4273c2a4867d2767c2
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260428T131500Z
+LOCATION:3-330
+DTSTART:20260428T114500Z
+SUMMARY:ЛР Основы схемотехники
+UID:efe32f618e8eb3e88bacedb7afb8a4b0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251029T113000Z
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260417T131500Z
 LOCATION:3-Зал А
-DTSTART:20251029T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:6521e5eefd5446bc3ff7dce76d9db01a
+DTSTART:20260417T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:278a81b72351b3cfe3ebfea01b51fcf2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260307T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260307T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:d36977e434d2cbace88453c900704880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260306T131500Z
+LOCATION:3-Зал А
+DTSTART:20260306T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:5eae1f972264fc9490824ce2cd44ff7c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260604T131500Z
@@ -425,11 +705,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:a57814e1c72c06a707c0a3ec89b50cb5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:9-105
-DTSTART:20251031T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:726e8b2946a0d14165e29d4df46f51a9
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260425T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260425T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:e2f1834b1fec284bd08e61861833197a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -440,12 +721,78 @@ SUMMARY:ЛК Численные методы
 UID:a71e793670e074b1e536ffec458dc1fd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251008T131500Z
+DTEND:20260312T073000Z
+LOCATION:--каф.
+DTSTART:20260312T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3e7e0caa53ba33386341776de725df66
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260512T150000Z
+LOCATION:3-240а
+DTSTART:20260512T133000Z
+SUMMARY:ЛР Языки ассемблера
+UID:24e79403e3384f26d193a2fb732cc133
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260218T131500Z
 LOCATION:3-Зал А
-DTSTART:20251008T114500Z
-SUMMARY:ЛК Теория графов
-UID:f58344666683382ac4d271568853138e
+DTSTART:20260218T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:c7f06ac2fb7dfb6794c4669c50edbdf7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T113000Z
+LOCATION:--каф.
+DTSTART:20260305T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2a81b9938c0c27326dd91819e7460836
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260529T131500Z
+LOCATION:3-Зал А
+DTSTART:20260529T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:702d93af54f7c1d33d53a3e41b14b952
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T073000Z
+LOCATION:--каф.
+DTSTART:20260326T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b1a6a085bb3cbda99fc3fdce6320f620
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260226T113000Z
+LOCATION:--каф.
+DTSTART:20260226T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9e91224cb46990893e97fbc4e7980605
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T113000Z
+LOCATION:--каф.
+DTSTART:20260402T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b2982f04bdd403bd1bde3a09553ef23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260429T073000Z
+LOCATION:3-444
+DTSTART:20260429T060000Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:19a334f4b617171867191b33989cca78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260513T091500Z
+LOCATION:3-444
+DTSTART:20260513T074500Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:4942dbf101bfd750155eb40a3d391c6d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260212T073000Z
@@ -455,12 +802,33 @@ SUMMARY:ПЗ Военная подготовка
 UID:406fee0581b851b1cfcc369c35575087
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20250919T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20250919T114500Z
-SUMMARY:ЛК Правоведение
-UID:3f571eaabbf2920a352b2c1b0d058799
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260227T131500Z
+LOCATION:3-Зал А
+DTSTART:20260227T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:2d8c5652d80d2ca41a357722398dd9ca
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260325T113000Z
+LOCATION:--каф. 919
+DTSTART:20260325T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:fe651de6dba2e061aa0206b7eb6ff23c
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260425T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260425T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:05046324e70f695780743259ba334153
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260327T073000Z
+LOCATION:--каф. 919
+DTSTART:20260327T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:dc3f6abf60d62199439a1c0935b35237
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260304T113000Z
@@ -470,35 +838,49 @@ SUMMARY:ПЗ Физическая культура
 UID:0682df01ff69afcebf5ec74015103c47
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251101T091500Z
-LOCATION:3-330
-DTSTART:20251101T074500Z
-SUMMARY:ЛР Теория графов
-UID:edcbce37cb02e6d3efb667b8323a8cb7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251107T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251107T114500Z
-SUMMARY:ЛК Основы психологии
-UID:b5e41da468dbb26010da60389bed5afa
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260602T113000Z
+LOCATION:3-434б
+DTSTART:20260602T100000Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:5593639569623188ece38690ad832840
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251110T091500Z
-LOCATION:3-419
-DTSTART:20251110T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:0bac78329852fbfaa10de29dddbf80c3
+DTEND:20260424T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260424T074500Z
+SUMMARY:ЛК Численные методы
+UID:a9befc04cba977683fd76372d7998aea
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T073000Z
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260527T091500Z
+LOCATION:3-444
+DTSTART:20260527T074500Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:544b65ea7e9e23fe7a2ab95f1831206b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260603T113000Z
 LOCATION:--каф. 919
-DTSTART:20251114T060000Z
+DTSTART:20260603T100000Z
 SUMMARY:ПЗ Физическая культура
-UID:d55080db7952ec646ccb78b7f5b0f7e1
+UID:d313f47c746c468b0b3c2fd1c63894b7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260511T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260511T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:0d71ab3fe9092da3f99abe48e988c9d0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260225T113000Z
+LOCATION:--каф. 919
+DTSTART:20260225T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:17ae0b106b3f4cbe45a3fcd47ee51415
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -509,6 +891,22 @@ SUMMARY:ЛК Численные методы
 UID:d82deb6cb9025cd9c858dc7ad8aefd93
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260512T131500Z
+LOCATION:3-330
+DTSTART:20260512T114500Z
+SUMMARY:ЛР Основы схемотехники
+UID:08c7779387fc4843d39efb852f94a0a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриева Елена Анатольевна
+DTEND:20260313T113000Z
+LOCATION:3-Зал А
+DTSTART:20260313T100000Z
+SUMMARY:ЛК Расширенные возможности языков высокого уровня
+UID:c27a1f62474770f89cdef461035f010e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
 DTEND:20260515T113000Z
 LOCATION:3-Зал А
@@ -517,34 +915,19 @@ SUMMARY:ЛК Экономическая теория
 UID:94f77bb6e44ac95845f5a145fff74fb0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T131500Z
-LOCATION:--каф. 919
-DTSTART:20251111T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:a84ca520aa27c1eb12c868528456900d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251006T131500Z
-LOCATION:3-269
-DTSTART:20251006T114500Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:bddb77d700d63a0c7bec598d8126610a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251213T091500Z
-LOCATION:3-330
-DTSTART:20251213T074500Z
-SUMMARY:ЛР Теория графов
-UID:0923b2e01efd329d0cff81ddd7861f02
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260302T091500Z
 LOCATION:Орш. А-406
 DTSTART:20260302T074500Z
 SUMMARY:ПЗ Иностранный язык
 UID:d22ca1cc7b5c0baf390bbbc932fb1cca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20260603T091500Z
+LOCATION:3-131
+DTSTART:20260603T074500Z
+SUMMARY:ЛР Численные методы
+UID:1530ae056b708d8b0ba090f087314592
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
@@ -555,35 +938,40 @@ SUMMARY:ЛК Экономическая теория
 UID:3d11776fdf297ba74330aa7fc996cef9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251203T091500Z
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260504T150000Z
 LOCATION:3-Зал А
-DTSTART:20251203T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:a6910cc70b99b4b38d1fba5670ca78f9
+DTSTART:20260504T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:f147e785674aad3fdc8226501ea74344
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251024T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251024T114500Z
-SUMMARY:ЛК Основы психологии
-UID:3c511c5e281aa4e00d4ce7ae139b4635
+DTEND:20260330T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:0e151e7e7acf551c4240fd754764cd1a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250916T131500Z
-LOCATION:--каф. 919
-DTSTART:20250916T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:2d05ddceb4efc124925450b5cdc25fdd
+DTEND:20260420T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:a546078ffd16b8410a79fe6bfaabd763
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251110T131500Z
-LOCATION:3-240б
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Программирование
-UID:f3346a167cb00574273c886c1d3def17
+DTEND:20260427T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:efbdc6de819594f17f19f1bfeeedb16f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260305T091500Z
+LOCATION:--каф.
+DTSTART:20260305T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9f9f25d5322d9272f8ccbcbffac27221
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260416T091500Z
@@ -591,14 +979,6 @@ LOCATION:--каф.
 DTSTART:20260416T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:f90de1edcf413db271a02d972613b6b8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251014T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Общая физика
-UID:c9245e152abc61f574a61af432191c74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -616,58 +996,71 @@ SUMMARY:ПЗ Военная подготовка
 UID:306d4a763dd3c0a8b1ae66097cab82b7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251201T113000Z
-LOCATION:3-269
-DTSTART:20251201T100000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:74ff6a955e25d6e32c0da3c40f805973
+DESCRIPTION:Бушманов Иван Сергеевич
+DTEND:20260602T150000Z
+LOCATION:3-131
+DTSTART:20260602T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:58adda3381614c19d1fa88fed2da9c8d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251002T113000Z
+DTEND:20260427T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260427T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:86b790b5c6a6d0138287eb52c332488b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260428T113000Z
+LOCATION:3-330
+DTSTART:20260428T100000Z
+SUMMARY:ЛР Основы схемотехники
+UID:00e1c7f2ff85b6713e29d460801ec9cd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T113000Z
 LOCATION:--каф.
-DTSTART:20251002T100000Z
+DTSTART:20260319T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:c75472aff016235ccbab8d79c2477a13
+UID:6b042d9bfefa9bf9e766f8065e0a0b4a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250917T091500Z
-LOCATION:3-Зал А
-DTSTART:20250917T074500Z
-SUMMARY:ЛК Программирование
-UID:a86ed289ed7f0ba35d4d05dd6fa84c35
+DTEND:20260323T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:93d365a61097f5ee492a845fa3ab9451
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251129T113000Z
-LOCATION:3-434а
-DTSTART:20251129T100000Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:a2bbe6388ac713abfd14c2191c6b24e1
+DTEND:20260414T164500Z
+LOCATION:3-240а
+DTSTART:20260414T151500Z
+SUMMARY:ЛР Языки ассемблера
+UID:db9df7af8f6a1cbb629d8abc24b67468
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250917T150000Z
-LOCATION:3-Зал А
-DTSTART:20250917T133000Z
-SUMMARY:ЛК Теория графов
-UID:1849529d7d8052c80b9c2603946bdb35
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260512T113000Z
+LOCATION:3-330
+DTSTART:20260512T100000Z
+SUMMARY:ЛР Основы схемотехники
+UID:43e5f297f9215a3c80dd6ab11bf57abf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251122T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251122T060000Z
-SUMMARY:ПЗ Правоведение
-UID:fee51d48f0445190b68b7919bbe5e794
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260427T113000Z
+LOCATION:Орш. В-501
+DTSTART:20260427T100000Z
+SUMMARY:ЛК Социология
+UID:ba298dc5efa20392d6c358ff0086dc1e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T073000Z
+DTEND:20260416T113000Z
 LOCATION:--каф.
-DTSTART:20251218T060000Z
+DTSTART:20260416T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:73dd593cc95e5da045689bfe69bf129d
+UID:0a18f00a719d15216b28c1335a5ef3fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
@@ -694,11 +1087,49 @@ SUMMARY:ЛК Основы схемотехники
 UID:74be267439346cad057f4e38fb96a5aa
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260331T150000Z
+LOCATION:3-240а
+DTSTART:20260331T133000Z
+SUMMARY:ПЗ Языки ассемблера
+UID:a6fe2a409dcbc112aab50dd0cf99f8bd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T091500Z
+LOCATION:--каф.
+DTSTART:20260212T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4f127a90c2e08b206104d65e50b368c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260320T131500Z
+LOCATION:3-Зал А
+DTSTART:20260320T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:998fe958c76e9a1fdaadd864c4b929df
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260406T073000Z
 LOCATION:Орш. А-406
 DTSTART:20260406T060000Z
 SUMMARY:ПЗ Иностранный язык
 UID:ba1a51470fac1c21d8fb3f50e156c33e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260213T131500Z
+LOCATION:3-Зал А
+DTSTART:20260213T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:21fb7ce5c6fe34a3466431dad48befa1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260323T131500Z
+LOCATION:3-Зал А
+DTSTART:20260323T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:3114d4858879499e041a0d756939ef3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ряполов Сергей Владимирович
@@ -707,13 +1138,6 @@ LOCATION:Орш. В-501
 DTSTART:20260413T100000Z
 SUMMARY:ЛК Социология
 UID:0d41a419be2e7d715c24e279f36141a3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:--каф.
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:951e3a8a985a08c4ba4f1b4bf42378b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -729,6 +1153,20 @@ LOCATION:--каф.
 DTSTART:20260514T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:4bee127afc2177624829fa21f31b4003
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260320T073000Z
+LOCATION:--каф. 919
+DTSTART:20260320T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:a9af50887f79bfda55c29f3a248568d4
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T091500Z
+LOCATION:Орш. А-406
+DTSTART:20260525T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:88b396b9ddf1547a2cc6f98ea8327e9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
@@ -762,6 +1200,28 @@ SUMMARY:ПЗ Иностранный язык
 UID:4798cbee6154485371c55a544e966494
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260521T073000Z
+LOCATION:--каф.
+DTSTART:20260521T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:be85c9f0df45a5d20bc1ed4e444a0784
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260528T073000Z
+LOCATION:--каф.
+DTSTART:20260528T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:893d845ef860b0c672daf6270d3ec9f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20260529T113000Z
+LOCATION:3-Зал А
+DTSTART:20260529T100000Z
+SUMMARY:ЛК Экономическая теория
+UID:44ec0b74cd3282658df8c74d628b5658
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260211T113000Z
 LOCATION:--каф. 919
 DTSTART:20260211T100000Z
@@ -776,26 +1236,32 @@ SUMMARY:ЛК Языки ассемблера
 UID:73e0298b7cb57d77b9739cdad46b02de
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251118T060000Z
+DTEND:20260504T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260504T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:7c47d1ca6a4eb98d7a723a653bf5f532
+UID:20de51adf54b5a9a13499254d736d38f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251208T073000Z
-LOCATION:3-423
-DTSTART:20251208T060000Z
-SUMMARY:ПЗ Общая физика
-UID:a63aba75a55ae57ce0ee34615467c624
+DTEND:20260521T091500Z
+LOCATION:--каф.
+DTSTART:20260521T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f04ac4bfcaf126cf586cbcf6868e6973
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T113000Z
-LOCATION:9-105
-DTSTART:20250926T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:48b3da8b12d2cad7496d52ba2ba0a8f2
+DTEND:20260219T113000Z
+LOCATION:--каф.
+DTSTART:20260219T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e8dca9c32ffb2fac317c4e7c3f3cf49f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260218T113000Z
+LOCATION:--каф. 919
+DTSTART:20260218T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:3a36fbc7df1b45023478565a82948ec7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -806,237 +1272,19 @@ SUMMARY:ЛР Расширенные возможности языков высо
 UID:f9b71157ce2b8eb46dd3d23f16fb2d7a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250918T073000Z
-LOCATION:--каф.
-DTSTART:20250918T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3fa634c3a17079fb4f0012f659675221
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260514T113000Z
-LOCATION:--каф.
-DTSTART:20260514T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:50c1c47db0aab7a3515bcaf9abdb19e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260409T131500Z
-LOCATION:--каф.
-DTSTART:20260409T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ea5b906051d25aa968edabe2fae52eaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251216T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251216T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:d006b87c32084009d7f49affe7e878b0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260512T164500Z
-LOCATION:3-240а
-DTSTART:20260512T151500Z
-SUMMARY:ЛР Языки ассемблера
-UID:a359ffa5e018b234d816e633984cd32c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260425T091500Z
-LOCATION:3-303
-DTSTART:20260425T074500Z
-SUMMARY:ПЗ Социология
-UID:8a7805e9cf84d5e544e13315117560ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260403T131500Z
-LOCATION:3-Зал А
-DTSTART:20260403T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:ff6880db26334d7faeac9fa962d25653
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T150000Z
-LOCATION:3-240а
-DTSTART:20260414T133000Z
-SUMMARY:ЛР Языки ассемблера
-UID:4ff14194e915a7202f681a733548a1d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T131500Z
-LOCATION:--каф.
-DTSTART:20251127T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:29cda7cfdf66ec45e8bb9775d7bc7eef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260228T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260228T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:fe94ced505ffc92e4b71fd4d016d16c0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T091500Z
-LOCATION:--каф.
-DTSTART:20250904T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:68fcaa633f37989672a1b2b4ce9e1310
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250910T091500Z
-LOCATION:3-Зал А
-DTSTART:20250910T074500Z
-SUMMARY:ЛК Программирование
-UID:91af5923a924ae50c39943db90f523df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260502T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260502T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:ad142e4ce70a37b8d915d0e88ccc8e1a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T091500Z
-LOCATION:--каф.
-DTSTART:20251211T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9ec2f6edcb2f318b212be943bfe57e7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20260220T113000Z
-LOCATION:3-Зал А
-DTSTART:20260220T100000Z
-SUMMARY:ЛК Экономическая теория
-UID:0fed0eea0d765de78b7d6afd6405df3d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T091500Z
-LOCATION:--каф.
-DTSTART:20251127T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d8a80e191df0daa19a9d903b54bca2bb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260313T073000Z
-LOCATION:--каф. 919
-DTSTART:20260313T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:84de393560be62741c542904ee6b0891
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251117T131500Z
-LOCATION:3-269
-DTSTART:20251117T114500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:572c3960e12b7fd32faab9b127473767
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260318T091500Z
-LOCATION:3-444
-DTSTART:20260318T074500Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:6a67b689218fe2ba780fc230ae2c791e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251220T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251220T060000Z
-SUMMARY:ПЗ Правоведение
-UID:bbef1ac5bebdec70ad2a5ef5a3f5b8bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260212T113000Z
-LOCATION:--каф.
-DTSTART:20260212T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9e90d2cc8c348544060fb88e5fe31914
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T113000Z
-LOCATION:--каф.
-DTSTART:20250918T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f246dd8f77e2d869709f6b185ae8bc6e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260319T073000Z
-LOCATION:--каф.
-DTSTART:20260319T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:245f9c117bebdbfcc5e7f50317ba7f51
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:9-105
-DTSTART:20251114T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c20104b4200139edeb1cbb2d3c8fbe33
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260328T091500Z
-LOCATION:3-303
-DTSTART:20260328T074500Z
-SUMMARY:ПЗ Социология
-UID:7975ed986c07b57b4416270a94c40291
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251114T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251114T114500Z
-SUMMARY:ЛК Правоведение
-UID:69091b72b1be158b0955c906aa7b2c3c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кан Игорь Давидович
-DTEND:20260422T091500Z
+DESCRIPTION:Бушманов Иван Сергеевич
+DTEND:20260407T150000Z
 LOCATION:3-131
-DTSTART:20260422T074500Z
-SUMMARY:ПЗ Численные методы
-UID:637616b774fd96ea798526fa8bfc3371
+DTSTART:20260407T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:090e08bec2cdc8b834f87a3f0540ca71
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260527T073000Z
-LOCATION:3-444
-DTSTART:20260527T060000Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:9c27d22a22bd8b94d3736cc9562bf88e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданова Софья Борисовна
-DTEND:20250922T091500Z
-LOCATION:3-419
-DTSTART:20250922T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:bfcbbbdbce4ba1d34cda364c45f0bf5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T131500Z
-LOCATION:--каф.
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fc9cb63867cef7c411c0cb8496ddf1b7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260320T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260320T074500Z
-SUMMARY:ЛК Численные методы
-UID:b07952e3cfb73952e589fd64b1cbb341
+DTEND:20260417T073000Z
+LOCATION:--каф. 919
+DTSTART:20260417T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:e0e1dc784c7e4fa08d98efa4151bd97c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260601T091500Z
@@ -1046,958 +1294,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:c65d8cd4d6cebf1af425d12f27b18533
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250909T073000Z
-LOCATION:ГУК А-402
-DTSTART:20250909T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:900568105843f30451a96e994c156972
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:--каф.
-DTSTART:20251106T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:21adf58faa163ce5dabbe36301a93b76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260508T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260508T074500Z
-SUMMARY:ЛК Численные методы
-UID:b3131142cca08787d328b55249054edd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251210T091500Z
-LOCATION:3-Зал А
-DTSTART:20251210T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:b879872614a4ebaf2f3f05634601d760
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бушманов Иван Сергеевич
-DTEND:20260324T150000Z
-LOCATION:3-131
-DTSTART:20260324T133000Z
-SUMMARY:ПЗ Экономическая теория
-UID:41f101567a524b951fa55c68080ebc48
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T073000Z
-LOCATION:--каф.
-DTSTART:20260219T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ac237a319539a8b05c243a45c83550df
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T131500Z
-LOCATION:--каф. 919
-DTSTART:20251223T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:46b0f972ccedc6ff23757bd800e2a2a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251103T131500Z
-LOCATION:3-269
-DTSTART:20251103T114500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:62198ebb96ec2046fc1bec8fb9fe1326
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260227T073000Z
-LOCATION:--каф. 919
-DTSTART:20260227T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:0c49b4884f2ff2f8467a0db35c8c60cf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260326T113000Z
-LOCATION:--каф.
-DTSTART:20260326T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5ff1980b1d010eb3e2d1f40a920e4001
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251101T073000Z
-LOCATION:3-330
-DTSTART:20251101T060000Z
-SUMMARY:ЛР Теория графов
-UID:11bc468ae3edf35968944b0b491ce981
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251220T113000Z
-LOCATION:Орш. В-314
-DTSTART:20251220T100000Z
-SUMMARY:ЛР Общая физика
-UID:47c1605f786864e95b4421b39a85485e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданова Софья Борисовна
-DTEND:20260603T073000Z
-LOCATION:3-131
-DTSTART:20260603T060000Z
-SUMMARY:ЛР Численные методы
-UID:c1e7f5c571945e14684208c6546e3ba1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251220T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251220T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:6cb668bec63954ed7fbaffed60a8d351
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251014T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251014T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:6cc2312f51aeaa6798eba1cf309a23bd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260526T164500Z
-LOCATION:3-240а
-DTSTART:20260526T151500Z
-SUMMARY:ЛР Языки ассемблера
-UID:4f1c0cb6f522afc30dcc146878368cde
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251108T131500Z
-LOCATION:Орш. В-605
-DTSTART:20251108T114500Z
-SUMMARY:ЛР Общая физика
-UID:e434b2d901fc29d53b5492d64edc6942
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260411T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260411T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:52caa3ef545d4db194dee06f41682598
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:9-105
-DTSTART:20251205T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:dbecab27d70b465f5f95ff2176f6382f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:9-105
-DTSTART:20251024T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0e2a058d5054d3cfd6cbaa76c73dd168
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260411T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260411T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:bd181b9f7f9b1c1238cdd32cf6ff5cdd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251007T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Общая физика
-UID:de3b4f0eddc365717f6a9b6bc7be18e7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250910T113000Z
-LOCATION:3-Зал А
-DTSTART:20250910T100000Z
-SUMMARY:ЛК Программирование
-UID:4d8684763cd8f25a2744d82fc7eceafa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260306T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260306T074500Z
-SUMMARY:ЛК Численные методы
-UID:b304a0784d2f4e6e8985605a376ba0ba
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260430T113000Z
-LOCATION:--каф.
-DTSTART:20260430T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:16d90f84d623143faf085287936bb3f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20250905T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20250905T114500Z
-SUMMARY:ЛК Правоведение
-UID:ba04aff0a12b327b6b6916ba26769397
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250908T131500Z
-LOCATION:3-269
-DTSTART:20250908T114500Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:0869de5f716860dd0832eec18922335c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251117T091500Z
-LOCATION:3-419
-DTSTART:20251117T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:289c4fdcdfb8a8b8db5a38e40ad7ae5c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260409T113000Z
-LOCATION:--каф.
-DTSTART:20260409T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a57ffb3de15c3f5852edbd29d52b99d4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260507T091500Z
-LOCATION:--каф.
-DTSTART:20260507T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4a3a206da83097b48b2ae2714ba25772
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251129T073000Z
-LOCATION:3-330
-DTSTART:20251129T060000Z
-SUMMARY:ЛР Теория графов
-UID:15da02ab7ebdf49d4fdacd13108a9731
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251217T091500Z
-LOCATION:3-Зал А
-DTSTART:20251217T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:48342438dbcd09945beebf0c4e01a808
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251122T113000Z
-LOCATION:Орш. В-605
-DTSTART:20251122T100000Z
-SUMMARY:ЛР Общая физика
-UID:768a058002d7e3218c33f3ff4776d6c2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251015T131500Z
-LOCATION:3-Зал А
-DTSTART:20251015T114500Z
-SUMMARY:ЛК Теория графов
-UID:714966902affdd91f5f26101bde154cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кан Игорь Давидович
-DTEND:20260408T073000Z
-LOCATION:3-131
-DTSTART:20260408T060000Z
-SUMMARY:ПЗ Численные методы
-UID:b03c2b621937f81a445b3f9bd6991508
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260514T091500Z
-LOCATION:--каф.
-DTSTART:20260514T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6d2314c6c03e191c047b879414eda46a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кан Игорь Давидович
-DTEND:20260408T091500Z
-LOCATION:3-131
-DTSTART:20260408T074500Z
-SUMMARY:ПЗ Численные методы
-UID:991b8cab85e4f171fe9a8bde49a647d6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260402T073000Z
-LOCATION:--каф.
-DTSTART:20260402T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bb2211a9d857aebab3f0619c77922fd8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260406T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260406T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:209513e100e2f23e0d35faf1bddd5aea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260605T073000Z
-LOCATION:--каф. 919
-DTSTART:20260605T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:ee741523cd87fdaf9f805f4a1b171a28
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20250909T113000Z
-LOCATION:ГУК В-228
-DTSTART:20250909T100000Z
-SUMMARY:ЛК Общая физика
-UID:04d5fc415d0f01d05b949fd5ed93fae8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260212T131500Z
-LOCATION:--каф.
-DTSTART:20260212T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2d05ae74fe44d5b1c1147576cd220fc9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250917T131500Z
-LOCATION:3-Зал А
-DTSTART:20250917T114500Z
-SUMMARY:ЛК Теория графов
-UID:3546869d7d3c24b8aaf71f822511e71e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251115T113000Z
-LOCATION:3-434а
-DTSTART:20251115T100000Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:a34a2b90355294c52ddb8302aeab783d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T131500Z
-LOCATION:--каф. 919
-DTSTART:20251216T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:cc9914c59dd8f308b9533f8d4cb71f92
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260602T131500Z
-LOCATION:3-434б
-DTSTART:20260602T114500Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:4313da0386ed7ff5a5ca733d8495e267
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T091500Z
-LOCATION:--каф.
-DTSTART:20251120T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ca8b0af782354feeeb3f16008806e7a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:--каф.
-DTSTART:20251023T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c4fa7c2d6b6ace3144ad32430587d17a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T073000Z
-LOCATION:--каф.
-DTSTART:20251225T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3c14d92779a02a6b806cdf2c6a892c03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20250912T091500Z
-LOCATION:ГУК В-214
-DTSTART:20250912T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:68a7fe3818b01af43443ae1447c0d42f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260421T113000Z
-LOCATION:3-434б
-DTSTART:20260421T100000Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:b1a9a23dbbf6550eb1dbacd242602fef
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260418T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260418T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:53c919ea991d159192d7b561ef7e4a03
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260414T131500Z
-LOCATION:3-330
-DTSTART:20260414T114500Z
-SUMMARY:ЛР Основы схемотехники
-UID:9f24ff095fdd268af3047ff1fa06d9b1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260430T073000Z
-LOCATION:--каф.
-DTSTART:20260430T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a06c0bfbaac5115ec01e4c8b7b27d9fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260511T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5c147e9baa5ce7e9f119f32939bcd4f2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260214T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260214T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:39fb3410879d9790bfe735a1ee0cbaf7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260221T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260221T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:9f3dad0520bf9d222ed24ab0e9c12631
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260312T131500Z
-LOCATION:--каф.
-DTSTART:20260312T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1c788263d653332b6caa926230a81068
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T113000Z
-LOCATION:--каф.
-DTSTART:20260528T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:72a5f63bd47c17ca12b0b97411c3bc5d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T073000Z
-LOCATION:--каф.
-DTSTART:20250904T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:63143bd513bc6d7eea10131a29396ac5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251010T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Основы психологии
-UID:60400eaeae0cb1c1083d66c482135630
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20260120T073000Z
-LOCATION:Орш. В-621
-DTSTART:20260120T060000Z
-SUMMARY:Экзамен Общая физика
-UID:7adad0debc3f737919636eca6eded8ce
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T113000Z
-LOCATION:--каф.
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2d892318105df1185c39f6c8b00fd801
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260522T131500Z
-LOCATION:3-Зал А
-DTSTART:20260522T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:3482652ddaafbc71393fae3c45609bb5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260424T073000Z
-LOCATION:--каф. 919
-DTSTART:20260424T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:6ac70048252408067cb105a570e8356c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251124T131500Z
-LOCATION:3-240б
-DTSTART:20251124T114500Z
-SUMMARY:ЛР Программирование
-UID:41dae31fd23748b26a41f947a6a08303
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T073000Z
-LOCATION:--каф.
-DTSTART:20250911T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4cb82aa202972ba3c358c4098b7b9e5b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T073000Z
-LOCATION:--каф.
-DTSTART:20260416T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:63cad58cb643f178efd9bb61e9f30466
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20250913T073000Z
-LOCATION:Орш. В-407
-DTSTART:20250913T060000Z
-SUMMARY:ПЗ Правоведение
-UID:0961563667d22b64aabbdb29a75e5571
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T131500Z
-LOCATION:--каф.
-DTSTART:20260416T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ebdb54cb25f92e58b0692cdbd6c86cf9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T131500Z
-LOCATION:--каф.
-DTSTART:20260528T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:40ad9bd2d325db8e93674687d8085231
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260313T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260313T074500Z
-SUMMARY:ЛК Численные методы
-UID:db04eb577ef344bc313b55aeb2dad679
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251110T113000Z
-LOCATION:3-240б
-DTSTART:20251110T100000Z
-SUMMARY:ЛР Программирование
-UID:3ed4698c90ced4930c20032e14748712
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кан Игорь Давидович
-DTEND:20260422T073000Z
-LOCATION:3-131
-DTSTART:20260422T060000Z
-SUMMARY:ПЗ Численные методы
-UID:a8146c32a333d08fb5180edc0ae6cb07
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T131500Z
-LOCATION:--каф.
-DTSTART:20251016T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5707443d457aa5ed4c187aa662ae210f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251206T113000Z
-LOCATION:Орш. В-605
-DTSTART:20251206T100000Z
-SUMMARY:ЛР Общая физика
-UID:219aff4251d8da1d17be38ee68bfb91b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260417T131500Z
-LOCATION:3-Зал А
-DTSTART:20260417T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:278a81b72351b3cfe3ebfea01b51fcf2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260428T131500Z
-LOCATION:3-330
-DTSTART:20260428T114500Z
-SUMMARY:ЛР Основы схемотехники
-UID:efe32f618e8eb3e88bacedb7afb8a4b0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251222T113000Z
-LOCATION:3-240б
-DTSTART:20251222T100000Z
-SUMMARY:ЛР Программирование
-UID:57f6d865c3802a067c8482f546bfef06
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251027T073000Z
-LOCATION:3-423
-DTSTART:20251027T060000Z
-SUMMARY:ПЗ Общая физика
-UID:dca4448ddec82d51d9ba9170d4cf9e4c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T073000Z
-LOCATION:--каф.
-DTSTART:20251204T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:743c81b7de90af6672bdf8899c4d0114
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:9-105
-DTSTART:20251121T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8f51bf7130cf410d4148e2a323cf983c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260218T131500Z
-LOCATION:3-Зал А
-DTSTART:20260218T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:c7f06ac2fb7dfb6794c4669c50edbdf7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260529T131500Z
-LOCATION:3-Зал А
-DTSTART:20260529T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:702d93af54f7c1d33d53a3e41b14b952
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T073000Z
-LOCATION:--каф.
-DTSTART:20251211T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bc8c5b5ba328ac1c1ff574919bc67173
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250903T131500Z
-LOCATION:3-Зал А
-DTSTART:20250903T114500Z
-SUMMARY:ЛК Теория графов
-UID:a239d3b60a2ddf6bf3be9beda1f95d85
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260513T091500Z
-LOCATION:3-444
-DTSTART:20260513T074500Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:4942dbf101bfd750155eb40a3d391c6d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250924T150000Z
-LOCATION:3-Зал А
-DTSTART:20250924T133000Z
-SUMMARY:ЛК Теория графов
-UID:a0fcaaed533e808dfeb806e71c8babba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251015T150000Z
-LOCATION:3-Зал А
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Теория графов
-UID:87162e79c76d0ad4c0361bb8f0fb6675
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260227T131500Z
-LOCATION:3-Зал А
-DTSTART:20260227T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:2d8c5652d80d2ca41a357722398dd9ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260602T113000Z
-LOCATION:3-434б
-DTSTART:20260602T100000Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:5593639569623188ece38690ad832840
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260424T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260424T074500Z
-SUMMARY:ЛК Численные методы
-UID:a9befc04cba977683fd76372d7998aea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20250919T091500Z
-LOCATION:ГУК В-214
-DTSTART:20250919T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:7d9dfe2ec444b9cc83195871b7f3a265
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260512T131500Z
-LOCATION:3-330
-DTSTART:20260512T114500Z
-SUMMARY:ЛР Основы схемотехники
-UID:08c7779387fc4843d39efb852f94a0a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20260313T113000Z
-LOCATION:3-Зал А
-DTSTART:20260313T100000Z
-SUMMARY:ЛК Расширенные возможности языков высокого уровня
-UID:c27a1f62474770f89cdef461035f010e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20250920T073000Z
-LOCATION:3-330
-DTSTART:20250920T060000Z
-SUMMARY:ПЗ Теория графов
-UID:b4e6b7ffd861333be0cb87bb2859a5a9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260504T150000Z
-LOCATION:3-Зал А
-DTSTART:20260504T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:f147e785674aad3fdc8226501ea74344
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251129T091500Z
-LOCATION:3-330
-DTSTART:20251129T074500Z
-SUMMARY:ЛР Теория графов
-UID:e9a4e114c8f6e31184f688267b45dc9d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:9-105
-DTSTART:20251212T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:67f38e9d2ba5121d2bdd12c44601bc64
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260420T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:a546078ffd16b8410a79fe6bfaabd763
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260305T091500Z
-LOCATION:--каф.
-DTSTART:20260305T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9f9f25d5322d9272f8ccbcbffac27221
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251213T073000Z
-LOCATION:3-330
-DTSTART:20251213T060000Z
-SUMMARY:ЛР Теория графов
-UID:33e8cf0a47ac8df1b35690b90cce5407
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250924T091500Z
-LOCATION:3-Зал А
-DTSTART:20250924T074500Z
-SUMMARY:ЛК Программирование
-UID:f0870f6c8511476d843151ccf53ac769
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260427T113000Z
-LOCATION:Орш. В-501
-DTSTART:20260427T100000Z
-SUMMARY:ЛК Социология
-UID:ba298dc5efa20392d6c358ff0086dc1e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20250905T091500Z
-LOCATION:ГУК В-214
-DTSTART:20250905T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:01a5b685b10800ac81ef42287fe0956b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260416T113000Z
-LOCATION:--каф.
-DTSTART:20260416T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0a18f00a719d15216b28c1335a5ef3fe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251222T131500Z
-LOCATION:3-240б
-DTSTART:20251222T114500Z
-SUMMARY:ЛР Программирование
-UID:153997dfab94ba71ec409cd51cb38df9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260331T150000Z
-LOCATION:3-240а
-DTSTART:20260331T133000Z
-SUMMARY:ПЗ Языки ассемблера
-UID:a6fe2a409dcbc112aab50dd0cf99f8bd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260320T131500Z
-LOCATION:3-Зал А
-DTSTART:20260320T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:998fe958c76e9a1fdaadd864c4b929df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251111T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251111T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:f901750c175374afa6b45ec4100bc0fe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251122T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251122T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:08dfe41d737f8da1418dc100ed5ef7dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260525T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:88b396b9ddf1547a2cc6f98ea8327e9e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251112T091500Z
-LOCATION:3-Зал А
-DTSTART:20251112T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:9fb96280214d1615c9e3cb88fc036fa6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20260529T113000Z
-LOCATION:3-Зал А
-DTSTART:20260529T100000Z
-SUMMARY:ЛК Экономическая теория
-UID:44ec0b74cd3282658df8c74d628b5658
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T113000Z
-LOCATION:--каф.
-DTSTART:20250911T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:27f1b9847de68ebd85093167d22f0d50
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T113000Z
-LOCATION:--каф.
-DTSTART:20250925T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:760fc9c9b5a87c6310e9cfb6139b4b4e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20250922T073000Z
-LOCATION:3-423
-DTSTART:20250922T060000Z
-SUMMARY:ПЗ Общая физика
-UID:a764a8616eaf78ec6698f5101ad52f2b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260521T091500Z
-LOCATION:--каф.
-DTSTART:20260521T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f04ac4bfcaf126cf586cbcf6868e6973
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:9-105
-DTSTART:20251003T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8180089f326f43f42c2ae54d0dd70486
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T113000Z
-LOCATION:--каф.
-DTSTART:20251016T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b7dc34ad0c8d745ea24102e7d27a0717
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бушманов Иван Сергеевич
-DTEND:20260407T150000Z
-LOCATION:3-131
-DTSTART:20260407T133000Z
-SUMMARY:ПЗ Экономическая теория
-UID:090e08bec2cdc8b834f87a3f0540ca71
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T073000Z
-LOCATION:--каф. 919
-DTSTART:20251205T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:cccd288d7859ce8aaab6553833039f76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251003T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251003T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:a37ed7456bcd7b5e2cd1fcba340e06de
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T113000Z
-LOCATION:--каф.
-DTSTART:20251113T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3acc0cbaddd52f9fbed085d2df6f937f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250903T113000Z
-LOCATION:3-Зал А
-DTSTART:20250903T100000Z
-SUMMARY:ЛК Программирование
-UID:41c5781212d244c6d5a879446b213d1d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T131500Z
-LOCATION:--каф. 919
-DTSTART:20250923T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:93635720f3e16756bd8eb6bfdfc0a51e
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260228T091500Z
+LOCATION:3-303
+DTSTART:20260228T074500Z
+SUMMARY:ПЗ Социология
+UID:dbf2e6dfcd3ac12234153ade3599be83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -2008,1246 +1310,27 @@ SUMMARY:ЛК Численные методы
 UID:27d5a555929b20806188467a74bd8afb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260306T073000Z
-LOCATION:--каф. 919
-DTSTART:20260306T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:972443e98a43c281df122c26784f7a1c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T091500Z
-LOCATION:--каф.
-DTSTART:20251218T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:13f5837e8d1f0bbdbc439c49a2509fe9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260319T091500Z
-LOCATION:--каф.
-DTSTART:20260319T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d60eee08ef0efa464d2bce012054583c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20250930T113000Z
-LOCATION:ГУК В-228
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Общая физика
-UID:4b248e22de834bb2c799fca7fb4c8de1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251203T113000Z
-LOCATION:3-Зал А
-DTSTART:20251203T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:fc0c1b5ad667a16f6296f1540a9f2034
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T131500Z
-LOCATION:--каф. 919
-DTSTART:20251007T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:8302ec6c871d3ffb4aa40dd2b348a32b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260305T131500Z
-LOCATION:--каф.
-DTSTART:20260305T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7b52283e2b55a57e17b78be1e1c04908
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260520T113000Z
-LOCATION:--каф. 919
-DTSTART:20260520T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:9bcaaa15d023fc9d86a6af8382c047ef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251118T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251118T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:a394da0f15f317c48fc5a79c70f6ce99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251126T091500Z
-LOCATION:3-Зал А
-DTSTART:20251126T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:5bed08e2a91ff3912582096daa612a2f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260112T073000Z
-LOCATION:ГУК Б-444
-DTSTART:20260112T060000Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:d706d874ab4e1b075c943ba5854ca8ec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251006T073000Z
-LOCATION:3-423
-DTSTART:20251006T060000Z
-SUMMARY:ПЗ Общая физика
-UID:a46013d1b1d1c850ff30350d22e83efa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260312T113000Z
-LOCATION:--каф.
-DTSTART:20260312T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7ee7e83a004d36326bdc346eff4da63e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260224T164500Z
-LOCATION:3-213
-DTSTART:20260224T151500Z
-SUMMARY:ПЗ Организационно-правовые основы разработки программного обеспечения
-UID:9eb449a1a6361efd907ea2136cd1490e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:--каф.
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1e6cbdce5ef104132c2599bc0992d97a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260414T113000Z
-LOCATION:3-330
-DTSTART:20260414T100000Z
-SUMMARY:ЛР Основы схемотехники
-UID:45e65a95a59b6ebe92b63edbb24d7dea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251211T113000Z
-LOCATION:--каф.
-DTSTART:20251211T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:71bae8f3c1e1117535b53389e23ec288
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260304T073000Z
-LOCATION:3-444
-DTSTART:20260304T060000Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:1bc4294687a049b27727b80bfb634ad4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260508T131500Z
-LOCATION:3-Зал А
-DTSTART:20260508T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:d083d9084cdfc287382c2391ef10fda4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251209T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7415f2f9bb306104547f5ea14c3809d5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260420T150000Z
-LOCATION:3-Зал А
-DTSTART:20260420T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:b02093b11fff6d5fea7bbb7e22209b52
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T091500Z
-LOCATION:--каф.
-DTSTART:20250918T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:470370fdde606b7411c72db7aecb6f1b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251210T113000Z
-LOCATION:3-Зал А
-DTSTART:20251210T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:2f08cfc77b582ff28e6510f793c1c890
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251022T113000Z
-LOCATION:3-Зал А
-DTSTART:20251022T100000Z
-SUMMARY:ЛК Программирование
-UID:f6f2ca34f5e967936b45270dbf49bebb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251007T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251007T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:a69e77d5397e1fb685ee9f6a19838c84
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260401T091500Z
-LOCATION:3-444
-DTSTART:20260401T074500Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:fd2b503e179f5e5c62ad7229b415add0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251121T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251121T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:bfe44da49cbdc92111db4034d06d9aaf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T073000Z
-LOCATION:--каф. 919
-DTSTART:20251010T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:aa9b6a72ac5061ecf558e314c7085ade
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T073000Z
-LOCATION:ГУК А-402
-DTSTART:20250916T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:766bf44afd1cfe6fbbb983771093bd8e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260430T131500Z
-LOCATION:--каф.
-DTSTART:20260430T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fc20516918051f12e4b4fb131ffe0f59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T113000Z
-LOCATION:--каф.
-DTSTART:20251023T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:40818aaee09f3c07213914e8bec9dfb7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260402T131500Z
-LOCATION:--каф.
-DTSTART:20260402T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fb719f368471221e55dfb25cf80df4bf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251119T091500Z
-LOCATION:3-Зал А
-DTSTART:20251119T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:76cbf6b513a0959680089f9c52773800
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T113000Z
-LOCATION:9-105
-DTSTART:20250919T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ee68c66ea6d4ec590e1a8f6e1786ac06
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251223T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251223T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:b2ef11a37e7bb7ce4c0632a0d170cb73
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20260327T113000Z
-LOCATION:3-Зал А
-DTSTART:20260327T100000Z
-SUMMARY:ЛК Расширенные возможности языков высокого уровня
-UID:f0c6b3c02bb8d1868cc0e58690051102
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260326T131500Z
-LOCATION:--каф.
-DTSTART:20260326T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dc31cf1b94f403b5d923c78f96239844
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251215T131500Z
-LOCATION:3-269
-DTSTART:20251215T114500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:14418056ac239b04b95e652c685bbf76
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:--каф.
-DTSTART:20251023T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9ef6498393d5fe9855dd1233cf8341c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260407T164500Z
-LOCATION:3-213
-DTSTART:20260407T151500Z
-SUMMARY:ПЗ Организационно-правовые основы разработки программного обеспечения
-UID:27bf250869ae6c362fd57ce3c30a3705
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251205T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251205T114500Z
-SUMMARY:ЛК Основы психологии
-UID:80f21ed83b7261b48bc01c6de3d5ac87
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251022T091500Z
-LOCATION:3-Зал А
-DTSTART:20251022T074500Z
-SUMMARY:ЛК Программирование
-UID:eddbacd25af46f52271ea2e676594444
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260227T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260227T074500Z
-SUMMARY:ЛК Численные методы
-UID:d86b5b123d176caeb9d831c55f515559
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251108T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251108T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:9549926a0c9e3c12b77727f94b8fcd39
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:9-105
-DTSTART:20250912T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:eb643270a5917b4492ab09e435b8ba98
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260519T131500Z
-LOCATION:3-434б
-DTSTART:20260519T114500Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:3e97b1eb4e2c4e267124b9e965225f0a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260505T131500Z
-LOCATION:3-434б
-DTSTART:20260505T114500Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:5f30d69bf6643da12aa33e76f44a2c80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251027T131500Z
-LOCATION:3-240б
-DTSTART:20251027T114500Z
-SUMMARY:ПЗ Программирование
-UID:626b9ee4b1ac8bfc197196080ae38a23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T073000Z
-LOCATION:--каф. 919
-DTSTART:20251003T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3b826de600d90209128303b5cb79dc22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251018T091500Z
-LOCATION:3-330
-DTSTART:20251018T074500Z
-SUMMARY:ПЗ Теория графов
-UID:b8e40f55566c3431d16de00d35576bff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260519T113000Z
-LOCATION:3-434б
-DTSTART:20260519T100000Z
-SUMMARY:ЛР Теория автоматов и формальных языков
-UID:ee99d8a4d3f52dfc5ee1a69e3d49d22a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260504T131500Z
-LOCATION:3-Зал А
-DTSTART:20260504T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:1bbcedf7f0261b1a8eb95761805ec6f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260527T113000Z
-LOCATION:--каф. 919
-DTSTART:20260527T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:0f6e847fad83eaac2d6f11b0f1a01652
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260417T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260417T074500Z
-SUMMARY:ЛК Численные методы
-UID:c564d50133020fae1f611fea6bb4f5cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251112T113000Z
-LOCATION:3-Зал А
-DTSTART:20251112T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:147168f311328b19a4520c5cb2b4e08a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260213T073000Z
-LOCATION:--каф. 919
-DTSTART:20260213T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:51a725912bfd457e5a07ffd272879c91
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260316T113000Z
-LOCATION:Орш. В-501
-DTSTART:20260316T100000Z
-SUMMARY:ЛК Социология
-UID:d4275f1032ae7d2a37c0ce13cc97abb6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20250923T113000Z
-LOCATION:ГУК В-228
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Общая физика
-UID:fd818340f8ae40bfef0d025252e7860f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T131500Z
-LOCATION:--каф. 919
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:269d0feaae6e7f41b1d5c622062d408f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20260124T091500Z
-LOCATION:3-269
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Электротехника и электроника
-UID:c288c4a0fc52d6449b7a345af5555c4e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251108T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251108T060000Z
-SUMMARY:ПЗ Правоведение
-UID:a461d02d083307e22b9278af687a74e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260601T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260601T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4d27472c37a7ad0e7ca9a8744e606303
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260323T150000Z
-LOCATION:3-Зал А
-DTSTART:20260323T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:4c6b638ad14491a5260ac8097fa90bed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260523T091500Z
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260606T091500Z
 LOCATION:3-303
-DTSTART:20260523T074500Z
+DTSTART:20260606T074500Z
 SUMMARY:ПЗ Социология
-UID:d25c206b854ad482c4e252828a807b64
+UID:eb6ea874522032dc9bfc65d42d646c98
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260502T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260502T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:5a165e8bdfc70507128e37da50f6ef20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251003T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Правоведение
-UID:615f35313ce367239cedbb75bc967c20
+DTEND:20260402T091500Z
+LOCATION:--каф.
+DTSTART:20260402T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4768715dd395b2f68aec86921579100c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260418T113000Z
+DTEND:20260314T113000Z
 LOCATION:ГУК В-221
-DTSTART:20260418T100000Z
+DTSTART:20260314T100000Z
 SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:feaae474ec8ad7e4f17b33f82b7e374a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20260410T113000Z
-LOCATION:3-Зал А
-DTSTART:20260410T100000Z
-SUMMARY:ЛК Расширенные возможности языков высокого уровня
-UID:08b9648f296ec4d23e7adfdd974832d7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бушманов Иван Сергеевич
-DTEND:20260519T150000Z
-LOCATION:3-131
-DTSTART:20260519T133000Z
-SUMMARY:ПЗ Экономическая теория
-UID:c21aeabd12697cde2f15a081159827fd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251208T091500Z
-LOCATION:3-419
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:6f3313000940709aadff914a939ae053
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T091500Z
-LOCATION:--каф.
-DTSTART:20260219T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:bca6b46f07bb709dee08e05c4abd682d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260513T113000Z
-LOCATION:--каф. 919
-DTSTART:20260513T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:5c5f74a5bbc2a87a76de486850fee471
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250910T131500Z
-LOCATION:3-Зал А
-DTSTART:20250910T114500Z
-SUMMARY:ЛК Теория графов
-UID:26c9f97355717a6f1de08f174a03d144
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260330T113000Z
-LOCATION:Орш. В-501
-DTSTART:20260330T100000Z
-SUMMARY:ЛК Социология
-UID:b1434e7a3dd1c697d47e8c4994116825
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260411T091500Z
-LOCATION:3-303
-DTSTART:20260411T074500Z
-SUMMARY:ПЗ Социология
-UID:014aefb681d3353468734d8c505c7ba3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251103T113000Z
-LOCATION:3-269
-DTSTART:20251103T100000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:c118a7e2afd8f114fe39d2443ea090f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251029T091500Z
-LOCATION:3-Зал А
-DTSTART:20251029T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:a060ae448dd6582f0db46e43e98a0cfb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T073000Z
-LOCATION:--каф.
-DTSTART:20251120T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:aacf3705c480c3f32406361436ce36c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251125T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Общая физика
-UID:429b36c761bbbdc76590abfa9e24da6a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251007T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:953041555272ece2337acbebd896b960
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T131500Z
-LOCATION:--каф.
-DTSTART:20260219T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:07778f9df9d4de3f06f62e380af6b1db
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260226T073000Z
-LOCATION:--каф.
-DTSTART:20260226T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1ab816a60c2d736d32a89068c4e433e1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260506T113000Z
-LOCATION:--каф. 919
-DTSTART:20260506T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:d247e6dc0fdf63102e2c63b249f5a747
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20250920T091500Z
-LOCATION:3-330
-DTSTART:20250920T074500Z
-SUMMARY:ПЗ Теория графов
-UID:35da195f46724cfcc05398dacbfb3f5b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251015T091500Z
-LOCATION:3-Зал А
-DTSTART:20251015T074500Z
-SUMMARY:ЛК Программирование
-UID:ebb56d674f844d0f65a6233e283bb386
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251206T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251206T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:eddd7c2224d932b66a78475e7edd7627
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251127T073000Z
-LOCATION:--каф.
-DTSTART:20251127T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:98c1a38f6a2f30f0c8267f372cea4a1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260220T073000Z
-LOCATION:--каф. 919
-DTSTART:20260220T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:08fa066da5f4ff33868fa395dd9ffa03
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T131500Z
-LOCATION:--каф. 919
-DTSTART:20251202T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:dc51201475ba8056a1c39b1f3d5b592d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251021T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1c321f23090af4f2cc3b1a905624b3c5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250909T091500Z
-LOCATION:ГУК В-228
-DTSTART:20250909T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:c60b82a5ed91854e67e2af4fb321309d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T073000Z
-LOCATION:--каф. 919
-DTSTART:20251024T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:44ba22cfbf28e34b9b409e12b62e88d8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20260227T113000Z
-LOCATION:3-Зал А
-DTSTART:20260227T100000Z
-SUMMARY:ЛК Расширенные возможности языков высокого уровня
-UID:4bd13b6ef59c25667d1a8e00b44823da
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260424T131500Z
-LOCATION:3-Зал А
-DTSTART:20260424T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:adbf2a3a513d8a9f8fa43e3ebc8a2e17
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251206T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251206T060000Z
-SUMMARY:ПЗ Правоведение
-UID:7bacc77e4c90937f7d5ff6936fda9b8b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251229T113000Z
-LOCATION:3-269
-DTSTART:20251229T100000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:fad721529f9b6e2a97018450e227cf18
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260404T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260404T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:9d72fbf62a61e8820a19f20fb6fbf2e5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260515T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260515T074500Z
-SUMMARY:ЛК Численные методы
-UID:1179761389b97a711aa279e78763aa25
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260518T131500Z
-LOCATION:3-Зал А
-DTSTART:20260518T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:82d4227706ff0f4ef3ddfcee29eee006
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260515T131500Z
-LOCATION:3-Зал А
-DTSTART:20260515T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:49cc4732a2a28e713d429cf9ce62277b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251117T073000Z
-LOCATION:3-423
-DTSTART:20251117T060000Z
-SUMMARY:ПЗ Общая физика
-UID:145fac6403aa0475d5dc849f2086ade1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251008T150000Z
-LOCATION:3-Зал А
-DTSTART:20251008T133000Z
-SUMMARY:ЛК Теория графов
-UID:67b82c0288eb1d347541118f74126ae9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251209T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251209T100000Z
-SUMMARY:ЛК Общая физика
-UID:ab060cf59bbc061f739e0e379d68298f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260420T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:dc6b7b80764e0788b167a017787352f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251001T091500Z
-LOCATION:3-Зал А
-DTSTART:20251001T074500Z
-SUMMARY:ЛК Программирование
-UID:b5c387b1da6933a095f5bc9587134056
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260216T113000Z
-LOCATION:Орш. В-501
-DTSTART:20260216T100000Z
-SUMMARY:ЛК Социология
-UID:a58a933e6b671041fd9912a824952948
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T113000Z
-LOCATION:--каф.
-DTSTART:20251030T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:137e782024ab9cef5f7c048fcc2fdb3d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260428T164500Z
-LOCATION:3-240а
-DTSTART:20260428T151500Z
-SUMMARY:ЛР Языки ассемблера
-UID:d531c81d170be1b3f455b451da110e54
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T073000Z
-LOCATION:--каф.
-DTSTART:20251009T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0a4b56fa680b59790de7fb7ab4e36843
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T131500Z
-LOCATION:--каф. 919
-DTSTART:20251118T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:2164f83566648cbd5a1bea76790984e6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260209T131500Z
-LOCATION:3-Зал А
-DTSTART:20260209T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:b34233c7720bdd0b252cb03e281099fe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:--каф.
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b1f21f4da983d78e55aab6f2e16df880
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20250916T113000Z
-LOCATION:ГУК В-228
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Общая физика
-UID:ab466675c1a3fa96f75865dc30c47777
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251202T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251202T100000Z
-SUMMARY:ЛК Общая физика
-UID:b2cf24d9a36deb9b6e18b3f21f55b15c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250917T113000Z
-LOCATION:3-Зал А
-DTSTART:20250917T100000Z
-SUMMARY:ЛК Программирование
-UID:0b1dcd328863db347bb2c81dd014965b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T091500Z
-LOCATION:--каф.
-DTSTART:20250925T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:180e5bd80afaf1214dff9836127cb395
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251013T113000Z
-LOCATION:3-240б
-DTSTART:20251013T100000Z
-SUMMARY:ПЗ Программирование
-UID:902b2e4da03b2e809d44cfb5e762dbb5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251115T131500Z
-LOCATION:3-434а
-DTSTART:20251115T114500Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:ddd7f4887d9b054f4d884e3fec0d2619
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T091500Z
-LOCATION:--каф.
-DTSTART:20250911T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7e63b691d7c3732cf325e16f692ae6d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251013T091500Z
-LOCATION:3-419
-DTSTART:20251013T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:dbb4c3096a025e1126c71e6b6d75d941
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251124T113000Z
-LOCATION:3-240б
-DTSTART:20251124T100000Z
-SUMMARY:ЛР Программирование
-UID:be697da42e95a75b48ba5fa3e79ae62a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251105T113000Z
-LOCATION:3-Зал А
-DTSTART:20251105T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:b5c5cc8b4f88f9e5f51cfbb8797d7a8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260425T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260425T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:e2f1834b1fec284bd08e61861833197a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260512T150000Z
-LOCATION:3-240а
-DTSTART:20260512T133000Z
-SUMMARY:ЛР Языки ассемблера
-UID:24e79403e3384f26d193a2fb732cc133
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T131500Z
-LOCATION:--каф.
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:41cc203c43694ede9a49150b72b3712d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251011T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251011T060000Z
-SUMMARY:ПЗ Правоведение
-UID:493ac535e3e904dcecd1b732a5a9669c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251222T073000Z
-LOCATION:3-423
-DTSTART:20251222T060000Z
-SUMMARY:ПЗ Общая физика
-UID:25409ac0c7be616782e3c7d4a23e2654
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260429T073000Z
-LOCATION:3-444
-DTSTART:20260429T060000Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:19a334f4b617171867191b33989cca78
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260314T091500Z
-LOCATION:3-303
-DTSTART:20260314T074500Z
-SUMMARY:ПЗ Социология
-UID:95bc9bc95c1e1f043437b47fb482a023
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T113000Z
-LOCATION:--каф. 919
-DTSTART:20260325T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:fe651de6dba2e061aa0206b7eb6ff23c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T091500Z
-LOCATION:--каф.
-DTSTART:20251113T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:efc6e91eaf16a68edaae8a9e8cf35f57
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251011T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:4fc55575706730ada950b921aa6cfefd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251201T073000Z
-LOCATION:3-423
-DTSTART:20251201T060000Z
-SUMMARY:ПЗ Общая физика
-UID:146a86187611119532c48a0159356220
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданова Софья Борисовна
-DTEND:20260603T091500Z
-LOCATION:3-131
-DTSTART:20260603T074500Z
-SUMMARY:ЛР Численные методы
-UID:1530ae056b708d8b0ba090f087314592
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251110T073000Z
-LOCATION:3-423
-DTSTART:20251110T060000Z
-SUMMARY:ПЗ Общая физика
-UID:271bb2e54f47e4c7d9c1aec17511e233
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260427T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:efbdc6de819594f17f19f1bfeeedb16f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251128T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251128T114500Z
-SUMMARY:ЛК Правоведение
-UID:395007f6e5f1e27728183bf1a7c2c607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260112T091500Z
-LOCATION:ГУК Б-444
-DTSTART:20260112T074500Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:776be3cae0b794f99ad7bd094969f15d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251024T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251024T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:9bf0f6197e0bf1d01340312e6ba73880
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260427T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:86b790b5c6a6d0138287eb52c332488b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260428T113000Z
-LOCATION:3-330
-DTSTART:20260428T100000Z
-SUMMARY:ЛР Основы схемотехники
-UID:00e1c7f2ff85b6713e29d460801ec9cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260512T113000Z
-LOCATION:3-330
-DTSTART:20260512T100000Z
-SUMMARY:ЛР Основы схемотехники
-UID:43e5f297f9215a3c80dd6ab11bf57abf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T164500Z
-LOCATION:3-240а
-DTSTART:20260414T151500Z
-SUMMARY:ЛР Языки ассемблера
-UID:db9df7af8f6a1cbb629d8abc24b67468
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T073000Z
-LOCATION:ГУК А-402
-DTSTART:20250902T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ff8b9387101cb9833fa76d41192f3414
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250924T131500Z
-LOCATION:3-Зал А
-DTSTART:20250924T114500Z
-SUMMARY:ЛК Теория графов
-UID:1fb430784fa50e5866f8bf976b2d21d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260212T091500Z
-LOCATION:--каф.
-DTSTART:20260212T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4f127a90c2e08b206104d65e50b368c7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250903T091500Z
-LOCATION:3-Зал А
-DTSTART:20250903T074500Z
-SUMMARY:ЛК Программирование
-UID:45418c352ecbff6895c305f8b88be722
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260213T131500Z
-LOCATION:3-Зал А
-DTSTART:20260213T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:21fb7ce5c6fe34a3466431dad48befa1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260323T131500Z
-LOCATION:3-Зал А
-DTSTART:20260323T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:3114d4858879499e041a0d756939ef3c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T073000Z
-LOCATION:--каф.
-DTSTART:20251016T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:34053033e4b8d618292eef3eb7ce0d74
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260521T073000Z
-LOCATION:--каф.
-DTSTART:20260521T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:be85c9f0df45a5d20bc1ed4e444a0784
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T131500Z
-LOCATION:--каф.
-DTSTART:20251030T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d01e8e5c9cc7d42a53e46acfa905dc3d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251115T091500Z
-LOCATION:3-330
-DTSTART:20251115T074500Z
-SUMMARY:ЛР Теория графов
-UID:ed7e95adef0cd7e8641c5e98c2fe02a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251020T073000Z
-LOCATION:3-423
-DTSTART:20251020T060000Z
-SUMMARY:ПЗ Общая физика
-UID:3b234b29e50c39889c12510c0939cd0f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251212T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251212T114500Z
-SUMMARY:ЛК Правоведение
-UID:60a07f0f1a418179c94f89b96a11af91
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251126T113000Z
-LOCATION:3-Зал А
-DTSTART:20251126T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:4c02ce8608dd702813c98a14d1a0d453
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260504T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:20de51adf54b5a9a13499254d736d38f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260219T113000Z
-LOCATION:--каф.
-DTSTART:20260219T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e8dca9c32ffb2fac317c4e7c3f3cf49f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260417T073000Z
-LOCATION:--каф. 919
-DTSTART:20260417T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e0e1dc784c7e4fa08d98efa4151bd97c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20250908T073000Z
-LOCATION:3-423
-DTSTART:20250908T060000Z
-SUMMARY:ПЗ Общая физика
-UID:10b125dd71c97cbf3052fbb3c2108bd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251215T113000Z
-LOCATION:3-269
-DTSTART:20251215T100000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:9d0af9bc2dcf4ef7e7a464edab311de2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251103T091500Z
-LOCATION:3-419
-DTSTART:20251103T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:e568ad826ec3b20e4d665443f125e37f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251017T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251017T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:063acc3fb8327be2d56638ea37137e89
+UID:9b96e5acc14a2858bdc86edc3c383989
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -3256,6 +1339,13 @@ LOCATION:3-444
 DTSTART:20260304T074500Z
 SUMMARY:ЛР Расширенные возможности языков высокого уровня
 UID:7b73b05f5345116674fba83d9bf135a7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260306T073000Z
+LOCATION:--каф. 919
+DTSTART:20260306T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:972443e98a43c281df122c26784f7a1c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260314T131500Z
@@ -3273,12 +1363,33 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:b7e37051364d04cf8aa6a79cee764425
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260409T131500Z
+LOCATION:--каф.
+DTSTART:20260409T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ea5b906051d25aa968edabe2fae52eaa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ходоровский Александр Зиновьевич
 DTEND:20260410T131500Z
 LOCATION:3-Зал А
 DTSTART:20260410T114500Z
 SUMMARY:ЛК Основы схемотехники
 UID:bba004940ec7dab9a3fb617c7e95247b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T113000Z
+LOCATION:--каф.
+DTSTART:20260514T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:50c1c47db0aab7a3515bcaf9abdb19e3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T091500Z
+LOCATION:--каф.
+DTSTART:20260319T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d60eee08ef0efa464d2bce012054583c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ходоровский Александр Зиновьевич
@@ -3289,19 +1400,26 @@ SUMMARY:ЛР Основы схемотехники
 UID:be180c1e1cebe8b0667497a719805b03
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251202T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251202T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:0e124f46efe44620fbeee13241ae2b4d
+DTEND:20260512T164500Z
+LOCATION:3-240а
+DTSTART:20260512T151500Z
+SUMMARY:ЛР Языки ассемблера
+UID:a359ffa5e018b234d816e633984cd32c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260423T091500Z
+DTEND:20260305T131500Z
 LOCATION:--каф.
-DTSTART:20260423T074500Z
+DTSTART:20260305T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:ca763c2be3fb095b88fe84179c6b09e2
+UID:7b52283e2b55a57e17b78be1e1c04908
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260403T131500Z
+LOCATION:3-Зал А
+DTSTART:20260403T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:ff6880db26334d7faeac9fa962d25653
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260226T131500Z
@@ -3311,19 +1429,26 @@ SUMMARY:ПЗ Военная подготовка
 UID:9b8b899699fbb7a1e9772804d42b2a68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251229T131500Z
-LOCATION:3-269
-DTSTART:20251229T114500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:a17f0a7ef2824d73f748dd99c3d7b0b5
+DTEND:20260414T150000Z
+LOCATION:3-240а
+DTSTART:20260414T133000Z
+SUMMARY:ЛР Языки ассемблера
+UID:4ff14194e915a7202f681a733548a1d5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T131500Z
+DTEND:20260423T091500Z
 LOCATION:--каф.
-DTSTART:20251113T114500Z
+DTSTART:20260423T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:b8c49e25318e65c00eef5e72279915f8
+UID:ca763c2be3fb095b88fe84179c6b09e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260228T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260228T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:fe94ced505ffc92e4b71fd4d016d16c0
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260330T091500Z
@@ -3333,6 +1458,14 @@ SUMMARY:ПЗ Иностранный язык
 UID:f7b0e8bd3ac65bd8287fa48a1a1f3bfa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260502T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260502T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:ad142e4ce70a37b8d915d0e88ccc8e1a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260226T091500Z
 LOCATION:--каф.
 DTSTART:20260226T074500Z
@@ -3340,12 +1473,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:58f2d183345da3e533271066824aa31b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251028T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Общая физика
-UID:7323ed29138d574fa143fda29471c216
+DTEND:20260520T113000Z
+LOCATION:--каф. 919
+DTSTART:20260520T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:9bcaaa15d023fc9d86a6af8382c047ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20260220T113000Z
+LOCATION:3-Зал А
+DTSTART:20260220T100000Z
+SUMMARY:ЛК Экономическая теория
+UID:0fed0eea0d765de78b7d6afd6405df3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -3356,11 +1496,18 @@ SUMMARY:ЛР Расширенные возможности языков высо
 UID:b6ab4ee27b7a01a8d040cfed1f0e7264
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251216T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7ad0b4295b52794af1e05be9670190fd
+DTEND:20260312T113000Z
+LOCATION:--каф.
+DTSTART:20260312T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7ee7e83a004d36326bdc346eff4da63e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260313T073000Z
+LOCATION:--каф. 919
+DTSTART:20260313T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:84de393560be62741c542904ee6b0891
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260604T113000Z
@@ -3368,6 +1515,21 @@ LOCATION:--каф.
 DTSTART:20260604T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:837cb11afc647348a0c275ef3372d044
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260428T150000Z
+LOCATION:3-240а
+DTSTART:20260428T133000Z
+SUMMARY:ЛР Языки ассемблера
+UID:cb733087fa6d83cc1b56ebb52b42f24e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260224T164500Z
+LOCATION:3-213
+DTSTART:20260224T151500Z
+SUMMARY:ПЗ Организационно-правовые основы разработки программного обеспечения
+UID:9eb449a1a6361efd907ea2136cd1490e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -3378,34 +1540,117 @@ SUMMARY:ЛК Численные методы
 UID:f5433c585521a8e373b2cbab868b1235
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251211T131500Z
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260414T113000Z
+LOCATION:3-330
+DTSTART:20260414T100000Z
+SUMMARY:ЛР Основы схемотехники
+UID:45e65a95a59b6ebe92b63edbb24d7dea
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260311T113000Z
+LOCATION:--каф. 919
+DTSTART:20260311T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:e58b2121062fee19591c6904944c677f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T113000Z
 LOCATION:--каф.
-DTSTART:20251211T114500Z
+DTSTART:20260423T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:ef7ca9ab0fb363863eac0cb9e3511c9d
+UID:208235f502250315ab46788efa08c541
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250910T150000Z
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260304T073000Z
+LOCATION:3-444
+DTSTART:20260304T060000Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:1bc4294687a049b27727b80bfb634ad4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260425T091500Z
+LOCATION:3-303
+DTSTART:20260425T074500Z
+SUMMARY:ПЗ Социология
+UID:0937821c48fc60c62784c7b1ce0fd15b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260508T131500Z
 LOCATION:3-Зал А
-DTSTART:20250910T133000Z
-SUMMARY:ЛК Теория графов
-UID:b084e6d9c0f6051ee59c8d5a0fc36a6b
+DTSTART:20260508T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:d083d9084cdfc287382c2391ef10fda4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251027T091500Z
-LOCATION:3-419
-DTSTART:20251027T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:060ec0729d186f797129c49edb2a8879
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260318T091500Z
+LOCATION:3-444
+DTSTART:20260318T074500Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:6a67b689218fe2ba780fc230ae2c791e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251223T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251223T060000Z
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260420T150000Z
+LOCATION:3-Зал А
+DTSTART:20260420T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:b02093b11fff6d5fea7bbb7e22209b52
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260212T113000Z
+LOCATION:--каф.
+DTSTART:20260212T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9e90d2cc8c348544060fb88e5fe31914
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T073000Z
+LOCATION:--каф.
+DTSTART:20260423T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:81bdf76a2d6dcb5fffd18dee3d967d01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриева Елена Анатольевна
+DTEND:20260424T113000Z
+LOCATION:3-Зал А
+DTSTART:20260424T100000Z
+SUMMARY:ЛК Расширенные возможности языков высокого уровня
+UID:7a93dc2f287b42f590dbfdd8a0345c34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20260506T091500Z
+LOCATION:3-131
+DTSTART:20260506T074500Z
+SUMMARY:ЛР Численные методы
+UID:6be81764934b783f30e4ff50673bff0f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260605T073000Z
+LOCATION:--каф. 919
+DTSTART:20260605T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ee741523cd87fdaf9f805f4a1b171a28
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260525T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260525T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:7d0f16cf1858892628c2fff293fb78a3
+UID:4b275dd2206a6fd58dacecafe68162ad
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T073000Z
+LOCATION:--каф.
+DTSTART:20260319T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:245f9c117bebdbfcc5e7f50317ba7f51
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260319T131500Z
@@ -3415,11 +1660,42 @@ SUMMARY:ПЗ Военная подготовка
 UID:8cbedaa0e44de68e6a2e890036d09e79
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260401T091500Z
+LOCATION:3-444
+DTSTART:20260401T074500Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:fd2b503e179f5e5c62ad7229b415add0
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260331T164500Z
 LOCATION:3-240а
 DTSTART:20260331T151500Z
 SUMMARY:ПЗ Языки ассемблера
 UID:d4296123f14c0af71475740b62504238
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кан Игорь Давидович
+DTEND:20260422T091500Z
+LOCATION:3-131
+DTSTART:20260422T074500Z
+SUMMARY:ПЗ Численные методы
+UID:637616b774fd96ea798526fa8bfc3371
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260313T131500Z
+LOCATION:3-Зал А
+DTSTART:20260313T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:623249ba2e091b053a6121a8583a5e4d
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260422T113000Z
+LOCATION:--каф. 919
+DTSTART:20260422T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:cdcc9c0d6ff83c3ba01fb55a8d62c56d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260323T091500Z
@@ -3436,12 +1712,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:620a8dc77f797d150b7003483acb5b29
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251209T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251209T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:026aa7417411ad9ca4232e14d5ed3610
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260320T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260320T074500Z
+SUMMARY:ЛК Численные методы
+UID:b07952e3cfb73952e589fd64b1cbb341
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T131500Z
+LOCATION:--каф.
+DTSTART:20260430T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fc20516918051f12e4b4fb131ffe0f59
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -3482,6 +1765,45 @@ SUMMARY:ПЗ Иностранный язык
 UID:34f98e9c68f9edd63ea0bbbd4f681902
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260527T073000Z
+LOCATION:3-444
+DTSTART:20260527T060000Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:9c27d22a22bd8b94d3736cc9562bf88e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260529T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260529T074500Z
+SUMMARY:ЛК Численные методы
+UID:f299d0f6b64df12850f3acf375c2c8c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260513T073000Z
+LOCATION:3-444
+DTSTART:20260513T060000Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:948e68a5a4b2db3f8025d233bd072090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260508T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260508T074500Z
+SUMMARY:ЛК Численные методы
+UID:b3131142cca08787d328b55249054edd
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T131500Z
+LOCATION:--каф.
+DTSTART:20260402T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fb719f368471221e55dfb25cf80df4bf
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260321T131500Z
 LOCATION:ГУК В-228
 DTSTART:20260321T114500Z
@@ -3489,27 +1811,20 @@ SUMMARY:ЛК Языки ассемблера
 UID:3443dc25fc047455d314a18fe4a972a3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251001T150000Z
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20260417T113000Z
 LOCATION:3-Зал А
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Теория графов
-UID:1fb95ce71bedc467a75e675e5d33fe3d
+DTSTART:20260417T100000Z
+SUMMARY:ЛК Экономическая теория
+UID:8454e22cc1ca1414ef007aa1e2ceb5e6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251017T113000Z
-LOCATION:9-105
-DTSTART:20251017T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:695f1dfe08c44751665bc6de5041de9e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250922T113000Z
-LOCATION:3-269
-DTSTART:20250922T100000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:3a4bee3aa9ba0014d1d585be7a45d2c9
+DESCRIPTION:Бушманов Иван Сергеевич
+DTEND:20260324T150000Z
+LOCATION:3-131
+DTSTART:20260324T133000Z
+SUMMARY:ПЗ Экономическая теория
+UID:41f101567a524b951fa55c68080ebc48
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260522T073000Z
@@ -3519,6 +1834,13 @@ SUMMARY:ПЗ Физическая культура
 UID:593f37f82468ff74b6b4c854a84a4cd8
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260219T073000Z
+LOCATION:--каф.
+DTSTART:20260219T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ac237a319539a8b05c243a45c83550df
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260413T073000Z
 LOCATION:Орш. А-406
 DTSTART:20260413T060000Z
@@ -3526,12 +1848,42 @@ SUMMARY:ПЗ Иностранный язык
 UID:55137b5fe42302ed1e9b5734c304338a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250916T091500Z
-LOCATION:ГУК В-228
-DTSTART:20250916T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:50f3b6e9a3913417c0c8e3c1030a7ae9
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260525T113000Z
+LOCATION:Орш. В-501
+DTSTART:20260525T100000Z
+SUMMARY:ЛК Социология
+UID:80a61fe07ad4bb144cae899ce616a0b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дмитриева Елена Анатольевна
+DTEND:20260327T113000Z
+LOCATION:3-Зал А
+DTSTART:20260327T100000Z
+SUMMARY:ЛК Расширенные возможности языков высокого уровня
+UID:f0c6b3c02bb8d1868cc0e58690051102
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260227T073000Z
+LOCATION:--каф. 919
+DTSTART:20260227T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:0c49b4884f2ff2f8467a0db35c8c60cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кан Игорь Давидович
+DTEND:20260325T073000Z
+LOCATION:3-131
+DTSTART:20260325T060000Z
+SUMMARY:ПЗ Численные методы
+UID:951bef06744b4a4e337079afb05cf90f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T131500Z
+LOCATION:--каф.
+DTSTART:20260326T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:dc31cf1b94f403b5d923c78f96239844
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бушманов Иван Сергеевич
@@ -3542,11 +1894,35 @@ SUMMARY:ПЗ Экономическая теория
 UID:ece97cb93bc286e061742873b8c12674
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251120T113000Z
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20260306T113000Z
+LOCATION:3-Зал А
+DTSTART:20260306T100000Z
+SUMMARY:ЛК Экономическая теория
+UID:eb2284949eab325d4cfc678831c6ec4b
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T113000Z
 LOCATION:--каф.
-DTSTART:20251120T100000Z
+DTSTART:20260326T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:daf9172c6fad33ffa45ccd19a42a82ff
+UID:5ff1980b1d010eb3e2d1f40a920e4001
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260407T164500Z
+LOCATION:3-213
+DTSTART:20260407T151500Z
+SUMMARY:ПЗ Организационно-правовые основы разработки программного обеспечения
+UID:27bf250869ae6c362fd57ce3c30a3705
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260227T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260227T074500Z
+SUMMARY:ЛК Численные методы
+UID:d86b5b123d176caeb9d831c55f515559
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -3564,6 +1940,14 @@ SUMMARY:ЛК Языки ассемблера
 UID:84914102ee403bb9cac3ce8d6fdbb179
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20260603T073000Z
+LOCATION:3-131
+DTSTART:20260603T060000Z
+SUMMARY:ЛР Численные методы
+UID:c1e7f5c571945e14684208c6546e3ba1
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260521T131500Z
 LOCATION:--каф.
 DTSTART:20260521T114500Z
@@ -3579,34 +1963,18 @@ SUMMARY:ПЗ Организационно-правовые основы разр
 UID:a8929205433c04d72b75d510d0eeffc6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250912T073000Z
+DTEND:20260403T073000Z
 LOCATION:--каф. 919
-DTSTART:20250912T060000Z
+DTSTART:20260403T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:721faae979e7d2940d41d04ccc7627f0
+UID:eb40aed01b464db9cf1038fb5f0e8a7a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T131500Z
-LOCATION:--каф.
-DTSTART:20250925T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6bca34283882956c99c6c45f3bfec083
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251013T131500Z
-LOCATION:3-240б
-DTSTART:20251013T114500Z
-SUMMARY:ПЗ Программирование
-UID:4c9a1a4f8180b24183e0856a6c14bb75
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250923T091500Z
-LOCATION:ГУК В-228
-DTSTART:20250923T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:1b4bd07b3a26e8b87d301cefc8a2659d
+DTEND:20260526T164500Z
+LOCATION:3-240а
+DTSTART:20260526T151500Z
+SUMMARY:ЛР Языки ассемблера
+UID:4f1c0cb6f522afc30dcc146878368cde
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -3617,34 +1985,43 @@ SUMMARY:ЛК Численные методы
 UID:6b7db5bf6d642e0f2f9c1857910a8373
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T073000Z
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260519T131500Z
+LOCATION:3-434б
+DTSTART:20260519T114500Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:3e97b1eb4e2c4e267124b9e965225f0a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260505T131500Z
+LOCATION:3-434б
+DTSTART:20260505T114500Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:5f30d69bf6643da12aa33e76f44a2c80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260411T113000Z
+LOCATION:ГУК В-221
+DTSTART:20260411T100000Z
+SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
+UID:52caa3ef545d4db194dee06f41682598
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T073000Z
 LOCATION:--каф. 919
-DTSTART:20250905T060000Z
+DTSTART:20260529T060000Z
 SUMMARY:ПЗ Физическая культура
-UID:4fcce5b68cfbcc5c825be57292f82b77
+UID:073345179425ae13cfbab59aab1071f5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251025T073000Z
-LOCATION:Орш. В-407
-DTSTART:20251025T060000Z
-SUMMARY:ПЗ Правоведение
-UID:b0f7e1b91c660205c4b459054855ff29
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:9-105
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0801eb7472e14dc145d3d0e6c5d0795b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251213T131500Z
-LOCATION:3-434а
-DTSTART:20251213T114500Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:767a385456fab041eeeaf33905cc250e
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260518T150000Z
+LOCATION:3-Зал А
+DTSTART:20260518T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:4dce251efa96fe1f2a2b86c6b99a98c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -3653,6 +2030,74 @@ LOCATION:3-444
 DTSTART:20260318T060000Z
 SUMMARY:ЛР Расширенные возможности языков высокого уровня
 UID:a08c024b7c1f42002eb9c8b41142ca23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260519T113000Z
+LOCATION:3-434б
+DTSTART:20260519T100000Z
+SUMMARY:ЛР Теория автоматов и формальных языков
+UID:ee99d8a4d3f52dfc5ee1a69e3d49d22a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260411T131500Z
+LOCATION:ГУК В-228
+DTSTART:20260411T114500Z
+SUMMARY:ЛК Языки ассемблера
+UID:bd181b9f7f9b1c1238cdd32cf6ff5cdd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260504T131500Z
+LOCATION:3-Зал А
+DTSTART:20260504T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:1bbcedf7f0261b1a8eb95761805ec6f3
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:--каф. 919
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:0f6e847fad83eaac2d6f11b0f1a01652
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260314T091500Z
+LOCATION:3-303
+DTSTART:20260314T074500Z
+SUMMARY:ПЗ Социология
+UID:30c8b98df186495d1c487cff51cc8418
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20260411T091500Z
+LOCATION:3-303
+DTSTART:20260411T074500Z
+SUMMARY:ПЗ Социология
+UID:02a1e59d02e6ac6807b0824fb020d40b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260417T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260417T074500Z
+SUMMARY:ЛК Численные методы
+UID:c564d50133020fae1f611fea6bb4f5cf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260515T073000Z
+LOCATION:--каф. 919
+DTSTART:20260515T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:fdaa139d976d2f518e4b2e7307783daa
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260521T113000Z
+LOCATION:--каф.
+DTSTART:20260521T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6d31e5ebb479bb590d1c3f89415d4cc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
@@ -3670,6 +2115,29 @@ SUMMARY:ПЗ Военная подготовка
 UID:0aef3377085536b36e633da74bde421b
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260213T073000Z
+LOCATION:--каф. 919
+DTSTART:20260213T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:51a725912bfd457e5a07ffd272879c91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ряполов Сергей Владимирович
+DTEND:20260316T113000Z
+LOCATION:Орш. В-501
+DTSTART:20260316T100000Z
+SUMMARY:ЛК Социология
+UID:d4275f1032ae7d2a37c0ce13cc97abb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260306T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260306T074500Z
+SUMMARY:ЛК Численные методы
+UID:b304a0784d2f4e6e8985605a376ba0ba
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260413T091500Z
 LOCATION:Орш. А-406
 DTSTART:20260413T074500Z
@@ -3677,34 +2145,33 @@ SUMMARY:ПЗ Иностранный язык
 UID:5349f0f37cadcd6d7bf4c91d690119c0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251225T091500Z
+DTEND:20260430T113000Z
 LOCATION:--каф.
-DTSTART:20251225T074500Z
+DTSTART:20260430T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:f0fe6b012644e384e3176067efb79d18
+UID:16d90f84d623143faf085287936bb3f0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251031T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Правоведение
-UID:fb57f0845b29705c790654b4136aa850
+DTEND:20260518T073000Z
+LOCATION:Орш. А-406
+DTSTART:20260518T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:a61e86c588a315fd53e169953196854f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251108T113000Z
-LOCATION:Орш. В-605
-DTSTART:20251108T100000Z
-SUMMARY:ЛР Общая физика
-UID:1d7ecd9f84b91d4f5cc5f88a19b78b48
+DTEND:20260409T113000Z
+LOCATION:--каф.
+DTSTART:20260409T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a57ffb3de15c3f5852edbd29d52b99d4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250919T073000Z
-LOCATION:--каф. 919
-DTSTART:20250919T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e471d8f5dcc9b9c9c75cb59e5ee7421e
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260526T131500Z
+LOCATION:3-330
+DTSTART:20260526T114500Z
+SUMMARY:ЛР Основы схемотехники
+UID:6732d13781488381807531c921e21cd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -3723,1229 +2190,32 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:ab8536fe8a8d059bbff70b61af5f4806
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251111T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:85afb99df68ca120bf877cd306ba8bfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251013T073000Z
-LOCATION:3-423
-DTSTART:20251013T060000Z
-SUMMARY:ПЗ Общая физика
-UID:b8b19a312da196fd7ff2677bbb06ca41
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250922T131500Z
-LOCATION:3-269
-DTSTART:20250922T114500Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:0a25d76f7467d5680e8a45f08973bb6e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250930T091500Z
-LOCATION:ГУК В-228
-DTSTART:20250930T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:62dca47b3e360d90758cf4fe4d731374
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20250927T073000Z
-LOCATION:Орш. В-407
-DTSTART:20250927T060000Z
-SUMMARY:ПЗ Правоведение
-UID:f99904372e261f714ac17bf789233914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251027T113000Z
-LOCATION:3-240б
-DTSTART:20251027T100000Z
-SUMMARY:ПЗ Программирование
-UID:1f30495a803ba2f899a18dc199d7aa42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T131500Z
-LOCATION:--каф. 919
-DTSTART:20250930T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:a3d50966088734415e181384b7cc6505
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251206T131500Z
-LOCATION:Орш. В-605
-DTSTART:20251206T114500Z
-SUMMARY:ЛР Общая физика
-UID:ef64db37a36348e1f10e2005e69eebb2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260220T131500Z
-LOCATION:3-Зал А
-DTSTART:20260220T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:25886c80644b0d11c0b47e4076defda4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251028T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4b565b0f20343470cb6ed368eca8641c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260415T113000Z
-LOCATION:--каф. 919
-DTSTART:20260415T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:bd95b7998accc1edee13744d017be9ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20260120T091500Z
-LOCATION:Орш. В-621
-DTSTART:20260120T074500Z
-SUMMARY:Экзамен Общая физика
-UID:a1ddfb80205f072e9fae351e1a536239
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20250926T091500Z
-LOCATION:ГУК В-214
-DTSTART:20250926T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:846b2e3a8e9fc0c60268a1d96e45b19e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T131500Z
-LOCATION:--каф. 919
-DTSTART:20251014T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:f8f5846ff6afb805adb445a9c984b71b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260507T073000Z
+DTEND:20260507T091500Z
 LOCATION:--каф.
-DTSTART:20260507T060000Z
+DTSTART:20260507T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:887cf97800d584bbd357ae49a3492496
+UID:4a3a206da83097b48b2ae2714ba25772
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251020T131500Z
-LOCATION:3-269
-DTSTART:20251020T114500Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:dc8f6b95543b8e170bd8b10693c6e8e5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:9-105
-DTSTART:20250905T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8879753e1423425dcd6595e9f12edf1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260522T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260522T074500Z
-SUMMARY:ЛК Численные методы
-UID:e1e63a6ae8cae6bb6f019908fb5c1776
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260507T113000Z
-LOCATION:--каф.
-DTSTART:20260507T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:17d6c15aca068c8596b16bf8d0b5b294
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T073000Z
+DTEND:20260601T073000Z
 LOCATION:Орш. А-406
-DTSTART:20260216T060000Z
+DTSTART:20260601T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:e583025fd1c7ce628eb7e0b6b60791e9
+UID:4d27472c37a7ad0e7ca9a8744e606303
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260606T091500Z
-LOCATION:3-303
-DTSTART:20260606T074500Z
-SUMMARY:ПЗ Социология
-UID:0bb4cf28b574cd9d72c3bde802f7b187
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:--каф. 919
-DTSTART:20251028T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:7287345fd734ac0cdb1ba52972023299
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251001T113000Z
-LOCATION:3-Зал А
-DTSTART:20251001T100000Z
-SUMMARY:ЛК Программирование
-UID:7cb5b84938a0d63a5de329b058ccfce0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251201T131500Z
-LOCATION:3-269
-DTSTART:20251201T114500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:114c03bdd32f494c46e0b0b4e0965986
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T091500Z
+DTEND:20260514T091500Z
 LOCATION:--каф.
-DTSTART:20251009T074500Z
+DTSTART:20260514T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:518790a1d8cbd60e57e697f49061f8e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251014T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0d1cb2a66dece05cd6a11846ceaf7091
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260406T150000Z
-LOCATION:3-Зал А
-DTSTART:20260406T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:941121dcd53b7d55313b40410e3e7f2e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260316T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260316T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:8a1afe9a5a83e9363b4cf849f2c30bc0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T113000Z
-LOCATION:--каф. 919
-DTSTART:20260429T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:ff04c7e6913e263efa969ae577b4958b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260429T091500Z
-LOCATION:3-444
-DTSTART:20260429T074500Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:3fec28ab85a16ef76d3b8328bd1263ef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Земсков Андрей Владимирович
-DTEND:20251010T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251010T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:a4e5dc4b946fa3d974185754a8ac400f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260307T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260307T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:e749ea549520737dd0b5a95d04a49e38
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251025T113000Z
-LOCATION:Орш. В-603
-DTSTART:20251025T100000Z
-SUMMARY:ЛР Общая физика
-UID:ed07828b84d3b54c0c947b70f1e25ae2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T131500Z
-LOCATION:--каф.
-DTSTART:20250904T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0f6dfa8051eb3654757e0e8cdf3848b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250908T113000Z
-LOCATION:3-269
-DTSTART:20250908T100000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:e512f2a43e813ad273a8fd98ff37b886
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20251121T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251121T114500Z
-SUMMARY:ЛК Основы психологии
-UID:44c15c86e7391147e02b0a65dafafee0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20250929T091500Z
-LOCATION:3-419
-DTSTART:20250929T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:db5988b0d09d3dbefa26244961eb12f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20251001T131500Z
-LOCATION:3-Зал А
-DTSTART:20251001T114500Z
-SUMMARY:ЛК Теория графов
-UID:2ddbb3a97eba3cf916bde378672aa70a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданова Софья Борисовна
-DTEND:20260520T091500Z
-LOCATION:3-131
-DTSTART:20260520T074500Z
-SUMMARY:ЛР Численные методы
-UID:79bc39f44d99bfe2d45f20d4ae29c618
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250925T073000Z
-LOCATION:--каф.
-DTSTART:20250925T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6ec0ea1dfb8568d90d6531938e6910b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251217T113000Z
-LOCATION:3-Зал А
-DTSTART:20251217T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:808978c34bc6cd3af2be3c6be9bba3de
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260209T150000Z
-LOCATION:3-Зал А
-DTSTART:20260209T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:25f1385fcf7d83fbc17e698a6d68fba0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251118T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Общая физика
-UID:932c0e2b9bf840656645354fd43b616d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251004T073000Z
-LOCATION:3-330
-DTSTART:20251004T060000Z
-SUMMARY:ПЗ Теория графов
-UID:0e8b14bcf3e53cbbccf99f6daac86cbb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251125T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251125T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:1dea243ac82ec5696a95ffd56867b10d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251105T091500Z
-LOCATION:3-Зал А
-DTSTART:20251105T074500Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:76dce039365b1d34c35f2a9eab0b2312
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T091500Z
-LOCATION:--каф.
-DTSTART:20251030T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0fea8d181cc52b610af7798793c4de90
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251015T113000Z
-LOCATION:3-Зал А
-DTSTART:20251015T100000Z
-SUMMARY:ЛК Программирование
-UID:c2616be6cfd3cde232c24fe224c130d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251018T073000Z
-LOCATION:3-330
-DTSTART:20251018T060000Z
-SUMMARY:ПЗ Теория графов
-UID:ccb115401a141e45234b71af5ce326a9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251124T073000Z
-LOCATION:3-423
-DTSTART:20251124T060000Z
-SUMMARY:ПЗ Общая физика
-UID:d46d93bf172fb3d2dafaea77de2a97e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T091500Z
-LOCATION:--каф.
-DTSTART:20260528T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:02b896063ff9c8c4524da56f779d4c97
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260307T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260307T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:d36977e434d2cbace88453c900704880
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20250902T113000Z
-LOCATION:ГУК В-228
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Общая физика
-UID:5d67def6be49e14db2b937afbfbd7f02
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260306T131500Z
-LOCATION:3-Зал А
-DTSTART:20260306T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:5eae1f972264fc9490824ce2cd44ff7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251227T113000Z
-LOCATION:3-434а
-DTSTART:20251227T100000Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:35ea19b6e475d859be3d2668ca2545d8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20260116T073000Z
-LOCATION:3-240б
-DTSTART:20260116T060000Z
-SUMMARY:Экзамен Программирование
-UID:6db9bbb6ce250dcdaf3448dba3b3e853
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260312T073000Z
-LOCATION:--каф.
-DTSTART:20260312T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3e7e0caa53ba33386341776de725df66
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВА НАТАЛЬЯ ВИКТОРОВНА
-DTEND:20251017T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20251017T114500Z
-SUMMARY:ЛК Правоведение
-UID:30939bf6b00fb018660b7459f8cd0d93
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T073000Z
-LOCATION:--каф. 919
-DTSTART:20251128T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:a6d6b4b5dc1d360a48e70432b6f86212
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260305T113000Z
-LOCATION:--каф.
-DTSTART:20260305T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2a81b9938c0c27326dd91819e7460836
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260326T073000Z
-LOCATION:--каф.
-DTSTART:20260326T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b1a6a085bb3cbda99fc3fdce6320f620
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260226T113000Z
-LOCATION:--каф.
-DTSTART:20260226T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9e91224cb46990893e97fbc4e7980605
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260402T113000Z
-LOCATION:--каф.
-DTSTART:20260402T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2b2982f04bdd403bd1bde3a09553ef23
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T131500Z
-LOCATION:--каф. 919
-DTSTART:20250909T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:cd355c0f4bf02fdf8bfabeb5a2b2ec8e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260425T131500Z
-LOCATION:ГУК В-228
-DTSTART:20260425T114500Z
-SUMMARY:ЛК Языки ассемблера
-UID:05046324e70f695780743259ba334153
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260327T073000Z
-LOCATION:--каф. 919
-DTSTART:20260327T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:dc3f6abf60d62199439a1c0935b35237
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251111T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Общая физика
-UID:8cf4a75699329fd68fbbf1a5a1a357ec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260603T113000Z
-LOCATION:--каф. 919
-DTSTART:20260603T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:d313f47c746c468b0b3c2fd1c63894b7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260527T091500Z
-LOCATION:3-444
-DTSTART:20260527T074500Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:544b65ea7e9e23fe7a2ab95f1831206b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T091500Z
-LOCATION:Орш. А-406
-DTSTART:20260511T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:0d71ab3fe9092da3f99abe48e988c9d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20250926T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20250926T114500Z
-SUMMARY:ЛК Основы психологии
-UID:c728c291d207bd4d305cbede95e84359
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260225T113000Z
-LOCATION:--каф. 919
-DTSTART:20260225T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:17ae0b106b3f4cbe45a3fcd47ee51415
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T073000Z
-LOCATION:--каф.
-DTSTART:20251030T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4653c6fa29169ae9da57a9f08e809593
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251004T091500Z
-LOCATION:3-330
-DTSTART:20251004T074500Z
-SUMMARY:ПЗ Теория графов
-UID:7005b56ed8eb27b4ec016598b98cb0c0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T073000Z
-LOCATION:--каф. 919
-DTSTART:20251219T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:dd5dcc4684fb57173ab3fadf44ccfccf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251208T113000Z
-LOCATION:3-240б
-DTSTART:20251208T100000Z
-SUMMARY:ЛР Программирование
-UID:00b9e8da1299b5c38e1a6b89d13acf89
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260330T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0e151e7e7acf551c4240fd754764cd1a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бушманов Иван Сергеевич
-DTEND:20260602T150000Z
-LOCATION:3-131
-DTSTART:20260602T133000Z
-SUMMARY:ПЗ Экономическая теория
-UID:58adda3381614c19d1fa88fed2da9c8d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:--каф.
-DTSTART:20251106T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8c54dfe943646511b56c22e4133d09c4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260319T113000Z
-LOCATION:--каф.
-DTSTART:20260319T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6b042d9bfefa9bf9e766f8065e0a0b4a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260323T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260323T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:93d365a61097f5ee492a845fa3ab9451
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T073000Z
-LOCATION:ГУК А-402
-DTSTART:20250930T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:556317e93b6b6650a7f94b614f68a4d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20250929T073000Z
-LOCATION:3-423
-DTSTART:20250929T060000Z
-SUMMARY:ПЗ Общая физика
-UID:f78dfea3629c49bbe6b1d4d32f5898b2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260228T091500Z
-LOCATION:3-303
-DTSTART:20260228T074500Z
-SUMMARY:ПЗ Социология
-UID:b4eb732e842ade1c20311c2f076e0df7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260320T073000Z
-LOCATION:--каф. 919
-DTSTART:20260320T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:a9af50887f79bfda55c29f3a248568d4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251006T091500Z
-LOCATION:3-419
-DTSTART:20251006T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:5267e9a8db4fc807640c7e2ff10443c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260528T073000Z
-LOCATION:--каф.
-DTSTART:20260528T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:893d845ef860b0c672daf6270d3ec9f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250904T113000Z
-LOCATION:--каф.
-DTSTART:20250904T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0a6f876b42294f2c03c52a155f96cbe4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T131500Z
-LOCATION:--каф.
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:32bd9305477914adfb7eb819663454c8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:9-105
-DTSTART:20251128T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f9649a3410a7ec47d51a4ee4ea0619b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251216T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251216T100000Z
-SUMMARY:ЛК Общая физика
-UID:50702ec1f6315d46a9cead7964cc8115
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260218T113000Z
-LOCATION:--каф. 919
-DTSTART:20260218T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:3a36fbc7df1b45023478565a82948ec7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T073000Z
-LOCATION:--каф. 919
-DTSTART:20251017T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:2bfd44da9a7952f4d11bf6fcb3561139
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260402T091500Z
-LOCATION:--каф.
-DTSTART:20260402T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4768715dd395b2f68aec86921579100c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260314T113000Z
-LOCATION:ГУК В-221
-DTSTART:20260314T100000Z
-SUMMARY:ЛК Организационно-правовые основы разработки программного обеспечения
-UID:9b96e5acc14a2858bdc86edc3c383989
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T073000Z
-LOCATION:--каф.
-DTSTART:20251002T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f48e7462807aa2523538a1f7bfda64b4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20250927T091500Z
-LOCATION:Орш. В-514
-DTSTART:20250927T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:00ed2f5a4d439c3b81a1c8f150860773
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T073000Z
-LOCATION:--каф. 919
-DTSTART:20251212T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:87fe370a495adc636be96546b56900e2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20250902T091500Z
-LOCATION:ГУК В-228
-DTSTART:20250902T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:d992af07dbbed83e14a31a6b4d7d041b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20250915T073000Z
-LOCATION:3-423
-DTSTART:20250915T060000Z
-SUMMARY:ПЗ Общая физика
-UID:1b9f1418093e61a6a1d7bc49c36816b6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T091500Z
-LOCATION:--каф.
-DTSTART:20251002T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dba171566ac882c7d7d3ac699deafa79
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251021T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251021T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:b0c8613068640c3532a53e8dc44d95f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251227T131500Z
-LOCATION:3-434а
-DTSTART:20251227T114500Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:cabba2814018b93f05272cc63de6d674
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250918T131500Z
-LOCATION:--каф.
-DTSTART:20250918T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0e81d2688ecbfb3b72dd636ada4452a5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260428T150000Z
-LOCATION:3-240а
-DTSTART:20260428T133000Z
-SUMMARY:ЛР Языки ассемблера
-UID:cb733087fa6d83cc1b56ebb52b42f24e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Степанов Владимир Николаевич
-DTEND:20251215T073000Z
-LOCATION:3-423
-DTSTART:20251215T060000Z
-SUMMARY:ПЗ Общая физика
-UID:f2443f034c03c8dcafa2aeaefa5f6390
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251021T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Общая физика
-UID:159d53b5b44c4fa842e45bdfde4e1ed4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251020T113000Z
-LOCATION:3-269
-DTSTART:20251020T100000Z
-SUMMARY:ПЗ Электротехника и электроника
-UID:52c666facee8154d401cfb2d70a91879
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T091500Z
-LOCATION:--каф.
-DTSTART:20251016T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4a5fd8d55d4173e9c0b572ff3c1c28d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260311T113000Z
-LOCATION:--каф. 919
-DTSTART:20260311T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:e58b2121062fee19591c6904944c677f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T113000Z
-LOCATION:--каф.
-DTSTART:20251218T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:06876a8e22309bbf713c0fda4e42d6fd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260423T113000Z
-LOCATION:--каф.
-DTSTART:20260423T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:208235f502250315ab46788efa08c541
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20251025T091500Z
-LOCATION:Орш. В-514
-DTSTART:20251025T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:82cef824093fc827eebbcbd2992bceaa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260423T073000Z
-LOCATION:--каф.
-DTSTART:20260423T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:81bdf76a2d6dcb5fffd18dee3d967d01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20260424T113000Z
-LOCATION:3-Зал А
-DTSTART:20260424T100000Z
-SUMMARY:ЛК Расширенные возможности языков высокого уровня
-UID:7a93dc2f287b42f590dbfdd8a0345c34
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданова Софья Борисовна
-DTEND:20260506T091500Z
-LOCATION:3-131
-DTSTART:20260506T074500Z
-SUMMARY:ЛР Численные методы
-UID:6be81764934b783f30e4ff50673bff0f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T131500Z
-LOCATION:--каф.
-DTSTART:20251002T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:154eafdfa78c6be751977c07e9264bd3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260525T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4b275dd2206a6fd58dacecafe68162ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мосеев Дмитрий Сергеевич
-DTEND:20251122T131500Z
-LOCATION:Орш. В-605
-DTSTART:20251122T114500Z
-SUMMARY:ЛР Общая физика
-UID:8312d2f7880f8c91af4c6ef6c07b1700
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АВАНЕСЯН ГАНА ГЕОРГИЕВНА
-DTEND:20250913T091500Z
-LOCATION:Орш. В-514
-DTSTART:20250913T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:57dd55efc1648419c87080e6a0f87487
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260422T113000Z
-LOCATION:--каф. 919
-DTSTART:20260422T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:cdcc9c0d6ff83c3ba01fb55a8d62c56d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260313T131500Z
-LOCATION:3-Зал А
-DTSTART:20260313T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:623249ba2e091b053a6121a8583a5e4d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T113000Z
-LOCATION:--каф.
-DTSTART:20251225T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7c4fbad457154b129bac9b14c61fbbed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20250912T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20250912T114500Z
-SUMMARY:ЛК Основы психологии
-UID:ba7a5780c6560355116e72c037a94d61
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251107T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251107T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:f4dd1d0fed3bc7b87e2125d44bf12a58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЕГОРОВА ЕВГЕНИЯ КИРИЛЛОВНА
-DTEND:20250903T150000Z
-LOCATION:3-Зал А
-DTSTART:20250903T133000Z
-SUMMARY:ЛК Теория графов
-UID:2875166f71d02f0f7de52e7e2c59a87e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260513T073000Z
-LOCATION:3-444
-DTSTART:20260513T060000Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:948e68a5a4b2db3f8025d233bd072090
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260529T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260529T074500Z
-SUMMARY:ЛК Численные методы
-UID:f299d0f6b64df12850f3acf375c2c8c3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронов Иван Сергеевич
-DTEND:20251223T113000Z
-LOCATION:ГУК В-228
-DTSTART:20251223T100000Z
-SUMMARY:ЛК Общая физика
-UID:9a1c05e198c6c8521d637590cd186ba1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250924T113000Z
-LOCATION:3-Зал А
-DTSTART:20250924T100000Z
-SUMMARY:ЛК Программирование
-UID:5ac87f761bfdaddcbe9d8fc100b7bb6b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251124T091500Z
-LOCATION:3-419
-DTSTART:20251124T074500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:ed465061839e11da3fddf310452236e2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20260417T113000Z
-LOCATION:3-Зал А
-DTSTART:20260417T100000Z
-SUMMARY:ЛК Экономическая теория
-UID:8454e22cc1ca1414ef007aa1e2ceb5e6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20251114T091500Z
-LOCATION:ГУК В-214
-DTSTART:20251114T074500Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:a5b0e157aeadeab11e8e310341c7a9a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ряполов Сергей Владимирович
-DTEND:20260525T113000Z
-LOCATION:Орш. В-501
-DTSTART:20260525T100000Z
-SUMMARY:ЛК Социология
-UID:80a61fe07ad4bb144cae899ce616a0b3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T073000Z
-LOCATION:ГУК А-402
-DTSTART:20251125T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:482e59842688441ccc686b393bfc1450
+UID:6d2314c6c03e191c047b879414eda46a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кан Игорь Давидович
-DTEND:20260325T073000Z
+DTEND:20260408T073000Z
 LOCATION:3-131
-DTSTART:20260325T060000Z
+DTSTART:20260408T060000Z
 SUMMARY:ПЗ Численные методы
-UID:951bef06744b4a4e337079afb05cf90f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T073000Z
-LOCATION:--каф. 919
-DTSTART:20250926T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:f7cb5f3110a2197c8590c0d920b5baa1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250915T131500Z
-LOCATION:3-240б
-DTSTART:20250915T114500Z
-SUMMARY:ПЗ Программирование
-UID:d9178378904d2128a82ef04ad4adbd4a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T073000Z
-LOCATION:ГУК А-402
-DTSTART:20250923T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0241c314cacd47b877321e20bcd59f7b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полтавский Дмитрий Сергеевич
-DTEND:20251115T073000Z
-LOCATION:3-330
-DTSTART:20251115T060000Z
-SUMMARY:ЛР Теория графов
-UID:3d45263913c59421481dccf5c1f3c254
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T131500Z
-LOCATION:--каф. 919
-DTSTART:20251125T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:d74891d119dd93b407ab2c968cb0382d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20260306T113000Z
-LOCATION:3-Зал А
-DTSTART:20260306T100000Z
-SUMMARY:ЛК Экономическая теория
-UID:eb2284949eab325d4cfc678831c6ec4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T113000Z
-LOCATION:--каф.
-DTSTART:20251204T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:12c432a512509a33e6ac7a986fbcceb5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T131500Z
-LOCATION:--каф.
-DTSTART:20251218T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8be132d9123e4a9be80a696c206ef56c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251119T113000Z
-LOCATION:3-Зал А
-DTSTART:20251119T100000Z
-SUMMARY:ЛК Алгоритмы и обработка данных
-UID:9bed944d746888574f06cbccfc6200b0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260403T073000Z
-LOCATION:--каф. 919
-DTSTART:20260403T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:eb40aed01b464db9cf1038fb5f0e8a7a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:9-105
-DTSTART:20251219T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:fe50915abc61a19f8ec63f0e4d30574d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260529T073000Z
-LOCATION:--каф. 919
-DTSTART:20260529T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:073345179425ae13cfbab59aab1071f5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20251008T113000Z
-LOCATION:3-Зал А
-DTSTART:20251008T100000Z
-SUMMARY:ЛК Программирование
-UID:bf94d2418130db67dbfbc77b835fedca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T073000Z
-LOCATION:--каф. 919
-DTSTART:20251121T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:012ab484d1ceb87e39148df1181a6645
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260518T150000Z
-LOCATION:3-Зал А
-DTSTART:20260518T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:4dce251efa96fe1f2a2b86c6b99a98c0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дмитриева Елена Анатольевна
-DTEND:20251129T131500Z
-LOCATION:3-434а
-DTSTART:20251129T114500Z
-SUMMARY:ЛР Алгоритмы и обработка данных
-UID:794f1fee9cafcb389b9824b0fbc6c930
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T091500Z
-LOCATION:--каф.
-DTSTART:20251204T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8be334400e4446e2db5a819912536b67
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T113000Z
-LOCATION:--каф.
-DTSTART:20251009T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8b8fd2e6315a3f18a8487be000294b08
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T113000Z
-LOCATION:9-105
-DTSTART:20251107T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:81e87d6d0cb265631d21ad9bd0bf4efa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251225T131500Z
-LOCATION:--каф.
-DTSTART:20251225T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:411002c0d9ff4dd279d745bab30547de
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260521T113000Z
-LOCATION:--каф.
-DTSTART:20260521T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6d31e5ebb479bb590d1c3f89415d4cc0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260515T073000Z
-LOCATION:--каф. 919
-DTSTART:20260515T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:fdaa139d976d2f518e4b2e7307783daa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T073000Z
-LOCATION:--каф. 919
-DTSTART:20251107T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:63e216fce94ab17c19bc8c525c7b0735
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260518T073000Z
-LOCATION:Орш. А-406
-DTSTART:20260518T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:a61e86c588a315fd53e169953196854f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260526T131500Z
-LOCATION:3-330
-DTSTART:20260526T114500Z
-SUMMARY:ЛР Основы схемотехники
-UID:6732d13781488381807531c921e21cd8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сулаков Андрей Сергеевич
-DTEND:20251028T091500Z
-LOCATION:ГУК В-228
-DTSTART:20251028T074500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:8b594ccd18eb490679d9aa283eadc8b0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечиков Юрий Борисович
-DTEND:20250915T113000Z
-LOCATION:3-240б
-DTSTART:20250915T100000Z
-SUMMARY:ПЗ Программирование
-UID:d34da3748dbf52ed13623d7f186a862a
+UID:b03c2b621937f81a445b3f9bd6991508
 END:VEVENT
 END:VCALENDAR

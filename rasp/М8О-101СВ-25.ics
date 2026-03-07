@@ -2,67 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251111T150000Z
-LOCATION:--каф.
-DTSTART:20251111T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:125ac5cffb9d721397fdf6e9c78050cb
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260311T150000Z
 LOCATION:ГУК А-612
 DTSTART:20260311T133000Z
 SUMMARY:ЛК Проектирование и разработка рекомендательных систем
 UID:aa6425d0020ce51ce056976ad7d5b863
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T164500Z
-LOCATION:--каф.
-DTSTART:20251015T151500Z
-SUMMARY:ЛК Машинное обучение
-UID:448b5fbb372679ee3acaf36e620ed028
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T073000Z
-LOCATION:--каф.
-DTSTART:20251004T060000Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:ddbaadf3629c9312701077b7c47de07e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T150000Z
-LOCATION:--каф.
-DTSTART:20251017T133000Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:532159caf30572e13114e724ae3c3392
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T131500Z
-LOCATION:--каф.
-DTSTART:20251223T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:093529befa3f241b3d56ee765e9e7e4e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260325T164500Z
-LOCATION:ГУК А-612
-DTSTART:20260325T151500Z
-SUMMARY:ЛК Разработка основанных на данных решений и предиктивная аналитика
-UID:dbf2a7687b17e3feb479ca2f3559db33
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T150000Z
-LOCATION:--каф.
-DTSTART:20251120T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:5c1222129f48efbcb9807a21b52f038b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260304T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260304T133000Z
-SUMMARY:ЛР Проектирование и разработка рекомендательных систем
-UID:c2291203cc6307c70d709bec8cefcb26
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260402T164500Z
@@ -72,11 +16,39 @@ SUMMARY:ЛР Контейнеризация и оркестрация прило
 UID:6c470d6af000ff399a5fd5e927611000
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260325T164500Z
+LOCATION:ГУК А-612
+DTSTART:20260325T151500Z
+SUMMARY:ЛК Разработка основанных на данных решений и предиктивная аналитика
+UID:dbf2a7687b17e3feb479ca2f3559db33
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260304T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260304T133000Z
+SUMMARY:ЛР Проектирование и разработка рекомендательных систем
+UID:c2291203cc6307c70d709bec8cefcb26
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260224T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260224T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:18234547d4baea4115e33010bda4e3ac
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260421T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260421T133000Z
 SUMMARY:ЛК Глубокое обучение и обработка естественного языка (Большие языковые модели)
 UID:09f0b74468356835a3df2213af220ba0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260302T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260302T151500Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:6588c73b2152050615e9a00e41c00864
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260212T150000Z
@@ -86,6 +58,13 @@ SUMMARY:ЛК Контейнеризация и оркестрация прило
 UID:f4a691437ae63ed7dc81fec3154e3768
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260406T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260406T151500Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:8f721fddd2217f5f28646a6433c69884
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260422T150000Z
 LOCATION:ГУК А-612
 DTSTART:20260422T133000Z
@@ -93,18 +72,11 @@ SUMMARY:ЛК Проектирование и разработка рекомен
 UID:924c1bbf8200c70e96eac30f111c5d30
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T131500Z
-LOCATION:--каф.
-DTSTART:20251011T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:8ac38b28e7d68daf2a46d6732e3ce664
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T150000Z
-LOCATION:--каф.
-DTSTART:20251105T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:c38fba9ef4eefe22b0a48ad71fefd4a2
+DTEND:20260504T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260504T133000Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:d9052a973779d09b161f4318b7d78030
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260317T150000Z
@@ -121,18 +93,11 @@ SUMMARY:ЛР Контейнеризация и оркестрация прило
 UID:5d58736a701bb2cfba7a68d34e2556b7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260406T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260406T133000Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:63ff832b7e5509dbf089a2734826b9d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T164500Z
-LOCATION:--каф.
-DTSTART:20251216T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:75fc711c3ed2cf6c0227b3cfd566a96c
+DTEND:20260331T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260331T133000Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:0a2c5bb7ca30be045d73aaa9bde5fa42
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260305T164500Z
@@ -142,81 +107,11 @@ SUMMARY:ЛР Контейнеризация и оркестрация прило
 UID:08d86beed1ebfedbd336e740c4a6c817
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T091500Z
-LOCATION:--каф.
-DTSTART:20251101T074500Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:8efe1751f7b4f78e5a4e0d2a4b024013
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T150000Z
-LOCATION:--каф.
-DTSTART:20251031T133000Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:cfee2e0c711bbafa31fe50bda1143c3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260116T150000Z
-LOCATION:--каф.
-DTSTART:20260116T133000Z
-SUMMARY:Экзамен Python: Продвинутый уровень
-UID:7a3f2cf167edbf0557e5a73c6f2f58e1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T150000Z
-LOCATION:--каф.
-DTSTART:20251021T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:3d688c04d5ef3eec92eecf64d14c2eae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260324T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260324T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:dbf1f464210025471719c5f034049fdc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T150000Z
-LOCATION:--каф.
-DTSTART:20251203T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:9431542ceff7b3876667e21eface9384
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T113000Z
-LOCATION:--каф.
-DTSTART:20251004T100000Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:cf0fd5c768fa58b18d2d89f8444dd045
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260504T133000Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:4a6d072011a40fec192e342a5f08bc12
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T150000Z
-LOCATION:--каф.
-DTSTART:20251008T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:705e8a799d28c6d13ca2cce9b434e2a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T164500Z
-LOCATION:--каф.
-DTSTART:20251118T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:35b5b1f3ef6ae1c25d00e6ee518dd00b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260120T150000Z
-LOCATION:--каф.
-DTSTART:20260120T133000Z
-SUMMARY:Экзамен Машинное обучение
-UID:66a4311d6605a72a0aed8bb0e17cda66
+DTEND:20260512T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260512T151500Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:27cbdccafaa0bd3b5e7c24aa7f0eb2d6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260211T164500Z
@@ -226,13 +121,6 @@ SUMMARY:ЛК Разработка основанных на данных реш�
 UID:9f700da4a066b95344c987f801d2f543
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T164500Z
-LOCATION:--каф.
-DTSTART:20251008T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:4f2e1e28672b5bca98066fa43475c733
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260324T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260324T133000Z
@@ -240,67 +128,11 @@ SUMMARY:ЛК Глубокое обучение и обработка естес�
 UID:dcef15700455849322bccd63fab4e240
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T164500Z
-LOCATION:--каф.
-DTSTART:20251014T151500Z
-SUMMARY:ЛК Математика для DataScience
-UID:d51967d5b4e18b7f0c28205acf68b3c2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T164500Z
-LOCATION:--каф.
-DTSTART:20251030T151500Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:946a618b3fbf1f25d3fec4271f178e55
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T113000Z
-LOCATION:--каф.
-DTSTART:20251101T100000Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:83709c702f186512952a7d35a1ba67a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T150000Z
-LOCATION:--каф.
-DTSTART:20251029T133000Z
-SUMMARY:ЛК Машинное обучение
-UID:33e575db0b435758dad489785a5d7f59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T164500Z
-LOCATION:--каф.
-DTSTART:20251111T151500Z
-SUMMARY:ЛК Математика для DataScience
-UID:a1006414bff828fa6131c287fc6a17bc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T164500Z
-LOCATION:--каф.
-DTSTART:20251217T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:95caa46904b026a9c7e421a78653e24e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T091500Z
-LOCATION:--каф.
-DTSTART:20251018T074500Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:0f66d7ef97aaec0dda74b8b004003640
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T150000Z
-LOCATION:--каф.
-DTSTART:20251009T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:89211e4ea9694c38571eed98b8000e7e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T131500Z
-LOCATION:--каф.
-DTSTART:20251202T114500Z
-SUMMARY:ЛК Гибкие методологии разработки
-UID:632ee3718b16aace8aa0bf0d90b048f2
+DTEND:20260506T150000Z
+LOCATION:ГУК А-612
+DTSTART:20260506T133000Z
+SUMMARY:ЛК Проектирование и разработка рекомендательных систем
+UID:676fc75b5849e28ac3cfa7ec56b1edc1
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260320T164500Z
@@ -317,25 +149,18 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:7a35d5d2597856136802ec3398b6352e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260506T150000Z
-LOCATION:ГУК А-612
-DTSTART:20260506T133000Z
-SUMMARY:ЛК Проектирование и разработка рекомендательных систем
-UID:676fc75b5849e28ac3cfa7ec56b1edc1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260316T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260316T151500Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:012d2d60cb9cf76e6e40836a41f7f7f3
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:7251c92cf30d19fd6b3170748707bc08
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251018T113000Z
-LOCATION:--каф.
-DTSTART:20251018T100000Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:32412664a9a509582c1d4eb734f8b837
+DTEND:20260302T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260302T133000Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:2c401c4abaad66afddccd194fec47bc9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260313T150000Z
@@ -345,60 +170,11 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:105561e1a49b73771a93a4f78464b561
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260428T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260428T133000Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:87440da6176a06376dbb83b2c43c7cae
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260218T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260218T151500Z
 SUMMARY:ЛР Проектирование и разработка рекомендательных систем
 UID:d19e70d2c319f10239d2e5f7604e4401
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T131500Z
-LOCATION:--каф.
-DTSTART:20251014T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:881b923c77d4298b3d8c3447311508ea
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T150000Z
-LOCATION:--каф.
-DTSTART:20251119T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:fadc6bd4eab0236b51ce1d6a896ea2c4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T150000Z
-LOCATION:--каф.
-DTSTART:20251001T133000Z
-SUMMARY:ЛК Машинное обучение
-UID:d47a5706179aac22dc446bb2b1baa11a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260116T164500Z
-LOCATION:--каф.
-DTSTART:20260116T151500Z
-SUMMARY:Экзамен Python: Продвинутый уровень
-UID:416b0abc49313b6ac0b2d472b34f624f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260323T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260323T151500Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:35e5a761ca64006adec470317ac751fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T150000Z
-LOCATION:--каф.
-DTSTART:20251107T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:16efe4ee0f52e7ac1caa7e93748f21bc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260225T150000Z
@@ -415,25 +191,11 @@ SUMMARY:ЛК Разработка основанных на данных реш�
 UID:74ef45dab79f6ff39cb359dd5d8d1549
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260331T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260331T151500Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:1246164534539c15b6147385a463328f
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260422T164500Z
 LOCATION:ГУК А-612
 DTSTART:20260422T151500Z
 SUMMARY:ЛК Разработка основанных на данных решений и предиктивная аналитика
 UID:4ac901d7ff34811fc035aeea37451311
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T164500Z
-LOCATION:--каф.
-DTSTART:20251023T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:4d5a22f96d0e0e55f67f5f117a3edb08
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260220T164500Z
@@ -443,11 +205,11 @@ SUMMARY:ЛР Сбор\, генерация и разметка данных дл
 UID:83561737b0d471e9645edab8b73a20cd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251025T113000Z
-LOCATION:--каф.
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:5ebaf37af61458d4c52351eeb1f76a79
+DTEND:20260414T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260414T151500Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:a7b059f64ac5a573162af32cd5b079ff
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260429T150000Z
@@ -457,88 +219,18 @@ SUMMARY:ЛР Разработка основанных на данных реш�
 UID:3569ef4881f2e3023f35e46035b71a90
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260216T150000Z
+DTEND:20260316T150000Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260216T133000Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:b7d05da9de5ee04f22a7f2323e343e47
+DTSTART:20260316T133000Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:305943c37c7a1b31414beb1afbabb5b4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260310T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260310T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:fe41a4c2c335bad101590c51c3206381
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260421T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260421T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:cdc33d985da4f5f31d26df5bff91c70d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T131500Z
-LOCATION:--каф.
-DTSTART:20251125T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:bd26aa61c8a6c2c7d8af92f73aa22ffe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260120T164500Z
-LOCATION:--каф.
-DTSTART:20260120T151500Z
-SUMMARY:Экзамен Машинное обучение
-UID:98eb90bdc36b537fdfedbb74389cdb0c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T150000Z
-LOCATION:--каф.
-DTSTART:20251023T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:74ab722b23c57acbde5f849a4b1769c5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260504T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260504T151500Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:2c9518240cb79276c5ba669b8412cdcc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260210T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260210T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:7935a7b308e30a37a42660704f00777c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260318T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260318T133000Z
-SUMMARY:ЛР Проектирование и разработка рекомендательных систем
-UID:20465e3c539508634e7483e368ccc34a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T091500Z
-LOCATION:--каф.
-DTSTART:20251004T074500Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:879a728715a9c66bae0bc0bdaa23e04b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T150000Z
-LOCATION:--каф.
-DTSTART:20251007T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:20ead4d604faa5d2d79b1b49758d05e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T150000Z
-LOCATION:--каф.
-DTSTART:20250930T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:b1c0e035e29f85c732eeb4a528156fae
+DTEND:20260414T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260414T133000Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:abe8ef023fc9205a76addabf41778611
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260319T164500Z
@@ -546,34 +238,6 @@ LOCATION:ГУК Б-430-2
 DTSTART:20260319T151500Z
 SUMMARY:ЛР Контейнеризация и оркестрация приложений
 UID:933d9d12fcc50c5f5785a7982274ec51
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T113000Z
-LOCATION:--каф.
-DTSTART:20251115T100000Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:9cdbce3c877a7ae7351e2087f0875438
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T164500Z
-LOCATION:--каф.
-DTSTART:20251120T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:5ec2783ec46adbc44e2c9f54c91ac146
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T164500Z
-LOCATION:--каф.
-DTSTART:20251003T151500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:ed353115af05f4581731ac99c0d5c813
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260331T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260331T133000Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:d70f58c015b217b28604f00202c4ba75
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260505T150000Z
@@ -597,32 +261,11 @@ SUMMARY:ЛР Контейнеризация и оркестрация прило
 UID:10f1a4d05434ba8f896e76c49d6d8a14
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251113T150000Z
-LOCATION:--каф.
-DTSTART:20251113T133000Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:265fa4e349000bcf183c1348a697bd1b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251101T131500Z
-LOCATION:--каф.
-DTSTART:20251101T114500Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:61b535b6696858955578f32acc0fa104
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T131500Z
-LOCATION:--каф.
-DTSTART:20251216T114500Z
-SUMMARY:ЛК Гибкие методологии разработки
-UID:14a3ecaad688216c0f453a4dc4968e42
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260302T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260302T133000Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:b7779e249818805db012252b08a75988
+DTEND:20260331T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260331T151500Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:d09301bf45604ee1106ff7f4c954d2a7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260401T164500Z
@@ -632,53 +275,11 @@ SUMMARY:ЛР Разработка основанных на данных реш�
 UID:ab6010c4c48cab0deb86936493218896
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260323T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260323T133000Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:bb05365329022261aa985252c3d740da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T073000Z
-LOCATION:--каф.
-DTSTART:20251018T060000Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:a5456cea67c884d6b15667bd5444918f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T164500Z
-LOCATION:--каф.
-DTSTART:20251218T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:20116680d39a335817ab466bf5392e51
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260318T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260318T151500Z
 SUMMARY:ЛР Проектирование и разработка рекомендательных систем
 UID:ce3f82ed3c86b5599c9305c65ab0d302
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260414T133000Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:f185db635d993d4d9cc68387fa05ba01
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T131500Z
-LOCATION:--каф.
-DTSTART:20251111T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:c5345a3e77257f7d10f4bc55169d698e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T150000Z
-LOCATION:--каф.
-DTSTART:20251205T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:dc6dd98bba5e6290a583ea2cf1e9aa38
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260224T150000Z
@@ -693,13 +294,6 @@ LOCATION:ГУК Б-430-2
 DTSTART:20260326T133000Z
 SUMMARY:ЛК Контейнеризация и оркестрация приложений
 UID:511fa11be6063054431fa59dd4644b27
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T164500Z
-LOCATION:--каф.
-DTSTART:20251029T151500Z
-SUMMARY:ЛК Машинное обучение
-UID:c402841260de7982ded9f14e17801e80
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260403T150000Z
@@ -730,27 +324,6 @@ SUMMARY:ЛР Проектирование и разработка рекомен
 UID:0a5d1d99115ba3832b50917b0f663822
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251025T131500Z
-LOCATION:--каф.
-DTSTART:20251025T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:b607e88a75a97a64ead228abca521bc0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T131500Z
-LOCATION:--каф.
-DTSTART:20251122T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:b057ef486fa8aefd013b27c7c3b6d26e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T164500Z
-LOCATION:--каф.
-DTSTART:20251125T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:5fdcd10590b6f8a1b046bc18a4d47ad0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260326T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260326T151500Z
@@ -758,11 +331,11 @@ SUMMARY:ЛК Контейнеризация и оркестрация прило
 UID:5b55e25600bf36000b77e2f0b68d8a95
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T164500Z
-LOCATION:--каф.
-DTSTART:20251203T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:0b3611eebf945b4487a8e7c60bebe2c4
+DTEND:20260428T164500Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260428T151500Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:8b6a01ce3c38e499a71a7944159377be
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260306T164500Z
@@ -777,13 +350,6 @@ LOCATION:ГУК Б-430-2
 DTSTART:20260312T133000Z
 SUMMARY:ЛК Контейнеризация и оркестрация приложений
 UID:04570a56cbdea2809ca85ac6d085c71e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T150000Z
-LOCATION:--каф.
-DTSTART:20251202T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:8ae3d389632edf0a66bdc62e0062794b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260401T150000Z
@@ -807,46 +373,32 @@ SUMMARY:ЛР Разработка основанных на данных реш�
 UID:ac3b628c1a0cdfef63830e06179edc2b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260512T164500Z
+DTEND:20260512T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260512T133000Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:5238ed73786c60ae143f81ff36521d20
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260407T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260512T151500Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:196439aea75cc940d7fa6c32b74c4b69
+DTSTART:20260407T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:f230b57519ee7bccfbb28ad1699fb8ee
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251011T091500Z
-LOCATION:--каф.
-DTSTART:20251011T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:70d48c02f480f5ef54ba8e8b36542dd8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251125T150000Z
-LOCATION:--каф.
-DTSTART:20251125T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:956640c7455a659f663eeae3d232c270
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260406T164500Z
+DTEND:20260420T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260406T151500Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:9a6a84a7382c76155227b60a1a4a2a72
+DTSTART:20260420T151500Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:8918657374aef4b48dac25a7ef918621
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251101T073000Z
-LOCATION:--каф.
-DTSTART:20251101T060000Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:0e4d7f126c1dfc8c93825c39842770b1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T150000Z
-LOCATION:--каф.
-DTSTART:20251114T133000Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:a37fc69525febb6f7e7c590aacb39d7e
+DTEND:20260330T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260330T133000Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:18830baa5932304ee8de99aa26aa3728
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260313T164500Z
@@ -870,39 +422,25 @@ SUMMARY:ЛР Глубокое обучение и обработка естес�
 UID:045a935e37e799355f22b267358fcd9a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T091500Z
-LOCATION:--каф.
-DTSTART:20251108T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:f521494272c92a52765a1f50610daf3e
+DTEND:20260330T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260330T151500Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:e6c4a2b559263677e90bb3302116d22d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T164500Z
-LOCATION:--каф.
-DTSTART:20251219T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:89dc202b494f618490ffaa5fe448bd01
+DTEND:20260210T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260210T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:28237d6da2e9bc20a3c821b359134e67
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T113000Z
-LOCATION:--каф.
-DTSTART:20251108T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:2b5025764c451e830321d126fe7119be
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T150000Z
-LOCATION:--каф.
-DTSTART:20251118T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:660b98a4d0d7ea0d75bda13bc201c452
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T073000Z
-LOCATION:--каф.
-DTSTART:20251206T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:ed223f94ad20f96178e56da090a50ec7
+DTEND:20260504T164500Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260504T151500Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:5ca46cfaf0b58853bdb66cf4c82c51dc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260210T150000Z
@@ -910,27 +448,6 @@ LOCATION:ГУК Б-430-2
 DTSTART:20260210T133000Z
 SUMMARY:ЛК Глубокое обучение и обработка естественного языка (Большие языковые модели)
 UID:31d5d595fb839f50a119d4657a8177b1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T164500Z
-LOCATION:--каф.
-DTSTART:20251002T151500Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:75086c0ba6a543f5c74a7711ba1308c6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T164500Z
-LOCATION:--каф.
-DTSTART:20251205T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:0bcf2dcf6e1ce847035a61220a4242c0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T150000Z
-LOCATION:--каф.
-DTSTART:20251016T133000Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:7036fedf097b2f5a5469df082b68f441
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260408T150000Z
@@ -947,32 +464,11 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:e7e60f94d52ad239df63e9cd30d6d395
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251009T164500Z
-LOCATION:--каф.
-DTSTART:20251009T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:39cb7bbe61a441f419c419fb59b2addc
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260403T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260403T151500Z
 SUMMARY:ЛР Сбор\, генерация и разметка данных для машинного обучения
 UID:cb548f8984fb0f49ef11cf0c5c9cc1d2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251113T164500Z
-LOCATION:--каф.
-DTSTART:20251113T151500Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:5f59d7fd70a34ee86c9547578c3db963
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T113000Z
-LOCATION:--каф.
-DTSTART:20251122T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:521b5246d96ba1ba949eb971c9f1957a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260213T150000Z
@@ -982,67 +478,11 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:1c11802428b3e48ff5e17da97812267e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T164500Z
-LOCATION:--каф.
-DTSTART:20251119T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:4ebc6d7e53fdd617b7b8fea5ae93ecb0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T150000Z
-LOCATION:--каф.
-DTSTART:20251121T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:e04bb115bb4a60e85dfc86fc276a036e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T164500Z
-LOCATION:--каф.
-DTSTART:20251024T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:2173e472ec5a4fbb161f1faf7a97472c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T091500Z
-LOCATION:--каф.
-DTSTART:20251220T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:396a7b8db24122402d12164074ec8bfd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260316T150000Z
+DTEND:20260318T150000Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260316T133000Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:3ab80cfd32ac5d9d163618ce32fdc7df
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T131500Z
-LOCATION:--каф.
-DTSTART:20251206T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:c79c333e05cc228d43e52bb6fa98e46b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251030T150000Z
-LOCATION:--каф.
-DTSTART:20251030T133000Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:dfb671a5fb0242fc888d29384742b906
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251115T073000Z
-LOCATION:--каф.
-DTSTART:20251115T060000Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:d1fb072799e4445ca714195581acb593
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260226T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260226T133000Z
-SUMMARY:ЛК Контейнеризация и оркестрация приложений
-UID:c0f2e0c45a92bd4047b5ece9d790c2fa
+DTSTART:20260318T133000Z
+SUMMARY:ЛР Проектирование и разработка рекомендательных систем
+UID:20465e3c539508634e7483e368ccc34a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260312T164500Z
@@ -1052,18 +492,18 @@ SUMMARY:ЛК Контейнеризация и оркестрация прило
 UID:7ef51af9f3222391c934c73dc4ee24ce
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251014T150000Z
-LOCATION:--каф.
-DTSTART:20251014T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:0c7f6004bd0dbec5c12e377d057e4ef6
+DTEND:20260226T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260226T133000Z
+SUMMARY:ЛК Контейнеризация и оркестрация приложений
+UID:c0f2e0c45a92bd4047b5ece9d790c2fa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260302T164500Z
+DTEND:20260323T150000Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260302T151500Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:1ed432c4eda3189e20645542595fcdf4
+DTSTART:20260323T133000Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:3b1ed670971f43cb4382705a74413883
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260402T150000Z
@@ -1073,53 +513,11 @@ SUMMARY:ЛР Контейнеризация и оркестрация прило
 UID:490ce1639a7d72d1a4ab165ea194345e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260505T164500Z
+DTEND:20260420T150000Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260505T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:aff90dce6f6ecbead163d4bd44471979
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T150000Z
-LOCATION:--каф.
-DTSTART:20251003T133000Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:d3c0e3c34a37efd2c784f1cc7b7a2f91
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T113000Z
-LOCATION:--каф.
-DTSTART:20251206T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:8c2d363dfdbe50be6475bb3e90e32a4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T164500Z
-LOCATION:--каф.
-DTSTART:20251106T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:adda1588eddea200c8c817d252750987
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T164500Z
-LOCATION:--каф.
-DTSTART:20251031T151500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:200f354b6e9a883e6e8a71636b47b99b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T164500Z
-LOCATION:--каф.
-DTSTART:20251017T151500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:01f7aafeed4eea3a5f523155e0ad4556
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T091500Z
-LOCATION:--каф.
-DTSTART:20251122T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:ff76ab2ec36b42fa38052e565b2566e7
+DTSTART:20260420T133000Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:f40de9d278e0c79bc1a9e65b33263cbb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260303T150000Z
@@ -1136,41 +534,6 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:cc9d852bccb45d223e39562454b7444f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T131500Z
-LOCATION:--каф.
-DTSTART:20251115T114500Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:8a4209d6aeb824c33a4cbfdc5438e12c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T164500Z
-LOCATION:--каф.
-DTSTART:20251202T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:5b5663621fcace0a3e2be81bf1452331
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T113000Z
-LOCATION:--каф.
-DTSTART:20251220T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:614363fe4fd62cfc9d1f8100d595d76a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T164500Z
-LOCATION:--каф.
-DTSTART:20251021T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:ff76d9afa8896731f8898b4c0dd787b3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T150000Z
-LOCATION:--каф.
-DTSTART:20251112T133000Z
-SUMMARY:ЛК Машинное обучение
-UID:4dfaac9e4260c4e7661f59769bb1a02d
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260506T164500Z
 LOCATION:ГУК А-612
 DTSTART:20260506T151500Z
@@ -1183,27 +546,6 @@ LOCATION:ГУК Б-430-2
 DTSTART:20260319T133000Z
 SUMMARY:ЛР Контейнеризация и оркестрация приложений
 UID:823ff524ee35926006791ff2d3df3595
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260414T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260414T151500Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:62162af87f0a926e6853d3aacf094fd3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251004T131500Z
-LOCATION:--каф.
-DTSTART:20251004T114500Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:b65e9ce4e7467e0cd862e534f51c4498
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260112T164500Z
-LOCATION:--каф.
-DTSTART:20260112T151500Z
-SUMMARY:Экзамен Продуктовый дизайн и прототипирование AI-продуктов
-UID:970d146924b1a901cf25f72a49397616
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260226T164500Z
@@ -1220,67 +562,18 @@ SUMMARY:ЛР Сбор\, генерация и разметка данных дл
 UID:aca50a42d7bac8ae4c1b1546d4191b96
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251115T091500Z
-LOCATION:--каф.
-DTSTART:20251115T074500Z
-SUMMARY:ЛК Базы данных: продвинутый уровень
-UID:f1ecac087a66d7a0897547cb28647cac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251018T131500Z
-LOCATION:--каф.
-DTSTART:20251018T114500Z
-SUMMARY:ЛК Продуктовый дизайн и прототипирование AI-продуктов
-UID:64ce96effb7c0c24d3a1fd1077d346f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T164500Z
-LOCATION:--каф.
-DTSTART:20251204T151500Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:ea8735b1301f78e5cd9b8f262e281d61
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T131500Z
-LOCATION:--каф.
-DTSTART:20251209T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:44c511f084344a3ca1b2eaeb241aed64
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251002T150000Z
-LOCATION:--каф.
-DTSTART:20251002T133000Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:69433c017b23e0a21c9f01cb3a2d7f13
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T150000Z
+DTEND:20260505T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260420T133000Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:815d3abdcd7909e64e74efcd8eca1707
+DTSTART:20260505T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:796a45eeed0c3490a44a429c15a3654a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T150000Z
-LOCATION:--каф.
-DTSTART:20251217T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:06595e45daa59cd8ddd8021a39889f6d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251204T150000Z
-LOCATION:--каф.
-DTSTART:20251204T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:0ef23d9f46677d4a8f23f58035678247
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260124T073000Z
-LOCATION:--каф.
-DTSTART:20260124T060000Z
-SUMMARY:Экзамен Базы данных: продвинутый уровень
-UID:d57801553fdd77d913231ab6395046aa
+DTEND:20260216T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260216T133000Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:8ff17e7dc452b34134b33941f23245b7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260212T164500Z
@@ -1290,34 +583,6 @@ SUMMARY:ЛК Контейнеризация и оркестрация прило
 UID:8a21c1069b30db031b7a911376ca49f4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251106T150000Z
-LOCATION:--каф.
-DTSTART:20251106T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:53bd3dbdb890182325cfb74fa25ff913
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260428T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260428T151500Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:6a55a0b5b2dfda862df60704501f3935
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T164500Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260420T151500Z
-SUMMARY:ЛР Глубокие генеративные модели
-UID:ea75d431ca165d8b0fd897e990c73e5c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251016T164500Z
-LOCATION:--каф.
-DTSTART:20251016T151500Z
-SUMMARY:ЛК Архитектура информационных систем
-UID:768dbce44b48905f9ad9ff2744e6e739
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260213T164500Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260213T151500Z
@@ -1325,11 +590,11 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:9eb9e6a35c6549c8d660db161c9c6441
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260519T164500Z
+DTEND:20260421T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260519T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:89f573cd35d132f05b75fce35365fe98
+DTSTART:20260421T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:f00f622a875db6003b4e40ed0c7da9a9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260311T164500Z
@@ -1339,20 +604,6 @@ SUMMARY:ЛК Разработка основанных на данных реш�
 UID:3d981169b25363eea2e166a1c84068fb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T164500Z
-LOCATION:--каф.
-DTSTART:20251107T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:4f2fcd69aabc1e601ed19701f0e5e0ac
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T164500Z
-LOCATION:--каф.
-DTSTART:20251121T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:79c9d1154ed156055986dfb1930fd89b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260519T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260519T133000Z
@@ -1360,109 +611,25 @@ SUMMARY:ЛК Глубокое обучение и обработка естес�
 UID:ed7643ce4a77068c50c5d4436b2096a5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251219T150000Z
-LOCATION:--каф.
-DTSTART:20251219T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:43fc5b37c92af0ace432aa56b7af4f14
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T131500Z
-LOCATION:--каф.
-DTSTART:20251021T114500Z
-SUMMARY:ЛК Гибкие методологии разработки
-UID:224a46d64e23c6363774c5e6b48ae0ed
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T150000Z
-LOCATION:--каф.
-DTSTART:20251218T133000Z
-SUMMARY:ЛР Архитектура информационных систем
-UID:8e421195921ecdfdc25e492956e814a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T164500Z
-LOCATION:--каф.
-DTSTART:20250930T151500Z
-SUMMARY:ЛК Математика для DataScience
-UID:b17350fa447283ccaca979c3467d09b9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260407T164500Z
+DTEND:20260310T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260407T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:472213e98f9ca48f8e149cc8cb10dc49
+DTSTART:20260310T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:2ed81799e4821eee1462efe33e28393f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260124T091500Z
-LOCATION:--каф.
-DTSTART:20260124T074500Z
-SUMMARY:Экзамен Базы данных: продвинутый уровень
-UID:f32dcfd27c3fdb56860a54685943d90f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T164500Z
-LOCATION:--каф.
-DTSTART:20251001T151500Z
-SUMMARY:ЛК Машинное обучение
-UID:142d5a47c27516ce3efb1d1c60a91b84
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T164500Z
-LOCATION:--каф.
-DTSTART:20251007T151500Z
-SUMMARY:ЛР Математика для DataScience
-UID:fcb3776da30f8050dcc779c20ef456a3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T150000Z
+DTEND:20260323T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260330T133000Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:7a57b9e29bf2af2f27345b5fb978dd47
+DTSTART:20260323T151500Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:8bbcf5bc14447d40f081b8c17c06a466
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251022T164500Z
-LOCATION:--каф.
-DTSTART:20251022T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:622cb76e145538afff0604aec1cffdad
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T150000Z
-LOCATION:--каф.
-DTSTART:20251022T133000Z
-SUMMARY:ЛР Машинное обучение
-UID:99d5dcc544699fd0dfba4206d0ae8b84
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T073000Z
-LOCATION:--каф.
-DTSTART:20251025T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:54a9f820d10633ab6080cf48e9ca5d63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T073000Z
-LOCATION:--каф.
-DTSTART:20251220T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:59b0877b87f277eb27aedddb4906efc1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T164500Z
+DTEND:20260519T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260216T151500Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:2b70cdc71932d6f1cc2d190154372644
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T091500Z
-LOCATION:--каф.
-DTSTART:20251025T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:ff45aec88d685df90a422e7b1f803c43
+DTSTART:20260519T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:e695ca683d2162fae3093e4d7d616140
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260310T150000Z
@@ -1479,13 +646,6 @@ SUMMARY:ЛК Разработка основанных на данных реш�
 UID:ebb2e8a09152b05538450db76e204788
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251220T131500Z
-LOCATION:--каф.
-DTSTART:20251220T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:bf9dce21501f656e1a483ad1093b1025
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260217T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260217T133000Z
@@ -1500,18 +660,11 @@ SUMMARY:ЛР Сбор\, генерация и разметка данных дл
 UID:8f21d44ca19a8923b5498f82763a59f3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260224T164500Z
+DTEND:20260324T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260224T151500Z
-SUMMARY:ЛК Глубокое обучение и обучение с подкреплением
-UID:b475465bd3a4413b8d26d13b2c8241d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T164500Z
-LOCATION:--каф.
-DTSTART:20251112T151500Z
-SUMMARY:ЛК Машинное обучение
-UID:5f68b9d82bd59921ec3248f8c4cff0f9
+DTSTART:20260324T151500Z
+SUMMARY:ЛК Стратегический менеджмент и цифровая трансформация бизнеса
+UID:8e436643cb189608c056f36358437d55
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260327T164500Z
@@ -1521,53 +674,11 @@ SUMMARY:ЛК Сбор\, генерация и разметка данных дл
 UID:bf59222bcc5c12852e86ec78c595b81a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T150000Z
-LOCATION:--каф.
-DTSTART:20251028T133000Z
-SUMMARY:ЛК Математика для DataScience
-UID:cb7dcfeb11c4395bde2330a5f69f92d2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T131500Z
-LOCATION:--каф.
-DTSTART:20251028T114500Z
-SUMMARY:ПЗ Гибкие методологии разработки
-UID:bc4f69907216277397141996419ec740
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T091500Z
-LOCATION:--каф.
-DTSTART:20251206T074500Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:a61a1322109fcba525201f112761be2d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T164500Z
-LOCATION:--каф.
-DTSTART:20251010T151500Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:571b1069239e2fa3b19b372a4a3ac7ab
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260407T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260407T133000Z
 SUMMARY:ЛК Глубокое обучение и обработка естественного языка (Большие языковые модели)
 UID:fa0cc5c815319d7f2603a3f4cd61ab85
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T073000Z
-LOCATION:--каф.
-DTSTART:20251122T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:35665217ca495cf415a4bf13a98e8173
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260512T150000Z
-LOCATION:ГУК Б-430-2
-DTSTART:20260512T133000Z
-SUMMARY:ЛР Глубокое обучение и обучение с подкреплением
-UID:566d1aba06387bde1ee67657998c96b6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260218T150000Z
@@ -1577,53 +688,18 @@ SUMMARY:ЛР Проектирование и разработка рекомен
 UID:51f0a8ec987eaad57da00f8eaa9e3e44
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260112T150000Z
-LOCATION:--каф.
-DTSTART:20260112T133000Z
-SUMMARY:Экзамен Продуктовый дизайн и прототипирование AI-продуктов
-UID:350ccc5f2ef766944fe5117121cdfb5f
+DTEND:20260406T150000Z
+LOCATION:ГУК Б-430-2
+DTSTART:20260406T133000Z
+SUMMARY:ЛР Глубокое обучение и нейронные сети
+UID:ac78a4112f04c4d19b7ec457c735ad3d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T131500Z
-LOCATION:--каф.
-DTSTART:20251108T114500Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:d039194c089221ce13926f95f24f9f31
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T131500Z
-LOCATION:--каф.
-DTSTART:20251118T114500Z
-SUMMARY:ЛК Гибкие методологии разработки
-UID:986d489dbcd524503fcb467896de673c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T164500Z
-LOCATION:--каф.
-DTSTART:20251114T151500Z
-SUMMARY:ЛК Python: Продвинутый уровень
-UID:004932adcdd86233b2f7550813cb56e2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T164500Z
-LOCATION:--каф.
-DTSTART:20251105T151500Z
-SUMMARY:ЛР Машинное обучение
-UID:20cce16b12eaf4330903c05dbad8c0ec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T150000Z
-LOCATION:--каф.
-DTSTART:20251010T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:76c95fffdf902257d2a8d4674fd23a0c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T113000Z
-LOCATION:--каф.
-DTSTART:20251011T100000Z
-SUMMARY:ПЗ Продуктовый дизайн и прототипирование AI-продуктов
-UID:8fa5340935d13eb1de9b9c7c880a45ec
+DTEND:20260428T150000Z
+LOCATION:ГУК Б-430-1
+DTSTART:20260428T133000Z
+SUMMARY:ЛР Стратегический менеджмент и цифровая трансформация бизнеса
+UID:d47df3bea38e4e82b2e70617a33ab58f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260305T150000Z
@@ -1640,27 +716,6 @@ SUMMARY:ЛК Проектирование и разработка рекомен
 UID:cf882976920bafa3d3ecc71563184134
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T150000Z
-LOCATION:--каф.
-DTSTART:20251216T133000Z
-SUMMARY:ЛР Математика для DataScience
-UID:0c643f928d28cfae7034e760bd0f7a4b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T164500Z
-LOCATION:--каф.
-DTSTART:20251028T151500Z
-SUMMARY:ЛК Математика для DataScience
-UID:210904b0cf577d631755861431edca59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T150000Z
-LOCATION:--каф.
-DTSTART:20251015T133000Z
-SUMMARY:ЛК Машинное обучение
-UID:9fdfab1c7943e64d9adb6bce935c9eab
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260220T150000Z
 LOCATION:ГУК Б-430-2
 DTSTART:20260220T133000Z
@@ -1668,38 +723,10 @@ SUMMARY:ЛР Сбор\, генерация и разметка данных дл
 UID:f9a9688e7b00e4d83def5bfb21287b78
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260330T164500Z
+DTEND:20260216T164500Z
 LOCATION:ГУК Б-430-2
-DTSTART:20260330T151500Z
-SUMMARY:ЛК Глубокие генеративные модели
-UID:31663c4a107652a560c85cfb71af19f7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T150000Z
-LOCATION:--каф.
-DTSTART:20251024T133000Z
-SUMMARY:ЛР Python: Продвинутый уровень
-UID:b6a0cfca8c80a7735dc51372faeacb93
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T131500Z
-LOCATION:--каф.
-DTSTART:20251007T114500Z
-SUMMARY:ЛК Гибкие методологии разработки
-UID:9f546ca0290d30d7c5360741c65a6adb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251108T073000Z
-LOCATION:--каф.
-DTSTART:20251108T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:952e3b848a197c39a17c380f0da36465
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T073000Z
-LOCATION:--каф.
-DTSTART:20251011T060000Z
-SUMMARY:ЛР Базы данных: продвинутый уровень
-UID:f47c268ce5d381281ab7b58a9baf88db
+DTSTART:20260216T151500Z
+SUMMARY:ЛК Глубокое обучение и нейронные сети
+UID:ca41fff9c4c5abe6b13b8fe190e1b2aa
 END:VEVENT
 END:VCALENDAR

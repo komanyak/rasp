@@ -2,42 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20251117T164500Z
-LOCATION:3-Зал А
-DTSTART:20251117T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:c4d8adc34be271857cf0fcba8ce3006b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251208T113000Z
-LOCATION:3-145
-DTSTART:20251208T100000Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:ad91e3bddad2e010b1d59993c4ac8512
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251211T131500Z
-LOCATION:3-435
-DTSTART:20251211T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:3dadbd68e785873ab8f98a7c3ac7450a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260415T091500Z
 LOCATION:--каф.
 DTSTART:20260415T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:8089470e2ea0a53a7eb5d7f9a0206962
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251006T113000Z
-LOCATION:3-301
-DTSTART:20251006T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:7d00f67f47eda67da061930bb870a225
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -46,28 +15,6 @@ LOCATION:3-303
 DTSTART:20260413T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:662beb8cec5dc05c96f6e02c26630965
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250916T113000Z
-LOCATION:3-435
-DTSTART:20250916T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:d0bf29ff8c02d2caf38692f7d88fc0ae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T131500Z
-LOCATION:--каф.
-DTSTART:20251119T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:04330fc6892c3d69a4eb18ca3a2d4216
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T131500Z
-LOCATION:--каф.
-DTSTART:20251126T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:36ff72c847b6f6edc76574fe6c88d627
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -109,26 +56,11 @@ SUMMARY:ЛК Теоретические основы электротехник�
 UID:b524e007b1253d50ea4906e1965b6955
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251015T073000Z
-LOCATION:--каф.
-DTSTART:20251015T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2735f859cf3b3d9443e40fa8bbe720f2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260318T091500Z
 LOCATION:--каф.
 DTSTART:20260318T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:90449d6a29a0954c2b5e2045d9ccd3a7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20250927T091500Z
-LOCATION:3-145
-DTSTART:20250927T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:b4a915fcb01208ef43254476922a56f7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260605T073000Z
@@ -146,35 +78,12 @@ SUMMARY:ПЗ Теоретические основы электротехник�
 UID:48d36645a31af18a79aa2fd21ddc7726
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251213T131500Z
-LOCATION:3-265
-DTSTART:20251213T114500Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:9c271da37c5257779b04d83d453daffe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251122T091500Z
-LOCATION:3-145
-DTSTART:20251122T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:652b9c67e0230f1301e4c88faec8771d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Булычев Роман Павлович
 DTEND:20260420T150000Z
 LOCATION:3-145
 DTSTART:20260420T133000Z
 SUMMARY:ПЗ Электроника
 UID:9c4c55dcecd17ddaf275874142cc24b8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T150000Z
-LOCATION:3-Зал А
-DTSTART:20250915T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:9a9e437962678261e8c3b78bc050a1b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -185,11 +94,12 @@ SUMMARY:ЛР Компьютерные методы обработки инфор
 UID:3f6006b094643ad1d0bb0a8ff49a5ffc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T113000Z
-LOCATION:--каф.
-DTSTART:20251203T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9c847899fa2703f7eb2942bd404b5983
+DESCRIPTION:Рачков Алексей Андреевич
+DTEND:20260507T113000Z
+LOCATION:3-303
+DTSTART:20260507T100000Z
+SUMMARY:ПЗ Теоретическая механика
+UID:00961a05fdfa872974d45dd8e9c56c51
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260318T073000Z
@@ -197,14 +107,6 @@ LOCATION:--каф.
 DTSTART:20260318T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:5eb4724bca591854df897130d3b67392
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рачков Алексей Андреевич
-DTEND:20260507T113000Z
-LOCATION:3-303
-DTSTART:20260507T100000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:00961a05fdfa872974d45dd8e9c56c51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -229,41 +131,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:b8df7d8d9d265e50202d90c076c913d9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251118T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251118T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:fb1c6eaa26141676931bf7b8a912ddec
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T113000Z
-LOCATION:--каф. 919
-DTSTART:20251121T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:f26ae9cbaae3d25248fecba38b6bde9f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
 DTEND:20260508T091500Z
 LOCATION:3-Зал А
 DTSTART:20260508T074500Z
 SUMMARY:ЛК Основы психологии
 UID:b713e791d8238c92ae87bf96868cba65
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260217T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260217T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:01e3c44be34a200baa9fddfcdb6f0695
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260217T150000Z
-LOCATION:Орш. Б-610
-DTSTART:20260217T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:91557bdbdf00edb8a82e250d69e25015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -274,12 +147,11 @@ SUMMARY:ЛК Компьютерные методы обработки инфор
 UID:60320571a94141381ddd8bb6ae8cabac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251030T073000Z
-LOCATION:3-145
-DTSTART:20251030T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:9c74a48ba884fa3e681924d201d1d013
+DTEND:20260217T150000Z
+LOCATION:Орш. Б-610
+DTSTART:20260217T133000Z
+SUMMARY:ПЗ Иностранный язык
+UID:91557bdbdf00edb8a82e250d69e25015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -290,28 +162,12 @@ SUMMARY:ЛК Системное программное обеспечение
 UID:310931d9bb3bc3378bdb122b64c6233c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251225T131500Z
-LOCATION:3-435
-DTSTART:20251225T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:fe4cac2b2b0a727b9fe0530278590a68
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20260323T091500Z
 LOCATION:3-303
 DTSTART:20260323T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:98ee0e5a3e6558000f6fba6f7476c2cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251018T091500Z
-LOCATION:3-109
-DTSTART:20251018T074500Z
-SUMMARY:ЛК Численные методы
-UID:8cca502bdda70b88f2d1e40a46378011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -330,27 +186,11 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:10c76bf7e96bcf4c145d6fde1857d756
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251103T131500Z
-LOCATION:3-301
-DTSTART:20251103T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:6b529bdce611a27f58f82a2aa1ce5b52
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260417T073000Z
 LOCATION:--каф. 919
 DTSTART:20260417T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:0d5e3f5615207a315cdbdd9ee25d65fb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251114T073000Z
-LOCATION:3-435
-DTSTART:20251114T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:65809f2dc3b304b4ec308c830b895428
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -359,13 +199,6 @@ LOCATION:3-241
 DTSTART:20260226T114500Z
 SUMMARY:ПЗ Компьютерные методы обработки информации
 UID:d21e383ac6053961945b3ea6ccb4b760
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T113000Z
-LOCATION:--каф. 919
-DTSTART:20251003T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:47af27da9853d42027d7ea003a9aa2c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -392,41 +225,11 @@ SUMMARY:ПЗ Теоретическая механика
 UID:37849529e9065b57ede19e724182bfc8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T113000Z
-LOCATION:--каф.
-DTSTART:20251001T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c4da572e075eb2bafe3ce940242b9394
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260527T131500Z
 LOCATION:--каф.
 DTSTART:20260527T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:0763467b69182b66c411fae3477c9691
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251208T131500Z
-LOCATION:3-145
-DTSTART:20251208T114500Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:e16d1a4629f909a38140524f82f029e4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T164500Z
-LOCATION:3-Зал А
-DTSTART:20250922T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:153b6e3f27f8c9556cc70876228d53bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251127T113000Z
-LOCATION:3-435
-DTSTART:20251127T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:7a21bc2a2f3b56cfc8f8657764b489ad
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260211T113000Z
@@ -459,25 +262,11 @@ SUMMARY:ПЗ Системное программное обеспечение
 UID:9ec8c7e5c3da0914d4a0737da1d70489
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250902T091500Z
-LOCATION:ГУК А-410
-DTSTART:20250902T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:281d20fda589dfde9b2d54927d405fb4
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260310T113000Z
 LOCATION:--стадион
 DTSTART:20260310T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:345c309d29a33f82be3b4155781e4545
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T073000Z
-LOCATION:--каф. 919
-DTSTART:20250916T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c2277f4aa0da7edd133c797c0741c1ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -488,40 +277,12 @@ SUMMARY:ЛК Электроника
 UID:1b0f469ded24ac4aa8f6bdd0d52d3b16
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251218T073000Z
-LOCATION:Орш. В-314
-DTSTART:20251218T060000Z
-SUMMARY:ЛР Спецглавы физики
-UID:48e1d27bf2583446afaac65071421ce7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T073000Z
-LOCATION:--каф. 919
-DTSTART:20251202T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:de010eb3fa7cbf1d9710586e90d9e342
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20260522T113000Z
 LOCATION:3-435
 DTSTART:20260522T100000Z
 SUMMARY:ЛК Электроника
 UID:e11a970ee4636e46c196758788b1367a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251216T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251216T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:e83b7e69c7db43952220f424828e925f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T113000Z
-LOCATION:--каф.
-DTSTART:20251029T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c267dbb33b17dd28d2d8ea7744e985e2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -532,47 +293,11 @@ SUMMARY:ЛК Системное программное обеспечение
 UID:c132f0a0af3b84d301fd5544d67fd9e7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250905T131500Z
-LOCATION:3-Зал А
-DTSTART:20250905T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:55af3cf9cc1b377b21681a62aaa10d11
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T113000Z
-LOCATION:--каф.
-DTSTART:20251224T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f6ef822fceb9712cc7d5e168d8623aa1
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260422T073000Z
 LOCATION:--каф.
 DTSTART:20260422T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:3c4643fc0c3064c1579278b51ca3c9dc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T131500Z
-LOCATION:--каф.
-DTSTART:20250903T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dd128f5483992242eebaa41525766cdf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T131500Z
-LOCATION:3-Зал А
-DTSTART:20250919T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:14b7a7b494fb55557bffbdf8aa10d95c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251129T091500Z
-LOCATION:3-109
-DTSTART:20251129T074500Z
-SUMMARY:ЛК Численные методы
-UID:9ff0aa54c2828ee90bd92ca0d9e3d9eb
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260527T073000Z
@@ -582,28 +307,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:bebc179000e4a3046dbb2cbcb942f2cf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20260121T073000Z
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20260514T164500Z
 LOCATION:3-241
-DTSTART:20260121T060000Z
-SUMMARY:Экзамен Физические основы микро- и оптоэлектроники
-UID:0cade9cd1b4464b0041905e5f218639a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250915T113000Z
-LOCATION:3-301
-DTSTART:20250915T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:fbd5e0390f0c5d1d55f5a771b923f518
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251113T091500Z
-LOCATION:3-145
-DTSTART:20251113T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:f2c373e5b8ee05ceba5f54dbe0addffa
+DTSTART:20260514T151500Z
+SUMMARY:ЛР Компьютерные методы обработки информации
+UID:8162c2665ca0fd3731b2817fcc6c750e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260424T073000Z
@@ -611,14 +320,6 @@ LOCATION:--каф. 919
 DTSTART:20260424T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:a60d98704ea107b3ee479dfdef148245
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20260514T164500Z
-LOCATION:3-241
-DTSTART:20260514T151500Z
-SUMMARY:ЛР Компьютерные методы обработки информации
-UID:8162c2665ca0fd3731b2817fcc6c750e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260515T073000Z
@@ -642,14 +343,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:b89e019082999e3fbd00ee9f2394b967
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251118T131500Z
-LOCATION:3-265
-DTSTART:20251118T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:e9f6c1fa5c5bd0d9112dc353004a6c38
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260305T150000Z
 LOCATION:3-241
@@ -665,50 +358,11 @@ SUMMARY:ПЗ Иностранный язык
 UID:6dbc96d5d8a3eab7cfba672c3f97d409
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T073000Z
-LOCATION:--каф.
-DTSTART:20251119T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9c65b34ecbe81c5206f75ec08fa610f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251129T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251129T060000Z
-SUMMARY:ЛК Социология
-UID:d0562de2e926b4b1dc76ac00361ee0d4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартюшов Сергей Николаевич
-DTEND:20260115T073000Z
-LOCATION:3-405
-DTSTART:20260115T060000Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:685cc5006259e312c48255c878ae3e55
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20260121T091500Z
-LOCATION:3-241
-DTSTART:20260121T074500Z
-SUMMARY:Экзамен Физические основы микро- и оптоэлектроники
-UID:6871980791d034f780e94cdcdf372fc6
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260317T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20260317T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:f712f59326be5309b29be957cbffbacb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251220T113000Z
-LOCATION:3-145
-DTSTART:20251220T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:eb90b24252062b4c62acde3b09f6eee9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -719,42 +373,12 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:57fb9c6b0b64cbc4cc50d59ee67279d9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20250913T091500Z
-LOCATION:3-145
-DTSTART:20250913T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:adc073cdcabb39ee7a01760f2545c38a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20260316T113000Z
 LOCATION:5-111
 DTSTART:20260316T100000Z
 SUMMARY:ЛК Теория функций комплексного переменного
 UID:80bc2252ce9b1d3c462a0606fd44a364
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251222T113000Z
-LOCATION:3-145
-DTSTART:20251222T100000Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:c35ed9009e33292240c8fa798d758a4a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T091500Z
-LOCATION:--каф.
-DTSTART:20251029T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dc9188c74322cc7bf7840ea1e90c679f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T113000Z
-LOCATION:--каф.
-DTSTART:20250903T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fd000ea3fd461cf025bf9e7860f4a587
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260513T091500Z
@@ -764,11 +388,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:079d695247894d486a568de0e1aac4ee
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251114T131500Z
-LOCATION:7-401
-DTSTART:20251114T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:76c55e8e31caffe77fb22a48afa700d2
+DESCRIPTION:Акмаева Валентина Николаевна
+DTEND:20260420T113000Z
+LOCATION:5-111
+DTSTART:20260420T100000Z
+SUMMARY:ЛК Теория функций комплексного переменного
+UID:7583374391dd54adc36cea2eb22537ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -786,45 +411,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:026716357981609a5e3f062efd3aa40d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251218T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251218T100000Z
-SUMMARY:ПЗ Социология
-UID:c357a348e241bbe8a9f3783ce2d61726
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260414T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260414T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:7edf8404b5aee83ae74998df4d7ab3fa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251121T131500Z
-LOCATION:3-Зал А
-DTSTART:20251121T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:badf50dbf781556b674d0267ab5e8fda
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецова Ася Михайловна
-DTEND:20260226T091500Z
-LOCATION:3-243
-DTSTART:20260226T074500Z
-SUMMARY:ПЗ Системное программное обеспечение
-UID:ce235602f610b7d3a7b590309b4a2236
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Акмаева Валентина Николаевна
-DTEND:20260420T113000Z
-LOCATION:5-111
-DTSTART:20260420T100000Z
-SUMMARY:ЛК Теория функций комплексного переменного
-UID:7583374391dd54adc36cea2eb22537ed
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260429T091500Z
 LOCATION:--каф.
 DTSTART:20260429T074500Z
@@ -839,27 +425,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:d68c3304b37f2c62989df0e48e7bfec0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20250918T091500Z
-LOCATION:3-145
-DTSTART:20250918T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:21d61efb2513c25adb49b8cc758885f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250929T113000Z
-LOCATION:3-301
-DTSTART:20250929T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:1a963b4b182fd3aa764db8d29c689e84
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T131500Z
-LOCATION:--каф.
-DTSTART:20251015T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9bb67b57649b62da34ba94b0ff964ef2
+DESCRIPTION:Кузнецова Ася Михайловна
+DTEND:20260226T091500Z
+LOCATION:3-243
+DTSTART:20260226T074500Z
+SUMMARY:ПЗ Системное программное обеспечение
+UID:ce235602f610b7d3a7b590309b4a2236
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260414T113000Z
@@ -867,21 +438,6 @@ LOCATION:--стадион
 DTSTART:20260414T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:3aad32c939cc0aa122b0d37d621c44e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251227T131500Z
-LOCATION:3-265
-DTSTART:20251227T114500Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:d470beb0743958d65dae9a4b797aecd2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T131500Z
-LOCATION:--каф.
-DTSTART:20251112T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b2101f5e6660a932a2bcf6f2d9733dc6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260324T113000Z
@@ -914,20 +470,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:6c3d01b75845d797644e4127dbdf04b7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251108T131500Z
-LOCATION:3-303
-DTSTART:20251108T114500Z
-SUMMARY:ПЗ Численные методы
-UID:1096555d34eee69cb9cf711b87c11e12
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T131500Z
-LOCATION:--каф.
-DTSTART:20251008T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:aeb4213e9b5d37d67a73f41f4d6929a3
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260526T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260526T133000Z
@@ -951,55 +493,11 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:71970ee9f8d7832a34772bc525c17b09
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251030T113000Z
-LOCATION:3-435
-DTSTART:20251030T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:77c7f976fd5f66041c6bcf7811ebae52
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T150000Z
-LOCATION:3-Зал А
-DTSTART:20251020T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:c7ca85b403c445cc569875f4bb27cf54
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260429T131500Z
 LOCATION:--каф.
 DTSTART:20260429T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:996c103d3f257827b4953ff4dca27b75
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T131500Z
-LOCATION:--каф.
-DTSTART:20251022T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4ee3a314270a42d22cace4368a7f3400
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251001T131500Z
-LOCATION:--каф.
-DTSTART:20251001T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3b825f29607e92d081ca42b8c420b9d1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20250904T131500Z
-LOCATION:3-435
-DTSTART:20250904T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:f1606fe0d4426404c50bd0987d1347d7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T091500Z
-LOCATION:--каф.
-DTSTART:20250917T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dd42d048f0ba47c989ac9302f23c7612
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260603T073000Z
@@ -1009,48 +507,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:077496f97429cc6ef0c1e3174b919ea4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251201T113000Z
-LOCATION:3-301
-DTSTART:20251201T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:7ad2bb8cec84a564ca1721a2c40c4f0d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T131500Z
-LOCATION:3-Зал А
-DTSTART:20250912T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:2d3e0992c12a41476bf057a18af1e3b4
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260408T131500Z
 LOCATION:--каф.
 DTSTART:20260408T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:461f8b1ae0cbcefd43c7692b13bff0e7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T150000Z
-LOCATION:3-Зал А
-DTSTART:20251110T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:668f43a623f1a8cb6b0dfe8f68271a4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251011T113000Z
-LOCATION:3-145
-DTSTART:20251011T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:18c17ff29b7b019878e6736bb72dd490
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T150000Z
-LOCATION:9-107
-DTSTART:20251031T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:12121675cb14a33f77f6849bd828be21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -1077,56 +538,11 @@ SUMMARY:ЛР Системное программное обеспечение
 UID:3e0bad509e0005c0150d7265327b0a55
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251125T073000Z
-LOCATION:--каф. 919
-DTSTART:20251125T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c4f8724470de3ed8a1cdb3ed46903fd3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T073000Z
-LOCATION:--каф.
-DTSTART:20250924T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5c8fcb044b10e284697f74ca24d08256
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260325T131500Z
 LOCATION:--каф.
 DTSTART:20260325T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:25f925d8935ef8c14f7a68a45be83ac7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T164500Z
-LOCATION:3-Зал А
-DTSTART:20251013T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:0922a32d44f03ebee5bb038826520c89
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251122T113000Z
-LOCATION:3-145
-DTSTART:20251122T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:58ce5fc124b59d1d4731e936cf08d7ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251201T131500Z
-LOCATION:3-301
-DTSTART:20251201T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:3d761927cafd4e3e1fc291235b228bd2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251213T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251213T060000Z
-SUMMARY:ЛК Социология
-UID:11a778dd73b0c76d465eb8a366b45594
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
@@ -1137,20 +553,6 @@ SUMMARY:ПЗ Системное программное обеспечение
 UID:a3af27f9afafb29844eb638ef46768fc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T150000Z
-LOCATION:9-107
-DTSTART:20250926T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:319b7d5bb9118f5125491c2e0255d291
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251128T150000Z
-LOCATION:9-107
-DTSTART:20251128T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:24189e607a9b5217c3d6c6bb83687a23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
 DTEND:20260314T091500Z
 LOCATION:3-310
@@ -1159,34 +561,12 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:d9a3f135f32f505619847b282fd5d317
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250923T131500Z
-LOCATION:3-265
-DTSTART:20250923T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:a8c33e8e34907c573f7194e897ad1807
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T131500Z
-LOCATION:3-Зал А
-DTSTART:20251010T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:3d00b75fe63a9d31ae2a19483b9c1653
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250901T150000Z
-LOCATION:3-Зал А
-DTSTART:20250901T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:dc9811e28e2234c3352bae97f52b0e00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20250925T113000Z
-LOCATION:Орш. В-511
-DTSTART:20250925T100000Z
-SUMMARY:ПЗ Социология
-UID:3047e7f56230f5daa6a58371e897334f
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260331T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260331T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:35e59ef00da08ccdb0e9cb02e45c954c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
@@ -1205,75 +585,12 @@ SUMMARY:ПЗ Теоретические основы электротехник�
 UID:201bd47816a80fa0d5668e2043398547
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250922T113000Z
-LOCATION:3-301
-DTSTART:20250922T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:ff4d0a3b602f472db67ca27e799926e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260303T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260303T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:7873fe077303afe95c21a989a0bb596e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251211T113000Z
-LOCATION:3-435
-DTSTART:20251211T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:c3793a25352823925d2c14a29d55ced8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260327T131500Z
 LOCATION:3-404
 DTSTART:20260327T114500Z
 SUMMARY:ЛК Компьютерные методы обработки информации
 UID:e9b884e0bf46bef9d9232d934c6c14c5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250902T113000Z
-LOCATION:3-435
-DTSTART:20250902T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:359b7c386a7bcad1b9df38a44f708498
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251013T150000Z
-LOCATION:3-Зал А
-DTSTART:20251013T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:075db252cfb86950b3f5e524cfabc109
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251122T073000Z
-LOCATION:3-407
-DTSTART:20251122T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:5476ffc1d5f4b3a17bb436d6480ee8a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260428T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260428T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:25d0ae14641ea9e04f2934a5a843db2b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251002T113000Z
-LOCATION:3-435
-DTSTART:20251002T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:f29ceac68e762c8101d1835bea6f2136
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Королев Даниил Иванович
@@ -1284,13 +601,6 @@ SUMMARY:ПЗ Теоретические основы электротехник�
 UID:e6d9b76d9a488f59a6bc8c705f2e12e8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250929T150000Z
-LOCATION:3-Зал А
-DTSTART:20250929T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:9ddbc765736806f0f6ba12d34da1e9c8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260306T073000Z
 LOCATION:--каф. 919
 DTSTART:20260306T060000Z
@@ -1298,47 +608,11 @@ SUMMARY:ПЗ Физическая культура
 UID:ee9fa09da953430b57976859bfe3a67f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T091500Z
-LOCATION:--каф.
-DTSTART:20251210T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a3da256ebb2302f9b26c191f5d4bc16f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20250920T131500Z
-LOCATION:3-303
-DTSTART:20250920T114500Z
-SUMMARY:ЛР Численные методы
-UID:e84b97ec6c08f4a02d4330f321542952
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251014T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:9e1f643666f4df8ba51fa1bae0c6f481
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260303T113000Z
 LOCATION:--стадион
 DTSTART:20260303T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:4263be5cedee69ab0187da66ce4c4b2d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T113000Z
-LOCATION:--каф. 919
-DTSTART:20250912T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:4eec3a590b68f63f14b9e8a7489efefb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T131500Z
-LOCATION:--каф.
-DTSTART:20250910T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ac9ae70b7c7b09e864c59746efc6bf8e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260415T113000Z
@@ -1369,52 +643,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:724658092466d3364b51ea4e849ba4bb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250923T073000Z
-LOCATION:--каф. 919
-DTSTART:20250923T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:597146f19641723b4dbefa6e856a7ff4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251025T113000Z
-LOCATION:3-145
-DTSTART:20251025T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:50dbe9e1e67bc30cd62147ce1584269f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251206T073000Z
-LOCATION:3-407
-DTSTART:20251206T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:733adb1e79d7b57a96f102be5260a2ab
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T113000Z
-LOCATION:--каф. 919
-DTSTART:20251017T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:58015f8adfda53c562edac23b4edf20a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251016T091500Z
-LOCATION:3-145
-DTSTART:20251016T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:97477d5a12557dd459ecb7791e315571
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251011T073000Z
-LOCATION:3-407
-DTSTART:20251011T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:c74fa38bb50626bd25b65815736da82a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260505T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260505T133000Z
@@ -1436,48 +664,11 @@ SUMMARY:ПЗ Физическая культура
 UID:18e57ac7a455e2c72377634827d30482
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T073000Z
-LOCATION:--каф.
-DTSTART:20251217T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c43fa5f0da435550506c39f6258ef42c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260602T113000Z
 LOCATION:--стадион
 DTSTART:20260602T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:0b3292483165bde1e250996749435d3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T113000Z
-LOCATION:--каф.
-DTSTART:20250917T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:177db4c132d7a6708c05c5a73f320bfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251020T113000Z
-LOCATION:3-301
-DTSTART:20251020T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:1d3674c3f001fc64f29863827f6896ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250929T131500Z
-LOCATION:3-301
-DTSTART:20250929T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:723de5e7576c3d0cb6baeec922f2e7f1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T073000Z
-LOCATION:--каф. 919
-DTSTART:20250930T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:07f7dbaf61d52b5a7308b2b3d2d174d9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260225T091500Z
@@ -1509,28 +700,6 @@ SUMMARY:ПЗ Физическая культура
 UID:ed6de0f7fb8e8cc0140c9cda78f69c8b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250917T131500Z
-LOCATION:--каф.
-DTSTART:20250917T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:83022cbc50a74cde773beea401e5fbb7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20250904T113000Z
-LOCATION:3-435
-DTSTART:20250904T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:bf063472f3953ce3155c12f47230b390
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251122T131500Z
-LOCATION:3-303
-DTSTART:20251122T114500Z
-SUMMARY:ПЗ Численные методы
-UID:ac1a8ac38547b775c84d0e1293539d00
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20260424T113000Z
 LOCATION:3-435
@@ -1545,21 +714,6 @@ LOCATION:3-435
 DTSTART:20260313T100000Z
 SUMMARY:ЛК Электроника
 UID:82a3a894e695046a4f24763de8e24c74
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251111T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:84a971daec269c916ee2c8f7c90fe7bf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251229T113000Z
-LOCATION:3-301
-DTSTART:20251229T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:7bec0dfaf9a01da459d0b265b2048a17
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260303T164500Z
@@ -1585,28 +739,6 @@ SUMMARY:ЛК Теоретическая механика
 UID:787b9bf832a91fa1c38da80536a2b879
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251010T113000Z
-LOCATION:--каф. 919
-DTSTART:20251010T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:95cd9f830e16002cac6bf8d5413ad8ff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251101T131500Z
-LOCATION:3-303
-DTSTART:20251101T114500Z
-SUMMARY:ЛР Численные методы
-UID:001585476c42ff17fa2f8723e19bd44a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T150000Z
-LOCATION:9-107
-DTSTART:20251017T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8de1cd34e56abf23a7cb518c885e9de5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260225T113000Z
 LOCATION:--каф.
 DTSTART:20260225T100000Z
@@ -1614,33 +746,19 @@ SUMMARY:ПЗ Военная подготовка
 UID:a66600714f3a16353ff6d7a3163d9ac5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251023T091500Z
-LOCATION:Орш. В-606
-DTSTART:20251023T074500Z
-SUMMARY:ЛР Спецглавы физики
-UID:9d6501bcec2e2e55d4d98792c5c7f292
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251107T073000Z
-LOCATION:3-435
-DTSTART:20251107T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:3896b7ca39af8c6ec639f0e41d455831
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251206T131500Z
-LOCATION:3-303
-DTSTART:20251206T114500Z
-SUMMARY:ПЗ Численные методы
-UID:a2107f57811c5cfb508825d507b18f45
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260401T131500Z
 LOCATION:--каф.
 DTSTART:20260401T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:5b334a920e1c6cc8a48fab4da9665cc7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260512T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260512T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:7f42e65308f80f3962d514514aa6209a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -1659,21 +777,6 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:9ffa26970e1e67bc7c684b0ea9d64191
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251007T113000Z
-LOCATION:3-435
-DTSTART:20251007T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:60d34591d679398b7a9f8a747911f24a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T113000Z
-LOCATION:--каф.
-DTSTART:20251126T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a6c5416d2beae68d27082390eebec540
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20260410T113000Z
 LOCATION:3-435
@@ -1690,13 +793,6 @@ SUMMARY:ЛК Метрология и измерительная техника
 UID:78ddcff9e4d2f3a56f44af3d0d5f4eb9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T131500Z
-LOCATION:--каф.
-DTSTART:20251210T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2701ea6990858d81b07c31560455af23
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Королев Даниил Иванович
 DTEND:20260407T131500Z
 LOCATION:Орш. В-312
@@ -1705,54 +801,11 @@ SUMMARY:ПЗ Теоретические основы электротехник�
 UID:5f25e07374056490a858649ea4e986b2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250901T131500Z
-LOCATION:3-301
-DTSTART:20250901T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:6f0fe222b87af568edd22a092a15a276
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T073000Z
-LOCATION:--каф.
-DTSTART:20250910T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:20dcfdb8fcba8f5f906bcfc19cc2dc9c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251124T150000Z
-LOCATION:3-Зал А
-DTSTART:20251124T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:d412e6dd8920d5130efa633f14355525
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260428T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20260428T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:5cacfec47bbb402539ee709487561eb1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T091500Z
-LOCATION:--каф.
-DTSTART:20251015T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:457b4f632ffc37630a9f0a6d0900cd63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250922T150000Z
-LOCATION:3-Зал А
-DTSTART:20250922T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:eccbfdcf26a843e2715b63e0f5c1bf52
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T150000Z
-LOCATION:9-107
-DTSTART:20250905T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7823ffb09277152295be10e01671a1ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
@@ -1786,14 +839,6 @@ SUMMARY:ЛК Электроника
 UID:513742551e7972ede6422d3c1bcfb997
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251004T113000Z
-LOCATION:3-303
-DTSTART:20251004T100000Z
-SUMMARY:ЛР Численные методы
-UID:0511e76a7f37253a7cd0199f87ef5d52
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рачков Алексей Андреевич
 DTEND:20260312T113000Z
 LOCATION:3-303
@@ -1802,28 +847,12 @@ SUMMARY:ПЗ Теоретическая механика
 UID:319218c99fe06b476cef7179e35dbca7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мартюшов Сергей Николаевич
-DTEND:20260115T091500Z
-LOCATION:3-405
-DTSTART:20260115T074500Z
-SUMMARY:Экзамен Дифференциальные уравнения
-UID:381d8303b85c837966930303f7cf17f4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260402T150000Z
 LOCATION:3-241
 DTSTART:20260402T133000Z
 SUMMARY:ЛР Компьютерные методы обработки информации
 UID:827dacde91abfdb4c8d6a89e79a9bf22
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251113T073000Z
-LOCATION:3-145
-DTSTART:20251113T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:bb56813a33bbe34c4c437b94191d8f57
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260311T131500Z
@@ -1839,14 +868,6 @@ LOCATION:3-441
 DTSTART:20260216T133000Z
 SUMMARY:ЛК Теоретическая механика
 UID:fcd85745cce32cb739884317605533d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251124T131500Z
-LOCATION:3-145
-DTSTART:20251124T114500Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:1cbb8020a585e3aa54db857ec33934e9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260331T150000Z
@@ -1870,13 +891,6 @@ LOCATION:3-303
 DTSTART:20260511T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:da20a4b34008e81ea6842d8545b14c11
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T091500Z
-LOCATION:--каф.
-DTSTART:20251224T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0fa2d6ab62a0aae187d09babf1461093
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -1903,56 +917,12 @@ SUMMARY:ЛК Метрология и измерительная техника
 UID:6bcb71065da480583271106c52c43f95
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251125T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251125T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:9856b41b865493c1c4eab153bec4a0f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251113T131500Z
-LOCATION:3-435
-DTSTART:20251113T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:aa8364cee131d14b3369a3e46b189c41
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T091500Z
-LOCATION:--каф.
-DTSTART:20251022T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:72217ce7c6fc76ccb5c9df31b3820fd1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T091500Z
-LOCATION:--каф.
-DTSTART:20251126T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e3ab0525c259abb08e485d771e14c93a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251129T131500Z
-LOCATION:3-265
-DTSTART:20251129T114500Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:05e4d07fe93bb4d473519e029a7bfdc9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
 DTEND:20260528T113000Z
 LOCATION:3-145
 DTSTART:20260528T100000Z
 SUMMARY:ЛР Электроника
 UID:2b47091f57b9724332aff83d6d2de27d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251031T131500Z
-LOCATION:3-Зал А
-DTSTART:20251031T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:98e26f742466b2a54df666a1f3e5aef6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260303T150000Z
@@ -1962,42 +932,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:a5d264b9e56da0d6e9e5a73d6ab28476
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T131500Z
-LOCATION:3-Зал А
-DTSTART:20251024T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:32ff11844adf946b0b85d2bafed6d0f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T150000Z
-LOCATION:9-107
-DTSTART:20251114T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:3f58151d95d08a5fc28783acc198daa8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
 DTEND:20260327T113000Z
 LOCATION:3-435
 DTSTART:20260327T100000Z
 SUMMARY:ЛК Электроника
 UID:9a53859f745537313ced962e8dced365
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251213T091500Z
-LOCATION:3-109
-DTSTART:20251213T074500Z
-SUMMARY:ЛК Численные методы
-UID:31f7bfd16a804498e477cb75a231c29b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251004T131500Z
-LOCATION:3-303
-DTSTART:20251004T114500Z
-SUMMARY:ЛР Численные методы
-UID:112043ec99144418b095a440dedfa6dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -2036,22 +976,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:fa85d26913eeb5cf4c27166021eb77ec
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251024T073000Z
-LOCATION:3-435
-DTSTART:20251024T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:64ebcb7f54722f7addb120e1b3233784
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20250906T073000Z
-LOCATION:2-314(2В)
-DTSTART:20250906T060000Z
-SUMMARY:ЛК Социология
-UID:6378a39098c4036641e3a0740d0b60f9
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260225T131500Z
 LOCATION:--каф.
 DTSTART:20260225T114500Z
@@ -2059,19 +983,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:0a38162ef5f48aa601e4956a96dafd5e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250915T131500Z
-LOCATION:3-301
-DTSTART:20250915T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:61882cff3b0fe6c3aecde951cb7fe242
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251009T131500Z
-LOCATION:Орш. В-306
-DTSTART:20251009T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:c858a4304e918577db30e687a083b904
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260317T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260317T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:8385a10f3bd50550048066068d5ac7ec
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260520T091500Z
@@ -2081,36 +998,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:bc9290a95c578de6b757caebc7f4a99f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251031T113000Z
-LOCATION:--каф. 919
-DTSTART:20251031T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:6ad5710af6c9da3c760e05242e6c6092
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250910T091500Z
-LOCATION:--каф.
-DTSTART:20250910T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d3d325bf0caad7b9086fe52077591b33
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251101T113000Z
-LOCATION:3-303
-DTSTART:20251101T100000Z
-SUMMARY:ЛР Численные методы
-UID:0da7528def6beb015f752f758df9ba6f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251205T073000Z
-LOCATION:3-435
-DTSTART:20251205T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:22da41eabeb8e2a0b935c07ea421f499
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260519T113000Z
 LOCATION:--стадион
 DTSTART:20260519T100000Z
@@ -2118,11 +1005,12 @@ SUMMARY:ПЗ Физическая культура
 UID:28f540f9c4c78a97634703048a3d14b9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251107T150000Z
-LOCATION:9-107
-DTSTART:20251107T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ae38db10fb4da64a7414c2c59977c5f5
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260414T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260414T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:325471e67b61c99dc9f7e63e5e776394
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260407T113000Z
@@ -2140,14 +1028,6 @@ SUMMARY:ЛР Электроника
 UID:359deda409e2836f79e4141a41bb108e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251115T131500Z
-LOCATION:3-265
-DTSTART:20251115T114500Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:de8faaaded95add164d8e0f3da085929
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260218T113000Z
 LOCATION:--каф.
 DTSTART:20260218T100000Z
@@ -2160,20 +1040,6 @@ LOCATION:--каф.
 DTSTART:20260225T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:ac97fd2d66b893fd9366962995cae573
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T164500Z
-LOCATION:3-Зал А
-DTSTART:20250915T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:895ab1f64130acd548a14056543c35ca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251217T091500Z
-LOCATION:--каф.
-DTSTART:20251217T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1a3359811fd64ad9788a70c5482f3b6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рачков Алексей Андреевич
@@ -2191,50 +1057,12 @@ SUMMARY:ПЗ Физическая культура
 UID:b8a5333bcc6d0a0aa13648d854813468
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251024T113000Z
-LOCATION:--каф. 919
-DTSTART:20251024T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:c3559b798034fbc43dd8805d55296d97
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250909T113000Z
-LOCATION:3-435
-DTSTART:20250909T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:da656c9b6a0e710780bdd01e3bf33cbe
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T131500Z
-LOCATION:3-Зал А
-DTSTART:20251003T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:895a3925f93ae3b282ded93f9ccb6e1e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
 DTEND:20260213T091500Z
 LOCATION:3-Зал А
 DTSTART:20260213T074500Z
 SUMMARY:ЛК Основы психологии
 UID:38942207bdb4421f7f4ed49fae82339b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251110T113000Z
-LOCATION:3-145
-DTSTART:20251110T100000Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:e72f000f6ab2de3f1df898ea19e80562
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251118T113000Z
-LOCATION:3-435
-DTSTART:20251118T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:34b366b8ca083ba0ef692280e5e544dc
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260331T113000Z
@@ -2244,25 +1072,11 @@ SUMMARY:ПЗ Физическая культура
 UID:da0f3a17887567e527f997d4cbc7510a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251216T073000Z
-LOCATION:--каф. 919
-DTSTART:20251216T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:ae62faac82255dd506055f71a11e5635
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260218T073000Z
 LOCATION:--каф.
 DTSTART:20260218T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:81311788bf74ac678732e470b784c45f
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T091500Z
-LOCATION:--каф.
-DTSTART:20250903T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0506dda4e84377b6d397cc8b03a86e22
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260211T091500Z
@@ -2278,14 +1092,6 @@ LOCATION:3-243
 DTSTART:20260312T074500Z
 SUMMARY:ПЗ Системное программное обеспечение
 UID:9c8ef7e57693302dac334a9a41fb10e7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251202T113000Z
-LOCATION:3-435
-DTSTART:20251202T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:d0bad982038f6734085aecf2744d9942
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260211T073000Z
@@ -2311,26 +1117,11 @@ SUMMARY:ЛК Теоретические основы электротехник�
 UID:2be1ecbe3a55b472484a5df62cb79eb0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250926T113000Z
-LOCATION:--каф. 919
-DTSTART:20250926T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:50cef5822a7b69c8d42d350f3a6570de
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260218T091500Z
 LOCATION:--каф.
 DTSTART:20260218T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:116fb07e09357513568cb1551932e49d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260512T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260512T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:c993306ba3132da96f7d438167b15c77
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
@@ -2341,28 +1132,12 @@ SUMMARY:ЛК Основы психологии
 UID:6ed63fe9eeae51516d169150a434c343
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251121T073000Z
-LOCATION:3-435
-DTSTART:20251121T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:3e1fe3b93b53d40c9387c3a7a1113e19
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260313T131500Z
 LOCATION:3-404
 DTSTART:20260313T114500Z
 SUMMARY:ЛК Компьютерные методы обработки информации
 UID:dd93909a716ccc54a890ca3cfb91c9e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251002T131500Z
-LOCATION:3-435
-DTSTART:20251002T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:32e72d94cfd01e5bc70fbd9bab3239f6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260213T073000Z
@@ -2380,14 +1155,6 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:e924e243833e0b54540929e805554d31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251021T131500Z
-LOCATION:3-265
-DTSTART:20251021T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:d23d6bd6747251300f2f5b2ad36c973b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
 DTEND:20260228T091500Z
 LOCATION:3-310
@@ -2403,43 +1170,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:b784d241081208f0855b3ea87dffc26e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251127T091500Z
-LOCATION:3-145
-DTSTART:20251127T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:9a18033c99fa47aed385244aefb8cb8f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
 DTEND:20260227T091500Z
 LOCATION:3-Зал А
 DTSTART:20260227T074500Z
 SUMMARY:ЛК Основы психологии
 UID:dd654c4860b9909f4b7e4336c0cf8b16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251220T073000Z
-LOCATION:3-407
-DTSTART:20251220T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:156bc4a7c4c7ceb2f12b0632b5bfd6c4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251128T073000Z
-LOCATION:3-435
-DTSTART:20251128T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:92409f69dc3093ec2f167d2b3c582389
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250924T091500Z
-LOCATION:--каф.
-DTSTART:20250924T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:97775dae67e9d21bbf26dffd7814957d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бусурин Владимир Игоревич
@@ -2450,49 +1186,12 @@ SUMMARY:ЛК Электроника
 UID:75f4c6e7d421ffe99c020e02e8edbc98
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251125T113000Z
-LOCATION:3-435
-DTSTART:20251125T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:e830906d1237b406aefca2283b2fbe7a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251029T131500Z
-LOCATION:--каф.
-DTSTART:20251029T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d72de764b32ebda7917755877923f696
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251115T091500Z
-LOCATION:3-109
-DTSTART:20251115T074500Z
-SUMMARY:ЛК Численные методы
-UID:5952a8e6c4aabd6abcf0899aa90d7fdd
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T113000Z
-LOCATION:--каф.
-DTSTART:20251105T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:50928b685ba3d360b63abdd104c874ff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260417T131500Z
 LOCATION:3-404
 DTSTART:20260417T114500Z
 SUMMARY:ЛК Компьютерные методы обработки информации
 UID:e9525818a6050c447a6fd9742017a4a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T150000Z
-LOCATION:9-107
-DTSTART:20251219T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5a7d4f8fe5400618606d71889d7c7296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -2508,21 +1207,6 @@ LOCATION:Орш. Б-610
 DTSTART:20260324T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:307eab6065482beb80aab2f703a00e0b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T073000Z
-LOCATION:Орш. В-606
-DTSTART:20251023T060000Z
-SUMMARY:ЛР Спецглавы физики
-UID:be24f3e92c43c0e2b2dd9a37173acd82
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251030T131500Z
-LOCATION:3-435
-DTSTART:20251030T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:4f429bab40478c2abc83819f199e0081
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260421T150000Z
@@ -2554,49 +1238,11 @@ SUMMARY:ЛК Метрология и измерительная техника
 UID:bb62499b5c53b9bba1b06666f05d5d71
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251105T091500Z
-LOCATION:--каф.
-DTSTART:20251105T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a3ceb93dc553218594ee061596a26fed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250923T113000Z
-LOCATION:3-435
-DTSTART:20250923T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:b7dd26ee7ef1be22c4a7fc5b69704d27
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251021T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251021T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:70ee0e61abb801cf0c4606fcfb6c7ee4
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260311T073000Z
 LOCATION:--каф.
 DTSTART:20260311T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:e7198f866379bb1419f9879d062ed8bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251030T091500Z
-LOCATION:3-145
-DTSTART:20251030T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:91ac5772165a981de19afa2b607ddac6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260331T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260331T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:34e8818e178a5d79eee5299461efe4c2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260512T164500Z
@@ -2611,13 +1257,6 @@ LOCATION:--каф. 919
 DTSTART:20260320T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:19e46dd8d59fbe365f6545fbc4e57221
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T150000Z
-LOCATION:9-107
-DTSTART:20250919T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6c8cc6e051135e32d91f9b38cc91bd20
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260401T091500Z
@@ -2649,13 +1288,6 @@ SUMMARY:ПЗ Физическая культура
 UID:55bea2e4ebd46224a9586a729f165cf2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250901T164500Z
-LOCATION:3-Зал А
-DTSTART:20250901T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:b1fcef124cb097f8e7478146c49697a7
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260224T113000Z
 LOCATION:--стадион
 DTSTART:20260224T100000Z
@@ -2670,35 +1302,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:d6455bc3bfd9384a53c4112dbd54bbe1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251124T113000Z
-LOCATION:3-145
-DTSTART:20251124T100000Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:e2f6b42b945a7182fde0fe751a9e4758
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Королев Даниил Иванович
 DTEND:20260224T131500Z
 LOCATION:Орш. В-312
 DTSTART:20260224T114500Z
 SUMMARY:ПЗ Теоретические основы электротехники
 UID:7b0ebc72bc6784268c0db3ec0fd50e34
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251028T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251028T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:be586695106da805b53dccbf03a77dac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251101T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251101T060000Z
-SUMMARY:ЛК Социология
-UID:3c0c645f8583a257e0770c3c23dea0bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -2715,38 +1324,6 @@ LOCATION:3-435
 DTSTART:20260417T100000Z
 SUMMARY:ЛК Электроника
 UID:942d6dc1ffa1fb18b53e3c1b19c5f776
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251229T131500Z
-LOCATION:3-301
-DTSTART:20251229T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:4d674d3f9f77bb4f217f91a8bf4c1469
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251227T113000Z
-LOCATION:3-265
-DTSTART:20251227T100000Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:0e3f212131c560dab77e3708b3c47232
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251101T091500Z
-LOCATION:3-109
-DTSTART:20251101T074500Z
-SUMMARY:ЛК Численные методы
-UID:e39c1c7707df7859001a8b14fbb98d58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251127T131500Z
-LOCATION:3-435
-DTSTART:20251127T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:82ce60d90458f8e8fbcb820bb70b6492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
@@ -2772,28 +1349,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:0c46aeb9c5ad523d04649da45d6ded4b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251206T091500Z
-LOCATION:3-145
-DTSTART:20251206T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:f23faa9fe3d067e0e7c77e86769bb0df
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
 DTEND:20260313T091500Z
 LOCATION:3-Зал А
 DTSTART:20260313T074500Z
 SUMMARY:ЛК Основы психологии
 UID:17dd15a65fec57df1f3881a4906b5760
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251117T113000Z
-LOCATION:3-301
-DTSTART:20251117T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:44f1d2faca887ff85a36be5f947bda6e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260217T164500Z
@@ -2849,35 +1410,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:ac701505cee0c15a1b0955e7df6f07c3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251204T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251204T100000Z
-SUMMARY:ПЗ Социология
-UID:c079e6f890ff2536c846f3f1089702df
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T091500Z
-LOCATION:--каф.
-DTSTART:20251112T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5173724f2a672bbaecf6b092db6a4db9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250903T073000Z
-LOCATION:--каф.
-DTSTART:20250903T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:50ea36ff6a4576a670d50eee3042ab83
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250930T091500Z
-LOCATION:ГУК А-410
-DTSTART:20250930T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f5d4b61c867b1e2f1688f61ed8c9c297
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
 DTEND:20260427T150000Z
 LOCATION:3-441
@@ -2891,13 +1423,6 @@ LOCATION:Орш. Б-610
 DTSTART:20260331T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:411ad95819922d135dfc57ea0f50453d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T091500Z
-LOCATION:--каф.
-DTSTART:20251203T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:890b395bfd079230dc10c9b9daa7fc8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
@@ -2916,21 +1441,6 @@ SUMMARY:ЛК Электроника
 UID:78bc5fe29d4dc6773cbd0185dcdcab1d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251117T131500Z
-LOCATION:3-301
-DTSTART:20251117T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:0877adf4a6d15b81565229c6c16f44da
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251015T113000Z
-LOCATION:--каф.
-DTSTART:20251015T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ae1e629eb6fc1623f6f5c4ca638d090c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260602T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20260602T151500Z
@@ -2946,65 +1456,12 @@ SUMMARY:ЛК Теоретическая механика
 UID:2fceadd4b9eeb382925d7da8ad072506
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251103T113000Z
-LOCATION:3-301
-DTSTART:20251103T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:e1f8af526db0b8b95390e20717ea940f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250922T131500Z
-LOCATION:3-301
-DTSTART:20250922T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:18846542e69a3263caedb1006da41218
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T113000Z
-LOCATION:--каф. 919
-DTSTART:20251107T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:5cb9d58830a5c5fa0779fedcc72c6d6d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250916T091500Z
-LOCATION:ГУК А-410
-DTSTART:20250916T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:525f175b51654cb4c6cf7597622327c7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260429T113000Z
-LOCATION:--каф.
-DTSTART:20260429T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c8719b95f92d1365b65c2b69f9e92a87
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251202T131500Z
-LOCATION:3-265
-DTSTART:20251202T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:4bf90dbdb034806386b8b89060ad6498
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251209T113000Z
-LOCATION:3-435
-DTSTART:20251209T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:e62734d4be923dcc2b16ba1995e3f47f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251111T113000Z
-LOCATION:3-435
-DTSTART:20251111T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:f166e670aa3babf370a0dedb57de2b70
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260526T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260526T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:97bcbaa73f546574694ef46dc708aaf2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -3023,22 +1480,6 @@ SUMMARY:ЛК Компьютерные методы обработки инфор
 UID:382dec3e910c7f1521b142a6fa6b27d1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20250920T073000Z
-LOCATION:2-314(2В)
-DTSTART:20250920T060000Z
-SUMMARY:ЛК Социология
-UID:3613a0d5802598c5b7b8d670785953ef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251227T091500Z
-LOCATION:3-109
-DTSTART:20251227T074500Z
-SUMMARY:ЛК Численные методы
-UID:21e9be47cbb82ae80ad2d1da4d47ec66
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260529T073000Z
 LOCATION:--каф. 919
 DTSTART:20260529T060000Z
@@ -3046,11 +1487,12 @@ SUMMARY:ПЗ Физическая культура
 UID:89306739af68c63a3cabe10e303a02ad
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250924T113000Z
-LOCATION:--каф.
-DTSTART:20250924T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4c4d652d6f0e6fae12990ab6177684a1
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260428T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260428T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:6dc401075403c07629cf9c37babd8885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -3061,20 +1503,6 @@ SUMMARY:ЛР Электроника
 UID:da39a296a73c10fe43b753de5645139d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T091500Z
-LOCATION:--каф.
-DTSTART:20251001T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:09ad82b4681fbf63392af34f4322059d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251010T150000Z
-LOCATION:9-107
-DTSTART:20251010T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f7bd66777986f7373155b32670b22efc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Булычев Роман Павлович
 DTEND:20260518T150000Z
 LOCATION:3-145
@@ -3083,40 +1511,11 @@ SUMMARY:ПЗ Электроника
 UID:5701632c80e3b75a83d38fe8e064c231
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251205T113000Z
-LOCATION:--каф. 919
-DTSTART:20251205T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:81baec543e634ae21b50091f61700a31
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251014T113000Z
-LOCATION:3-435
-DTSTART:20251014T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:f46a128b6b95643b428defca04ed16f5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T131500Z
-LOCATION:--каф.
-DTSTART:20251105T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7d86a9cca06bbadcf33cc8be2533f6a5
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260327T073000Z
 LOCATION:--каф. 919
 DTSTART:20260327T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:c226d6e5bc28cd2e5445ba2ae4ed2049
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251003T150000Z
-LOCATION:9-107
-DTSTART:20251003T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f04faee13c09ff8c59b1247e29c24e1a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
@@ -3127,13 +1526,6 @@ SUMMARY:ЛК Теоретическая механика
 UID:7e9cda5d9455e93883f8039d60c7cafb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T113000Z
-LOCATION:--каф.
-DTSTART:20251217T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2f54808747597b9fed6156081c3bbd00
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20260330T113000Z
 LOCATION:5-111
@@ -3142,25 +1534,11 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:82c91f077a6383892cf632bbb7bf9582
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T164500Z
-LOCATION:3-Зал А
-DTSTART:20251006T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:d5db3cce3766bc5f1d91140954a8fc10
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260513T073000Z
 LOCATION:--каф.
 DTSTART:20260513T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:3851d23647b2110c77d14f5671b06faf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251209T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f0de6a7104f0983ac0f4d416e714d594
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -3171,58 +1549,12 @@ SUMMARY:ЛК Системное программное обеспечение
 UID:692a6108dffd2db163a6a4a7f09b4675
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251215T131500Z
-LOCATION:3-301
-DTSTART:20251215T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:cf68aee638b597bebd71294733c7753f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
 DTEND:20260529T091500Z
 LOCATION:3-441
 DTSTART:20260529T074500Z
 SUMMARY:ЛК Теоретические основы электротехники
 UID:24636a736815523b01232f8fedd9296e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T073000Z
-LOCATION:--каф. 919
-DTSTART:20250909T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:312cbda18b06194bf483f47a0c2a4472
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251106T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251106T100000Z
-SUMMARY:ПЗ Социология
-UID:519584334d3041f1d6a49e1fa5bd92e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T150000Z
-LOCATION:9-107
-DTSTART:20251226T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:6a0b9caedf3a2403ca133c34a7869451
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251222T091500Z
-LOCATION:3-145
-DTSTART:20251222T074500Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:e83374009d9e3be5c4190dd7ddd594be
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251006T131500Z
-LOCATION:3-301
-DTSTART:20251006T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:5bdc68d9fae22918a9c4317858aa769a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
@@ -3233,21 +1565,6 @@ SUMMARY:ЛК Основы психологии
 UID:a1ebcc3b186aaff4c55516787ddfb64f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251204T131500Z
-LOCATION:Орш. В-306
-DTSTART:20251204T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:40becd259061a12a77a0cfa498109a84
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251115T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251115T060000Z
-SUMMARY:ЛК Социология
-UID:7eb3f334c830224dd7e4840b10fce256
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20260504T113000Z
 LOCATION:5-111
@@ -3256,36 +1573,12 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:16154991a26518fa6abae71550119894
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251010T073000Z
-LOCATION:3-435
-DTSTART:20251010T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:529a02d4d74278297dd74a5211de0086
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
 DTEND:20260209T131500Z
 LOCATION:3-435
 DTSTART:20260209T114500Z
 SUMMARY:ЛК Системное программное обеспечение
 UID:0a028d78458b47d3eb2e9f44c5cc00ff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251216T113000Z
-LOCATION:3-435
-DTSTART:20251216T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:00769af490a5459176302c20a176ed0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251004T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251004T060000Z
-SUMMARY:ЛК Социология
-UID:dec7b5676b9c61c9377a695e262d384e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260318T131500Z
@@ -3324,42 +1617,6 @@ SUMMARY:ЛР Системное программное обеспечение
 UID:f1ccfd5fc9596ecc87959ad1769fdba3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251027T164500Z
-LOCATION:3-Зал А
-DTSTART:20251027T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:23079edd1c63b1988781480b389f455e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251114T113000Z
-LOCATION:--каф. 919
-DTSTART:20251114T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:57f29fcf4313b57b36ec2a9152e106fb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251218T091500Z
-LOCATION:Орш. В-314
-DTSTART:20251218T074500Z
-SUMMARY:ЛР Спецглавы физики
-UID:11c2fe14ce476849d63040906c1660dd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20250918T073000Z
-LOCATION:3-145
-DTSTART:20250918T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:7ab287c93132b91716bc7ede7522d806
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251126T073000Z
-LOCATION:--каф.
-DTSTART:20251126T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8ef28638761bdf0e0b6444526d09cfb6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
 DTEND:20260327T091500Z
 LOCATION:3-Зал А
@@ -3384,13 +1641,6 @@ SUMMARY:ЛК Теоретические основы электротехник�
 UID:a8f19fa91dba36d345ebe53d7453250a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250910T113000Z
-LOCATION:--каф.
-DTSTART:20250910T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c70ed787f0af64c978cfb7fdafa556d8
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260403T073000Z
 LOCATION:--каф. 919
 DTSTART:20260403T060000Z
@@ -3413,14 +1663,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:2fb89ff35beca75d4a58ea3f05147304
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251215T113000Z
-LOCATION:3-301
-DTSTART:20251215T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:fac3cec0489c882b1a5978a8421e87b3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
 DTEND:20260413T150000Z
 LOCATION:3-441
@@ -3429,34 +1671,11 @@ SUMMARY:ЛК Теоретическая механика
 UID:37f33c9129a102ce317d2532f04866c1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250924T131500Z
-LOCATION:--каф.
-DTSTART:20250924T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a92fb6850eb953c7101c713db3ee3a40
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260428T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260428T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:1289656e62cc357036f58af6c0d127f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251028T113000Z
-LOCATION:3-435
-DTSTART:20251028T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:b315ff273848b77f28a03ab0f563ec52
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251129T113000Z
-LOCATION:3-265
-DTSTART:20251129T100000Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:0b4ee3954c9a96277cefdbef55b0cd01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -3467,21 +1686,6 @@ SUMMARY:ЛК Метрология и измерительная техника
 UID:d958635ec711decfb13fdb95b1c5a30e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251124T164500Z
-LOCATION:3-Зал А
-DTSTART:20251124T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:a9ce209e018246b1e7662ad3bbe3c019
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250930T113000Z
-LOCATION:3-435
-DTSTART:20250930T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:013b6ad6b07b0c6bebe346af8b0ad157
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260312T131500Z
 LOCATION:3-241
@@ -3490,36 +1694,20 @@ SUMMARY:ПЗ Компьютерные методы обработки инфор
 UID:4cba7eddc8f02c75e71457fe313f912b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251027T113000Z
-LOCATION:3-145
-DTSTART:20251027T100000Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:2fd0827970852a3e04b18e743e498564
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251220T091500Z
-LOCATION:3-145
-DTSTART:20251220T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:b7e899dc26178597e0799a70e8591fd5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251016T131500Z
-LOCATION:3-435
-DTSTART:20251016T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:456d09ab76f5a18d5f1f73c6d438e42b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
 DTEND:20260409T091500Z
 LOCATION:3-243
 DTSTART:20260409T074500Z
 SUMMARY:ПЗ Системное программное обеспечение
 UID:786769cd82a6aa6454b3ca559d334649
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260303T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260303T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:05a905cec68c2da3d8882afc69f99fae
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260224T150000Z
@@ -3537,56 +1725,11 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:368172df524989a2cfa18846b2f79f84
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20250918T113000Z
-LOCATION:3-435
-DTSTART:20250918T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:d20874da8606e698e3896a2762190990
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251002T091500Z
-LOCATION:3-145
-DTSTART:20251002T074500Z
-SUMMARY:ЛР Информационные технологии
-UID:40b3f80148761676f78223a71e472204
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251027T131500Z
-LOCATION:3-145
-DTSTART:20251027T114500Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:c34310c0eda132d68e1347f8a3fa99a6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251105T073000Z
-LOCATION:--каф.
-DTSTART:20251105T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7f9fd012c2c25789b67fe0c3343b853b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260310T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260310T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:6f1e5713bf0b749010fadc8d086d971a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T091500Z
-LOCATION:Орш. В-606
-DTSTART:20251106T074500Z
-SUMMARY:ЛР Спецглавы физики
-UID:6d130b308a112ad547146772e3e9b976
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T073000Z
-LOCATION:--каф. 919
-DTSTART:20251223T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3626ba5a8800912e513cdbbd1580561f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
@@ -3605,28 +1748,6 @@ SUMMARY:ЛР Компьютерные методы обработки инфор
 UID:7a333c54f205b142a8685ddcaff9c5ca
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251203T073000Z
-LOCATION:--каф.
-DTSTART:20251203T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:888751f4525fe2f1d15260bdb04378fc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T073000Z
-LOCATION:--каф.
-DTSTART:20251224T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d5a9a461ee71affca42c9c9c00b48054
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260526T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260526T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:a6dac60e075dde663f78ab240ef2d614
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рачков Алексей Андреевич
 DTEND:20260409T113000Z
 LOCATION:3-303
@@ -3635,40 +1756,11 @@ SUMMARY:ПЗ Теоретическая механика
 UID:f22911f37cb1cf024a701f2f0d5607c3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251016T073000Z
-LOCATION:3-145
-DTSTART:20251016T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:c34990d2e441c199b06a1c9368dbab92
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251011T131500Z
-LOCATION:3-303
-DTSTART:20251011T114500Z
-SUMMARY:ПЗ Численные методы
-UID:9a3dbdfdff71a9fd5162ad4acb72badf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T164500Z
-LOCATION:3-Зал А
-DTSTART:20250908T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:f18c0605e5a39887db1008b49f7fd4ae
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260506T131500Z
 LOCATION:--каф.
 DTSTART:20260506T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:ccb5b8d33d4ffba9bd737bdea200b557
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251208T150000Z
-LOCATION:3-Зал А
-DTSTART:20251208T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:e53b19847e4df1cb36866416ee8fbbf8
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260408T091500Z
@@ -3684,80 +1776,6 @@ LOCATION:3-303
 DTSTART:20260330T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:f3d9dbc853330cfa1f9ab0736aed6909
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251025T091500Z
-LOCATION:3-145
-DTSTART:20251025T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:d48392629d591495b25c9e50ccdd6552
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20250908T113000Z
-LOCATION:3-301
-DTSTART:20250908T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:c642d2dc6bbdd549fb7b8e069985a18d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250923T091500Z
-LOCATION:ГУК А-410
-DTSTART:20250923T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:6aa5ad82d72f646b3db470df8cbd13cb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251208T091500Z
-LOCATION:3-145
-DTSTART:20251208T074500Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:caa359fe6b05453d6f52521cb03cd7a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251115T113000Z
-LOCATION:3-265
-DTSTART:20251115T100000Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:833b21a808397967964d0d97c84990e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250912T150000Z
-LOCATION:9-107
-DTSTART:20250912T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f8f9a9879d595b3681ea70125d9f422e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251020T164500Z
-LOCATION:3-Зал А
-DTSTART:20251020T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:18c36d770c7f04be97378f224f94997a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251220T131500Z
-LOCATION:3-303
-DTSTART:20251220T114500Z
-SUMMARY:ПЗ Численные методы
-UID:6d6c58c803cdd422deb0eac705f2da40
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T131500Z
-LOCATION:Орш. В-306
-DTSTART:20251106T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:50188fd12a4cc257b76174c7f617fda4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251119T113000Z
-LOCATION:--каф.
-DTSTART:20251119T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1613c174829d861d8d07197bbae17b78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -3783,27 +1801,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:706c264947da689a8835e991e1623da0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251028T073000Z
-LOCATION:--каф. 919
-DTSTART:20251028T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c69a280e305cfb26dad881173648f720
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251210T113000Z
-LOCATION:--каф.
-DTSTART:20251210T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fcb731534bd01725ff6f3e744d5cbfab
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250919T113000Z
-LOCATION:--каф. 919
-DTSTART:20250919T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:1b69afaf60018ebb7b632a47fab1b998
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
 DTEND:20260323T131500Z
 LOCATION:3-435
@@ -3812,49 +1809,11 @@ SUMMARY:ЛК Системное программное обеспечение
 UID:daac0d9319133972d874b3e7a6e5fbc5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251128T113000Z
-LOCATION:--каф. 919
-DTSTART:20251128T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:d08a059db350067ccd783967e0923c3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251224T131500Z
-LOCATION:--каф.
-DTSTART:20251224T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:79705e9b32bbe3d89de9266e0532587d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251016T113000Z
-LOCATION:3-435
-DTSTART:20251016T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:790c2254a9cac9df791cf4e3fcefe8fd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260519T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20260519T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:6996d4be519d1d97c5d8baf72012ed4e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251018T131500Z
-LOCATION:3-303
-DTSTART:20251018T114500Z
-SUMMARY:ЛР Численные методы
-UID:342c77be8ee9b4d17be174d5df9edc6d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251222T131500Z
-LOCATION:3-145
-DTSTART:20251222T114500Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:9dc750e04449510135dd2d26e73c45bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
@@ -3873,33 +1832,11 @@ SUMMARY:ПЗ Системное программное обеспечение
 UID:30ac0ce0d1d2efc0759ba2edd6642d4a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251206T113000Z
-LOCATION:3-145
-DTSTART:20251206T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:6b40ef9857ae1456044252ec4f840fca
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251120T131500Z
-LOCATION:Орш. В-306
-DTSTART:20251120T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:47ccd600b83acd46c1272b3b3640011b
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260317T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260317T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:255ebe07883ad01814de55ca227d63a7
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251209T073000Z
-LOCATION:--каф. 919
-DTSTART:20251209T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:a6c517315a27313044902877ff9210b6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260224T164500Z
@@ -3909,40 +1846,12 @@ SUMMARY:ПЗ Иностранный язык
 UID:1024e15ba4233076288aa2ca3dc7bab0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251210T073000Z
-LOCATION:--каф.
-DTSTART:20251210T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d69ce913aebae3451b598eade551353
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251202T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251202T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:d2957aab40911ae1bde0cc5a2bf55bb6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20251018T073000Z
-LOCATION:2-314(2В)
-DTSTART:20251018T060000Z
-SUMMARY:ЛК Социология
-UID:64f6f7fc6939c35e18936de97fdafe87
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251117T150000Z
-LOCATION:3-Зал А
-DTSTART:20251117T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:1293a66379a6e788c514c5f1c5d83240
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T113000Z
-LOCATION:--каф. 919
-DTSTART:20251212T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:23e77424176453060d8a68dcbd8fd5ea
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20260305T164500Z
+LOCATION:3-241
+DTSTART:20260305T151500Z
+SUMMARY:ЛР Компьютерные методы обработки информации
+UID:1eacf6f47e619867134a56a841ea33b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -3951,14 +1860,6 @@ LOCATION:3-303
 DTSTART:20260216T074500Z
 SUMMARY:ПЗ Теория функций комплексного переменного
 UID:6eae28b67b324044a74d34a7a8656492
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20260305T164500Z
-LOCATION:3-241
-DTSTART:20260305T151500Z
-SUMMARY:ЛР Компьютерные методы обработки информации
-UID:1eacf6f47e619867134a56a841ea33b9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260513T131500Z
@@ -3975,49 +1876,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:76419ebb3bd30d68f034c58d1ce33bc9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20250911T113000Z
-LOCATION:Орш. В-511
-DTSTART:20250911T100000Z
-SUMMARY:ПЗ Социология
-UID:ead840333f334c6f3bcfa7f4abf77282
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260227T131500Z
 LOCATION:3-404
 DTSTART:20260227T114500Z
 SUMMARY:ЛК Компьютерные методы обработки информации
 UID:508a98255087c9710cf2e797aa40b8c9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251106T073000Z
-LOCATION:Орш. В-606
-DTSTART:20251106T060000Z
-SUMMARY:ЛР Спецглавы физики
-UID:4759c0622e29090878ecc96b68bea9fb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250905T113000Z
-LOCATION:--каф. 919
-DTSTART:20250905T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:37840ab3b61837831d939ef99a850ffc
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251006T150000Z
-LOCATION:3-Зал А
-DTSTART:20251006T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:56cb56392595bd044fe9f7a71f7da8db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251021T113000Z
-LOCATION:3-435
-DTSTART:20251021T100000Z
-SUMMARY:ЛК Теоретические основы электротехники
-UID:bfac93bde1aaf8d3023c18387b3a67df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -4051,21 +1915,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:cfdce815975b7b95f49ee80d561798eb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251004T091500Z
-LOCATION:3-109
-DTSTART:20251004T074500Z
-SUMMARY:ЛК Численные методы
-UID:23ac5edebe0b4327c6cdcb45a1c95a11
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251212T150000Z
-LOCATION:9-107
-DTSTART:20251212T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f83b4d745c0f11d51e72561ef9376a3f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
 DTEND:20260406T091500Z
 LOCATION:3-303
@@ -4082,62 +1931,12 @@ SUMMARY:ПЗ Теоретическая механика
 UID:bbbc422644998c720c9e1233d23fec31
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251119T091500Z
-LOCATION:--каф.
-DTSTART:20251119T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fb88e631b3f6e32536f19245d9743441
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251111T073000Z
-LOCATION:--каф. 919
-DTSTART:20251111T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3c0a9043ed6d295862aa954919c8a1c9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251023T131500Z
-LOCATION:Орш. В-306
-DTSTART:20251023T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:d256e55b4897cb7f3ababb97917ec8a9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250917T073000Z
-LOCATION:--каф.
-DTSTART:20250917T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:dbe49dcff3cb402ac197d07a539a96ae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20250920T091500Z
-LOCATION:3-109
-DTSTART:20250920T074500Z
-SUMMARY:ЛК Численные методы
-UID:b05f1969e780f475083f95b000ed6f67
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T073000Z
-LOCATION:--каф.
-DTSTART:20251008T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:cfc79f83d06304db2aa533cc3fbb73a1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20251018T113000Z
-LOCATION:3-303
-DTSTART:20251018T100000Z
-SUMMARY:ЛР Численные методы
-UID:ce264aa1a0c9729d2fc8ba4e9bd9466c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T073000Z
-LOCATION:--каф.
-DTSTART:20251112T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d2fc1978ae1fb28973ea6750ca387096
+DESCRIPTION:Королев Даниил Иванович
+DTEND:20260505T131500Z
+LOCATION:Орш. В-312
+DTSTART:20260505T114500Z
+SUMMARY:ПЗ Теоретические основы электротехники
+UID:8ec5e329d58f2d500a5711cea533b131
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -4148,50 +1947,6 @@ SUMMARY:ЛК Компьютерные методы обработки инфор
 UID:d19cdafc600ac924d2fadbe882466769
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251002T073000Z
-LOCATION:3-145
-DTSTART:20251002T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:899c9266668df529557c9bad5fd809d8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251112T113000Z
-LOCATION:--каф.
-DTSTART:20251112T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:feef67108d52ea5d348017b1bd7f516b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Королев Даниил Иванович
-DTEND:20260505T131500Z
-LOCATION:Орш. В-312
-DTSTART:20260505T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:8ec5e329d58f2d500a5711cea533b131
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250913T131500Z
-LOCATION:3-303
-DTSTART:20250913T114500Z
-SUMMARY:ПЗ Численные методы
-UID:45ee4a58c571fc65a0859306fd557ad5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250911T131500Z
-LOCATION:Орш. В-306
-DTSTART:20250911T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:a5da360a0f45cce5811f1e127b3aeef9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251024T150000Z
-LOCATION:9-107
-DTSTART:20251024T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1f10ce3d52355a81de3266da3d74f3c0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260528T150000Z
 LOCATION:3-241
@@ -4200,19 +1955,20 @@ SUMMARY:ЛР Компьютерные методы обработки инфор
 UID:bd46b631999acf626e8aee533b125ffb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251008T113000Z
-LOCATION:--каф.
-DTSTART:20251008T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:401dc88c6179f70e4dfc387e946d6267
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260320T131500Z
 LOCATION:3-404
 DTSTART:20260320T114500Z
 SUMMARY:ЛК Компьютерные методы обработки информации
 UID:17c76019e83d45d7b9c59dae159d67a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пономарева Диана Игоревна
+DTEND:20260217T131500Z
+LOCATION:Орш. В-514
+DTSTART:20260217T114500Z
+SUMMARY:ПЗ Основы психологии
+UID:08466f2dd2926bc8d5ea1aab4d17ef56
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260519T150000Z
@@ -4243,22 +1999,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:11e308a74d52f1bf6283f4d5a0597e39
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20250913T073000Z
-LOCATION:3-407
-DTSTART:20250913T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:c89c9410c8db755c67dc251ba9bbc713
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251031T073000Z
-LOCATION:3-435
-DTSTART:20251031T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:34631289e07e162018a77b001ffea920
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260422T131500Z
 LOCATION:--каф.
 DTSTART:20260422T114500Z
@@ -4271,38 +2011,6 @@ LOCATION:--каф.
 DTSTART:20260429T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:15b3515bb981bcadbe9ea76c843f348d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251013T131500Z
-LOCATION:3-301
-DTSTART:20251013T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:2546d0b67c1ea13e881cef840655b86d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251025T073000Z
-LOCATION:3-407
-DTSTART:20251025T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:5d8658805a11176cae7b9b3deb40725e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251108T113000Z
-LOCATION:3-145
-DTSTART:20251108T100000Z
-SUMMARY:ПЗ Физические основы микро- и оптоэлектроники
-UID:6e3624a91ad23682aab2325f4c354ec5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251011T091500Z
-LOCATION:3-145
-DTSTART:20251011T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:2887c551567b15556375cf88d6bc23fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
@@ -4320,14 +2028,6 @@ SUMMARY:ПЗ Иностранный язык
 UID:5eea505fc185345fef6dbdbd56bea935
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20250920T113000Z
-LOCATION:3-303
-DTSTART:20250920T100000Z
-SUMMARY:ЛР Численные методы
-UID:c542eff454b1457b44f5de6444a24170
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
 DTEND:20260326T131500Z
 LOCATION:3-241
@@ -4336,65 +2036,12 @@ SUMMARY:ПЗ Компьютерные методы обработки инфор
 UID:a7861fa1613184c8234e4537543e18ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251001T073000Z
-LOCATION:--каф.
-DTSTART:20251001T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:28d5e6a2e1d10711142ec38c6ab1d318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20251113T113000Z
-LOCATION:3-435
-DTSTART:20251113T100000Z
-SUMMARY:ЛК Информационные технологии
-UID:ce394aeb38251f46e76e07fd2d97e84d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Осокин Андрей Владимирович
-DTEND:20251013T113000Z
-LOCATION:3-301
-DTSTART:20251013T100000Z
-SUMMARY:ПЗ Теория вероятностей и математическая статистика
-UID:2cfcacee5872df755acd3c77fc1a6b57
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251027T150000Z
-LOCATION:3-Зал А
-DTSTART:20251027T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:9c12ce42c3b267a3c6668e44498ffd77
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T113000Z
-LOCATION:--каф.
-DTSTART:20251022T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:22408d0607e1e13f4638804a8904886e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
 DTEND:20260216T131500Z
 LOCATION:3-Зал А
 DTSTART:20260216T114500Z
 SUMMARY:ЛК Метрология и измерительная техника
 UID:c06b6eb7cb748685b255bcbbbf794ab3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251009T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251009T100000Z
-SUMMARY:ПЗ Социология
-UID:930f0e424540aceb5df63cfca701d70c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пономарева Диана Игоревна (осн.)
-DTEND:20260317T131500Z
-LOCATION:Орш. В-514
-DTSTART:20260317T114500Z
-SUMMARY:ПЗ Основы психологии
-UID:1811cb69979b5ac506ef4ed9b2dcfb78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ластовенко Дарья Викторовна
@@ -4413,32 +2060,11 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:2202ac6c0333b0b0bd03178a3c0f48b3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251007T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251007T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:c78afb6ab482db044d570828022d8736
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251022T073000Z
+DTEND:20260513T113000Z
 LOCATION:--каф.
-DTSTART:20251022T060000Z
+DTSTART:20260513T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:bd5bfc9b2777ce50f241279343bc767e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250929T164500Z
-LOCATION:3-Зал А
-DTSTART:20250929T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:f4da4815bb43f0790348014807c96594
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251107T131500Z
-LOCATION:3-Зал А
-DTSTART:20251107T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:d35134af8d5417dd9f171375ac7e8652
+UID:e3e36f4392b56a628755cb09249ddd6b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Акмаева Валентина Николаевна
@@ -4449,33 +2075,12 @@ SUMMARY:ПЗ Теория функций комплексного перемен
 UID:6255b592bbe60190bc03be5aa3409824
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260513T113000Z
-LOCATION:--каф.
-DTSTART:20260513T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e3e36f4392b56a628755cb09249ddd6b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251201T150000Z
-LOCATION:3-Зал А
-DTSTART:20251201T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:8ebc869ca1e9d2b7859e543f7c8e9a28
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
 DTEND:20260326T091500Z
 LOCATION:3-243
 DTSTART:20260326T074500Z
 SUMMARY:ПЗ Системное программное обеспечение
 UID:b962802e13a603ed10ea739ce80ec7ae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251110T164500Z
-LOCATION:3-Зал А
-DTSTART:20251110T151500Z
-SUMMARY:ЛК Спецглавы физики
-UID:5aafe04fb35913f785fd40465d7ed91b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Королев Даниил Иванович
@@ -4494,40 +2099,11 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:bfbab0a828a25434e3b6cf715070446e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251110T131500Z
-LOCATION:3-145
-DTSTART:20251110T114500Z
-SUMMARY:ЛР Физические основы микро- и оптоэлектроники
-UID:ec9eccdf4f86ca6cf71af3c01cdced5a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251203T131500Z
-LOCATION:--каф.
-DTSTART:20251203T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8c9ddc29898f2854819989bf0806d3dc
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260324T164500Z
 LOCATION:Орш. Б-610
 DTSTART:20260324T151500Z
 SUMMARY:ПЗ Иностранный язык
 UID:86f5f657b74171b9f9fd68a744be22e3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251007T073000Z
-LOCATION:--каф. 919
-DTSTART:20251007T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:49e0194454ccfcfc6c3a3465d60923b0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251014T073000Z
-LOCATION:--каф. 919
-DTSTART:20251014T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:fd3f4b7980307b0c368e506a5cb872b5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260508T073000Z
@@ -4544,72 +2120,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:d874e53e117ad9946ac11760419e51c2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20251017T073000Z
-LOCATION:3-435
-DTSTART:20251017T060000Z
-SUMMARY:ЛК Физические основы микро- и оптоэлектроники
-UID:1265a8a48a3659f2940b94927f9238bf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250909T091500Z
-LOCATION:ГУК А-410
-DTSTART:20250909T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:24da66faea52fb7c15fc71af88ac9eb5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
 DTEND:20260228T073000Z
 LOCATION:3-310
 DTSTART:20260228T060000Z
 SUMMARY:ЛР Метрология и измерительная техника
 UID:c0bbcd9832b3c4be1d696496198cd14e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зайцева Ольга Борисовна
-DTEND:20250906T091500Z
-LOCATION:3-109
-DTSTART:20250906T074500Z
-SUMMARY:ЛК Численные методы
-UID:ba417b8e25223f97ba64cb7c04cd8ef1
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250927T131500Z
-LOCATION:3-303
-DTSTART:20250927T114500Z
-SUMMARY:ПЗ Численные методы
-UID:934da12df4d0b4784a986b54912f9bdb
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251025T131500Z
-LOCATION:3-303
-DTSTART:20251025T114500Z
-SUMMARY:ПЗ Численные методы
-UID:2616dd36390e3ad52dc975d33e9fe02b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251127T073000Z
-LOCATION:3-145
-DTSTART:20251127T060000Z
-SUMMARY:ЛР Информационные технологии
-UID:30bcbb7b12623aaaf0a1f3165879db6c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251008T091500Z
-LOCATION:--каф.
-DTSTART:20251008T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c1bffae6a15ed17cefb1b7e844d8e7a5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20250909T131500Z
-LOCATION:3-265
-DTSTART:20250909T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:650df2e4dadc10e0492f7e49f24368af
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260414T150000Z
@@ -4642,21 +2158,6 @@ SUMMARY:ЛК Теоретические основы электротехник�
 UID:654dfb9c062a3934b34efc74f11f3e32
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251217T131500Z
-LOCATION:--каф.
-DTSTART:20251217T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:16e1010934a48dcf7834ba309333cb18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20250927T073000Z
-LOCATION:3-407
-DTSTART:20250927T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:46af4f738da9ca186ffb4d876d267892
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260218T131500Z
 LOCATION:--каф.
 DTSTART:20260218T114500Z
@@ -4670,27 +2171,6 @@ LOCATION:3-145
 DTSTART:20260323T133000Z
 SUMMARY:ПЗ Электроника
 UID:17bdc8ce535d68ee3501186262209051
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251223T091500Z
-LOCATION:ГУК А-410
-DTSTART:20251223T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:abb7e177d2dc94996c3498f29f627552
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250902T073000Z
-LOCATION:--каф. 919
-DTSTART:20250902T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:7a43558e1c5d36680a5a64092c902b6b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251118T073000Z
-LOCATION:--каф. 919
-DTSTART:20251118T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:d73eec01ee20a25b1271479d392d981a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моржин Александр Викторович
@@ -4708,13 +2188,6 @@ SUMMARY:ПЗ Физическая культура
 UID:9945b8049d758237296267fffbbc40ea
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251021T073000Z
-LOCATION:--каф. 919
-DTSTART:20251021T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:f1894f377e4442b617d7062ac1b81fcf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
 DTEND:20260423T091500Z
 LOCATION:3-243
@@ -4723,51 +2196,12 @@ SUMMARY:ПЗ Системное программное обеспечение
 UID:83a9c329a9c5a6019754c945d3a8d432
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20250918T131500Z
-LOCATION:3-435
-DTSTART:20250918T114500Z
-SUMMARY:ЛК Теоретическая механика
-UID:98215d1622df1258f8878a8d601d09ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булычев Роман Павлович
-DTEND:20251108T091500Z
-LOCATION:3-145
-DTSTART:20251108T074500Z
-SUMMARY:ПЗ Информационные технологии
-UID:3494101d3e8e8c1d2541e75237524795
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251213T113000Z
-LOCATION:3-265
-DTSTART:20251213T100000Z
-SUMMARY:ЛР Теоретические основы электротехники
-UID:cfa69180520c6dd6a05e7fd94084fd5e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
 DTEND:20260523T073000Z
 LOCATION:3-243
 DTSTART:20260523T060000Z
 SUMMARY:ЛР Системное программное обеспечение
 UID:e09660c33731870e881bdd26fd3462e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20251108T073000Z
-LOCATION:3-407
-DTSTART:20251108T060000Z
-SUMMARY:ПЗ Теоретическая механика
-UID:0461d9b595f44c21fbed27c9faac8e13
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251205T150000Z
-LOCATION:9-107
-DTSTART:20251205T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:4638dd3025cb6a37b1b2f74bc2710765
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецова Ася Михайловна
@@ -4808,13 +2242,6 @@ SUMMARY:ЛК Теория функций комплексного перемен
 UID:0f60cf9c177d6197fd0d220450cc9fd9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250925T131500Z
-LOCATION:Орш. В-306
-DTSTART:20250925T114500Z
-SUMMARY:ПЗ Спецглавы физики
-UID:0be1d5ad3f70dcda94753e7f83bc56dd
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260210T113000Z
 LOCATION:--стадион
 DTSTART:20260210T100000Z
@@ -4829,71 +2256,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:c41eaf2a6b8d8dd1dca1acb02ea05298
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20251007T131500Z
-LOCATION:3-265
-DTSTART:20251007T114500Z
-SUMMARY:ПЗ Теоретические основы электротехники
-UID:5c09823c3565d6fc4623b0aade795ef3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251023T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251023T100000Z
-SUMMARY:ПЗ Социология
-UID:42df3419a287224b1c6fa14f5130c44e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250908T150000Z
-LOCATION:3-Зал А
-DTSTART:20250908T133000Z
-SUMMARY:ЛК Дифференциальные уравнения
-UID:b0f7b91b574df42d54fa0355981e1b58
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251226T113000Z
-LOCATION:--каф. 919
-DTSTART:20251226T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:9ff6caa454efefec135101cbac321f68
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251219T113000Z
-LOCATION:--каф. 919
-DTSTART:20251219T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:537e2f8cf4be14e3fe87359fa43ec38b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250926T131500Z
-LOCATION:3-Зал А
-DTSTART:20250926T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:80dc31dd06af3aadb7aa18ead4b97dc0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260311T091500Z
 LOCATION:--каф.
 DTSTART:20260311T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:aaeac0c50e401ff4a69502d18aaf4533
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20250908T131500Z
-LOCATION:3-301
-DTSTART:20250908T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:fb95ca5b3e7cb1a64f770cee68a42df1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Перкова Екатерина Петровна
-DTEND:20251120T113000Z
-LOCATION:Орш. В-511
-DTSTART:20251120T100000Z
-SUMMARY:ПЗ Социология
-UID:59be119a772f4763d185729383a84a6b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -4909,13 +2276,6 @@ LOCATION:--стадион
 DTSTART:20260317T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:6bfddecd8cd2a9a37b2d6e4431d78a19
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20251017T131500Z
-LOCATION:3-Зал А
-DTSTART:20251017T114500Z
-SUMMARY:ЛК Теория вероятностей и математическая статистика
-UID:0d6ec9fae670763ec9ae36674f2e88e3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260520T073000Z
@@ -4941,26 +2301,11 @@ SUMMARY:ПЗ Электроника
 UID:916555096c7969da252c302d34e84a27
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251121T150000Z
-LOCATION:9-107
-DTSTART:20251121T133000Z
-SUMMARY:ПЗ Иностранный язык
-UID:f7bc2ba6937bd6d53cb11efa5fd196ad
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260210T150000Z
 LOCATION:Орш. Б-610
 DTSTART:20260210T133000Z
 SUMMARY:ПЗ Иностранный язык
 UID:c0a1e5280134923fc04157894a2ec199
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильина Анастасия Николаевна
-DTEND:20251020T131500Z
-LOCATION:3-301
-DTSTART:20251020T114500Z
-SUMMARY:ПЗ Дифференциальные уравнения
-UID:0ef0a8d038db79d7497321bb1ddb982d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мишин Юрий Николаевич
@@ -4971,10 +2316,10 @@ SUMMARY:ЛР Метрология и измерительная техника
 UID:d7107da1874cf22aafb917727790adcf
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251029T073000Z
+DTEND:20260429T113000Z
 LOCATION:--каф.
-DTSTART:20251029T060000Z
+DTSTART:20260429T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:4f2068ddb359b5a1ae4d566d7e02ec3b
+UID:c8719b95f92d1365b65c2b69f9e92a87
 END:VEVENT
 END:VCALENDAR
