@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260216T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260216T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:07a7dbea025670cc59e395d1b213bb33
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
 DTEND:20260529T113000Z
 LOCATION:3-Зал А
@@ -103,12 +96,28 @@ SUMMARY:ПЗ Военная подготовка
 UID:e7ebcf8fd1c7f8de2647dd8f4c44acec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260323T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260323T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:2e32b82af90f7211b68f4255a46648ce
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бушманов Иван Сергеевич
 DTEND:20260603T150000Z
 LOCATION:3-131
 DTSTART:20260603T133000Z
 SUMMARY:ПЗ Экономическая теория
 UID:40c681b4ecbfd61d9f8882fa974bd732
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260427T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260427T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:5ba2ef097ae46a464ad5e7f683952315
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260311T113000Z
@@ -147,6 +156,14 @@ LOCATION:3-131
 DTSTART:20260331T074500Z
 SUMMARY:ПЗ Численные методы
 UID:d6025bbd11120f10e53c2f66f779bc1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260330T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260330T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:11ec555d41936ea6bd09cb7ae854b2e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бушманов Иван Сергеевич
@@ -248,6 +265,14 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:b8c531bf9d19e7d07da157043c3df169
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260420T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260420T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:6bfc57af0a0acb9e19af86fc77f181f6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
 DTEND:20260310T091500Z
 LOCATION:3-446
@@ -316,11 +341,12 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:d986f4906875eb785af5d0f1c9f28fc4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260504T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260504T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e8cbc54489fd4fb4d69dba8a8a684df7
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260530T091500Z
+LOCATION:3-330
+DTSTART:20260530T074500Z
+SUMMARY:ЛР Основы схемотехники
+UID:1c79abc91311bf5ff2cfc30b0f26c7c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -329,14 +355,6 @@ LOCATION:3-Зал А
 DTSTART:20260508T100000Z
 SUMMARY:ЛК Расширенные возможности языков высокого уровня
 UID:a512e744ba583e80ec55459f21611238
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260530T091500Z
-LOCATION:3-330
-DTSTART:20260530T074500Z
-SUMMARY:ЛР Основы схемотехники
-UID:1c79abc91311bf5ff2cfc30b0f26c7c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ходоровский Александр Зиновьевич
@@ -445,12 +463,12 @@ SUMMARY:ЛК Численные методы
 UID:f748fea4342b53d7860dc7b1e5f33af8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260529T131500Z
-LOCATION:3-Зал А
-DTSTART:20260529T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:a08d1c30e3de4fba4d45d1af0339f276
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260511T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260511T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:26d0ea4d6ab38784d20c07f5b70ab985
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
@@ -469,6 +487,14 @@ SUMMARY:ЛР Численные методы
 UID:e03cfda89efd716795707ea91cfa4a0d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260529T131500Z
+LOCATION:3-Зал А
+DTSTART:20260529T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:a08d1c30e3de4fba4d45d1af0339f276
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260417T073000Z
 LOCATION:--каф. 919
 DTSTART:20260417T060000Z
@@ -481,6 +507,14 @@ LOCATION:--каф.
 DTSTART:20260226T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:bdb3fdad0365731926515899ec9c6ba2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260406T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260406T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e530645a502fc008e97c82582e4508da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -496,13 +530,6 @@ LOCATION:--каф.
 DTSTART:20260319T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:ad94faef05204b0279eb5146baf488d5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260525T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260525T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:466ac707b7f34dd536aadbdfae564419
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -558,13 +585,6 @@ SUMMARY:ЛР Теория автоматов и формальных языко�
 UID:7ac1c4b831bbee93275d00cc48e6e6e8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260413T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260413T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:bf2740792e23b4477283373e0f6e1af0
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260326T113000Z
 LOCATION:--каф.
 DTSTART:20260326T100000Z
@@ -593,20 +613,6 @@ LOCATION:3-434б
 DTSTART:20260526T114500Z
 SUMMARY:ЛР Теория автоматов и формальных языков
 UID:089340247e20f40ab94c1f861f1c29bf
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260406T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260406T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1b42b6ffcdb3db4a9ef5481351a6a2b3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260420T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:55a47ee2de0bcb8ed4adc5d9a06cfc10
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260514T113000Z
@@ -640,32 +646,11 @@ SUMMARY:ЛР Численные методы
 UID:34bc711b71586c63a1e12d89428fa9d1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260406T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260406T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:08e93d4bfa4cbb81e70b663a1a096007
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260427T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260427T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:ff357bf8f9f6771daa806fc2e3d59449
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260507T073000Z
 LOCATION:--каф.
 DTSTART:20260507T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:43ab9bbe35102a6875ba3fff686ff56e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260420T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260420T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5348edff26fb09c72042d234b171fb54
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260212T113000Z
@@ -743,6 +728,14 @@ SUMMARY:ЛК Языки ассемблера
 UID:e4f2419a52c4d4acd927abf5427176b1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260216T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260216T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:28996ccce7c2a84f29a7d33eb2b8acaa
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260603T113000Z
 LOCATION:--каф. 919
 DTSTART:20260603T100000Z
@@ -787,13 +780,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:8af613c58f54f823d403052f52091d68
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260427T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260427T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:580ce052670b587a73bea02c3791266d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Богданова Софья Борисовна
 DTEND:20260526T091500Z
 LOCATION:3-131
@@ -807,13 +793,6 @@ LOCATION:--каф.
 DTSTART:20260528T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:7d3096845da79e5051439ec6bd2c3899
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260216T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260216T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:08a3fdb0fd588d511ff8ed380644aef2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260404T131500Z
@@ -846,26 +825,12 @@ SUMMARY:ЛК Языки ассемблера
 UID:4e568a060cb00994e0563d0f90a18e07
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260316T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260316T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:8368ed00896a1c01051486c6307cd1e2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ряполов Сергей Владимирович
 DTEND:20260413T113000Z
 LOCATION:Орш. В-501
 DTSTART:20260413T100000Z
 SUMMARY:ЛК Социология
 UID:7d9580a05dddf24f7ecb57cdebaa27be
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260227T073000Z
-LOCATION:--каф. 919
-DTSTART:20260227T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:3db2d8fbb090c87bcaf8a4e91a558db9
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260425T150000Z
@@ -875,11 +840,26 @@ SUMMARY:ЛР Языки ассемблера
 UID:5ae01fd025221545ee915601fc2c0d20
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260227T073000Z
+LOCATION:--каф. 919
+DTSTART:20260227T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3db2d8fbb090c87bcaf8a4e91a558db9
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260418T131500Z
 LOCATION:ГУК В-228
 DTSTART:20260418T114500Z
 SUMMARY:ЛК Языки ассемблера
 UID:6d9435dc2ca6263095603f1f1f1b0cf4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260413T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260413T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:3953c3a4d41919c0d981fdc34ceb0f6b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260424T073000Z
@@ -894,6 +874,14 @@ LOCATION:--каф. 919
 DTSTART:20260513T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:7c73b04d7efbaf5fdabd232c8177051b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260518T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260518T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:063752acdb9c875d820ed965f9bb5763
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Богданова Софья Борисовна
@@ -959,11 +947,20 @@ SUMMARY:ПЗ Социология
 UID:afc8250a82b04b0a4353ee0b7f2499fd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260518T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260518T074500Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260511T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260511T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:00c97c53e54381b7c8b06ecfddb9c235
+UID:d952cf13395bbe54276f639c8e1baff6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260316T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260316T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:07abf2f1824c7131174f667b81afdc51
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260218T113000Z
@@ -979,6 +976,14 @@ LOCATION:ГУК Б-460
 DTSTART:20260313T074500Z
 SUMMARY:ЛК Численные методы
 UID:dafc9830e8abfb19334ab7a6a08c3adc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260525T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260525T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:b8a220a06c59950be6049a5fb34c3514
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260325T113000Z
@@ -1010,6 +1015,22 @@ LOCATION:3-131
 DTSTART:20260311T133000Z
 SUMMARY:ПЗ Экономическая теория
 UID:17818eb7912355873b76bc34687fa0ff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260413T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260413T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:e423a3d929091720f0d7ac5ee2e7b476
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260420T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260420T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:caef7c00ca6dd8d99b4885edb071c98a
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260430T073000Z
@@ -1149,13 +1170,6 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:63122a998898c580f7910c6eb00350fd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260316T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260316T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d91bc952f230b3c91e235300f3e1c413
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
 DTEND:20260411T113000Z
 LOCATION:ГУК В-221
@@ -1164,19 +1178,19 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:3be157c07b134e68d01a6fe2cfba717a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260504T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260504T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:a8e81ef401a60995a2331e93c52b8f2d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
 DTEND:20260505T091500Z
 LOCATION:3-446
 DTSTART:20260505T074500Z
 SUMMARY:ЛР Расширенные возможности языков высокого уровня
 UID:7dbaaf5500bec60160f1e9e4c814167f
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260527T113000Z
+LOCATION:--каф. 919
+DTSTART:20260527T100000Z
+SUMMARY:ПЗ Физическая культура
+UID:92e5173376a31f5f6d63e881b207cd6c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260409T113000Z
@@ -1194,18 +1208,12 @@ SUMMARY:ЛК Расширенные возможности языков высо
 UID:f3888b7548abd0e965a78d4c558eb40b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260527T113000Z
-LOCATION:--каф. 919
-DTSTART:20260527T100000Z
-SUMMARY:ПЗ Физическая культура
-UID:92e5173376a31f5f6d63e881b207cd6c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260601T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260601T074500Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260330T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260330T074500Z
 SUMMARY:ПЗ Иностранный язык
-UID:270f0146e9959b3131825294ba4a4c47
+UID:89368d991bd65d2b3864bd21957446cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -1228,13 +1236,6 @@ LOCATION:--каф.
 DTSTART:20260305T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:f82b35ca21cb8551a26439497f0d2a86
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260330T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260330T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:d94f7552766ac9e905e37d16dd8013a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Богданова Софья Борисовна
@@ -1260,11 +1261,11 @@ SUMMARY:ПЗ Военная подготовка
 UID:564b55b0bf2cd6563a6664d494537ae9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260302T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260302T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:7c367caa7c74c0f6d684f049289944c5
+DTEND:20260326T091500Z
+LOCATION:--каф.
+DTSTART:20260326T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d11b7422ecfd1f38dfbfe850cedf135a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дмитриева Елена Анатольевна
@@ -1273,20 +1274,6 @@ LOCATION:3-Зал А
 DTSTART:20260313T100000Z
 SUMMARY:ЛК Расширенные возможности языков высокого уровня
 UID:e338d4e3fc3292bcee86c5c2653d49d3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260326T091500Z
-LOCATION:--каф.
-DTSTART:20260326T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d11b7422ecfd1f38dfbfe850cedf135a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260518T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260518T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:2b4a1e3ad6826c701505fb8c64c3357f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
@@ -1357,6 +1344,14 @@ SUMMARY:ЛК Экономическая теория
 UID:bb5b7e2f144c032e1b635b9c9605fc82
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260601T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260601T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:6966576c41b6dd3e794b47c43770869a
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260319T091500Z
 LOCATION:--каф.
 DTSTART:20260319T074500Z
@@ -1364,12 +1359,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:a36e096e442a8e9dc213ccb42662d440
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260518T150000Z
-LOCATION:3-Зал А
-DTSTART:20260518T133000Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:397d25c79e27f51f93baec55ab371501
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260302T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260302T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:74e28014ffc5ef8ed0b0b433cb0f8ac3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260304T113000Z
@@ -1379,11 +1374,12 @@ SUMMARY:ПЗ Физическая культура
 UID:611191b6f02ab9a3897fd8d773f34c9c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260323T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260323T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:dc77048d0702ad2b5061878cde01dc59
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260518T150000Z
+LOCATION:3-Зал А
+DTSTART:20260518T133000Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:397d25c79e27f51f93baec55ab371501
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -1454,12 +1450,12 @@ SUMMARY:ЛК Организационно-правовые основы разр
 UID:90cbe9a0a62a0ebcdf3007e94d10e97b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вестяк Владимир Анатольевич
-DTEND:20260529T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20260529T074500Z
-SUMMARY:ЛК Численные методы
-UID:a78bf8ce02626a5d7888ee3306834759
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260427T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260427T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:04848663e1aa07fb9226de202c6a6990
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -1499,11 +1495,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:f2b7ab9ca32caacd3c2acea197dcf1ba
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260601T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260601T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:75675b38fb20cafd33907fa1bb3dc9a0
+DESCRIPTION:Вестяк Владимир Анатольевич
+DTEND:20260529T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20260529T074500Z
+SUMMARY:ЛК Численные методы
+UID:a78bf8ce02626a5d7888ee3306834759
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -1552,11 +1549,12 @@ SUMMARY:ЛР Основы схемотехники
 UID:3b4d140efc979bc78bbcf60ddac68323
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260511T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260511T060000Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260601T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260601T074500Z
 SUMMARY:ПЗ Иностранный язык
-UID:3e38058ecc6d802eb3c1cd533bc2b874
+UID:0e2550d671d1f4a9280d22f97b02d130
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -1567,11 +1565,12 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:dba7fa9985fd82cb57d41b1eecd2286a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260413T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260413T060000Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260518T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260518T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:227c2b77589542ab82293055d4580f93
+UID:a80ee5d001e0529d269411b25be9c21b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вестяк Владимир Анатольевич
@@ -1664,11 +1663,12 @@ SUMMARY:ЛР Основы схемотехники
 UID:105aea11baed0ef0b5089a97397e68f8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260323T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260323T074500Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260302T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260302T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:2fc4849d179615a603f7f59e01afb1bc
+UID:12b26566c06da443f709ad60ee1115ef
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260416T113000Z
@@ -1730,11 +1730,11 @@ SUMMARY:ЛР Теория автоматов и формальных языко�
 UID:c62147ea0ed77c2123b6c105b250bce7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260525T073000Z
-LOCATION:Орш. А-507
-DTSTART:20260525T060000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e7eb52cbe5a99a4b0f628fdee7dc601d
+DTEND:20260605T073000Z
+LOCATION:--каф. 919
+DTSTART:20260605T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b185b0190301125f083906b1c543fa43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -1745,18 +1745,12 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:37fbaca3f81ed688d9bbb70f28fbeab5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260605T073000Z
-LOCATION:--каф. 919
-DTSTART:20260605T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:b185b0190301125f083906b1c543fa43
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260511T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260511T074500Z
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260525T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260525T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:41bb6945bad3ef23e9ead9ec066d0a2f
+UID:0203d4d3d36e4095932568141d3b1b6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
@@ -1767,19 +1761,28 @@ SUMMARY:ЛК Экономическая теория
 UID:b858ddc73fdd04d3962d25f61bc3b5dd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260522T131500Z
-LOCATION:3-Зал А
-DTSTART:20260522T114500Z
-SUMMARY:ЛК Основы схемотехники
-UID:5e1a4a0a98284a54a8060fa04e1037b7
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260406T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260406T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:36c5f2e7906b088a152fb45f8c0fabda
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260330T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260330T074500Z
+DESCRIPTION:Чугаев Борис Николаевич
+DTEND:20260518T131500Z
+LOCATION:3-Зал А
+DTSTART:20260518T114500Z
+SUMMARY:ЛК Теория автоматов и формальных языков
+UID:a2ec0fb3938901e893540e259f0eff63
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260216T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260216T060000Z
 SUMMARY:ПЗ Иностранный язык
-UID:b0a6b03becab500d4344a28a8dec1f3f
+UID:d3521fdb4340be65e13fb6269a85dff4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Борисов Артём Ильич
@@ -1790,12 +1793,12 @@ SUMMARY:ЛР Расширенные возможности языков высо
 UID:f1a9241199d073549a884f5cfd7d1508
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чугаев Борис Николаевич
-DTEND:20260518T131500Z
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260522T131500Z
 LOCATION:3-Зал А
-DTSTART:20260518T114500Z
-SUMMARY:ЛК Теория автоматов и формальных языков
-UID:a2ec0fb3938901e893540e259f0eff63
+DTSTART:20260522T114500Z
+SUMMARY:ЛК Основы схемотехники
+UID:5e1a4a0a98284a54a8060fa04e1037b7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260604T131500Z
@@ -1908,6 +1911,14 @@ LOCATION:--каф.
 DTSTART:20260312T074500Z
 SUMMARY:ПЗ Военная подготовка
 UID:c36232881ee5697de83b0bc2144faad7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260323T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260323T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:567805c5526f215e398e6ce3ed3a1d6a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
@@ -2030,6 +2041,14 @@ SUMMARY:ЛР Основы схемотехники
 UID:662eccd7ec52c324ec5a55eae9c5ebdd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260316T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260316T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:1526305e62d9962316887c0502b6660e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260305T131500Z
 LOCATION:--каф.
 DTSTART:20260305T114500Z
@@ -2130,13 +2149,6 @@ SUMMARY:ПЗ Социология
 UID:358f50baf6a24e1959dc885ae67a77ac
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260302T091500Z
-LOCATION:Орш. А-507
-DTSTART:20260302T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:f08b3c441895ae7968bb9c733592c7b2
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260416T131500Z
 LOCATION:--каф.
 DTSTART:20260416T114500Z
@@ -2152,12 +2164,12 @@ SUMMARY:ЛК Теория автоматов и формальных языко�
 UID:4108db683224a24c9e3424e665e689ec
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Борисов Артём Ильич
-DTEND:20260602T073000Z
-LOCATION:3-446
-DTSTART:20260602T060000Z
-SUMMARY:ЛР Расширенные возможности языков высокого уровня
-UID:e471b2a4fc10870bdf2d3cc8eceae9b6
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260504T073000Z
+LOCATION:Орш. В-621
+DTSTART:20260504T060000Z
+SUMMARY:ПЗ Иностранный язык
+UID:12cda752498c4e24f41a8a84b2bd9409
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260410T073000Z
@@ -2167,12 +2179,12 @@ SUMMARY:ПЗ Физическая культура
 UID:0d54b0f3e17c7525d29021db5df58e76
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ходоровский Александр Зиновьевич
-DTEND:20260622T131500Z
-LOCATION:3-240б
-DTSTART:20260622T114500Z
-SUMMARY:Экзамен Основы схемотехники
-UID:542addaa096f800b85d36762a6c6831e
+DESCRIPTION:Борисов Артём Ильич
+DTEND:20260602T073000Z
+LOCATION:3-446
+DTSTART:20260602T060000Z
+SUMMARY:ЛР Расширенные возможности языков высокого уровня
+UID:e471b2a4fc10870bdf2d3cc8eceae9b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
@@ -2189,6 +2201,14 @@ LOCATION:3-Зал А
 DTSTART:20260306T100000Z
 SUMMARY:ЛК Экономическая теория
 UID:803f3139e5d797b03c3e329142d2a550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ходоровский Александр Зиновьевич
+DTEND:20260622T131500Z
+LOCATION:3-240б
+DTSTART:20260622T114500Z
+SUMMARY:Экзамен Основы схемотехники
+UID:542addaa096f800b85d36762a6c6831e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
@@ -2211,6 +2231,14 @@ LOCATION:--каф.
 DTSTART:20260402T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:4c288192b579438199f63a5653e1c831
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьева Юлия Геннадьевна
+DTEND:20260504T091500Z
+LOCATION:Орш. В-621
+DTSTART:20260504T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:499c82036271c0c278b006ad10cb04e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чугаев Борис Николаевич
