@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261107T091500Z
-LOCATION:5-117
-DTSTART:20261107T074500Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:2013ab577d9350bec80a2272ef5975a8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ванцов Сергей Васильевич
 DTEND:20260915T113000Z
 LOCATION:3-307
@@ -26,6 +18,14 @@ SUMMARY:ЛР Технические методы диагностических 
 UID:a3aefb38ec282d2d3d205b706c6986e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261031T091500Z
+LOCATION:24-744
+DTSTART:20261031T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:6e44c06eb50b9addf982f8795b1675a5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
 DTEND:20261012T113000Z
 LOCATION:24-744
@@ -40,6 +40,14 @@ LOCATION:24-715
 DTSTART:20261019T151500Z
 SUMMARY:ЛК Технические методы диагностических исследований и лечебных воздействий
 UID:7cd1c7b3d2d7137141871692e14b333c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261017T091500Z
+LOCATION:24-744
+DTSTART:20261017T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:7378e08341eace0e57ea25b020093dd9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -138,22 +146,6 @@ SUMMARY:ЛК Технология производства медицински�
 UID:1348ff46f304249371e0657221948279
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261121T073000Z
-LOCATION:5-117
-DTSTART:20261121T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:eae11d82aa98589b7eb7e2178a9f32df
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260919T073000Z
-LOCATION:5-117
-DTSTART:20260919T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:f613dde4cd3df9a4e26340755cbd8001
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Хаустов Александр Иванович
 DTEND:20261211T150000Z
 LOCATION:24-410А
@@ -186,6 +178,14 @@ SUMMARY:ЛК Технические методы диагностических 
 UID:5771e590fc0ed1c8509a1e473948d9b5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261010T091500Z
+LOCATION:24-744
+DTSTART:20261010T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:fcfc0209bf0c7c2d16ab107bbc5c7516
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20261029T131500Z
 LOCATION:24-419
@@ -216,14 +216,6 @@ LOCATION:24-744
 DTSTART:20261130T100000Z
 SUMMARY:ПЗ Моделирование биологических процессов и систем
 UID:4f209c92a7e497c8753e5fd32fbc804d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261205T073000Z
-LOCATION:5-117
-DTSTART:20261205T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:817f690e897a55931a26fe2f0bf93ca8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -282,20 +274,20 @@ SUMMARY:ЛК Компьютерные технологии в медико-би�
 UID:448572b9cacf6e1186f1ecc1a94eb310
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260919T091500Z
+LOCATION:24-744
+DTSTART:20260919T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:b91679b2ed712877a26a0e6cf8f01d18
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Лийн Евгения Анатольевна
 DTEND:20261020T164500Z
 LOCATION:3-311
 DTSTART:20261020T151500Z
 SUMMARY:ЛР Технология производства медицинских аппаратов
 UID:a09a7d4b1a8755ba83634a5597c26501
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-Гротова Ольга Николаевна
-DTEND:20261117T131500Z
-LOCATION:3-307
-DTSTART:20261117T114500Z
-SUMMARY:ПЗ Технология производства медицинских аппаратов
-UID:79f9b7b34f74de66efd621f151c7d091
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Строгонова Любовь Борисовна
@@ -322,12 +314,20 @@ SUMMARY:ПЗ Технические методы диагностических 
 UID:b8e8bc74e63fa29f9165a7876640f90d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пчельникова-Гротова Ольга Николаевна
+DTEND:20261117T131500Z
+LOCATION:3-307
+DTSTART:20261117T114500Z
+SUMMARY:ПЗ Технология производства медицинских аппаратов
+UID:79f9b7b34f74de66efd621f151c7d091
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261128T073000Z
-LOCATION:5-117
-DTSTART:20261128T060000Z
-SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:252bcd534c34998541d142920a772270
+DTEND:20261121T073000Z
+LOCATION:24-744
+DTSTART:20261121T060000Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:26aad02427c336603515ea46ff8f15a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -336,22 +336,6 @@ LOCATION:24-419
 DTSTART:20261224T100000Z
 SUMMARY:ЛК Менеджмент в медицинских учреждениях
 UID:84f4be93a385add8a35490df9c68de3e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260926T091500Z
-LOCATION:5-117
-DTSTART:20260926T074500Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:6f4b811f3c3b6902d506432acd597765
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261017T091500Z
-LOCATION:5-117
-DTSTART:20261017T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:6c8bf3dbc2ec0caa1467971410849e80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -394,20 +378,20 @@ SUMMARY:ПЗ Проектирование медицинских аппарат�
 UID:641114e869ad88f92fcaa9fd2d0a6785
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260919T091500Z
-LOCATION:5-117
-DTSTART:20260919T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:3022e72d02f5e0f7ffa63465a7b76cdd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Хаустов Александр Иванович
 DTEND:20261209T131500Z
 LOCATION:24-413
 DTSTART:20261209T114500Z
 SUMMARY:ПЗ Проектирование медицинских аппаратов и приборов
 UID:f2f5fb467efb5c32f95a7865ebad76b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261031T073000Z
+LOCATION:24-744
+DTSTART:20261031T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:452a5b6a948415a7a7e863ab1cc22e1e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -442,12 +426,12 @@ SUMMARY:ПЗ Компьютерные технологии в медико-би�
 UID:017159ec2caca919d63a4f7f736c0b2f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20261109T131500Z
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261017T073000Z
 LOCATION:24-744
-DTSTART:20261109T114500Z
-SUMMARY:ЛК Моделирование биологических процессов и систем
-UID:5d2964990f47b674aee5bc6a6dfc713b
+DTSTART:20261017T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:ea962f5fd6227c26d999c97d448b8a0a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Евдокименков Вениамин Николаевич
@@ -458,12 +442,12 @@ SUMMARY:ЛК Компьютерные технологии в медико-би�
 UID:310e8f19f1c683786f90d5957f29cf91
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шангин Игорь Александрович
-DTEND:20261224T131500Z
-LOCATION:24-419
-DTSTART:20261224T114500Z
-SUMMARY:ЛК Менеджмент в медицинских учреждениях
-UID:e27762b8c8254ed39ddba35e884ce326
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20261109T131500Z
+LOCATION:24-744
+DTSTART:20261109T114500Z
+SUMMARY:ЛК Моделирование биологических процессов и систем
+UID:5d2964990f47b674aee5bc6a6dfc713b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -472,6 +456,22 @@ LOCATION:24-600а
 DTSTART:20261126T074500Z
 SUMMARY:ПЗ Безопасность и надежность медицинской техники
 UID:1838f3f442b48df5427f855cc4e72686
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261212T073000Z
+LOCATION:24-600а
+DTSTART:20261212T060000Z
+SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:46bc317fd3dd27c5948752299cb9b544
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шангин Игорь Александрович
+DTEND:20261224T131500Z
+LOCATION:24-419
+DTSTART:20261224T114500Z
+SUMMARY:ЛК Менеджмент в медицинских учреждениях
+UID:e27762b8c8254ed39ddba35e884ce326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -530,20 +530,28 @@ SUMMARY:ПЗ Менеджмент в медицинских учреждения
 UID:7940543dc232506e5b3c9c8f1b72c149
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261128T091500Z
+LOCATION:24-600а
+DTSTART:20261128T074500Z
+SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:3ca57c5106118a3e86b2ce024dc45812
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261024T073000Z
+LOCATION:24-744
+DTSTART:20261024T060000Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:11d65b65aef50507bdd9fe6040c24380
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20260924T073000Z
 LOCATION:24-600а
 DTSTART:20260924T060000Z
 SUMMARY:ЛК Безопасность и надежность медицинской техники
 UID:5304c2aa838cd50e15bb668e59a96c2a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261003T091500Z
-LOCATION:5-117
-DTSTART:20261003T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:04b3366d1c5aee19e6aa26cf6cd44a69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -554,28 +562,20 @@ SUMMARY:ПЗ Безопасность и надежность медицинск
 UID:9f7cc8a0935542148b4af19a0a961cee
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261121T091500Z
+LOCATION:24-744
+DTSTART:20261121T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:7f6cd771b388c137a6ba381bcb562c9d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Строгонова Любовь Борисовна
 DTEND:20260921T164500Z
 LOCATION:24-715
 DTSTART:20260921T151500Z
 SUMMARY:ЛК Технические методы диагностических исследований и лечебных воздействий
 UID:f097787c1834fd1b06e1a2fc4af644cf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261024T091500Z
-LOCATION:5-117
-DTSTART:20261024T074500Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:a5581810afa59d8ea1fa377f32c25370
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261010T073000Z
-LOCATION:5-117
-DTSTART:20261010T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:0743155c4a03086088e1c40aa79fce7d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -616,22 +616,6 @@ LOCATION:3-307
 DTSTART:20261020T114500Z
 SUMMARY:ПЗ Технология производства медицинских аппаратов
 UID:6fca71d2dd11dcd607c8ff1f588b20a7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260912T073000Z
-LOCATION:5-117
-DTSTART:20260912T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:2a0353b24f90414255072307320461f9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261121T091500Z
-LOCATION:5-117
-DTSTART:20261121T074500Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:4248ef6eaec82633364ce3c55c7d019c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -770,14 +754,6 @@ SUMMARY:ЛР Компьютерные технологии в медико-би�
 UID:4cc2005b0c762f1ceeb5beeae9a0d2c2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261226T073000Z
-LOCATION:5-117
-DTSTART:20261226T060000Z
-SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:5ea6e5bf358a1d84e66c1938e025845d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20261015T091500Z
 LOCATION:24-600а
@@ -803,11 +779,11 @@ UID:1f13aecdbb8045aff226eb83ef728ec9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261212T091500Z
-LOCATION:5-117
-DTSTART:20261212T074500Z
-SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:d1177533c347dbd632bed5e3a06384ab
+DTEND:20261024T091500Z
+LOCATION:24-744
+DTSTART:20261024T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:11192a36169f796f51caafa323819005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -826,14 +802,6 @@ SUMMARY:ЛР Технические методы диагностических 
 UID:80df81f5e9de1d2cfc5690a02bc5cb00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260926T073000Z
-LOCATION:5-117
-DTSTART:20260926T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:907871b40a1a82d3bc0cd8ce8a6b625d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20260917T091500Z
 LOCATION:24-600а
@@ -843,11 +811,11 @@ UID:bb11c336a185c3759bd1a22235c19125
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261024T073000Z
-LOCATION:5-117
-DTSTART:20261024T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:3a79e2cd43e6df189aa69a9a2ede1160
+DTEND:20261205T091500Z
+LOCATION:24-744
+DTSTART:20261205T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:155851f61dbc48dbc071f2b098e14fff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -858,20 +826,20 @@ SUMMARY:ЛР Безопасность и надежность медицинск
 UID:703b77d521e669257c2d8fe18c28e111
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260912T073000Z
+LOCATION:24-744
+DTSTART:20260912T060000Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:87489a408a15e3399760ee53893772bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20261210T131500Z
 LOCATION:24-419
 DTSTART:20261210T114500Z
 SUMMARY:ЛК Менеджмент в медицинских учреждениях
 UID:734e714d6494c3575c0b0a78aa0038d8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261219T073000Z
-LOCATION:5-117
-DTSTART:20261219T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:015cdcef15bfdabbcee8813c61ec061c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лийн Евгения Анатольевна
@@ -914,6 +882,14 @@ SUMMARY:ЛК Моделирование биологических процес�
 UID:91136b61837ad44649f6085b288d3a4c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260926T073000Z
+LOCATION:24-744
+DTSTART:20260926T060000Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:563cd95765e445a5410b0bb3d735ad23
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Евдокименков Вениамин Николаевич
 DTEND:20261201T150000Z
 LOCATION:24-615
@@ -947,11 +923,19 @@ UID:1649e8dbf42252ba5f52b73818639a84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261128T091500Z
-LOCATION:5-117
-DTSTART:20261128T074500Z
-SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:89937a06f6a182b5f0ada7aefe376950
+DTEND:20261003T073000Z
+LOCATION:24-744
+DTSTART:20261003T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:a4f03c943fd4257836bec95a9e56db46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261219T091500Z
+LOCATION:24-744
+DTSTART:20261219T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:f469abfde421b1ba4cc83f378e2952bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -994,6 +978,22 @@ SUMMARY:ЛК Проектирование медицинских аппарат�
 UID:13db8b74722d141cba3ed692c44bb705
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261003T091500Z
+LOCATION:24-744
+DTSTART:20261003T074500Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:99104d535f9af19451b41166b1a19d9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261226T073000Z
+LOCATION:24-600а
+DTSTART:20261226T060000Z
+SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:f1255bae3a4a15f4921940b3138b4d05
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ванцов Сергей Васильевич
 DTEND:20260901T113000Z
 LOCATION:3-307
@@ -1016,14 +1016,6 @@ LOCATION:24-715
 DTSTART:20261031T100000Z
 SUMMARY:ПЗ Технические методы диагностических исследований и лечебных воздействий
 UID:e121bdfea7b68aa6d7ad6ad80f0846ee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261212T073000Z
-LOCATION:5-117
-DTSTART:20261212T060000Z
-SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:5f77adf32a89cf86d5bbade0c3580565
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -1064,6 +1056,22 @@ LOCATION:24-546
 DTSTART:20261118T100000Z
 SUMMARY:ПЗ Компьютерные технологии в медико-биологических исследованиях
 UID:69aa1569c2245b9a8eb44dd8a92e8926
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261128T073000Z
+LOCATION:24-600а
+DTSTART:20261128T060000Z
+SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:4e4754c317f01852888671d3241aec34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261107T091500Z
+LOCATION:24-744
+DTSTART:20261107T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:dfe7dde076eb99a382e3ae453a6cdfa5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пчельникова-Гротова Ольга Николаевна
@@ -1146,6 +1154,14 @@ SUMMARY:ЛК Технические методы диагностических 
 UID:b12749db658b37f50e3f8670cb48e37e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261219T073000Z
+LOCATION:24-744
+DTSTART:20261219T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:980b0960176716c47dc393aff4421c38
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
 DTEND:20260926T113000Z
 LOCATION:24-600а
@@ -1175,6 +1191,14 @@ LOCATION:24-413
 DTSTART:20261014T133000Z
 SUMMARY:ПЗ Проектирование медицинских аппаратов и приборов
 UID:5e6d3ccedf23669ad7f5211a76bdba2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260912T091500Z
+LOCATION:24-744
+DTSTART:20260912T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:280105b094b0dd8bc3b1a5e2c3d742b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -1207,14 +1231,6 @@ LOCATION:24-715
 DTSTART:20261005T133000Z
 SUMMARY:ЛК Технические методы диагностических исследований и лечебных воздействий
 UID:0be8e09a11728835842a47e724249e7e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261107T073000Z
-LOCATION:5-117
-DTSTART:20261107T060000Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:450efe7c1badc8959010404f785d2e15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ванцов Сергей Васильевич
@@ -1328,12 +1344,36 @@ SUMMARY:ПЗ Технология производства медицински�
 UID:5716fe343a679e15260483947e5d9e4f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260926T091500Z
+LOCATION:24-744
+DTSTART:20260926T074500Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:d63688cd02c10a82406e70f04c87afd7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Евдокименков Вениамин Николаевич
 DTEND:20261201T164500Z
 LOCATION:24-615
 DTSTART:20261201T151500Z
 SUMMARY:ЛР Компьютерные технологии в медико-биологических исследованиях
 UID:07c96109708007a9e551bf32f717cdd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20260919T073000Z
+LOCATION:24-744
+DTSTART:20260919T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:6d4972f4dff674d2f7b44a5cbb4f8961
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261205T073000Z
+LOCATION:24-744
+DTSTART:20261205T060000Z
+SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:fc3b10a54816a7d783d239f24b3356a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -1408,6 +1448,14 @@ SUMMARY:ЛК Компьютерные технологии в медико-би�
 UID:0c43cbc5306d930c8e3bcfc15b01552f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261107T073000Z
+LOCATION:24-744
+DTSTART:20261107T060000Z
+SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:243a65499cacd59095467457450a9542
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
 DTEND:20260907T131500Z
 LOCATION:24-600а
@@ -1422,14 +1470,6 @@ LOCATION:24-600а
 DTSTART:20260924T074500Z
 SUMMARY:ЛК Безопасность и надежность медицинской техники
 UID:01b53679f8d57606c260668868146d4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261017T073000Z
-LOCATION:5-117
-DTSTART:20261017T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:ade7731fa8efb751cd910bc22082b194
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
@@ -1454,14 +1494,6 @@ LOCATION:24-419
 DTSTART:20261029T100000Z
 SUMMARY:ЛК Менеджмент в медицинских учреждениях
 UID:33a3f8df4fc5cb21d68014f49a95268c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261031T091500Z
-LOCATION:5-117
-DTSTART:20261031T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:be41247e493dcb41f1019e291b22f596
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Евдокименков Вениамин Николаевич
@@ -1544,14 +1576,6 @@ SUMMARY:ЛК Технология производства медицински�
 UID:b589e070cfb09f89be01e24ebbf02577
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261205T091500Z
-LOCATION:5-117
-DTSTART:20261205T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:e12b7dc94d1bc771921d3d87f56240c1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шангин Игорь Александрович
 DTEND:20261001T131500Z
 LOCATION:24-419
@@ -1608,6 +1632,14 @@ SUMMARY:ЛК Технические методы диагностических 
 UID:89c0140c17cd06a5ce0c9eb6e93a844d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антонов Виктор Алексеевич
+DTEND:20261212T091500Z
+LOCATION:24-600а
+DTSTART:20261212T074500Z
+SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
+UID:89fba76ea3d74975d7683e2d2cb8a371
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Евдокименков Вениамин Николаевич
 DTEND:20261215T164500Z
 LOCATION:24-615
@@ -1657,19 +1689,11 @@ UID:7e5a4d9d83d1a2134e2da638c904a6bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20260912T091500Z
-LOCATION:5-117
-DTSTART:20260912T074500Z
-SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:714e5c23a4e1c96ada9c533694463cc1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
 DTEND:20261226T091500Z
-LOCATION:5-117
+LOCATION:24-600а
 DTSTART:20261226T074500Z
 SUMMARY:ЛР Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:428aface022bca74be433f7d841554c2
+UID:7835bc91750e8bd6df111bd47ab7ff99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ванцов Сергей Васильевич
@@ -1689,19 +1713,11 @@ UID:aa29a18b0d1288dbf1a9b7cf93d08acc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261010T091500Z
-LOCATION:5-117
-DTSTART:20261010T074500Z
+DTEND:20261010T073000Z
+LOCATION:24-744
+DTSTART:20261010T060000Z
 SUMMARY:ЛК Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:0d4c55714bdf9a6fbcccbe0cbb7bbeb1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261003T073000Z
-LOCATION:5-117
-DTSTART:20261003T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:165b47a5cc97adaed206b17cc57f8e5f
+UID:595d623fd3af343739551bc9a6ddf39b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -1766,21 +1782,5 @@ LOCATION:24-419
 DTSTART:20261112T100000Z
 SUMMARY:ЛК Менеджмент в медицинских учреждениях
 UID:800ef2b9df1e438039aa560ce4468682
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261219T091500Z
-LOCATION:5-117
-DTSTART:20261219T074500Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:6e6bcc54460654ac18275edb7f8985e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Виктор Алексеевич
-DTEND:20261031T073000Z
-LOCATION:5-117
-DTSTART:20261031T060000Z
-SUMMARY:ПЗ Системы жизнеобеспечения\, защиты и спасения экипажей ЛА
-UID:47bc75794c99025dfd336703cdf4a7ff
 END:VEVENT
 END:VCALENDAR

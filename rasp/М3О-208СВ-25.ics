@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20260904T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20260904T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:46d2efcfb0764ebb1f6b8c44b6e581ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261030T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261030T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:11e4847a782e21c23b4da1c57bf577aa
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20260925T150000Z
-LOCATION:3-441
-DTSTART:20260925T133000Z
+DTEND:20261225T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261225T133000Z
 SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:0fb766eb1e293a587398324330494ab4
+UID:f4a3c65267eca0db149cb6f2b42f176f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -16,22 +32,6 @@ LOCATION:ГУК А-516
 DTSTART:20260907T151500Z
 SUMMARY:ПЗ Проектно-исследовательская деятельность
 UID:3cbf1d6c8a7b5ab62e846c8725d2d982
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261015T131500Z
-LOCATION:3-404
-DTSTART:20261015T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:dba0b801e89cd1a39b7ca704e6db6c2d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261126T131500Z
-LOCATION:3-404
-DTSTART:20261126T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:c632657a7717fb6db8170571dde554a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
@@ -48,14 +48,6 @@ LOCATION:ГУК А-514
 DTSTART:20261001T133000Z
 SUMMARY:ЛК Верификация и валидация программно-информационных систем
 UID:9ce55a1ee80718db39c23e9000b11cd7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261030T164500Z
-LOCATION:3-437
-DTSTART:20261030T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:61250971b42a2c88cc32876eb86e3aaf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
@@ -90,14 +82,6 @@ SUMMARY:ЛР Разработка безопасных программно-ин
 UID:73ac7f31740e897a7daa03f37ef1a385
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261210T131500Z
-LOCATION:3-404
-DTSTART:20261210T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:bf9b84c9e73683151dcca6c943787153
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
 DTEND:20261006T183000Z
 LOCATION:ГУК А-520
@@ -112,6 +96,14 @@ LOCATION:ГУК А-516
 DTSTART:20261102T151500Z
 SUMMARY:ПЗ Проектно-исследовательская деятельность
 UID:1d2b490d6c3b8cd67d1cad5594cc1a2c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261120T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261120T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:05d918180105172e25bbc2b8d8b22d2b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
@@ -138,20 +130,20 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:08d7b279737581ae881ddb49d1dd6951
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261127T164500Z
-LOCATION:3-437
-DTSTART:20261127T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:2f9529e587a5d7b92c34459c554542fe
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
 DTEND:20261022T164500Z
 LOCATION:ГУК А-514
 DTSTART:20261022T151500Z
 SUMMARY:ЛР Верификация и валидация программно-информационных систем
 UID:2a52cac734801edefb67e574f2cbffb7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20260904T150000Z
+LOCATION:ГУК А-516
+DTSTART:20260904T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:05c7e7e0de55509821eb5c4c8f3d30d6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
@@ -186,14 +178,6 @@ SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:cd2d796fc383bc1a2d841c0875e51efb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261113T131500Z
-LOCATION:3-437
-DTSTART:20261113T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:04aae02195849c23f4f419e940b99d92
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
 DTEND:20261201T183000Z
 LOCATION:ГУК А-520
@@ -202,12 +186,36 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:5b9746495a8433f04f0071dd3c6d4092
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20260924T131500Z
+LOCATION:ГУК А-518
+DTSTART:20260924T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:df4a9a7afe8840b01310ee0e8c722dd3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
 DTEND:20261222T164500Z
 LOCATION:ГУК А-514
 DTSTART:20261222T151500Z
 SUMMARY:ЛР Разработка безопасных программно-информационных систем
 UID:79d0e5168877203162f6d68a7829761d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261113T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261113T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:5b69f952ffab38c0af685eeda0d6586d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260911T164500Z
+LOCATION:ГУК А-514
+DTSTART:20260911T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:760c5ee8cd7929e80adf2170f9b6c582
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -259,19 +267,27 @@ UID:886cb73ec01ba41be67ce5ba20a4e9b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261106T150000Z
-LOCATION:3-441
-DTSTART:20261106T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:bc08a0f4c5b232174bdaef96987f5982
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
 DTEND:20260903T164500Z
 LOCATION:ГУК А-514
 DTSTART:20260903T151500Z
 SUMMARY:ЛК Верификация и валидация программно-информационных систем
 UID:952c0c66493cc8d89ba19482f0563644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261127T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261127T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:42564fe3d24b04d9d8da286d5aced526
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20260918T150000Z
+LOCATION:ГУК А-516
+DTSTART:20260918T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:009b222e9dc23f8cb8eec08953558f69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
@@ -282,44 +298,12 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:46ea8028bf76f7bf790d5c9d31fb4732
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261016T150000Z
-LOCATION:3-441
-DTSTART:20261016T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:cfe6fcbb9640e1692b8e40cd8615d03d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261120T150000Z
-LOCATION:3-441
-DTSTART:20261120T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:8e1522b207b3f7897e96537d6a7ea1d4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
 DTEND:20261110T150000Z
 LOCATION:ГУК А-514
 DTSTART:20261110T133000Z
 SUMMARY:ЛР Разработка безопасных программно-информационных систем
 UID:2b71851f38c00515aaaa04b0bf3bac19
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261106T164500Z
-LOCATION:3-437
-DTSTART:20261106T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:be9a194e4b539ca14ec9f84780874455
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261030T131500Z
-LOCATION:3-437
-DTSTART:20261030T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:7185680335ce8436d0c19b28572d910f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -339,11 +323,11 @@ UID:23f49fe85059aa9a7e0cb41590138791
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261002T150000Z
-LOCATION:3-441
-DTSTART:20261002T133000Z
+DTEND:20261016T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261016T133000Z
 SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:603fb93a1b28fdbef44693a5196e7d82
+UID:34ed8772ea17b37fd9a3b43764d98fcb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -352,6 +336,14 @@ LOCATION:ГУК А-516
 DTSTART:20261116T151500Z
 SUMMARY:ПЗ Проектно-исследовательская деятельность
 UID:3187d9b146a6fed64e120afeeda3cd4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261009T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261009T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:6aa02cf721b9afd9cf8fd936e751c54f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
@@ -368,22 +360,6 @@ LOCATION:ГУК А-516
 DTSTART:20261221T114500Z
 SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:eecfd186af3168595da20813acc6f442
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260925T164500Z
-LOCATION:3-437
-DTSTART:20260925T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:07cba3e8ed24f69d57828d132d6987bf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261211T131500Z
-LOCATION:3-437
-DTSTART:20261211T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:38c6e166d40c054b8aa165d74694d29f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
@@ -403,14 +379,6 @@ UID:77e0e5f936470d1f0a86280a73a3c7e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261218T150000Z
-LOCATION:3-441
-DTSTART:20261218T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:6112b2f5f49154a2516e4e91eaa0ebfc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
 DTEND:20260924T164500Z
 LOCATION:ГУК А-514
 DTSTART:20260924T151500Z
@@ -426,12 +394,12 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:405ef5777ecba8094b4e10e3160b1cfc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260911T164500Z
-LOCATION:3-437
-DTSTART:20260911T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:2ae6dff91e3a8fcb025ba20af05092c2
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261102T150000Z
+LOCATION:ГУК Б-542
+DTSTART:20261102T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:92547200c99606cf704eb020d7655fae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -442,28 +410,20 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:562c8112f63cf6efc31e69349fed6c0e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261102T150000Z
-LOCATION:ГУК Б-542
-DTSTART:20261102T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:92547200c99606cf704eb020d7655fae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261225T131500Z
-LOCATION:3-437
-DTSTART:20261225T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:6cb0d1a9445aa84d38b2540b46a79d75
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
 DTEND:20261102T183000Z
 LOCATION:ГУК А-516
 DTSTART:20261102T170000Z
 SUMMARY:ПЗ Проектно-исследовательская деятельность
 UID:4eba0f6d9e127b7e60053e209c11925d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261127T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261127T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:b16429ef1a0dbb89e861e14f14d24029
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -491,19 +451,19 @@ UID:e9483e9d83a561c5a8bb83137119d31d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261022T131500Z
-LOCATION:3-404
-DTSTART:20261022T114500Z
+DTEND:20260910T131500Z
+LOCATION:ГУК А-518
+DTSTART:20260910T114500Z
 SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:dd3c474793fbba55028f00bb226b4d02
+UID:ad5f670e539dfa1641b3d9e50e003dd4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261211T164500Z
-LOCATION:3-437
-DTSTART:20261211T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:99de7f5320cfd1c66395ba4877175f29
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20260917T131500Z
+LOCATION:ГУК А-518
+DTSTART:20260917T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:a9fe70b148a15d82adede0777d1ded98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
@@ -514,12 +474,36 @@ SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:846c4efb04ae0b5042f71ed2e22133ff
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261030T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261030T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:c040feac8c2ad50e9a62cdfd121be6e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20260918T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20260918T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:01494e6102c9429f4c2dc863691a501c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261203T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261203T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:6cf67e8a31099b08b1e7f220c36ba3fb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261120T164500Z
-LOCATION:3-437
-DTSTART:20261120T151500Z
+DTEND:20261023T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261023T151500Z
 SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:ecc8c68439d4126ccb5e5cc978a28ed1
+UID:87b11ab5a2de203edd28473afe35bd3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
@@ -547,6 +531,22 @@ UID:c8c5bf2a3ee8039371f4644eb02045c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261210T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261210T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:926de94c3e11c0a7e433914482c769e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261002T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261002T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:377fd15fc153e50b6a1ad4c20b394906
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
 DTEND:20261116T150000Z
 LOCATION:ГУК Б-542
 DTSTART:20261116T133000Z
@@ -563,43 +563,27 @@ UID:cee5e4ab26bbd4140cce97c8d8050208
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261008T131500Z
-LOCATION:3-404
-DTSTART:20261008T114500Z
+DTEND:20261105T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261105T114500Z
 SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:315830f5963fee55921fafc02c250cee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260918T164500Z
-LOCATION:3-437
-DTSTART:20260918T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:c8f15efd65fbe9e837361624c1c2f3fe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20260917T131500Z
-LOCATION:3-404
-DTSTART:20260917T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:be19d7f87b05f7005d7819b6507b984f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261030T150000Z
-LOCATION:3-441
-DTSTART:20261030T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:db0344feeafd5e73f74c660954a319be
+UID:a979ea6ee0e90ecb7f90ff9876764bdd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
-DTEND:20260904T131500Z
-LOCATION:3-437
-DTSTART:20260904T114500Z
+DTEND:20261002T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261002T114500Z
 SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:9b37131e1d3bf27e316ed115b9f13d59
+UID:a5df7fb0b38ee76851dcb79eb226307d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261008T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261008T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:22e87cde04d88a86dc54f44ddf9f7908
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
@@ -618,12 +602,12 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:4bed45fab202d6b772f94c98c7719ab4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261016T131500Z
-LOCATION:3-437
-DTSTART:20261016T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:70f0ad4d61be336a0d588a3e3a59f014
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261127T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261127T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:b318a639a149cfeab0811c0a8c2621cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -642,6 +626,14 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:ae7a97cc0514d31df18ba8af7087cfd4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261009T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261009T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:3c7b5b580dbf35a4fc5dc74a1ec1ae5a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
 DTEND:20261214T150000Z
 LOCATION:ГУК Б-542
@@ -650,12 +642,12 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:eb5778af6d24412b5dbc70497d6856f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261009T150000Z
-LOCATION:3-441
-DTSTART:20261009T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:866b37c744edf5c7027fbaaa65041868
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261106T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261106T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:5a88160a0d66ccbf152c95aa1b143fb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -682,12 +674,12 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:e90556dc5797aa3f395960d78806148b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261203T131500Z
-LOCATION:3-404
-DTSTART:20261203T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:dedb927bc42e4e22aa1002342af2e9e0
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261211T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261211T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:7dbe4e76cee1bee9bedb90aaf334d3f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -707,11 +699,27 @@ UID:3b18077b1d944866c82f684e23984266
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20260918T150000Z
-LOCATION:3-441
-DTSTART:20260918T133000Z
+DTEND:20260911T150000Z
+LOCATION:ГУК А-516
+DTSTART:20260911T133000Z
 SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:7411a073560c2034134a61de5c877fc3
+UID:f2a9e3330b4bf4c77eaf4f21ae88e380
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261225T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261225T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:f5c9d5067ebe0421c4350d0233875de6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261218T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261218T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:c868e72ad17e32b9a6eb87b401c95bb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -738,20 +746,12 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:f0fc37a05b1e90e40e94ffb3730486cc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20260918T131500Z
-LOCATION:3-437
-DTSTART:20260918T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:a001579b0b78625ffd21da4c7ba4d0b2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20260904T164500Z
-LOCATION:3-437
-DTSTART:20260904T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:31f61ed1630418125d2f0670e9037f03
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261126T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261126T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:bf36ce7e0462a4f9d4d1f92001dd7da9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -762,36 +762,60 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:87a5a6b4cde1b7478bea67cef5929018
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261016T164500Z
-LOCATION:3-437
-DTSTART:20261016T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:e0562f5100ab0fb2e57cc9624b6904b7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261211T150000Z
-LOCATION:3-441
-DTSTART:20261211T133000Z
+DTEND:20260925T150000Z
+LOCATION:ГУК А-516
+DTSTART:20260925T133000Z
 SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:91ce999917e396eb771441161d8ce9d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261002T164500Z
-LOCATION:3-437
-DTSTART:20261002T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:d13fa71e83f4cfcdf0af1b2e5872715a
+UID:171e50195460cce02fb1b6fb0c483cd3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261217T131500Z
-LOCATION:3-404
-DTSTART:20261217T114500Z
+DTEND:20261029T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261029T114500Z
 SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:ac5fe72b5167783306c6424b231aac31
+UID:50f0411dd737143b47ddbe2fe4f8705d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261120T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261120T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:c3d6f9768f98edf2e7e903561966badc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261204T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261204T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:8b6d22677e74044998876b507fc3d1f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261113T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261113T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:244cc514b5e964e6b1a83ab9e1b21a60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261204T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261204T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:b5eef398fbf6b904d6e6f41f2c1c77f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Титов Юрий Павлович
+DTEND:20261016T131500Z
+LOCATION:ГУК Б-540
+DTSTART:20261016T114500Z
+SUMMARY:ЛК Разработка мобильных и web-приложений
+UID:f2a4e2d8ddf8feb858ac355b836acce5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -802,20 +826,20 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:b07ed894c5c24ca5c62c7953883dd8b5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20260924T131500Z
-LOCATION:3-404
-DTSTART:20260924T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:2d0e6ea908ba482b523e206faedc8255
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
 DTEND:20261112T150000Z
 LOCATION:ГУК А-514
 DTSTART:20261112T133000Z
 SUMMARY:ЛР Верификация и валидация программно-информационных систем
 UID:2163f2729c62f32b441174e0eb105911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261016T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261016T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:600386df9f60b216ee3419b8db4c4d21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
@@ -834,14 +858,6 @@ SUMMARY:ЛР Разработка безопасных программно-ин
 UID:6fae93e9b89e94c384a517d53eaa5aaf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261113T150000Z
-LOCATION:3-441
-DTSTART:20261113T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:9a71331880b1a825cb678d5eb398d0ec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
 DTEND:20261026T131500Z
 LOCATION:ГУК А-516
@@ -858,28 +874,20 @@ SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:3075ad3cbeea536d24b512b127e72d0d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261002T131500Z
-LOCATION:3-437
-DTSTART:20261002T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:c5e83f4dc50165b45a2e603047b41782
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261119T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261119T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:2d3cbb3d2e84b553cb25ec36b7cd19ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20260911T150000Z
-LOCATION:3-441
-DTSTART:20260911T133000Z
+DTEND:20261030T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261030T133000Z
 SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:242a7ce18543b97ee0ba2717deb12954
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261119T131500Z
-LOCATION:3-404
-DTSTART:20261119T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:5ebff6006561c41c65e6e47fe90579b3
+UID:d43d4a3e226b5378b7fad1a698131157
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
@@ -890,20 +898,12 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:240d530cb8924417af847fc484a32956
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20260910T131500Z
-LOCATION:3-404
-DTSTART:20260910T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:702a2178b0b22ed142984fe127f65068
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261029T131500Z
-LOCATION:3-404
-DTSTART:20261029T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:217a257c7068061147a4758c413848fd
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260925T164500Z
+LOCATION:ГУК А-514
+DTSTART:20260925T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:43f686156f33305cfbbf8144fafe2c76
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -914,20 +914,36 @@ SUMMARY:ЛР Верификация и валидация программно-�
 UID:b3b4f965bcfcff831c8e1830c0618ae1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261204T150000Z
-LOCATION:3-441
-DTSTART:20261204T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:d7a17cac3a3f7e25b5133bc8a396ae89
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261015T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261015T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:79b4cc7294f00232b661240f7fdc6d03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20260903T131500Z
-LOCATION:3-404
-DTSTART:20260903T114500Z
+DTEND:20261001T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261001T114500Z
 SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:9852c1708924d709dd3a4589c9a9dd9c
+UID:9f021165d08cd9dd67a22dcbf1ac2550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260904T164500Z
+LOCATION:ГУК А-514
+DTSTART:20260904T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:b641f207670bd7a1c07e16f3b7328831
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261217T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261217T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:91e5cb757ffa54fa7dfe107b97a9b764
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -962,6 +978,22 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:a711ad69aabad46cfc58400996c10508
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20260918T164500Z
+LOCATION:ГУК А-514
+DTSTART:20260918T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:cad3dd3f0cf0dbc2c8522f86ea075a1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пиков Виталий Александрович
+DTEND:20261113T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261113T151500Z
+SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
+UID:a98c3faf36d2fc99ed88df888b7e8825
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
 DTEND:20261019T150000Z
 LOCATION:ГУК Б-542
@@ -979,11 +1011,27 @@ UID:7d228de1f78e5a8b4c83cb24d83a3481
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261023T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261023T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:86eb9a0179792cd62031026886d02eca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
 DTEND:20260910T164500Z
 LOCATION:ГУК А-514
 DTSTART:20260910T151500Z
 SUMMARY:ЛК Верификация и валидация программно-информационных систем
 UID:111bbf0dad16cbb30ab28b4e01418433
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261022T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261022T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:6aea8131a6828178e8f32c0531c6f0ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -992,14 +1040,6 @@ LOCATION:ГУК А-514
 DTSTART:20261015T133000Z
 SUMMARY:ЛК Верификация и валидация программно-информационных систем
 UID:2ddbfd3fa6adc96aaed9cc8c436e51aa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Титов Юрий Павлович
-DTEND:20261127T131500Z
-LOCATION:3-437
-DTSTART:20261127T114500Z
-SUMMARY:ЛК Разработка мобильных и web-приложений
-UID:577c6939eb3040b92b23a8f083824c82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -1018,28 +1058,28 @@ SUMMARY:ЛР Анализ защищенности\, аудит и управл�
 UID:918adef480e02097c06f3b4b31777652
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261106T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261106T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:c0ec9e9e0bdb905dbc8e36e957125b04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20261112T131500Z
+LOCATION:ГУК А-518
+DTSTART:20261112T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:f4944becf0b0a9ec3f1840e7a4187136
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
 DTEND:20261208T164500Z
 LOCATION:ГУК А-514
 DTSTART:20261208T151500Z
 SUMMARY:ЛР Разработка безопасных программно-информационных систем
 UID:7674b193ec328d5523c4eed35d6f15c8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261023T164500Z
-LOCATION:3-437
-DTSTART:20261023T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:601b5d614fc9421ab1931bcc724ef3d7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261113T164500Z
-LOCATION:3-437
-DTSTART:20261113T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:c96a4767d5b2cc43322cd23333802098
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
@@ -1050,6 +1090,14 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:ef231cff7847ac14e409a73522a5c3d2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261211T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261211T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:aa41eac96774835b863dbee3127a5a76
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
 DTEND:20260907T183000Z
 LOCATION:ГУК А-516
@@ -1058,36 +1106,12 @@ SUMMARY:ПЗ Проектно-исследовательская деятель�
 UID:18eeec4e5112fae24802eec51088ca08
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20260904T150000Z
-LOCATION:3-441
-DTSTART:20260904T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:2ad8dad9049d57bc367ee1d00a255a9c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
 DTEND:20260907T150000Z
 LOCATION:ГУК Б-542
 DTSTART:20260907T133000Z
 SUMMARY:ПЗ Проектирование и сопровождение баз данных
 UID:7f6081d926a6d6995a9991750dd3462d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261023T150000Z
-LOCATION:3-441
-DTSTART:20261023T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:640babf7f40759cddbf86ed1d0b88c45
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261112T131500Z
-LOCATION:3-404
-DTSTART:20261112T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:2e5bcadb2e056cdc7de0b45bbac1159f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
@@ -1106,14 +1130,6 @@ SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:e0d672d290ed78a8328ba85bf23ece17
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261225T150000Z
-LOCATION:3-441
-DTSTART:20261225T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:d7268b7d2ffea8f9ac8f541c666e12df
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ткачев Олег Алексеевич
 DTEND:20261005T131500Z
 LOCATION:ГУК Б-542
@@ -1122,44 +1138,12 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:074011734bdf3870450487f90d695b38
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261001T131500Z
-LOCATION:3-404
-DTSTART:20261001T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:8ac47ff8bbf9357c5b00381aef04415e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Буянов Сергей Васильевич
-DTEND:20261127T150000Z
-LOCATION:3-441
-DTSTART:20261127T133000Z
-SUMMARY:ЛК Разработка безопасных программно-информационных систем
-UID:ba45e515fec5d347cd07a11c8cf90d30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ткачев Олег Алексеевич
-DTEND:20261105T131500Z
-LOCATION:3-404
-DTSTART:20261105T114500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:472e03bcb363a2be67988c96dbf5c829
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Титов Юрий Павлович
 DTEND:20261221T150000Z
 LOCATION:ГУК А-516
 DTSTART:20261221T133000Z
 SUMMARY:ЛР Разработка мобильных и web-приложений
 UID:58096abe856302aeadb6f82e52934383
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261009T164500Z
-LOCATION:3-437
-DTSTART:20261009T151500Z
-SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:460400e5c510f119d9b63ff7cd1853eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Илья Андреевич
@@ -1186,12 +1170,20 @@ SUMMARY:ЛР Разработка безопасных программно-ин
 UID:056c6fcc924a17de071f1e9995e51850
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Буянов Сергей Васильевич
+DTEND:20261002T150000Z
+LOCATION:ГУК А-516
+DTSTART:20261002T133000Z
+SUMMARY:ЛК Разработка безопасных программно-информационных систем
+UID:b4cec0b8580f6079fc9db0de7e547cae
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пиков Виталий Александрович
-DTEND:20261204T164500Z
-LOCATION:3-437
-DTSTART:20261204T151500Z
+DTEND:20261211T164500Z
+LOCATION:ГУК А-514
+DTSTART:20261211T151500Z
 SUMMARY:ЛК Анализ защищенности\, аудит и управление уязвимостями программно-информационных систем
-UID:b97c472b473b1cb2dd59fba11350ca64
+UID:5fca03bf6a856e0cd8db3f9b71c19005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Буянов Сергей Васильевич
@@ -1200,6 +1192,14 @@ LOCATION:ГУК А-514
 DTSTART:20261105T151500Z
 SUMMARY:ЛР Верификация и валидация программно-информационных систем
 UID:2df0552f6a9d8aa94a91d7b1307605ce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ткачев Олег Алексеевич
+DTEND:20260903T131500Z
+LOCATION:ГУК А-518
+DTSTART:20260903T114500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:44dbdd768e46ddf3d7e4fe7f3fb689fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гагарин Андрей Петрович
