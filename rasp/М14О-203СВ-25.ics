@@ -2,22 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261112T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261112T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:498bd3bca32b97e92ad94a3b50b73bae
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261001T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261001T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:9e3e2e28a23a2f6a678c3602816b7c50
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261114T091500Z
 LOCATION:Орш. А-321
 DTSTART:20261114T074500Z
@@ -31,6 +15,14 @@ LOCATION:Орш. А-321
 DTSTART:20261017T100000Z
 SUMMARY:ЛК Управление интеллектуальной собственностью
 UID:9381bf3f0eb6375fd9ad165d4dd838aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261023T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261023T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:da3c32b1fe44517e6780eb95a5b630a2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261013T183000Z
@@ -62,12 +54,28 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:589f98d40dca9ebe3298d9103062ad5e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20261020T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261020T170000Z
+SUMMARY:ПЗ Методы исследования разрушений АПМ
+UID:86d5d9ea50da49a96b798162b7e136dc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
 DTEND:20260909T183000Z
 LOCATION:ГУК А-712
 DTSTART:20260909T170000Z
 SUMMARY:ЛК Моделирование процессов аддитивного производства
 UID:c5445019262dfc988f404f7c74cc11e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261106T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261106T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:e64aa1d16f44bfae26a27dde95a1e91c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261205T113000Z
@@ -97,14 +105,6 @@ LOCATION:Орш. А-321
 DTSTART:20261010T074500Z
 SUMMARY:ЛК Управление программами в высокотехнологичных отраслях
 UID:9c829f62ca2243ab8de0a7a54b7ad3f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261112T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261112T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:b0e8e26a33dc68433092c2438ea66606
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260921T183000Z
@@ -165,12 +165,11 @@ SUMMARY:ПЗ Искусственный интеллект и большие д�
 UID:55c2e2bc947b74268dc29283cc50d195
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261001T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261001T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:41afe716a21ee4c427f41200b108f137
+DTEND:20261026T183000Z
+LOCATION:7-409
+DTSTART:20261026T170000Z
+SUMMARY:ПЗ Психология инженерного проектирования
+UID:8d2534acd2c70033520d3bbff4c9dc72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -179,13 +178,6 @@ LOCATION:ГУК А-712
 DTSTART:20261007T151500Z
 SUMMARY:ПЗ Моделирование процессов аддитивного производства
 UID:933b81cb46e579b23e1b36e1db545a3b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261026T183000Z
-LOCATION:7-409
-DTSTART:20261026T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:8d2534acd2c70033520d3bbff4c9dc72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -204,19 +196,19 @@ SUMMARY:ПЗ Управление интеллектуальной собств�
 UID:f2801e880fec5876c21ceec52f5a9319
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГУРТОВАЯ ГАЛИНА ВАЛЕРИЕВНА
+DTEND:20260911T183000Z
+LOCATION:Орш. А-325
+DTSTART:20260911T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:d92a9baa259c8ac51f6ee876bfdc8f11
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260928T183000Z
 LOCATION:7-409
 DTSTART:20260928T170000Z
 SUMMARY:ПЗ Психология инженерного проектирования
 UID:a0e2b7b93cfd2b04192b60d136c56847
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20260917T183000Z
-LOCATION:Орш. А-310
-DTSTART:20260917T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:4b02a41c71c4dd7f9cfb16146b0cb689
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261202T164500Z
@@ -232,6 +224,14 @@ LOCATION:ГУК А-712
 DTSTART:20261028T170000Z
 SUMMARY:ПЗ Моделирование процессов аддитивного производства
 UID:455443290552bbc954df2e9224641a30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20261002T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261002T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:0d5cf8a19bfd3d262eecde78e1281e36
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -286,14 +286,6 @@ LOCATION:5-103
 DTSTART:20260924T170000Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью
 UID:7db86c7fe531dc4009a6e06eef9f461b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20260917T164500Z
-LOCATION:Орш. А-310
-DTSTART:20260917T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:863e2b3e7219207709f2b93de8b9ad1d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260901T183000Z
@@ -400,22 +392,6 @@ SUMMARY:ПЗ Управление интеллектуальной собств�
 UID:cee7b6b14c0688e7503abb020862a2b8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261126T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261126T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:f98d4e9b41e618e6b4e800a5db0626c0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261224T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261224T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:a4a59f73671c01dea9a5a5080129c34f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
 DTEND:20260902T183000Z
 LOCATION:ГУК А-712
@@ -424,11 +400,27 @@ SUMMARY:ЛК Моделирование процессов аддитивног�
 UID:2bd35d235b91fb512549d2bd9013f570
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261030T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261030T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:5a2ea8cf6b9f764a585e8d9c9850867f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261219T091500Z
 LOCATION:Орш. А-321
 DTSTART:20261219T074500Z
 SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
 UID:188ad21db288c932f17d5857e87f6b76
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20260922T183000Z
+LOCATION:Орш. А-325
+DTSTART:20260922T170000Z
+SUMMARY:ЛК Методы исследования разрушений АПМ
+UID:80b20c1ad14f5cd4ad0fe5ac11af32d2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261019T164500Z
@@ -445,12 +437,12 @@ SUMMARY:ЛК Методы исследования разрушений АПМ
 UID:bd52acf5c29a9891d4526197c7b028ce
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261126T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261126T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:4704d7ed931d306bd9affbc1c652df63
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20261015T183000Z
+LOCATION:5-103
+DTSTART:20261015T170000Z
+SUMMARY:ПЗ Управление интеллектуальной собственностью
+UID:f1500dac73f2c1bd7afb659c6a529321
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260928T164500Z
@@ -468,12 +460,28 @@ SUMMARY:ЛК Моделирование процессов аддитивног�
 UID:d4bad365ff7c8ee621f895c2d49dff17
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГУРТОВАЯ ГАЛИНА ВАЛЕРИЕВНА
+DTEND:20260918T164500Z
+LOCATION:Орш. А-325
+DTSTART:20260918T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:40669dee55d5a6de7dc5e031e66b7a79
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
 DTEND:20260916T164500Z
 LOCATION:ГУК А-712
 DTSTART:20260916T151500Z
 SUMMARY:ЛК Моделирование процессов аддитивного производства
 UID:7f233d09a1380ba33b50b3e58caef711
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20260908T164500Z
+LOCATION:Орш. А-325
+DTSTART:20260908T151500Z
+SUMMARY:ЛК Методы исследования разрушений АПМ
+UID:9a21249c8db2facb8f1190cc3bab0dc6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -505,28 +513,12 @@ SUMMARY:ЛК Искусственный интеллект и большие д�
 UID:5715cac59b98b34f363302df3f7897d6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261210T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261210T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:0c5965dff76fadeb2d9c24d5250f67a9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260926T113000Z
 LOCATION:Орш. А-321
 DTSTART:20260926T100000Z
 SUMMARY:ЛК Управление интеллектуальной собственностью
 UID:f25383469107009844b1d8bc0f5746f0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20260903T164500Z
-LOCATION:Орш. А-310
-DTSTART:20260903T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:f6ff282a572c9c1c7bb1680e9a2f8e75
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261107T113000Z
@@ -536,19 +528,19 @@ SUMMARY:ЛК Искусственный интеллект и большие д�
 UID:ae1bd48ead7d21be061ee6b9dbdc8004
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20261006T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261006T151500Z
+SUMMARY:ПЗ Методы исследования разрушений АПМ
+UID:0aac4b52a2bfb105e47282386cf1895b
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260914T183000Z
 LOCATION:7-409
 DTSTART:20260914T170000Z
 SUMMARY:ПЗ Психология инженерного проектирования
 UID:821991c1f887defd0f2af92895295620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261015T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261015T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:b230d5511cc99ed2961c61f5928c6dc2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261222T164500Z
@@ -595,6 +587,13 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:6be1c8bb5b4c0c583aa55c80e61516fc
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261212T091500Z
+LOCATION:Орш. А-321
+DTSTART:20261212T074500Z
+SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
+UID:2c37b23761eaf05088300eab6aae1db2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
 DTEND:20261014T164500Z
 LOCATION:ГУК А-712
@@ -603,11 +602,27 @@ SUMMARY:ПЗ Моделирование процессов аддитивног�
 UID:100a14aa6ea2d425c304988eb5a7df7e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20261002T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261002T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:5b0c4b8f3eed3a43db124b12954c5397
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260914T164500Z
 LOCATION:7-409
 DTSTART:20260914T151500Z
 SUMMARY:ПЗ Психология инженерного проектирования
 UID:02ea4d2a2ba31a15c9cf8fc4d0b8d421
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20260922T164500Z
+LOCATION:Орш. А-325
+DTSTART:20260922T151500Z
+SUMMARY:ЛК Методы исследования разрушений АПМ
+UID:c01c62f16c917ac632f26d1b196479af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -623,6 +638,14 @@ LOCATION:Орш. А-323
 DTSTART:20261209T151500Z
 SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
 UID:c3377e732b0170dc1c217d2731c6191b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20261009T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261009T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:b4a2a79d1f54d601fa8a27c28e7fc3d3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261221T183000Z
@@ -668,6 +691,30 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:0bded4d5a8c6621c8003963d69a2bc43
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20260908T183000Z
+LOCATION:Орш. А-325
+DTSTART:20260908T170000Z
+SUMMARY:ЛК Методы исследования разрушений АПМ
+UID:454cfe025becc5c753a645318858553d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261106T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261106T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:3e9afde7607a41a639905e3743a298dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261023T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261023T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:072442bd655757e38c91da0d1c465e57
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260928T150000Z
 LOCATION:7-209
 DTSTART:20260928T133000Z
@@ -680,6 +727,14 @@ LOCATION:7-409
 DTSTART:20261221T151500Z
 SUMMARY:ПЗ Психология инженерного проектирования
 UID:3366225adcf64ac9001d487960626d85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москвичева Наталья Валерьевна
+DTEND:20261029T164500Z
+LOCATION:5-301В
+DTSTART:20261029T151500Z
+SUMMARY:ПЗ Управление программами в высокотехнологичных отраслях
+UID:41c7ab41d9049376f77084c76e8bdc65
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261209T183000Z
@@ -703,6 +758,30 @@ SUMMARY:ПЗ Психология инженерного проектирова�
 UID:fdd074e0f36e9862a75632a0b2c560bf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20261006T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261006T170000Z
+SUMMARY:ПЗ Методы исследования разрушений АПМ
+UID:e74ec53321d85649089a9fc0f9b96408
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москвичева Наталья Валерьевна
+DTEND:20261001T164500Z
+LOCATION:5-301В
+DTSTART:20261001T151500Z
+SUMMARY:ПЗ Управление программами в высокотехнологичных отраслях
+UID:54ca21efa79c1f0b7a3f8815ee3fc818
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москвичева Наталья Валерьевна
+DTEND:20261015T164500Z
+LOCATION:5-301В
+DTSTART:20261015T151500Z
+SUMMARY:ПЗ Управление программами в высокотехнологичных отраслях
+UID:66d8e48a7312ae9922c4042e577ef0c2
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261216T183000Z
 LOCATION:Орш. А-323
 DTSTART:20261216T170000Z
@@ -717,12 +796,12 @@ SUMMARY:ЛК Психология инженерного проектирова�
 UID:44116d02f1656e460a71fcd6ef78a729
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261015T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261015T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:5c22ce6ac2b5d7ee96c69dc17c32ceb9
+DESCRIPTION:ГУРТОВАЯ ГАЛИНА ВАЛЕРИЕВНА
+DTEND:20260911T164500Z
+LOCATION:Орш. А-325
+DTSTART:20260911T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:e271f0e358254de3f0a4a396336965b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -738,6 +817,14 @@ LOCATION:7-409
 DTSTART:20261012T170000Z
 SUMMARY:ПЗ Психология инженерного проектирования
 UID:24f289727ec1f66b817f3b3768e1b00b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20261029T183000Z
+LOCATION:5-103
+DTSTART:20261029T170000Z
+SUMMARY:ПЗ Управление интеллектуальной собственностью
+UID:4a42e220efff3b553d2254a1bd2e228e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261005T164500Z
@@ -769,11 +856,51 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:506a02cd5707558bf604d23693ec2ee9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20261001T183000Z
+LOCATION:5-103
+DTSTART:20261001T170000Z
+SUMMARY:ПЗ Управление интеллектуальной собственностью
+UID:ee7630713ae6015b2fc905c8bc952261
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261202T183000Z
 LOCATION:Орш. А-323
 DTSTART:20261202T170000Z
 SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
 UID:1fc1e91aa9da98d96b071eea943fcf5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20260925T164500Z
+LOCATION:Орш. А-325
+DTSTART:20260925T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:2648611ff2e1fc4eafcb0668da1af657
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20260917T183000Z
+LOCATION:5-103
+DTSTART:20260917T170000Z
+SUMMARY:ПЗ Управление интеллектуальной собственностью
+UID:33590faf5c90558d09a504c2b7874d07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москвичева Наталья Валерьевна
+DTEND:20260917T164500Z
+LOCATION:5-301В
+DTSTART:20260917T151500Z
+SUMMARY:ПЗ Управление программами в высокотехнологичных отраслях
+UID:f782101da0c90b476f0f9e7ad7044600
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГВОЗДЕВА ОЛЬГА НИКОЛАЕВНА
+DTEND:20261020T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261020T151500Z
+SUMMARY:ПЗ Методы исследования разрушений АПМ
+UID:f343402742b2fd859f1c91083dbf3ec9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -782,14 +909,6 @@ LOCATION:Орш. А-321
 DTSTART:20261024T074500Z
 SUMMARY:ЛК Управление программами в высокотехнологичных отраслях
 UID:5fee25db86dc617a61f9ed2163967c3e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20260903T183000Z
-LOCATION:Орш. А-310
-DTSTART:20260903T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:5a96ac714c13e252526b29202060a797
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -820,6 +939,14 @@ LOCATION:7-409
 DTSTART:20261005T170000Z
 SUMMARY:ЛК Психология инженерного проектирования
 UID:29d9749303182b1491a9dad3e0cd78c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20261009T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261009T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:4f2bf37f5949285890937f38a58afa15
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261118T164500Z
@@ -864,14 +991,6 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:d57b4fcaf5757a5d5a85eecbbb608a48
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261224T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261224T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:7fd20310015050899fe07913d6c6ebdd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
 DTEND:20260930T183000Z
 LOCATION:ГУК А-712
@@ -887,14 +1006,6 @@ SUMMARY:ЛК Психология инженерного проектирова�
 UID:ca31499b81e3b2fe653217f1733e917b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261210T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261210T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:533bfd806466cd9b5a14e4e3e7f4bc46
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261005T150000Z
 LOCATION:7-209
 DTSTART:20261005T133000Z
@@ -902,12 +1013,12 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:e0f485b0d0a07e40f5640362ff911e82
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261029T183000Z
-LOCATION:Орш. А-310
-DTSTART:20261029T170000Z
-SUMMARY:ПЗ Расчёт на прочность и оптимизация конструкций
-UID:cb6f1675c89291018f625460f8ffe91b
+DESCRIPTION:ГУРТОВАЯ ГАЛИНА ВАЛЕРИЕВНА
+DTEND:20260918T183000Z
+LOCATION:Орш. А-325
+DTSTART:20260918T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:08e8b67490f8936d6ea4328bfa793dc2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261223T164500Z
@@ -922,6 +1033,14 @@ LOCATION:7-209
 DTSTART:20261022T133000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
 UID:8630b36eeefb8b379624b7b65c01b899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261016T183000Z
+LOCATION:Орш. А-325
+DTSTART:20261016T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:6fdb30e5764b1deacbc2fefad0011b1e
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261012T150000Z
@@ -946,6 +1065,14 @@ SUMMARY:ЛК Управление программами в высокотехн
 UID:28b9be1678da5ba4132451e0d036c8fd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20260925T183000Z
+LOCATION:Орш. А-325
+DTSTART:20260925T170000Z
+SUMMARY:ПЗ Материаловедение и методы исследования материалов
+UID:b5fc22f1c7397f66e6fbd724fc4250dc
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260921T150000Z
 LOCATION:7-209
 DTSTART:20260921T133000Z
@@ -961,20 +1088,20 @@ SUMMARY:ЛК Управление программами в высокотехн
 UID:a9fe38ad2d7afbfa6278a744bdb6cdb0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Елкин Александр Сергеевич
-DTEND:20261029T164500Z
-LOCATION:Орш. А-310
-DTSTART:20261029T151500Z
-SUMMARY:ЛК Расчёт на прочность и оптимизация конструкций
-UID:5e204250e7a8621ea7821c078ef4a89c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
 DTEND:20261022T164500Z
 LOCATION:5-301В
 DTSTART:20261022T151500Z
 SUMMARY:ПЗ Управление программами в высокотехнологичных отраслях
 UID:1afd2abcdbdf6a66ce6321b6bfa739c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261016T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261016T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:32bde83912bf4996a230b4cf6eb9933c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брыкин Вениамин Андреевич
@@ -1035,10 +1162,11 @@ SUMMARY:ЛК Методы исследования разрушений АПМ
 UID:e9e5256a0cb894e76db6f66ba0ed7026
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261212T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261212T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:2c37b23761eaf05088300eab6aae1db2
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20261030T164500Z
+LOCATION:Орш. А-325
+DTSTART:20261030T151500Z
+SUMMARY:ЛК Материаловедение и методы исследования материалов
+UID:7e5fec3b9436dbb4ab8736e108651472
 END:VEVENT
 END:VCALENDAR

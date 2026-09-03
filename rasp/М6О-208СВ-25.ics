@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260907T150000Z
-LOCATION:24-440
-DTSTART:20260907T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:4620fcacd457415b66983a9891b98b1c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егорова Мария Сергеевна
 DTEND:20260925T183000Z
 LOCATION:24-408
 DTSTART:20260925T170000Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:49e29efb0be830963b25576ff370913a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261130T150000Z
+LOCATION:24-440
+DTSTART:20261130T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:a1a8a6ea4a188deb9091f8a626ad2a06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
@@ -41,14 +41,6 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:169e8f617d32ea4495f9bfa7def7c438
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261102T164500Z
-LOCATION:24-440
-DTSTART:20261102T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:f772e7d3677db1d991c1a5bc60bac49f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
 DTEND:20261223T164500Z
 LOCATION:24-440
@@ -65,12 +57,12 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:5c6be4459a301bac9c462922dc6ef4dc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260921T164500Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261102T150000Z
 LOCATION:24-440
-DTSTART:20260921T151500Z
+DTSTART:20261102T133000Z
 SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:f8c2843e513fca158e6f40acc8339013
+UID:1ca2ed41b4b5c3cdd09b0e8a64b050a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -89,12 +81,12 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:ad29a40575bb1e7ad02b1bacd6bc5910
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260928T150000Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260914T150000Z
 LOCATION:24-438
-DTSTART:20260928T133000Z
+DTSTART:20260914T133000Z
 SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:ec0a37795c64cd8f4f3a79474087a56f
+UID:84f66c0f3d010927b191415905adad0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -113,6 +105,14 @@ SUMMARY:ПЗ Компьютерные технологии моделирова�
 UID:0a56c79f451841fe7be77e9211193a41
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20261209T150000Z
+LOCATION:24-440
+DTSTART:20261209T133000Z
+SUMMARY:ПЗ Экспериментальная отработка сложных технических систем
+UID:03e140178a78f4e06d6958598a4f4b47
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гусев Евгений Владимирович
 DTEND:20261015T150000Z
 LOCATION:24-439
@@ -129,12 +129,20 @@ SUMMARY:ЛК Обеспечение надежности и безопаснос
 UID:9012af201a00d96e3cfa15fd62426e0f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260907T164500Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261019T150000Z
 LOCATION:24-440
-DTSTART:20260907T151500Z
+DTSTART:20261019T133000Z
 SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:16aa6fcec0f57c664f44f2787d2d1844
+UID:71eff987ae58c7203276e5ed0ee94196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260928T164500Z
+LOCATION:24-438
+DTSTART:20260928T151500Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:6292d7e6cc0b742ba65d08f57c3ff7d9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
@@ -169,14 +177,6 @@ SUMMARY:ЛК Обеспечение надежности и безопаснос
 UID:ce32cc1ef390508cad1cea142eddb0db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261005T150000Z
-LOCATION:24-440
-DTSTART:20261005T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:ab08133d7e0362c5b6672cc5b125de94
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261006T164500Z
 LOCATION:24-744
 DTSTART:20261006T151500Z
@@ -199,12 +199,36 @@ SUMMARY:ПЗ Экспериментальная отработка сложны�
 UID:23a2365ff7bf3046b3e162e59cc060e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260921T150000Z
+LOCATION:24-440
+DTSTART:20260921T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:bb382a06d96d9159f58a425bcafdf2ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261005T164500Z
+LOCATION:24-440
+DTSTART:20261005T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:4c66cab36ad079e0534386734cd8a9a7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20260924T150000Z
 LOCATION:24-419
 DTSTART:20260924T133000Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:c704c8c7b6e41edbd2ed4f69174177a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261019T164500Z
+LOCATION:24-440
+DTSTART:20261019T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:127b985e519d1b6d176f4692609f2bfd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егорова Мария Сергеевна
@@ -222,20 +246,20 @@ SUMMARY:ЛР Занятие в группах индивидуальных тр�
 UID:4526e9e891fb9b09f0f159f69ffced28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261012T164500Z
-LOCATION:24-438
-DTSTART:20261012T151500Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:f74896ece76ce45a2e9aa4bafe6a14e3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20261105T164500Z
 LOCATION:24-419
 DTSTART:20261105T151500Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:5880bb1735d74e949deb39ed81f8d43e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261130T164500Z
+LOCATION:24-440
+DTSTART:20261130T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:9788979ce97f1788431916232e5ffad5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -316,6 +340,14 @@ SUMMARY:ЛК Эксплуатация комплексов летательны�
 UID:f72e7e13da2cbc274b77c69be36ff163
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261012T164500Z
+LOCATION:24-438
+DTSTART:20261012T151500Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:8d7e16babe1b157b8db747088dc362c2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович
 DTEND:20261124T183000Z
 LOCATION:24-444
@@ -330,14 +362,6 @@ LOCATION:24-439
 DTSTART:20261029T151500Z
 SUMMARY:ЛК Обеспечение надежности и безопасности при разработке и эксплуатации космических аппаратов
 UID:6e31ff66c344615ee03ac0cf16dd7f76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261214T150000Z
-LOCATION:24-440
-DTSTART:20261214T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:3e8326b6b32079bfdd3114da465f2dac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович
@@ -394,14 +418,6 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:6df36e0f61a3277126e2e609f9fc1f10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260921T150000Z
-LOCATION:24-440
-DTSTART:20260921T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:3b1053b7a1f5f8734adf61be579dd5f2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
 DTEND:20261021T150000Z
 LOCATION:24-440
@@ -424,14 +440,6 @@ LOCATION:24-408
 DTSTART:20260911T170000Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:9746c8b12a806a20c48f86297daf416f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261019T164500Z
-LOCATION:24-440
-DTSTART:20261019T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:7c656c1ec21dd8a30cede579ccd169dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -458,6 +466,14 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:06bb47e92f118df455fad93f9e83c11b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261026T150000Z
+LOCATION:24-438
+DTSTART:20261026T133000Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:4118cd71d28228d7b1cf1b3b6967dda8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
 DTEND:20261014T164500Z
 LOCATION:24-440
@@ -474,11 +490,27 @@ SUMMARY:ЛК Эксплуатация комплексов летательны�
 UID:35565da6b3561cdeb3c570a2f02fee35
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260907T150000Z
+LOCATION:24-440
+DTSTART:20260907T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:39b7878a575fcf611dff2dfc3ef630b7
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260929T164500Z
 LOCATION:24-600а
 DTSTART:20260929T151500Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:b3d2f74b18aedfcda46de46f489cdddd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260914T164500Z
+LOCATION:24-438
+DTSTART:20260914T151500Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:b640da8cb31c1d56cdba6ec237ebb46a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -487,14 +519,6 @@ LOCATION:24-440
 DTSTART:20260930T133000Z
 SUMMARY:ПЗ Экспериментальная отработка сложных технических систем
 UID:ffabf087c99f1606e7febaed51c8285c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261116T150000Z
-LOCATION:24-440
-DTSTART:20261116T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:d7dabf6d837611264da9fad91adbd0e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -521,12 +545,12 @@ SUMMARY:ПЗ Обеспечение надежности и безопаснос
 UID:741d029fe3c0f51b8ade1e7ac72ee642
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261116T164500Z
-LOCATION:24-440
-DTSTART:20261116T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:46db06df344615534b50dbcd9fdbb1df
+DESCRIPTION:Егорова Мария Сергеевна
+DTEND:20261218T164500Z
+LOCATION:24-408
+DTSTART:20261218T151500Z
+SUMMARY:ЛР Компьютерные технологии моделирования
+UID:2bba2d5d2f3e7d70c18c92d00fc8ce87
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -537,12 +561,12 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:ee494240e54fe802fa5b77f0d7557cbb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Егорова Мария Сергеевна
-DTEND:20261218T164500Z
-LOCATION:24-408
-DTSTART:20261218T151500Z
-SUMMARY:ЛР Компьютерные технологии моделирования
-UID:2bba2d5d2f3e7d70c18c92d00fc8ce87
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260921T164500Z
+LOCATION:24-440
+DTSTART:20260921T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:4d2701b911df85f23f74db0d9a33a2ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -709,6 +733,14 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:898ce4d93299f0afcdaf1f5810f66796
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261026T164500Z
+LOCATION:24-438
+DTSTART:20261026T151500Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:91829f67c241909170876fa7ae626615
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Егорова Мария Сергеевна
 DTEND:20261009T150000Z
 LOCATION:24-408
@@ -788,27 +820,11 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:bc566d3fd9a1b935b6f236d09d0abeea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260914T164500Z
-LOCATION:24-438
-DTSTART:20260914T151500Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:79af8e34c6945edf906c643daec7a081
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260929T183000Z
 LOCATION:24-600а
 DTSTART:20260929T170000Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:af29cd520a83f7f79d48364de49ed76d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261005T164500Z
-LOCATION:24-440
-DTSTART:20261005T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:e69505f8c43b98d51e2fee265abf57a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -817,14 +833,6 @@ LOCATION:24-440
 DTSTART:20261118T151500Z
 SUMMARY:ЛК Экспериментальная отработка сложных технических систем
 UID:5126dac15d353066f8574ba3006c0fe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261019T150000Z
-LOCATION:24-440
-DTSTART:20261019T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:0f14993370de5d801e78425f64192ffb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -875,20 +883,28 @@ SUMMARY:ЛК Эксплуатация комплексов летательны�
 UID:a30be21c99eeef5848478175a7ca80ae
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261026T164500Z
-LOCATION:24-438
-DTSTART:20261026T151500Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:3a802f027dec76a46012e47e09be6218
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261214T164500Z
+LOCATION:24-440
+DTSTART:20261214T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:b7dbb73688a948d2f968e68235e49012
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261116T164500Z
+LOCATION:24-440
+DTSTART:20261116T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:f5a682dda9757170d1e30f235b0d28fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
 DTEND:20261012T150000Z
 LOCATION:24-438
 DTSTART:20261012T133000Z
 SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:e1717c44823d81a65c4890585cb7f023
+UID:ffcef56641668c071c91af5585a3b0a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -920,14 +936,6 @@ LOCATION:24-225
 DTSTART:20260904T170000Z
 SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
 UID:165d7fd89524bb237dc0197bc2cc6aff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260914T150000Z
-LOCATION:24-438
-DTSTART:20260914T133000Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:96fbebecfddc6ff7d8fb2ee43e71f0b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
@@ -984,14 +992,6 @@ LOCATION:24-408
 DTSTART:20261120T151500Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:998951911fa5fbb65531e6c3a557b020
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261130T164500Z
-LOCATION:24-440
-DTSTART:20261130T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:3c88c3200b74ef7a75b5d0d51660d830
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -1058,20 +1058,28 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:b6a4416e5ff7f90807ebac0cc5ec340b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261102T150000Z
-LOCATION:24-440
-DTSTART:20261102T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:eff5e53634207f051431be11ddd94888
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
 DTEND:20261016T183000Z
 LOCATION:24-225
 DTSTART:20261016T170000Z
 SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
 UID:1eeea8523ef7b231e724417cf33b99ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261005T150000Z
+LOCATION:24-440
+DTSTART:20261005T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:8425bf51ce5691aaa0c5cf50e20c90a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261102T164500Z
+LOCATION:24-440
+DTSTART:20261102T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:356dd9ec21340db2a2200ac1f939ab92
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261020T183000Z
@@ -1089,20 +1097,20 @@ SUMMARY:ЛК Обеспечение надежности и безопаснос
 UID:12dad9c368951375823b09677acebfcc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261026T150000Z
-LOCATION:24-438
-DTSTART:20261026T133000Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:d7d9feb362501d8154a445187c134a7f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гусев Евгений Владимирович
 DTEND:20261210T150000Z
 LOCATION:24-439
 DTSTART:20261210T133000Z
 SUMMARY:ПЗ Обеспечение надежности и безопасности при разработке и эксплуатации космических аппаратов
 UID:45ff909ea15c45e17e098fe4e9141e7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260907T164500Z
+LOCATION:24-440
+DTSTART:20260907T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:d6442bcd8abaa027aa59c72c059d7d55
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егорова Мария Сергеевна
@@ -1188,20 +1196,20 @@ SUMMARY:ПЗ Экспериментальная отработка сложны�
 UID:d0d8ce7e8c3f972e35458fa08514ed68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261214T164500Z
-LOCATION:24-440
-DTSTART:20261214T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:c000e804e0f94e73418ad1ce9e5a141f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
 DTEND:20261002T164500Z
 LOCATION:24-225
 DTSTART:20261002T151500Z
 SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
 UID:5d0bf3e6b0586b809d515b97caf4afa7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20260928T150000Z
+LOCATION:24-438
+DTSTART:20260928T133000Z
+SUMMARY:ЛР Тепловое проектирование космических аппаратов
+UID:3ef809660ef1e235702878f755d7a594
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович
@@ -1218,6 +1226,14 @@ LOCATION:24-419
 DTSTART:20261022T151500Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:7bc4b92404b4bf2960647df412b548fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261214T150000Z
+LOCATION:24-440
+DTSTART:20261214T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:9c9bde6b46bda16d7cb1e55003a80e27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
@@ -1258,14 +1274,6 @@ LOCATION:24-225
 DTSTART:20261225T170000Z
 SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
 UID:a03672b2a26ea145fc34d7c22abd143e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20261130T150000Z
-LOCATION:24-440
-DTSTART:20261130T133000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:93ae4daabb7b14439f987fed94a93fe0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коробовский Александр Валентинович
@@ -1316,14 +1324,6 @@ SUMMARY:ЛК Экспериментальная отработка сложны�
 UID:06025d001c71c38944c69af08306aa74
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бабайцев Арсений Владимирович
-DTEND:20260928T164500Z
-LOCATION:24-438
-DTSTART:20260928T151500Z
-SUMMARY:ЛР Тепловое проектирование космических аппаратов
-UID:a5b3bb73bfafcd79f631a33755185721
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович
 DTEND:20261110T164500Z
 LOCATION:24-444
@@ -1348,12 +1348,12 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:9eeddd6e2eb795fce613eb9cff41866f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20261209T150000Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20261116T150000Z
 LOCATION:24-440
-DTSTART:20261209T133000Z
-SUMMARY:ПЗ Экспериментальная отработка сложных технических систем
-UID:03e140178a78f4e06d6958598a4f4b47
+DTSTART:20261116T133000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:46fc0ec0f10753980457dc22d5e23cb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пичужкин Павел Викторович
