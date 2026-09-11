@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260907T164500Z
-LOCATION:24-402
-DTSTART:20260907T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:7637da65f477f512bf1858bfd3f32e89
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261013T183000Z
 LOCATION:24-600а
 DTSTART:20261013T170000Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:448a65681e33c3c2778dd49a3aa62258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261005T164500Z
+LOCATION:11-34
+DTSTART:20261005T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:04ee99be23e888cf6fba25402beb6eab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -41,19 +41,11 @@ UID:50228f17077c66acbb30aed69061d13b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260907T183000Z
-LOCATION:24-402
-DTSTART:20260907T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:e24850a89f09a30b33c7801b23a91eb5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261112T164500Z
+DTEND:20261109T183000Z
 LOCATION:11-34
-DTSTART:20261112T151500Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:db98b738536dd4bbad8ca9443d308205
+DTSTART:20261109T170000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:72c08ebcbaace05f1dda69a682af90b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -72,11 +64,19 @@ UID:b06589e2255309bc8fa2af31d248138a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20260917T164500Z
-LOCATION:11-34
-DTSTART:20260917T151500Z
+DTEND:20260915T150000Z
+LOCATION:11-26
+DTSTART:20260915T133000Z
 SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:53df90700875106efa7b6b0e1f030636
+UID:c0bd80b706c6939272fc494237aee17c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261130T164500Z
+LOCATION:11-34
+DTSTART:20261130T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:e5a17f570946a1e5ff124ba3493b099d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -88,27 +88,11 @@ UID:bf711958b08f2604a374eea96b4a16ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261015T183000Z
-LOCATION:11-34
-DTSTART:20261015T170000Z
+DTEND:20261020T150000Z
+LOCATION:11-26
+DTSTART:20261020T133000Z
 SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:1dce1ed8afc56c775ad2bf5a14f7b7e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261012T164500Z
-LOCATION:24-402
-DTSTART:20261012T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:5bfcc70b7136d125df806985b14aadaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260921T150000Z
-LOCATION:24-402
-DTSTART:20260921T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:847cca967c751709319b5efcb56d5d81
+UID:b54742ff6994b427880136c7ae486a35
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -119,6 +103,14 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:1ff23cc7ca071c5e6b31bd4c1b07b30a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261026T150000Z
+LOCATION:11-34
+DTSTART:20261026T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:19168ac1e744e423f8bbdb0aca7a1846
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260922T164500Z
 LOCATION:1-12
 DTSTART:20260922T151500Z
@@ -127,19 +119,11 @@ UID:5f9a1369a61433dfaa9f503f29b74c75
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261214T164500Z
-LOCATION:24-402
-DTSTART:20261214T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:5a0d6169af76e94bf94171335671979d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261221T164500Z
-LOCATION:24-402
-DTSTART:20261221T151500Z
+DTEND:20260921T183000Z
+LOCATION:11-34
+DTSTART:20260921T170000Z
 SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:6d08543983daba2294c6d78e0faa073d
+UID:fd8e5156672e7a07f1309812d88ad1b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -158,14 +142,6 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:b71248bb3ebf9fce52c2c2029628c1cd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260921T183000Z
-LOCATION:24-402
-DTSTART:20260921T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:929634a9ce90e65db5573f542985677a
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261201T183000Z
 LOCATION:24-744
 DTSTART:20261201T170000Z
@@ -181,20 +157,44 @@ SUMMARY:ПЗ Коммерциализация космической деяте�
 UID:073be08c3375ea10bb45f569f36276f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261221T150000Z
-LOCATION:24-402
-DTSTART:20261221T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:f103d121d63a2551c713d21a9bdb38fd
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20260929T150000Z
+LOCATION:11-26
+DTSTART:20260929T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:5fa203629912521c3dd2057ff58bb4de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261123T150000Z
-LOCATION:24-402
-DTSTART:20261123T133000Z
+DTEND:20261102T150000Z
+LOCATION:11-34
+DTSTART:20261102T133000Z
 SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:4d39a308f14cd706a6b59cb3857d1b3b
+UID:47425fa066dca064491cbcee5ece4e56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261116T150000Z
+LOCATION:11-34
+DTSTART:20261116T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:1f5f0b8bd724c54c5d5ca458897965d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261005T183000Z
+LOCATION:11-34
+DTSTART:20261005T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:15705e433c6c246f3d5f870dfbeff559
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260907T183000Z
+LOCATION:11-34
+DTSTART:20260907T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:a052446cbb476bb2ef49ef4526b394f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -205,12 +205,12 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:60891ee25fbecdeeaafc873f00c3f7f1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261005T150000Z
-LOCATION:24-402
-DTSTART:20261005T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:99275662a23cf47f67014d7a2f6f082a
+DESCRIPTION:Федотов Дмитрий Михайлович
+DTEND:20261113T150000Z
+LOCATION:11-12
+DTSTART:20261113T133000Z
+SUMMARY:ЛК Технико-экономический анализ проектных решений
+UID:af3bad9a8aae3f56bd521d8f54813f4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -219,14 +219,6 @@ LOCATION:24-419
 DTSTART:20261105T151500Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:b37f8309b7464eb09af0ec0cd2c6beb0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федотов Дмитрий Михайлович
-DTEND:20261113T150000Z
-LOCATION:11-12
-DTSTART:20261113T133000Z
-SUMMARY:ЛК Технико-экономический анализ проектных решений
-UID:af3bad9a8aae3f56bd521d8f54813f4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -238,27 +230,19 @@ UID:e430dae4235c4823de17f855fc557ff3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261130T150000Z
-LOCATION:24-402
-DTSTART:20261130T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:366b6f49baf8d0306573673bcb59e4d4
+DTEND:20261019T183000Z
+LOCATION:11-34
+DTSTART:20261019T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:6a866cc1244da5e29a6f12b60ac3aafb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
 DTEND:20261102T164500Z
-LOCATION:24-402
+LOCATION:11-34
 DTSTART:20261102T151500Z
 SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:3a789f9f01d946914f4e61321ecaa5c7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261116T183000Z
-LOCATION:24-402
-DTSTART:20261116T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:bd11752002d21c4fc6e223800e263f0c
+UID:41674688931c4b27609446ddfc7ceb9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -267,6 +251,14 @@ LOCATION:11-34
 DTSTART:20261014T133000Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:648a0d6729e6b7f77316ce1f8b7f3a31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260914T183000Z
+LOCATION:11-34
+DTSTART:20260914T170000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:0a7324ed57bfda0e98a57901ef7e8e4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -286,11 +278,11 @@ UID:8d149c2690a9a210c46fbab9d806424c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261001T183000Z
-LOCATION:11-34
-DTSTART:20261001T170000Z
+DTEND:20260922T150000Z
+LOCATION:11-26
+DTSTART:20260922T133000Z
 SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:637b4d418c16816a4d565cb5101f5e0a
+UID:477e394d5838eb8dc6d99d3b7adaeb73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -307,14 +299,6 @@ LOCATION:11-26
 DTSTART:20261202T170000Z
 SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
 UID:2066cd495173296203ae42763bac840b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261116T164500Z
-LOCATION:24-402
-DTSTART:20261116T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:042c834f137f49866e426aed573555c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -334,11 +318,19 @@ UID:75c700485991f020f6983a14227a839f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261019T164500Z
-LOCATION:24-402
-DTSTART:20261019T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:432f897f46e587d4ee4b29ea5fd510d2
+DTEND:20260914T164500Z
+LOCATION:11-34
+DTSTART:20260914T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:14e91af3cc7a1c8d3ed1c0ecee55dee7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261005T150000Z
+LOCATION:11-34
+DTSTART:20261005T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:ce5cb88aa77916273eb24cba3764f80d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -349,20 +341,12 @@ SUMMARY:ПЗ Планирование эксперимента и методы �
 UID:6d0bb588a0748bcf4f013ad54e69c0a2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261005T164500Z
-LOCATION:24-402
-DTSTART:20261005T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:bca30ab070b8b7d253b09f43e014198b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261207T164500Z
-LOCATION:24-402
-DTSTART:20261207T151500Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:d5916336eda16e795fd48515bdf16e0c
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261013T150000Z
+LOCATION:11-26
+DTSTART:20261013T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:82758e77372e624a7a90aacc5c38bd35
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260929T164500Z
@@ -377,22 +361,6 @@ LOCATION:1-12
 DTSTART:20261124T170000Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:1bd9ffb7e7d365d4602158a03c353013
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261102T150000Z
-LOCATION:24-402
-DTSTART:20261102T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:660cc06b88848792715104f3f3f71731
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260921T164500Z
-LOCATION:24-402
-DTSTART:20260921T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:2f6efcfae011829a35dd81ff9924d525
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261020T183000Z
@@ -410,6 +378,14 @@ SUMMARY:ПЗ Компьютерные технологии моделирова�
 UID:9a64bd166b945001710980a10423b43c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261027T150000Z
+LOCATION:11-26
+DTSTART:20261027T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:4369505972d3297a2c7e787651338d32
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
 DTEND:20261120T150000Z
 LOCATION:11-12
@@ -418,11 +394,12 @@ SUMMARY:ЛК Технико-экономический анализ проект
 UID:5495fc15a9ef6cd8c94fd4cd42e19b21
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261215T183000Z
-LOCATION:24-744
-DTSTART:20261215T170000Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:a7737887801f9a929e1844e8739f6f3d
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260928T183000Z
+LOCATION:11-34
+DTSTART:20260928T170000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:5d4b3e7a92e6059bde9f6657c7c8829d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -431,6 +408,13 @@ LOCATION:11-12
 DTSTART:20261120T151500Z
 SUMMARY:ПЗ Технико-экономический анализ проектных решений
 UID:0788b682e43b33673f9e13e7aeeab69a
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261215T183000Z
+LOCATION:24-744
+DTSTART:20261215T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a7737887801f9a929e1844e8739f6f3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -465,20 +449,28 @@ SUMMARY:ЛК Технико-экономический анализ проект
 UID:c5bb16d0d5a5aedaa91efef50514eced
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261026T164500Z
-LOCATION:24-402
-DTSTART:20261026T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:72ca1cb036e5d55875a1373cf90b47b4
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261215T150000Z
+LOCATION:11-26
+DTSTART:20261215T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:a9d95167f3df8348d337c916ecb2c39d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260907T150000Z
-LOCATION:24-402
-DTSTART:20260907T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:8e7ddfd65496410b7bf6d59a2fa43e70
+DTEND:20261012T183000Z
+LOCATION:11-34
+DTSTART:20261012T170000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:33f4fc0ca8f3dd6573eb40a231518662
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261102T183000Z
+LOCATION:11-34
+DTSTART:20261102T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:809614ac2447bacbb1ae0dcb9a03c240
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -487,6 +479,22 @@ LOCATION:11-34
 DTSTART:20261125T151500Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:76b9435dece8c71dd0086832be601ddc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261207T150000Z
+LOCATION:11-34
+DTSTART:20261207T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:323ff71dfbcdb425e27aa544e6a5eece
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261116T164500Z
+LOCATION:11-34
+DTSTART:20261116T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:83d561110dadb94a5c3b16ea6756abda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -513,14 +521,6 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:9e03b04f395b8336127e2f66c3d442bc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260928T164500Z
-LOCATION:24-402
-DTSTART:20260928T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:05f43516c060ff627be5dbcbcae093b8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
 DTEND:20261021T150000Z
 LOCATION:11-33
@@ -534,38 +534,6 @@ LOCATION:1-12
 DTSTART:20261110T170000Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:6965c4e1bab22e69fc08c05d4c62bca9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260914T164500Z
-LOCATION:24-402
-DTSTART:20260914T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:dafa16fe66f5becb326c8fe9e0c8f9a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261012T183000Z
-LOCATION:24-402
-DTSTART:20261012T170000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:80c4061559e0d0b46a7b7753ddf6edf9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261029T183000Z
-LOCATION:11-34
-DTSTART:20261029T170000Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:dba91a859877bfd6dc545114c446e16c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261207T150000Z
-LOCATION:24-402
-DTSTART:20261207T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:2cd91484534c1c02b22531426c77c2fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -607,6 +575,14 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:aab9d822fe5cc3f332fc50ab0dcb1b45
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260907T150000Z
+LOCATION:11-34
+DTSTART:20260907T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:75cdbf947ed3768454d905484760d4a3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
 DTEND:20261028T164500Z
 LOCATION:11-34
@@ -621,6 +597,14 @@ LOCATION:24-419
 DTSTART:20260910T133000Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:dd6260856d2863166137bc43a5fd991c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261012T150000Z
+LOCATION:11-34
+DTSTART:20261012T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:5c4f04d0efcf4160fb6f1b738fb2af98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -639,14 +623,6 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:423092fbde164147876f176dcf6b842e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Оделевский Владимир Константинович
-DTEND:20261209T183000Z
-LOCATION:24-439
-DTSTART:20261209T170000Z
-SUMMARY:ПЗ Коммерциализация космической деятельности
-UID:864c2a11cef376049be5405214268e50
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
 DTEND:20261009T164500Z
 LOCATION:11-12
@@ -661,6 +637,14 @@ LOCATION:11-12
 DTSTART:20261030T133000Z
 SUMMARY:ЛК Технико-экономический анализ проектных решений
 UID:a7e0c67c698da1f13158831091b6bbbe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оделевский Владимир Константинович
+DTEND:20261209T183000Z
+LOCATION:24-439
+DTSTART:20261209T170000Z
+SUMMARY:ПЗ Коммерциализация космической деятельности
+UID:864c2a11cef376049be5405214268e50
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -684,6 +668,14 @@ LOCATION:1-12
 DTSTART:20261124T151500Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:ca5679326cc928bc465a421f3901e5db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261012T164500Z
+LOCATION:11-34
+DTSTART:20261012T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:5cd922f1e47b98eeb92021dc2d80c095
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -717,12 +709,12 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:8414bd8b5f18bc74d6e25927b03af7e5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261029T164500Z
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261019T150000Z
 LOCATION:11-34
-DTSTART:20261029T151500Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:a3640ddd14e34b5f3393b2aa84b57f3f
+DTSTART:20261019T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:1ac708de879abf709a39c68464fec7e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -740,20 +732,20 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:1df8d2716848eb56f4d432456ab164b1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261123T164500Z
+LOCATION:11-34
+DTSTART:20261123T151500Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:de3e691297e98a9fe07d330bee91f44f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
 DTEND:20261209T164500Z
 LOCATION:11-34
 DTSTART:20261209T151500Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:36b4204b079d27f761d5d85ca46c54a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261109T183000Z
-LOCATION:24-402
-DTSTART:20261109T170000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:ed78ce619b986604695f61c710be304d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261020T164500Z
@@ -787,6 +779,14 @@ SUMMARY:ПЗ Коммерциализация космической деяте�
 UID:fbb9a7e60585a53c09e77084a7fc009e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260907T164500Z
+LOCATION:11-34
+DTSTART:20260907T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:ff5992ecab5f3dd1de0e1b7c011a88d3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
 DTEND:20261127T150000Z
 LOCATION:11-12
@@ -796,11 +796,19 @@ UID:df34a3b5665ca04a8968a7b9fbfedfd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20260903T164500Z
-LOCATION:11-34
-DTSTART:20260903T151500Z
+DTEND:20261208T150000Z
+LOCATION:11-26
+DTSTART:20261208T133000Z
 SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:6d8faac9fa4df17e54de7168b950fa70
+UID:7438fbc78dc549ff2cf9688f0a2f8d34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261116T183000Z
+LOCATION:11-34
+DTSTART:20261116T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:5417eb513fb02a0898faa743348fb2b3
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260901T183000Z
@@ -811,11 +819,19 @@ UID:6401cf799b95a553a5257036196422bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261026T150000Z
-LOCATION:24-402
-DTSTART:20261026T133000Z
+DTEND:20261130T150000Z
+LOCATION:11-34
+DTSTART:20261130T133000Z
 SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:862a4f39b80cbc5c1fbb5cb231b0848b
+UID:63604c84dd1037e6054ae48d0642f536
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261214T164500Z
+LOCATION:11-34
+DTSTART:20261214T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:64d52fc06b5e4d6404f4954227ada3c4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -834,6 +850,14 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:034be777ae78e554130b83d66c661578
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261109T164500Z
+LOCATION:11-34
+DTSTART:20261109T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:138fe6734f9159ba745a6a11dc58302e
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260922T183000Z
 LOCATION:1-12
 DTSTART:20260922T170000Z
@@ -850,27 +874,11 @@ UID:957665478f02d4ce1ab0fcabb15b827e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260928T183000Z
-LOCATION:24-402
-DTSTART:20260928T170000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:9e2158642c40eed49298964f420c0255
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261019T150000Z
-LOCATION:24-402
-DTSTART:20261019T133000Z
+DTEND:20261123T150000Z
+LOCATION:11-34
+DTSTART:20261123T133000Z
 SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:a9b151e5b8d434e5d3fbff2d95b976f4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261012T150000Z
-LOCATION:24-402
-DTSTART:20261012T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:500d0db7db774cf508dc422aa0fb5f24
+UID:1e0262a6e09ef17313662141aafa824d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -881,12 +889,12 @@ SUMMARY:ПЗ Планирование эксперимента и методы �
 UID:c3ca7015437cde430ef96d5af101eb59
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261005T183000Z
-LOCATION:24-402
-DTSTART:20261005T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:def2f8b724ef8c88702ec630b035317d
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261006T150000Z
+LOCATION:11-26
+DTSTART:20261006T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:a9755c2892b7ef3d4ed64153c396efb1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -895,6 +903,22 @@ LOCATION:11-34
 DTSTART:20260916T133000Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:d65a441283e0cc49d9ac77f2c7a95de7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260921T164500Z
+LOCATION:11-34
+DTSTART:20260921T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:be438127d4851975efee043951464a07
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260928T164500Z
+LOCATION:11-34
+DTSTART:20260928T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:fc4de6c263f56b53b6bc8ef925521246
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -920,6 +944,14 @@ SUMMARY:ПЗ Коммерциализация космической деяте�
 UID:a5c1fa30747c032a343c051b8551f09d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261214T183000Z
+LOCATION:11-34
+DTSTART:20261214T170000Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:34320bcbc561f17561ad4ad64d74d773
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261027T164500Z
 LOCATION:24-600а
 DTSTART:20261027T151500Z
@@ -943,12 +975,20 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:da34ab1d7a062f307e27da5b94e81da3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261117T150000Z
+LOCATION:11-26
+DTSTART:20261117T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:8e92f7b6b944e45e44114838b9dc6d6e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261214T183000Z
-LOCATION:24-402
-DTSTART:20261214T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:617b68a2774e09896ebdef98a3747477
+DTEND:20260921T150000Z
+LOCATION:11-34
+DTSTART:20260921T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:d2f59ff1e7b9fd55f1cae9f6334ba057
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261027T183000Z
@@ -958,20 +998,20 @@ SUMMARY:ЛР Занятие в группах индивидуальных тр�
 UID:ab9f58522e8a3548220960da07886833
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260914T150000Z
-LOCATION:24-402
-DTSTART:20260914T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:83145fe7efcf27e4ebe2e3827a9aed72
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
 DTEND:20261021T164500Z
 LOCATION:11-26
 DTSTART:20261021T151500Z
 SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
 UID:eb7d3d835becc2e98a586442097b4615
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261201T150000Z
+LOCATION:11-26
+DTSTART:20261201T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:f19dae98cdf62c7d0e55a1efb5486d94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -990,11 +1030,27 @@ SUMMARY:ЛК Коммерциализация космической деяте�
 UID:b4ad450d9f601b30e5ecaedf0866f9ba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261207T164500Z
+LOCATION:11-34
+DTSTART:20261207T151500Z
+SUMMARY:ПЗ Тепловое проектирование космических аппаратов
+UID:bbbe44d15b996ca38923796efc7ce4a5
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260915T164500Z
 LOCATION:24-600а
 DTSTART:20260915T151500Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:c98322f23a7e4dc99657869cb273ecb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260928T150000Z
+LOCATION:11-34
+DTSTART:20260928T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:b154417a7c05bedac4d0655ae2259a00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -1006,19 +1062,11 @@ UID:7dcded17764c2153334cf4db17ebd758
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261130T164500Z
-LOCATION:24-402
-DTSTART:20261130T151500Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:10d606a6c38d86d26f60157755efd272
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260914T183000Z
-LOCATION:24-402
-DTSTART:20260914T170000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:01967fe843db4701f07ac0bc2b59b020
+DTEND:20261109T150000Z
+LOCATION:11-34
+DTSTART:20261109T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:22ccd88b6faa3b64007eaaa81f46bafb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -1030,11 +1078,11 @@ UID:807b40a9265f033ea39df3b7dca73321
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261126T183000Z
-LOCATION:11-34
-DTSTART:20261126T170000Z
+DTEND:20261124T150000Z
+LOCATION:11-26
+DTSTART:20261124T133000Z
 SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:f638f6ec5caf709982d8c95aa9d51080
+UID:5fcbd3a621cfa6ee7e75f000a4d5d5f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -1068,20 +1116,20 @@ SUMMARY:ЛК Занятие в группах индивидуальных тр�
 UID:404412d49b28b24a405ebb28c5f9b2fd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261109T164500Z
-LOCATION:24-402
-DTSTART:20261109T151500Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:0c7f7100d11569fd60d969f0f0889b5d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20260930T183000Z
 LOCATION:24-439
 DTSTART:20260930T170000Z
 SUMMARY:ПЗ Коммерциализация космической деятельности
 UID:f524f298ec7948c3af91f7ee0a0ea2c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261026T183000Z
+LOCATION:11-34
+DTSTART:20261026T170000Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:9768f82aca9b0574586fa33922715d85
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
@@ -1092,12 +1140,20 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:e92267aab81bb70e9e3ebaf8dc21b2c8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261112T183000Z
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261214T150000Z
 LOCATION:11-34
-DTSTART:20261112T170000Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:ccd32da9f1b9912134a3526a6c0e5fbd
+DTSTART:20261214T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:c0effda51e1e9fc23b9c883b1a192ce9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261019T164500Z
+LOCATION:11-34
+DTSTART:20261019T151500Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:81beaf7ac3b52269271d05d521b30c34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сесюкалов Владимир Алексеевич
@@ -1133,11 +1189,11 @@ UID:d139d39ee36d8bc902fc3260943e3fa5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261102T183000Z
-LOCATION:24-402
-DTSTART:20261102T170000Z
+DTEND:20261130T183000Z
+LOCATION:11-34
+DTSTART:20261130T170000Z
 SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:09ac7f5b6353db91feaf788b208e8bb9
+UID:25dde73445b590c8fb59fed9490b01ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -1148,6 +1204,22 @@ SUMMARY:ПЗ Коммерциализация космической деяте�
 UID:bec3a0f804d0827481eb225431b0bc6d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261026T164500Z
+LOCATION:11-34
+DTSTART:20261026T151500Z
+SUMMARY:ЛК Тепловое проектирование космических аппаратов
+UID:b3adda7307ef8a20451746a936ca6f0b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ненарокомов Алексей Владимирович
+DTEND:20261110T150000Z
+LOCATION:11-26
+DTSTART:20261110T133000Z
+SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
+UID:3784dbda730039d9ae7bf4131c12a2ec
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Федотов Дмитрий Михайлович
 DTEND:20261204T164500Z
 LOCATION:11-12
@@ -1156,12 +1228,12 @@ SUMMARY:ПЗ Технико-экономический анализ проект
 UID:d049002981059346b0cf185689d2596a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20260917T183000Z
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20260914T150000Z
 LOCATION:11-34
-DTSTART:20260917T170000Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:b2033e3ea4467463f7e803d58df8d099
+DTSTART:20260914T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:1033012798f7c7753dd9e1fdb69bd1d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -1173,43 +1245,11 @@ UID:2170fedc2696f65f824481a72c6832e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261109T150000Z
-LOCATION:24-402
-DTSTART:20261109T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:08fd118e15542c47d777f4652d3cc80f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261001T164500Z
+DTEND:20261221T164500Z
 LOCATION:11-34
-DTSTART:20261001T151500Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:27f2ff5e1646e33ae8e55ddbb37a59d6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261214T150000Z
-LOCATION:24-402
-DTSTART:20261214T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:6a740c733736067008dd78915ab47982
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261019T183000Z
-LOCATION:24-402
-DTSTART:20261019T170000Z
+DTSTART:20261221T151500Z
 SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:6aa0fdb087f03410c119087b313564bb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20260903T183000Z
-LOCATION:11-34
-DTSTART:20260903T170000Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:2f5313d88376bfa536e54d9dd314042a
+UID:dff9ae931b0b8d5f1f896a00ff818d3b
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261006T164500Z
@@ -1234,35 +1274,11 @@ UID:941e74dd39d6abb76cd170bbda061bda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261026T183000Z
-LOCATION:24-402
-DTSTART:20261026T170000Z
-SUMMARY:ЛК Тепловое проектирование космических аппаратов
-UID:adfb1dd1711c84748a164642e1cefcaf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261130T183000Z
-LOCATION:24-402
-DTSTART:20261130T170000Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:dc68e02fc99a2e64eeaa4d09b43f6ae4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261116T150000Z
-LOCATION:24-402
-DTSTART:20261116T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:f3a7eddfc22aeb18f7f7a47725ffc4e1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261015T164500Z
+DTEND:20261221T150000Z
 LOCATION:11-34
-DTSTART:20261015T151500Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:9a73adc7a77037c56adc165075b778d4
+DTSTART:20261221T133000Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:32bf1edb2889c9b66ad6c2db5ca080e5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260929T183000Z
@@ -1280,20 +1296,11 @@ SUMMARY:ПЗ Компьютерные технологии моделирова�
 UID:cf8a449865581ff88bd1d6c155233e40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20260928T150000Z
-LOCATION:24-402
-DTSTART:20260928T133000Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:0b08914f8c48883d6155bcd4b8bbc989
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ненарокомов Алексей Владимирович
-DTEND:20261126T164500Z
-LOCATION:11-34
-DTSTART:20261126T151500Z
-SUMMARY:ЛК Планирование эксперимента и методы обработка экспериментальных данных
-UID:3d6e1362e3df9d4dfdd77ab78f8195ed
+DTEND:20261201T164500Z
+LOCATION:24-744
+DTSTART:20261201T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:7fb38a94e416340588970c6ca4ce7291
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриненко Александр Сергеевич
@@ -1304,11 +1311,12 @@ SUMMARY:ПЗ Планирование эксперимента и методы �
 UID:0dd1956ea8cbc5d4157512f2c55bac51
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261201T164500Z
-LOCATION:24-744
-DTSTART:20261201T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:7fb38a94e416340588970c6ca4ce7291
+DESCRIPTION:Гриненко Александр Сергеевич
+DTEND:20261216T183000Z
+LOCATION:11-26
+DTSTART:20261216T170000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:8e285a1e17f408ecc556d8733282a9ad
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261110T164500Z
@@ -1332,21 +1340,5 @@ LOCATION:11-12
 DTSTART:20261023T151500Z
 SUMMARY:ПЗ Технико-экономический анализ проектных решений
 UID:974cb73c00427b288e4197d3a62775ed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриненко Александр Сергеевич
-DTEND:20261216T183000Z
-LOCATION:11-26
-DTSTART:20261216T170000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:8e285a1e17f408ecc556d8733282a9ad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261123T164500Z
-LOCATION:24-402
-DTSTART:20261123T151500Z
-SUMMARY:ПЗ Тепловое проектирование космических аппаратов
-UID:70942048495692fd75026ae45ea9c964
 END:VEVENT
 END:VCALENDAR
