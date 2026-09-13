@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20260908T164500Z
-LOCATION:2-203(2В)
-DTSTART:20260908T151500Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:ad9e5b203e2363bbc372e051abe2cf9c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ермакова Мария Олеговна
 DTEND:20260917T183000Z
 LOCATION:2-211(2А)
@@ -24,6 +16,14 @@ LOCATION:2-208(2А)
 DTSTART:20261130T151500Z
 SUMMARY:ЛР Основы проектирования технологических процессов
 UID:c132478d37e0d07c34ea85e8394b296b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261201T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261201T170000Z
+SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:c45e5e3e81aee7b0318490f7dc3e2ddd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
@@ -64,6 +64,14 @@ LOCATION:2-111(2А)
 DTSTART:20260921T151500Z
 SUMMARY:ЛК Основы проектирования технологических процессов
 UID:fb73c306c993630f459d36a3b1f5c811
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20260924T164500Z
+LOCATION:2-202(2В)
+DTSTART:20260924T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:b1c748f61557eb4fa0cfbb628109f65c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рожкова Маргарита Владимировна
@@ -114,12 +122,12 @@ SUMMARY:ЛК Методы и средства контроля и измерен
 UID:b1c1810479902860f4429411585b077d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20260924T164500Z
-LOCATION:2-203(2В)
-DTSTART:20260924T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:b91f2cf7ce8b3c6dc4e12ceed7884a28
+DESCRIPTION:Кравцов Дмитрий Александрович
+DTEND:20261116T164500Z
+LOCATION:2-208(2А)
+DTSTART:20261116T151500Z
+SUMMARY:ЛР Основы проектирования технологических процессов
+UID:afa994032b5b5138bad740fddcfa7d3b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
@@ -128,14 +136,6 @@ LOCATION:2-22(2Б)
 DTSTART:20261007T151500Z
 SUMMARY:ЛК Динамика и прочность
 UID:1217c87165d57bf80b0b1caaf00032c4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кравцов Дмитрий Александрович
-DTEND:20261116T164500Z
-LOCATION:2-208(2А)
-DTSTART:20261116T151500Z
-SUMMARY:ЛР Основы проектирования технологических процессов
-UID:afa994032b5b5138bad740fddcfa7d3b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
@@ -178,6 +178,14 @@ SUMMARY:ПЗ Основы проектирования технологичес�
 UID:bc65e264c2d1f86d8c389b209f27f9c3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20261203T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261203T151500Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:8a43d75365fa9f34f720f76850a39d5b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ермакова Мария Олеговна
 DTEND:20261029T183000Z
 LOCATION:2-211(2А)
@@ -186,20 +194,36 @@ SUMMARY:ПЗ Методы и средства контроля и измерен
 UID:053a43489744d3c53c3c7f2e1a2f383a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261105T164500Z
-LOCATION:2-111(2А)
-DTSTART:20261105T151500Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:1d4607195af9ceb6fd9d0452ca999a6c
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20260922T183000Z
+LOCATION:2-202(2В)
+DTSTART:20260922T170000Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:f486b00ff99139fc2d67c015141b1cae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261201T183000Z
-LOCATION:2-110(2Г)
-DTSTART:20261201T170000Z
+DTEND:20261215T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261215T151500Z
 SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:97113f0101ed4ed24075d79de4a4633a
+UID:169d1a4ee4e4715cca24bfcf458d2f33
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20260922T164500Z
+LOCATION:2-202(2В)
+DTSTART:20260922T151500Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:46f6200162d0687de114243991737c49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20261008T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261008T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:4b43a227dbf72711cbcbf442d13ba685
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гнесин Евгений Михайлович
@@ -275,19 +299,11 @@ UID:a7f96de59387ee7608c0bdb6214f8103
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261119T164500Z
-LOCATION:2-111(2А)
-DTSTART:20261119T151500Z
+DTEND:20261119T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261119T170000Z
 SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:fad39eba4a0b79d4a88336e4918ea839
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261117T183000Z
-LOCATION:2-203(2В)
-DTSTART:20261117T170000Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:0f6efd5783e7dac6969463042035dc14
+UID:53215744e8e156e385fc879c680441f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Канев Степан Васильевич
@@ -338,6 +354,22 @@ SUMMARY:ПЗ Основы CAE технологий. Прочностные ра�
 UID:56f917cc64543c3f8ca0ea34d6d9745e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261006T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261006T151500Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:4569d72f50dd83cd8e5e597316dc66cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261020T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261020T170000Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:b0e95e98ca710848763c246d45f74eca
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Рожкова Маргарита Владимировна
 DTEND:20260918T183000Z
 LOCATION:2-212(2В)
@@ -363,19 +395,11 @@ UID:cc773a103bbaedaa16630be87676cd14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261203T164500Z
-LOCATION:2-111(2А)
-DTSTART:20261203T151500Z
+DTEND:20261119T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261119T151500Z
 SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:b632df871790fbd42ee485393782bae8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20260922T164500Z
-LOCATION:2-203(2В)
-DTSTART:20260922T151500Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:3040d2b884f1cda41ff954f334669dfd
+UID:b94afcf0008426a77d4e18bd484fa8fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
@@ -384,6 +408,14 @@ LOCATION:2-111(2В)
 DTSTART:20261012T151500Z
 SUMMARY:ПЗ Основы CAE технологий. Прочностные расчеты
 UID:267a24214503124ad5549ad3f562dc3a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20260908T183000Z
+LOCATION:2-202(2В)
+DTSTART:20260908T170000Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:2d08e337bd8572865dec927da836ef74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Канев Степан Васильевич
@@ -482,22 +514,6 @@ SUMMARY:ЛК Основы проектирования технологичес�
 UID:c1852b2f72038047d20b868eba163c9d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261006T183000Z
-LOCATION:2-203(2В)
-DTSTART:20261006T170000Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:7dc244a9aaf266f57b08f6532bab5867
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261022T164500Z
-LOCATION:2-203(2В)
-DTSTART:20261022T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:2e20fa5009bde65554d606bda6396a06
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
 DTEND:20261021T183000Z
 LOCATION:2-22(2Б)
@@ -547,11 +563,11 @@ UID:1d697c4edf93c6fbfb0ae1377c614a3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20260908T183000Z
-LOCATION:2-203(2В)
-DTSTART:20260908T170000Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:4c9a4076b5b40cfe811ca42309cf5432
+DTEND:20261215T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261215T170000Z
+SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:bc19c060f4227d0f2985399af04b0be0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Канев Степан Васильевич
@@ -562,28 +578,12 @@ SUMMARY:ЛК Методы математического моделирован�
 UID:18dfdc6182b69596cdd3bb435079abc9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261201T164500Z
-LOCATION:2-110(2Г)
-DTSTART:20261201T151500Z
-SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:c6ef04497fc358710939d8bb8e7de15d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
 DTEND:20261207T164500Z
 LOCATION:2-111(2В)
 DTSTART:20261207T151500Z
 SUMMARY:ПЗ Основы CAE технологий. Прочностные расчеты
 UID:4a16b05c1100699f5bab003b45777701
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261008T164500Z
-LOCATION:2-203(2В)
-DTSTART:20261008T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:223ea2cfb16eeb897240bae30cda46b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Канев Степан Васильевич
@@ -608,6 +608,14 @@ LOCATION:2-212(2В)
 DTSTART:20261016T151500Z
 SUMMARY:ЛР Теория и расчет лопаточных машин
 UID:7fc3b66b4bf202cc9aab40051967d5da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20260908T164500Z
+LOCATION:2-202(2В)
+DTSTART:20260908T151500Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:be00ae19dbd56c9940fe1e6e6d6fa9d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рожкова Маргарита Владимировна
@@ -651,11 +659,19 @@ UID:30db5fc665ba8e8641f6600b7b1c1107
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261215T183000Z
-LOCATION:2-110(2Г)
-DTSTART:20261215T170000Z
-SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:07563e26a3a8d06932fe2382ca366171
+DTEND:20261117T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261117T170000Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:45b5d84dc3090e6824bef5f11491c3f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20261022T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261022T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:2eb948c5f3be7ef21e0b47c2c1efc83b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гнесин Евгений Михайлович
@@ -688,6 +704,22 @@ LOCATION:2-211(2А)
 DTSTART:20260903T151500Z
 SUMMARY:ЛК Методы и средства контроля и измерений
 UID:436da2c2e3332d303b77481a3d4d1275
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261020T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261020T151500Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:4f03b022231456491bd6ac60255a7ae5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20261203T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261203T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:773c37894ec4511f85e3899bf21f312e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
@@ -738,6 +770,14 @@ SUMMARY:ЛК Методы математического моделирован�
 UID:ce4f6a5b278c7567d8cf9131438b2244
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20260910T164500Z
+LOCATION:2-202(2В)
+DTSTART:20260910T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:ef631f35bbc163204964dceedb313c22
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
 DTEND:20260928T164500Z
 LOCATION:2-111(2В)
@@ -752,6 +792,14 @@ LOCATION:2-111(2А)
 DTSTART:20261228T151500Z
 SUMMARY:ПЗ Основы проектирования технологических процессов
 UID:2c7d27934e224a848fe1c34a85cb8d5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261006T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261006T170000Z
+SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:3f1683cebeaf8213633283f0f94584a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
@@ -794,14 +842,6 @@ SUMMARY:ПЗ Основы CAE технологий. Прочностные ра�
 UID:fa1e4304f582bebf4e41aa284bc7bec5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261020T164500Z
-LOCATION:2-203(2В)
-DTSTART:20261020T151500Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:c15b550d55aca5ba973938b52113c2df
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гнесин Евгений Михайлович
 DTEND:20260925T164500Z
 LOCATION:2-212(2В)
@@ -811,11 +851,11 @@ UID:e7ce2238959b7b4d3e1d4cc83e614890
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
-DTEND:20260910T164500Z
-LOCATION:2-203(2В)
-DTSTART:20260910T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:3edb3d3262f09644261dcdded23745a3
+DTEND:20261105T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261105T151500Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:2a3cc63dd19197346f7bcc44954255fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гнесин Евгений Михайлович
@@ -844,26 +884,10 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кочетков Юрий Михайлович
 DTEND:20261117T164500Z
-LOCATION:2-203(2В)
+LOCATION:2-202(2В)
 DTSTART:20261117T151500Z
 SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:6526e5d32247fc5887dc7aaabffb1cbd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261215T164500Z
-LOCATION:2-110(2Г)
-DTSTART:20261215T151500Z
-SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:bb09b9f9612e3df5fd2ffd51d56204ff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261119T183000Z
-LOCATION:2-111(2А)
-DTSTART:20261119T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:09ec8652deaead6548e497ee3836d21d
+UID:436436178bb8421419be29cc53e4b66b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермакова Мария Олеговна
@@ -898,14 +922,6 @@ SUMMARY:ЛК Динамика и прочность
 UID:0c8bda78d3da103250de8dbada0e2097
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20260922T183000Z
-LOCATION:2-203(2В)
-DTSTART:20260922T170000Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:f56c3167ab2f65cd761e2c5f62e9e532
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
 DTEND:20260923T183000Z
 LOCATION:2-22(2Б)
@@ -920,6 +936,14 @@ LOCATION:2-111(2А)
 DTSTART:20261228T170000Z
 SUMMARY:ПЗ Основы проектирования технологических процессов
 UID:162c4bad540b62f6e9b93599dfe4a0a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20261105T183000Z
+LOCATION:2-202(2В)
+DTSTART:20261105T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:be29de93b5be92257c2d9e7f70f4e3a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
@@ -952,14 +976,6 @@ LOCATION:2-111(2А)
 DTSTART:20261005T170000Z
 SUMMARY:ЛК Основы проектирования технологических процессов
 UID:fef88b2b7588b22e28efbb4626a62ae8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261020T183000Z
-LOCATION:2-203(2В)
-DTSTART:20261020T170000Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:7136ca7566d5eaccd57d2f720f7a242c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
@@ -1008,6 +1024,14 @@ LOCATION:2-111(2В)
 DTSTART:20261109T170000Z
 SUMMARY:ПЗ Основы CAE технологий. Прочностные расчеты
 UID:e8ff2115fd841e31f46976767124e470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кочетков Юрий Михайлович
+DTEND:20261201T164500Z
+LOCATION:2-202(2В)
+DTSTART:20261201T151500Z
+SUMMARY:ЛР Топлива и рабочие процессы в авиационных и ракетных двигателях
+UID:4569b61219460ba11c451b9760205888
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Асланян Ирина Рудиковна
@@ -1066,14 +1090,6 @@ SUMMARY:ПЗ Основы CAE технологий. Прочностные ра�
 UID:2fe11d3cb798521294a36394f857c91a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кочетков Юрий Михайлович
-DTEND:20261006T164500Z
-LOCATION:2-203(2В)
-DTSTART:20261006T151500Z
-SUMMARY:ЛК Топлива и рабочие процессы в авиационных и ракетных двигателях
-UID:a697604fd038718af958fd17db79a8d1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сабитов Роман Альбертович
 DTEND:20261012T183000Z
 LOCATION:2-111(2В)
@@ -1090,14 +1106,6 @@ SUMMARY:ЛР Теория и расчет лопаточных машин
 UID:f51b62d7abdedbaafb407c9597f0f4ed
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261105T183000Z
-LOCATION:2-111(2А)
-DTSTART:20261105T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:224ce3f3c54ac246a2614f2d97b9e4ad
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кравцов Дмитрий Александрович
 DTEND:20260907T183000Z
 LOCATION:2-111(2А)
@@ -1112,14 +1120,6 @@ LOCATION:2-208(2А)
 DTSTART:20261130T170000Z
 SUMMARY:ЛР Основы проектирования технологических процессов
 UID:cd62bfcb3ed3d36a7d1ea6c916af7b6f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20261203T183000Z
-LOCATION:2-111(2А)
-DTSTART:20261203T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:63bd470eb48edb1b84c409f14dd889ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
