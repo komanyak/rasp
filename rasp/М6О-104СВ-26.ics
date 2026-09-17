@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20261028T164500Z
-LOCATION:24-400
-DTSTART:20261028T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:0ce066397eb64b39d57bd56476b6ba5d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
 DTEND:20260924T183000Z
 LOCATION:24-215.1
@@ -23,14 +16,6 @@ LOCATION:24-406
 DTSTART:20261215T114500Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью в ракетно-космической отрасли
 UID:eb96ab2b061acbc9e022fe2f752b78e3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черкашина Эллина Александровна
-DTEND:20260915T183000Z
-LOCATION:24-314
-DTSTART:20260915T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:6ee8af6fbeca9434729ca69d936613ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -97,19 +82,28 @@ SUMMARY:ПЗ Управление проектами
 UID:9ceab2918eb0125e975c26c4e3e84e63
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261111T164500Z
-LOCATION:24-400
-DTSTART:20261111T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:8d0da491867556fb773faecad8ae2f3f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20261201T164500Z
 LOCATION:24-400
 DTSTART:20261201T151500Z
 SUMMARY:ЛК Системный анализ
 UID:57a90e6498c2f71265c49788c1a0786f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260907T183000Z
+LOCATION:Орш. А-424
+DTSTART:20260907T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:9a87cfbc86fa1744d251cd95a29a52df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260921T164500Z
+LOCATION:Орш. А-424
+DTSTART:20260921T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:eefd52f6c4429d16077dcf2fbad837c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -144,19 +138,20 @@ SUMMARY:ЛК Научный семинар по ракетным система�
 UID:c7da4f944f4b50c9ae459756718855e9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260928T164500Z
-LOCATION:24-721
-DTSTART:20260928T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:37009c9aee966eda069d4030726e649e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
 DTEND:20260924T150000Z
 LOCATION:24-215.1
 DTSTART:20260924T133000Z
 SUMMARY:ЛК Научный семинар по ракетным системам и космонавтике
 UID:d8394b05f4edfff47639838d38705ba0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260928T164500Z
+LOCATION:24-721
+DTSTART:20260928T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:015d33d1b3932e9d12a09f4fc00a0328
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -175,11 +170,12 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:f1563d308c85499af0c5bfb564904177
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261012T183000Z
-LOCATION:24-721
-DTSTART:20261012T170000Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:339ef8bf993be9df4ecc47ae8f3fe47c
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261111T164500Z
+LOCATION:24-400
+DTSTART:20261111T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:bdac5c03e90ba2e3b146bef10cd004e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
@@ -190,18 +186,20 @@ SUMMARY:ПЗ Научный семинар по ракетным система�
 UID:113e1a8cc5ea3f9b3833b9b99ca09084
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260916T164500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261028T183000Z
 LOCATION:24-400
-DTSTART:20260916T151500Z
+DTSTART:20261028T170000Z
 SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:2de88e1f7d28a2093bc5716b25880f75
+UID:5ae600a583dda66608b41b69c4dd9343
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260907T183000Z
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261116T183000Z
 LOCATION:Орш. А-424
-DTSTART:20260907T170000Z
+DTSTART:20261116T170000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:b298f935e626242c3d8e5c90e9c02a66
+UID:9738c997f75ac89b385eeaaf26a21b28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -210,6 +208,14 @@ LOCATION:24-507.1
 DTSTART:20261007T133000Z
 SUMMARY:ЛК Организация научно-исследовательской деятельности
 UID:172ef512546acc97a9bab294f8c33375
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260907T164500Z
+LOCATION:Орш. А-424
+DTSTART:20260907T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:e6e0019af6d0422b027a62ad416bc92e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -228,26 +234,12 @@ SUMMARY:ЛК Управление проектами
 UID:246abeecd54c521314839a9b2a6c9fe3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261214T164500Z
-LOCATION:Орш. А-424
-DTSTART:20261214T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:ac4c8d8223f4574f40635616f8f44f3c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20261201T131500Z
 LOCATION:24-406
 DTSTART:20261201T114500Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью в ракетно-космической отрасли
 UID:dc1ea0342b280f5b43074e0b26464045
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261028T183000Z
-LOCATION:24-400
-DTSTART:20261028T170000Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:fa7fab3027641d353bdcce983981664a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
@@ -266,26 +258,20 @@ SUMMARY:ПЗ Управление интеллектуальной собств�
 UID:9fbc15e5fbff161b20a90d0bfaf8b311
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260907T164500Z
-LOCATION:Орш. А-424
-DTSTART:20260907T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:29c9dd3459a42a3c486b51fe7dd4da94
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260914T183000Z
-LOCATION:24-721
-DTSTART:20260914T170000Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:d141ba4bca986593c5bd6cf41c54e0c6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
 DTEND:20261123T150000Z
 LOCATION:5-422
 DTSTART:20261123T133000Z
 SUMMARY:ПЗ Управление проектами
 UID:e2b63181d40ad70bf73feb58e983396b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261014T164500Z
+LOCATION:24-400
+DTSTART:20261014T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:5e52cff1c40284c2dce1b1c0d4395404
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -296,11 +282,12 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:34e247b41c7be94701e5962100db9b0e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260930T183000Z
-LOCATION:24-400
-DTSTART:20260930T170000Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:bef04a4efd633a055d5508aa9e453d73
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261005T183000Z
+LOCATION:Орш. А-424
+DTSTART:20261005T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:032d20506936a21d31033e067bf68d81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
@@ -335,6 +322,14 @@ SUMMARY:ЛК Организация научно-исследовательск�
 UID:299716afc0f6324f10506e42762dd361
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260930T164500Z
+LOCATION:24-400
+DTSTART:20260930T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:775259da58fb031fed55cb74f8956ca3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
 DTEND:20260910T183000Z
 LOCATION:24-215.1
@@ -359,19 +354,20 @@ SUMMARY:ПЗ Научный семинар по ракетным система�
 UID:7d2313a9b70967a1ec76c5c03eef41c9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261207T183000Z
+LOCATION:24-721
+DTSTART:20261207T170000Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:a03db6e6f5921e31d16a93a235b6a5ff
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20261020T164500Z
 LOCATION:24-400
 DTSTART:20261020T151500Z
 SUMMARY:ЛК Системный анализ
 UID:0455532c3ba14d19ffe78f0c3164618b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261014T164500Z
-LOCATION:24-400
-DTSTART:20261014T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:6644f0c6d9432d8939615e366b326470
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -382,26 +378,28 @@ SUMMARY:ПЗ Организация научно-исследовательск�
 UID:53db5929a743ac4bc5a8c6282d0bb5ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261130T164500Z
-LOCATION:Орш. А-424
-DTSTART:20261130T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:e903c10bc11b0a82606cc68b42f8d48d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261102T164500Z
-LOCATION:Орш. А-424
-DTSTART:20261102T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:8294780b1c35e21822b394ec5803db96
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
 DTEND:20261118T150000Z
 LOCATION:24-507.1
 DTSTART:20261118T133000Z
 SUMMARY:ЛК Организация научно-исследовательской деятельности
 UID:69cc770314135762e51bc49c2fb4dfd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261214T164500Z
+LOCATION:Орш. А-424
+DTSTART:20261214T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:c063e1cc11e9521e07b593ddb32b90e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261102T183000Z
+LOCATION:Орш. А-424
+DTSTART:20261102T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:4493a9fdea21c91780694550719bf114
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
@@ -418,6 +416,14 @@ LOCATION:24-507.1
 DTSTART:20261216T151500Z
 SUMMARY:ЛК Организация научно-исследовательской деятельности
 UID:9a6779777e9bd4c18605e5cc7dced39a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261012T164500Z
+LOCATION:24-721
+DTSTART:20261012T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:927af72d44f08c9500443feb2f780c48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -476,13 +482,6 @@ SUMMARY:ПЗ Организация научно-исследовательск�
 UID:201005f642a16ff8df10357fd7d71b53
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T164500Z
-LOCATION:Орш. А-424
-DTSTART:20261005T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:6a4b25f149c4dd7bece0d07ef9c3d572
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
 DTEND:20261209T183000Z
 LOCATION:24-507.1
@@ -491,11 +490,12 @@ SUMMARY:ПЗ Организация научно-исследовательск�
 UID:924b9ac87073b57ce67de4e1a853159a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T183000Z
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20260921T183000Z
 LOCATION:Орш. А-424
-DTSTART:20261005T170000Z
+DTSTART:20260921T170000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:52b8e9f1c2b79e9a796f49c7ef408ca7
+UID:1b3bb57d56e2151875bbaf6bdbd42334
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -506,13 +506,6 @@ SUMMARY:ПЗ Организация научно-исследовательск�
 UID:3ae1dfc03bf57c6faf6d5c6a763e3794
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261012T164500Z
-LOCATION:24-721
-DTSTART:20261012T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:e889ba5eb58ef50096b542ad43a278c3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20260908T164500Z
 LOCATION:24-400
@@ -521,11 +514,12 @@ SUMMARY:ЛК Системный анализ
 UID:480f91599d29c9cb03b7f462e830df94
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261207T164500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260928T183000Z
 LOCATION:24-721
-DTSTART:20261207T151500Z
+DTSTART:20260928T170000Z
 SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:29a246c9a38976e85bfd806880d3fce6
+UID:db730e304d0039d773e509bea5e19993
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -552,6 +546,14 @@ SUMMARY:ЛК Научный семинар по ракетным система�
 UID:d24a5e5535cf7494348805af82234487
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261012T183000Z
+LOCATION:24-721
+DTSTART:20261012T170000Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:88ec34ba94e64e12b78deb8499aac577
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20260922T150000Z
 LOCATION:24-400
@@ -568,11 +570,20 @@ SUMMARY:ПЗ Научный семинар по ракетным система�
 UID:a64c240e65c033f98758648ab6b57b60
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260916T183000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260914T183000Z
+LOCATION:24-721
+DTSTART:20260914T170000Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:82d845da386e9f424cf43d43d5a67934
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261028T164500Z
 LOCATION:24-400
-DTSTART:20260916T170000Z
+DTSTART:20261028T151500Z
 SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:9ac4a1c99f1626df63cb19e84897be29
+UID:3d6c7437fffad2a0a31725bf66bdd516
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
@@ -591,11 +602,20 @@ SUMMARY:ПЗ Управление проектами
 UID:ad413d93b49c926891ead13b859a0d0e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261014T183000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260902T164500Z
 LOCATION:24-400
-DTSTART:20261014T170000Z
+DTSTART:20260902T151500Z
 SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:fdcf8b6ec6a80d6d585856c955105a48
+UID:924fab756a2eef4c6160e569766db67e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261026T183000Z
+LOCATION:24-721
+DTSTART:20261026T170000Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:f398bff506985a2ba85791ef57a4cdae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
@@ -606,6 +626,30 @@ SUMMARY:ЛК Управление проектами
 UID:2904ebc35512c2d59713d02220a67a40
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260916T164500Z
+LOCATION:24-400
+DTSTART:20260916T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:20e660299a14a13f666b811af3c19f59
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261116T164500Z
+LOCATION:Орш. А-424
+DTSTART:20261116T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:c32a862253fa6768252f08d1f73b0f4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260916T183000Z
+LOCATION:24-400
+DTSTART:20260916T170000Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:7ebb624627ff86d1c082d72289cb9790
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
 DTEND:20261022T164500Z
 LOCATION:24-215.1
@@ -614,18 +658,12 @@ SUMMARY:ПЗ Научный семинар по ракетным система�
 UID:2eb62356d102e5379da7d9b550351816
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261026T164500Z
-LOCATION:24-721
-DTSTART:20261026T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:b5e2c1a34d4fcc38614dddd1fb1fdd3d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261026T183000Z
-LOCATION:24-721
-DTSTART:20261026T170000Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:0638e0770cc6b894fd525706dcd1d204
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261014T183000Z
+LOCATION:24-400
+DTSTART:20261014T170000Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:25591d813e9661eaac76c6e637c410a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
@@ -634,6 +672,14 @@ LOCATION:5-111
 DTSTART:20261110T151500Z
 SUMMARY:ЛК Управление проектами
 UID:3b79b3a2c7a19cc85c314b6a3ef258dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261005T164500Z
+LOCATION:Орш. А-424
+DTSTART:20261005T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:2750b765c73203dacf4312e7c6995bd1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
@@ -652,13 +698,6 @@ SUMMARY:ПЗ Управление проектами
 UID:4f5697bf0004bcec2d350a9e00deb2ae
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261102T183000Z
-LOCATION:Орш. А-424
-DTSTART:20261102T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:5def00c78e34f60e6cc659013be56939
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
 DTEND:20261027T164500Z
 LOCATION:5-111
@@ -673,20 +712,6 @@ LOCATION:24-406
 DTSTART:20261006T114500Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью в ракетно-космической отрасли
 UID:38426c16118af69405271792895ab487
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261019T183000Z
-LOCATION:Орш. А-424
-DTSTART:20261019T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:28fe0a9a6d054c8e492717ced657e0aa
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260921T164500Z
-LOCATION:Орш. А-424
-DTSTART:20260921T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:95fc84bd25e1b5df99110fad230285c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
@@ -745,13 +770,6 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:72b7c0bf8b13f95510ed9b910b805c40
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260928T183000Z
-LOCATION:24-721
-DTSTART:20260928T170000Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:052429e9af12de047a42db41df4f13e7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20261006T164500Z
 LOCATION:24-400
@@ -768,18 +786,20 @@ SUMMARY:ЛК Научный семинар по ракетным система�
 UID:fe50630db2b8e867e147d62b001c4b24
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261207T183000Z
-LOCATION:24-721
-DTSTART:20261207T170000Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:692954c0a561af02ce5f456d5eb33abb
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261130T183000Z
+LOCATION:Орш. А-424
+DTSTART:20261130T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:db6ef4913c6cf71420e6f74e9c17db6f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261111T183000Z
-LOCATION:24-400
-DTSTART:20261111T170000Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:f5e4c97a89a65723595bab979865a739
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261207T164500Z
+LOCATION:24-721
+DTSTART:20261207T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:8a7e0840d191378cd74c94ff3ce2e35b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
@@ -790,6 +810,22 @@ SUMMARY:ПЗ Системный анализ
 UID:9e5bccf522b5a0579ec439bd8079811f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261026T164500Z
+LOCATION:24-721
+DTSTART:20261026T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:9885e71d11d72391aeaeb35072e00692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черкашина Эллина Александровна
+DTEND:20260915T150000Z
+LOCATION:24-419
+DTSTART:20260915T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:e63198f1d55e6a57e7a8fab4314ac975
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
 DTEND:20261021T150000Z
 LOCATION:24-507.1
@@ -798,18 +834,28 @@ SUMMARY:ЛК Организация научно-исследовательск�
 UID:46bd967496a6879a043394550823d715
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261116T164500Z
-LOCATION:Орш. А-424
-DTSTART:20261116T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:8b6eb630772d7c4b4219548d531a92cc
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260902T183000Z
+LOCATION:24-400
+DTSTART:20260902T170000Z
+SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:d319128fec8159a54f9acf4a430102fd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260930T164500Z
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261214T183000Z
+LOCATION:Орш. А-424
+DTSTART:20261214T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:ef82b920ae66f4bf3acc70116e1f3da1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260930T183000Z
 LOCATION:24-400
-DTSTART:20260930T151500Z
+DTSTART:20260930T170000Z
 SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:c147ace862a4ae2d331e1fb83022e673
+UID:976aaeaae04f768404dc8f9776abe07a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
@@ -820,11 +866,20 @@ SUMMARY:ПЗ Управление проектами
 UID:0ffdecc69b44863df2810966cec70ee1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260914T164500Z
-LOCATION:24-721
-DTSTART:20260914T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:8d985a4246a8d0f67f013dca42ae95c2
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261130T164500Z
+LOCATION:Орш. А-424
+DTSTART:20261130T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:95a23464d0e79f4c178feb569fac89a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261019T164500Z
+LOCATION:Орш. А-424
+DTSTART:20261019T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:da8d28b386b544b8085176a0ef6f4d05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -843,13 +898,6 @@ SUMMARY:ЛК Научный семинар по ракетным система�
 UID:e9e42aa1e8d4471bea58a938f71af50d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261130T183000Z
-LOCATION:Орш. А-424
-DTSTART:20261130T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:89b60808655753216ebdb5cf4ef77e69
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
 DTEND:20260924T164500Z
 LOCATION:24-215.1
@@ -858,18 +906,20 @@ SUMMARY:ПЗ Научный семинар по ракетным система�
 UID:514e4a76460908757d9c37b647c70564
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261019T164500Z
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261102T164500Z
 LOCATION:Орш. А-424
-DTSTART:20261019T151500Z
+DTSTART:20261102T151500Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:73aaf6d5cc022c425f7691a14f612d0e
+UID:80f39c8d54512091976603e04e5aa5c7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260902T183000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20261111T183000Z
 LOCATION:24-400
-DTSTART:20260902T170000Z
+DTSTART:20261111T170000Z
 SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:86a341334c12c8f84b6d69cb4096fa0f
+UID:8fecaf0d0152acb3af15de32225fa947
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Туркин Игорь Константинович
@@ -888,13 +938,6 @@ SUMMARY:ПЗ Управление проектами
 UID:3879a403cfe82b75247b11fe58c03e23
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261116T183000Z
-LOCATION:Орш. А-424
-DTSTART:20261116T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:def2d7ac965568eafa501cb4ee12c90b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильяхинская Галина Владимировна
 DTEND:20261208T164500Z
 LOCATION:5-111
@@ -903,11 +946,12 @@ SUMMARY:ЛК Управление проектами
 UID:96723dfe8c76d4c3c7a81f93497e7736
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261214T183000Z
-LOCATION:Орш. А-424
-DTSTART:20261214T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:33be3e491720c0cc18be7592044818f4
+DESCRIPTION:Одинцова Екатерина Игоревна
+DTEND:20260914T164500Z
+LOCATION:24-721
+DTSTART:20260914T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта в инженерной и управленческой деятельности
+UID:d1cb5bcc3db2383d2235c6edadef0db8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
@@ -942,6 +986,14 @@ SUMMARY:ЛК Научный семинар по ракетным система�
 UID:2c9176d8b90161098d6a780cde05bb5b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Масютина Наталья Михайловна
+DTEND:20261019T183000Z
+LOCATION:Орш. А-424
+DTSTART:20261019T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:857cebd0a7ef7e3f7dc23ecfa16844d6
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Черкашина Эллина Александровна
 DTEND:20261117T164500Z
 LOCATION:24-400
@@ -966,13 +1018,6 @@ SUMMARY:ЛК Системный анализ
 UID:1ec0d1698e68d30366e7e5d962745db0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260902T164500Z
-LOCATION:24-400
-DTSTART:20260902T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта в инженерной и управленческой деятельности
-UID:9801dead7a9162c2ef32bd9c83d6f1e8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гришанина Татьяна Витальевна
 DTEND:20261223T164500Z
 LOCATION:24-507.1
@@ -987,12 +1032,5 @@ LOCATION:24-314
 DTSTART:20261013T170000Z
 SUMMARY:ПЗ Системный анализ
 UID:0d13add988aafd1ea2d7f72382a6475e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260921T183000Z
-LOCATION:Орш. А-424
-DTSTART:20260921T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:8fa5a4185a5dbb60cfe5c0ca7c691eac
 END:VEVENT
 END:VCALENDAR

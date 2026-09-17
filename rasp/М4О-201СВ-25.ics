@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Ясенцев Дмитрий Александрович
+DTEND:20260903T164500Z
+LOCATION:24Б-521
+DTSTART:20260903T151500Z
+SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:46ecac15998c91f31870b546c7a90c1c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
 DTEND:20260907T183000Z
 LOCATION:24Б-620
@@ -27,11 +35,11 @@ UID:b3896cb1cedc2084b4e09cbb0cea2405
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261105T150000Z
+DTEND:20260917T164500Z
 LOCATION:24Б-521
-DTSTART:20261105T133000Z
-SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:8096173d522025edb40ab7889ebfc259
+DTSTART:20260917T151500Z
+SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:72250f79fa82eba70a9a92e9eaab0a48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
@@ -40,6 +48,14 @@ LOCATION:24Б-620
 DTSTART:20261019T151500Z
 SUMMARY:ПЗ Бортовые антенные системы
 UID:179d5f3361e703450b85a162d6ed84cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261022T150000Z
+LOCATION:24Б-624
+DTSTART:20261022T133000Z
+SUMMARY:ЛК Антенны с широкоугольным сканированием
+UID:89b39ebe3adaeb32e88e2570802d73da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
@@ -58,20 +74,20 @@ SUMMARY:ПЗ Цифровая обработка сигналов в АФАР
 UID:e6c3c3cd838435ac0a7aba31f9b32836
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261105T164500Z
+LOCATION:24Б-624
+DTSTART:20261105T151500Z
+SUMMARY:ПЗ Антенны с широкоугольным сканированием
+UID:403ed7033538ce23358dc29930e08f67
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Руденко Евгений Витальевич
 DTEND:20261130T150000Z
 LOCATION:24Б-525
 DTSTART:20261130T133000Z
 SUMMARY:ЛР Моделирование радиолокационных систем
 UID:66eb2f0ffd2ca99fdedbedb119bdfb9a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260903T164500Z
-LOCATION:24Б-624
-DTSTART:20260903T151500Z
-SUMMARY:ПЗ Антенны с широкоугольным сканированием
-UID:2b8ecaef44367ec958b5ed83f0f3b2de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмачилин Павел Александрович
@@ -112,14 +128,6 @@ LOCATION:24Б-624
 DTSTART:20261001T151500Z
 SUMMARY:ПЗ Антенны с широкоугольным сканированием
 UID:5ddbe546a3d4199c9388cf0b0ae33022
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261105T164500Z
-LOCATION:24Б-521
-DTSTART:20261105T151500Z
-SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:c9634cd059239ff107df0db7ae3cf0a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмачилин Павел Александрович
@@ -171,19 +179,19 @@ UID:b468c74b0246d47b9da920ba7e10681f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260903T150000Z
-LOCATION:24Б-624
-DTSTART:20260903T133000Z
-SUMMARY:ЛК Антенны с широкоугольным сканированием
-UID:8e6788d4c8b345bd32b13ded9fc6e859
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
 DTEND:20261008T164500Z
 LOCATION:24Б-624
 DTSTART:20261008T151500Z
 SUMMARY:ПЗ Антенны с широкоугольным сканированием
 UID:86b10bd35f5a28eea100d6a602cf1ea0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ясенцев Дмитрий Александрович
+DTEND:20260903T150000Z
+LOCATION:24Б-521
+DTSTART:20260903T133000Z
+SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:4b5bcc2d7b0eca5d54d65d3e4b7b7ba1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмачилин Павел Александрович
@@ -258,14 +266,6 @@ SUMMARY:ПЗ Генераторы колебаний с управляемыми
 UID:2cb52938df8136d0a07fa61e135d33fb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260910T150000Z
-LOCATION:24Б-624
-DTSTART:20260910T133000Z
-SUMMARY:ЛК Антенны с широкоугольным сканированием
-UID:e45ae3600bd45806f320f21dd7697b0b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гаврилов Константин Юрьевич
 DTEND:20261221T150000Z
 LOCATION:24Б-525
@@ -322,6 +322,14 @@ SUMMARY:ЛК Антенны с широкоугольным сканирован
 UID:0d7feca63eaf4ca04088c8935a07e118
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ясенцев Дмитрий Александрович
+DTEND:20260910T164500Z
+LOCATION:24Б-521
+DTSTART:20260910T151500Z
+SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:3125dcc67e3186dc34041b448ec345f9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
 DTEND:20260914T164500Z
 LOCATION:24Б-620
@@ -330,20 +338,20 @@ SUMMARY:ПЗ Бортовые антенные системы
 UID:5ee2918a99be98b9910b1a8dc184a736
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261210T164500Z
+LOCATION:24Б-624
+DTSTART:20261210T151500Z
+SUMMARY:ПЗ Антенны с широкоугольным сканированием
+UID:8d788297f80df487ad7dd3036e61a6e0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
 DTEND:20260921T183000Z
 LOCATION:24Б-620
 DTSTART:20260921T170000Z
 SUMMARY:ЛК Методы измерения и диагностики ФАР
 UID:6c35fdc5455459a12b5a7afd0a232a7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260917T164500Z
-LOCATION:24Б-624
-DTSTART:20260917T151500Z
-SUMMARY:ПЗ Антенны с широкоугольным сканированием
-UID:b31b992ac9a6f5557ac85f087e136db6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
@@ -376,14 +384,6 @@ LOCATION:24Б-624
 DTSTART:20261126T151500Z
 SUMMARY:ПЗ Антенны с широкоугольным сканированием
 UID:a4e9765e1020f4483de2d91df7b3cb4f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261022T150000Z
-LOCATION:24Б-521
-DTSTART:20261022T133000Z
-SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:3b4be4193816d0f8c9c2e84d26d91bc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Руденко Евгений Витальевич
@@ -448,6 +448,14 @@ LOCATION:24Б-620
 DTSTART:20261208T151500Z
 SUMMARY:ЛК Генераторы колебаний с управляемыми параметрами
 UID:50dc0fd31d656fa26a045214663195bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ясенцев Дмитрий Александрович
+DTEND:20260917T150000Z
+LOCATION:24Б-521
+DTSTART:20260917T133000Z
+SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:302140dfc618ea5a6dc1df3d7351449c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
@@ -578,14 +586,6 @@ SUMMARY:ЛР Генераторы колебаний с управляемыми
 UID:7c6214b2753e1c7a696462a91934c026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261022T164500Z
-LOCATION:24Б-521
-DTSTART:20261022T151500Z
-SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:c2c71ff16f02a5e9bb4648550769e3c4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Добычина Елена Михайловна
 DTEND:20261222T164500Z
 LOCATION:24Б-620
@@ -600,14 +600,6 @@ LOCATION:24Б-620
 DTSTART:20261019T170000Z
 SUMMARY:ЛК Методы измерения и диагностики ФАР
 UID:f85370cd3cb5123a3cf6460c1c096839
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261029T164500Z
-LOCATION:24Б-521
-DTSTART:20261029T151500Z
-SUMMARY:ПЗ Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:b93717ad7cbbe2a404664c7653ad7bf5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Добычина Елена Михайловна
@@ -648,6 +640,14 @@ LOCATION:24Б-710
 DTSTART:20261202T151500Z
 SUMMARY:ЛР Цифровая обработка сигналов в АФАР
 UID:97d536791ab0fc2da91a21780bc83339
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261022T164500Z
+LOCATION:24Б-624
+DTSTART:20261022T151500Z
+SUMMARY:ПЗ Антенны с широкоугольным сканированием
+UID:93e89529bf6c3c4e0652cd87fde865e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Багно Дмитрий Витальевич
@@ -722,14 +722,6 @@ SUMMARY:ЛР Цифровая обработка изображений
 UID:d742d380e200c17a390ccef8b97c8be4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ясенцев Дмитрий Александрович
-DTEND:20261029T150000Z
-LOCATION:24Б-521
-DTSTART:20261029T133000Z
-SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
-UID:8286b092c4705cf8d11785b17e567eed
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
 DTEND:20261123T183000Z
 LOCATION:24Б-620
@@ -744,14 +736,6 @@ LOCATION:24Б-521
 DTSTART:20261215T151500Z
 SUMMARY:ЛР Радионавигационные системы и комплексы
 UID:042f13d603adbe6c6c9c00406f77e3e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260910T164500Z
-LOCATION:24Б-624
-DTSTART:20260910T151500Z
-SUMMARY:ПЗ Антенны с широкоугольным сканированием
-UID:95c4154c895af55177f8a26ff3e676a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Овчинникова Елена Викторовна
@@ -842,12 +826,12 @@ SUMMARY:ЛР Моделирование радиолокационных сис�
 UID:e105cdeda449ba84d09f0da55262663f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шмачилин Павел Александрович
-DTEND:20261125T150000Z
-LOCATION:24Б-710
-DTSTART:20261125T133000Z
-SUMMARY:ЛК Цифровая обработка сигналов в АФАР
-UID:b30c194176b35cff65552273a9da5fab
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261029T164500Z
+LOCATION:24Б-624
+DTSTART:20261029T151500Z
+SUMMARY:ПЗ Антенны с широкоугольным сканированием
+UID:489ff27b95a493a71ab104ecad5eeea2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
@@ -856,6 +840,14 @@ LOCATION:24Б-620
 DTSTART:20261102T133000Z
 SUMMARY:ЛК Бортовые антенные системы
 UID:dacefebc9513f50cb9ca739b7a818774
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмачилин Павел Александрович
+DTEND:20261125T150000Z
+LOCATION:24Б-710
+DTSTART:20261125T133000Z
+SUMMARY:ЛК Цифровая обработка сигналов в АФАР
+UID:b30c194176b35cff65552273a9da5fab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
@@ -936,14 +928,6 @@ LOCATION:24Б-525
 DTSTART:20261207T133000Z
 SUMMARY:ЛК Моделирование радиолокационных систем
 UID:2ef36773d492edd920d53e1f5b1f1cfb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20260917T150000Z
-LOCATION:24Б-624
-DTSTART:20260917T133000Z
-SUMMARY:ЛК Антенны с широкоугольным сканированием
-UID:2ec434a228acd225a90d30bbc19df907
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Темченко Владимир Степанович
@@ -1170,6 +1154,14 @@ SUMMARY:ПЗ Методы измерения и диагностики ФАР
 UID:f41e287751748ed532d9fde0fa457c0e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261105T150000Z
+LOCATION:24Б-624
+DTSTART:20261105T133000Z
+SUMMARY:ЛК Антенны с широкоугольным сканированием
+UID:e16cbb2ca4dbaddeae7f664f637fe93a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гаджиев Эльчин Вахидович
 DTEND:20261005T150000Z
 LOCATION:24Б-620
@@ -1184,6 +1176,14 @@ LOCATION:24Б-525
 DTSTART:20261009T133000Z
 SUMMARY:ПЗ Цифровая обработка изображений
 UID:90511bafcb7c6f4e255fdba9821fb4a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261029T150000Z
+LOCATION:24Б-624
+DTSTART:20261029T133000Z
+SUMMARY:ЛК Антенны с широкоугольным сканированием
+UID:c5b815c244bffaf74f1062e9c9239bdd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Максим Сергеевич
@@ -1234,6 +1234,14 @@ SUMMARY:ПЗ Цифровая обработка изображений
 UID:143b5184ba0e8d72428f381046addbcd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ясенцев Дмитрий Александрович
+DTEND:20260910T150000Z
+LOCATION:24Б-521
+DTSTART:20260910T133000Z
+SUMMARY:ЛК Радиолокационные системы и комплексы с высокой разрешающей способностью
+UID:1fdcdb5286acd4eea2509bf975ae8c08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Добычина Елена Михайловна
 DTEND:20260915T150000Z
 LOCATION:24Б-620
@@ -1272,5 +1280,13 @@ LOCATION:24Б-620
 DTSTART:20260928T170000Z
 SUMMARY:ЛК Методы измерения и диагностики ФАР
 UID:6ab4b06a2182a52f0be673c603814913
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20261210T150000Z
+LOCATION:24Б-624
+DTSTART:20261210T133000Z
+SUMMARY:ЛК Антенны с широкоугольным сканированием
+UID:8fc10a374114f4b892175746a863a57f
 END:VEVENT
 END:VCALENDAR
