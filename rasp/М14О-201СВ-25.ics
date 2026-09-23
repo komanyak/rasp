@@ -2,12 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20261029T164500Z
-LOCATION:5-103
-DTSTART:20261029T151500Z
-SUMMARY:ПЗ Управление интеллектуальной собственностью
-UID:cb10af603b9334ce51c8a12f307631a2
+DTEND:20261221T183000Z
+LOCATION:7-409
+DTSTART:20261221T170000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:79f10ede11ceac73e779b2ddda7a81a7
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260928T164500Z
+LOCATION:7-409
+DTSTART:20260928T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:2b7136f6fc2770164a0aa7b8991639a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -18,11 +24,19 @@ SUMMARY:ПЗ Управление программами в высокотехн
 UID:9e086e7d866e5474c6b51a27e3185b08
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261219T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261219T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:61099a3b183874d17d8fbf03d0b755aa
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20261029T164500Z
+LOCATION:5-103
+DTSTART:20261029T151500Z
+SUMMARY:ПЗ Управление интеллектуальной собственностью
+UID:cb10af603b9334ce51c8a12f307631a2
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260921T183000Z
+LOCATION:7-409
+DTSTART:20260921T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:0e604780089e11c5765964690fddab6f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
@@ -49,11 +63,11 @@ SUMMARY:ЛК Основы сертификации
 UID:7c85d749ee87e78890428c25ad5ebe79
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261118T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261118T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:3965771993c3df507fe32bf17346576f
+DTEND:20261019T164500Z
+LOCATION:7-409
+DTSTART:20261019T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:662276ce74df7e6d73dfe54dcf784007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -77,20 +91,6 @@ LOCATION:3-351
 DTSTART:20261116T133000Z
 SUMMARY:ПЗ Современные программные средства инженерного моделирования силовых установок
 UID:5a4b9dea6b6bbc9d2a891b666a05f39a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261202T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261202T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:08f27a672635e72e80328b9feb385b9e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261205T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261205T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:4eab6b41e0d8a8e44305469d39c314af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Колбасенко Александр Сергеевич
@@ -156,13 +156,6 @@ SUMMARY:ПЗ Управление программами в высокотехн
 UID:7916e11de55fc6a2288bd369f1168a1b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261111T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261111T151500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:a50e51360ddc89a04bc6dfd12dace6e8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20260926T113000Z
 LOCATION:Орш. А-321
@@ -218,19 +211,19 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:29ddd568972b683a8705df6ffc47e844
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260914T164500Z
-LOCATION:7-409
-DTSTART:20260914T151500Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:8834bc0519585477bf6b15dc8528c99d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
 DTEND:20260926T091500Z
 LOCATION:Орш. А-321
 DTSTART:20260926T074500Z
 SUMMARY:ЛК Управление программами в высокотехнологичных отраслях
 UID:e31098896dbb58a437c8ea0cdb3084d5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261005T183000Z
+LOCATION:7-409
+DTSTART:20261005T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:bb7f491e5b3407fb1b2e299b6d338122
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -241,33 +234,12 @@ SUMMARY:ПЗ Основы сертификации
 UID:caf4b9fda3c25b2e9032d90051c17165
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260907T183000Z
-LOCATION:7-409
-DTSTART:20260907T170000Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:735329c65f4460a99e2bbc24ba703782
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
 DTEND:20261006T183000Z
 LOCATION:3-355
 DTSTART:20261006T170000Z
 SUMMARY:ПЗ Компьютерное моделирование преобразователей энергии
 UID:184e34161b26bb481838c78bc8876f9c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261209T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261209T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:8626af848634a2caa4662829b5c36e76
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261125T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261125T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:95ba5abf821ae463939dfd3eed1c0dba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -316,54 +288,20 @@ SUMMARY:ПЗ Современные программные средства ин
 UID:803410f8453ae01a02a332eb6f455155
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Колбасенко Александр Сергеевич
+DTEND:20260914T150000Z
+LOCATION:7-209
+DTSTART:20260914T133000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:73d96cbbdd3c10c0bec6695833d97e2b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
 DTEND:20261017T091500Z
 LOCATION:Орш. А-321
 DTSTART:20261017T074500Z
 SUMMARY:ЛК Управление программами в высокотехнологичных отраслях
 UID:32b5fd2de7386faae4bbad1ca082dc3e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261216T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261216T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:6106ce30432a5adba09e665d676a7f2a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261114T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261114T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:ab4b4f720e5ec8e86a0722e3cc7bd0f2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261223T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261223T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:97379a7752e6e78010d09acef3f4ac0c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261212T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261212T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:f0c3baa53dc92abe5f7010204e80d4c3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261107T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261107T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:ad20a77653078d9326abf1fc0b084dd2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261125T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261125T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:0ba67288e3ebe91c1df1625cb4ce8904
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261123T150000Z
@@ -387,13 +325,6 @@ SUMMARY:ЛК Современные программные средства ин
 UID:0e505aa31273403dbcf148acb91ba2ee
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261209T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261209T170000Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:c4a2292a3c6823e337b1acb4806caea9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Колбасенко Александр Сергеевич
 DTEND:20260907T150000Z
 LOCATION:7-209
@@ -407,13 +338,6 @@ LOCATION:3-351
 DTSTART:20261109T151500Z
 SUMMARY:ПЗ Современные программные средства инженерного моделирования силовых установок
 UID:16377c561de139516b17ef7998a7844d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260921T164500Z
-LOCATION:7-409
-DTSTART:20260921T151500Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:c9bcd33090ec1f67d698c917c9b9cfa2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -430,13 +354,6 @@ LOCATION:7-209
 DTSTART:20261019T133000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
 UID:22137e179ccc14010472ac080c64614a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261019T164500Z
-LOCATION:7-409
-DTSTART:20261019T151500Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:2d4744505468e6c2eb4322c7454e271f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -462,27 +379,6 @@ SUMMARY:ПЗ Современные программные средства ин
 UID:ceacfaa5ebeb27ec0fd157c4a91e58df
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T164500Z
-LOCATION:7-409
-DTSTART:20261005T151500Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:2d902fc96e8f5128e51b5cad95c15975
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261212T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261212T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:9a58676433416d8d9cad29eb70d0cd8a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261221T183000Z
-LOCATION:7-409
-DTSTART:20261221T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:e89e730f7f659aa87ef8e8075ebd1169
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
 DTEND:20260915T183000Z
 LOCATION:3-355
@@ -491,18 +387,11 @@ SUMMARY:ПЗ Компьютерное моделирование преобра�
 UID:9a4190b1a9e8c30749f6222cb229e741
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261118T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261118T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:3515c37b1280f20ac3656108fcdd657e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261221T164500Z
+DTEND:20260914T183000Z
 LOCATION:7-409
-DTSTART:20261221T151500Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:1b6310051524157d384529e6a8f133aa
+DTSTART:20260914T170000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8e9634c85bb857a9238a7c2dae1352fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -521,32 +410,11 @@ SUMMARY:ПЗ Профессиональное и научное общение �
 UID:3e38fbebe7b88507567e5a8614944578
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261223T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261223T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:0caee5ca052d1117ea216b39dff0adc2
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261026T183000Z
-LOCATION:7-409
-DTSTART:20261026T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:6ef2cc8cd1df21f081151da1c5cd73ce
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261123T164500Z
 LOCATION:3-351
 DTSTART:20261123T151500Z
 SUMMARY:ПЗ Современные программные средства инженерного моделирования силовых установок
 UID:772a2df13662cbe91c36f342f43c1478
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261005T183000Z
-LOCATION:7-409
-DTSTART:20261005T170000Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:f0c059d4c09012adb848ae78ca874bf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
@@ -565,6 +433,20 @@ SUMMARY:ЛК Компьютерное моделирование преобра�
 UID:c90595c9ebbb2d4abacf4f1cac75e412
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260921T164500Z
+LOCATION:7-409
+DTSTART:20260921T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:c49ac60f44581692c84b64f90be628ce
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260907T183000Z
+LOCATION:7-409
+DTSTART:20260907T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:21954522f1a95960e712552965577d1d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260916T150000Z
 LOCATION:3-351
 DTSTART:20260916T133000Z
@@ -577,20 +459,6 @@ LOCATION:3-351
 DTSTART:20261007T133000Z
 SUMMARY:ЛК Современные программные средства инженерного моделирования силовых установок
 UID:12d0c7b85fddf1b3859a0747cf1e6110
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261026T164500Z
-LOCATION:7-409
-DTSTART:20261026T151500Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:459b4cd434ddffc7c804500580e9c4d0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261111T183000Z
-LOCATION:Орш. А-323
-DTSTART:20261111T170000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:a5f21cfdfa266fb565e75c6d338a6bf7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -622,6 +490,13 @@ LOCATION:3-351
 DTSTART:20261109T133000Z
 SUMMARY:ПЗ Современные программные средства инженерного моделирования силовых установок
 UID:623d97b11e1220cc9fd2d2053ac34b7e
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261019T183000Z
+LOCATION:7-409
+DTSTART:20261019T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a281d94d1efd70f8dbde3337671784c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
@@ -663,20 +538,6 @@ SUMMARY:ЛК Основы сертификации
 UID:c2c4644478b9995e4a13072329733cb2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261216T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261216T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:5888d21c107b39e08daa1e9f26d6eaa8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261012T183000Z
-LOCATION:7-409
-DTSTART:20261012T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:9f49a66b83d435508f7b66eb6c1afa36
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261130T164500Z
 LOCATION:3-351
 DTSTART:20261130T151500Z
@@ -690,13 +551,6 @@ LOCATION:5-103
 DTSTART:20261022T151500Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью
 UID:00943abe959fa5f7b379d001a8f25887
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261114T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261114T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:d55a8456df72d8f082c80fea8a1df2b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Колбасенко Александр Сергеевич
@@ -721,11 +575,11 @@ SUMMARY:ЛК Современные программные средства ин
 UID:49bda61dbd3c2ac5fd16853f1cd7938b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260928T164500Z
+DTEND:20261026T183000Z
 LOCATION:7-409
-DTSTART:20260928T151500Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:d9ddd7417c5ba6ab0af7c2642651f0be
+DTSTART:20261026T170000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:15aeba85b013b61bfa7f6ecda3456a5b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -757,6 +611,13 @@ LOCATION:3-365
 DTSTART:20261204T133000Z
 SUMMARY:ЛК Основы сертификации
 UID:f683ceada2f9506878d8768e10304709
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260907T164500Z
+LOCATION:7-409
+DTSTART:20260907T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:e018a6b3ebe0f562a75c780f9cfd2842
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260930T164500Z
@@ -794,13 +655,6 @@ LOCATION:3-351
 DTSTART:20261116T151500Z
 SUMMARY:ПЗ Современные программные средства инженерного моделирования силовых установок
 UID:9aee9d586c828656fa421d49124d6248
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261121T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261121T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:38d5fc42dcc2d473b47c625e16457ffa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
@@ -866,33 +720,12 @@ SUMMARY:ЛК Основы сертификации
 UID:c0b3d5a5d9caab5f94876d982a04764b
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261128T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261128T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:86a45ae5f5c1d53a7010310958ef5adc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
 DTEND:20261023T164500Z
 LOCATION:3-365
 DTSTART:20261023T151500Z
 SUMMARY:ПЗ Основы сертификации
 UID:b0beff6f9ddaac6ab6ff4fea5d8ca511
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261128T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261128T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:a7cdb7c3da464834020bd6960395d053
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261121T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261121T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:5c9646539fdd82e83dd2d9b81706aaad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
@@ -903,19 +736,19 @@ SUMMARY:ЛК Компьютерное моделирование преобра�
 UID:eed3a27e2be4f51afcbc3ad3165258be
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261221T164500Z
+LOCATION:7-409
+DTSTART:20261221T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:09745963d8cff6a622c11a2b54739f2f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20261017T113000Z
 LOCATION:Орш. А-321
 DTSTART:20261017T100000Z
 SUMMARY:ЛК Управление интеллектуальной собственностью
 UID:afcb00034ad6e3b5babe75730192c0e0
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260921T183000Z
-LOCATION:7-409
-DTSTART:20260921T170000Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:e5c15f9299fbb7c576163d509f74f1e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -958,25 +791,11 @@ SUMMARY:ЛК Управление интеллектуальной собств�
 UID:66d35c89d171c79541bb1010244460a9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261107T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261107T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:88e68b3ec031ac8540ae01e5ae097bb8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261012T164500Z
+DTEND:20261005T164500Z
 LOCATION:7-409
-DTSTART:20261012T151500Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:2bd801c7b52046f8c4b47c7d9adbe7e9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261202T164500Z
-LOCATION:Орш. А-323
-DTSTART:20261202T151500Z
-SUMMARY:ПЗ Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:864c9780ca05bb0a40749ad6b8fe0a95
+DTSTART:20261005T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:6e3ab27acbc07c0eea6119c4e1a5563d
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260909T164500Z
@@ -1024,12 +843,26 @@ SUMMARY:ПЗ Основы сертификации
 UID:f106b3c5b4b1a6903e222a0631749b8c
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260928T183000Z
+LOCATION:7-409
+DTSTART:20260928T170000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:6204c2064e2237905d3293774754ea13
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
 DTEND:20261106T150000Z
 LOCATION:3-365
 DTSTART:20261106T133000Z
 SUMMARY:ЛК Основы сертификации
 UID:16b06df1d6e7865db7154d9c8d84ed68
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261012T183000Z
+LOCATION:7-409
+DTSTART:20261012T170000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:bd1548731189b56806a9dfc02da5c83b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1064,26 +897,12 @@ SUMMARY:ПЗ Основы сертификации
 UID:85dcc1ac90ef019ceec7d105f5ab3865
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261019T183000Z
-LOCATION:7-409
-DTSTART:20261019T170000Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:011ff744479596c631a75fbbaa2a06f6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шевцов Даниил Андреевич
 DTEND:20261027T164500Z
 LOCATION:3-355
 DTSTART:20261027T151500Z
 SUMMARY:ЛК Компьютерное моделирование преобразователей энергии
 UID:c648a431d808265353706b28c6c52052
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261219T091500Z
-LOCATION:Орш. А-321
-DTSTART:20261219T074500Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:aca738f36a0d8c7f945c9df482544ac1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -1107,6 +926,13 @@ LOCATION:5-103
 DTSTART:20261015T151500Z
 SUMMARY:ПЗ Управление интеллектуальной собственностью
 UID:7596659c943238c5b53dc819c36d77b6
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260914T164500Z
+LOCATION:7-409
+DTSTART:20260914T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:35d89fd09ca4a40697d56d8b56255927
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москвичева Наталья Валерьевна
@@ -1140,13 +966,6 @@ SUMMARY:ПЗ Компьютерное моделирование преобра�
 UID:c18545ae5b5255aac3e9fcd13cc91c2f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260928T183000Z
-LOCATION:7-409
-DTSTART:20260928T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:3afa6a1e0486603cdea86ec9dba7f3f1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20261001T164500Z
 LOCATION:5-103
@@ -1155,33 +974,18 @@ SUMMARY:ПЗ Управление интеллектуальной собств�
 UID:6c1e2b2a802df68679045725622a1adc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260914T183000Z
+DTEND:20261026T164500Z
 LOCATION:7-409
-DTSTART:20260914T170000Z
-SUMMARY:ПЗ Психология инженерного проектирования
-UID:ab7f3f60a45e859b41e190059dd4e142
+DTSTART:20261026T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:b90e9e92ba065fdbf437f32997e90334
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260907T164500Z
+DTEND:20261012T164500Z
 LOCATION:7-409
-DTSTART:20260907T151500Z
-SUMMARY:ЛК Психология инженерного проектирования
-UID:e6062aa17bf41cbf239ff99c0f67a038
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колбасенко Александр Сергеевич
-DTEND:20260914T150000Z
-LOCATION:7-209
-DTSTART:20260914T133000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:73d96cbbdd3c10c0bec6695833d97e2b
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261205T113000Z
-LOCATION:Орш. А-321
-DTSTART:20261205T100000Z
-SUMMARY:ЛК Искусственный интеллект и большие данные в управленческой и инженерной деятельности
-UID:912c680b083b352fcab874532b8d1e4a
+DTSTART:20261012T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a8b0e9f9971cc07f7086b619198cd2e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич

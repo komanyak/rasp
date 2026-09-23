@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20261211T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261211T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:4720da9973706d6efa0fc63cfd4ae36b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
 DTEND:20261117T131500Z
 LOCATION:7-406
@@ -61,13 +54,6 @@ LOCATION:--каф. 919
 DTSTART:20261223T060000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:c109c320a154a6608588b5d4f4b2ecb8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260904T091500Z
-LOCATION:Орш. В-101
-DTSTART:20260904T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:6c78539fadb90c646bec5ed057053cdc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Владимир Николаевич
@@ -176,18 +162,19 @@ SUMMARY:ЛК Динамика полета
 UID:f91379db41a82a5af129beda3c71b034
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261127T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261127T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:b92e240fdd3521ffdab0c7229e37ab58
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260905T073000Z
 LOCATION:--каф.
 DTSTART:20260905T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:69c6d56a37ea7d86cc0c388e4aa75665
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261113T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261113T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:93988c5383cfe84967161450a0b21146
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ФЕТИСОВ АЛЕКСАНДР ГЕОРГИЕВИЧ
@@ -384,6 +371,14 @@ SUMMARY:ПЗ Военная подготовка
 UID:a95d4513bf04d5f9b9478ef2f099f9bc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261002T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261002T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:cfca0c14193ce8e66f74bc4839443718
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Левичева Светлана Викторовна
 DTEND:20261204T073000Z
 LOCATION:Орш. Б-407
@@ -521,13 +516,6 @@ LOCATION:7-406
 DTSTART:20261202T100000Z
 SUMMARY:ЛК Оптимальное и адаптивное управление
 UID:2076d4a0d13bc7815771e6c76a6e92ae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261030T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261030T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:fbf5ab2e59ea8a0bd413786824a4184d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
@@ -758,13 +746,6 @@ LOCATION:7-406
 DTSTART:20260909T100000Z
 SUMMARY:ЛК Оптимальное и адаптивное управление
 UID:9ab75ad88f5540fdfef07c25edeb5223
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261016T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261016T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:79571a2a43682c6286f95da56a2bd2b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
@@ -1279,12 +1260,12 @@ SUMMARY:ЛК Аэродинамика
 UID:a73ef8ffeb952fe8aa452477a3e63e07
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Цхай Роман Александрович
-DTEND:20261209T113000Z
-LOCATION:7-406
-DTSTART:20261209T100000Z
-SUMMARY:ПЗ Оптимальное и адаптивное управление
-UID:e3f00a1a3019d3694be6e25d340615c5
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261030T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261030T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:02142cc5d677c3bbd262c87661f082c2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261207T091500Z
@@ -1292,6 +1273,14 @@ LOCATION:--каф. 919
 DTSTART:20261207T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:9a8039093126d6bb57ee449339b8da5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цхай Роман Александрович
+DTEND:20261209T113000Z
+LOCATION:7-406
+DTSTART:20261209T100000Z
+SUMMARY:ПЗ Оптимальное и адаптивное управление
+UID:e3f00a1a3019d3694be6e25d340615c5
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261212T091500Z
@@ -1341,6 +1330,14 @@ UID:26831a786ef10c8d86c99f3fb1cdae67
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
+DTEND:20260904T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260904T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:b83ba45d343607dc42da248adcc673d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
 DTEND:20261009T091500Z
 LOCATION:Орш. В-514
 DTSTART:20261009T074500Z
@@ -1362,6 +1359,14 @@ LOCATION:7-416
 DTSTART:20261029T074500Z
 SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:17b4a1a95bf5601eb8030707df626144
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261211T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261211T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:fa60e01c74c8db8e35375f97bc40acd1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
@@ -1415,19 +1420,20 @@ SUMMARY:ПЗ Военная подготовка
 UID:3ae7667433bf511eb05eb2249fdde7ed
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261113T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261113T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:0841de38c2dacad94399c11fe235a93a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Иргалеев Ильяс Хусаинович
 DTEND:20261124T113000Z
 LOCATION:7-406
 DTSTART:20261124T100000Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:286ed6c0c659318c0b7db42326bbc670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20260918T091500Z
+LOCATION:Орш. В-101
+DTSTART:20260918T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:cf07f1088aa6524bc277b993d79419b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
@@ -1474,6 +1480,14 @@ LOCATION:--каф.
 DTSTART:20261031T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:7d4a1ce5f0599308e31660943f78dd53
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261016T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261016T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:042646d2bd5977e143093557425bcb25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гришина Алена Юрьевна
@@ -1618,6 +1632,14 @@ LOCATION:--каф.
 DTSTART:20261212T100000Z
 SUMMARY:ПЗ Военная подготовка
 UID:602a05a46dc53ddc9bf95a42b4081506
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20261127T091500Z
+LOCATION:Орш. В-101
+DTSTART:20261127T074500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:1e4c4bef7a2bd1b43d6e0e807164110c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
@@ -1920,13 +1942,6 @@ SUMMARY:ПЗ Дополнительные главы высшей математ
 UID:779a9173877b6a2e3d7de298b2601927
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260918T091500Z
-LOCATION:Орш. В-101
-DTSTART:20260918T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:2a0a4cfb06f5b940d2f519ee77d34af9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Цхай Роман Александрович
 DTEND:20260923T131500Z
 LOCATION:7-406
@@ -2184,11 +2199,12 @@ SUMMARY:ПЗ Военная подготовка
 UID:516fcb83a1e7df9cdc5ea9667d028395
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261002T091500Z
-LOCATION:Орш. В-101
-DTSTART:20261002T074500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:5abce847ad6008a7867740f1de020841
+DESCRIPTION:ФЕТИСОВ АЛЕКСАНДР ГЕОРГИЕВИЧ
+DTEND:20261223T091500Z
+LOCATION:7-401
+DTSTART:20261223T074500Z
+SUMMARY:ЛК Прикладная экология
+UID:388ff744b8c77b56b10e0cb6f2a27bf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихонов Владимир Николаевич
@@ -2197,14 +2213,6 @@ LOCATION:7-406
 DTSTART:20261019T100000Z
 SUMMARY:ЛК Динамика полета
 UID:dbd4a7414ac884dafa47370799d97ad3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕТИСОВ АЛЕКСАНДР ГЕОРГИЕВИЧ
-DTEND:20261223T091500Z
-LOCATION:7-401
-DTSTART:20261223T074500Z
-SUMMARY:ЛК Прикладная экология
-UID:388ff744b8c77b56b10e0cb6f2a27bf1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сергеева Наталья Ивановна
