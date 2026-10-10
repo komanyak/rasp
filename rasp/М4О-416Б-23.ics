@@ -2,12 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20260909T131500Z
+LOCATION:24Б-403
+DTSTART:20260909T114500Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:1ee3d1eb44fd896ea4a08912948fd802
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261002T091500Z
+LOCATION:24Б-403
+DTSTART:20261002T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:09f67e8387d76411d0639394fb5cebe5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20260908T113000Z
 LOCATION:24Б-403
 DTSTART:20260908T100000Z
 SUMMARY:ЛК Технология производства интегральных устройств
 UID:7e3b9c97a5abd1730770ed7e980fc74b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260918T131500Z
+LOCATION:24Б-403
+DTSTART:20260918T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:33c6a296a47aca8bb72c3341a9adfeea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -50,12 +74,20 @@ SUMMARY:ЛК Интегральные устройства радиоэлект�
 UID:5dd07644027386252874c535a13686b6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
-DTEND:20261130T131500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261016T131500Z
 LOCATION:24Б-403
-DTSTART:20261130T114500Z
-SUMMARY:ПЗ Информационные технологии проектирования радиоэлектронных средств
-UID:aa5ca03408916627e19e9a34883f4c6d
+DTSTART:20261016T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:526098940608303cd8e2bfcbd9a6d8a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20260911T091500Z
+LOCATION:24Б-403
+DTSTART:20260911T074500Z
+SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
+UID:fe283c923508e56aa8c3acf8692d474d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -66,20 +98,12 @@ SUMMARY:ЛР Технология производства электронны�
 UID:09b77f8cc7c8a2c0342271f94b8b0b58
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261218T131500Z
-LOCATION:24Б-425
-DTSTART:20261218T114500Z
-SUMMARY:ЛР Основы управления техническими системами
-UID:9e3d0a8dc8cc39ff9e90f652e18416a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261211T150000Z
+DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
+DTEND:20261130T131500Z
 LOCATION:24Б-403
-DTSTART:20261211T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:d3a6c77884e59afb0a65d19ba37511d0
+DTSTART:20261130T114500Z
+SUMMARY:ПЗ Информационные технологии проектирования радиоэлектронных средств
+UID:aa5ca03408916627e19e9a34883f4c6d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -106,22 +130,6 @@ SUMMARY:ПЗ Информационные технологии проектир�
 UID:816be771576a3992c2131aa7bb838ea0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20260905T091500Z
-LOCATION:24Б-403
-DTSTART:20260905T074500Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:9b14b2110e8e4ea12ddf6aa41b462a2a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261114T073000Z
-LOCATION:24Б-403
-DTSTART:20261114T060000Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:ed295f6bb48db2bdc0e01d3cf58163d5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20261013T113000Z
 LOCATION:24Б-403
@@ -136,6 +144,14 @@ LOCATION:24Б-403
 DTSTART:20261019T100000Z
 SUMMARY:ЛК Информационные технологии проектирования радиоэлектронных средств
 UID:9f38f1302fae11b24d7705cd000bfdc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261009T150000Z
+LOCATION:24Б-403
+DTSTART:20261009T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:5227a01a2a9e75d255c3b0e3837d99aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -154,12 +170,44 @@ SUMMARY:ПЗ Основы конструирования электронных 
 UID:b07efa6f6973d58b97a7dd5ca0c27916
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261120T150000Z
+LOCATION:24Б-403
+DTSTART:20261120T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:9997a47b360ecf842e6173aca2ed88df
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20261019T150000Z
 LOCATION:24Б-403
 DTSTART:20261019T133000Z
 SUMMARY:ПЗ Основы конструирования электронных средств
 UID:8536e0e388fa8651f85f214b22804d80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261030T131500Z
+LOCATION:24Б-403
+DTSTART:20261030T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:b78ec38bd7d3103d73114c82642cc509
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260925T150000Z
+LOCATION:24Б-403
+DTSTART:20260925T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:6e1e904fb2a3e16d7b84941734662ed2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261021T131500Z
+LOCATION:24Б-403
+DTSTART:20261021T114500Z
+SUMMARY:ПЗ Основы радиоэлектроники и связи
+UID:c197606b305bad8a51887f83773ef702
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -170,14 +218,6 @@ SUMMARY:ЛК Технология производства электронны�
 UID:c876f8e17118dcba5bca4b6d7ba017c1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20260911T150000Z
-LOCATION:24Б-403
-DTSTART:20260911T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:c13a0138508c6335da6fe3d21c7a2abc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
 DTEND:20260911T113000Z
 LOCATION:24Б-403
@@ -186,12 +226,12 @@ SUMMARY:ПЗ Интегральные устройства радиоэлект�
 UID:a7b1f62b051bee2e0caffc37a2545f5b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261002T150000Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261106T150000Z
 LOCATION:24Б-403
-DTSTART:20261002T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:37298e931377753b71070bd4cd2439d3
+DTSTART:20261106T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:c74982d4813d23a1355bc8c29e6a4160
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -210,6 +250,14 @@ SUMMARY:ЛК Технология производства интегральн�
 UID:5c38a72e325b2fb78d1fdf858c3045b4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261118T131500Z
+LOCATION:24Б-403
+DTSTART:20261118T114500Z
+SUMMARY:ПЗ Основы радиоэлектроники и связи
+UID:a514bed1dd3dda8911102aedf8eef5f4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20260908T150000Z
 LOCATION:24Б-403
@@ -218,12 +266,20 @@ SUMMARY:ЛК Технология производства электронны�
 UID:8885491df5160fe6de43bb6f5eb4a731
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
-DTEND:20261028T164500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261127T150000Z
 LOCATION:24Б-403
-DTSTART:20261028T151500Z
-SUMMARY:ПЗ Управление качеством электронных средств
-UID:f27ce05a001fbf864d84e3ceaceb136b
+DTSTART:20261127T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:c59d52286d576f39ee1b869d41e3e3e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261021T150000Z
+LOCATION:24Б-403
+DTSTART:20261021T133000Z
+SUMMARY:ПЗ Основы радиоэлектроники и связи
+UID:f45e1f5a08c27bf3d11e29a9100f7698
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -234,20 +290,28 @@ SUMMARY:ПЗ Технология производства интегральн�
 UID:e55f72f9c05951b091914c6efb18788b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
+DTEND:20261028T164500Z
+LOCATION:24Б-403
+DTSTART:20261028T151500Z
+SUMMARY:ПЗ Управление качеством электронных средств
+UID:f27ce05a001fbf864d84e3ceaceb136b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261120T091500Z
+LOCATION:24Б-403
+DTSTART:20261120T074500Z
+SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
+UID:37a7054b07f0a1e116dcb0337c66c26f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20261228T113000Z
 LOCATION:24Б-403
 DTSTART:20261228T100000Z
 SUMMARY:ПЗ Информационные технологии проектирования радиоэлектронных средств
 UID:e12c036983b8618f93406c37e20aa21e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261031T073000Z
-LOCATION:24Б-403
-DTSTART:20261031T060000Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:5c85f26105097a02a09ed2863b1962ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -258,12 +322,20 @@ SUMMARY:ПЗ Информационные технологии проектир�
 UID:7dbc472496a159665e894e800981de42
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261009T131500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260918T150000Z
 LOCATION:24Б-403
-DTSTART:20261009T114500Z
+DTSTART:20260918T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:3d540e28994abda8bbe97dc6a1bfd28e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261023T091500Z
+LOCATION:24Б-403
+DTSTART:20261023T074500Z
 SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:621174228b544b05347641017f6865eb
+UID:5a2b55bd788b22406abf4370af41406c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -275,19 +347,19 @@ UID:233afbd8df95f77d5187a1893bf3de9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20260919T091500Z
-LOCATION:24Б-403
-DTSTART:20260919T074500Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:397685acaf6cd01a5dc2bf06b227f719
+DTEND:20261216T150000Z
+LOCATION:24Б-425
+DTSTART:20261216T133000Z
+SUMMARY:ЛР Основы радиоэлектроники и связи
+UID:ccb9e9ff12752fc29b55341f65d02448
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20260918T131500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261127T131500Z
 LOCATION:24Б-403
-DTSTART:20260918T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:6f6324924d02769937a569b491bcc080
+DTSTART:20261127T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:1aae055ca4ed6d2aa04de4c787f1dcc5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -298,20 +370,20 @@ SUMMARY:ЛР Основы конструирования электронных 
 UID:2f51688c154a12ce3b4cedeb0fa817e1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261114T091500Z
-LOCATION:24Б-403
-DTSTART:20261114T074500Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:f386be7b2fc568e824f7ae136c481e03
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261006T113000Z
 LOCATION:24Б-403
 DTSTART:20261006T100000Z
 SUMMARY:ЛК Технология производства интегральных устройств
 UID:e1e0dc34dc8c3e1f6c1abf170dde1b91
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261127T091500Z
+LOCATION:24Б-425
+DTSTART:20261127T074500Z
+SUMMARY:ЛР Интегральные устройства радиоэлектроники и наноэлектроники
+UID:30b16542ea638202b715f35a9e456294
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
@@ -346,14 +418,6 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:09d4f4bf0713263c178cf577c0e67079
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261106T150000Z
-LOCATION:24Б-403
-DTSTART:20261106T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:b0c5099d44969ae5573a36d3c35bc600
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
 DTEND:20261125T164500Z
 LOCATION:24Б-403
@@ -378,12 +442,12 @@ SUMMARY:ЛК Управление качеством электронных ср
 UID:e0964583b70432146c915a0efb70f6c1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20260918T150000Z
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261007T131500Z
 LOCATION:24Б-403
-DTSTART:20260918T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:6e7cec12d6a1bdfc4ce32feb8bef5c0d
+DTSTART:20261007T114500Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:677c07a340b6c8343db64356b5b290f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -402,12 +466,28 @@ SUMMARY:ЛК Информационные технологии проектир�
 UID:742bbe77818a59dd447cb47fdfd39266
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261016T150000Z
+LOCATION:24Б-403
+DTSTART:20261016T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:e4dbef9d58be88dcc352276e3007d53b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
 DTEND:20261204T113000Z
 LOCATION:24Б-425
 DTSTART:20261204T100000Z
 SUMMARY:ЛР Основы управления техническими системами
 UID:090568c36e90f855ad86642ab36c5282
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261202T131500Z
+LOCATION:24Б-425
+DTSTART:20261202T114500Z
+SUMMARY:ЛР Основы радиоэлектроники и связи
+UID:a32e071293c11d6dba42fed46c00169b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
@@ -426,12 +506,12 @@ SUMMARY:ЛК Технология производства электронны�
 UID:f8f8653370949d8738bd4c6c534085c9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261120T150000Z
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20260909T150000Z
 LOCATION:24Б-403
-DTSTART:20261120T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:906d66b7c3b3daa08e38251bb2782c38
+DTSTART:20260909T133000Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:bf6d4eab98bbcd625f001a19d2124033
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -442,20 +522,12 @@ SUMMARY:ЛК Технология производства электронны�
 UID:7ee7c640f8b0e72a2f87bc8044acb914
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20260919T073000Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261106T091500Z
 LOCATION:24Б-403
-DTSTART:20260919T060000Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:84ccf437c649c7795c8f66753a70e788
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261218T164500Z
-LOCATION:24Б-403
-DTSTART:20261218T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:79cb74c2720ee39402adc641c0d0cc34
+DTSTART:20261106T074500Z
+SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
+UID:1f1704022c3a0bfe7e1a5a36fd093f5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -498,12 +570,12 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:b2cde3e5506371e28138330f4b05e9ab
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261009T150000Z
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20260923T131500Z
 LOCATION:24Б-403
-DTSTART:20261009T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:4c0be1a483b236336017562ce58082eb
+DTSTART:20260923T114500Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:3f5771d805ab1f0ac1ad9b28a5dbeb39
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -514,28 +586,44 @@ SUMMARY:ЛР Основы конструирования электронных 
 UID:68f02a28d7ba44518acb2092fa5dc7dc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20260925T164500Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261211T091500Z
+LOCATION:24Б-425
+DTSTART:20261211T074500Z
+SUMMARY:ЛР Интегральные устройства радиоэлектроники и наноэлектроники
+UID:beb254725406ecdbe30b6514ce356b5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261218T150000Z
 LOCATION:24Б-403
-DTSTART:20260925T151500Z
+DTSTART:20261218T133000Z
 SUMMARY:ПЗ Основы управления техническими системами
-UID:d731b103154e0e8ec2a1ece0280ac7d1
+UID:e34a22b9297fc3cfa92a6b1b1f2a2f38
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20260905T073000Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261030T091500Z
 LOCATION:24Б-403
-DTSTART:20260905T060000Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:d864fbfe989c55397c4661a0b4a253e4
+DTSTART:20261030T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:29d6a150768952a8e15175a9aafcdb65
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261030T150000Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261106T131500Z
 LOCATION:24Б-403
-DTSTART:20261030T133000Z
+DTSTART:20261106T114500Z
 SUMMARY:ЛК Основы управления техническими системами
-UID:764bb7a4d73493943df19222b09c476f
+UID:8d9c49ddaed926f6377e59446a0a94e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+DTEND:20261218T091500Z
+LOCATION:24Б-425
+DTSTART:20261218T074500Z
+SUMMARY:ЛР Основы управления техническими системами
+UID:8c7c6230cad0268e3473ec7a198a1b67
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -586,36 +674,12 @@ SUMMARY:ЛК Управление качеством электронных ср
 UID:44105a6abe9c3268a681dcc94535d5f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261113T150000Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261211T150000Z
 LOCATION:24Б-403
-DTSTART:20261113T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:135bb47311279ceccca4569960b9cc14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261002T131500Z
-LOCATION:24Б-403
-DTSTART:20261002T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:ffc8395d6cd4b58b2bb67d2a256039a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261120T131500Z
-LOCATION:24Б-403
-DTSTART:20261120T114500Z
-SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:b071522f929846846e8fe65480085661
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261128T091500Z
-LOCATION:24Б-425
-DTSTART:20261128T074500Z
-SUMMARY:ЛР Основы радиоэлектроники и связи
-UID:eac3a94216a06cbc77ef65c67f2c36b1
+DTSTART:20261211T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:6f28a51253e9dfdadd82455baae6ca56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -634,14 +698,6 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:5ce844621cbd4314bdfa941d0e8a265d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261113T164500Z
-LOCATION:24Б-403
-DTSTART:20261113T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:ea129f21460667824fe551e72bb7e869
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20261116T131500Z
 LOCATION:24Б-403
@@ -656,6 +712,14 @@ LOCATION:24Б-403
 DTSTART:20260915T114500Z
 SUMMARY:ЛК Основы конструирования электронных средств
 UID:e941d50ab24a7b1c937c85a8c5a2b39e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261007T150000Z
+LOCATION:24Б-403
+DTSTART:20261007T133000Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:ddadae13687558701042f69c168a2ffa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -680,14 +744,6 @@ LOCATION:24Б-403
 DTSTART:20261013T151500Z
 SUMMARY:ПЗ Технология производства электронных средств и наноструктур 1
 UID:99ae1c9ae64a54bd6d4929ba0cfc5873
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261023T150000Z
-LOCATION:24Б-403
-DTSTART:20261023T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:911efa9f3ac50b9ec41420b807f43722
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -722,36 +778,12 @@ SUMMARY:ЛК Технология производства электронны�
 UID:9d96e28745a474adff0a52c9ede9cb07
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261023T164500Z
-LOCATION:24Б-403
-DTSTART:20261023T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:07748ae8881cbe17067efbd31a305c7a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261026T164500Z
 LOCATION:24Б-425
 DTSTART:20261026T151500Z
 SUMMARY:ЛР Технология производства электронных средств и наноструктур 1
 UID:2caaef0f604bb2367bf40c57a908ceea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261003T091500Z
-LOCATION:24Б-403
-DTSTART:20261003T074500Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:416be225c9d8b8dad622de8201005d08
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261017T091500Z
-LOCATION:24Б-403
-DTSTART:20261017T074500Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:879c2e2a732a549cb60af34518ae8408
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -802,12 +834,12 @@ SUMMARY:ЛР Основы конструирования электронных 
 UID:d90dbd61a5f89b4143b3702363155e67
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261215T131500Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20260904T091500Z
 LOCATION:24Б-403
-DTSTART:20261215T114500Z
-SUMMARY:ПЗ Технология производства интегральных устройств
-UID:fa8d18d6521540033f0275fe37dd3da1
+DTSTART:20260904T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:253433e3aec553cf625ccde3478ae0a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -826,36 +858,12 @@ SUMMARY:ЛК Информационные технологии проектир�
 UID:de53c03012e8cf1c4286944031bc9e5a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20260911T131500Z
-LOCATION:24Б-403
-DTSTART:20260911T114500Z
-SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:edb8157fc5c2d79a13e8d11b251cf477
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20260921T164500Z
 LOCATION:24Б-403
 DTSTART:20260921T151500Z
 SUMMARY:ПЗ Основы конструирования электронных средств
 UID:d3ef55044510ab1bb3d80e198e46b3f2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261127T164500Z
-LOCATION:24Б-403
-DTSTART:20261127T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:6bf0f7705b1f05121d0a9e2cb9b55584
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261204T150000Z
-LOCATION:24Б-403
-DTSTART:20261204T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:7d7b82f39e1d34bbe63134be3238bb77
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -930,6 +938,30 @@ SUMMARY:ЛК Технология производства электронны�
 UID:5ab04caf24256e5bcc26e11eaa860ee9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260911T131500Z
+LOCATION:24Б-403
+DTSTART:20260911T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:5500b6298eeed7478369ad0c99bbaac3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260925T131500Z
+LOCATION:24Б-403
+DTSTART:20260925T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:a71addd2ee7fbbc6c3e90cca53b3dc27
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261113T091500Z
+LOCATION:24Б-403
+DTSTART:20261113T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:955af1ae3c0071685d89de422f2f07c7
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261026T150000Z
 LOCATION:24Б-425
@@ -946,6 +978,14 @@ SUMMARY:ЛР Технология производства электронны�
 UID:0ce985edb22d3de675b0f8ec9988647e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261118T150000Z
+LOCATION:24Б-403
+DTSTART:20261118T133000Z
+SUMMARY:ПЗ Основы радиоэлектроники и связи
+UID:f8599ff01e5735ed56dd40c6cd1d452e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20270121T150000Z
 LOCATION:24Б-403
@@ -960,14 +1000,6 @@ LOCATION:24Б-403
 DTSTART:20260904T100000Z
 SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
 UID:a478005165f40a3125bd11eff32988b5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261106T131500Z
-LOCATION:24Б-403
-DTSTART:20261106T114500Z
-SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:173362305e073e1d9d3e3f969be37cb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1010,14 +1042,6 @@ SUMMARY:ПЗ Основы конструирования электронных 
 UID:d062365babc65e661f45dd38548d92df
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261016T150000Z
-LOCATION:24Б-403
-DTSTART:20261016T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:1e0447f7f0a55b59a9ab84d3ac38b86c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261201T131500Z
 LOCATION:24Б-403
@@ -1042,20 +1066,20 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:edac2ba49363e64a8117e6d23bd68300
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261204T164500Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261016T091500Z
 LOCATION:24Б-403
-DTSTART:20261204T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:29069a51d0bf538fc681078d7e95a54b
+DTSTART:20261016T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:96757842b59f38f5caea846bc08a0bfa
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20260904T150000Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20260925T091500Z
 LOCATION:24Б-403
-DTSTART:20260904T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:013dc7e52d9a052bfa38c081eda6e09a
+DTSTART:20260925T074500Z
+SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
+UID:08e3650f9d5c48de347b77abc036cf18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1090,12 +1114,12 @@ SUMMARY:ПЗ Управление качеством электронных ср
 UID:6a9f5d4b1e06e3ec9db094449f2ebc19
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261120T164500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261204T150000Z
 LOCATION:24Б-403
-DTSTART:20261120T151500Z
+DTSTART:20261204T133000Z
 SUMMARY:ПЗ Основы управления техническими системами
-UID:385a67ff13925c91a698b221de32b92b
+UID:cd6fce8df1190fbf944f1762027cff25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -1112,6 +1136,14 @@ LOCATION:24Б-403
 DTSTART:20261117T100000Z
 SUMMARY:ЛК Технология производства интегральных устройств
 UID:88fa240f4213e01259c75d036b71ddd3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261113T131500Z
+LOCATION:24Б-403
+DTSTART:20261113T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:3716548aa9ae93bf05654c2153200d7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -1146,20 +1178,12 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:50d8d5389bb2554911be8f78c65d47fd
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261128T073000Z
-LOCATION:24Б-425
-DTSTART:20261128T060000Z
-SUMMARY:ЛР Основы радиоэлектроники и связи
-UID:cc54c738d04054307bc6ddd4a7c4fcbe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261127T150000Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261120T131500Z
 LOCATION:24Б-403
-DTSTART:20261127T133000Z
+DTSTART:20261120T114500Z
 SUMMARY:ЛК Основы управления техническими системами
-UID:3323fe3fe6bf44f71aa1c31bbfad151e
+UID:e7697b2a4889b7cec104719d78754fb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -1210,12 +1234,12 @@ SUMMARY:ЛР Технология производства электронны�
 UID:e8bd83fc8815297b0d0cb29caf31f532
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261212T091500Z
-LOCATION:24Б-425
-DTSTART:20261212T074500Z
-SUMMARY:ЛР Основы радиоэлектроники и связи
-UID:c3d5e481b257822b1bd785aaccfa1f26
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261218T131500Z
+LOCATION:24Б-403
+DTSTART:20261218T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:eb398bea827bb01f03a9695602c42008
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1226,36 +1250,12 @@ SUMMARY:ЛК Технология производства интегральн�
 UID:e82273629e23a3b01908c93a1fa128ea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20260925T131500Z
-LOCATION:24Б-403
-DTSTART:20260925T114500Z
-SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:9db9e9f5f163e26610cf1d94796daee7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261117T150000Z
 LOCATION:24Б-403
 DTSTART:20261117T133000Z
 SUMMARY:ЛК Технология производства электронных средств и наноструктур 1
 UID:c0d789453673c70f72a215c0bd6fca96
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20260904T131500Z
-LOCATION:24Б-403
-DTSTART:20260904T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:d3062a753d20353906c043673d1d935b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20260918T164500Z
-LOCATION:24Б-403
-DTSTART:20260918T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:e6390f9580d0bf1f87b580f903b0a4d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1266,12 +1266,12 @@ SUMMARY:ЛК Технология производства электронны�
 UID:5afb0c31e2471c05c2faee141628341b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261211T131500Z
-LOCATION:24Б-425
-DTSTART:20261211T114500Z
-SUMMARY:ЛР Интегральные устройства радиоэлектроники и наноэлектроники
-UID:6860b753f45c015d4d3aba0e1d755318
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261002T150000Z
+LOCATION:24Б-403
+DTSTART:20261002T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:3eb5c6ca15c5195c9f6a17109a672dec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
@@ -1298,6 +1298,14 @@ SUMMARY:ЛР Технология производства электронны�
 UID:953999bd110b0a52c8006d6e8daff6ed
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261002T131500Z
+LOCATION:24Б-403
+DTSTART:20261002T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:d40a2d00e475325b805f71d17434ecee
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
 DTEND:20261218T113000Z
 LOCATION:24Б-425
@@ -1314,12 +1322,12 @@ SUMMARY:ЛК Управление качеством электронных ср
 UID:3d313aa73dcdf5a47b3bae72861b6eb2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261204T131500Z
-LOCATION:24Б-425
-DTSTART:20261204T114500Z
-SUMMARY:ЛР Основы управления техническими системами
-UID:94eae1c3bed387de15d4dffb320d8c3b
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261211T131500Z
+LOCATION:24Б-403
+DTSTART:20261211T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:642a776899b46c45d93c5d7e6f828b9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1338,20 +1346,20 @@ SUMMARY:ЛК Управление качеством электронных ср
 UID:c6c79939ba8950bfe75d692bc4a1c55e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261031T091500Z
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20261009T091500Z
 LOCATION:24Б-403
-DTSTART:20261031T074500Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:ace6e4e589429cbc4802996e674908be
+DTSTART:20261009T074500Z
+SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
+UID:f8f0e56b24a5e346f5c2d8bfe8341ad3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261127T131500Z
-LOCATION:24Б-425
-DTSTART:20261127T114500Z
-SUMMARY:ЛР Интегральные устройства радиоэлектроники и наноэлектроники
-UID:56e5334459a2c1a0339e33fad52df222
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20260923T150000Z
+LOCATION:24Б-403
+DTSTART:20260923T133000Z
+SUMMARY:ЛК Основы радиоэлектроники и связи
+UID:faec40d61535b168231ea0162ef615fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -1362,12 +1370,20 @@ SUMMARY:ЛК Основы конструирования электронных 
 UID:07a46aae8f73ed233f8dd634380e2cbf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261109T150000Z
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261202T150000Z
 LOCATION:24Б-425
-DTSTART:20261109T133000Z
-SUMMARY:ЛР Технология производства электронных средств и наноструктур 1
-UID:bbba9405155f5c0a3ff38eb76430f654
+DTSTART:20261202T133000Z
+SUMMARY:ЛР Основы радиоэлектроники и связи
+UID:b14dda9a82667576312cedfc11d18a5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260911T150000Z
+LOCATION:24Б-403
+DTSTART:20260911T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:0052a2eb86a2971e24c5c7c8e839f576
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -1378,12 +1394,12 @@ SUMMARY:ЛК Интегральные устройства радиоэлект�
 UID:70e5b17a2fbb8c482e1378fdff794189
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261023T131500Z
-LOCATION:24Б-403
-DTSTART:20261023T114500Z
-SUMMARY:ПЗ Интегральные устройства радиоэлектроники и наноэлектроники
-UID:a5b0fa948b8ee618042ebdd47565e4f7
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261109T150000Z
+LOCATION:24Б-425
+DTSTART:20261109T133000Z
+SUMMARY:ЛР Технология производства электронных средств и наноструктур 1
+UID:bbba9405155f5c0a3ff38eb76430f654
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
@@ -1400,14 +1416,6 @@ LOCATION:24Б-403
 DTSTART:20260929T151500Z
 SUMMARY:ПЗ Технология производства электронных средств и наноструктур 1
 UID:fd126587fe9cb6aaf2419cfbceb2d9f6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261009T164500Z
-LOCATION:24Б-403
-DTSTART:20261009T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:aa8601a1c703e42c1fe3098f2a3be5c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -1458,28 +1466,20 @@ SUMMARY:ЛР Технология производства электронны�
 UID:2b6406013464300d78157f5f8e3d14e3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261009T131500Z
+LOCATION:24Б-403
+DTSTART:20261009T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:9cc53d12acbd2062ed4e33ff45b56327
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
 DTEND:20261228T131500Z
 LOCATION:24Б-403
 DTSTART:20261228T114500Z
 SUMMARY:ПЗ Информационные технологии проектирования радиоэлектронных средств
 UID:418c0b286d66d299b4c67238a0dd78fa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261030T164500Z
-LOCATION:24Б-403
-DTSTART:20261030T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:ec6625dcba4c9a146311afdf4a280f1f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261002T164500Z
-LOCATION:24Б-403
-DTSTART:20261002T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:4cc4752079d287db0ef82098f644a73a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
@@ -1490,60 +1490,44 @@ SUMMARY:ПЗ Управление качеством электронных ср
 UID:35d08cb3c1d51e280347a52f64de35f9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261030T131500Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261113T150000Z
 LOCATION:24Б-403
-DTSTART:20261030T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:b00427c74002407ca7a28ff3d18b07d4
+DTSTART:20261113T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:48664c032ff1bc9c77dcf494b5e38fda
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261204T131500Z
+LOCATION:24Б-403
+DTSTART:20261204T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:e02d6f7542dceb725ab2849c8cccbe14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261023T131500Z
+LOCATION:24Б-403
+DTSTART:20261023T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:5de8ed0d9c319a552bcb2ab795e1262d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261030T150000Z
+LOCATION:24Б-403
+DTSTART:20261030T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:067dd4b2d4ac4ae8b724266b3b3b3930
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20260911T164500Z
-LOCATION:24Б-403
-DTSTART:20260911T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:d0af822a83455f01d432e6ac7c5505c5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20260925T150000Z
-LOCATION:24Б-403
-DTSTART:20260925T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:57a7a3e5dd057eeaef982978a80aae83
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261212T073000Z
+DTEND:20261204T091500Z
 LOCATION:24Б-425
-DTSTART:20261212T060000Z
-SUMMARY:ЛР Основы радиоэлектроники и связи
-UID:a272fb6c306aaaec755cb06b221005dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
-DTEND:20261218T150000Z
-LOCATION:24Б-403
-DTSTART:20261218T133000Z
-SUMMARY:ЛК Основы управления техническими системами
-UID:d8fc2f383d8dd44ea851949599b6f8b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261211T164500Z
-LOCATION:24Б-403
-DTSTART:20261211T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:83419d171dd6446eb4b17694191469f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261016T164500Z
-LOCATION:24Б-403
-DTSTART:20261016T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:5b9410ff4b3f8c461e6480239c15a7ad
+DTSTART:20261204T074500Z
+SUMMARY:ЛР Основы управления техническими системами
+UID:0bb49c6cd1c1f7159d17e14770e34533
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
@@ -1562,20 +1546,20 @@ SUMMARY:ПЗ Информационные технологии проектир�
 UID:d96ef3e1de9e3b14646afb109d555d40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261113T131500Z
-LOCATION:24Б-403
-DTSTART:20261113T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:102f225adb61247337992e0788b99431
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
 DTEND:20261020T113000Z
 LOCATION:24Б-403
 DTSTART:20261020T100000Z
 SUMMARY:ЛК Технология производства интегральных устройств
 UID:2337324b6f9a86816b80231e06df68cd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20260904T131500Z
+LOCATION:24Б-403
+DTSTART:20260904T114500Z
+SUMMARY:ЛК Основы управления техническими системами
+UID:886320f7243ae000899dd0c872d6e91c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ДИТЕЛЕВА АННА ОЛЕГОВНА
@@ -1594,12 +1578,28 @@ SUMMARY:ЛР Технология производства электронны�
 UID:ac946fd22b3fe5c5057fd2539e368c99
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261003T073000Z
+DESCRIPTION:СПИРЯКИН ДЕНИС НИКОЛАЕВИЧ
+DTEND:20261023T150000Z
 LOCATION:24Б-403
-DTSTART:20261003T060000Z
-SUMMARY:ЛК Основы радиоэлектроники и связи
-UID:4afe05e1dba816d4fc7ca7b66dd77e9c
+DTSTART:20261023T133000Z
+SUMMARY:ПЗ Основы управления техническими системами
+UID:15faed85062cf19b6a65343d0566fdf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261216T131500Z
+LOCATION:24Б-425
+DTSTART:20261216T114500Z
+SUMMARY:ЛР Основы радиоэлектроники и связи
+UID:7ff2bf241b064dbfb7f0ef4d25f18ebf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
+DTEND:20260918T091500Z
+LOCATION:24Б-403
+DTSTART:20260918T074500Z
+SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
+UID:d33c33515d60e4fe8e8f8e38e9f6ef8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
@@ -1610,20 +1610,12 @@ SUMMARY:ЛК Управление качеством электронных ср
 UID:c003223aba9163d7d696f45245d8535d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЛЯМИН АНДРЕЙ НИКОЛАЕВИЧ
-DTEND:20261016T131500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+DTEND:20261215T131500Z
 LOCATION:24Б-403
-DTSTART:20261016T114500Z
-SUMMARY:ЛК Интегральные устройства радиоэлектроники и наноэлектроники
-UID:c02257f4fac8b42ff46e5a0400f988c0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СУХОВ АНДРЕЙ ВЛАДИМИРОВИЧ
-DTEND:20261017T073000Z
-LOCATION:24Б-403
-DTSTART:20261017T060000Z
-SUMMARY:ПЗ Основы радиоэлектроники и связи
-UID:0de01c71c5b72270c60b4a00014ffd1b
+DTSTART:20261215T114500Z
+SUMMARY:ПЗ Технология производства интегральных устройств
+UID:fa8d18d6521540033f0275fe37dd3da1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУКУШКИН ДМИТРИЙ ЮРЬЕВИЧ
@@ -1632,13 +1624,5 @@ LOCATION:24Б-403
 DTSTART:20260902T133000Z
 SUMMARY:ЛК Управление качеством электронных средств
 UID:ae45f6e1cc0865a8a5169ea6a108a3e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
-DTEND:20261106T164500Z
-LOCATION:24Б-403
-DTSTART:20261106T151500Z
-SUMMARY:ПЗ Основы управления техническими системами
-UID:beed9abe6a55eb844ee24d701c43d844
 END:VEVENT
 END:VCALENDAR
