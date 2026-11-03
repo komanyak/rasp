@@ -52,3 +52,6 @@ print(f"   ├─ 🔄 Обновлено:          {updated_count}")
 print(f"   └─ ➖ Без изменений:       {unchanged_count}")
 print(f"❌ Не удалось получить:      {error_count} ({error_count*100//total_count if total_count > 0 else 0}%)")
 print("="*50)
+
+if total_count and success_count == 0:
+    raise SystemExit("Не удалось получить расписание ни для одной группы")
