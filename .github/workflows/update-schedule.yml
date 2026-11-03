@@ -34,17 +34,16 @@ jobs:
           pip install -r requirements.txt
       
       # mai.ru blocks requests from GitHub-hosted runner IPs from time to time.
-      # The repository already contains the last successful group catalogue, so
-      # a failed catalogue refresh must not prevent the daily ICS refresh.
-      - name: Refresh group catalogue (best effort)
-        id: group_parser
-        continue-on-error: true
-        run: python group_parser.py
-
-      - name: Use saved group catalogue when refresh is unavailable
-        if: steps.group_parser.outcome == 'failure'
+      # In that case, retain the catalogue checked out from the repository and
+      # still refresh the individual schedules.
+      - name: Refresh group catalogue or use saved copy
         run: |
-          echo "Group catalogue refresh was blocked by mai.ru; using groups/groups.json from the repository."
+          if python group_parser.py; then
+            echo "Group catalogue refreshed successfully."
+          else
+            echo "::warning::Group catalogue refresh was blocked by mai.ru; using groups/groups.json from the repository."
+            test -s groups/groups.json
+          fi
       
       - name: Run main schedule updater
         run: |
