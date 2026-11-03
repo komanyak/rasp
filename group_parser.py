@@ -3,6 +3,11 @@ import requests
 import json
 import os
 import random
+import sys
+import warnings
+
+from requests.exceptions import RequestException, SSLError
+from urllib3.exceptions import InsecureRequestWarning
 
 
 
@@ -22,6 +27,28 @@ USER_AGENTS = [
 groups = {"institute": {}}
 
 
+def load_page(url, headers):
+    """Load a MAI page, preserving TLS verification whenever the site allows it.
+
+    The MAI server currently sends a certificate chain containing a self-signed
+    certificate. GitHub-hosted runners correctly reject that chain.  This
+    fallback is limited to that specific certificate-validation failure; normal
+    network and HTTP failures still fail the update.
+    """
+    try:
+        response = requests.get(url, headers=headers, timeout=(10, 60))
+    except SSLError:
+        print("TLS verification failed for mai.ru; retrying this public page without certificate verification.", file=sys.stderr)
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", InsecureRequestWarning)
+            response = requests.get(url, headers=headers, timeout=(10, 60), verify=False)
+
+    response.raise_for_status()
+    return response.text
+
+
+
+failed_institutes = []
 
 for i in range(1, 15):
     # Выбираем случайный user agent для каждого запроса
@@ -31,7 +58,12 @@ for i in range(1, 15):
 
     link = f"https://mai.ru/education/studies/schedule/groups.php?department=%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82+%E2%84%96{i}&course=all"
     print(link)
-    html_doc = requests.get(link, headers=headers).text
+    try:
+        html_doc = load_page(link, headers)
+    except RequestException as error:
+        print(f"Не удалось получить институт №{i}: {error}", file=sys.stderr)
+        failed_institutes.append(i)
+        continue
 
     soup = BeautifulSoup(html_doc, 'html.parser')
 
@@ -94,6 +126,12 @@ for i in range(1, 15):
 
     groups["institute"][str(i)] = data_dict
     print(f"{i} Institute parsed")
+
+if failed_institutes:
+    raise SystemExit(
+        "Список групп не обновлён: не удалось получить институты "
+        + ", ".join(map(str, failed_institutes))
+    )
 
 if not os.path.exists("groups"):
     os.makedirs("groups")

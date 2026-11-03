@@ -6,6 +6,10 @@ import requests
 import hashlib
 import random
 import os
+import warnings
+from urllib.parse import urlparse
+
+from urllib3.exceptions import InsecureRequestWarning
 
 
 # Массив различных user agents для защиты от блокировки
@@ -20,6 +24,27 @@ USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0'
 ]
 
+TLS_VERIFICATION_FAILED_HOSTS = set()
+
+
+def get_mai_response(url, headers, timeout):
+    """Request a MAI endpoint, falling back only for its invalid TLS chain."""
+    host = urlparse(url).hostname
+
+    if host in TLS_VERIFICATION_FAILED_HOSTS:
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", InsecureRequestWarning)
+            return requests.get(url, headers=headers, timeout=timeout, verify=False)
+
+    try:
+        return requests.get(url, headers=headers, timeout=timeout)
+    except requests.exceptions.SSLError:
+        TLS_VERIFICATION_FAILED_HOSTS.add(host)
+        print(f"TLS verification failed for {host}; continuing with certificate verification disabled for this host.")
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", InsecureRequestWarning)
+            return requests.get(url, headers=headers, timeout=timeout, verify=False)
+
 
 def get_schedule(group):
     # Выбираем случайный user agent для каждого запроса
@@ -31,7 +56,7 @@ def get_schedule(group):
     link = "https://public.mai.ru/schedule/data/" + group_hash + ".json"
 
     try:
-        responce = requests.get(link, headers=headers, timeout=3)
+        responce = get_mai_response(link, headers, timeout=3)
         responce.raise_for_status()
         
         if not responce.text.strip():
