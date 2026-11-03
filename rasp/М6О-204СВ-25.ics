@@ -2,19 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260908T164500Z
-LOCATION:1-12
-DTSTART:20260908T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:52a183907fbdd41b4d9a08c104993fab
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
 DTEND:20260921T073000Z
 LOCATION:24-215.1
 DTSTART:20260921T060000Z
 SUMMARY:ЛК Тепловое проектирование высокоскоростных ЛА
 UID:fec63e86586ba72c8e5d50a0a7504f64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20261209T150000Z
+LOCATION:24-215.1
+DTSTART:20261209T133000Z
+SUMMARY:ПЗ Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
+UID:a78acf4d4c73679551233d89c625cdd6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -31,14 +32,6 @@ LOCATION:24-215.1
 DTSTART:20260902T114500Z
 SUMMARY:ЛК Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
 UID:e13fda0fa74443b50c979e0040d34470
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20261209T150000Z
-LOCATION:24-215.1
-DTSTART:20261209T133000Z
-SUMMARY:ПЗ Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
-UID:a78acf4d4c73679551233d89c625cdd6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -105,6 +98,13 @@ SUMMARY:ЛК Тепловое проектирование высокоскор�
 UID:11fb6abbce3b2362d6bc8f113596d55d
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260908T183000Z
+LOCATION:24-744
+DTSTART:20260908T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:0a6a221acdc23b6b0f836ec3058f69da
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
 DTEND:20261021T131500Z
 LOCATION:24-215.1
@@ -118,13 +118,6 @@ LOCATION:24-600а
 DTSTART:20261208T170000Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:8fc4db0f3354715324c2f1720c04ed03
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261006T183000Z
-LOCATION:1-12
-DTSTART:20261006T170000Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:3ef58920e32128752b3d421c18468028
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -151,19 +144,19 @@ SUMMARY:ЛК Механика разрушения композиционных 
 UID:b7458907d66e4d03032b3aea25ac2ddc
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261006T164500Z
-LOCATION:1-12
-DTSTART:20261006T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:19adad19e0c17638635e4bd9a90a062b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
 DTEND:20261111T131500Z
 LOCATION:24-215.1
 DTSTART:20261111T114500Z
 SUMMARY:ЛК Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
 UID:e7cea307606579fcdbb82e14e0a2eee0
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261117T164500Z
+LOCATION:24-440
+DTSTART:20261117T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:b1d427dee5b264612c652a7b66ae428f
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261215T183000Z
@@ -202,13 +195,6 @@ LOCATION:24-215.1
 DTSTART:20261109T074500Z
 SUMMARY:ПЗ Тепловое проектирование высокоскоростных ЛА
 UID:c68ba4509504403dc3ec91b950015548
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260901T183000Z
-LOCATION:1-12
-DTSTART:20260901T170000Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:cedb5e706eec37ab20b0ca7d5ec4fa4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
@@ -326,13 +312,6 @@ SUMMARY:ПЗ Формирование тактико-технических тр
 UID:9aea234b86ff274e18449b17c7b10b3f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261020T183000Z
-LOCATION:1-12
-DTSTART:20261020T170000Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:2993209463dd952a66b7818a7774ac2d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
 DTEND:20261015T164500Z
 LOCATION:24-507.1
@@ -388,6 +367,14 @@ SUMMARY:ЛК Тепловое проектирование высокоскор�
 UID:404062f8096e9cd95462ece52bda2e29
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пичужкин Павел Викторович
+DTEND:20260901T164500Z
+LOCATION:24-444
+DTSTART:20260901T151500Z
+SUMMARY:ЛК Теоретические основы инженерной инновационной деятельности
+UID:35fc1bdfded6101e9f73de66c8e0b0c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
 DTEND:20261029T183000Z
 LOCATION:24-507.1
@@ -426,6 +413,21 @@ LOCATION:24-215.1
 DTSTART:20260930T133000Z
 SUMMARY:ПЗ Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
 UID:63bec11d6eba6a7ab51e9ad4d2baaa13
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261117T183000Z
+LOCATION:24-440
+DTSTART:20261117T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:ce470bb7945591814c2701bfe9ecb56e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20270114T150000Z
+LOCATION:24-507.1
+DTSTART:20270114T133000Z
+SUMMARY:Экзамен Механика разрушения композиционных материалов
+UID:5c9bffa473abb752557c6a9ad25cbd14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -520,6 +522,14 @@ LOCATION:24-419
 DTSTART:20261022T151500Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:3c6415ce02b6b8a346213d5d63f392c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20270120T150000Z
+LOCATION:24-215.1
+DTSTART:20270120T133000Z
+SUMMARY:Экзамен Тепловое проектирование высокоскоростных ЛА
+UID:f846e302c45105ddbb0e80b5dbfbaa8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -633,13 +643,6 @@ SUMMARY:ЛК Механика разрушения композиционных 
 UID:9e431830eeaa52378c7a136a9e9c12c8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261117T164500Z
-LOCATION:1-12
-DTSTART:20261117T151500Z
-SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:2ab283b98e1f6dedd0e44b90ddfcd2dd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
 DTEND:20261120T164500Z
 LOCATION:24-507.2
@@ -669,6 +672,14 @@ LOCATION:24-439
 DTSTART:20260902T151500Z
 SUMMARY:ПЗ Коммерциализация космической деятельности
 UID:7af4b1ab9d9105875e1d07abd3157123
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20270120T164500Z
+LOCATION:24-215.1
+DTSTART:20270120T151500Z
+SUMMARY:Экзамен Тепловое проектирование высокоскоростных ЛА
+UID:b2a2abbaf8708d0701543c2d4abd11ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
@@ -751,12 +762,26 @@ SUMMARY:ЛК Формирование тактико-технических тр
 UID:f1c0c68146cda899d7801776cc7ea364
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261006T183000Z
+LOCATION:24-440
+DTSTART:20261006T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:6b3fbed84460230f97d61d3d05f1492a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
 DTEND:20260916T131500Z
 LOCATION:24-215.1
 DTSTART:20260916T114500Z
 SUMMARY:ЛК Формирование тактико-технических требований к высокоскоростным летательным аппаратам и их облика
 UID:a44535e2301a65318b57a12ffcb10a58
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260908T164500Z
+LOCATION:24-744
+DTSTART:20260908T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:707aeafdfe6e48287a820ab81a32a006
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
@@ -767,12 +792,11 @@ SUMMARY:ПЗ Тепловое проектирование высокоскор�
 UID:0ea123a304b985d39b345c62ac228faf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тютюнников Николай Петрович
-DTEND:20261120T131500Z
-LOCATION:24-507.2
-DTSTART:20261120T114500Z
-SUMMARY:ПЗ Компьютерные технологии моделирования
-UID:91db1bff7f790ec123808054d49898f7
+DTEND:20260922T164500Z
+LOCATION:24-744
+DTSTART:20260922T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:e4d27f8adeaae57843d5aa1c50a27760
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
@@ -781,6 +805,21 @@ LOCATION:24-419
 DTSTART:20261008T151500Z
 SUMMARY:ЛК Коммерциализация космической деятельности
 UID:e54d912be0affc9754c3d042742fbddf
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261020T183000Z
+LOCATION:24-440
+DTSTART:20261020T170000Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:dcc524d039ede257e7db4efb582e9f94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тютюнников Николай Петрович
+DTEND:20261120T131500Z
+LOCATION:24-507.2
+DTSTART:20261120T114500Z
+SUMMARY:ПЗ Компьютерные технологии моделирования
+UID:91db1bff7f790ec123808054d49898f7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261124T183000Z
@@ -827,40 +866,12 @@ SUMMARY:ЛР Занятие в группах индивидуальных тр�
 UID:1beddbb8ea7834df781da16e011dce84
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260922T164500Z
-LOCATION:1-12
-DTSTART:20260922T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:0f065799e9f59b36d81496512d1e808b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Шелков Кирилл Андреевич
 DTEND:20261218T150000Z
 LOCATION:24-507.2
 DTSTART:20261218T133000Z
 SUMMARY:ЛР Компьютерные технологии моделирования
 UID:ecaac82f5f8c8620e17d338c87c75333
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260901T164500Z
-LOCATION:1-12
-DTSTART:20260901T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:581c4dfa56546e69b2085b0d9a976d07
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260922T183000Z
-LOCATION:1-12
-DTSTART:20260922T170000Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:3de67ff7c3914f1143c9087cd2df7074
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261117T183000Z
-LOCATION:1-12
-DTSTART:20261117T170000Z
-SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:75e6cbd51cddb5428dc256073d1ec395
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
@@ -983,11 +994,11 @@ SUMMARY:ЛК Механика разрушения композиционных 
 UID:c1dbb5f173d70f2f9b8ed739af4512d6
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260908T183000Z
-LOCATION:1-12
-DTSTART:20260908T170000Z
+DTEND:20260922T183000Z
+LOCATION:24-744
+DTSTART:20260922T170000Z
 SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:e9cc5dc861490427bccaa710167409f3
+UID:34f2f1fa44d61f8fe1f5b2aec5ff09ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
@@ -1054,6 +1065,13 @@ SUMMARY:ЛР Компьютерные технологии моделирова�
 UID:83d02167eb5269cad7a79bc6015774d5
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261020T164500Z
+LOCATION:24-440
+DTSTART:20261020T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:f31cf0e152b1dc2fd92b2208bc99f061
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Гусейнов Арсен Буйдалаевич
 DTEND:20260902T150000Z
 LOCATION:24-215.1
@@ -1094,6 +1112,14 @@ SUMMARY:ЛК Тепловое проектирование высокоскор�
 UID:45bc0203be9ae319fa522061f65b70be
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Пичужкин Павел Викторович
+DTEND:20260901T183000Z
+LOCATION:24-444
+DTSTART:20260901T170000Z
+SUMMARY:ЛК Теоретические основы инженерной инновационной деятельности
+UID:34aa6fdb39fc8b0f87540f452a814335
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Оделевский Владимир Константинович
 DTEND:20261223T164500Z
 LOCATION:24-439
@@ -1108,13 +1134,6 @@ LOCATION:24-507.1
 DTSTART:20260917T170000Z
 SUMMARY:ЛК Механика разрушения композиционных материалов
 UID:8ecd0505afe88f0a0429b9ef42c5bf50
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261020T164500Z
-LOCATION:1-12
-DTSTART:20261020T151500Z
-SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8952f2b79cb14055021bdc70b81a194c
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261110T183000Z
@@ -1184,6 +1203,21 @@ LOCATION:24-600а
 DTSTART:20261013T151500Z
 SUMMARY:ЛР Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:da92745c234928ca9db31442843e85a5
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261006T164500Z
+LOCATION:24-440
+DTSTART:20261006T151500Z
+SUMMARY:ЛК Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8c73d78d73c3cb2f1cebb2f3deefd582
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шелков Кирилл Андреевич
+DTEND:20270114T164500Z
+LOCATION:24-507.1
+DTSTART:20270114T151500Z
+SUMMARY:Экзамен Механика разрушения композиционных материалов
+UID:aa86019179626c5fa938dab5f14ee022
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
