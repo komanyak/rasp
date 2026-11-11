@@ -1,10 +1,11 @@
+
 name: Update Schedule
 
 on:
   # Запуск раз в сутки в 3:00 UTC
   schedule:
     - cron: '0 3 * * *'
-  
+
   # Возможность ручного запуска
   workflow_dispatch:
 
@@ -14,58 +15,49 @@ permissions:
 jobs:
   update-schedule:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          # Python 3.9 is unavailable on the Ubuntu 26.04 GitHub-hosted runner.
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-      # mai.ru blocks requests from GitHub-hosted runner IPs from time to time.
-      # In that case, retain the catalogue checked out from the repository and
-      # still refresh the individual schedules.
-      - name: Refresh group catalogue or use saved copy
+
+      - name: Check saved group catalogue
         run: |
-          if python group_parser.py; then
-            echo "Group catalogue refreshed successfully."
-          else
-            echo "::warning::Group catalogue refresh was blocked by mai.ru; using groups/groups.json from the repository."
-            test -s groups/groups.json
-          fi
-      
+          test -s groups/groups.json
+          python -m json.tool groups/groups.json > /dev/null
+          echo "Каталог групп найден и успешно проверен."
+
       - name: Run main schedule updater
         run: |
-          echo "Запуск обновления расписаний (таймаут на группу: 3 сек)"
+          echo "Запуск обновления расписаний (таймаут запроса: 10 сек)"
           python main.py
-      
+
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet -- rasp/ groups/groups.json || echo "changes=true" >> $GITHUB_OUTPUT
-      
+          git diff --quiet -- rasp/ || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Commit and push changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add rasp/*.ics
-          git add groups/groups.json
           git commit -m "🔄 Автоматическое обновление расписания"
           git push
-      
+
       - name: No changes detected
         if: steps.check_changes.outputs.changes != 'true'
         run: echo "Изменений в расписании не обнаружено"
-
