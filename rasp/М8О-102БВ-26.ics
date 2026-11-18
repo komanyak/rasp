@@ -57,13 +57,6 @@ SUMMARY:ЛК Программирование на языке Python
 UID:befc6f6ce3a038bd319901af2ad925c4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261023T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261023T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:8bc069a148591545808bcb04a19cbf97
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
 DTEND:20260929T073000Z
 LOCATION:ГУК Б-324
@@ -219,6 +212,14 @@ SUMMARY:ПЗ Физическая культура
 UID:7d34ce7c92cc8957d09c1abc6069ecf9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261030T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261030T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:92bebe96e1523ee6fb45f11f3b8cbb4f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20261029T091500Z
 LOCATION:ГУК Б-460
@@ -304,25 +305,11 @@ SUMMARY:ПЗ Физическая культура
 UID:32af953c2152594663370d3fcacf4f96
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261211T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261211T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:525ac38317463358ccfd02cfb99a8075
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261216T091500Z
 LOCATION:--каф. 919
 DTSTART:20261216T074500Z
 SUMMARY:ПЗ Физическая культура
 UID:34c3854b8c4d5d7d5e4c330b0f1a4a20
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261016T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261016T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:fd1b10af458539c97a57d6137f3ec0dc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -379,11 +366,12 @@ SUMMARY:ЛР Дискретная математика
 UID:6ecf9e535792b37459058ecb0510b955
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260925T113000Z
-LOCATION:Орш. В-621
-DTSTART:20260925T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e19883c44fe4c7bb993550e34514e336
+DESCRIPTION:Филимонов Николай Сергеевич
+DTEND:20261128T091500Z
+LOCATION:ГУК А-it-11
+DTSTART:20261128T074500Z
+SUMMARY:ЛР Инструменты промышленной разработки
+UID:48281daa77ab64596d86f87a644ff9b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВА ЕКАТЕРИНА ОЛЕГОВНА
@@ -417,22 +405,6 @@ SUMMARY:ПЗ Физическая культура
 UID:d2b0e0f70f3082c57fb95d2886fd31bc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Филимонов Николай Сергеевич
-DTEND:20261128T091500Z
-LOCATION:ГУК А-it-11
-DTSTART:20261128T074500Z
-SUMMARY:ЛР Инструменты промышленной разработки
-UID:48281daa77ab64596d86f87a644ff9b4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
-DTEND:20261216T150000Z
-LOCATION:ГУК В-228
-DTSTART:20261216T133000Z
-SUMMARY:ЛК Дискретная математика
-UID:be0ecd7cd69b46415156670c76cd281a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
 DTEND:20261217T113000Z
 LOCATION:ГУК Б-649
@@ -441,18 +413,20 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:6219fe87e995fee2aa2d81f38316b05e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261106T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261106T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:847fbb5df8c3ab31ef58e0df32578ac0
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20261224T091500Z
+LOCATION:ГУК Б-460
+DTSTART:20261224T074500Z
+SUMMARY:ЛК Математический анализ
+UID:f3d61f43403b5cd998ef2dbbdfab0fa2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261111T091500Z
-LOCATION:--каф. 919
-DTSTART:20261111T074500Z
-SUMMARY:ПЗ Физическая культура
-UID:256a8dfd5a35179ab0e1fbfdcae6d870
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20270112T131500Z
+LOCATION:ГУК Б-654
+DTSTART:20270112T114500Z
+SUMMARY:Экзамен Математический анализ
+UID:d5d830615da518b148a2fd3e4c6a16da
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261223T091500Z
@@ -462,20 +436,19 @@ SUMMARY:ПЗ Физическая культура
 UID:90a7792ee94cd715ea5267d1334e8cce
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261111T091500Z
+LOCATION:--каф. 919
+DTSTART:20261111T074500Z
+SUMMARY:ПЗ Физическая культура
+UID:256a8dfd5a35179ab0e1fbfdcae6d870
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
 DTEND:20261006T113000Z
 LOCATION:ГУК Б-450
 DTSTART:20261006T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:88f38d0d79e9c6f398ca35fb916d470a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20270112T131500Z
-LOCATION:ГУК Б-654
-DTSTART:20270112T114500Z
-SUMMARY:Экзамен Математический анализ
-UID:d5d830615da518b148a2fd3e4c6a16da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
@@ -510,11 +483,12 @@ SUMMARY:ПЗ Основы российской государственност�
 UID:60399af5778a002d70db4d3d49464446
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261120T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261120T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:5a15f7c068a5a7a67aba39ac34071811
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261204T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261204T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4c5272ad7562b162d84ee135db2357ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
@@ -580,6 +554,14 @@ SUMMARY:ЛР Программирование на языке Python
 UID:9cb372635f46896eee61dfa479e91bb6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261106T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261106T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:700cd6cea02ff654ceebbbef0b7598c9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ползикова Алина Владимировна
 DTEND:20261201T091500Z
 LOCATION:ГУК Б-it-17
@@ -595,12 +577,36 @@ SUMMARY:ПЗ Физическая культура
 UID:7832f2ba4b6cd2ad589665c2df03721a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20260925T113000Z
+LOCATION:Орш. А-424
+DTSTART:20260925T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:368008aa721616d2d5dd9f6b359c941d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
 DTEND:20261203T113000Z
 LOCATION:ГУК Б-649
 DTSTART:20261203T100000Z
 SUMMARY:ЛК Линейная алгебра и аналитическая геометрия
 UID:1b245febff05af853b293c3548e73254
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20260911T113000Z
+LOCATION:Орш. А-424
+DTSTART:20260911T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:54e9f9a5b55040069620ca120e04b8c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20260918T113000Z
+LOCATION:Орш. А-424
+DTSTART:20260918T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:10e079291beb2b20ee2f2e66f2beadce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
@@ -731,11 +737,12 @@ SUMMARY:ЛК Основы российской государственност�
 UID:5946b1a5f53e0dedb9a7e4e4c321344f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261009T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261009T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c980f4ff9228688436beef9a32fccd3b
+DESCRIPTION:ТХУГО МУЛИАТ МОСОВНА
+DTEND:20261030T131500Z
+LOCATION:Орш. В-407
+DTSTART:20261030T114500Z
+SUMMARY:ПЗ Общественный проект "Обучение служением"
+UID:5777fb6f1e7c2b2755c22352ffc05b09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Филимонов Николай Сергеевич
@@ -744,14 +751,6 @@ LOCATION:ГУК А-it-11
 DTSTART:20261017T074500Z
 SUMMARY:ЛР Инструменты промышленной разработки
 UID:807eb9d61d2162b2d2c5893b6b57b6dd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТХУГО МУЛИАТ МОСОВНА
-DTEND:20261030T131500Z
-LOCATION:Орш. В-407
-DTSTART:20261030T114500Z
-SUMMARY:ПЗ Общественный проект "Обучение служением"
-UID:5777fb6f1e7c2b2755c22352ffc05b09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Землянская Анастасия Петровна
@@ -830,13 +829,6 @@ LOCATION:ГУК Б-it-17
 DTSTART:20260908T060000Z
 SUMMARY:ЛР Программирование на языке Python
 UID:93830cd07054eec8f9546e765f25ec06
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260918T113000Z
-LOCATION:Орш. В-621
-DTSTART:20260918T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:259b9699524cf50cda7b2929f69f385a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Землянская Анастасия Петровна
@@ -1179,11 +1171,12 @@ SUMMARY:ЛР Инструменты промышленной разработк�
 UID:553bc3a7b596c0ebc955582af454c39c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260911T113000Z
-LOCATION:Орш. В-621
-DTSTART:20260911T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:61fd6b89ad4571482d7f8d5c291808cc
+DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
+DTEND:20261216T150000Z
+LOCATION:ГУК В-228
+DTSTART:20261216T133000Z
+SUMMARY:ЛК Дискретная математика
+UID:be0ecd7cd69b46415156670c76cd281a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матыцин Александр Анатольевич
@@ -1302,6 +1295,14 @@ LOCATION:ГУК Б-450
 DTSTART:20261215T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:b12aa99fd10587fbcdb7cab442432574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261225T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261225T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:1ab15461555c0d7d0d5defd5acf3cefb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -1423,6 +1424,14 @@ SUMMARY:ЛК Линейная алгебра и аналитическая ге�
 UID:49fe17800986d77ff0d9e8707d04c131
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261009T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261009T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:838f4aa3d5edee289296d79cc678e699
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Землянская Анастасия Петровна
 DTEND:20260904T091500Z
 LOCATION:Орш. В-403
@@ -1503,13 +1512,6 @@ SUMMARY:ЛК Дискретная математика
 UID:dc706c7863abea782279a90aabb7aa71
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261204T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261204T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:0ffbd38622b9401998264963fdefc0a8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
 DTEND:20261214T113000Z
 LOCATION:ГУК Б-it-17
@@ -1532,6 +1534,14 @@ LOCATION:ГУК А-it-11
 DTSTART:20261128T060000Z
 SUMMARY:ЛР Инструменты промышленной разработки
 UID:a515e105409ceb892e264c63779f6fd6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261211T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261211T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:1bf8860752c2b266de29ef494daa23af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
@@ -1669,13 +1679,6 @@ SUMMARY:ЛК Фундаментальная информатика
 UID:9f2a0e4957b61735e811f9faa0b9aa87
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261002T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261002T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:c6edbd1db99248df3e652e3eb93e2df6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
 DTEND:20261014T150000Z
 LOCATION:ГУК В-228
@@ -1693,19 +1696,19 @@ UID:3f512f1d99e7552fa90182d98df0667b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ползикова Алина Владимировна
-DTEND:20261103T091500Z
-LOCATION:ГУК Б-it-17
-DTSTART:20261103T074500Z
-SUMMARY:ЛР Программирование на языке Python
-UID:e942b75b961a0e4d038f323b45860440
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ползикова Алина Владимировна
 DTEND:20261215T073000Z
 LOCATION:ГУК Б-it-17
 DTSTART:20261215T060000Z
 SUMMARY:ЛР Программирование на языке Python
 UID:b8b3217c309bbfa8e72076bb895e7810
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ползикова Алина Владимировна
+DTEND:20261103T091500Z
+LOCATION:ГУК Б-it-17
+DTSTART:20261103T074500Z
+SUMMARY:ЛР Программирование на языке Python
+UID:e942b75b961a0e4d038f323b45860440
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
@@ -1747,11 +1750,12 @@ SUMMARY:ПЗ Общественный проект "Обучение служе�
 UID:269e5ddf3e28f7f09886a7d79c42931d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261225T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261225T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:09a19dd2173a7a44208fd34fe25473a1
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261023T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261023T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:dc142bb5bbc205d7d26b3bc520f21713
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -1806,6 +1810,14 @@ LOCATION:ГУК В-228
 DTSTART:20260923T133000Z
 SUMMARY:ЛК Дискретная математика
 UID:d5db88018133e4d72e6802c01eae3a35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261002T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261002T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:531c7832817fd8f849024537d664b260
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РОМАНЕНКОВ АЛЕКСАНДР МИХАЙЛОВИЧ
@@ -1912,11 +1924,12 @@ SUMMARY:ЛР Дискретная математика
 UID:ddac07f8258303eba40a6970cfef32ab
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261127T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261127T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:042caabfe84630e9e224c32a180d5c31
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20261208T113000Z
+LOCATION:ГУК Б-450
+DTSTART:20261208T100000Z
+SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
+UID:be2b0fa9d9889eab6deab7c59ac5353a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
@@ -1925,14 +1938,6 @@ LOCATION:ГУК Б-450
 DTSTART:20261201T100000Z
 SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
 UID:90734c8cb9e37308178c360e1d1e2e70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20261208T113000Z
-LOCATION:ГУК Б-450
-DTSTART:20261208T100000Z
-SUMMARY:ПЗ Линейная алгебра и аналитическая геометрия
-UID:be2b0fa9d9889eab6deab7c59ac5353a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
@@ -1949,14 +1954,6 @@ LOCATION:ГУК В-228
 DTSTART:20261028T133000Z
 SUMMARY:ЛК Дискретная математика
 UID:7a66ed9ce3888c3be8774423a05d4fbf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20261224T091500Z
-LOCATION:ГУК Б-460
-DTSTART:20261224T074500Z
-SUMMARY:ЛК Математический анализ
-UID:f3d61f43403b5cd998ef2dbbdfab0fa2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ТХУГО МУЛИАТ МОСОВНА
@@ -2050,13 +2047,6 @@ SUMMARY:ПЗ Физическая культура
 UID:3c1e21a8992bf38a2bacf43e139f4bf8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261030T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261030T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:004b75d80cf20583b1d58803689404e3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
 DTEND:20261130T150000Z
 LOCATION:ГУК А-711
@@ -2141,18 +2131,20 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:1c7a37cdc8979c95a9320da87f81efa9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261218T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261218T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:54745951f30cdf05b17fb9e80e39e64f
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261127T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261127T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:29cc431ab95e96f4cbbd0e0709a98ac2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261113T113000Z
-LOCATION:Орш. В-621
-DTSTART:20261113T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:9381a9721664c27f8741cd5c04774143
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261120T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261120T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:f60bf6de0a5140cabfde62ae1999195e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
@@ -2171,11 +2163,12 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:8d9fe2e9481bfbbeba63610fc0ef70ba
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
 DTEND:20260904T113000Z
-LOCATION:Орш. В-621
+LOCATION:Орш. А-424
 DTSTART:20260904T100000Z
-SUMMARY:ПЗ Иностранный язык
-UID:1c7fea3eeb091ae2aea5ba8e3629e4b5
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:ad869b9879c4563817f725295039ac9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -2234,6 +2227,14 @@ SUMMARY:ЛР Фундаментальная информатика
 UID:18c5912d7822b88248218e73e6cbb8b3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261113T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261113T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4b298c23b87d6a719b1f8843c8a1f09b
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Крылов Сергей Сергеевич
 DTEND:20261125T131500Z
 LOCATION:ГУК В-221
@@ -2248,6 +2249,14 @@ LOCATION:ГУК Б-460
 DTSTART:20260910T074500Z
 SUMMARY:ЛК Математический анализ
 UID:7cd532ad94146a7dd9d9598be3d8e477
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261016T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261016T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:29560b641ffd6d2d05314a4b1f613ca0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ползикова Алина Владимировна
@@ -2271,6 +2280,14 @@ LOCATION:ГУК Б-it-17
 DTSTART:20261102T114500Z
 SUMMARY:ЛР Фундаментальная информатика
 UID:926b0020503685a2e92eb6c90039cad3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Татевосян Мария Александровна
+DTEND:20261218T113000Z
+LOCATION:Орш. А-424
+DTSTART:20261218T100000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:62155a02076b4d2bbd8c7a8c9f9fd766
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисов Максим Денисович
