@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20261009T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261009T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:399db95273081e2db741feab13c5d6f7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
 DTEND:20261013T113000Z
 LOCATION:ГУК В-704-и
@@ -23,6 +16,14 @@ LOCATION:ГУК В-706-и
 DTSTART:20261217T074500Z
 SUMMARY:ПЗ Численные методы
 UID:f5b958c3e90188d27ca7a5f4360cb460
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261106T073000Z
+LOCATION:7-214
+DTSTART:20261106T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:fb8be2c1ec911c3b6642b4dfa255372d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
@@ -199,13 +200,6 @@ SUMMARY:ПЗ Двигательные установки и энергосист
 UID:87efdf96a9a6637f4a4118f2d9aefc1a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261016T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261016T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:e30f45413af1f52ddc71a8e331ed4b08
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
 DTEND:20260929T091500Z
 LOCATION:ГУК В-704-и
@@ -243,13 +237,6 @@ LOCATION:ГУК В-706-и
 DTSTART:20261230T060000Z
 SUMMARY:ЛК Двигательные установки и энергосистемы космических аппаратов
 UID:4a467d3e7547f168f991af59b6d95264
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260925T073000Z
-LOCATION:Орш. А-430
-DTSTART:20260925T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:ba0b41034cfc8265bbc011e9096195eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -296,6 +283,14 @@ LOCATION:ГУК В-701-и
 DTSTART:20261221T114500Z
 SUMMARY:ЛК Экономика
 UID:33e4403fd9609912998368f2899b98a7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260925T073000Z
+LOCATION:7-214
+DTSTART:20260925T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:5041519600a4f1cf857b22fb452dfe71
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Александр Владимирович
@@ -384,13 +379,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:4d9592fc9d77db0ad4edbd3a8051f30d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261204T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261204T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:bd4285d65dae0c755d3c248cf685027d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
 DTEND:20261117T091500Z
 LOCATION:ГУК В-704-и
@@ -423,11 +411,12 @@ SUMMARY:ЛК Основы устройства космических аппар
 UID:776fd9d4acd28d5aa91f0c95b4fc6f1d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261127T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261127T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:3bcdecde6e57996e3708fd088aa39cec
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20261208T091500Z
+LOCATION:ГУК В-704-и
+DTSTART:20261208T074500Z
+SUMMARY:ЛР Методы математического моделирования
+UID:d45abf89177a5d60b15e382af62a0b56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Александр Владимирович
@@ -443,14 +432,6 @@ LOCATION:--каф. 919
 DTSTART:20260924T100000Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:3451e2a4f039858afe2504a5260b00ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20261208T091500Z
-LOCATION:ГУК В-704-и
-DTSTART:20261208T074500Z
-SUMMARY:ЛР Методы математического моделирования
-UID:d45abf89177a5d60b15e382af62a0b56
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зареченский Алексей Михайлович
@@ -469,20 +450,20 @@ SUMMARY:ЛР Основы устройства космических аппар
 UID:c800ae9dcdd60e3c9b1ad0ad9595de34
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20261020T131500Z
-LOCATION:ГУК В-704-и
-DTSTART:20261020T114500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:02bb1a85f8619fa336879d03eb2fec20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович
 DTEND:20270125T091500Z
 LOCATION:ГУК В-702-и
 DTSTART:20270125T074500Z
 SUMMARY:Экзамен Численные методы
 UID:daf0db8050e555eb1bd43b41237e5c7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20261020T131500Z
+LOCATION:ГУК В-704-и
+DTSTART:20261020T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:02bb1a85f8619fa336879d03eb2fec20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович
@@ -507,6 +488,14 @@ LOCATION:ГУК В-701-и
 DTSTART:20261221T100000Z
 SUMMARY:ЛК Численные методы
 UID:5f6d4e17f612621389af8478428bd5e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261016T073000Z
+LOCATION:7-214
+DTSTART:20261016T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:07304bda004c77a8cd5023339841f337
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -643,6 +632,14 @@ SUMMARY:ПЗ Двигательные установки и энергосист
 UID:ba68e2d1104612e7ae3a34fdbc4fcb32
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261023T073000Z
+LOCATION:7-214
+DTSTART:20261023T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:0ce06cebca43f570dd656db2402b3989
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261001T113000Z
 LOCATION:--каф. 919
 DTSTART:20261001T100000Z
@@ -687,6 +684,14 @@ LOCATION:ГУК Б-644
 DTSTART:20261205T074500Z
 SUMMARY:ЛР Детали машин и основы конструирования
 UID:af8a4875ed2a282cf99746612eb577ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261204T073000Z
+LOCATION:7-214
+DTSTART:20261204T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:1e27495045cd46063db7a292155257a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -751,11 +756,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:10ed406b34690e70ebc885abff74c565
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261113T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261113T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:bd18aa192a321ffc8b849d8fa50114eb
+DESCRIPTION:Хартов Сергей Анатольевич
+DTEND:20261211T113000Z
+LOCATION:2-410-1 (2В)
+DTSTART:20261211T100000Z
+SUMMARY:ЛР Двигательные установки и энергосистемы космических аппаратов
+UID:341cd155238490ecc8850f18500c4ff8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
@@ -771,21 +777,6 @@ LOCATION:--каф. 919
 DTSTART:20261026T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:ac050e52eabccdf71183e5c1392e97d5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хартов Сергей Анатольевич
-DTEND:20261211T113000Z
-LOCATION:2-410-1 (2В)
-DTSTART:20261211T100000Z
-SUMMARY:ЛР Двигательные установки и энергосистемы космических аппаратов
-UID:341cd155238490ecc8850f18500c4ff8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261218T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261218T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:e253ef252eb8d0008d030e4e6a18f256
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рудой Иван Алексеевич
@@ -872,6 +863,14 @@ SUMMARY:ЛК Двигательные установки и энергосист
 UID:4e36486c7f79d875dc7afad66dae8a6a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Николичев Илья Андреевич
+DTEND:20261003T091500Z
+LOCATION:11-25
+DTSTART:20261003T074500Z
+SUMMARY:ЛК Основы теории полета КА
+UID:0dff2811d4b588082bd04a40e2734f7d
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260903T113000Z
 LOCATION:--каф. 919
 DTSTART:20260903T100000Z
@@ -879,12 +878,12 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:18494684736d7ce9c9e501aed9838653
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Николичев Илья Андреевич
-DTEND:20261003T091500Z
-LOCATION:11-25
-DTSTART:20261003T074500Z
-SUMMARY:ЛК Основы теории полета КА
-UID:0dff2811d4b588082bd04a40e2734f7d
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260911T073000Z
+LOCATION:7-214
+DTSTART:20260911T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:c0da86c52353cd35c6aa108dfe7951f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
@@ -901,6 +900,14 @@ LOCATION:ГУК В-701-и
 DTSTART:20261123T114500Z
 SUMMARY:ЛК Экономика
 UID:605703e7fcc39dd24d24083cc17bff94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261225T073000Z
+LOCATION:7-214
+DTSTART:20261225T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:996de86f8a82c8284753c4e873e7905a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рудой Иван Алексеевич
@@ -983,11 +990,12 @@ SUMMARY:ПЗ Экономика
 UID:fad476179d3d4cf370b073af5603d5ca
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260918T073000Z
-LOCATION:Орш. А-430
-DTSTART:20260918T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:79686de0825d55c5b509a2beb1098d9c
+DESCRIPTION:Пыхтин Александр Вячеславович
+DTEND:20261006T131500Z
+LOCATION:ГУК В-704-и
+DTSTART:20261006T114500Z
+SUMMARY:ЛК Детали машин и основы конструирования
+UID:fc6433b37f0e6975374299d5dd26c0ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рудой Иван Алексеевич
@@ -996,14 +1004,6 @@ LOCATION:ГУК В-706-и
 DTSTART:20260923T100000Z
 SUMMARY:ЛК Основы устройства космических аппаратов
 UID:ad03cffff67919b89cbb03cb3f6e168b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пыхтин Александр Вячеславович
-DTEND:20261006T131500Z
-LOCATION:ГУК В-704-и
-DTSTART:20261006T114500Z
-SUMMARY:ЛК Детали машин и основы конструирования
-UID:fc6433b37f0e6975374299d5dd26c0ab
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261130T091500Z
@@ -1029,6 +1029,14 @@ SUMMARY:ПЗ Основы теории полета КА
 UID:10e7b5c4a142f878b0b886eee4a9513a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261211T073000Z
+LOCATION:7-214
+DTSTART:20261211T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:d19fcc8de772c2c569f4702106f9238a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
 DTEND:20260929T150000Z
 LOCATION:ГУК В-704-и
@@ -1043,13 +1051,6 @@ LOCATION:24-215.1
 DTSTART:20260930T100000Z
 SUMMARY:ЛК Строительная механика и прочность ЛА
 UID:28cc9145a5bbd93d9ca4f91624be08e8
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261030T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261030T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:71ff7bc7c58d606ce00b5aa2386a90ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
@@ -1148,6 +1149,14 @@ SUMMARY:ЛК Основы устройства космических аппар
 UID:fb6dd1dde49da0d40e3828d1e9a8babe
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261009T073000Z
+LOCATION:7-214
+DTSTART:20261009T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:0128f9d5058ab0fdefd168b7c98424bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
 DTEND:20260915T131500Z
 LOCATION:ГУК В-704-и
@@ -1156,12 +1165,12 @@ SUMMARY:ЛК Детали машин и основы конструирован�
 UID:6657d56a553bde28e53892f2004bdf73
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сластушенский Юрий Викторович
-DTEND:20261207T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20261207T100000Z
-SUMMARY:ЛК Численные методы
-UID:654c4480a62aca9f38a91ddfd01741ce
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261113T073000Z
+LOCATION:7-214
+DTSTART:20261113T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4a0ce19faaeeb414d711081cede9b188
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261119T113000Z
@@ -1177,6 +1186,14 @@ LOCATION:ГУК В-706-и
 DTSTART:20261125T060000Z
 SUMMARY:ЛК Двигательные установки и энергосистемы космических аппаратов
 UID:21be5bd5e98ff466947ca83fff51366d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сластушенский Юрий Викторович
+DTEND:20261207T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20261207T100000Z
+SUMMARY:ЛК Численные методы
+UID:654c4480a62aca9f38a91ddfd01741ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -1275,25 +1292,11 @@ SUMMARY:Экзамен Детали машин и основы конструи�
 UID:0df667f9f4f7a25b83c873144f55fb71
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261023T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261023T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:51f974bfadbafadde018858d8dc4a57c
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261123T091500Z
 LOCATION:--каф. 919
 DTSTART:20261123T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:0f1bead6b38eca97acb1556d86716391
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261225T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261225T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:0f23fdd561b44e7da747f973525db915
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович
@@ -1309,6 +1312,14 @@ LOCATION:--каф. 919
 DTSTART:20260928T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:bcf7228935a2ae9937990bdbc6a26c44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261002T073000Z
+LOCATION:7-214
+DTSTART:20261002T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:291e0a42525cf8cee8849f3ae87877cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Александр Владимирович
@@ -1375,18 +1386,19 @@ SUMMARY:ЛК Детали машин и основы конструирован�
 UID:7bcd99a638d32994681661fff9a856ef
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260918T073000Z
+LOCATION:7-214
+DTSTART:20260918T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:ea7750a6d3a3253d6cb802e96a62054c
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261102T091500Z
 LOCATION:--каф. 919
 DTSTART:20261102T074500Z
 SUMMARY:ПЗ Физическая культура (спортивные секции)
 UID:7ac0facf32fce21c5ffb6005600ef145
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261203T113000Z
-LOCATION:--каф. 919
-DTSTART:20261203T100000Z
-SUMMARY:ПЗ Физическая культура (спортивные секции)
-UID:0c79233bf1206403f3eb6797e4b1c585
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
@@ -1397,11 +1409,11 @@ SUMMARY:ЛК Методы математического моделирован�
 UID:e52a63ab158243da755c269321c04f3c
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260911T073000Z
-LOCATION:Орш. А-430
-DTSTART:20260911T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:249793d59bd008c2c265725baefc9e27
+DTEND:20261203T113000Z
+LOCATION:--каф. 919
+DTSTART:20261203T100000Z
+SUMMARY:ПЗ Физическая культура (спортивные секции)
+UID:0c79233bf1206403f3eb6797e4b1c585
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
@@ -1562,18 +1574,20 @@ SUMMARY:ПЗ Методы математического моделирован�
 UID:4df6056f77a602acd4edc24f5113a0a5
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261211T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261211T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d7334a48efc73b756c1e0e835893a81a
+DESCRIPTION:Зареченский Алексей Михайлович
+DTEND:20261214T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20261214T114500Z
+SUMMARY:ЛК Экономика
+UID:82f45129d036672b187e36048115ecc8
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261002T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261002T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d498e83f083672bfcb94f2d7915d4b5d
+DESCRIPTION:Зареченский Алексей Михайлович
+DTEND:20261221T150000Z
+LOCATION:ГУК В-701-и
+DTSTART:20261221T133000Z
+SUMMARY:ПЗ Экономика
+UID:db01d940262b8605b3c7edfe491751b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович
@@ -1590,22 +1604,6 @@ LOCATION:ГУК В-701-и
 DTSTART:20261116T100000Z
 SUMMARY:ЛК Численные методы
 UID:e93305d37aebb243d6415f78f7b6c39a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зареченский Алексей Михайлович
-DTEND:20261214T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20261214T114500Z
-SUMMARY:ЛК Экономика
-UID:82f45129d036672b187e36048115ecc8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зареченский Алексей Михайлович
-DTEND:20261221T150000Z
-LOCATION:ГУК В-701-и
-DTSTART:20261221T133000Z
-SUMMARY:ПЗ Экономика
-UID:db01d940262b8605b3c7edfe491751b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пыхтин Александр Вячеславович
@@ -1652,13 +1650,6 @@ LOCATION:ГУК Б-644
 DTSTART:20261107T074500Z
 SUMMARY:ЛР Детали машин и основы конструирования
 UID:e0c2e4c8b7cab83d74cb63799822e4c6
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261120T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261120T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:9941441730e70568b231047c222ece79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Волков Александр Владимирович
@@ -1802,13 +1793,6 @@ SUMMARY:ПЗ Физическая культура (спортивные сек�
 UID:3b5b4d1b7ac00b932d0476b0a952c4a1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260904T073000Z
-LOCATION:Орш. А-430
-DTSTART:20260904T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:848c1f662aab73b395f98a4d4276b353
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20261202T091500Z
 LOCATION:ГУК В-706-и
@@ -1855,6 +1839,14 @@ LOCATION:ГУК В-706-и
 DTSTART:20261111T060000Z
 SUMMARY:ЛК Двигательные установки и энергосистемы космических аппаратов
 UID:8b25e0085ec400f998e14349191b0d8e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261030T073000Z
+LOCATION:7-214
+DTSTART:20261030T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:cb9ef231d7546f698bd7f10f7c2fcc62
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зареченский Алексей Михайлович
@@ -1905,13 +1897,6 @@ SUMMARY:ЛК Методы математического моделирован�
 UID:a3ef9260de0378d66786f1ccbad84ee9
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261106T073000Z
-LOCATION:Орш. А-430
-DTSTART:20261106T060000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d8c805f0c957ba6de71f9c4ff174e31a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
 DTEND:20261216T091500Z
 LOCATION:ГУК В-706-и
@@ -1926,6 +1911,14 @@ LOCATION:ГУК В-701-и
 DTSTART:20261130T100000Z
 SUMMARY:ЛК Численные методы
 UID:c3702e74c9205986c589f7606adf0d28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261218T073000Z
+LOCATION:7-214
+DTSTART:20261218T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:6c3a649cb936161ca671d64cb3dcb9bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович
@@ -1951,12 +1944,28 @@ SUMMARY:ПЗ Экономика
 UID:ccbec6088a6abaf1f243abb4bf444274
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261127T073000Z
+LOCATION:7-214
+DTSTART:20261127T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a9a744f0022cbbd77f23c2bb1979a1f9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Николичев Илья Андреевич
 DTEND:20261114T073000Z
 LOCATION:11-25
 DTSTART:20261114T060000Z
 SUMMARY:ЛК Основы теории полета КА
 UID:19e63ac06a773a78b58d64d8ea876660
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260904T073000Z
+LOCATION:7-214
+DTSTART:20260904T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8aa2f38ec7ac8873f6355da34432b2ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хартов Сергей Анатольевич
@@ -1989,6 +1998,14 @@ LOCATION:11-25
 DTSTART:20261226T060000Z
 SUMMARY:ЛР Основы теории полета КА
 UID:5b9ef52ceb4c52246284102b4c7724b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261120T073000Z
+LOCATION:7-214
+DTSTART:20261120T060000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:5987a609b43f694c57e8316e02935bc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сластушенский Юрий Викторович

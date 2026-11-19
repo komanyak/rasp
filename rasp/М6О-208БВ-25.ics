@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20261208T150000Z
-LOCATION:7-213А
-DTSTART:20261208T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:147a20554b4772a827986fd531ba9164
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Савин Александр Александрович
 DTEND:20270116T131500Z
 LOCATION:Орш. Б-604
@@ -177,13 +170,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:8d9e097c819f54fc5466e66b839dc4e7
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261027T150000Z
-LOCATION:7-213А
-DTSTART:20261027T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d240e60b0e158be458904caf49b78c2a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Дергачев Антон Николаевич
 DTEND:20261106T113000Z
 LOCATION:ГУК А-718
@@ -200,6 +186,14 @@ SUMMARY:ЛР Общая электротехника и электроника
 UID:b3c38d8a04f50fceff1b224e4e766ba3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261013T164500Z
+LOCATION:7-213А
+DTSTART:20261013T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:6ea760d2dc1fba8f788fd41066c6a1e1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Белокопытова Елена Славовна
 DTEND:20260907T091500Z
 LOCATION:ГУК Б-334
@@ -214,6 +208,14 @@ LOCATION:Орш. А-301
 DTSTART:20261010T060000Z
 SUMMARY:ЛК Общая электротехника и электроника
 UID:005d205ed7e04019eab6d67d3b014d5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261124T150000Z
+LOCATION:7-213А
+DTSTART:20261124T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:2fa4ee8277d8c111ec2f972bb8ed40ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261117T113000Z
@@ -377,18 +379,19 @@ SUMMARY:ЛК Сопротивление материалов
 UID:d7a6a51ecd584e8dd1e42da87d437c52
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261027T164500Z
-LOCATION:7-213А
-DTSTART:20261027T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:2491749276faafce16e1d0ccc4535f76
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261215T131500Z
 LOCATION:--каф.
 DTSTART:20261215T114500Z
 SUMMARY:ПЗ Военная подготовка
 UID:247031eee1319e2cb86c855039c5483b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261222T164500Z
+LOCATION:7-213А
+DTSTART:20261222T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:923c4ccda4378fba8192c65f1a5ef74b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Владислав Викторович
@@ -397,13 +400,6 @@ LOCATION:11-33
 DTSTART:20261002T074500Z
 SUMMARY:ПЗ Основы проектной деятельности
 UID:d1c91891725c86be50f3f3a75ad69d59
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261013T164500Z
-LOCATION:7-213А
-DTSTART:20261013T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:eb02407be6b72df317b1d513e891fa0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Абрамова Ольга Владимировна
@@ -445,11 +441,12 @@ SUMMARY:ПЗ Теория вероятностей и математическа
 UID:d1b661eda8e921cb43ffc478b3f947d3
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261110T150000Z
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260929T164500Z
 LOCATION:7-213А
-DTSTART:20261110T133000Z
+DTSTART:20260929T151500Z
 SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:9771584e5214a7e3e2a27a9e485ae7ed
+UID:8cc76869047da3b8bd39c7660e359915
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рудненко Александр Васильевич
@@ -496,13 +493,6 @@ LOCATION:--каф.
 DTSTART:20261124T060000Z
 SUMMARY:ПЗ Военная подготовка
 UID:dbe5a5e0e6a0f4d0674cf1a50dd98af3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261013T150000Z
-LOCATION:7-213А
-DTSTART:20261013T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:5fe4d0ad2bcd4c0fd58d5157901c3203
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261013T073000Z
@@ -596,11 +586,27 @@ SUMMARY:ЛК Дифференциальные уравнения
 UID:bdda4182c4f8bb609b2db7279f2a059a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261013T150000Z
+LOCATION:7-213А
+DTSTART:20261013T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:16931f9ebd3b36aa63ee487232b0d099
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261130T113000Z
 LOCATION:--каф. 919
 DTSTART:20261130T100000Z
 SUMMARY:ПЗ Физическая культура
 UID:0121ec2bf53007bc39f4f242e4a31c44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261208T150000Z
+LOCATION:7-213А
+DTSTART:20261208T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:ddd469b5f3ba432bf81431afcb6d1513
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260915T091500Z
@@ -623,6 +629,14 @@ LOCATION:--каф. 919
 DTSTART:20261113T060000Z
 SUMMARY:ПЗ Физическая культура
 UID:dd987bcf469e0db9bc9d49e8ff0a3b4b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261027T150000Z
+LOCATION:7-213А
+DTSTART:20261027T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:273989cf29d2a28448bf4f3b83610ba6
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261218T073000Z
@@ -794,13 +808,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:34461f2552ce791835fa5de1f60ea44e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260915T164500Z
-LOCATION:7-213А
-DTSTART:20260915T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:ccd2618565b49e8e0ceb5c0020a5fe5c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Дергачев Антон Николаевич
 DTEND:20261002T113000Z
 LOCATION:ГУК А-718
@@ -809,12 +816,36 @@ SUMMARY:ПЗ Начертательная геометрия и инженерн
 UID:935344a632d9d54cb657d3d6517e7f50
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260915T150000Z
+LOCATION:7-213А
+DTSTART:20260915T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:a9e7d1ef5f4db931ca50392c7e506afa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261110T150000Z
+LOCATION:7-213А
+DTSTART:20261110T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:55bced0f897e0e96a57483564b2a506a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
 DTEND:20261118T073000Z
 LOCATION:Орш. Б-303
 DTSTART:20261118T060000Z
 SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
 UID:c42a7fb94bda84ee1f39e7f46f1257c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261027T164500Z
+LOCATION:7-213А
+DTSTART:20261027T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:27a93c61187068c8d028d50d67275bb7
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261120T073000Z
@@ -838,6 +869,14 @@ LOCATION:ГУК Б-649
 DTSTART:20261012T151500Z
 SUMMARY:ЛК Теория вероятностей и математическая статистика
 UID:49966663462e909ada783d403503d7cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261110T164500Z
+LOCATION:7-213А
+DTSTART:20261110T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:4ced32ee61c98b41d8bad9eca35b1134
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261208T113000Z
@@ -1042,13 +1081,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:a1ce6614e852441d3cb7fc0410efc2f1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261110T164500Z
-LOCATION:7-213А
-DTSTART:20261110T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:d2df5fbd41f9e6c8c5fe11965616e65a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
 DTEND:20261230T073000Z
 LOCATION:Орш. Б-303
@@ -1110,13 +1142,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:9a2a0039a24171d52cca24d9bf21dfa2
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261124T164500Z
-LOCATION:7-213А
-DTSTART:20261124T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:718f2d2c8d272b493b7b39ce5d06eb4d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Егорова Ольга Владимировна
 DTEND:20261019T150000Z
 LOCATION:ГУК Б-649
@@ -1154,6 +1179,14 @@ LOCATION:Орш. Б-407
 DTSTART:20261119T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:4457f26cdfb05bd6b81109d9b71a2ffa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260929T150000Z
+LOCATION:7-213А
+DTSTART:20260929T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:ed28cff60ed32439bc37237ac12892e2
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261103T091500Z
@@ -1453,13 +1486,6 @@ SUMMARY:ПЗ Военная подготовка
 UID:2919193d5e014d04aea0ecc684914072
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260929T150000Z
-LOCATION:7-213А
-DTSTART:20260929T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:0ea85360d611324b3ed0b596b802bf28
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Белашова Ирина Станиславовна
 DTEND:20261021T150000Z
 LOCATION:ГУК Б-649
@@ -1712,6 +1738,22 @@ SUMMARY:ПЗ Военная подготовка
 UID:3847a13060fd933b49b798e924632cf8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261208T164500Z
+LOCATION:7-213А
+DTSTART:20261208T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8c5bc86aada8f8a54f4c41faad922236
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20260915T164500Z
+LOCATION:7-213А
+DTSTART:20260915T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:2b61e436870230e779d4ee2eba49a943
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Егорова Ольга Владимировна
 DTEND:20270121T131500Z
 LOCATION:ГУК Б-348
@@ -1843,13 +1885,6 @@ SUMMARY:ПЗ Занятие в группах индивидуальных тр�
 UID:818cba9f3e06b033ae20d7c58d9ac5dd
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261222T164500Z
-LOCATION:7-213А
-DTSTART:20261222T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:84bbdc271a47c1a97f088513d5427cff
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
 DTEND:20260909T164500Z
 LOCATION:24-600
@@ -1871,13 +1906,6 @@ LOCATION:Орш. Б-407
 DTSTART:20261008T114500Z
 SUMMARY:ПЗ Иностранный язык
 UID:7b2258c01ff9451334a48af28fec4c0e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261208T164500Z
-LOCATION:7-213А
-DTSTART:20261208T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:8fcfe040364a2aaab91051c576202412
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белокопытова Елена Славовна
@@ -2034,13 +2062,6 @@ SUMMARY:ЛР Введение в инженерную деятельность
 UID:a49c302cccb5a55e58608cd75e950e4f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260915T150000Z
-LOCATION:7-213А
-DTSTART:20260915T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:4fb4343fd679ea9aed2263d75dae5170
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рамазанова Джамиля Рамазановна
 DTEND:20261114T091500Z
 LOCATION:11-34
@@ -2078,13 +2099,6 @@ LOCATION:11-34
 DTSTART:20261017T074500Z
 SUMMARY:ЛР Введение в инженерную деятельность
 UID:4ed4729d4c3ce1acbecefc270411039d
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261222T150000Z
-LOCATION:7-213А
-DTSTART:20261222T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:70082ae82aad86910664fb0a2b8063aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Локтева Наталья Александровна
@@ -2412,6 +2426,14 @@ SUMMARY:ЛК Сопротивление материалов
 UID:beb0b97b59b76c26bcb64ee0390256b6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261124T164500Z
+LOCATION:7-213А
+DTSTART:20261124T151500Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8c82941fe0d59fa2c0e822dd5478101c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кучева Наталья Александровна
 DTEND:20260909T131500Z
 LOCATION:ГУК Б-460
@@ -2459,6 +2481,14 @@ SUMMARY:ПЗ Начертательная геометрия и инженерн
 UID:224df8ea5844d3d1d66fdfad764bc775
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лутин Сергей Алексеевич
+DTEND:20261222T150000Z
+LOCATION:7-213А
+DTSTART:20261222T133000Z
+SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
+UID:8cfe4f7c543b290400db32f1ce41758f
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260922T073000Z
 LOCATION:--каф.
 DTSTART:20260922T060000Z
@@ -2487,13 +2517,6 @@ LOCATION:ГУК Б-460
 DTSTART:20260923T114500Z
 SUMMARY:ЛК Дифференциальные уравнения
 UID:e98c9cee035ed47c9bb93ac450ecf8f5
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260929T164500Z
-LOCATION:7-213А
-DTSTART:20260929T151500Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:c08c1b0af695c4e6e3f77e4df42b9f37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильин Владислав Викторович
@@ -2588,13 +2611,6 @@ LOCATION:Орш. В-206
 DTSTART:20261203T133000Z
 SUMMARY:ПЗ Сопротивление материалов
 UID:727f23cd6b69d698f34a0a4e240e1bb3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261124T150000Z
-LOCATION:7-213А
-DTSTART:20261124T133000Z
-SUMMARY:ПЗ Занятие в группах индивидуальных траекторий. Смотреть расписание в личном кабинете.
-UID:39198d851b98f1c90e0a89c53f8c1317
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белокопытова Елена Славовна
