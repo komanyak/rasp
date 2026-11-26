@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20260907T073000Z
+LOCATION:3-451
+DTSTART:20260907T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:bea9402c96e5b464b59241f698dbd865
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20260915T131500Z
 LOCATION:3-451
@@ -26,6 +34,14 @@ SUMMARY:ЛК Системы приводов
 UID:f80296a1b22f7a57baa9fe2efa5d39ae
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261105T113000Z
+LOCATION:3-434б
+DTSTART:20261105T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:ddca640d9f4cf9c45bd508303e3b131a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кондратьев Александр Борисович
 DTEND:20260903T091500Z
 LOCATION:24-531
@@ -34,19 +50,20 @@ SUMMARY:ЛК Системы приводов
 UID:8b1b05d4ee50efafb78e090cca8e923f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261116T091500Z
-LOCATION:3-451
-DTSTART:20261116T074500Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:2196a6ea30606b99c47e3766e82500b8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261125T150000Z
 LOCATION:3-444
 DTSTART:20261125T133000Z
 SUMMARY:ЛР Преобразовательные устройства электроэнергетических комплексов
 UID:57ddb90e81c301c994a1e4f83f0aed56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261228T091500Z
+LOCATION:3-351
+DTSTART:20261228T074500Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:bdc0b1442b441289da3b3007a41c1b28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -103,14 +120,6 @@ LOCATION:3-434б
 DTSTART:20260903T114500Z
 SUMMARY:ЛК Микропроцессорные средства электрооборудования ЛА
 UID:b9687e6949d38b0fa74f0382b5526707
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20260924T113000Z
-LOCATION:3-434б
-DTSTART:20260924T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:324f07391f9601ad4b83538e3a50ebf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -177,14 +186,6 @@ SUMMARY:ЛК Системы приводов
 UID:f5cfdb0bf744f3a85069cb37bca218a8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261217T113000Z
-LOCATION:3-434б
-DTSTART:20261217T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:4d3fa29064efe08846bb80d0ff0eb423
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20261110T131500Z
 LOCATION:3-451
@@ -209,13 +210,6 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:a6cf486f739dc83b5b71fd9b48f8af34
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261214T113000Z
-LOCATION:3-351
-DTSTART:20261214T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:5459d8eef657e1c3c32a3c6feca76fc0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20261124T113000Z
 LOCATION:3-451
@@ -224,11 +218,20 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:1143fe69b8c46bea7c41800a3a07ec1f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T073000Z
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20260903T113000Z
+LOCATION:3-434б
+DTSTART:20260903T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:17f514340d154e35bfa2d02ddff5ea28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261116T091500Z
 LOCATION:3-451
-DTSTART:20261005T060000Z
+DTSTART:20261116T074500Z
 SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:fa1bb071f99f6f323e4cc874fe3ab435
+UID:6dc8e354fc00077bac715ffa369d11fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -255,12 +258,12 @@ SUMMARY:ПЗ Компьютерные технологии в проектиро
 UID:42493036a02efefef009d216a7426c2f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261210T113000Z
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261022T113000Z
 LOCATION:3-434б
-DTSTART:20261210T100000Z
+DTSTART:20261022T100000Z
 SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:14a30acaa59fd65d7699b6830cf55704
+UID:253466bd8f655a8474855e867928e5d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -319,6 +322,14 @@ SUMMARY:ПЗ Компьютерные технологии в тепловых �
 UID:855a6ef4a7ec3941a99d90d91f0c04cc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261207T113000Z
+LOCATION:3-351
+DTSTART:20261207T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:0c0f51ba09847ddfe62aa0c006219266
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261202T150000Z
 LOCATION:3-444
@@ -333,13 +344,6 @@ LOCATION:3-451
 DTSTART:20261005T100000Z
 SUMMARY:ЛР Системы электрооборудования ЛА
 UID:f97cbc2f8ce5b89fea33181e71302e30
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261102T091500Z
-LOCATION:3-451
-DTSTART:20261102T074500Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:2a16c18e26bd44230c7a7240d497b8b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -366,12 +370,28 @@ SUMMARY:ЛР Системы электрооборудования ЛА
 UID:96b7f30745c812cd518de1f4b336e80a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261123T091500Z
+LOCATION:3-351
+DTSTART:20261123T074500Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:1ad6e2390e6e4d07d00d46835cd58697
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шишов Дмитрий Михайлович
 DTEND:20261210T131500Z
 LOCATION:3-434б
 DTSTART:20261210T114500Z
 SUMMARY:ЛК Микропроцессорные средства электрооборудования ЛА
 UID:bb900df22cf789f49ea277b77b9fb1b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20260924T113000Z
+LOCATION:3-434б
+DTSTART:20260924T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:dabb96599bca950e9c079a66f391fa29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -398,6 +418,14 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:44045eebdecd97859e07c0283a194712
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261221T113000Z
+LOCATION:3-351
+DTSTART:20261221T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:1d9e06e7ff919b89e4528d688994f0de
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20260922T113000Z
 LOCATION:3-451
@@ -414,19 +442,12 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:41e84288a4618db1f4d3e94f1587c2ff
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261109T091500Z
-LOCATION:3-351
-DTSTART:20261109T074500Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:c6917fc8eb83860c7a2ccf11f2301f44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
+DESCRIPTION:Лукошин Илья Владимирович
 DTEND:20261126T113000Z
 LOCATION:3-434б
 DTSTART:20261126T100000Z
 SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:4a33c8bfbb4aee34ee86e8abcb43c61d
+UID:673a8c7b66129a188bf9d6b87ac53767
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -453,13 +474,6 @@ SUMMARY:ЛК Микропроцессорные средства электро�
 UID:46eaf6811fbef563f202045035595b2d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261228T091500Z
-LOCATION:3-351
-DTSTART:20261228T074500Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:f0789faa50693cf88e75c61002b05d5d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
 DTEND:20261016T131500Z
 LOCATION:3-439
@@ -484,12 +498,12 @@ SUMMARY:ЛК Микропроцессорные средства электро�
 UID:1de1ade23abebe2488f8e49e629d2584
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261203T113000Z
-LOCATION:3-434б
-DTSTART:20261203T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:8ef27d8b9215ce5d488c3fd5cc87298a
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261109T113000Z
+LOCATION:3-351
+DTSTART:20261109T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:89976785a45a49b47e196a401671662c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Степанов Вилен Степанович
@@ -516,19 +530,20 @@ SUMMARY:ЛК Компьютерные технологии в тепловых �
 UID:4019b39a66ef63f23c564019568c0d4e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261029T113000Z
-LOCATION:3-434б
-DTSTART:20261029T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:d5fb4bc70940c494b2945162ee2777b9
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261214T091500Z
+LOCATION:3-351
+DTSTART:20261214T074500Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:ecdabe245542e4c34bf26da7176e7335
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261019T091500Z
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261019T073000Z
 LOCATION:3-451
-DTSTART:20261019T074500Z
+DTSTART:20261019T060000Z
 SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:57e4c89f161d8e86ad38d3b6a0a6352f
+UID:e9c6f069a0674d5adec3d88c3f334cff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -555,13 +570,6 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:4e7219d55c252da606bebf4fd37fc29e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260907T073000Z
-LOCATION:3-451
-DTSTART:20260907T060000Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:7ee02f97f9df55a06475597fab761024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
 DTEND:20260911T131500Z
 LOCATION:3-439
@@ -576,14 +584,6 @@ LOCATION:3-444
 DTSTART:20270125T074500Z
 SUMMARY:Экзамен Системы электрооборудования ЛА
 UID:61d9d1bb9df21eee59756c896ebf3264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20260903T113000Z
-LOCATION:3-434б
-DTSTART:20260903T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:42e7691b1899340aff9dd16299e40a89
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шишов Дмитрий Михайлович
@@ -610,11 +610,12 @@ SUMMARY:ЛК Компьютерные технологии в проектиро
 UID:3d61ec65c875c918e1e16597b52998b4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
 DTEND:20260907T091500Z
 LOCATION:3-451
 DTSTART:20260907T074500Z
 SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:56e31b84a9314a70362b7df9a9f2154c
+UID:1d24f665ca869ab8b43aa48390041ad3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -625,19 +626,28 @@ SUMMARY:ПЗ Компьютерные технологии в проектиро
 UID:46cab1a8a4f0f1ff6943ebaa37454d99
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20260921T091500Z
+LOCATION:3-451
+DTSTART:20260921T074500Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:9038a600afe4512e48d30edd26c1f691
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261102T073000Z
+LOCATION:3-451
+DTSTART:20261102T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:d5c970e66940db87fb04a8e952b3b5fc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20261117T113000Z
 LOCATION:3-451
 DTSTART:20261117T100000Z
 SUMMARY:ЛК Системы электрооборудования ЛА
 UID:956144981fc7c6a9b95b54ea86e90508
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260921T091500Z
-LOCATION:3-451
-DTSTART:20260921T074500Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:af74c629e124e92f9a02134430814a30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -688,6 +698,14 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:02df99e7ea654ffe5fb56a2d41c626fc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261005T091500Z
+LOCATION:3-451
+DTSTART:20261005T074500Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:56baac1c82cc1b6cb5e3cecc88d283b0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20261222T131500Z
 LOCATION:3-451
@@ -704,12 +722,12 @@ SUMMARY:ПЗ Компьютерные технологии в тепловых �
 UID:b96cc72627d01678a85a4aa1236dc8ea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261022T113000Z
+DESCRIPTION:Ильясов Роман Ильдусович
+DTEND:20261215T131500Z
 LOCATION:3-434б
-DTSTART:20261022T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:690d18adcd780e0e0ca5c75324f79b8a
+DTSTART:20261215T114500Z
+SUMMARY:ЛК Компьютерные технологии в проектировании электромеханических устройств электрооборудования ЛА
+UID:d877a825e00ee21c14ffb69f372a3f3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -734,14 +752,6 @@ LOCATION:3-434б
 DTSTART:20261201T114500Z
 SUMMARY:ЛК Компьютерные технологии в проектировании электромеханических устройств электрооборудования ЛА
 UID:8affa10319582800f3998f307244131b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ильясов Роман Ильдусович
-DTEND:20261215T131500Z
-LOCATION:3-434б
-DTSTART:20261215T114500Z
-SUMMARY:ЛК Компьютерные технологии в проектировании электромеханических устройств электрооборудования ЛА
-UID:d877a825e00ee21c14ffb69f372a3f3d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -784,19 +794,20 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:5355b2a8099c886135cf4808b7f879b4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261123T091500Z
-LOCATION:3-351
-DTSTART:20261123T074500Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:9c87749b8793cc7f70ccf96745ae7b88
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Алексеенков Артем Сергеевич
 DTEND:20261217T091500Z
 LOCATION:9-104
 DTSTART:20261217T074500Z
 SUMMARY:ЛР Системы приводов
 UID:4afd4af19b6292108651b1eb527da98c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261001T113000Z
+LOCATION:3-434б
+DTSTART:20261001T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:31546ac68f468bc213eae9a17099b684
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -821,13 +832,6 @@ LOCATION:3-451
 DTSTART:20261201T100000Z
 SUMMARY:ЛК Системы электрооборудования ЛА
 UID:c85906507e847e2cae969cee0144dce9
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261102T073000Z
-LOCATION:3-451
-DTSTART:20261102T060000Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:6d9a4eaf3f8d17c11acb4cf4e20d256a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -862,28 +866,6 @@ SUMMARY:ПЗ Системы приводов
 UID:4448c1b4c830ca58306d8cb66c197700
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20260910T113000Z
-LOCATION:3-434б
-DTSTART:20260910T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:3f71dfc48ffe3eb45add9a5b1216d1f4
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261109T113000Z
-LOCATION:3-351
-DTSTART:20261109T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:6331cd6f6543ae21bc630a0140ee6611
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261207T113000Z
-LOCATION:3-351
-DTSTART:20261207T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:0fafa8d0972c335c090b0150d442f2c8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261223T131500Z
 LOCATION:3-444
@@ -892,11 +874,20 @@ SUMMARY:ЛР Преобразовательные устройства элек�
 UID:60075f328db4d7bca844a9f92b8ca045
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261221T091500Z
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261207T091500Z
 LOCATION:3-351
-DTSTART:20261221T074500Z
+DTSTART:20261207T074500Z
 SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:a3a9d217ee108331fe01dcf9c4533907
+UID:51f91d08e763b6656b61cea38d6b191b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261217T113000Z
+LOCATION:3-434б
+DTSTART:20261217T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:c1b0c2313e6f122b0aad437e4749f8bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -915,6 +906,14 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:5cb279d861e1cfa45e5c48e7b55cf219
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261116T073000Z
+LOCATION:3-451
+DTSTART:20261116T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:84f0d21becd159ea35e8ed3d5e943a73
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Фурс Илья Васильевич
 DTEND:20261126T091500Z
 LOCATION:9-03
@@ -931,12 +930,28 @@ SUMMARY:ЛК Микропроцессорные средства электро�
 UID:fae8e2931b29ee27876964cea22cad67
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20260910T113000Z
+LOCATION:3-434б
+DTSTART:20260910T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:dac9251ebfd0c6e2cff4438b3d4f7cf8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261021T131500Z
 LOCATION:3-444
 DTSTART:20261021T114500Z
 SUMMARY:ЛК Преобразовательные устройства электроэнергетических комплексов
 UID:fcbcc19babd5477568a4a51c071a292a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261015T113000Z
+LOCATION:3-434б
+DTSTART:20261015T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:bb8e4daaa55e912fa977be1097ec1d8b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -947,28 +962,12 @@ SUMMARY:ЛК Компьютерные технологии в проектиро
 UID:968843c5345c4328cf27f2df113e516e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261105T113000Z
-LOCATION:3-434б
-DTSTART:20261105T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:c36b7ba1e63fbf25ffb87322218d56ed
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261209T131500Z
 LOCATION:3-444
 DTSTART:20261209T114500Z
 SUMMARY:ЛР Преобразовательные устройства электроэнергетических комплексов
 UID:0b78a9183641edb9af058cb487b70b8b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261112T113000Z
-LOCATION:3-434б
-DTSTART:20261112T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:c79c51cf5b0e6a041d9228025c0d9210
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фурс Илья Васильевич
@@ -995,12 +994,12 @@ SUMMARY:Экзамен Системы приводов
 UID:3c6ca25cdeaabacba97c79f2f312f558
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261119T113000Z
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261203T113000Z
 LOCATION:3-434б
-DTSTART:20261119T100000Z
+DTSTART:20261203T100000Z
 SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:2198e36f44cebc5a45e066bdd89976cb
+UID:cc2d01693984406847ce28a4be9cdb0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -1011,11 +1010,12 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:7fd591b6784d4685932deb4a59fd37aa
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261228T113000Z
-LOCATION:3-351
-DTSTART:20261228T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:b0e3c565362a46ac6a15af5a91b68299
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261119T113000Z
+LOCATION:3-434б
+DTSTART:20261119T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:0eb78c32f73e0cca6f5f17eadea5173c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шишов Дмитрий Михайлович
@@ -1040,6 +1040,14 @@ LOCATION:3-434б
 DTSTART:20261020T133000Z
 SUMMARY:ПЗ Компьютерные технологии в проектировании электромеханических устройств электрооборудования ЛА
 UID:6100956aa2747ffd5cf642d7be17a47b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261112T113000Z
+LOCATION:3-434б
+DTSTART:20261112T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:62f1c363da908f05d8379195511fff0c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондратьев Александр Борисович
@@ -1074,34 +1082,20 @@ SUMMARY:ЛК Компьютерные технологии в тепловых �
 UID:d11511f8361d0fa09620b0a8126b9384
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260921T073000Z
-LOCATION:3-451
-DTSTART:20260921T060000Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:64d7e2adb7b76a096e420f34a247f898
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261224T113000Z
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261008T113000Z
 LOCATION:3-434б
-DTSTART:20261224T100000Z
+DTSTART:20261008T100000Z
 SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:7eb4f4c18c6e31bd41c66ace20f6a566
+UID:6f0e82757501efeae2fd9dee29cc33fe
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T091500Z
-LOCATION:3-451
-DTSTART:20261005T074500Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:f94e8bde2040d2e295779449da66daba
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20261027T113000Z
-LOCATION:3-451
-DTSTART:20261027T100000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:923042b3a35bf9d2fe72e968495d9d81
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20260917T113000Z
+LOCATION:3-434б
+DTSTART:20260917T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:131b5448763a67fc14d3ed10fd2a7174
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -1112,11 +1106,12 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:ace855d98badb86a673187736daebb4e
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261207T091500Z
-LOCATION:3-351
-DTSTART:20261207T074500Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:4744dbbc4dd0704cd8ed8468af1ccc19
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261029T113000Z
+LOCATION:3-434б
+DTSTART:20261029T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:be66fed656742c68618b2986594688e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шишов Дмитрий Михайлович
@@ -1143,19 +1138,20 @@ SUMMARY:ЛК Компьютерные технологии в тепловых �
 UID:781e064fdcbbeb7e3b0f6b4415dc7716
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261019T073000Z
-LOCATION:3-451
-DTSTART:20261019T060000Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:588e8d2ae85297e473ee47adc271fb76
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кондратьев Александр Борисович
 DTEND:20261015T091500Z
 LOCATION:24-531
 DTSTART:20261015T074500Z
 SUMMARY:ЛК Системы приводов
 UID:056aab1090f947396af9029a7eac4dc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261214T113000Z
+LOCATION:3-351
+DTSTART:20261214T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:837280b9825fa7d8f590543b147f45e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -1198,19 +1194,20 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:6a2e76728a4e00e82c86e97d26c78921
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261228T113000Z
+LOCATION:3-351
+DTSTART:20261228T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:d907692c60d8715b8e57e2ca9fa88b29
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20260929T131500Z
 LOCATION:3-451
 DTSTART:20260929T114500Z
 SUMMARY:ЛК Системы электрооборудования ЛА
 UID:152321b1681d90f7cb4fc71d371736f3
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261214T091500Z
-LOCATION:3-351
-DTSTART:20261214T074500Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:0ff1173b8bb865cb59527fcfb9d82a8b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -1261,6 +1258,14 @@ SUMMARY:ЛК Системы электрооборудования ЛА
 UID:f7ae972bea13805c498c15beedc96078
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261005T073000Z
+LOCATION:3-451
+DTSTART:20261005T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:b6e9704deac68e74dfbae806f2ac644d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Шишов Дмитрий Михайлович
 DTEND:20261015T131500Z
 LOCATION:3-434б
@@ -1275,14 +1280,6 @@ LOCATION:3-439
 DTSTART:20261002T114500Z
 SUMMARY:ЛК Компьютерные технологии в тепловых и механических расчетах
 UID:4497f862c77957bbde8c58ace4b49e90
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261001T113000Z
-LOCATION:3-434б
-DTSTART:20261001T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:321b48394b67bef3a9e1b4bf1a589dbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -1309,14 +1306,6 @@ SUMMARY:ПЗ Компьютерные технологии в проектиро
 UID:838d7875dbe59e0cf62a96a91ecf20c5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20260917T113000Z
-LOCATION:3-434б
-DTSTART:20260917T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:4f73d418792e31727756bf6d56e574e2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
 DTEND:20261023T150000Z
 LOCATION:3-439
@@ -1333,13 +1322,6 @@ SUMMARY:ЛК Компьютерные технологии в проектиро
 UID:4053c4f3065223feb814ef30aff4d9b4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261123T113000Z
-LOCATION:3-351
-DTSTART:20261123T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:02e6245e54bb644acdc69b546a592369
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
 DTEND:20261209T150000Z
 LOCATION:3-444
@@ -1354,6 +1336,14 @@ LOCATION:3-439
 DTSTART:20261204T133000Z
 SUMMARY:ПЗ Компьютерные технологии в тепловых и механических расчетах
 UID:a64abe91111b90f2ae10245b33457afd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20260921T073000Z
+LOCATION:3-451
+DTSTART:20260921T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:c503cf4063eca2bcafe5069a60791373
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -1380,20 +1370,20 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:4a9b1874323534c14986b7289ac2d3a8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261224T113000Z
+LOCATION:3-434б
+DTSTART:20261224T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:2bbf8e1774f319910f40dd31a161ba76
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кондратьев Александр Борисович
 DTEND:20260924T073000Z
 LOCATION:24-531
 DTSTART:20260924T060000Z
 SUMMARY:ПЗ Системы приводов
 UID:b263caefab3628a9d84194124abec8bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261008T113000Z
-LOCATION:3-434б
-DTSTART:20261008T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:7da718669ee0d1df28225c385d0fc081
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фурс Илья Васильевич
@@ -1420,6 +1410,14 @@ SUMMARY:ПЗ Компьютерные технологии в тепловых �
 UID:22695506edaf7fa023c8bb4d9d75bb76
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261109T091500Z
+LOCATION:3-351
+DTSTART:20261109T074500Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:985c7620833d6067887312e701ac0bd9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
 DTEND:20261006T150000Z
 LOCATION:3-434б
@@ -1428,11 +1426,20 @@ SUMMARY:ПЗ Компьютерные технологии в проектиро
 UID:2fc5d64d52b95f9fc6a397c3bc767873
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261130T091500Z
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261102T091500Z
 LOCATION:3-451
-DTSTART:20261130T074500Z
+DTSTART:20261102T074500Z
 SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:cda4d59127034cb43ce6faabfb3ea2b7
+UID:45763556cabda2990b6ad77aadae1cf9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261019T091500Z
+LOCATION:3-451
+DTSTART:20261019T074500Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:628f6e4feb9aeeda84a29163d1d41912
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ильясов Роман Ильдусович
@@ -1475,6 +1482,38 @@ SUMMARY:ПЗ Компьютерные технологии в тепловых �
 UID:f67e13a1f676d2afe9515aa08ec76ea0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261123T113000Z
+LOCATION:3-351
+DTSTART:20261123T100000Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:5e03d9c3510741278fa56d9b8e1d124d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261130T073000Z
+LOCATION:3-451
+DTSTART:20261130T060000Z
+SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:8f053bca878debb7efbca9c3019aa1bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лукошин Илья Владимирович
+DTEND:20261210T113000Z
+LOCATION:3-434б
+DTSTART:20261210T100000Z
+SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
+UID:098f5d6301c28f4f6455c68af1c36d5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яшкин Дмитрий Сергеевич
+DTEND:20261221T091500Z
+LOCATION:3-351
+DTSTART:20261221T074500Z
+SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
+UID:51126f10dbff8262b9bc4ce263646ff8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
 DTEND:20270125T073000Z
 LOCATION:3-444
@@ -1483,18 +1522,12 @@ SUMMARY:Экзамен Системы электрооборудования Л�
 UID:abe55689b94e45cb43d9a53893de8509
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261130T073000Z
+DESCRIPTION:Антюхов Илья Владимирович
+DTEND:20261130T091500Z
 LOCATION:3-451
-DTSTART:20261130T060000Z
+DTSTART:20261130T074500Z
 SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:9b4c9ad30110988bf1afd704ab68585c
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261221T113000Z
-LOCATION:3-351
-DTSTART:20261221T100000Z
-SUMMARY:ЛР Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:12efbb71e8c607e52639db467f408d0e
+UID:2742722c080e6678b5b19d6579d69226
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -1513,12 +1546,12 @@ SUMMARY:ЛК Преобразовательные устройства элек�
 UID:60810eb80df7fe9bccfb10aaddea92df
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шишов Дмитрий Михайлович
-DTEND:20261015T113000Z
-LOCATION:3-434б
-DTSTART:20261015T100000Z
-SUMMARY:ПЗ Микропроцессорные средства электрооборудования ЛА
-UID:8de050ad7858566f3a951ce64025fe09
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20261027T113000Z
+LOCATION:3-451
+DTSTART:20261027T100000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:923042b3a35bf9d2fe72e968495d9d81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вольский Сергей Иосифович
@@ -1527,12 +1560,5 @@ LOCATION:3-444
 DTSTART:20261007T114500Z
 SUMMARY:ЛК Преобразовательные устройства электроэнергетических комплексов
 UID:901ebed104b90dcb2f2025c3287b872a
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261116T073000Z
-LOCATION:3-451
-DTSTART:20261116T060000Z
-SUMMARY:ЛК Криогенные и сверхпроводниковые электроэнергетические устройства
-UID:7beffed17981f031cd980489713f62f8
 END:VEVENT
 END:VCALENDAR

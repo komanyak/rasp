@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261208T131500Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261110T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261208T114500Z
+DTSTART:20261110T114500Z
 SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:4d99159fab4eaf5ac36bebb89328fbd8
+UID:28e693242b41ea7668d474fe81129192
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -88,6 +88,14 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261208T074500Z
 SUMMARY:ЛР Интеллектуальные системы
 UID:4cd1f97627bbd2d3672a0efaccce3a99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261019T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261019T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:d2b414738e664901b1e5139e42739528
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -202,14 +210,6 @@ SUMMARY:ЛК Практикум по информационным техноло
 UID:002f5e8083caa1bf0059bfde22735223
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261013T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261013T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:604fb8a594daa8f6e510e4a277dec244
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чумаченко Вероника Алексеевна
 DTEND:20260928T131500Z
 LOCATION:24-721
@@ -224,14 +224,6 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261121T060000Z
 SUMMARY:ЛК Теория массового обслуживания
 UID:263bb9610f8561d444cbcb317d2be1d3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261110T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261110T100000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:7fa814f389f2c97bd8c5f56500c0e195
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -264,6 +256,14 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261105T074500Z
 SUMMARY:ЛК Интеллектуальные системы
 UID:22546963acb9326e192a2ddf7df9539a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261130T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261130T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:c6cf3dadc101261b5537d4a8086c237b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -338,14 +338,6 @@ SUMMARY:ЛК Теория массового обслуживания
 UID:61079a7752b77add3b8e41df7537e960
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261005T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261005T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:fd09867d0003f59ad68127824bd2a20b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
 DTEND:20261105T113000Z
 LOCATION:3-441
@@ -354,12 +346,12 @@ SUMMARY:ЛК Информационная безопасность
 UID:811087b972e193b8f773ce47ad234e94
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смирнов Владимир Юрьевич
-DTEND:20270125T073000Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261027T113000Z
 LOCATION:ГУК Б-330Б
-DTSTART:20270125T060000Z
-SUMMARY:Экзамен Интеллектуальные системы
-UID:e0bd30ffa1bca22e235fb63753be25eb
+DTSTART:20261027T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:1f51ebef74be28bb0332fa10c912c6c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чумаченко Вероника Алексеевна
@@ -378,6 +370,14 @@ SUMMARY:ЛР Информационная безопасность
 UID:f6c1d253ff2166b9c2f0af02494859d8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Смирнов Владимир Юрьевич
+DTEND:20270125T073000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20270125T060000Z
+SUMMARY:Экзамен Интеллектуальные системы
+UID:e0bd30ffa1bca22e235fb63753be25eb
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Григоревский Николай Владимирович
 DTEND:20261017T113000Z
 LOCATION:ГУК Б-330Б
@@ -394,6 +394,14 @@ SUMMARY:ПЗ Управление проектами
 UID:2a8eae1ea911d202febdb0e8cc5d8381
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261013T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261013T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:c188d86928d7bd6f9f303aae4d4b23fd
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Григоревский Николай Владимирович
 DTEND:20261024T073000Z
 LOCATION:ГУК Б-330Б
@@ -408,14 +416,6 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261114T100000Z
 SUMMARY:ЛР Теория массового обслуживания
 UID:3976b9fabb90ca127a5625d2d2a34adf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261208T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261208T100000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:7412e6f051e9a1670097ddc2d4c8ff41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -514,12 +514,12 @@ SUMMARY:ЛР Интеллектуальные системы
 UID:b66742b5fce91b6a5d1edf3e4fef9988
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261124T131500Z
+DESCRIPTION:Кос Оксана Игоревна
+DTEND:20261221T091500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261124T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:b7a7fa300cc26c3b9fd06862e542b3ff
+DTSTART:20261221T074500Z
+SUMMARY:ЛР Программирование мобильных приложений
+UID:57bf75a5d09a249a626170105edfcbb6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -530,20 +530,12 @@ SUMMARY:ЛК Интеллектуальные системы
 UID:c57e33cd86060576add1fd1e59b41843
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кос Оксана Игоревна
-DTEND:20261221T091500Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261019T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261221T074500Z
-SUMMARY:ЛР Программирование мобильных приложений
-UID:57bf75a5d09a249a626170105edfcbb6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261109T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261109T100000Z
-SUMMARY:ЛК Вычислительные системы\, сети и телекоммуникации
-UID:f2879224d72656bcd6745508c636f99a
+DTSTART:20261019T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:03f3ea5b5244e3b7cf1d93981af09e25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -560,6 +552,14 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261014T151500Z
 SUMMARY:ЛР Информационная безопасность
 UID:79b40419b0728dd0b5b8e49259fdc2f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевченко Валерий Павлович
+DTEND:20261109T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261109T100000Z
+SUMMARY:ЛК Вычислительные системы\, сети и телекоммуникации
+UID:f2879224d72656bcd6745508c636f99a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -610,22 +610,6 @@ SUMMARY:ЛК Программирование мобильных приложе�
 UID:2bd14e0f0117e4718a06a2a1d8e1b1a2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261124T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261124T100000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:84cefc56c1efe8981570b232edbdcccc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261102T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261102T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:6bb9552d39b598d20f67784504216317
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
 DTEND:20261112T113000Z
 LOCATION:3-441
@@ -658,20 +642,20 @@ SUMMARY:ЛК Программирование мобильных приложе�
 UID:91468b37ca59586008295ea054652074
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гладков Сергей Октябринович
-DTEND:20261211T131500Z
-LOCATION:ГУК Б-538
-DTSTART:20261211T114500Z
-SUMMARY:ПЗ Математическое моделирование в технических системах
-UID:8ad5cf06bc4d82da86c7389a936acd93
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261124T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261124T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:b736e92935c28dbe9de5a5315ede3783
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261214T131500Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261208T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261214T114500Z
+DTSTART:20261208T114500Z
 SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:e70433a041343ba68bea30a78ed154ff
+UID:3ff0150fc1b9a19b19b969f18f9d59e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агамиров Владимир Левонович
@@ -688,6 +672,22 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261111T151500Z
 SUMMARY:ЛР Информационная безопасность
 UID:a69c86cb197d302de5575936c89d7375
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гладков Сергей Октябринович
+DTEND:20261211T131500Z
+LOCATION:ГУК Б-538
+DTSTART:20261211T114500Z
+SUMMARY:ПЗ Математическое моделирование в технических системах
+UID:8ad5cf06bc4d82da86c7389a936acd93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261222T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261222T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:188d98c16fc7615c1b948dd92e170202
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -714,14 +714,6 @@ SUMMARY:ЛР Информационная безопасность
 UID:9dde8f5bf8efc31ca0fdd77922b3b3e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261102T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261102T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:449a1e9a171ab3e5de3990347d010fe9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
 DTEND:20261012T073000Z
 LOCATION:ГУК Б-330Б
@@ -736,22 +728,6 @@ LOCATION:3-403
 DTSTART:20261107T100000Z
 SUMMARY:ЛР Информационная безопасность
 UID:c918abb1d2a6f3d5c0f3259b1d824289
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261116T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261116T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:3237b3c9f4c3b79d6f7af4d1143cb0e9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кос Оксана Игоревна
-DTEND:20261217T073000Z
-LOCATION:ГУК А-518
-DTSTART:20261217T060000Z
-SUMMARY:ЛК Программирование мобильных приложений
-UID:ac6a5c5bbce8cc0583fd00cc0833c8f1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -834,6 +810,14 @@ SUMMARY:ПЗ Математическое моделирование в техн
 UID:0ecafed0c2576f4b1964af38302ece71
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261208T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261208T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:65d7a5ac5186b0a6f51e8436ebf6bb5e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Агамиров Владимир Левонович
 DTEND:20261107T091500Z
 LOCATION:ГУК Б-330Б
@@ -906,20 +890,20 @@ SUMMARY:ЛК Информационная безопасность
 UID:67e4831aeb6761b7ca47b1c55a8561cb
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261102T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261102T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:2bad3e1f0357a1ed31ada02fa6ff6c7f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
 DTEND:20261106T131500Z
 LOCATION:ГУК Б-330Б
 DTSTART:20261106T114500Z
 SUMMARY:ЛР Программирование мобильных приложений
 UID:9dc6d8fe42870c47b12e975509d8bd01
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смирнов Владимир Юрьевич
-DTEND:20261223T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261223T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:dac6249af49879fc56bdf8380d8353e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -936,6 +920,22 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261003T060000Z
 SUMMARY:ЛР Практикум по информационным технологиям
 UID:6242ef8a8a5a6f23b6c6bf2dc8a7a6a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смирнов Владимир Юрьевич
+DTEND:20261223T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261223T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:dac6249af49879fc56bdf8380d8353e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261027T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261027T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:69d2d32b7e877ad35124d07936e7778a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -970,6 +970,14 @@ SUMMARY:ЛК Управление проектами
 UID:80a34b23d7f1bc286b18620ad0d7c5f4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261116T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261116T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:e1f320ba36e00c8a1cee22c15f92c856
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
 DTEND:20260915T073000Z
 LOCATION:ГУК Б-330Б
@@ -984,22 +992,6 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261130T100000Z
 SUMMARY:ЛК Вычислительные системы\, сети и телекоммуникации
 UID:2274fb9305aef56ab3d83d752bf8faaa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261214T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261214T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:b37b3d79a1f558d8b4fc9449629b2017
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261116T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261116T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:d681cbdbec237f64d05c4f8351327d55
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -1098,20 +1090,12 @@ SUMMARY:ЛР Интеллектуальные системы
 UID:9c8705d09307bab54014713195efc321
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261027T113000Z
+DESCRIPTION:Смирнов Владимир Юрьевич
+DTEND:20261218T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261027T100000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:ce55fe27ea04ec0a34d8877936de5461
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261130T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261130T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:a9459c1dc1376b9e317fbdffe7aafbeb
+DTSTART:20261218T114500Z
+SUMMARY:ЛР Программирование мобильных приложений
+UID:b147575fcc4073d2aa922f77c02e83bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агамиров Владимир Левонович
@@ -1122,12 +1106,12 @@ SUMMARY:ЛР Информационная безопасность
 UID:e095d0f5d7c3122a6ab36f734740aa1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смирнов Владимир Юрьевич
-DTEND:20261218T131500Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261102T150000Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261218T114500Z
-SUMMARY:ЛР Программирование мобильных приложений
-UID:b147575fcc4073d2aa922f77c02e83bb
+DTSTART:20261102T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:ed79c9bf2251cc8c4103a45dbd2e6e91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -1152,6 +1136,14 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261215T060000Z
 SUMMARY:ЛР Интеллектуальные системы
 UID:eceeabc33ddf1a2504d9474005e925b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261005T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261005T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:aec0a754ff4d8b0c9d3fb23a1bb2fb69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -1218,6 +1210,14 @@ SUMMARY:ЛР Программирование мобильных приложе�
 UID:788bc14ff8c520284fe171b44ef3efc5
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261130T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261130T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:24d97c0ce8a87262e74c99353dc6e132
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Григоревский Николай Владимирович
 DTEND:20260926T073000Z
 LOCATION:ГУК Б-330Б
@@ -1234,20 +1234,20 @@ SUMMARY:ПЗ Управление проектами
 UID:fa832ee25fc6e485562cf44e8b3f64f6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261019T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261019T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:15c650871344c3670aa85517d03262bf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Агамиров Владимир Левонович
 DTEND:20261121T113000Z
 LOCATION:3-403
 DTSTART:20261121T100000Z
 SUMMARY:ЛР Информационная безопасность
 UID:b7d5197d0e223b7d2b8c60dca4e2d6d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чумаченко Вероника Алексеевна
+DTEND:20261221T131500Z
+LOCATION:24-721
+DTSTART:20261221T114500Z
+SUMMARY:ПЗ Основы автоматизированного проектирования технических систем
+UID:1d2d83d99a31388a66d1329538c367de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1258,12 +1258,12 @@ SUMMARY:ЛК Программирование мобильных приложе�
 UID:1dd41e9bf16e648c0650252fa2da12cb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чумаченко Вероника Алексеевна
-DTEND:20261221T131500Z
-LOCATION:24-721
-DTSTART:20261221T114500Z
-SUMMARY:ПЗ Основы автоматизированного проектирования технических систем
-UID:1d2d83d99a31388a66d1329538c367de
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261110T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261110T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:1c4a03eb2d4c0d1c1ba1e5dff9155b00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -1474,12 +1474,12 @@ SUMMARY:ЛР Практикум по информационным техноло
 UID:5bb0e42ac2dfc4f3e5ad901e248becc9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гладков Сергей Октябринович
-DTEND:20261016T091500Z
-LOCATION:3-437
-DTSTART:20261016T074500Z
-SUMMARY:ЛК Математическое моделирование в технических системах
-UID:d40398e838698cd3a335445ba90c5ce8
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261005T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261005T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:0e4520bae030a9e565256c4e1d2b7faf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -1488,6 +1488,14 @@ LOCATION:3-437
 DTSTART:20261002T074500Z
 SUMMARY:ЛК Математическое моделирование в технических системах
 UID:d6232afeaecccfc420d4b8581d91b99a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гладков Сергей Октябринович
+DTEND:20261016T091500Z
+LOCATION:3-437
+DTSTART:20261016T074500Z
+SUMMARY:ЛК Математическое моделирование в технических системах
+UID:d40398e838698cd3a335445ba90c5ce8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -1520,6 +1528,14 @@ LOCATION:3-441
 DTSTART:20261022T100000Z
 SUMMARY:ЛК Информационная безопасность
 UID:e895cdaf2d268108f889c1456907a5e6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261214T150000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261214T133000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:dba01f93c923ea94d40d1d268fe082f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -1642,12 +1658,12 @@ SUMMARY:ЛК Математическое моделирование в техн
 UID:4bf081a5882764086ec68ab36e7221b0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261027T131500Z
+DESCRIPTION:Григоревский Николай Владимирович
+DTEND:20261031T113000Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261027T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:f08531f2fee4587d9aa87e5f715dd1f2
+DTSTART:20261031T100000Z
+SUMMARY:ЛР Теория массового обслуживания
+UID:6a9c99f537963bc874c0f911fad51ff7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1666,12 +1682,12 @@ SUMMARY:ЛР Информационная безопасность
 UID:f60d67e54de711489053605b6ed92a26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Григоревский Николай Владимирович
-DTEND:20261031T113000Z
+DESCRIPTION:Смирнов Владимир Юрьевич
+DTEND:20261210T091500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261031T100000Z
-SUMMARY:ЛР Теория массового обслуживания
-UID:6a9c99f537963bc874c0f911fad51ff7
+DTSTART:20261210T074500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:509ce81bcaa6e671b4865c12b3721a31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1706,12 +1722,12 @@ SUMMARY:ПЗ Математическое моделирование в техн
 UID:ce95803ddfcb210be1c417d84f0b000f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Смирнов Владимир Юрьевич
-DTEND:20261210T091500Z
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261214T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261210T074500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:509ce81bcaa6e671b4865c12b3721a31
+DTSTART:20261214T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:b00bb556992207addf73d28c04541ac4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
@@ -1722,20 +1738,20 @@ SUMMARY:ЛР Программирование мобильных приложе�
 UID:0d23bbb92b3308bc727dff625c7bc4a6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261005T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261005T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:9197df7065528cff2facf2c0c1c63710
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Чумаченко Вероника Алексеевна
 DTEND:20261109T131500Z
 LOCATION:24-721
 DTSTART:20261109T114500Z
 SUMMARY:ПЗ Основы автоматизированного проектирования технических систем
 UID:e49c9327dbcce52071f93117faef6b06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Смирнов Владимир Юрьевич
+DTEND:20261125T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261125T114500Z
+SUMMARY:ЛР Практикум по информационным технологиям
+UID:4b086907384d663908cf85137b07dd10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -1747,19 +1763,19 @@ UID:b8b91a4f4d9a58f5450e84a6ae895bb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Смирнов Владимир Юрьевич
-DTEND:20261125T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261125T114500Z
-SUMMARY:ЛР Практикум по информационным технологиям
-UID:4b086907384d663908cf85137b07dd10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Смирнов Владимир Юрьевич
 DTEND:20261212T073000Z
 LOCATION:ГУК Б-330Б
 DTSTART:20261212T060000Z
 SUMMARY:ЛР Информационная безопасность
 UID:9f964e49cac8812e573310345330785c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кос Оксана Игоревна
+DTEND:20261217T073000Z
+LOCATION:ГУК А-518
+DTSTART:20261217T060000Z
+SUMMARY:ЛК Программирование мобильных приложений
+UID:ac6a5c5bbce8cc0583fd00cc0833c8f1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1779,11 +1795,11 @@ UID:85619deced71bac7dec0034fd10ae0d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261019T150000Z
+DTEND:20261026T113000Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261019T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:f2fba166234440fc9169c7d679e1c421
+DTSTART:20261026T100000Z
+SUMMARY:ЛК Вычислительные системы\, сети и телекоммуникации
+UID:b3a1ebf266dc60a79327b91a5989fc20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1792,22 +1808,6 @@ LOCATION:ГУК А-518
 DTSTART:20261015T060000Z
 SUMMARY:ЛК Программирование мобильных приложений
 UID:e8d22e17f03905a32784c3c49dbb68e2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261026T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261026T100000Z
-SUMMARY:ЛК Вычислительные системы\, сети и телекоммуникации
-UID:b3a1ebf266dc60a79327b91a5989fc20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261130T150000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261130T133000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:04fc0c9f62932986c9e3798e227072d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
@@ -1834,6 +1834,14 @@ SUMMARY:ЛР Интеллектуальные системы
 UID:0f65df06bbf1f674fd87431f65a15e54
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261222T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261222T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:48beda971442a044fd2123d769b33961
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Григоревский Николай Владимирович
 DTEND:20261031T131500Z
 LOCATION:ГУК Б-330Б
@@ -1856,14 +1864,6 @@ LOCATION:ГУК Б-330Б
 DTSTART:20261209T151500Z
 SUMMARY:ЛР Информационная безопасность
 UID:983e79f714a8dba5093618dce1ce1f04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261110T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261110T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:14175b903a2cf794b3574e75db401dc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кос Оксана Игоревна
@@ -1898,12 +1898,12 @@ SUMMARY:ЛК Интеллектуальные системы
 UID:9c14c9c69840f4dcee62fac3e50b8f86
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чумаченко Вероника Алексеевна
-DTEND:20261207T131500Z
-LOCATION:24-721
-DTSTART:20261207T114500Z
-SUMMARY:ПЗ Основы автоматизированного проектирования технических систем
-UID:7e5a769a7c5e2beab486bb604befcf23
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261013T113000Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261013T100000Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:496e670181e55d0e5a11a606417670f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
@@ -1914,12 +1914,20 @@ SUMMARY:ПЗ Математическое моделирование в техн
 UID:c333ff9cf0ded22fec84a001e191d7f2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261013T113000Z
+DESCRIPTION:Чумаченко Вероника Алексеевна
+DTEND:20261207T131500Z
+LOCATION:24-721
+DTSTART:20261207T114500Z
+SUMMARY:ПЗ Основы автоматизированного проектирования технических систем
+UID:7e5a769a7c5e2beab486bb604befcf23
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261124T131500Z
 LOCATION:ГУК Б-330Б
-DTSTART:20261013T100000Z
+DTSTART:20261124T114500Z
 SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:36c36e74168590faa190b88903c1fc0e
+UID:216b72c3b9465ea20b73477c39e0dd8a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Григоревский Николай Владимирович
@@ -2058,14 +2066,6 @@ SUMMARY:ЛК Вычислительные системы\, сети и теле�
 UID:306dbd72aeb217ac4808565cb506b802
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261222T113000Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261222T100000Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:0c01e92f7614fb3356c3ad57a482c298
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
 DTEND:20261009T091500Z
 LOCATION:3-437
@@ -2122,6 +2122,14 @@ SUMMARY:ЛР Информационная безопасность
 UID:a2a65f977dde906d6af1fa1b0bfca5bf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Богданова Софья Борисовна
+DTEND:20261116T131500Z
+LOCATION:ГУК Б-330Б
+DTSTART:20261116T114500Z
+SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
+UID:6d23c0d0a7cafa14841679bef1901c4c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
 DTEND:20260917T131500Z
 LOCATION:5-401
@@ -2136,14 +2144,6 @@ LOCATION:3-437
 DTSTART:20261113T074500Z
 SUMMARY:ЛК Математическое моделирование в технических системах
 UID:cce2528fe142d8088cdadad719c0aecf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевченко Валерий Павлович
-DTEND:20261222T131500Z
-LOCATION:ГУК Б-330Б
-DTSTART:20261222T114500Z
-SUMMARY:ЛР Вычислительные системы\, сети и телекоммуникации
-UID:0f2ca34b708ee2d6d355a5d8474e26b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гладков Сергей Октябринович
