@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260916T183000Z
-LOCATION:Орш. А-406
-DTSTART:20260916T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:847fb63c2e1c69495f250c3fb94377fd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Заборов Михаил Александрович
 DTEND:20270119T164500Z
 LOCATION:3-109
@@ -49,12 +42,28 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:098becd1637efbd2fde5c78701d44450
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260916T164500Z
+LOCATION:Орш. А-406
+DTSTART:20260916T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:7ab7fefe82f8c65d3fb6207983c9ad00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Заборов Михаил Александрович
 DTEND:20260922T164500Z
 LOCATION:3-435
 DTSTART:20260922T151500Z
 SUMMARY:ЛК Технологии разработки программного обеспечения
 UID:f1e4e741780165c2c8ae1135b799632a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261014T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261014T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:3b5f9daeeefcc36c477c76dfe29b86db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Собко Сергей Леонидович
@@ -79,13 +88,6 @@ LOCATION:3-317
 DTSTART:20261013T151500Z
 SUMMARY:ПЗ Технологии разработки программного обеспечения
 UID:c3bfe3909f1613f5b9d91e1d2a193044
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260930T164500Z
-LOCATION:Орш. А-406
-DTSTART:20260930T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:daee4c789f5408fb182ea8a9c3307cf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Собко Сергей Леонидович
@@ -136,13 +138,6 @@ SUMMARY:ПЗ Проектирование и сопровождение баз �
 UID:0f04d6e12b7b5662357cf177bf92cb17
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261014T164500Z
-LOCATION:Орш. А-406
-DTSTART:20261014T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:1c9a883661309e04b52c5a9ff54352b1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Собко Сергей Леонидович
 DTEND:20261009T164500Z
 LOCATION:3-435
@@ -167,19 +162,20 @@ SUMMARY:ПЗ Информационная безопасность
 UID:334ff2c603b12ba00a93efc5d93b570c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260930T183000Z
+LOCATION:Орш. А-406
+DTSTART:20260930T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:090ff15b49f3f26f0d67517ca7e6ff44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261005T164500Z
 LOCATION:3-435
 DTSTART:20261005T151500Z
 SUMMARY:ЛК Информационная безопасность
 UID:1b891bd68e162ae016e0236162dcc0ae
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261111T164500Z
-LOCATION:Орш. А-406
-DTSTART:20261111T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:578ffc241ebf6f1064cacb9b3e0efa09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
@@ -214,13 +210,6 @@ SUMMARY:ПЗ Проектирование и сопровождение баз �
 UID:7781cf9683e46b163419eb93bc06fdb0
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261223T183000Z
-LOCATION:Орш. А-406
-DTSTART:20261223T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:bb2fa9a8074a79a01ff34168d7cc1718
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261221T164500Z
 LOCATION:3-317
@@ -235,13 +224,6 @@ LOCATION:3-317
 DTSTART:20261013T170000Z
 SUMMARY:ПЗ Технологии разработки программного обеспечения
 UID:f24885293eb2fe83deaf53bc7f683888
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260916T164500Z
-LOCATION:Орш. А-406
-DTSTART:20260916T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:a8abab5ae3284bcaf5b46efdc4a4bc25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
@@ -276,11 +258,12 @@ SUMMARY:ЛК Информационная безопасность
 UID:82f5ed0444627dd08d97d780e5c2823a
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261223T164500Z
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261223T183000Z
 LOCATION:Орш. А-406
-DTSTART:20261223T151500Z
+DTSTART:20261223T170000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:f4f9e8821f6f488d4efffecde0f127e7
+UID:807417924a73a4a267498ff3376612dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Собко Сергей Леонидович
@@ -307,6 +290,14 @@ SUMMARY:ЛК Проектирование и сопровождение баз �
 UID:4ad947c8b8b53c86e305df9b3ff75c80
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261209T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261209T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:83402d6cea23096be8ed6cea8409b08e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Васильев Федор Владимирович
 DTEND:20260917T183000Z
 LOCATION:3-435
@@ -329,6 +320,14 @@ LOCATION:3-317
 DTSTART:20261205T074500Z
 SUMMARY:ЛР Проектирование и сопровождение баз данных
 UID:96388babb92e929960595b04a8c73e12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260916T183000Z
+LOCATION:Орш. А-406
+DTSTART:20260916T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:88aa3524f7d59831c1eab86306b19a58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
@@ -395,6 +394,14 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:957749dae99b1bbd896487bda4a13baf
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261028T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261028T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:50d718dadf14d085f711b5e81c787a35
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261228T183000Z
 LOCATION:3-317
@@ -427,6 +434,14 @@ SUMMARY:ЛР Вычислительные системы
 UID:dc2ff5b58dc67eb031cf2a66a24e0432
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261125T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261125T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:9c2ac036a59d03fc032aeb354bffd67f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Прокофьев Сергей Алексеевич
 DTEND:20261212T113000Z
 LOCATION:3-317
@@ -457,6 +472,14 @@ LOCATION:3-435
 DTSTART:20260919T074500Z
 SUMMARY:ЛК Проектирование и сопровождение баз данных
 UID:74302e7ff407f5d7662246d449f64e67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260902T183000Z
+LOCATION:Орш. А-406
+DTSTART:20260902T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:3d2eef2283ab368292ecaa38d2a7d6e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прокофьев Сергей Алексеевич
@@ -505,13 +528,6 @@ LOCATION:3-109
 DTSTART:20270119T170000Z
 SUMMARY:Экзамен Технологии разработки программного обеспечения
 UID:d81abd8dcbfd8a01d125e277387cad63
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261125T164500Z
-LOCATION:Орш. А-406
-DTSTART:20261125T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:3881de1fc75d277b8fd650c1de73b6dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прокофьев Сергей Алексеевич
@@ -650,26 +666,12 @@ SUMMARY:ЛР Технологии разработки программного 
 UID:cad8536aae60da77688e435b689b254f
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261111T183000Z
-LOCATION:Орш. А-406
-DTSTART:20261111T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:50e8c6f9c45a4c9f4990f30a9984100b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Степанов Алексей Сергеевич
 DTEND:20261024T091500Z
 LOCATION:3-317
 DTSTART:20261024T074500Z
 SUMMARY:ПЗ Проектирование и сопровождение баз данных
 UID:f3e7fc80c8aeda1dff1dddf9395a2a75
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261028T183000Z
-LOCATION:Орш. А-406
-DTSTART:20261028T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:b42f50693c9ebe2861a38bee0c7849e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Собко Сергей Леонидович
@@ -728,13 +730,6 @@ SUMMARY:ЛР Технологии разработки программного 
 UID:3696a98ea236c5d3c5006a166d4c0a08
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261028T164500Z
-LOCATION:Орш. А-406
-DTSTART:20261028T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:49b0893c29e3df27fee8e84609c933c7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261130T164500Z
 LOCATION:3-317
@@ -765,6 +760,14 @@ LOCATION:3-317
 DTSTART:20261225T151500Z
 SUMMARY:ЛР Вычислительные системы
 UID:6fcb9bee52f1237ee8336e6e3f2d11fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261125T183000Z
+LOCATION:Орш. А-406
+DTSTART:20261125T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:cee83e759e372cf6f39204ac36f86e8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Склеймин Юрий Борисович
@@ -831,20 +834,6 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:2ce48d7a1ccbc7a0c1452576fbf34cd4
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261209T164500Z
-LOCATION:Орш. А-406
-DTSTART:20261209T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:d757066e024bdda10d6d9f308f6b62de
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261014T183000Z
-LOCATION:Орш. А-406
-DTSTART:20261014T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:de33aed9a27e4c612528f2209c45e857
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261207T183000Z
 LOCATION:3-317
@@ -867,6 +856,14 @@ LOCATION:3-435
 DTSTART:20261030T151500Z
 SUMMARY:ЛК Вычислительные системы
 UID:1ea38be125e81539202f6d0b0eeba23d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261111T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261111T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:fefad3d1bbf42c4b2eeada1823ef4e3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Склеймин Юрий Борисович
@@ -933,6 +930,22 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:02e1cfbdf37a757786277ab02e9485ca
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261223T164500Z
+LOCATION:Орш. А-406
+DTSTART:20261223T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:32fa843079287252d38d98c6bf5e29e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260930T164500Z
+LOCATION:Орш. А-406
+DTSTART:20260930T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:e2c81dcd84df00846710651c5dfa0048
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Заборов Михаил Александрович
 DTEND:20261124T164500Z
 LOCATION:3-317
@@ -981,13 +994,6 @@ SUMMARY:ЛР Информационная безопасность
 UID:14ff03131083a6278fb1ee16203fcae1
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260902T164500Z
-LOCATION:Орш. А-406
-DTSTART:20260902T151500Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:094a6dcb66d2fbf5024ca1555aaf38eb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261102T164500Z
 LOCATION:3-435
@@ -1012,11 +1018,12 @@ SUMMARY:ЛК Вычислительные системы
 UID:d7fe8791260021f6001afd9a33dacb2d
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261209T183000Z
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261028T183000Z
 LOCATION:Орш. А-406
-DTSTART:20261209T170000Z
+DTSTART:20261028T170000Z
 SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:9ff7513908f57cd52d243cc647f34587
+UID:eb7ed97c932851ecdc8e669132c66387
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Склеймин Юрий Борисович
@@ -1033,6 +1040,14 @@ LOCATION:3-435
 DTSTART:20260911T151500Z
 SUMMARY:ЛК Вычислительные системы
 UID:139e2b2fc0ce8458280412001c0285d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261014T183000Z
+LOCATION:Орш. А-406
+DTSTART:20261014T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:0e00434aa641377ceca2bf58065e5ef7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Степанов Алексей Сергеевич
@@ -1075,20 +1090,6 @@ SUMMARY:ЛР Проектирование и сопровождение баз �
 UID:659c834d41ae1463bd89e4bdc6362ffb
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260930T183000Z
-LOCATION:Орш. А-406
-DTSTART:20260930T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:1a81c197fafa54523dd66fe1c208230e
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20260902T183000Z
-LOCATION:Орш. А-406
-DTSTART:20260902T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:8b3deecbd2040a50cca8cfade29c22d1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Клочкова Екатерина Николаевна
 DTEND:20261019T164500Z
 LOCATION:3-435
@@ -1103,6 +1104,30 @@ LOCATION:3-317
 DTSTART:20261124T170000Z
 SUMMARY:ЛР Технологии разработки программного обеспечения
 UID:4f2a0fc2ac830be03ee02abfbf3f4ab1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20260902T164500Z
+LOCATION:Орш. А-406
+DTSTART:20260902T151500Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:2e0656cb1bac709df0ad5457da3eb445
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261111T183000Z
+LOCATION:Орш. А-406
+DTSTART:20261111T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:15d5beeec461b110af9572d23b5a36c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20261209T183000Z
+LOCATION:Орш. А-406
+DTSTART:20261209T170000Z
+SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
+UID:8ef2fec5c28be558314e3f5b7a6374e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Васильев Федор Владимирович
@@ -1215,12 +1240,5 @@ LOCATION:3-317
 DTSTART:20261123T170000Z
 SUMMARY:ЛР Информационная безопасность
 UID:ba9157a2d1bf0c47c1c29fc7acef5825
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261125T183000Z
-LOCATION:Орш. А-406
-DTSTART:20261125T170000Z
-SUMMARY:ПЗ Профессиональное и научное общение на иностранном языке
-UID:cc254e36c128d9ffb57f08d09d41707d
 END:VEVENT
 END:VCALENDAR
